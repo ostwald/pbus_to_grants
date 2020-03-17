@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-08 20:28:18">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Development of a digital mobile solar tracker</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Sunil</given_name>
+              <surname>Baidar</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Natalie</given_name>
+              <surname>Kille</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ivan</given_name>
+              <surname>Ortega</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roman</given_name>
+              <surname>Sinreich</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David</given_name>
+              <surname>Thomson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James</given_name>
+              <surname>Hannigan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rainer</given_name>
+              <surname>Volkamer</surname>
+              <ORCID>https://orcid.org/0000-0002-0899-1369</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We have constructed and deployed a fast digital solar tracker aboard a moving ground-based platform. The tracker consists of two rotating mirrors, a lens, an imaging camera, and a motion compensation system that provides the Euler angles of the mobile platform in real time. The tracker can be simultaneously coupled to UV–Vis and Fourier transform infrared spectrometers, making it a versatile tool to measure the absorption of trace gases using solar incoming radiation. The integrated system allows the tracker to operate autonomously while the mobile laboratory is in motion. Mobile direct sun differential optical absorption spectroscopy (mobile DS-DOAS) observations using this tracker were conducted during summer 2014 as part of the Front Range Air Pollution and Photochemistry Experiment (FRAPPE) in Colorado, USA. We demonstrate an angular precision of 0.052° (about 1/10 of the solar disk diameter) during research drives and verify this tracking precision from measurements of the center to limb darkening (CLD, the changing appearance of Fraunhofer lines) in the mobile DS-DOAS spectra. The high photon flux from direct sun observation enables measurements of nitrogen dioxide (NO<sub>2</sub>) slant columns with high temporal resolution and reveals spatial detail in the variations of NO<sub>2</sub> vertical column densities (VCDs). The NO<sub>2</sub> VCD from DS-DOAS is compared with a co-located MAX-DOAS instrument. Overall good agreement is observed amid a highly heterogeneous air mass.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>08</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>963</first_page>
+            <last_page>972</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Colorado Department of Public Health and Environment
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100007590</assertion>
+              </assertion>
+              <assertion name="award_number">#14FAA64390</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-9-963-2016</doi>
+            <resource>https://www.atmos-meas-tech.net/9/963/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/9/963/2016/amt-9-963-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/amt-6-719-2013</doi>
+              <unstructured_citation>Baidar, S., Oetjen, H., Coburn, S., Dix, B., Ortega, I., Sinreich, R., and
+Volkamer, R.: The CU Airborne MAX-DOAS instrument: vertical profiling of
+aerosol extinction and trace gases, Atmos. Meas. Tech., 6, 719–739,
+https://doi.org/10.5194/amt-6-719-2013, 2013a.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.9734/BJECC/2013/5740</doi>
+              <unstructured_citation>Baidar, S., Volkamer, R., Alvarez II, R. J., Brewer, W. A., Davies, F.,
+Langford, A. O., Oetjen, H., Pearson, G., Senff, C. J., and Hardesty, R. M.:
+Combining active and passive airborne remote sensing to quantify NO2
+and Ox production near Bakersfield, CA, British Journal of Environment
+and Climate Change, 3, 566–586, https://doi.org/10.9734/BJECC/2013/5740, 2013b.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Bertleff, M.: Camera based sun tracking system for mobile platforms, Masters
+thesis, Karlsruhe Institute of Technology, Germany, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2002JD003078</doi>
+              <unstructured_citation>Bosch, H., Camy-Peyret, C., Chipperfield, M. P., Fitzenberger, R., Harder,
+H., Platt, U., and Pfeilsticker, K.: Upper limits of stratospheric IO and
+OIO inferred from center-to-limb-darkening-corrected balloon-borne solar
+occultation visible spectra: Implications for total gaseous iodine and
+stratospheric ozone, J. Geophys. Res.-Atmos., 108, 4455,
+https://doi.org/10.1029/2002JD003078, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Butz, A.: Case studies of stratospheric nitrogen, chlorine and iodine
+photochemistry based on balloon borne UV/Vis and IR absorption spectroscopy,
+PhD dissertation, Ruperto Carola University of Heidelberg, Germany, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/amt-4-2421-2011</doi>
+              <unstructured_citation>Coburn, S., Dix, B., Sinreich, R., and Volkamer, R.: The CU ground MAX-DOAS
+instrument: characterization of RMS noise limitations and first measurements
+near Pensacola, FL of BrO, IO, and CHOCHO, Atmos. Meas. Tech., 4, 2421–2439,
+https://doi.org/10.5194/amt-4-2421-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/1999JD900973</doi>
+              <unstructured_citation>Gil, M., Puentedura, O., Yela, M., and Cuevas, E.: Behavior of NO2 and
+O3 columns during the eclipse of February 26, 1998, as measured by
+visible spectroscopy, J. Geophys. Res.-Atmos., 105, 3583–3593,
+https://doi.org/10.1029/1999JD900973, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/amt-4-47-2011</doi>
+              <unstructured_citation>Gisi, M., Hase, F., Dohe, S., and Blumenstock, T.: Camtracker: a new camera
+controlled high precision solar tracker system for FTIR-spectrometers, Atmos.
+Meas. Tech., 4, 47–54, https://doi.org/10.5194/amt-4-47-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1038/193762a0</doi>
+              <unstructured_citation>Grainger, J. and Ring, J.: Anomalous Fraunhofer Line Profiles, Nature, 193,
+p. 762, https://doi.org/10.1038/193762a0, 1962.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Hestroffer, D. and Magnan, C.: Wavelength dependency of the Solar limb
+darkening, Astronom. Astrophys., 333, 338–342, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/amt-3-709-2010</doi>
+              <unstructured_citation>Ibrahim, O., Shaiganfar, R., Sinreich, R., Stein, T., Platt, U., and Wagner,
+T.: Car MAX-DOAS measurements around entire cities: quantification of
+NOx emissions from the cities of Mannheim and Ludwigshafen
+(Germany), Atmos. Meas. Tech., 3, 709–721, https://doi.org/10.5194/amt-3-709-2010,
+2010.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1002/2013JD020485</doi>
+              <unstructured_citation>Johansson, J. K. E., Mellqvist, J., Samuelsson, J., Offerle, B., Lefer, B.,
+Rappenglueck, B., Flynn, J., and Yarwood, G.: Emission measurements of
+alkenes, alkanes, SO2, and NO2 from stationary sources in
+southeast Texas over a 5 year period using SOF and mobile DOAS, J. Geophys.
+Res.-Atmos., 119, 1973–1991, https://doi.org/10.1002/2013JD020485, 2014a.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1002/2013JD020159</doi>
+              <unstructured_citation>Johansson, J. K. E., Mellqvist, J., Samuelsson, J., Offerle, B., Moldanova,
+J., Rappenglueck, B., Lefer, B., and Flynn, J.: Quantitative measurements
+and modeling of industrial formaldehyde emissions in the Greater Houston
+area during campaigns in 2009 and 2011, J. Geophys. Res.-Atmos., 119,
+4303–4322, https://doi.org/10.1002/2013JD020159, 2014b.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Kille, N., Baidar, S., Sinreich, R., Ortega, I., Cooper, O., Hannigan, J.,
+Hase, F., and Volkamer, R.: The CU Mobile Solar Occultation Flux instrument:
+measurements of NH3, C2H6, HCHO and NO2, in preparation,
+2016.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2008JD011682</doi>
+              <unstructured_citation>Mellqvist, J., Samuelsson, J., Johansson, J., Rivera, C., Lefer, B.,
+Alvarez, S., and Jolly, J.: Measurements of industrial emissions of alkenes
+in Texas using the solar occultation flux method, J. Geophys. Res.-Atmos.,
+115, D00F17, https://doi.org/10.1029/2008JD011682, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.3390/s120404074</doi>
+              <unstructured_citation>Merlaud, A., De Maziere, M., Hermans, C., and Cornet, A.: Equations for
+Solar Tracking, Sensors, 12, 4074–4090, https://doi.org/10.3390/s120404074, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Platt, U. and Stutz, J.: Differential Optical Absorption Spectroscopy:
+Principles and Applications, Springer Verlag, Heidelberg, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1016/j.jqsrt.2013.07.002</doi>
+              <unstructured_citation>Rothman, L. S., Gordon, I. E., Babikov, Y., Barbe, A., Benner, D. C.,
+Bernath, P. F., Birk, M., Bizzocchi, L., Boudon, V., Brown, L. R., Campargue,
+A., Chance, K., Cohen, E. A., Coudert, L. H., Devi, V. M., Drouin, B. J.,
+Fayt, A., Flaud, J., Gamache, R. R., Harrison, J. J., Hartmann, J.-M., Hill,
+C., Hodges, J. T., Jacquemart, D., Jolly, A., Lamouroux, J., Le Roy, R. J.,
+Li, G., Long, D. A., Lyulin, O. M., Mackie, C. J., Massie, S. T.,
+Mikhailenko, S., Mueller, H. S. P., Naumenko, O. V., Nikitin, A. V., Orphal,
+J., Perevalov, V., Perrin, A., Polovtseva, E. R., Richard, C., Smith, M. A.
+H., Starikova, E., Sung, K., Tashkun, S., Tennyson, J., Toon, G. C.,
+Tyuterev, Vl G., and Wagner, G.: The HITRAN 2012 molecular spectroscopic
+database, J. Quant. Spectrosc. Ra., 130, 4–50,
+https://doi.org/10.1016/j.jqsrt.2013.07.002, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/amt-7-625-2014</doi>
+              <unstructured_citation>Serdyuchenko, A., Gorshelev, V., Weber, M., Chehade, W., and Burrows, J. P.:
+High spectral resolution ozone absorption cross-sections – Part 2:
+Temperature dependence, Atmos. Meas. Tech., 7, 625–636,
+https://doi.org/10.5194/amt-7-625-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-11-10871-2011</doi>
+              <unstructured_citation>Shaiganfar, R., Beirle, S., Sharma, M., Chauhan, A., Singh, R. P., and
+Wagner, T.: Estimation of NOx emissions from Delhi using Car MAX-DOAS
+observations and comparison with OMI satellite data, Atmos. Chem. Phys., 11,
+10871–10887, https://doi.org/10.5194/acp-11-10871-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-10-11359-2010</doi>
+              <unstructured_citation>Sinreich, R., Coburn, S., Dix, B., and Volkamer, R.: Ship-based detection of
+glyoxal over the remote tropical Pacific Ocean, Atmos. Chem. Phys., 10,
+11359–11371, https://doi.org/10.5194/acp-10-11359-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1039/c3cp50968k</doi>
+              <unstructured_citation>Thalman, R. and Volkamer, R.: Temperature dependent absorption cross-sections
+of O2-O2 collision pairs between 340 and 630 nm and at
+atmospherically relevant pressure, Phys. Chem. Chem. Phys., 15, 15371–15381,
+https://doi.org/10.1039/c3cp50968k, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/S0022-4073(97)00168-4</doi>
+              <unstructured_citation>Vandaele, A., Hermans, C., Simon, P., Carleer, M., Colin, R., Fally, S.,
+Merienne, M., Jenouvrier, A., and Coquart, B.: Measurements of the NO2
+absorption cross-section from 42 000 cm−1 to 10 000 cm−1
+(238–1000 nm) at 220 K and 294 K, J. Quant. Spectrosc. Ra., 59, 171–184,
+https://doi.org/10.1016/S0022-4073(97)00168-4, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/j.jphotochem.2004.11.011</doi>
+              <unstructured_citation>Volkamer, R., Spietz, P., Burrows, J., and Platt, U.: High-resolution
+absorption cross-section of glyoxal in the UV-vis and IR spectral ranges, J.
+Photoch. Photobio. A, 172, 35–46, https://doi.org/10.1016/j.jphotochem.2004.11.011,
+2005.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/amt-8-2121-2015</doi>
+              <unstructured_citation>Volkamer, R., Baidar, S., Campos, T. L., Coburn, S., DiGangi, J. P., Dix, B.,
+Eloranta, E. W., Koenig, T. K., Morley, B., Ortega, I., Pierce, B. R.,
+Reeves, M., Sinreich, R., Wang, S., Zondlo, M. A., and Romashkin, P. A.:
+Aircraft measurements of BrO, IO, glyoxal, NO2, H2O,
+O2–O2 and aerosol extinction profiles in the tropics: comparison
+with aircraft-/ship-based in situ and lidar measurements, Atmos. Meas. Tech.,
+8, 2121–2148, https://doi.org/10.5194/amt-8-2121-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/2011JD016983</doi>
+              <unstructured_citation>Wang, S., Zhou, B., Wang, Z., Yang, S., Hao, N., Valks, P., Trautmann, T.,
+and Chen, L.: Remote sensing of NO2 emission from the central urban area
+of Shanghai (China) using the mobile DOAS technique, J. Geophys. Res.-Atmos.,
+117, D13305, https://doi.org/10.1029/2011JD016983, 2012.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/amt-9-963-2016-supplement</doi>
+                <resource>https://www.atmos-meas-tech.net/9/963/2016/amt-9-963-2016-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

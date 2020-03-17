@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-11 18:03:27">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>21</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The CAMELS data set: catchment attributes and meteorology for large-sample studies</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Nans</given_name>
+              <surname>Addor</surname>
+              <ORCID>https://orcid.org/0000-0002-6057-3930</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew J.</given_name>
+              <surname>Newman</surname>
+              <ORCID>https://orcid.org/0000-0001-8796-0861</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Naoki</given_name>
+              <surname>Mizukami</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martyn P.</given_name>
+              <surname>Clark</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We present a new data set of attributes for 671 catchments in the contiguous United States (CONUS) minimally impacted by human activities. This complements the daily time series of meteorological forcing and streamflow provided by Newman et al. (2015b). To produce this extension, we synthesized diverse and complementary data sets to describe six main classes of attributes at the catchment scale: topography, climate, streamflow, land cover, soil, and geology. The spatial variations among basins over the CONUS are discussed and compared using a series of maps. The large number of catchments, combined with the diversity of the attributes we extracted, makes this new data set well suited for large-sample studies and comparative hydrology. In comparison to the similar Model Parameter Estimation Experiment (MOPEX) data set, this data set relies on more recent data, it covers a wider range of attributes, and its catchments are more evenly distributed across the CONUS. This study also involves assessments of the limitations of the source data sets used to compute catchment attributes, as well as detailed descriptions of how the attributes were computed. The hydrometeorological time series provided by Newman et al. (2015b, <a href="https://doi.org/10.5065/D6MW2F4D" target="_blank">https://doi.org/10.5065/D6MW2F4D</a>) together with the catchment attributes introduced in this paper (<a href="https://doi.org/10.5065/D6G73C3Q" target="_blank">https://doi.org/10.5065/D6G73C3Q</a>) constitute the freely available CAMELS data set, which stands for Catchment Attributes and MEteorology for Large-sample Studies.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>20</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>5293</first_page>
+            <last_page>5313</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5065/D6G73C3Q</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5065/D6MW2F4D</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-21-5293-2017</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/21/5293/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/21/5293/2017/hess-21-5293-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1016/S0022-1694(96)03262-3</doi>
+              <unstructured_citation>Abdulla, F. A. and Lettenmaier, D. P.: Development of regional parameter estimation equations for a macroscale hydrologic model, J. Hydrol., 197, 230–257, https://doi.org/10.1016/S0022-1694(96)03262-3, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/2014WR015549</doi>
+              <unstructured_citation>Addor, N., Rössler, O., Köplin, N., Huss, M., Weingartner, R., and Seibert, J.: Robust changes and sources of uncertainty in the projected hydrological regimes of Swiss catchments, Water Resour. Res., 50, 7541–7562, https://doi.org/10.1002/2014WR015549, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5065/D6G73C3Q</doi>
+              <unstructured_citation>Addor, N., Newman, A. J., Mizukami, N., and Clark, M. P.: Catchment attributes for large-sample studies https://doi.org/10.5065/D6G73C3Q, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1002/2013WR013918</doi>
+              <unstructured_citation>Beck, H. E., Van Dijk, A. I. J. M., Miralles, D. G., De Jeu, R. A. M., Bruijnzeel, L. A., McVicar, T. R., and Schellekens, J.: Global patterns in base flow index and recession based on streamflow observations from 3394 catchments, Water Resour. Res., 49, 7843–7863, https://doi.org/10.1002/2013WR013918, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1002/2015WR018247</doi>
+              <unstructured_citation>Beck, H. E., van Dijk, A. I. J. M., Roo, A. de, Miralles, D. G., McVicar, T. R., Schellekens, J., and Bruijnzeel, L. A.: Global-scale regionalization of hydrologic model parameters, Water Resour. Res., 52, 3599–3622, https://doi.org/10.1002/2015WR018247, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Belward, A. E.: The IGBP-DIS global 1 km land cover data set “DISCover” - Proposal and implementation plans. Report of the Land Cover Working Group of the IGBP-DIS. IGBP-DIS Working Paper, No. 13, Stockholm, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/2014WR015692</doi>
+              <unstructured_citation>Berghuijs, W. R., Sivapalan, M., Woods, R. A., and Savenije, H. H. G.: Patterns of similarity of seasonal water balances: A window into streamflow variability over a range of time scales, Water Resour. Res., 50, 5638–5661, https://doi.org/10.1002/2014WR015692, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/joc.4544</doi>
+              <unstructured_citation>Berghuijs, W. R. and Woods, R. A.: A simple framework to quantitatively describe monthly precipitation and temperature climatology, Int. J. Climatol., 36, 3161–3174, https://doi.org/10.1002/joc.4544, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1002/9781119951001</doi>
+              <unstructured_citation>Beven, K. J.: Rainfall-Runoff Modelling: The Primer, 2nd Edn., Wiley-Blackwell, Chichester, UK, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/hess-20-2861-2016</doi>
+              <unstructured_citation>Bock, A. R., Hay, L. E., McCabe, G. J., Markstrom, S. L., and Atkinson, R. D.: Parameter regionalization of a monthly water balance model for the conterminous United States, Hydrol. Earth Syst. Sci., 20, 2861–2876, https://doi.org/10.5194/hess-20-2861-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/2015WR018115</doi>
+              <unstructured_citation>Boer-Euser, T. de, McMillan, H. K., Hrachowitz, M., Winsemius, H. C., and Savenije, H. H. G.: Influence of soil and climate on root zone storage capacity, Water Resour. Res., 52, 2009–2024, https://doi.org/10.1002/2015WR018115, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Brewer, C. A.: ColorBrewer, available from: http://colorbrewer2.org/, last access: 5 October 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1016/j.geoderma.2016.03.025</doi>
+              <unstructured_citation>Chaney, N. W., Wood, E. F., McBratney, A. B., Hempel, J. W., Nauman, T. W., Brungard, C. W., and Odgers, N. P.: POLARIS: A 30-meter probabilistic soil series map of the contiguous United States, Geoderma, 274, 54–67, https://doi.org/10.1016/j.geoderma.2016.03.025, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1002/hyp.7902</doi>
+              <unstructured_citation>Clark, M. P., McMillan, H. K., Collins, D. B. G., Kavetski, D., and Woods, R. A.: Hydrological field data from a modeller's perspective: Part 2: Process-based evaluation of model hypotheses, Hydrol. Process., 25, 523–543, https://doi.org/10.1002/hyp.7902, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1016/S0022-1694(00)00306-1</doi>
+              <unstructured_citation>Clausen, B. and Biggs, B. J. F.: Flow variables for ecological studies in temperate streams: Groupings based on covariance, J. Hydrol., 237, 184–197, https://doi.org/10.1016/S0022-1694(00)00306-1, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/WR020i006p00682</doi>
+              <unstructured_citation>Cosby, B. J., Hornberger, G. M., Clapp, R. B., and Ginn, T. R.: A Statistical Exploration of the Relationships of Soil Moisture Characteristics to the Physical Properties of Soils, Water Resour. Res., 20, 682–690, https://doi.org/10.1029/WR020i006p00682, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/JZ067i011p04335</doi>
+              <unstructured_citation>Court, A.: Measures of streamflow timing, J. Geophys. Res., 67, 4335–4339, https://doi.org/10.1029/JZ067i011p04335, 1962.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1002/2014WR016259</doi>
+              <unstructured_citation>Coxon, G., Freer, J., Westerberg, I. K., Wagener, T., Woods, R., and Smith, P. J.: A novel framework for discharge uncertainty quantification applied to 500 UK gauging stations, Water Resour. Res., 51, 5531–5546, https://doi.org/10.1002/2014WR016259, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/j.jhydrol.2005.07.031</doi>
+              <unstructured_citation>Duan, Q., Schaake, J., Andréassian, V., Franks, S., Goteti, G., Gupta, H. V., Gusev, Y. M., Habets, F., Hall, A., Hay, L., Hogue, T., Huang, M., Leavesley, G., Liang, X., Nasonova, O. N., Noilhan, J., Oudin, L., Sorooshian, S., Wagener, T., and Wood, E. F.: Model Parameter Estimation Experiment (MOPEX): An overview of science strategy and major results from the second and third workshops, J. Hydrol., 320, 3–17, https://doi.org/10.1016/j.jhydrol.2005.07.031, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Falcone, J. A.: GAGES-II: Geospatial Attributes of Gages for Evaluating Streamflow, Digital spatial data set 2011, available at: http://water.usgs.gov/GIS/metadata/usgswrd/XML/ gagesII_Sept2011.xml (last access: 10 October 2013), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Falkenmark, M. and Chapman, T.: Comparative hydrology An ecological approach to land and water resources Unesco, UNESCO, Paris, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/hyp.9726</doi>
+              <unstructured_citation>Fenicia, F., Kavetski, D., Savenije, H. H. G., Clark, M. P., Schoups, G., Pfister, L., and Freer, J.: Catchment properties, function, and conceptual model representation: is there a correspondence?, Hydrol. Process., 28, 2451–2467, https://doi.org/10.1002/hyp.9726, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/2010GL045565</doi>
+              <unstructured_citation>Gleeson, T., Smith, L., Moosdorf, N., Hartmann, J., Dürr, H. H., Manning, A. H., Van Beek, L. P. H., and Jellinek, A. M.: Mapping permeability over the surface of the Earth, Geophys. Res. Lett., 38, 1–6, https://doi.org/10.1029/2010GL045565, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1002/2014GL059856</doi>
+              <unstructured_citation>Gleeson, T., Moosdorf, N., Hartmann, J., and van Beek, L. P. H.: A glimpse beneath earth's surface: GLobal HYdrogeology MaPS (GLHYMPS) of permeability and porosity, Geophys. Res. Lett., 41, 3891–3898, https://doi.org/10.1002/2014GL059856, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/hess-18-463-2014</doi>
+              <unstructured_citation>Gupta, H. V., Perrin, C., Blöschl, G., Montanari, A., Kumar, R., Clark, M., and Andréassian, V.: Large-sample hydrology: a need to balance depth with breadth, Hydrol. Earth Syst. Sci., 18, 463–477, https://doi.org/10.5194/hess-18-463-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/WR016i005p00855</doi>
+              <unstructured_citation>Gupta, V. K., Waymire, E., and Wang, C. T.: A representation of an instantaneous unit hydrograph from geomorphology, Water Resour. Res., 16, 855–862, https://doi.org/10.1029/WR016i005p00855, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/hess-18-417-2014</doi>
+              <unstructured_citation>Harman, C. and Troch, P. A.: What makes Darwinian hydrology “Darwinian”? Asking a different kind of question about landscapes, Hydrol. Earth Syst. Sci., 18, 417–433, https://doi.org/10.5194/hess-18-417-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2010WR009656</doi>
+              <unstructured_citation>Harman, C. J., Troch, P. A., and Sivapalan, M.: Functional model of water balance variability at the catchment scale: 2. Elasticity of fast and slow runoff components to precipitation change in the continental United States, Water Resour. Res., 47, 1–12, https://doi.org/10.1029/2010WR009656, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2012GC004370</doi>
+              <unstructured_citation>Hartmann, J. and Moosdorf, N.: The new global lithological map database GLiM: A representation of rock properties at the Earth surface, Geochem. Geophy. Geosy., 13, 1–37, https://doi.org/10.1029/2012GC004370, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1371/journal.pone.0169748</doi>
+              <unstructured_citation>Hengl, T., Mendes De Jesus, J., Heuvelink, G. B. M., Gonzalez, M. R., Kilibarda, M., Blagotí, A., Shangguan, W., Wright, M. N., Geng, X., Bauer-Marschallinger, B., Guevara, M. A., Vargas, R., MacMillan, R. A., Batjes, N. H., Leenaars, J. G. B., Ribeiro, E., Wheeler, I., Mantel, S., and Kempen, B.: SoilGrids250m: Global Gridded Soil Information Based on Machine Learning, PLoS ONE, 12, e0169748, https://doi.org/10.1371/journal.pone.0169748, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1080/02626667.2013.803183</doi>
+              <unstructured_citation>Hrachowitz, M., Savenije, H. H. G., Blöschl, G., McDonnell, J. J., Sivapalan, M., Pomeroy, J. W., Arheimer, B., Blume, T., Clark, M. P., Ehret, U., Fenicia, F., Freer, J. E., Gelfan, A., Gupta, H. V., Hughes, D. A., Hut, R. W., Montanari, A., Pande, S., Tetzlaff, D., Troch, P. A., Uhlenbrook, S., Wagener, T., Winsemius, H. C., Woods, R. A., Zehe, E., and Cudennec, C.: A decade of Predictions in Ungauged Basins (PUB) – a review, Hydrolog. Sci. J., 58, 1198–1255, https://doi.org/10.1080/02626667.2013.803183, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2006WR005439</doi>
+              <unstructured_citation>Hundecha, Y., Ouarda, T. B. M. J., and Bárdossy, A.: Regional estimation of parameters of a rainfall-runoff model at ungauged watersheds using the “spatial” structures of the parameters within a canonical physiographic-climatic space, Water Resour. Res., 44, 1–13, https://doi.org/10.1029/2006WR005439, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.7158/W12-028.2013.17.1</doi>
+              <unstructured_citation>Ladson, A., Brown, R., Neal, B., and Nathan, R.: A standard approach to baseflow separation using the Lyne and Hollick filter, Aust. J. Water Resour., 17, 25–34, https://doi.org/10.7158/W12-028.2013.17.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1007/s00382-007-0278-1</doi>
+              <unstructured_citation>Lawrence, D. M. and Slater, A. G.: Incorporating organic soil into a global climate model, Clim. Dynam., 30, 145–160, https://doi.org/10.1007/s00382-007-0278-1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Lins, H. F.: USGS Hydro-Climatic Data Network 2009 (HCDN- 2009), US Geological Survey, Fact Sheet 2012–3047, RestonVA, USA, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/JCLI-D-12-00508.1</doi>
+              <unstructured_citation>Maurer, E. P., Wood, A. W., Adam, J. C., Lettenmaier, D. P., and Nijssen, B.: A Long-Term Hydrologically Based Dataset of Land Surface Fluxes and States for the Conterminous United States, J. Climate, 26, 9384–9392, https://doi.org/10.1175/JCLI-D-12-00508.1, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1016/j.jhydrol.2004.09.003</doi>
+              <unstructured_citation>McDonnell, J. J. and Woods, R.: On the need for catchment classification, J. Hydrol., 299, 2–3, https://doi.org/10.1016/j.jhydrol.2004.09.003, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/hyp.10419</doi>
+              <unstructured_citation>McMillan, H. K. and Westerberg, I. K.: Rating curve estimation under epistemic uncertainty, Hydrol. Process., 29, 1873–1882, https://doi.org/10.1002/hyp.10419, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1002/hyp.7841</doi>
+              <unstructured_citation>McMillan, H. K., Clark, M. P., Bowden, W. B., Duncan, M., and Woods, R. A.: Hydrological field data from a modeller's perspective: Part 1. Diagnostic tests for model structure, Hydrol. Process., 25, 511–522, https://doi.org/10.1002/hyp.7841, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Miller, D. A. and White, R. A.: A Conterminous United States Multilayer Soil Characteristics Dataset for Regional Climate and Hydrology Modeling, Earth Interact., 2, 1–26, https://doi.org/10.1175/1087-3562(1998)002&amp;amp;lt;0001:ACUSMS&amp;amp;gt;2.3.CO;2, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Newman, A., Sampson, K., Clark, M. P., Bock, A., Viger, R. J., and Blodgett, D.: A large-sample watershed-scale hydrometeorological dataset for the contiguous USA, Boulder, CO, UCAR/NCAR, https://doi.org/10.5065/D6MW2F4D, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/JHM-D-15-0026.1</doi>
+              <unstructured_citation>Newman, A. J., Clark, M. P., Craig, J., Nijssen, B., Wood, A., Gutmann, E., Mizukami, N., Brekke, L., and Arnold, J. R.: Gridded Ensemble Precipitation and Temperature Estimates for the Contiguous United States, J. Hydrometeorol., 16, 2481–2500, https://doi.org/10.1175/JHM-D-15-0026.1, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/hess-19-209-2015</doi>
+              <unstructured_citation>Newman, A. J., Clark, M. P., Sampson, K., Wood, A., Hay, L. E., Bock, A., Viger, R. J., Blodgett, D., Brekke, L., Arnold, J. R., Hopson, T., and Duan, Q.: Development of a large-sample watershed-scale hydrometeorological data set for the contiguous USA: data set characteristics and assessment of regional variability in hydrologic model performance, Hydrol. Earth Syst. Sci., 19, 209–223, https://doi.org/10.5194/hess-19-209-2015, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1002/rra.700</doi>
+              <unstructured_citation>Olden, J. D. and Poff, N. L.: Redundancy and the choice of hydrologic indices for characterizing streamflow regimes, River Res. Appl., 19, 101–121, https://doi.org/10.1002/rra.700, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1016/j.jhydrol.2008.05.021</doi>
+              <unstructured_citation>Oudin, L., Andréassian, V., Lerat, J., and Michel, C.: Has land cover a significant impact on mean annual streamflow? An international assessment using 1508 catchments, J. Hydrol., 357, 303–316, https://doi.org/10.1016/j.jhydrol.2008.05.021, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1002/2015MS000526</doi>
+              <unstructured_citation>Pelletier, J. D., Patrick D. Broxton, Hazenberg, P., Zeng, X., Troch, P. A., Niu, G.-Y., Williams, Z., Brunke, M. A., and Gochis, D.: A gridded global data set of soil, intact regolith, and sedimentary deposit thicknesses for regional and global land surface modeling, J. Adv. Model. Earth Syst., 8, 41–65, https://doi.org/10.1002/2015MS000526, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>R Core Team: R: A Language and Environment for Statistical Computing, available from: http://www.r-project.org/, last access: 1 August 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/90WR02501</doi>
+              <unstructured_citation>Rinaldo, A., Marani, A., and Rigon, R.: Geomorphological dispersion, Water Resour. Res., 27, 513–525, https://doi.org/10.1029/90WR02501, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/WR015i006p01409</doi>
+              <unstructured_citation>Rodríguez-Iturbe, I. and Valdés, J. B.: Geomorphologic Structure of Hydrologic Response, Water Resour. Res., 15, 1409–1420, https://doi.org/10.1029/WR015i006p01409, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/2000WR900330</doi>
+              <unstructured_citation>Sankarasubramanian, A., Vogel, R. M., and Limbrunner, J. F.: Climate elasticity of streamflow in the United States, Water Resour. Res., 37, 1771–1781, https://doi.org/10.1029/2000WR900330, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2008WR007327</doi>
+              <unstructured_citation>Samaniego, L., Kumar, R., and Attinger, S.: Multiscale parameter regionalization of a grid-based hydrologic model at the mesoscale, Water Resour. Res., 46, W05523, https://doi.org/10.1029/2008WR007327, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/hess-15-2895-2011</doi>
+              <unstructured_citation>Sawicz, K., Wagener, T., Sivapalan, M., Troch, P. A., and Carrillo, G.: Catchment classification: empirical analysis of hydrologic similarity based on catchment function in the eastern USA, Hydrol. Earth Syst. Sci., 15, 2895–2911, https://doi.org/10.5194/hess-15-2895-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Schaake, J., Cong, S. Z., and Duan, Q. Y.: The US MOPEX data set, IAHS-AISH P. 307, 9–28, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1016/S0168-1923(99)00105-7</doi>
+              <unstructured_citation>Seibert, J.: Regionalisation of parameters for a conceptual rainfall-runoff model, Agr. Forest Meteorol., 98–99, 279–293, https://doi.org/10.1016/S0168-1923(99)00105-7, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1002/2016GL072089</doi>
+              <unstructured_citation>Seybold, H., Rothman, D. H., and Kirchner, J. W.: Climate's watermark in the geometry of stream networks, Geophys. Res. Lett., 44, 2272–2280, https://doi.org/10.1002/2016GL072089, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Slack, J. R. and Landwehr, J. M.: Hydro-Climatic Data Network (HCDN): A US Geological Survey streamflow data set for the United States for the study of climate variations, 1874–1988, US Geological Survey, Open-File Report 92–129, Reston VA, USA, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1175/JCLI3321.1</doi>
+              <unstructured_citation>Stewart, I., Cayan, D., and Dettinger, M.: Changes toward earlier streamflow timing across western North America, J. Climate, 1136–1155, https://doi.org/10.1175/JCLI3321.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1029/2010WR009797</doi>
+              <unstructured_citation>Thompson, S. E., Harman, C. J., Konings, A. G., Sivapalan, M., Neal, A., and Troch, P. A.: Comparative hydrology across AmeriFlux sites: The variable roles of climate, vegetation, and groundwater, Water Resour. Res., 47, 1–17, https://doi.org/10.1029/2010WR009797, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Thornton, P. E., Thornton, M. M., Mayer, B. W., Wilhelmi, N., Wei, Y., and Cook, R. B.: Daymet: Daily surface weather on a 1km grid for North America, 1980–2012, available at: http://daymet.ornl.gov/ (last access: 20 January 2016), Oak Ridge National Laboratory Distributed Active Archive Center, Oak Ridge, Tennessee, USA, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1002/hyp.7358</doi>
+              <unstructured_citation>Troch, P. A., Martinez, G. F., Pauwels, V. R. N., Durcik, M., Sivapalan, M., Harman, C., Brooks, P. D., Gupta, H., and Huxman, T.: Climate and vegetation water use efficiency at catchment scales, Hydrol. Process., 23, 2409–2414, https://doi.org/10.1002/hyp.7358, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1002/2014WR015909</doi>
+              <unstructured_citation>Vano, J. A., Nijssen, B., and Lettenmaier, D. P.: Seasonal hydrologic responses to climate change in the Pacific Northwest, Water Resour. Res., 51, 1959–1976, https://doi.org/10.1002/2014WR015909, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Viger, R. J.: Preliminary spatial parameters for PRMS based on the Geospatial Fabric, NLCD2001 and SSURGO, US Geological Survey, https://doi.org/10.5066/F7WM1BF7, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Viger, R. J. and Bock, A.: GIS Features of the Geospatial Fabric for National Hydrologic Modeling, US Geological Survey, https://doi.org/10.5066/F7542KMD, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1029/2010WR009944</doi>
+              <unstructured_citation>Voepel, H., Ruddell, B., Schumer, R., Troch, P. A., Brooks, P. D., Neal, A., Durcik, M., and Sivapalan, M.: Quantifying the role of climate and landscape characteristics on hydrologic partitioning and vegetation response, Water Resour. Res., 47, 1–13, https://doi.org/10.1029/2010WR009944, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1111/j.1749-8198.2007.00039.x</doi>
+              <unstructured_citation>Wagener, T., Sivapalan, M., Troch, P., and Woods, R.: Catchment Classification and Hydrologic Similarity, Geogr. Compass, 1, 1–31, https://doi.org/10.1111/j.1749-8198.2007.00039.x, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/91WR00977</doi>
+              <unstructured_citation>Wallis, J. R., Lettenmaier, D. P., and Wood, E. F.: A daily hydroclimatological data set for the continental United States, Water Resour. Res., 27, 1657–1663, https://doi.org/10.1029/91WR00977, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.5194/hess-19-3951-2015</doi>
+              <unstructured_citation>Westerberg, I. K. and McMillan, H. K.: Uncertainty in hydrological signatures, Hydrol. Earth Syst. Sci., 19, 3951–3968, https://doi.org/10.5194/hess-19-3951-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1002/2015WR017635</doi>
+              <unstructured_citation>Westerberg, I. K., Wagener, T., Coxon, G., McMillan, H. K., Castellarin, A., Montanari, A., and Freer, J.: Uncertainty in hydrological signatures for gauged and ungauged catchments, Water Resour. Res., 52, 1847–1865, https://doi.org/10.1002/2015WR017635, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1016/j.advwatres.2009.06.011</doi>
+              <unstructured_citation>Woods, R. A.: Analytical model of seasonal climate impacts on snow hydrology: Continuous snowpacks, Adv. Water Resour., 32, 1465–1481, https://doi.org/10.1016/j.advwatres.2009.06.011, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2011JD016048</doi>
+              <unstructured_citation>Xia, Y., Mitchell, K., Ek, M., Sheffield, J., Cosgrove, B., Wood, E., Luo, L., Alonge, C., Wei, H., Meng, J., Livneh, B., Lettenmaier, D., Koren, V., Duan, Q., Mo, K., Fan, Y., and Mocko, D.: Continental-scale water and energy flux analysis and validation for the North American Land Data Assimilation System project phase 2 (NLDAS-2): 1. Intercomparison and application of model products, J. Geophys. Res., 117, D03109, https://doi.org/10.1029/2011jd016048, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Zeng, X.: Global Vegetation Root Distribution for Land Modeling, J. Hydrometeorol., 2, 525–530, https://doi.org/10.1175/1525-7541(2001)002&amp;amp;lt;0525:GVRDFL&amp;amp;gt;2.0.CO;2, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1029/2000WR900325</doi>
+              <unstructured_citation>Zhang, L., Dawes, W. R., and Walker, G. R.: Response of mean annual evapotranspiration to vegetation changes at catchment scale, Water Resour. Res., 37, 701–708, https://doi.org/10.1029/2000WR900325, 2001.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

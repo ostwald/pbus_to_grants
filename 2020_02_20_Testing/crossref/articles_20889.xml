@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 07:43:41">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>21</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The evolution of process-based hydrologic models: historical challenges and the collective quest for physical realism</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Martyn P.</given_name>
+              <surname>Clark</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Marc F. P.</given_name>
+              <surname>Bierkens</surname>
+              <ORCID>https://orcid.org/0000-0002-7411-6562</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Luis</given_name>
+              <surname>Samaniego</surname>
+              <ORCID>https://orcid.org/0000-0002-8449-4428</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ross A.</given_name>
+              <surname>Woods</surname>
+              <ORCID>https://orcid.org/0000-0002-5732-5979</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Remko</given_name>
+              <surname>Uijlenhoet</surname>
+              <ORCID>https://orcid.org/0000-0001-7418-4445</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Katrina E.</given_name>
+              <surname>Bennett</surname>
+              <ORCID>https://orcid.org/0000-0003-2433-8607</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Valentijn R. N.</given_name>
+              <surname>Pauwels</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xitian</given_name>
+              <surname>Cai</surname>
+              <ORCID>https://orcid.org/0000-0002-4798-4954</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew W.</given_name>
+              <surname>Wood</surname>
+              <ORCID>https://orcid.org/0000-0002-6231-0085</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christa D.</given_name>
+              <surname>Peters-Lidard</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The diversity in hydrologic models has historically led to great controversy on the <q>correct</q> approach to process-based hydrologic modeling, with debates centered on the adequacy of process parameterizations, data limitations and uncertainty, and computational constraints on model analysis. In this paper, we revisit key modeling challenges on requirements to (1) define suitable model equations, (2) define adequate model parameters, and (3) cope with limitations in computing power. We outline the historical modeling challenges, provide examples of modeling advances that address these challenges, and define outstanding research needs. We illustrate how modeling advances have been made by groups using models of different type and complexity, and we argue for the need to more effectively use our diversity of modeling approaches in order to advance our collective quest for physically realistic hydrologic models.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>11</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>3427</first_page>
+            <last_page>3440</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-21-3427-2017</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/21/3427/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/21/3427/2017/hess-21-3427-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Ajami, H., Khan, U., Tuteja, N. K., and Sharma, A.: Development of a computationally efficient semi-distributed hydrologic modeling application for soil moisture, lateral flow and runoff simulation, Environ. Modell. Softw., 85, 319–331, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/95WR03715</doi>
+              <unstructured_citation>Ambroise, B., Freer, J., and Beven, K.: Application of a generalized TOPMODEL to the small Ringelbach catchment, Vosges, France, Water Resour. Res., 32, 2147–2159, https://doi.org/10.1029/95wr03715, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1002/hyp.7808</doi>
+              <unstructured_citation>Balsamo, G., Pappenberger, F., Dutra, E., Viterbo, P., and van den Hurk, B.: A revised land hydrology in the ECMWF model: a step towards daily water flux prediction in a fully-closed water cycle, Hydrol. Process., 25, 1046–1054, https://doi.org/10.1002/hyp.7808, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/hess-21-2301-2017</doi>
+              <unstructured_citation>Baroni, G., Zink, M., Kumar, R., Samaniego, L., and Attinger, S.: Effects of uncertainty in soil properties on simulated hydrological states and fluxes at different spatio-temporal scales, Hydrol. Earth Syst. Sci., 21, 2301–2320, https://doi.org/10.5194/hess-21-2301-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2004WR003629</doi>
+              <unstructured_citation>Berne, A., Uijlenhoet, R., and Troch, P. A.: Similarity analysis of subsurface flow response of hillslopes with complex geometry, Water Resour. Res., 41, 9, https://doi.org/10.1029/2004WR003629, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Beven, K. and Germann, P.: Macropores and water flow in soils, Water Resour. Res., 18, 1311–1325, 1982.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1016/0022-1694(89)90101-7</doi>
+              <unstructured_citation>Beven, K.: Changing ideas in hydrology – the case of physically-based models, J. Hydrol., 105, 157–172, https://doi.org/10.1016/0022-1694(89)90101-7, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/hess-10-609-2006</doi>
+              <unstructured_citation>Beven, K.: Searching for the Holy Grail of scientific hydrology: Qt = (S, R, Δt)A as closure, Hydrol. Earth Syst. Sci., 10, 609–618, https://doi.org/10.5194/hess-10-609-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1080/02626667909491834</doi>
+              <unstructured_citation>Beven, K. J. and Kirkby, M. J.: A physically based, variable contributing area model of basin hydrology, Hydrolog. Sci. J., 24.1, 43–69, https://doi.org/10.1080/02626667909491834, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/hyp.343</doi>
+              <unstructured_citation>Beven, K. J.: Towards an alternative blueprint for a physically based digitally simulated hydrologic response modelling system, Hydrol. Process., 16, 189–206, https://doi.org/10.1002/hyp.343, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2011WR010982</doi>
+              <unstructured_citation>Beven, K. J. and Cloke, H. L.: Comment on “Hyperresolution global land surface modeling: Meeting a grand challenge for monitoring Earth's terrestrial water” by Eric F. Wood et al., Water Resour. Res., 48, https://doi.org/10.1029/2011WR010982, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Bierkens, M. and Van der Gaast, J.: Upscaling hydraulic conductivity: theory and examples from geohydrological studies, Nutr. Cycl. Agroecosys., 50, 193–207, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Bierkens, M. F.: Global hydrology 2015: State, trends, and directions, Water Resour. Res., 51, 4923–4947, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1002/hyp.3360090305</doi>
+              <unstructured_citation>Blöschl, G. and Sivapalan, M.: Scale issues in hydrological modelling: a review, Hydrol. Process., 9, 251–290, https://doi.org/10.1002/hyp.3360090305, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2010JG001593</doi>
+              <unstructured_citation>Bonan, G. B., Lawrence, P. J., Oleson, K. W., Levis, S., Jung, M., Reichstein, M., Lawrence, D. M., and Swenson, S. C.: Improving canopy processes in the Community Land Model version 4 (CLM4) using global flux fields empirically inferred from FLUXNET data, J. Geophys. Res.-Biogeo., 116, G02014, https://doi.org/10.1029/2010jg001593, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/gmd-7-2313-2014</doi>
+              <unstructured_citation>Brauer, C. C., Teuling, A. J., Torfs, P. J. J. F., and Uijlenhoet, R.: The Wageningen Lowland Runoff Simulator (WALRUS): a lumped rainfall-runoff model for catchments with shallow groundwater, Geosci. Model Dev., 7, 2313–2332, https://doi.org/10.5194/gmd-7-2313-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1002/hyp.10891</doi>
+              <unstructured_citation>Chaney, N. W., Metcalfe, P., and Wood, E. F.: HydroBlocks: A Field – scale Resolving Land Surface Model for Application Over Continental Extents, Hydrol. Process., https://doi.org/10.1002/hyp.10891, 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Chaney, N. W., Wood, E. F., McBratney, A. B., Hempel, J. W., Nauman, T. W., Brungard, C. W. and Odgers, N. P.: POLARIS: A 30-meter probabilistic soil series map of the contiguous United States, Geoderma, 274, 54–67, 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2007WR006735</doi>
+              <unstructured_citation>Clark, M. P., Slater, A. G., Rupp, D. E., Woods, R. A., Vrugt, J. A., Gupta, H. V., Wagener, T., and Hay, L. E.: Framework for Understanding Structural Errors (FUSE): A modular framework to diagnose differences between hydrological models, Water Resour. Res., 44, W00B02, https://doi.org/10.1029/2007WR006735, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2009WR008894</doi>
+              <unstructured_citation>Clark, M. P. and Kavetski, D.: Ancient numerical daemons of conceptual hydrological modeling: 1. Fidelity and efficiency of time stepping schemes, Water Resour. Res., 46, W10510, https://doi.org/10.1029/2009wr008894, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2011WR010745</doi>
+              <unstructured_citation>Clark, M. P., Hendrikx, J., Slater, A. G., Kavetski, D., Anderson, B., Cullen, N. J., Kerr, T., Hreinsson, E. O., and Woods, R. A.: Representing spatial variability of snow water equivalent in hydrologic and land-surface models: A review, Water Resour. Res., 47, W07539, https://doi.org/10.1029/2011wr010745, 2011a.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2010WR009827</doi>
+              <unstructured_citation>Clark, M. P., Kavetski, D., and Fenicia, F.: Pursuing the method of multiple working hypotheses for hydrological modeling, Water Resour. Res., 47, W09301, https://doi.org/10.1029/2010WR009827, 2011b.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/2015WR017096</doi>
+              <unstructured_citation>Clark, M. P., Fan, Y., Lawrence, D. L., Adam, J. C., Bolster, D., Gochis, D., Hooper, R. L., Kumar, M., Leung, L. R., Mackay, D. S., Maxwell, R. M., Shen, C., Swenson, S. C., and Zeng, X.: Improving the representation of hydrologic processes in Earth System Models, Water Resour. Res., 5929–5956, https://doi.org/10.1002/2015WR017096, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1002/2015WR017198</doi>
+              <unstructured_citation>Clark, M. P., Nijssen, B., Lundquist, J., Kavetski, D., Rupp, D., Woods, R., Gutmann, E., Wood, A., Brekke, L., Arnold, J., Gochis, D., and Rasmussen, R.: A unified approach to process-based hydrologic modeling. Part 1: Modeling concept, Water Resour. Res., 51, 2498–2514, https://doi.org/10.1002/2015WR017198, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1002/2015WR017910</doi>
+              <unstructured_citation>Clark, M. P., Schaefli, B., Schymanski, S. J., Samaniego, L., Luce, C. H., Jackson, B. M., Freer, J. E., Arnold, J. R., Dan Moore, R., Istanbulluoglu, E., and Ceola, S.: Improving the theoretical underpinnings of process-based hydrologic models, Water Resour. Res., 2350–2365, https://doi.org/10.1002/2015WR017910, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1002/2016JD025097</doi>
+              <unstructured_citation>Cuntz, M., Mai, J., Samaniego, L., Clark, M., Wulfmeyer, V., Branch, O., Attinger, S., and Thober, S.: The impact of standard and hard-coded parameters on the hydrologic fluxes in the Noah-MP land surface model, J. Geophys. Res.-Atmos., 121, 10676–10700, https://doi.org/10.1002/2016JD025097, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Dagan, G.: The significance of heterogeneity of evolving scales to transport in porous formations, Water Resour. Res., 30, 3327–3336, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/hess-19-823-2015</doi>
+              <unstructured_citation>de Graaf, I. E. M., Sutanudjaja, E. H., van Beek, L. P. H., and Bierkens, M. F. P.: A high-resolution global-scale groundwater model, Hydrol. Earth Syst. Sci., 19, 823–837, https://doi.org/10.5194/hess-19-823-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>De Graaf, I. E., van Beek, R. L., Gleeson, T., Moosdorf, N., Schmitz, O., Sutanudjaja, E. H., and Bierkens, M. F. P.: A global-scale two-layer transient groundwater model: Development and application to groundwater depletion, Adv. Water Res., 102, 53–67, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1017/CBO9780511535680</doi>
+              <unstructured_citation>Eagleson, P. S.: Ecohydrology: Darwinian expression of vegetation form and function, Cambridge University Press, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/94WR02820</doi>
+              <unstructured_citation>Famiglietti, J. S. and Wood, E. F.: Effects of spatial variability and scale on areally averaged evapotranspiration, Water Resour. Res., 31, 699–712, https://doi.org/10.1029/94wr02820, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Fan, Y. and Bras, R. L.: On the concept of a representative elementary area in catchment runoff, Hydrol. Process., 9, 821–832, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1038/ngeo2609</doi>
+              <unstructured_citation>Fan, Y.: Groundwater: How much and how old?, Nat. Geosci., 9, 93–94, https://doi.org/10.1038/ngeo2609, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1111/gfl.12114</doi>
+              <unstructured_citation>Fan, Y., Richard, S., Bristol, R., Peters, S., Ingebritsen, S., Moosdorf, N., Packman, A., Gleeson, T., Zaslavsky, I., and Peckham, S.: DigitalCrust–a 4D data system of material properties for transforming research on crustal fluid flow, Geofluids, 15, 372–379, https://doi.org/10.1111/gfl.12114, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Fatichi, S., Vivoni, E. R., Ogden, F. L., Ivanov, V. Y., Mirus, B., Gochis, D., Downer, C. W., Camporese, M., Davison, J. H., and Ebel, B.: An overview of current applications, challenges, and future trends in distributed process-based models in hydrology, J. Hydrol., 537, 45–60, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2010WR010174</doi>
+              <unstructured_citation>Fenicia, F., Kavetski, D., and Savenije, H. H. G.: Elements of a flexible approach for conceptual hydrological modeling: 1. Motivation and theoretical development, Water Resources Research, 47, W11510, https://doi.org/10.1029/2010wr010174, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1002/hyp.3360090313</doi>
+              <unstructured_citation>Flügel, W. A.: Delineating hydrological response units by geographical information system analyses for regional hydrological modelling using PRMS/MMS in the drainage basin of the River Bröl, Germany, Hydrol. Process., 9, 423–436, https://doi.org/10.1002/hyp.3360090313, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1016/0022-1694(69)90020-1</doi>
+              <unstructured_citation>Freeze, R. A. and Harlan, R.: Blueprint for a physically-based, digitally-simulated hydrologic response model, J. Hydrol., 9, 237–258, https://doi.org/10.1016/0022-1694(69)90020-1, 1969.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Gleason, C. J. and Smith, L. C.: Toward global mapping of river discharge using satellite images and at-many-stations hydraulic geometry, P. Natl. Acad. Sci. USA, 111, 4788–4791, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Gleeson, T., Moosdorf, N., Hartmann, J., and van Beek, L. P. H.: A glimpse beneath earth's surface: GLobal HYdrogeology MaPS (GLHYMPS) of permeability and porosity, Geophys. Res. Lett., 41, 3891–3898, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1002/2017WR020835</doi>
+              <unstructured_citation>Grant, G. E. and Dietrich, W. E.: The frontier beneath our feet, Water Resour. Res., https://doi.org/10.1002/2017WR020835, in press, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Grayson, R. and Blöschl, G.: Summary of pattern comparison and concluding remarks, Spatial Patterns in Catchment Hydrology: Observations and Modelling, Cambridge University Press, 404 pp., 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/92WR01258</doi>
+              <unstructured_citation>Grayson, R. B., Moore, I. D., and McMahon, T. A.: Physically based hydrologic modeling: 1. A terrain-based model for investigative purposes, Water Resour. Res., 28, 2639–2658, https://doi.org/10.1029/92wr01258, 1992a.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/92WR01259</doi>
+              <unstructured_citation>Grayson, R. B., Moore, I. D., and McMahon, T. A.: Physically based hydrologic modeling, 2. Is the concept realistic?, Water Resour. Res., 28, 2659–2666, https://doi.org/10.1029/92wr01259, 1992b.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1002/hyp.6989</doi>
+              <unstructured_citation>Gupta, H. V., Wagener, T., and Liu, Y. Q.: Reconciling theory with observations: elements of a diagnostic approach to model evaluation. Hydrol. Process., 22, 3802–3813, https://doi.org/10.1002/hyp.6989, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2011WR011044</doi>
+              <unstructured_citation>Gupta, H. V., Clark, M. P., Vrugt, J. A., Abramowitz, G., and Ye, M.: Towards a comprehensive assessment of model structural adequacy, Water Resour. Res., 48, W08301, https://doi.org/10.1029/2011wr011044, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/hess-18-417-2014</doi>
+              <unstructured_citation>Harman, C. and Troch, P. A.: What makes Darwinian hydrology “Darwinian”? Asking a different kind of question about landscapes, Hydrol. Earth Syst. Sci., 18, 417–433, https://doi.org/10.5194/hess-18-417-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Hartmann, A., Gleeson, T., Wada, Y., and Wagener, T.: Enhanced groundwater recharge rates and altered recharge sensitivity to climate variability through subsurface heterogeneity, P. Natl. Acad. Sci. USA, 114, 2842–2847, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2012GC004370</doi>
+              <unstructured_citation>Hartmann, J. and Moosdorf, N.: The new global lithological map database GLiM: A representation of rock properties at the Earth surface, Geochem. Geophy. Geosy., 13, 12, Q12004, https://doi.org/10.1029/2012GC004370, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Hazenberg, P., Fang, Y., Broxton, P., Gochis, D., Niu, G. Y., Pelletier, J., Troch, P. A., and Zeng, X.: A hybrid-3D hillslope hydrological model for use in Earth system models, Water Resour. Res., 51, 8218–8239, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1371/journal.pone.0169748</doi>
+              <unstructured_citation>Hengl, T., Mendes de Jesus, J., Heuvelink, G. B. M., Ruiperez Gonzalez, M., Kilibarda, M., Blagotić, A., Shangguan, W., Wright, M. N., Geng, X., Bauer-Marschallinger, B., Antonio Guevara, M., Vargas, R., MacMillan, R. A., Batjes, N. H., Leenaars, J. G. B., Ribeiro, E., Wheeler, I., Mantel, S., and Kempen, B.: SoilGrids250m: global gridded soil information based on Machine Learning, PLoS ONE, 12, e0169748, https://doi.org/10.1371/journal.pone.0169748, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1111/gwat.12330</doi>
+              <unstructured_citation>Hill, M. C., Kavetski, D., Clark, M., Ye, M., Arabi, M., Lu, D., Foglia, L., and Mehl, S.: Practical use of computationally frugal model analysis methods, Groundwater, 54, 159–170, https://doi.org/10.1111/gwat.12330, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Hopp, L. and McDonnell, J.: Connectivity at the hillslope scale: Identifying interactions between storm size, bedrock permeability, slope angle and soil depth, J. Hydrol., 376, 378–391, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/hess-2017-36</doi>
+              <unstructured_citation>Hrachowitz, M. and Clark, M.: HESS Opinions: The complementary merits of top-down and bottom-up modelling philosophies in hydrology, Hydrol. Earth Syst. Sci. Discuss., https://doi.org/10.5194/hess-2017-36, in review, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1016/j.jhydrol.2005.07.013</doi>
+              <unstructured_citation>Kavetski, D., Kuczera, G., and Franks, S. W.: Calibration of conceptual hydrological models revisited: 2. Improving optimisation and analysis, J. Hydrol., 320, 187–201, https://doi.org/10.1016/j.jhydrol.2005.07.013, 2006a.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1016/j.jhydrol.2005.07.012</doi>
+              <unstructured_citation>Kavetski, D., Kuczera, G., and Franks, S. W.: Calibration of conceptual hydrological models revisited: 1. Overcoming numerical artefacts, J. Hydrol., 320, 173–186, https://doi.org/10.1016/j.jhydrol.2005.07.012, 2006b.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1029/2009WR008896</doi>
+              <unstructured_citation>Kavetski, D. and Clark, M. P.: Ancient numerical daemons of conceptual hydrological modeling: 2. Impact of time stepping schemes on model analysis and prediction, Water Resour. Res., 46, W10511, https://doi.org/10.1029/2009wr008896, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1002/hyp.7899</doi>
+              <unstructured_citation>Kavetski, D. and Clark, M. P.: Numerical troubles in conceptual hydrology: Approximations, absurdities and impact on hypothesis testing, Hydrol. Process., 25, 661-670, https://doi.org/10.1002/hyp.7899, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Kim, C. P., Stricker, J. N. M., and Feddes, R. A.: Impact of soil heterogeneity on the water budget of the unsaturated zone, Water Resour. Res., 33, 991–999, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2005WR004362</doi>
+              <unstructured_citation>Kirchner, J.: Getting the right answers for the right reasons: Linking measurements, analyses, and models to advance the science of hydrology, Water Resour. Res., 42, W03S04, https://doi.org/10.1029/2005wr004362, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Klemeš, V.: Operational testing of hydrological simulation models, Hydrol. Sci. J., 31, 13–24, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/2009WR008730</doi>
+              <unstructured_citation>Kollet, S. J., Maxwell, R. M., Woodward, C. S., Smith, S., Vanderborght, J., Vereecken, H., and Simmer, C.: Proof of concept of regional scale hydrologic simulations at hydrologic resolution utilizing massively parallel computer resources, Water Resour. Res., 46, W04201, https://doi.org/10.1029/2009wr008730, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1029/1999JD900232</doi>
+              <unstructured_citation>Koren, V., Schaake, J., Mitchell, K., Duan, Q. Y., Chen, F., and Baker, J.: A parameterization of snowpack and frozen ground intended for NCEP weather and climate models, J. Geophys. Res.-Atmos., 104, 19569–19585, https://doi.org/10.1029/1999jd900232, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Kumar, M., Duffy, C. J., and Salvage, K. M.: A second-order accurate, finite volume–based, integrated hydrologic modeling (FIHM) framework for simulation of surface and subsurface flow, Vadose Zone J., 8, 873–890, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1029/2012WR012195</doi>
+              <unstructured_citation>Kumar, R., Samaniego, L., and Attinger, S.: Implications of distributed hydrologic model parameterization on water fluxes at multiple scales and locations, Water Resour. Res., 49, 360–379, https://doi.org/10.1029/2012wr012195, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Liston, G. E.: Representing subgrid snow cover heterogeneities in regional and global models, J. Climate, 17, 1381–1397, https://doi.org/10.1175/1520-0442(2004)017&amp;amp;lt;1381:rsschi&amp;amp;gt;2.0.co;2, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Luce, C. H., Tarboton, D. G., and Cooley, K. R.: Sub-grid parameterization of snow distribution for an energy and mass balance snow cover model, Hydrol. Process., 13, 1921–1933, https://doi.org/10.1002/(sici)1099-1085(199909)13:12/13&amp;amp;lt;1921::aid-hyp867&amp;amp;gt;3.3.co;2-j, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Mahrt, L.: Grid-averaged surface fluxes, Mon. Weather Rev., 115, 1550–1560, https://doi.org/10.1175/1520-0493(1987)115&amp;amp;lt;1550:gasf&amp;amp;gt;2.0.co;2, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1175/JHM422.1</doi>
+              <unstructured_citation>Maxwell, R. M. and Miller, N. L.: Development of a coupled land surface and groundwater model, J. Hydrometeor., 6, 233–247, https://doi.org/10.1175/jhm422.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1016/j.advwatres.2008.01.020</doi>
+              <unstructured_citation>Maxwell, R. M. and Kollet, S. J.: Quantifying the effects of three-dimensional subsurface heterogeneity on Hortonian runoff processes using a coupled numerical, stochastic approach, Adv. Water Resour., 31, 5, 807–817, https://doi.org/10.1016/j.advwatres.2008.01.020, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Maxwell, R. M.: A terrain-following grid transform and preconditioner for parallel, large-scale, integrated hydrologic modeling, Adv. Water Resour., 53, 109–117, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.5194/gmd-8-923-2015</doi>
+              <unstructured_citation>Maxwell, R. M., Condon, L. E., and Kollet, S. J.: A high-resolution simulation of groundwater and surface water over most of the continental US with the integrated hydrologic model ParFlow v3, Geosci. Model Dev., 8, 923–937, https://doi.org/10.5194/gmd-8-923-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Maxwell, R. M. and Condon, L. E.: Connections between groundwater flow and transpiration partitioning, Science, 353, 6297, 377–380, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>McDonnell, J. J.: A rationale for old water discharge through macropores in a steep, humid catchment, Water Resour. Res., 26, 2821–2832, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.5194/hess-20-1069-2016</doi>
+              <unstructured_citation>Melsen, L. A., Teuling, A. J., Torfs, P. J. J. F., Uijlenhoet, R., Mizukami, N., and Clark, M. P.: HESS Opinions: The need for process-based evaluation of large-domain hyper-resolution models, Hydrol. Earth Syst. Sci., 20, 1069–1079, https://doi.org/10.5194/hess-20-1069-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1002/2014WR015820</doi>
+              <unstructured_citation>Mendoza, P., Clark, M., Barlage, M., Rajagopalan, B., Samaniego, L., Abramowitz, G., and Gupta, H. V.: Are we unnecessarily constraining the agility of complex process-based models?, Water Resour. Res., 51, 716–728, https://doi.org/10.1002/2014WR015820, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Miller, D. A. and White, R. A.: A conterminous United States multilayer soil characteristics dataset for regional climate and hydrology modeling, Earth Interact., 2, 1–26, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1029/WR017i005p01367</doi>
+              <unstructured_citation>Moore, R. and Clarke, R.: A distribution function approach to rainfall runoff modeling, Water Resour. Res., 17, 1367–1382, https://doi.org/10.1029/WR017i005p01367, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1175/JHM-D-13-038.1</doi>
+              <unstructured_citation>Newman, A. J., Clark, M. P., Winstral, A., Marks, D., and Seyfried, M.: The Use of Similarity Concepts to Represent Sub-grid Variability in Land-Surface Models: Case Study in a Snowmelt Dominated Watershed, J. Hydrometeorol., 15, 1717–1738, https://doi.org/10.1175/JHM-D-13-038.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1029/2010JD015139</doi>
+              <unstructured_citation>Niu, G. Y., Yang, Z. L., Mitchell, K. E., Chen, F., Ek, M. B., Barlage, M., Kumar, A., Manning, K., Niyogi, D., Rosero, E., Tewari, M., and Xia, Y. L.: The community Noah land surface model with multiparameterization options (Noah-MP): 1. Model description and evaluation with local-scale measurements, J. Geophys. Res.-Atmos., 116, D12109, https://doi.org/10.1029/2010jd015139, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Paniconi, C. and Putti, M.: Physically based modeling in catchment hydrology at 50: Survey and outlook, Water Resour. Res., 51, 7090–7129, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1002/2015MS000526</doi>
+              <unstructured_citation>Pelletier, J. D., Broxton, P. D., Hazenberg, P., Zeng, X., Troch, P. A., Niu, G. Y., Williams, Z., Brunke, M. A., and Gochis, D.: A gridded global data set of soil, intact regolith, and sedimentary deposit thicknesses for regional and global land surface modeling, Journal of Advances in Modeling Earth Systems, 8, 41–65, https://doi.org/10.1002/2015MS000526, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Peters-Lidard, C. D., Clark, M., Samaniego, L., Verhoest, N. E. C., van Emmerik, T., Uijlenhoet, R., Achieng, K., Franz, T. E., and Woods, R.: Scaling, Similarity, and the Fourth Paradigm for Hydrology, Hydrol. Earth Syst. Sci. Discuss., https://doi.org/10.5194/hess-2016-695, in review, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Pokhrel, P., Yilmaz, K. K., and Gupta, H. V.: Multiple-criteria calibration of a distributed watershed model using spatial regularization and response signatures, J. Hydrol., 418, 49–60, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1029/2006WR005752</doi>
+              <unstructured_citation>Qu, Y. Z. and Duffy, C. J.: A semidiscrete finite volume formulation for multiprocess watershed simulation. Water Resour. Res., 43, W08419, https://doi.org/10.1029/2006wr005752, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Rakovec, O., Hill, M. C., Clark, M., Weerts, A., Teuling, A., and Uijlenhoet, R.: Distributed Evaluation of Local Sensitivity Analysis (DELSA), with application to hydrologic models, Water Resour. Res., 50, 409–426, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1175/JHM-D-15-0054.1</doi>
+              <unstructured_citation>Rakovec, O., Kumar, R., Mai, J., Cuntz, M., Thober, S., Zink, M., Attinger, S., Schafer, C., Schron, M., and Samaniego, L.: Multiscale and multivariate evaluation of water fluxes and states over European river basins, J. Hydrometeorol., 17, 287–307, https://doi.org/10.1175/JHM-D-15-0054.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1029/2011WR011527</doi>
+              <unstructured_citation>Razavi, S., Tolson, B. A., and Burn, D. H.: Review of surrogate modeling in water resources, Water Resour. Res., 48, W07401, https://doi.org/10.1029/2011WR011527, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.1016/S0309-1708(98)00012-8</doi>
+              <unstructured_citation>Reggiani, P., Sivapalan, M., and Hassanizadeh, S. M.: A unifying framework for watershed thermodynamics: balance equations for mass, momentum, energy and entropy, and the second law of thermodynamics, Adv. Water Resour., 22, 367–398, https://doi.org/10.1016/s0309-1708(98)00012-8, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <unstructured_citation>Reggiani, P., Sivapalan, M., Hassanizadeh, S. M., and Gray, W. G.: Coupled equations for mass and momentum balance in a stream network: theoretical derivation and computational experiments, P. Roy. Soc. A-Math. Phy., 457, 2005, 157–189, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Revilla-Romero, B., Wanders, N., Burek, P., Salamon, P., and de Roo, A.: ntegrating remotely sensed surface water extent into continental scale hydrology, J. Hydrol., 543, 659–670, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1175/JHM497.1</doi>
+              <unstructured_citation>Rigon, R., Bertoldi, G., and Over, T. M.: GEOtop: A distributed hydrological model with coupled water and energy budgets, J. Hydrometeorol., 7, 371–388, https://doi.org/10.1175/jhm497.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.1029/WR022i09Sp0015S</doi>
+              <unstructured_citation>Rodríguez-Iturbe, I.: Scale of fluctuation of rainfall models, Water Resour. Res., 22, 9S, 15S–37S, https://doi.org/10.1029/WR022i09Sp0015S, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>Rodríguez-Iturbe, I., Rinaldo, A., Rigon, R., Bras, R. L., Marani, A., and Ijjász-Vásquez, E.: Energy dissipation, runoff production, and the three-dimensional structure of river basins, Water Resour. Res., 28, 4, 1095–1103, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1029/2008WR007327</doi>
+              <unstructured_citation>Samaniego, L., Kumar, R., and Attinger, S.: Multiscale parameter regionalization of a grid-based hydrologic model at the mesoscale, Water Resour. Res., 46, W05523, https://doi.org/10.1029/2008wr007327, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Sánchez-Vila, X., Carrera, J., and Girardi, J. P.: Scale effects in transmissivity, J. Hydrol., 183, 1–22, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <unstructured_citation>Schaap, M. G., Leij, F. J., and Van Genuchten, M. T.: Rosetta: A computer program for estimating soil hydraulic parameters with hierarchical pedotransfer functions, J. Hydrol., 251, 163–176, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.5194/hess-2016-557</doi>
+              <unstructured_citation>Schalge, B., Rihani, J., Baroni, G., Erdal, D., Geppert, G., Haefliger, V., Haese, B., Saavedra, P., Neuweiler, I., Hendricks Franssen, H.-J., Ament, F., Attinger, S., Cirpka, O. A., Kollet, S., Kunstmann, H., Vereecken, H., and Simmer, C.: High-Resolution Virtual Catchment Simulations of the Subsurface-Land Surface-Atmosphere System, Hydrol. Earth Syst. Sci. Discuss., https://doi.org/10.5194/hess-2016-557, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1029/2008WR006841</doi>
+              <unstructured_citation>Schymanski, S., Sivapalan, M., Roderick, M., Hutley, L., and Beringer, J.: An optimality-based model of the dynamic feedbacks between natural vegetation and the water balance, Water Resour. Res., 45, W01412, https://doi.org/10.1029/2008WR006841, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <unstructured_citation>Schymanski, S. J., Kleidon, A., Stieglitz, M., and Narula, J.: Maximum entropy production allows a simple representation of heterogeneity in semiarid ecosystems, Philos. T. R. Soc. B, 365, 1545, 1449–1455, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <unstructured_citation>Scott, R. L., Cable, W. L., Huxman, T. E., Nagler, P. L., Hernandez, M., and Goodrich, D. C.: Multiyear riparian evapotranspiration and groundwater use for a semiarid watershed, J. Arid Environ., 72, 1232–1246, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1029/2001WR000978</doi>
+              <unstructured_citation>Seibert, J. and McDonnell, J. J.: On the dialog between experimentalist and modeler in catchment hydrology: Use of soft data for multicriteria model calibration, Water Resour. Res., 38, https://doi.org/10.1029/2001WR000978, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.1029/94WR02025</doi>
+              <unstructured_citation>Seyfried, M. and Wilcox, B.: Scale and the nature of spatial variability: Field examples having implications for hydrologic modeling, Water Resour. Res., 31, 173–184, https://doi.org/10.1029/94wr02025, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <doi provider="crossref">10.1002/hyp.7211</doi>
+              <unstructured_citation>Seyfried, M. S., Grant, L. E., Marks, D., Winstral, A., and McNamara, J.: Simulated soil water storage effects on streamflow generation in a mountainous snowmelt environment, Idaho, USA, Hydrol. Process., 23, 6, 858–873, https://doi.org/10.1002/hyp.7211, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.1002/2016MS000686</doi>
+              <unstructured_citation>Shangguan, W., Hengl, T., de Jesus, J. M., Yuan, H., and Dai, Y.: Mapping the global depth to bedrock for land surface modeling, J. Adv. Model. Earth Syst., 9, 65–88, https://doi.org/10.1002/2016MS000686, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.1029/2011JG001708</doi>
+              <unstructured_citation>Simard, M., Pinto, N., Fisher, J. B., and Baccini, A.: Mapping forest canopy height globally with spaceborne lidar, J. Geophys. Res.-Biogeo., 116, G04021, https://doi.org/10.1029/2011JG001708, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1029/WR023i012p02266</doi>
+              <unstructured_citation>Sivapalan, M., Beven, K., and Wood, E. F.: On hydrologic similarity. 2. A scaled model of storm runoff production, Water Resour. Res., 23, 2266–2278, https://doi.org/10.1029/WR023i012p02266, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.1002/hyp.1425</doi>
+              <unstructured_citation>Sivapalan, M., Blöschl, G., Zhang, L., and Vertessy, R.: Downward approach to hydrological prediction, Hydrol. Process., 17, 2101–2111, https://doi.org/10.1002/hyp.1425, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <unstructured_citation>Sivapalan, M., Savenije, H. H., and Blöschl, G.: Socio-hydrology: A new science of people and water, Hydrol. Process., 26, 1270–1276, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <doi provider="crossref">10.1002/hyp.1207</doi>
+              <unstructured_citation>Soet, M. and Stricker, J. N. M.: Functional behaviour of pedotransfer functions in soil water flow simulation, Hydrol. Process., 17, 1659–1670, https://doi.org/10.1002/hyp.1207, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.1029/2012JD018178</doi>
+              <unstructured_citation>Swenson, S. and Lawrence, D.: A new fractional snow-covered area parameterization for the Community Land Model and its effect on the surface energy balance, J. Geophys. Res.-Atmos., 117, D21, https://doi.org/10.1029/2012jd018178, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <unstructured_citation>Tague, C. and Band, L.: RHESSys: regional hydro-ecologic simulation system-an object-oriented approach to spatially distributed modeling of carbon, water, and nutrient cycling, Earth Interact., 8, 1–42, https://doi.org/10.1175/1087-3562(2004)8&amp;amp;lt;1:RRHSSO&amp;amp;gt;2.0.CO;2, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <doi provider="crossref">10.5194/hess-19-2079-2015</doi>
+              <unstructured_citation>Tangdamrongsub, N., Steele-Dunne, S. C., Gunter, B. C., Ditmar, P. G., and Weerts, A. H.: Data assimilation of GRACE terrestrial water storage estimates into a regional hydrological model of the Rhine River basin, Hydrol. Earth Syst. Sci., 19, 2079–2100, https://doi.org/10.5194/hess-19-2079-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <unstructured_citation>Tetzlaff, D., Seibert, J., McGuire, K., Laudon, H., Burns, D. A., Dunn, S., and Soulsby, C.: How does landscape structure influence catchment transit time across different geomorphic provinces?, Hydrol. Process., 23, 945–953, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <doi provider="crossref">10.1002/2017WR020838</doi>
+              <unstructured_citation>Tetzlaff, D., Carey, S. K., McNamara, J. P., Laudon, H., and Soulsby, C.: The essential value of long-term experimental data for hydrology and water management, Water Resour. Res., 53, 2598–2604, https://doi.org/10.1002/2017WR020838, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <doi provider="crossref">10.1029/2002WR001728</doi>
+              <unstructured_citation>Troch, P. A., Paniconi, C., and van Loon, E. E.: Hillslope storage Boussinesq model for subsurface flow and variable source areas along complex hillslopes: 1. Formulation and characteristic response, Water Resour. Res., 39, 1316, https://doi.org/10.1029/2002wr001728, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <unstructured_citation>Tromp-van Meerveld, I. and Weiler, M.: Hillslope dynamics modeled with increasing complexity, J. Hydrol., 361, 24–40, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <doi provider="crossref">10.1029/2004WR003778</doi>
+              <unstructured_citation>Tromp-van Meerveld, H. and McDonnell, J.: Threshold relations in subsurface stormflow: 1. A 147-storm analysis of the Panola hillslope, Water Resour. Res., 42, W02410, https://doi.org/10.1029/2004WR003778, 2006a.</unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <doi provider="crossref">10.1029/2004WR003800</doi>
+              <unstructured_citation>Tromp-van Meerveld, H. and McDonnell, J.: Threshold relations in subsurface stormflow: 2. The fill and spill hypothesis, Water Resour. Res., 42, W02411, https://doi.org/10.1029/2004WR003800, 2006b.</unstructured_citation>
+            </citation>
+            <citation key="ref120">
+              <doi provider="crossref">10.1029/2007WR006513</doi>
+              <unstructured_citation>Troy, T. J., Wood, E. F., and Sheffield, J.: An efficient calibration method for continental-scale land surface modeling, Water Resour. Res., 44, W09411, https://doi.org/10.1029/2007WR006513, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref121">
+              <doi provider="crossref">10.2136/sssaj1980.03615995004400050002x</doi>
+              <unstructured_citation>Van Genuchten, M. T.: A closed-form equation for predicting the hydraulic conductivity of unsaturated soils, Soil Sci. Soc. Am. J., 44.5, 892–898, https://doi.org/10.2136/sssaj1980.03615995004400050002x, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref122">
+              <doi provider="crossref">10.1002/wrcr.20354</doi>
+              <unstructured_citation>Vrugt, J. A. and Sadegh, M.: Toward diagnostic model calibration and evaluation: Approximate Bayesian computation, Water Resour. Res., 49, 4335-4345, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref123">
+              <doi provider="crossref">10.5194/esd-5-15-2014</doi>
+              <unstructured_citation>Wada, Y., Wisser, D., and Bierkens, M. F. P.: Global modeling of withdrawal, allocation and consumptive use of surface water and groundwater resources, Earth Syst. Dynam., 5, 15–40, https://doi.org/10.5194/esd-5-15-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref124">
+              <doi provider="crossref">10.1016/S0168-1923(98)00061-6</doi>
+              <unstructured_citation>Wang, Y.-P. and Leuning, R.: A two-leaf model for canopy conductance, photosynthesis and partitioning of available energy I: Model description and comparison with a multi-layered model, Agr. Forest Meteorol., 91, 89–111, https://doi.org/10.1016/s0168-1923(98)00061-6, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref125">
+              <doi provider="crossref">10.1002/2014WR016731</doi>
+              <unstructured_citation>Weiler, M. and Beven, K.: Do we need a Community Hydrological Model?, Water Resour. Res., 51, 7777–7784, https://doi.org/10.1002/2014WR016731, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref126">
+              <doi provider="crossref">10.1016/0022-1694(88)90090-X</doi>
+              <unstructured_citation>Wood, E. F., Sivapalan, M., Beven, K., and Band, L.: Effects of spatial variability and scale with implications to hydrologic modeling, J. Hydrol., 102, 29–47, https://doi.org/10.1016/0022-1694(88)90090-x, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref127">
+              <doi provider="crossref">10.1029/91JD01786</doi>
+              <unstructured_citation>Wood, E. F., Lettenmaier, D. P., and Zartarian, V. G.: A land surface hydrology parameterization with sub grid variability for general circulation models, J. Geophys. Res.-Atmos., 97, 2717–2728, https://doi.org/10.1029/91jd01786, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref128">
+              <unstructured_citation>Wood, E. F., Boll, J., Bogaart, P., and Troch, P.: The Need for a Virtual Hydrologic Laboratory for PUB, IAHS-AISH P., 301, 189–203, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref129">
+              <unstructured_citation>Wood, E. F., Roundy, J. K., Troy, T. J., van Beek, L. P. H., Bierkens, M. F. P., Blyth, E., de Roo, A., Döll, P., Ek, M., Famiglietti, J., Gochis, D., van de Giesen, N., Houser, P., Jaffé, P. R., Kollet, S., Lehner, B., Lettenmaier, D. P., Peters-Lidard, C., Sivapalan, M., Sheffield, J., Wade, A., and Whitehead, P.: Hyperresolution global land surface modeling: Meeting a grand challenge for monitoring Earth's terrestrial water, Water Resour. Res., 47, W05301, https://doi.org/10.1029/2010wr010090, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref130">
+              <unstructured_citation>Wood, E. F., Roundy, J. K., Troy, T. J., van Beek, L. P. H., Bierkens, M. F. P., Blyth, E., de Roo, A., Döll, P., Ek, M., Famiglietti, J., Gochis, D., van de Giesen, N., Houser, P., Jaffé, P. R., Kollet, S., Lehner, B., Lettenmaier, D. P., Peters-Lidard, C., Sivapalan, M., Sheffield, J., Wade, A., and Whitehead, P.: Reply to comment by Keith J. Beven and Hannah L. Cloke on “Hyperresolution global land surface modeling: Meeting a grand challenge for monitoring Earth's terrestrial water”, Water Resour. Res., 48, W01802, https://doi.org/10.1029/2011wr011202, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref131">
+              <unstructured_citation>Yadav, M., Wagener, T., and Gupta, H.: Regionalization of constraints on expected watershed response behavior for improved predictions in ungauged basins, Adv. Water Resour., 30, 1756–1774, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref132">
+              <doi provider="crossref">10.1029/2007WR006716</doi>
+              <unstructured_citation>Yilmaz, K. K., Gupta, H. V., and Wagener, T.: A process-based diagnostic approach to model evaluation: Application to the NWS distributed hydrologic model, Water Resour. Res., 44, W09417, https://doi.org/10.1029/2007wr006716, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref133">
+              <doi provider="crossref">10.5194/hess-18-4635-2014</doi>
+              <unstructured_citation>Zehe, E., Ehret, U., Pfister, L., Blume, T., Schröder, B., Westhoff, M., Jackisch, C., Schymanski, S. J., Weiler, M., Schulz, K., Allroggen, N., Tronicke, J., van Schaik, L., Dietrich, P., Scherer, U., Eccard, J., Wulfmeyer, V., and Kleidon, A.: HESS Opinions: From response units to functional units: a thermodynamic reinterpretation of the HRU concept to link spatial organization and functioning of intermediate scale catchments, Hydrol. Earth Syst. Sci., 18, 4635–4655, https://doi.org/10.5194/hess-18-4635-2014, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

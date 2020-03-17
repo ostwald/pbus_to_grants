@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>8</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Background error covariance with balance constraints for aerosol species and
+applications in variational data assimilation</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Zengliang</given_name>
+              <surname>Zang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zilong</given_name>
+              <surname>Hao</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yi</given_name>
+              <surname>Li</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xiaobin</given_name>
+              <surname>Pan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Wei</given_name>
+              <surname>You</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zhijin</given_name>
+              <surname>Li</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Chen</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Balance constraints are important for background error covariance (BEC) in data assimilation to spread information between different variables and produce balance analysis fields. Using statistical regression, we develop a balance constraint for the BEC of aerosol variables and apply it to a three-dimensional variational data assimilation system in the WRF/Chem model; 1-month forecasts from the WRF/Chem model are employed for BEC statistics. The cross-correlations between the different species are generally high. The largest correlation occurs between elemental carbon and organic carbon with as large as 0.9. After using the balance constraints, the correlations between the unbalanced variables reduce to less than 0.2. A set of data assimilation and forecasting experiments is performed. In these experiments, surface PM<sub>2.5</sub> concentrations and speciated concentrations along aircraft flight tracks are assimilated. The analysis increments with the balance constraints show spatial distributions more complex than those without the balance constraints, which is a consequence of the spreading of observation information across variables due to the balance constraints. The forecast skills with the balance constraints show substantial and durable improvements from the 2nd hour to the 16th hour compared with the forecast skills without the balance constraints. The results suggest that the developed balance constraints are important for the aerosol assimilation and forecasting.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>10</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>2623</first_page>
+            <last_page>2638</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">41275128</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-2623-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/2623/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/2623/2016/gmd-9-2623-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Bannister, R. N.: A review of forecast error covariance statistics in atmospheric variational data assimilation. I: Characteristics and measurements of forecast error covariances, Q. J. Roy. Meteor. Soc., 134, 1951–1970, 2008a.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Bannister, R. N.: A review of forecast error covariance statistics in atmospheric variational data assimilation. II: Modelling the forecast error covariance statistics, Q. J. Roy. Meteor. Soc., 134, 1971–1996, 2008b.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Barker, D. M., Huang, W., Guo, Y. R., and Xiao, Q. N.: A Three-Dimensional (3DVAR) data assimilation system for use with MM5: implementation and initial results, Mon. Weather Rev., 132, 897–914, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Benedetti, A. and Fisher, M.: Background error statistics for aerosols, Q. J. Roy. Meteor. Soc., 133, 391–405, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Chen, Y., Rizvi, S., Huang, X., Min, J., and Zhang, X.: Balance characteristics of multivariate background error covariances and their impact on analyses and forecasts in tropical and Arctic regions, Meteorol. Atmos. Phys., 121, 79–98, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Cohn, S. E.: Estimation theory for data assimilation problems: Basic conceptual framework and some open questions, J. Meteorol. Soc. Jpn., 75, 257–288, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2006JD008103</doi>
+              <unstructured_citation>Constantinescu, E. M., Chai, T., Sandu, A., and Carmichael, G. R.: Autoregressive models of background errors for chemical data assimilation, J. Geophys. Res., 112, D12309, https://doi.org/10.1029/2006JD008103, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Derber, J. and Bouttier, F.: A reformulation of the background error covariance in the ECMWF global data assimilation system, Tellus, 51, 195–221, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Geller, M. D., Fine, P. M., and Sioutas, C.: The relationship between real-time and time-integrated coarse (2.5–10 m), intermodal (1–2.5 m), and fine ( &amp;amp;lt;  2.5 m) particulate matter in the Los Angeles basin, J. Air Waste Manage., 54, 1029–1039, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.04.027</doi>
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock, W. C., and Eder, B.: Fully coupled “online” chemistry within the WRF model, Atmos. Environ., 39, 6957–6976, https://doi.org/10.1016/j.atmosenv.2005.04.027, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/acp-6-3181-2006</doi>
+              <unstructured_citation>Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I., and Geron, C.: Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature), Atmos. Chem. Phys., 6, 3181–3210, https://doi.org/10.5194/acp-6-3181-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Huang, X. Y., Xiao, Q., Barker, D. M., Zhang, X., Michalakes, J., Huang, W., and Henderson, T.: Four-dimensional variational data assimilation for WRF: formulation and preliminary results, Mon. Weather Rev., 137, 299–314, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Jazwinski, A. H.: Stochastic processes and filtering theory, Academic Press, New York, 376 pp., 1970.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Kahnert, M.: Variational data analysis of aerosol species in a regional CTM: background error covariance constraint and aerosol optical observation operators, Tellus B, 60, 753–770, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-13-4265-2013</doi>
+              <unstructured_citation>Li, Z., Zang, Z., Li, Q. B., Chao, Y., Chen, D., Ye, Z., Liu, Y., and Liou, K. N.: A three-dimensional variational data assimilation system for multiple aerosol species with WRF/Chem and an application to PM2.5 prediction, Atmos. Chem. Phys., 13, 4265–4278, https://doi.org/10.5194/acp-13-4265-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2011JD016159</doi>
+              <unstructured_citation>Liu, Z., Liu, Q., Lin, H. C., Schwartz, C. S., Lee, Y. H., and Wang, T.: Three-dimensional variational assimilation of MODIS aerosol optical depth: Implementation and application to a dust storm over East Asia, J. Geophys. Res., 116, D23206, https://doi.org/10.1029/2011JD016159, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Mesinger, F., DiMego, G., Kalnay, E., Shafran, P., Ebisuzaki, W., Jovic, D., Woollen, J., Mitchell, K., Rogers, E., Ek, M., Fan, Y., Grumbine, R., Higgins, W., Li, H., Lin, Y., Manikin, G., Parrish, D., and Shi, W.: North American Regional Reanalysis, B. Am. Meteorol. Soc., 87, 343–360, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Peckam, S. E., Grell, G. A., McKeen, S. A., and Ahmadov, R.: WRF/Chem Version 3.5 User's Guide, Colrado, NOAA Earth System Research Laboratory, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2012JD018333</doi>
+              <unstructured_citation>Pagowski, M. and Grell, G. A.: Experiments with the assimilation of fine aerosols using an ensemble Kalman filter, J. Geophys. Res., 117, D21302, https://doi.org/10.1029/2012JD018333, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1002/qj.700</doi>
+              <unstructured_citation>Pagowski, M., Grell, G. A., McKeen, S. A., Peckham, S. E., and Devenyi, D.: Three-dimensional variational data assimilation of ozone and fine particulate matter observations: Some results using the Weather Research and Forecasting–Chemistry model and Grid-point Statistical Interpolation, Q. J. Roy. Meteor. Soc., 136, 2013–2024, https://doi.org/10.1002/qj.700, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Parrish, D. F. and Derber, J. C.: The national meteorological center spectral statistical interpolation analysis, Mon. Weather Rev., 120, 1747–1763, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Ricci, S. and Weaver, A. T.: Incorporating State-Dependent Temperature–Salinity Constraints in the Background Error Covariance of Variational Ocean Data Assimilation, Mon. Weather Rev., 133, 317–338, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1073/pnas.1205877109</doi>
+              <unstructured_citation>Saide, P. E., Carmichael, G. R., Spak, S. N., Minnis, P., and Ayers, J. K.: Improving aerosol distributions below clouds by assimilating satellite-retrieved cloud droplet number, P. Natl. Acad. Sci. USA, 109, 11939–11943, https://doi.org/10.1073/pnas.1205877109, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-13-10425-2013</doi>
+              <unstructured_citation>Saide, P. E., Carmichael, G. R., Liu, Z., Schwartz, C. S., Lin, H. C., da Silva, A. M., and Hyer, E.: Aerosol optical depth assimilation for a size-resolved sectional model: impacts of observationally constrained, multi-wavelength and fine mode retrievals on regional scale analyses and forecasts, Atmos. Chem. Phys., 13, 10425–10444, https://doi.org/10.5194/acp-13-10425-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Salako, G. O., Hopke, P. K., Cohen, D. D., Begum, B. A., Biswas, S. K., Pandit, G. G., Chung, Y. S., Rahman, S. A., Hamzah, M. S., Davy, P., Markwitz, A., Shagjjamba, D., Lodoysamba, S., Wimolwattanapun, W., and Bunprapob, S.: Exploring the Variation between EC and BC in a Variety of Locations, Aerosol Air Qual. Res., 12, 1–7, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/2011JD017383</doi>
+              <unstructured_citation>Schwartz, C. S., Liu, Z., Lin, H.-C., and McKeen, S. A.: Simultaneous three-dimensional variational assimilation of surface fine particulate matter and MODIS aerosol optical depth, J. Geophys. Res., 117, D13202, https://doi.org/10.1029/2011JD017383, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1002/2013JD020937</doi>
+              <unstructured_citation>Schwartz, C. S., Liu, Z., Lin, H.-C., and Cetola, J. D.:Assimilating aerosol observations with a “hybrid” variational-ensemble data assimilation system, J. Geophys. Res.-Atmos., 119, 4043–4069, https://doi.org/10.1002/2013JD020937, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/gmd-4-299-2011</doi>
+              <unstructured_citation>Singh, K., Jardak, M., Sandu, A., Bowman, K., Lee, M., and Jones, D.: Construction of non-diagonal background error covariance matrices for global chemical data assimilation, Geosci. Model Dev., 4, 299–316, https://doi.org/10.5194/gmd-4-299-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Sun C.-H., Lin Y.-C., and Wang C.-S.: 7. Relationships among Particle Fractions of Urban and Non-urban Aerosols, Aerosol Air Qual. Res., 3, 7–15, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Wu, W. S., Purser, R. J., and Parrish, D. F.: Three-dimensional variational analysis with spatially inhomogeneous covariances, Mon. Weather Rev., 130, 2905–2916, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/2007JD008782</doi>
+              <unstructured_citation>Zaveri, R. A., Easter, R. C., Fast, J. D., and Peters, L. K.: Model for Simulating Aerosol Interactions and Chemistry(MOSAIC), J. Geophys. Res., 113, D13204, https://doi.org/10.1029/2007JD008782, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

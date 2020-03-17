@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-12-04 02:35:24">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" reference_distribution_opts="any">
+          <full_title>The Cryosphere</full_title>
+          <abbrev_title>The Cryosphere</abbrev_title>
+          <issn media_type="electronic">1994-0424</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>13</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Surface mass balance downscaling through elevation classes in an Earth system model: application to the Greenland ice sheet</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Raymond</given_name>
+              <surname>Sellevold</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Leonardus</given_name>
+              <surname>van Kampenhout</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jan T. M.</given_name>
+              <surname>Lenaerts</surname>
+              <ORCID>https://orcid.org/0000-0003-4309-4011</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brice</given_name>
+              <surname>Noël</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>William H.</given_name>
+              <surname>Lipscomb</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Miren</given_name>
+              <surname>Vizcaino</surname>
+              <ORCID>https://orcid.org/0000-0002-9553-7104</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[Abstract. The modeling of ice sheets in Earth system models (ESMs) is an active area of research with applications to future sea level rise projections and paleoclimate studies. A major challenge for surface mass balance (SMB) modeling with ESMs arises from their coarse resolution. This paper evaluates the elevation class (EC) method as an SMB downscaling alternative to the dynamical downscaling of regional climate models. To this end, we compare EC-simulated elevation-dependent surface energy and mass balance gradients from the Community Earth System Model 1.0 (CESM1.0) with those from the regional climate model RACMO2.3. The EC implementation in CESM1.0 combines prognostic snow albedo, a multilayer snow model, and elevation corrections for two atmospheric forcing variables: temperature and humidity. Despite making no corrections for incoming radiation and precipitation, we find that the EC method in CESM1.0 yields similar SMB gradients to RACMO2.3, in part due to compensating biases in snowfall, surface melt, and refreezing gradients. We discuss the sensitivity of the results to the lapse rate used for the temperature correction. We also evaluate the impact of the EC method on the climate simulated by the ESM and find minor cooling over the Greenland ice sheet and Barents and Greenland seas, which compensates for a warm bias in the ESM due to topographic smoothing. Based on our diagnostic procedure to evaluate the EC method, we make several recommendations for future implementations.]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>04</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>3193</first_page>
+            <last_page>3208</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Research Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000781</assertion>
+              </assertion>
+              <assertion name="award_number">ERC-StG-678145-CoupledIceClim</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Nederlandse Organisatie voor Wetenschappelijk Onderzoek
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100003246</assertion>
+              </assertion>
+              <assertion name="award_number">ALWOP.2015.096</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5281/zenodo.3479410</inter_work_relation>
+            </related_item>
+            <related_item>
+              <intra_work_relation relationship-type="hasPreprint" identifier-type="doi">10.5194/tc-2019-122</intra_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/tc-13-3193-2019</doi>
+            <resource>https://www.the-cryosphere.net/13/3193/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.the-cryosphere.net/13/3193/2019/tc-13-3193-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/tc-8-2293-2014</doi>
+              <unstructured_citation>Alexander, P. M., Tedesco, M., Fettweis, X., van de Wal, R. S. W., Smeets, C. J. P. P., and van den Broeke, M. R.: Assessing spatio-temporal variability and trends in modelled and measured Greenland Ice Sheet albedo (2000–2013), The Cryosphere, 8, 2293–2312, https://doi.org/10.5194/tc-8-2293-2014, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2018JF004772</doi>
+              <unstructured_citation>Alexander, P. M., LeGrande, A. N., Fischer, E., Tedesco, M., Fettweis, X.,
+Kelley, M., Nowicki, S. M. J., and Schmidt, G. A.: Simulated Greenland
+Surface Mass Balance in the GISS ModelE2 GCM: Role of the Ice Sheet Surface,
+J. Geophys. Res.-Earth Surf., 124, 750–765,
+https://doi.org/10.1029/2018JF004772, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/tc-7-499-2013</doi>
+              <unstructured_citation>Bamber, J. L., Griggs, J. A., Hurkmans, R. T. W. L., Dowdeswell, J. A., Gogineni, S. P., Howat, I., Mouginot, J., Paden, J., Palmer, S., Rignot, E., and Steinhage, D.: A new bed elevation dataset for Greenland, The Cryosphere, 7, 499–510, https://doi.org/10.5194/tc-7-499-2013, 2013. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1088/1748-9326/aac2f0</doi>
+              <unstructured_citation>Bamber, J. L., Westaway, R. M., Marzeion, B., and Wouters, B.: The land ice
+contribution to sea level during the satellite era, Environ. Res.
+Lett., 13, 063008, https://doi.org/10.1088/1748-9326/aac2f0, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/1520-0442-16.9.1302</doi>
+              <unstructured_citation>Box, J. E. and Rinke, A.: Evaluation of Greenland ice sheet surface climate in the HIRHAM regional climate model using automatic weather station data,
+J. Climate, 16, 1302–1319, https://doi.org/10.1175/1520-0442-16.9.1302, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2001JD900251</doi>
+              <unstructured_citation>Bromwich, D. H., Chen, Q.-S., Bai, L.-S., Cassano, E. N., and Li, Y.: Modeled
+precipitation variability over the Greenland Ice Sheet, J.
+Geophys. Res.-Atmos., 106, 33891–33908,
+https://doi.org/10.1029/2001JD900251, 2001. a</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Church, J. A., Clark, P. U., Cazenave, A., Gregory, J. M., Jevrejeva, S.,Levermann, A., Merrifield, M. A., Milne, G. A., Nerem, R. S., Nunn, P. D., Payne, A. J., Pfeffer, W. T., Stammer, D. and Unnikrishnan, A. S.: Sea level change,
+Climate Change 2013: The Physical Science Basis. Contribution of Working
+Group I to the Fifth Assessment Report of the Intergovernmental Panel on
+Climate Change, 1137–1216, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/JCLI-D-13-00635.1</doi>
+              <unstructured_citation>Cullather, R. I., Nowicki, S. M., Zhao, B., and Suarez, M. J.: Evaluation of
+the Surface Representation of the Greenland Ice Sheet in a General
+Circulation Model, J. Climate, 27, 4835–4856,
+https://doi.org/10.1175/JCLI-D-13-00635.1, 2014. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P., Kobayashi,
+S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P., Bechtold, P.,
+Beljaars, A. C. M., van de Berg, L., Bidlot, J., Bormann, N., Delsol, C.,
+Dragani, R., Fuentes, M., Geer, A. J., Haimberger, L., Healy, S. B.,
+Hersbach, H., Hólm, E. V., Isaksen, L., Kållberg, P., Köhler, M.,
+Matricardi, M., McNally, A. P., Monge-Sanz, B. M., Morcrette, J.-J., Park,
+B.-K., Peubey, C., de Rosnay, P., Tavolato, C., Thépaut, J.-N., and Vitart,
+F.: The ERA-Interim reanalysis: configuration and performance of the data
+assimilation system, Q. J. Roy. Meteorol. Soc.,
+137, 553–597, https://doi.org/10.1002/qj.828, 2011. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2009GL038110</doi>
+              <unstructured_citation>Ettema, J., Van Den Broeke, M. R., Van Meijgaard, E., Van De Berg, W. J.,
+Bamber, J. L., Box, J. E., and Bales, R. C.: Higher surface mass balance of
+the Greenland ice sheet revealed by high-resolution climate modeling,
+Geophys. Res. Lett., 36, 1–5, https://doi.org/10.1029/2009GL038110, 2009. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/tc-4-529-2010</doi>
+              <unstructured_citation>Ettema, J., van den Broeke, M. R., van Meijgaard, E., and van de Berg, W. J.: Climate of the Greenland ice sheet using a high-resolution climate model – Part 2: Near-surface climate and energy balance, The Cryosphere, 4, 529–544, https://doi.org/10.5194/tc-4-529-2010, 2010. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.3189/002214309788608985</doi>
+              <unstructured_citation>Fausto, R. S., Ahlstrøm, A. P., Van As, D., Bøggild, C. E., and
+Johnsen, S. J.: A new present-day temperature parameterization for
+Greenland, J. Glaciol., 55, 95–105,
+https://doi.org/10.3189/002214309788608985, 2009. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Fettweis, X.: The SMB Model Intercomparison (SMBMIP) over Greenland: first
+results, available at: http://hdl.handle.net/2268/232923 (last access: 27 November 2019), 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/tc-11-1015-2017</doi>
+              <unstructured_citation>Fettweis, X., Box, J. E., Agosta, C., Amory, C., Kittel, C., Lang, C., van As, D., Machguth, H., and Gallée, H.: Reconstructions of the 1900–2015 Greenland ice sheet surface mass balance using the regional climate MAR model, The Cryosphere, 11, 1015–1033, https://doi.org/10.5194/tc-11-1015-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/gmd-7-883-2014</doi>
+              <unstructured_citation>Fischer, R., Nowicki, S., Kelley, M., and Schmidt, G. A.: A system of conservative regridding for ice-atmosphere coupling in a General Circulation Model (GCM), Geosci. Model Dev., 7, 883–907, https://doi.org/10.5194/gmd-7-883-2014, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2005JD006834</doi>
+              <unstructured_citation>Flanner, M. G. and Zender, C. S.: Linking snowpack microphysics and albedo
+evolution, J. Geophys. Res.-Atmos., 111, D12208,
+https://doi.org/10.1029/2005JD006834, 2006. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1002/wcc.148</doi>
+              <unstructured_citation>Flato, G. M.: Earth system models: an overview, Wiley Interdisciplinary
+Reviews: Clim. Change, 2, 783–800, https://doi.org/10.1002/wcc.148, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/tc-6-695-2012</doi>
+              <unstructured_citation>Franco, B., Fettweis, X., Lang, C., and Erpicum, M.: Impact of spatial resolution on the modelling of the Greenland ice sheet surface mass balance between 1990–2010, using the regional climate model MAR, The Cryosphere, 6, 695–711, https://doi.org/10.5194/tc-6-695-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/gmd-4-117-2011</doi>
+              <unstructured_citation>Fyke, J. G., Weaver, A. J., Pollard, D., Eby, M., Carter, L., and Mackintosh, A.: A new coupled ice sheet/climate model: description and sensitivity to model physics under Eemian, Last Glacial Maximum, late Holocene and modern climate conditions, Geosci. Model Dev., 4, 117–136, https://doi.org/10.5194/gmd-4-117-2011, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1002/2013GL058172</doi>
+              <unstructured_citation>Fyke, J. G., Vizcaíno, M., Lipscomb, W., and Price, S.: Future climate warming
+increases Greenland ice sheet surface mass balance variability, Geophys.
+Res. Lett., 41, 470–475, https://doi.org/10.1002/2013GL058172,
+2014a. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1002/2014GL060735</doi>
+              <unstructured_citation>Fyke, J. G., Vizcaíno, M., and Lipscomb, W. H.: The pattern of anthropogenic
+signal emergence in Greenland Ice Sheet surface mass balance, Geophys.
+Res. Lett., 41, 6002–6008, https://doi.org/10.1002/2014GL060735,
+2014b. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.3189/2013JoG12J182</doi>
+              <unstructured_citation>Goelzer, H., Huybrechts, P., Fürst, J., Nick, F., Andersen, M., Edwards, T.,
+Fettweis, X., Payne, A., and Shannon, S.: Sensitivity of Greenland Ice Sheet
+Projections to Model Formulations, J. Glaciol., 59, 733–749,
+https://doi.org/10.3189/2013JoG12J182, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/2004JD005641</doi>
+              <unstructured_citation>Hanna, E., Huybrechts, P., Janssens, I., Cappelen, J., Steffen, K., and
+Stephens, A.: Runoff and mass balance of the Greenland ice sheet:
+1958–2003, J. Geophys. Res.-Atmos., 110,
+https://doi.org/10.1029/2004JD005641, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2011JD016387</doi>
+              <unstructured_citation>Hanna, E., Huybrechts, P., Cappelen, J., Steffen, K., Bales, R. C., Burgess,
+E., McConnell, J. R., Peder Steffe&amp;lt;span id=&amp;quot;page3207&amp;quot;/&amp;gt;nsen, J., Van den Broeke, M., Wake, L.,
+Bigg, G., Griffiths, M., and Savas, D.: Greenland Ice Sheet surface mass
+balance 1870 to 2010 based on Twentieth Century Reanalysis, and links with
+global climate forcing, J. Geophys. Res.-Atmos., 116, D24121,
+https://doi.org/10.1029/2011JD016387, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1038/nature12238</doi>
+              <unstructured_citation>Hanna, E., Navarro, F. J., Pattyn, F., Domingues, C. M., Fettweis, X., Ivins, E. R., Nicholls, R. J., Ritz, C., Smith, B., Tulaczyk, S., Whitehouse, P. L., and Zwally, H. J.: Ice-sheet
+mass balance and climate change, Nature, 498, 51–59, https://doi.org/10.1038/nature12238,
+2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1017/CBO9781107415324.008</doi>
+              <unstructured_citation>Hartmann, D. L., Klein Tank, A. M., Rusticucci, M., Alexander, L. V.,
+Brönnimann, S., Charabi, Y. A. R., Dentener, F. J., Dlugokencky, E. J.,
+Easterling, D. R., Kaplan, A., Soden, B. J., Thorne, P. W., Wild, M., and
+Zhai, P.: Observations: Atmosphere and surface, Climate Change 2013 the
+Physical Science Basis: Working Group I Contribution to the Fifth Assessment
+Report of the Intergovernmental Panel on Climate Change, 9781107057,
+159–254, https://doi.org/10.1017/CBO9781107415324.008, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/tc-6-255-2012</doi>
+              <unstructured_citation>Helsen, M. M., van de Wal, R. S. W., van den Broeke, M. R., van de Berg, W. J., and Oerlemans, J.: Coupling of climate models and ice sheet models by surface mass balance gradients: application to the Greenland Ice Sheet, The Cryosphere, 6, 255–272, https://doi.org/10.5194/tc-6-255-2012, 2012. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/BAMS-D-15-00135.1</doi>
+              <unstructured_citation>Hourdin, F., Mauritsen, T., Gettelman, A., Golaz, J.-C., Balaji, V., Duan, Q.,
+Folini, D., Ji, D., Klocke, D., Qian, Y., Rauser, F., Rio, C., Tomassini, L.,
+Watanabe, M., and Williamson, D.: The Art and Science of Climate Model
+Tuning, B. Am. Meteorol. Soc., 98, 589–602,
+https://doi.org/10.1175/BAMS-D-15-00135.1, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Hunke, E. C., Lipscomb, W. H., Turner, A. K., Jeffery, N., and Elliott, S.:
+CICE: the Los Alamos Sea Ice Model Documentation and Software User's Manual
+Version 4.1 LA-CC-06-012, T-3 Fluid Dynamics Group, Los Alamos National
+Laboratory, 675, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>Hurrell, J. W., Holland, M. M., Gent, P. R., Ghan, S., Kay, J. E., Kushner,
+P. J., Lamarque, J. F., Large, W. G., Lawrence, D., Lindsay, K., Lipscomb,
+W. H., Long, M. C., Mahowald, N., Marsh, D. R., Neale, R. B., Rasch, P.,
+Vavrus, S., Vertenstein, M., Bader, D., Collins, W. D., Hack, J. J., Kiehl,
+J., and Marshall, S.: The community earth system model: A framework for
+collaborative research, B. Am. Meteorol. Soc., 94,
+1339–1360, https://doi.org/10.1175/BAMS-D-12-00121.1, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/JCLI-D-11-00201.1</doi>
+              <unstructured_citation>Jahn, A., Sterling, K., Holland, M. M., Kay, J. E., Maslanik, J. A., Bitz,
+C. M., Bailey, D. A., Stroeve, J., Hunke, E. C., and Lipscomb, W. H.:
+Late-twentieth-century simulation of Arctic sea ice and ocean properties in
+the CCSM4, J. Climate, 25, 1431–1452, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1038/nature16183</doi>
+              <unstructured_citation>Kjeldsen, K. K., Korsgaard, N. J., Bjørk, A. A., Khan, S. A.,
+Box, J. E., Funder, S., Larsen, N. K., Bamber, J. L., Colgan, W.,
+van den Broeke, M., Siggaard-Andersen, M.-L., Nuth, C., Schomacker, A.,
+Andresen, C. S., Willerslev, E., and
+Kjær, K. H.: Spatial and temporal distribution of mass loss from the Greenland Ice Sheet since AD 1900, Nature, 528, 396–400, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/2011MS00045</doi>
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Thornton, P. E., Swenson,
+S. C., Lawrence, P. J., Zeng, X., Yang, Z.-L., Levis, S., Sakaguchi, K.,
+Bonan, G. B., and Slater, A. G.: Parameterization improvements and functional
+and structural advances in Version 4 of the Community Land Model, J.
+Adv. Model. Earth Syst., 3, 1, https://doi.org/10.1029/2011MS00045, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2018RG000622</doi>
+              <unstructured_citation>Lenaerts, J. T. M., Medley, B., van den Broeke, M. R., and Wouters, B.: Observing and modeling ice sheet surface mass balance, Rev. Geophys., 57, 376–420, https://doi.org/10.1029/2018RG000622, 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/JCLI-D-12-00557.1</doi>
+              <unstructured_citation>Lipscomb, W. H., Fyke, J. G., Vizcaíno, M., Sacks, W. J., Wolfe, J.,
+Vertenstein, M., Craig, A., Kluzek, E., and Lawrence, D. M.: Implementation
+and initial evaluation of the glimmer community ice sheet model in the
+community earth system model, J. Climate, 26, 7352–7371,
+https://doi.org/10.1175/JCLI-D-12-00557.1, 2013. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1073/pnas.1904242116</doi>
+              <unstructured_citation>Mouginot, J., Rignot, E., Bjørk, A. A., van den Broeke, M., Millan, R.,
+Morlighem, M., Noël, B., Scheuchl, B., and Wood, M.: Forty-six years of
+Greenland Ice Sheet mass balance from 1972 to 2018, P.
+Natl. Acad. Sci. USA, 116, 9239–9244, https://doi.org/10.1073/pnas.1904242116,
+2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/JCLI-D-12-00236.1</doi>
+              <unstructured_citation>Neale, R. B., Richter, J., Park, S., Lauritzen, P. H., Vavrus, S. J., Rasch,
+P. J., and Zhang, M.: The Mean Climate of the Community Atmosphere Model
+(CAM4) in Forced SST and Fully Coupled Experiments, J. Climate, 26,
+5150–5168, https://doi.org/10.1175/JCLI-D-12-00236.1, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/tc-9-1831-2015</doi>
+              <unstructured_citation>Noël, B., van de Berg, W. J., van Meijgaard, E., Kuipers Munneke, P., van de Wal, R. S. W., and van den Broeke, M. R.: Evaluation of the updated regional climate model RACMO2.3: summer snowfall impact on the Greenland Ice Sheet, The Cryosphere, 9, 1831–1844, https://doi.org/10.5194/tc-9-1831-2015, 2015. a, b, c, d, e, f</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/tc-10-2361-2016</doi>
+              <unstructured_citation>Noël, B., van de Berg, W. J., Machguth, H., Lhermitte, S., Howat, I.,
+Fettweis, X., and van den Broeke, M. R.: A daily, 1&amp;amp;thinsp;km resolution data set
+of downscaled Greenland ice sheet surface mass balance (1958–2015), The
+Cryosphere, 10, 2361–2377, https://doi.org/10.5194/tc-10-2361-2016, 2016. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/tc-12-811-2018</doi>
+              <unstructured_citation>Noël, B., van de Berg, W. J., van Wessem, J. M., van Meijgaard, E., van As, D., Lenaerts, J. T. M., Lhermitte, S., Kuipers Munneke, P., Smeets, C. J. P. P., van Ulft, L. H., van de Wal, R. S. W., and van den Broeke, M. R.: Modelling the climate and surface mass balance of polar ice sheets using RACMO2 – Part 1: Greenland (1958–2016), The Cryosphere, 12, 811–831, https://doi.org/10.5194/tc-12-811-2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/gmd-9-4521-2016</doi>
+              <unstructured_citation>Nowicki, S. M. J., Payne, A., Larour, E., Seroussi, H., Goelzer, H., Lipscomb, W., Gregory, J., Abe-Ouchi, A., and Shepherd, A.: Ice Sheet Model Intercomparison Project (ISMIP6) contribution to CMIP6, Geosci. Model Dev., 9, 4521–4545, https://doi.org/10.5194/gmd-9-4521-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Overland, J., Hanna, E., Hanssen-Bauer, I., Kim, S.-J., Walsh, J. E., Wang, M., Bhatt, U. S., and Thoman, R. L.: Surface air temperature, Arctic report card, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1038/ngeo2071</doi>
+              <unstructured_citation>Pithan, F. and Mauritsen, T.: Arctic amplification dominated by temperature
+feedbacks in contemporary climate models, Nat. Geosci., 7, 181–184, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/tc-12-2981-2018</doi>
+              <unstructured_citation>Ran, J., Vizcaino, M., Ditmar, P., van den Broeke, M. R., Moon, T., Steger, C. R., Enderlin, E. M., Wouters, B., Noël, B., Reijmer, C. H., Klees, R., Zhong, M., Liu, L., and Fettweis, X.: Seasonal mass variations show timing and magnitude of meltwater storage in the Greenland Ice Sheet, The Cryosphere, 12, 2981–2999, https://doi.org/10.5194/tc-12-2981-2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2008JF001015</doi>
+              <unstructured_citation>Rutt, I. C., Hagdorn, M., Hulton, N. R. J., and Payne, A. J.: The Glimmer
+community ice sheet model, J. Geophys. Res.-Earth Surf.,
+114, F2, https://doi.org/10.1029/2008JF001015, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1038/s41467-018-03353-2</doi>
+              <unstructured_citation>Ryan, J. C., Hubbard, A., Stibal, M., Irvine-Fynn, T. D., Cook, J., Smith,
+L. C., Cameron, K., and Box, J.: Dark zone of the Greenland Ice Sheet
+controlled by distributed biologically-active impurities, Nat.
+Commun., 9, 1065, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/gmd-10-3207-2017</doi>
+              <unstructured_citation>Schmidt, G. A., Bader, D., Donner, L. J., Elsaesser, G. S., Golaz, J.-C., Hannay, C., Molod, A., Neale, R. B., and Saha, S.: Practice and philosophy of climate model tuning across six US modeling centers, Geosci. Model Dev., 10, 3207–3223, https://doi.org/10.5194/gmd-10-3207-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1038/nature09051</doi>
+              <unstructured_citation>Screen, J. A. and Simmonds, I.: The central role of diminishing sea ice in
+recent Arctic temperature amplification, Nature, 464, 1334–1337,
+https://doi.org/10.1038/nature09051, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2012GL051598</doi>
+              <unstructured_citation>Screen, J. A., Deser, C., and Simmonds, I.: Local and remote controls on
+observed Arctic warming, Geophys. Res. Lett., 39, L10709,
+https://doi.org/10.1029/2012GL051598, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Sellevold, R.: Data and scripts for Surface mass balance downscaling through elevation classes in an Earth System Model: application to the Greenland ice sheet, https://doi.org/10.5281/zenodo.3479410, 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1007/s10584-005-9017-y</doi>
+              <unstructured_citation>Serreze, M. C. and Francis, J. A.: The arctic amplification debate, Clim.
+Change, 76, 241–264, https://doi.org/10.1007/s10584-005-9017-y, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1098/rsta.2014.0159</doi>
+              <unstructured_citation>Serreze, M. C. and Stroeve, J.: Arctic sea ice trends , variability and
+implications for seasonal ice forecasting Subject Areas: Author for
+correspondence, Phil. Trans. R. Soc., 373, 1–16, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1126/science.1228102</doi>
+              <unstructured_citation>Shepherd, A., Ivins, E. R., A, G., Barletta, V. R., Bentley, M. J., Bettadpur,
+S., Briggs, K. H., Bromwich, D. H., Forsberg, R., Galin, N., Horwath, M.,
+Jacobs, S., Joughin, I., King, M. A., Lenaerts, J. T. M., Li, J., Ligtenberg,
+S. R. M., Luckman, A., Luthcke, S. B., McMillan, M., Meister, R., Milne, G.,
+Mouginot, J., Muir, A., Nicolas, J. P., Paden, J., Payne, A. J., Pritchard,
+H., Rignot, E., Rott, H., Sorensen, L. S., Scambos, T. A., Scheuchl, B.,
+Schrama, E. J. O., Smith, B., Sundal, A. V., van Angelen, J. H., van de Berg,
+W. J., van den Broeke, M. R., Vaughan, D. G., Velicogna, I., Wahr, J.,
+Whitehouse, P. L., Wingham, D. J., Yi, D., Young, D., and Zwally, H. J.: A
+Reconciled Estimate of Ice-Sheet Mass Balance, Science, 338, 1183–1189,
+https://doi.org/10.1126/science.1228102, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Smith, R., Jones, P., Briegleb, B., Bryan, F., Danabasoglu, G., Dennis, J.,
+Dukowicz, J., Eden, C., Fox-Kemper, B., and Gent, P.: The parallel ocean
+program (POP) reference manual ocean component of the community climate
+system model (CCSM) and community earth system model (CESM), Rep.
+LAUR-01853, 141, 1–140, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1007/s10712-013-9261-z</doi>
+              <unstructured_citation>van Angelen, J. H., van den Broeke, M. R., Wouters, B., and Lenaerts, J. T.:
+Contemporary (1960–2012) Evolution of the Climate and Surface Mass Balance
+of the Greenland Ice Sheet, Surv. Geophys., 35, 1155–1174,
+https://doi.org/10.1007/s10712-013-9261-z, 2014.
+ a</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/2007JD009283</doi>
+              <unstructured_citation>Van den Broeke, M., Smeets, P., Ettema, J., and Munneke, P. K.: Surface
+radiation balance in the ablation zone of the west Greenland ice sheet,
+J. Geophys. Res.-Atmos., 113, 1–14,
+https://doi.org/10.1029/2007JD009283, 2008. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1002/2017MS000988</doi>
+              <unstructured_citation>van Kampenhout, L., Lenaerts, J. T. M., Lipscomb, W. H., Sacks, W. J.,
+Lawrence, D. M., Slater, A. G., and van den Broeke, M. R.: Improving the
+Representation of Polar Snow and Firn in the Community Earth System Model,
+J. Adv. Model. Earth Syst., 9, 2583–2600,
+https://doi.org/10.1002/2017MS000988, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/tc-13-1547-2019</doi>
+              <unstructured_citation>van Kampenhout, L., Rhoades, A. M., Herrington, A. R., Zarzycki, C. M., Lenaerts, J. T. M., Sacks, W. J., and van den Broeke, M. R.: Regional grid refinement in an Earth system model: impacts on the simulated Greenland surface mass balance, The Cryosphere, 13, 1547–1564, https://doi.org/10.5194/tc-13-1547-2019, 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/tc-10-2379-2016</doi>
+              <unstructured_citation>Van Tricht, K., Lhermitte, S., Gorodetskaya, I. V., and van Lipzig, N. P. M.: Improving satellite-retrieved surface radiative fluxes in polar regions using a smart sampling approach, The Cryosphere, 10, 2379–2397, https://doi.org/10.5194/tc-10-2379-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1007/s00382-009-0591-y</doi>
+              <unstructured_citation>Vizcaíno, M., Mikolajewicz, U., Jungclaus, J., and Schurgers, G.:
+Climate modification by future ice sheet changes and consequences for ice
+sheet mass balance, Clim. Dynam., 34, 301–324,
+https://doi.org/10.1007/s00382-009-0591-y, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/JCLI-D-12-00615.1</doi>
+              <unstructured_citation>Vizcaíno, M., Lipscomb, W. H., Sacks, W. J., Van Angelen, J. H.,
+Wouters, B., and Van Den Broeke, M. R.: Greenland surface mass balance as
+simulated by the community earth system model. Part I: Model evaluation and
+1850–2005 results, J. Climate, 26, 7793–7812,
+https://doi.org/10.1175/JCLI-D-12-00615.1, 2013. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1175/JCLI-D-12-00588.1</doi>
+              <unstructured_citation>Vizcaíno, M., Lipscomb, W. H., Sacks, W. J., and van den Broeke, M.: Greenland
+Surface Mass Balance as Simulated by the Community Earth System Model. Part
+II: Twenty-First-Century Changes, J. Climate, 27, 215–226,
+https://doi.org/10.1175/JCLI-D-12-00588.1, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/tc-5-589-2011</doi>
+              <unstructured_citation>Wientjes, I. G. M., Van de Wal, R. S. W., Reichart, G. J., Sluijs, A., and Oerlemans, J.: Dust from the dark region in the western ablation zone of the Greenland ice sheet, The Cryosphere, 5, 589–601, https://doi.org/10.5194/tc-5-589-2011, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1017/jog.2016.133</doi>
+              <unstructured_citation>Wilton, D. J., Jowett, A., Hanna, E., Bigg, G. R., van den Broeke, M. R.,
+Fettweis, X., and Huybrechts, P.: High resolution (1&amp;amp;thinsp;km) positive degree-day
+modelling of Greenland ice sheet surface mass balance, 1870–2012 using
+reanalysis data, J. Glaciol., 63, 176–193,
+https://doi.org/10.1017/jog.2016.133, 2017. a</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/tc-13-3193-2019-supplement</doi>
+                <resource>https://www.the-cryosphere.net/13/3193/2019/tc-13-3193-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

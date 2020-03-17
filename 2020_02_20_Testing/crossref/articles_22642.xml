@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-07-19 02:52:15">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>14</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Development of a protocol for the auto-generation of explicit aqueous-phase oxidation schemes of organic compounds</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Peter</given_name>
+              <surname>Bräuer</surname>
+              <ORCID>https://orcid.org/0000-0002-3815-7631</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Camille</given_name>
+              <surname>Mouchel-Vallon</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andreas</given_name>
+              <surname>Tilgner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Anke</given_name>
+              <surname>Mutzel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Olaf</given_name>
+              <surname>Böge</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Maria</given_name>
+              <surname>Rodigast</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Laurent</given_name>
+              <surname>Poulain</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dominik</given_name>
+              <surname>van Pinxteren</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ralf</given_name>
+              <surname>Wolke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bernard</given_name>
+              <surname>Aumont</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hartmut</given_name>
+              <surname>Herrmann</surname>
+              <ORCID>https://orcid.org/0000-0001-7044-2101</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This paper presents a new CAPRAM–GECKO-A protocol for mechanism
+auto-generation of aqueous-phase organic processes. For the development,
+kinetic data in the literature were reviewed and a database with 464
+aqueous-phase reactions of the hydroxyl radical with organic compounds and
+130 nitrate radical reactions with organic compounds has been compiled and
+evaluated. Five different methods to predict aqueous-phase rate constants
+have been evaluated with the help of the kinetics database: gas–aqueous
+phase correlations, homologous series of various compound classes, radical
+reactivity comparisons, Evans–Polanyi-type correlations, and
+structure–activity relationships (SARs). The quality of these prediction
+methods was tested as well as their suitability for automated mechanism
+construction. Based on this evaluation, SARs form the basis of the new
+CAPRAM–GECKO-A protocol. Evans–Polanyi-type correlations have been advanced
+to consider all available H atoms in a molecule besides the H atoms with
+only the weakest bond dissociation enthalpies (BDEs). The improved
+Evans–Polanyi-type correlations are used to predict rate constants for
+aqueous-phase <span class="inline-formula">NO<sub>3</sub></span> and organic compounds reactions.</p> <p>Extensive tests have been performed on essential parameters and on highly uncertain parameters with limited experimental data. These sensitivity
+studies led to further improvements in the new CAPRAM–GECKO-A protocol but
+also showed current limitations. Biggest uncertainties were observed in
+uptake processes and the estimation of Henry's law coefficients as well as
+radical chemistry, in particular the degradation of alkoxy radicals.
+Previous estimation methods showed several deficits, which impacted particle
+growth.</p> <p>For further evaluation, a 1,3,5-trimethylbenzene oxidation experiment has
+been performed in the aerosol chamber “Leipziger Aerosolkammer” (LEAK) at high relative humidity
+conditions and compared to a multiphase mechanism using the Master Chemical Mechanism (MCMv3.2) in the
+gas phase and using a methylglyoxal oxidation scheme of about 600 reactions
+generated with the new CAPRAM–GECKO-A protocol in the aqueous phase. While
+it was difficult to evaluate single particle constituents due to
+concentrations close to the detection limits of the instruments applied, the
+model studies showed the importance of aqueous-phase chemistry in respect to secondary organic aerosol (SOA) formation and particle growth. The new protocol forms the basis for
+further CAPRAM mechanism development towards a new version 4.0. Moreover, it
+can be used as a supplementary tool for aerosol chambers to design and
+analyse experiments<span id="page9210"/> of chemical complexity and help to understand them on a
+molecular level.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>19</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>9209</first_page>
+            <last_page>9239</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Deutsche Forschungsgemeinschaft
+                <assertion name="funder_identifier" provider="crossref">501100001659</assertion>
+              </assertion>
+              <assertion name="award_number">BO 1714/3-1</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Commission
+                <assertion name="funder_identifier" provider="crossref">501100000780</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-19-9209-2019</doi>
+            <resource>https://www.atmos-chem-phys.net/19/9209/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/19/9209/2019/acp-19-9209-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1021/j100117a025</doi>
+              <unstructured_citation>Alfassi, Z. B., Padmaja, S., Neta, P., and Huie, R. E.: Rate constants for
+reactions of nitrate (NO3) radicals with organic compounds in water and
+acetonitrile, J. Phys. Chem., 97, 3780–3782, https://doi.org/10.1021/j100117a025,
+1993. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/acp-13-8045-2013</doi>
+              <unstructured_citation>Ammann, M., Cox, R. A., Crowley, J. N., Jenkin, M. E., Mellouki, A., Rossi, M. J., Troe, J., and Wallington, T. J.: Evaluated kinetic and photochemical data for atmospheric chemistry: Volume VI – heterogeneous reactions with liquid substrates, Atmos. Chem. Phys., 13, 8045–8228, https://doi.org/10.5194/acp-13-8045-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1016/j.chemosphere.2009.11.035</doi>
+              <unstructured_citation>Arakaki, T., Saito, K., Okada, K., Nakajima, H., and Hitomi, Y.: Contribution
+of fulvic acid to the photochemical formation of Fe(II) in acidic Suwannee
+River fulvic acid solutions, Chemosphere, 78, 1023–1027,
+https://doi.org/10.1016/j.chemosphere.2009.11.035, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1021/es401927b</doi>
+              <unstructured_citation>Arakaki, T., Anastasio, C., Kuroki, Y., Nakajima, H., Okada, K., Kotani, Y.,
+Handa, D., Azechi, S., Kimura, T., Tsuhako, A., and Miyagi, Y.: A general
+scavenging rate constant for reaction of hydroxyl radical with organic
+carbon in atmospheric waters, Environ. Sci. Technol., 47, 8196–8203,
+https://doi.org/10.1021/es401927b, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1021/j100629a007</doi>
+              <unstructured_citation>Asmus, K. D., Möckel, H., and Henglein, A.: Pulse radiolytic study of
+site of OH radical attack on aliphatic alcohols in aqueous solution, J.
+Phys. Chem., 77, 1218–1221, https://doi.org/10.1021/j100629a007, 1973. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/acp-5-2497-2005</doi>
+              <unstructured_citation>Aumont, B., Szopa, S., and Madronich, S.: Modelling the evolution of organic carbon during its gas-phase tropospheric oxidation: development of an explicit model based on a self generating approach, Atmos. Chem. Phys., 5, 2497–2517, https://doi.org/10.5194/acp-5-2497-2005, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.3390/atmos7050073</doi>
+              <unstructured_citation>Bean, J. K., Faxon, C. B., Leong, Y. J., Wallace, H. W., Cevik, B. K.,
+Ortiz, S., Canagaratna, M. R., Usenko, S., Sheesley, R. J., Griffin, R. J.,
+and Ruiz, L. H.: Composition and sources of particulate matter measured near
+Houston, TX: Anthropogenic-biogenic interactions, Atmosphere, 7, 1–23,
+https://doi.org/10.3390/atmos7050073, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Benson, S. W.: Thermochemical kinetics: methods for the estimation of
+thermochemical data and rate parameters, 2nd ed., edited by: Benson, S. W.,
+John Wiley &amp;amp;amp; Sons, Inc., New York, 1976. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1021/jp027790e</doi>
+              <unstructured_citation>Bonifaciić, M., Armstrong, D. A., Štefanić, I., and Asmus, K.-D.:
+Kinetic isotope effect for hydrogen abstraction by ⋅OH radicals
+from normal and carbon-deuterated ethyl alcohol and methylamine in aqueous
+solutions, J. Phys. Chem. B, 107, 7268–7276, https://doi.org/10.1021/jp027790e,
+2003. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G., Forster,
+P., Kerminen, V.-M., Kondo, Y., Liao, H., Lohmann, U., Rasch, P., Satheesh,
+S. K., Sherwood, S., Stevens, B., and Zhang, X. Y.: Clouds and Aerosols, in:
+Climate Change 2013: The Physical Science Basis, Contribution of Working
+Group I to the Fifth Assessment Report of the Intergovernmental Panel on
+Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., 571–658, Cambridge University Press, Cambridge, UK, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1007/978-3-642-18984-5_7</doi>
+              <unstructured_citation>Brasseur, G. P., Artaxo, P., Barrie, L. A., Delmas, R. J., Galbally, I. E.,
+Hao, W. M., Harriss, R. C., Isaksen, I. S. A., Jacob, D. J., Kolb, C. E.,
+Prather, M., Rodhe, H., Schwela, D., Steffen, W., and Wuebbles, D. J.:
+Chapter 7, An Integrated View of Causes and Impacts of Atmospheric Changes,
+in: Atmospheric Chemistry in a Changing World – An Integration and Synthesis
+of a Decade of Tropospheric Chemistry Research, edited by: Brasseur, G. P., Prinn, R.
+G., and Pszenny, A. A. R., Springer Verlag, Berlin, Germany, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1007/s10874-013-9249-6</doi>
+              <unstructured_citation>Bräuer, P., Tilgner, A., Wolke, R., and Herrmann, H.: Mechanism
+development and modelling of tropospheric multiphase halogen chemistry: The
+CAPRAM Halogen Module 2.0 (HM2), J. Atmos. Chem., 70, 1–34,
+https://doi.org/10.1007/s10874-013-9249-6, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-16-1747-2016</doi>
+              <unstructured_citation>Brégonzio-Rozier, L., Giorio, C., Siekmann, F., Pangui, E., Morales, S. B., Temime-Roussel, B., Gratien, A., Michoud, V., Cazaunau, M., DeWitt, H. L., Tapparo, A., Monod, A., and Doussin, J.-F.: Secondary organic aerosol formation from isoprene photooxidation during cloud condensation-evaporation cycles, Atmos. Chem. Phys., 16, 1747–1760, https://doi.org/10.5194/acp-16-1747-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1063/1.555805</doi>
+              <unstructured_citation>Buxton, G. V., Greenstock, C. L., Helman, W. P., and Ross, A. B.: Critical
+review of rate constants for reactions of hydrated electrons, hydrogen atoms
+and hydroxyl radicals (OH/O-) in aqueous solution, J. Phys. Chem. Ref. Data,
+17, 513–886, 1988. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-14-2699-2014</doi>
+              <unstructured_citation>Compernolle, S. and Müller, J.-F.: Henry's law constants of diacids and hydroxy polyacids: recommended values, Atmos. Chem. Phys., 14, 2699–2712, https://doi.org/10.5194/acp-14-2699-2014, 2014a. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/acp-14-12815-2014</doi>
+              <unstructured_citation>Compernolle, S. and Müller, J.-F.: Henry's law constants of polyols, Atmos. Chem. Phys., 14, 12815–12837, https://doi.org/10.5194/acp-14-12815-2014, 2014b. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1021/cr040366k</doi>
+              <unstructured_citation>Davidovits, P., Kolb, C. E., Williams, L. R., Jayne, J. T., and Worsnop, D.
+R.: Mass Accommodation and Chemical Reactions at Gas-Liquid Interfaces,
+Chem. Rev., 106, 1323–1354, https://doi.org/10.1021/cr040366k, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1021/cr100360b</doi>
+              <unstructured_citation>Davidovits, P., Kolb, C. E., Williams, L. R., Jayne, J. T., and Worsnop, D.
+R.: Update 1 of: Mass Accommodation and Chemical Reactions at Gas-Liquid
+Interfaces, Chem. Rev., 111, 76–109, https://doi.org/10.1021/cr100360b, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/j.atmosenv.2010.02.045</doi>
+              <unstructured_citation>Day, D. A., Liu, S., Russell, L. M., and Ziemann, P. J.: Organonitrate group
+concentrations in submicron particles with high nitrate and organic
+fractions in coastal southern California, Atmos. Environ., 44,
+1970–1979, https://doi.org/10.1016/J.ATMOSENV.2010.02.045, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-13-11625-2013</doi>
+              <unstructured_citation>Doussin, J.-F. and Monod, A.: Structure-activity relationship for the estimation of OH-oxidation rate constants of carbonyl compounds in the aqueous phase, Atmos. Chem. Phys., 13, 11625–11641, https://doi.org/10.5194/acp-13-11625-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-15-9983-2015</doi>
+              <unstructured_citation>Dunmore, R. E., Hopkins, J. R., Lidster, R. T., Lee, J. D., Evans, M. J., Rickard, A. R., Lewis, A. C., and Hamilton, J. F.: Diesel-related hydrocarbons can dominate gas phase reactive carbon in megacities, Atmos. Chem. Phys., 15, 9983–9996, https://doi.org/10.5194/acp-15-9983-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1021/cr5005887</doi>
+              <unstructured_citation>Ervens, B.: Modeling the Processing of Aerosol and Trace Gases in Clouds and
+Fogs, Chem. Rev., 115, 4157–4198, https://doi.org/10.1021/cr5005887, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1021/es061946x</doi>
+              <unstructured_citation>Ervens, B. and Kreidenweis, S. M.: SOA Formation by Biogenic and Carbonyl
+Compounds?: Data Evaluation and Application, Environ. Sci. Technol., 41, 3904–3910,
+https://doi.org/10.1021/es061946x, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-11-11069-2011</doi>
+              <unstructured_citation>Ervens, B., Turpin, B. J., and Weber, R. J.: Secondary organic aerosol formation in cloud droplets and aqueous particles (aqSOA): a review of laboratory, field and model studies, Atmos. Chem. Phys., 11, 11069–11102, https://doi.org/10.5194/acp-11-11069-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1039/tf9383400049</doi>
+              <unstructured_citation>Evans, M. G.: Thermodynamical treatment of transition state, Trans. Faraday
+Soc., 34, 49–57, https://doi.org/10.1039/TF9383400049, 1938. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Fuller, E. N.: Diffusion coefficients for binary gas systems at low
+pressures: Empirical correlations, McGraw Hill, New York, 1986. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>George, C., Sidebottom, H. W., Mellouki, A., Barnes, I., Pilling, M. J.,
+Herrmann, H., Wortham, H., Kirchner, F., Wirtz, K., Zetzsch, C., and
+Kanakidou, M.: Final report (sections 1–6), Fifth Framework Programme
+1998–2002, Thematic Programme: Environment and Sustainable Development,
+Project number EVK2-CT-2001-00114., 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1021/es072476p</doi>
+              <unstructured_citation>Goldstein, A. H. and Galbally, I. E.: Known and unexplored organic
+constituents in the earth's atmosphere, Environ. Sci. Technol., 41,
+1514–1521, https://doi.org/10.1021/es072476p, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1021/es00029a021</doi>
+              <unstructured_citation>Haag, W. R. and Yao, C. C. D.: Rate constants for reaction of hydroxyl
+radicals with several drinking water contaminants, Environ. Sci. Technol.,
+26, 1005–1013, https://doi.org/10.1021/es00029a021, 1992. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/acp-9-5155-2009</doi>
+              <unstructured_citation>Hallquist, M., Wenger, J. C., Baltensperger, U., Rudich, Y., Simpson, D., Claeys, M., Dommen, J., Donahue, N. M., George, C., Goldstein, A. H., Hamilton, J. F., Herrmann, H., Hoffmann, T., Iinuma, Y., Jang, M., Jenkin, M. E., Jimenez, J. L., Kiendler-Scharr, A., Maenhaut, W., McFiggans, G., Mentel, Th. F., Monod, A., Prévôt, A. S. H., Seinfeld, J. H., Surratt, J. D., Szmigielski, R., and Wildt, J.: The formation, properties and impact of secondary organic aerosol: current and emerging issues, Atmos. Chem. Phys., 9, 5155–5236, https://doi.org/10.5194/acp-9-5155-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1021/cr020658q</doi>
+              <unstructured_citation>Herrmann, H.: Kinetics of Aqueous Phase Reactions Relevant for Atmospheric
+Chemistry, Chem. Rev., 103, 4691–4716, https://doi.org/10.1021/cr020658q, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1039/B618565G</doi>
+              <unstructured_citation>Herrmann, H.: On the photolysis of simple anions and neutral molecules as
+sources of O-/OH, SOx- and Cl in aqueous solution, Phys.
+Chem. Chem. Phys., 9, 3935–3964, https://doi.org/10.1039/B618565G, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Herrmann, H. and Zellner, R.: Reactions of NO3-radicals in aqueous
+solution, edited by: Alfassi, Z. B., 291–343, Wiley, New York, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.02.016</doi>
+              <unstructured_citation>Herrmann, H., Tilgner, A., Barzaghi, P., Majdik, Z., Gligorovski, S.,
+Poulain, L., and Monod, A.: Towards a more detailed description of
+tropospheric aqueous phase organic chemistry: CAPRAM 3.0, Atmos. Environ.,
+39, 4351–4363, https://doi.org/10.1016/j.atmosenv.2005.02.016, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1002/cphc.201000533</doi>
+              <unstructured_citation>Herrmann, H., Hoffmann, D., Schaefer, T., Bräuer, P., and Tilgner, A.:
+Tropospheric Aqueous-Phase Free-Radical Chemistry: Radical Sources, Spectra,
+Reaction Kinetics and Prediction Tools, Chem. Phys. Chem., 11, 3796–3822,
+2010. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1039/b908459b</doi>
+              <unstructured_citation>Hoffmann, D., Weigert, B., Barzaghi, P., and Herrmann, H.: Reactivity of
+poly-alcohols towards OH, NO3 and SO4- in aqueous solution,
+Phys. Chem. Chem. Phys., 11, 9351, https://doi.org/10.1039/b908459b, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Iglewicz, B. and Hoaglin, D.: Volume 16: How to Detect and Handle Outliers,
+The ASQC Basic References in Quality Control: Statistical Techniques, edited by: Mykytka, E. F., Ph.D., 1993. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1016/S1352-2310(96)00105-7</doi>
+              <unstructured_citation>Jenkin, M. E., Saunders, S. M., and Pilling, M. J.: The tropospheric
+degradation of volatile organic compounds: A protocol for mechanism
+development, Atmos. Environ., 31, 81–104,
+https://doi.org/10.1016/S1352-2310(96)00105-7, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acp-3-181-2003</doi>
+              <unstructured_citation>Jenkin, M. E., Saunders, S. M., Wagner, V., and Pilling, M. J.: Protocol for the development of the Master Chemical Mechanism, MCM v3 (Part B): tropospheric degradation of aromatic volatile organic compounds, Atmos. Chem. Phys., 3, 181–193, https://doi.org/10.5194/acp-3-181-2003, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1126/science.1180353</doi>
+              <unstructured_citation>Jimenez, J. L., Canagaratna, M. R., Donahue, N. M., Prevot, A. S. H., Zhang,
+Q., Kroll, J. H., DeCarlo, P. F., Allan, J. D., Coe, H., Ng, N. L., Aiken,
+A. C., Docherty, K. S., Ulbrich, I. M., Grieshop, A. P., Robinson, A. L.,
+Duplissy, J., Smith, J. D., Wilson, K. R., Lanz, V. A., Hueglin, C., Sun, Y.
+L., Tian, J., Laaksonen, A., Raatikainen, T., Rautiainen, J., Vaattovaara,
+P., Ehn, M., Kulmala, M., Tomlinson, J. M., Collins, D. R., Cubison, M. J.,
+Dunlea, J., Huffman, J. A., Onasch, T. B., Alfarra, M. R., Williams, P. I.,
+Bower, K., Kondo, Y., Schneider, J., Drewnick, F., Borrmann, S., Weimer, S.,
+Demerjian, K., Salcedo, D., Cottrell, L., Griffin, R., Takami, A., Miyoshi,
+T., Hatakeyama, S., Shimono, A., Sun, J. Y., Zhang, Y. M., Dzepina, K.,
+Kimmel, J. R., Sueper, D., Jayne, J. T., Herndon, S. C., Trimborn, A. M.,
+Williams, L. R., Wood, E. C., Middlebrook, A. M., Kolb, C. E.,
+Baltensperger, U., and Worsnop, D. R.: Evolution of Organic Aerosols in the
+Atmosphere, Science, 326, 1525–1529, https://doi.org/10.1126/science.1180353,
+2009. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1016/j.jchromb.2011.02.028</doi>
+              <unstructured_citation>Kahnt, A., Iinuma, Y., Böge, O., Mutzel, A., and Herrmann, H.: Denuder sampling techniques for the determination of gas-phase carbonyl compounds: A comparison and characterisation of in situ and ex situ derivatisation methods, J. Chromatogr. B, 879, 1402–1411, https://doi.org/10.1016/j.jchromb.2011.02.028, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1007/BF00696578</doi>
+              <unstructured_citation>Kames, J. and Schurath, U.: Henry's Law and hydrolysis-rate constants for
+peroxyacyl nitrates (PANS) using a homogeneous gas-phase source, J. Atmos.
+Chem., 21, 151–164, https://doi.org/10.1007/BF00696578, 1995. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1002/2016GL069239</doi>
+              <unstructured_citation>Kiendler-Scharr, A., Mensah, A. A., Friese, E., Topping, D., Nemitz, E.,
+Prevot, A. S. H., Äijälä, M., Allan, J., Canonaco, F.,
+Canagaratna, M., Carbone, S., Crippa, M., Dall Osto, M., Day, D. A., De
+Carlo, P., Di Marco, C. F., Elbern, H., Eriksson, A., Freney, E., Hao, L.,
+Herrmann, H., Hildebrandt, L., Hillamo, R., Jimenez, J. L., Laaksonen, A.,
+McFiggans, G., Mohr, C., O'Dowd, C., Otjes, R., Ovadnevaite, J., Pandis, S.
+N., Poulain, L., Schlag, P., Sellegri, K., Swietlicki, E., Tiitta, P.,
+Vermeulen, A., Wahner, A., Worsnop, D., and Wu, H. C.: Ubiquity of organic
+nitrates from nighttime chemistry in the European submicron aerosol,
+Geophys. Res. Lett., 43, 7735–7744, https://doi.org/10.1002/2016GL069239, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/acp-16-1417-2016</doi>
+              <unstructured_citation>La, Y. S., Camredon, M., Ziemann, P. J., Valorso, R., Matsunaga, A., Lannuque, V., Lee-Taylor, J., Hodzic, A., Madronich, S., and Aumont, B.: Impact of chamber wall loss of gaseous organic compounds on secondary organic aerosol formation: explicit modeling of SOA formation from alkane and alkene oxidation, Atmos. Chem. Phys., 16, 1417–1431, https://doi.org/10.5194/acp-16-1417-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-15-595-2015</doi>
+              <unstructured_citation>Lee-Taylor, J., Hodzic, A., Madronich, S., Aumont, B., Camredon, M., and Valorso, R.: Multiday production of condensing organic aerosol mass in urban and forest outflow, Atmos. Chem. Phys., 15, 595–615, https://doi.org/10.5194/acp-15-595-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1021/es802039y</doi>
+              <unstructured_citation>Li, K. and Crittenden, J.: Computerized pathway elucidation for hydroxyl
+radical-induced chain reaction mechanisms in aqueous phase advanced
+oxidation processes, Environ. Sci. Technol., 43, 2831–2837,
+https://doi.org/10.1021/es802039y, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-4-2241-2004</doi>
+              <unstructured_citation>Mayer, B. and Madronich, S.: Actinic flux and photolysis in water droplets: Mie calculations and geometrical optics limit, Atmos. Chem. Phys., 4, 2241–2250, https://doi.org/10.5194/acp-4-2241-2004, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-16-2785-2016</doi>
+              <unstructured_citation>McVay, R. C., Zhang, X., Aumont, B., Valorso, R., Camredon, M., La, Y. S., Wennberg, P. O., and Seinfeld, J. H.: SOA formation from the photooxidation of a-pinene: systematic exploration of the simulation of chamber data, Atmos. Chem. Phys., 16, 2785–2802, https://doi.org/10.5194/acp-16-2785-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1021/es900956c</doi>
+              <unstructured_citation>Minakata, D., Li, K., Westerhoff, P., and Crittenden, J.: Development of a
+group contribution method to predict aqueous phase hydroxyl radical (HO)
+reaction rate constants, Environ. Sci. Technol., 43, 6220–6227,
+https://doi.org/10.1021/es900956c, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1016/j.atmosenv.2008.06.005</doi>
+              <unstructured_citation>Monod, A. and Doussin, J. F.: Structure-activity relationship for the
+estimation of OH-oxidation rate constants of aliphatic organic compounds in
+the aqueous phase: alkanes, alcohols, organic acids and bases, Atmos.
+Environ., 42, 7611–7622, https://doi.org/10.1016/j.atmosenv.2008.06.005, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/acp-13-1023-2013</doi>
+              <unstructured_citation>Mouchel-Vallon, C., Bräuer, P., Camredon, M., Valorso, R., Madronich, S., Herrmann, H., and Aumont, B.: Explicit modeling of volatile organic compounds partitioning in the atmospheric aqueous phase, Atmos. Chem. Phys., 13, 1023–1037, https://doi.org/10.5194/acp-13-1023-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/gmd-10-1339-2017</doi>
+              <unstructured_citation>Mouchel-Vallon, C., Deguillaume, L., Monod, A., Perroux, H., Rose, C., Ghigo, G., Long, Y., Leriche, M., Aumont, B., Patryl, L., Armand, P., and Chaumerliac, N.: CLEPS 1.0: A new protocol for cloud aqueous phase oxidation of VOC mechanisms, Geosci. Model Dev., 10, 1339–1362, https://doi.org/10.5194/gmd-10-1339-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1016/j.atmosenv.2015.10.080</doi>
+              <unstructured_citation>Mutzel, A., Rodigast, M., Iinuma, Y., Böge, O., and Herrmann, H.: Monoterpene SOA – Contribution of first-generation oxidation products to formation and chemical composition, Atmos. Environ., 130, 136–144, https://doi.org/10.1016/j.atmosenv.2015.10.080, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/acp-18-11073-2018</doi>
+              <unstructured_citation>Pereira, K. L., Dunmore, R., Whitehead, J., Alfarra, M. R., Allan, J. D., Alam, M. S., Harrison, R. M., McFiggans, G., and Hamilton, J. F.: Technical note: Use of an atmospheric simulation chamber to investigate the effect of different engine conditions on unregulated VOC-IVOC diesel exhaust emissions, Atmos. Chem. Phys., 18, 11073–11096, https://doi.org/10.5194/acp-18-11073-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1007/978-94-009-5883-8</doi>
+              <unstructured_citation>Perrin, D. D., Dempsey, B., and Serjeant, E. P.: pKa prediction for organic
+acids and bases, Chapman and Hall, London, UK, 1981. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/acp-10-7643-2010</doi>
+              <unstructured_citation>Raventos-Duran, T., Camredon, M., Valorso, R., Mouchel-Vallon, C., and Aumont, B.: Structure-activity relationships to estimate the effective Henry's law constants of organics of atmospheric interest, Atmos. Chem. Phys., 10, 7643–7654, https://doi.org/10.5194/acp-10-7643-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Ross, A. B., Bielski, B. H. J., Buxton, G. V, Cabelli, D. E., Helman, W. P.,
+Huie, R. E., Grodkowski, J., Neta, P., Mulazzani, Q. G., and Wilkinson, F.:
+NIST Standard Reference Database 40, Version 3.0, Gaithersburg, MD, USA,
+1998. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-8-5997-2008</doi>
+              <unstructured_citation>Salma, I. and Láng, G. G.: How many carboxyl groups does an average molecule of humic-like substances contain?, Atmos. Chem. Phys., 8, 5997–6002, https://doi.org/10.5194/acp-8-5997-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/acp-3-161-2003</doi>
+              <unstructured_citation>Saunders, S. M., Jenkin, M. E., Derwent, R. G., and Pilling, M. J.: Protocol for the development of the Master Chemical Mechanism, MCM v3 (Part A): tropospheric degradation of non-aromatic volatile organic compounds, Atmos. Chem. Phys., 3, 161–180, https://doi.org/10.5194/acp-3-161-2003, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1021/jp2120753</doi>
+              <unstructured_citation>Schaefer, T., Schindelka, J., Hoffmann, D., and Herrmann, H.: Laboratory
+kinetic and mechanistic studies on the OH-initiated oxidation of acetone in
+aqueous solution, J. Phys. Chem. A, 116, 6317–6326,
+https://doi.org/10.1021/jp2120753, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1039/c3cp54859g</doi>
+              <unstructured_citation>Schöne, L., Schindelka, J., Szeremeta, E., Schaefer, T., Hoffmann, D.,
+Rudzinski, K. J., Szmigielski, R., and Herrmann, H.: Atmospheric aqueous
+phase radical chemistry of the isoprene oxidation products methacrolein,
+methyl vinyl ketone, methacrylic acid and acrylic acid – kinetics and
+product studies, Phys. Chem. Chem. Phys., 16, 6257–6272,
+https://doi.org/10.1039/C3CP54859G, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1515/znb-1984-0217</doi>
+              <unstructured_citation>Schuchmann, H. P. and von Sonntag, C.: Methylperoxyl Radicals: A Study of
+the γ-Radiolysis of Methane in Oxygenated Aqueous Solutions,
+Zeitschrift fur Naturforsch. – Sect. B J. Chem. Sci., 39, 217–221,
+https://doi.org/10.1515/znb-1984-0217, 1984. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1515/znb-1985-0212</doi>
+              <unstructured_citation>Schuchmann, M. N., Zegota, H., and von Sonntag, C.: Acetate peroxyl radicals,
+O2CH2CO2− - A study on the gamma radiolysis and pulse-radiolysis of acetate
+in oxygenated aqueous solutions, Zeitschrift für Naturforsch.
+Sect. B – A J. Chem. Sci., 40, 215–221, 1985. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1007/978-3-642-70627-1_16</doi>
+              <unstructured_citation>Schwartz, S. E.: Mass transport considerations pertinent to aqueous phase
+reactions of gases in liquid water clouds, edited by: Jaeschke, W.,
+415–471, Springer, Berlin, Germany, 1986. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1016/S0021-8502(02)00159-3</doi>
+              <unstructured_citation>Sierau, B., Stratmann, F., Pelzing, M., Neusüß, C., Hofmann, D., and Wilck, M.: A condensation-growth and impaction method for rapid off-line chemical-characterization of organic submicrometer atmospheric aerosol particles, J. Aerosol Sci., 34, 225–242, https://doi.org/10.1016/S0021-8502(02)00159-3, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1016/j.atmosenv.2010.07.050</doi>
+              <unstructured_citation>Tilgner, A. and Herrmann, H.: Radical-driven carbonyl-to-acid conversion and
+acid degradation in tropospheric aqueous systems studied by CAPRAM, Atmos.
+Environ., 44, 5415–5422, 2010.  </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1007/s10874-013-9267-4</doi>
+              <unstructured_citation>Tilgner, A., Bräuer, P., Wolke, R., and Herrmann, H.: Modelling
+multiphase chemistry in deliquescent aerosols and clouds using CAPRAM3.0i,
+J. Atmos. Chem., 70, 221–256, https://doi.org/10.1007/s10874-013-9267-4, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1002/kin.21172</doi>
+              <unstructured_citation>Vereecken, L., Aumont, B., Barnes, I., Bozzelli, J. W., Goldman, M. J.,
+Green, W. H., Madronich, S., Mcgillen, M. R., Mellouki, A., Orlando, J. J.,
+Picquet-Varrault, B., Rickard, A. R., Stockwell, W. R., Wallington, T. J.,
+and Carter, W. P. L.: Perspective on Mechanism Development and
+Structure-Activity Relationships for Gas-Phase Atmospheric Chemistry, Int.
+J. Chem. Kinet., 50, 435–469, https://doi.org/10.1002/kin.21172, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>von Sonntag, C.: The chemical basis of radiation biology, Taylor and
+Francis, London, Great Britain, 1987. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1002/anie.199112291</doi>
+              <unstructured_citation>von Sonntag, C. and Schuchmann, H. P.: The elucidation of peroxyl radical
+reactions in aqueous solution with the help of radiation chemical methods,
+Angew. Chemie – Int. Ed. English, 30, 1229–1253,
+https://doi.org/10.1002/anie.199112291, 1991. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1016/S0273-1223(97)00003-6</doi>
+              <unstructured_citation>von Sonntag, C., Dowideit, P., Fang, X. W., Mertens, R., Pan, X. M.,
+Schuchmann, M. N., and Schuchmann, H. P.: The fate of peroxyl radicals in
+aqueous solution, Water Sci. Technol., 35, 9–15,
+https://doi.org/10.1016/S0273-1223(97)00003-6, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.5194/acp-17-7529-2017</doi>
+              <unstructured_citation>Wang, C., Yuan, T., Wood, S. A., Goss, K.-U., Li, J., Ying, Q., and Wania, F.: Uncertain Henry's law constants compromise equilibrium partitioning calculations of atmospheric oxidation products, Atmos. Chem. Phys., 17, 7529–7540, https://doi.org/10.5194/acp-17-7529-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.02.038</doi>
+              <unstructured_citation>Wolke, R., Sehili, A. M., Simmel, M., Knoth, O., Tilgner, A., and Herrmann,
+H.: SPACCIM: A parcel model with detailed microphysics and complex
+multiphase chemistry, Atmos. Environ., 39, 4375–4388,
+https://doi.org/10.1016/j.atmosenv.2005.02.038, 2005. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/acp-19-9209-2019-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/19/9209/2019/acp-19-9209-2019-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

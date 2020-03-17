@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-12 22:51:51">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>17</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Assimilation of satellite NO&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; observations at high spatial resolution using OSSEs</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Xueling</given_name>
+              <surname>Liu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Arthur P.</given_name>
+              <surname>Mizzi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey L.</given_name>
+              <surname>Anderson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Inez Y.</given_name>
+              <surname>Fung</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ronald C.</given_name>
+              <surname>Cohen</surname>
+              <ORCID>https://orcid.org/0000-0001-6617-7691</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Observations of trace gases from space-based instruments offer the opportunity to constrain chemical and weather forecast and reanalysis models using the tools of data assimilation. In this study, observing system simulation experiments (OSSEs) are performed to investigate the potential of high space- and time-resolution column measurements as constraints on urban NO<sub><i>x</i></sub> emissions. The regional chemistry–meteorology assimilation system where meteorology and chemical variables are simultaneously assimilated is comprised of a chemical transport model, WRF-Chem, the Data Assimilation Research Testbed, and a geostationary observation simulator. We design OSSEs to investigate the sensitivity of emission inversions to the accuracy and uncertainty of the wind analyses and the emission updating scheme. We describe the overall model framework and some initial experiments that point out the first steps toward an optimal configuration for improving our understanding of NO<sub><i>x</i></sub> emissions by combining space-based measurements and data assimilation. Among the findings we describe is the dependence of errors in the estimated NO<sub><i>x</i></sub> emissions on the wind forecast errors, showing that wind vectors with a RMSE below 1<span class="thinspace"></span>m<span class="thinspace"></span>s<sup>−1</sup> allow inference of NO<sub><i>x</i></sub> emissions with a RMSE of less than 30<span class="thinspace"></span>mol/(km<sup>2</sup><span class="thinspace"></span> × <span class="thinspace"></span>h) at the 3<span class="thinspace"></span>km scale of the model we use. We demonstrate that our inference of emissions is more accurate when we simultaneously update both NO<sub><i>x</i></sub> emissions and NO<sub><i>x</i></sub> concentrations instead of solely updating emissions. Furthermore, based on our analyses, we recommend carrying out meteorology assimilations to stabilize NO<sub>2</sub> transport from the initial wind errors before starting the emission assimilation. We show that wind uncertainties (calculated as a spread around a mean wind) are not important for estimating NO<sub><i>x</i></sub> emissions when the wind uncertainties are reduced below 1.5<span class="thinspace"></span>m<span class="thinspace"></span>s<sup>−1</sup>. Finally, we present results assessing the role of separate vs. simultaneous chemical and meteorological assimilation in a model framework without covariance between the meteorology and chemistry.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>15</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>7067</first_page>
+            <last_page>7081</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX15AE37G</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-17-7067-2017</doi>
+            <resource>https://www.atmos-chem-phys.net/17/7067/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/17/7067/2017/acp-17-7067-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/MWR3224.1</doi>
+              <unstructured_citation>Aksoy, A., Zhang, F. and Nielsen-Gammon, J. W.: Ensemble-Based Simultaneous State and Parameter Estimation in a Two-Dimensional Sea-Breeze Model, Mon. Weather Rev., 134, 2951–2970, https://doi.org/10.1175/MWR3224.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/2009BAMS2618.1</doi>
+              <unstructured_citation>Anderson, J., Hoar, T., Raeder, K., Liu, H., Collins, N., Torn, R., and Avellano, A.: The Data Assimilation Research Testbed: A Community Facility, Bull. Am. Meteorol. Soc., 90, 1283–1296, https://doi.org/10.1175/2009BAMS2618.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;2884:AEAKFF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Anderson, J. L.: An Ensemble Adjustment Kalman Filter for Data Assimilation, Mon. Weather Rev., 129, 2884–2902, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/JTECH2049.1</doi>
+              <unstructured_citation>Anderson, J. L. and Collins, N.: Scalable Implementations of Ensemble Filter Algorithms for Data Assimilation, J. Atmos. Ocean. Tech., 24, 1452–1463, https://doi.org/10.1175/JTECH2049.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/acp-7-5695-2007</doi>
+              <unstructured_citation>Arellano Jr., A. F., Raeder, K., Anderson, J. L., Hess, P. G., Emmons, L. K., Edwards, D. P., Pfister, G. G., Campos, T. L., and Sachse, G. W.: Evaluating model performance of an ensemble-based chemical data assimilation system during INTEX-B field mission, Atmos. Chem. Phys., 7, 5695–5710, https://doi.org/10.5194/acp-7-5695-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1016/j.atmosenv.2008.12.005</doi>
+              <unstructured_citation>Barbu, A. L., Segers, A. J., Schaap, M., Heemink, A. W., and Builtjes, P. J. H.: A multi-component data assimilation experiment directed to sulphur dioxide and sulphate over Europe, Atmos. Environ., 43, 1622–1631, https://doi.org/10.1016/j.atmosenv.2008.12.005, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/BAMS-D-11-00167.1</doi>
+              <unstructured_citation>Barker, D., Huang, X.-Y., Liu, Z., Auligné, T., Zhang, X., Rugg, S., Ajjaji, R., Bourgeois, A., Bray, J., Chen, Y., Demirtas, M., Guo, Y.-R., Henderson, T., Huang, W., Lin, H.-C., Michalakes, J., Rizvi, S., and Zhang, X.: The Weather Research and Forecasting Model's Community Variational/Ensemble Data Assimilation System: WRFDA, Bull. Am. Meteorol. Soc., 93, 831–843, https://doi.org/10.1175/BAMS-D-11-00167.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/2015JD023467</doi>
+              <unstructured_citation>Barré, J., Gaubert, B., Arellano, A. F. J., Worden, H. M., Edwards, D. P., Deeter, M. N., Anderson, J. L., Raeder, K., Collins, N., Tilmes, S., Francis, G., Clerbaux, C., Emmons, L. K., Pfister, G. G., Coheur, P.-F., and Hurtmans, D.: Assessing the impacts of assimilating IASI and MOPITT CO retrievals using CESM-CAM-chem and DART, J. Geophys. Res.-Atmos., 120, 10501–10529, https://doi.org/10.1002/2015JD023467, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1126/science.1207824</doi>
+              <unstructured_citation>Beirle, S., Boersma, K. F., Platt, U., Lawrence, M. G., and Wagner, T.: Megacity emissions and lifetimes of nitrogen oxides probed from space, Science, 333, 1737–9, https://doi.org/10.1126/science.1207824, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2003JD003962</doi>
+              <unstructured_citation>Boersma, K. F., Eskes, H. J., and Brinksma, E. J.: Error analysis for tropospheric NO2 retrieval from space, J. Geophys. Res., 109, D04311, https://doi.org/10.1029/2003JD003962, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/acp-16-6175-2016</doi>
+              <unstructured_citation>Bousserez, N., Henze, D. K., Rooney, B., Perkins, A., Wecht, K. J., Turner, A. J., Natraj, V., and Worden, J. R.: Constraints on methane emissions in North America from future geostationary remote sensing measurements, Atmos. Chem. Phys., 16, 6175–6190, https://doi.org/10.5194/acp-16-6175-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1016/j.atmosenv.2013.07.007</doi>
+              <unstructured_citation>Bowman, K. W.: Toward the next generation of air quality monitoring: Ozone, Atmos. Environ., 80, 571–583, https://doi.org/10.1016/j.atmosenv.2013.07.007, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-6-2607-2013</doi>
+              <unstructured_citation>Bucsela, E. J., Krotkov, N. A., Celarier, E. A., Lamsal, L. N., Swartz, W. H., Bhartia, P. K., Boersma, K. F., Veefkind, J. P., Gleason, J. F., and Pickering, K. E.: A new stratospheric and tropospheric NO2 retrieval algorithm for nadir-viewing satellite instruments: applications to OMI, Atmos. Meas. Tech., 6, 2607–2626, https://doi.org/10.5194/amt-6-2607-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2012JD018176</doi>
+              <unstructured_citation>Chatterjee, A., Michalak, A. M., Anderson, J. L., Mueller, K. L., and Yadav, V.: Toward reliable ensemble Kalman filter estimates of CO2 fluxes, J. Geophys. Res.-Atmos., 117, 1–17, https://doi.org/10.1029/2012JD018176, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/amt-4-297-2011</doi>
+              <unstructured_citation>Claeyman, M., Attié, J.-L., Peuch, V.-H., El Amraoui, L., Lahoz, W. A., Josse, B., Ricaud, P., von Clarmann, T., Höpfner, M., Orphal, J., Flaud, J.-M., Edwards, D. P., Chance, K., Liu, X., Pasternak, F., and Cantié, R.: A geostationary thermal infrared sensor to monitor the lowermost troposphere: O3 and CO retrieval studies, Atmos. Meas. Tech., 4, 297–317, https://doi.org/10.5194/amt-4-297-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/2014JD023002</doi>
+              <unstructured_citation>Cui, Y. Y., Brioude, J., McKeen, S. A., Angevine, W. M., Kim, S.-W., Frost, G. J., Ahmadov, R., Peischl, J., Bousserez, N., Liu, Z., and Ryerson, T. B.: Top-down estimate of methane emissions in California using a mesoscale inverse modeling technique: The South Coast Air Basin, J. Geophys. Res. Atmos., 120, 6698–6711, https://doi.org/10.1002/2014JD023002, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2008JD011375</doi>
+              <unstructured_citation>Edwards, D. P., Arellano, A. F., and Deeter, M. N.: A satellite observation system simulation experiment for carbon monoxide in the lowermost troposphere, J. Geophys. Res., 114, D14304, https://doi.org/10.1029/2008JD011375, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/acp-7-3749-2007</doi>
+              <unstructured_citation>Elbern, H., Strunk, A., Schmidt, H., and Talagrand, O.: Emission rate and chemical state estimation by 4-dimensional variational inversion, Atmos. Chem. Phys., 7, 3749–3769, https://doi.org/10.5194/acp-7-3749-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1007/s10236-003-0036-9</doi>
+              <unstructured_citation>Evensen, G.: The ensemble Kalman Filter: theoretical formula- tion and practical implementation, Ocean Dynam., 53, 343–367, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/BAMS-D-11-00201.1</doi>
+              <unstructured_citation>Fishman, J., Iraci, L. T., Al-Saadi, J., Chance, K., Chavez, F., Chin, M., Coble, P., Davis, C., DiGiacomo, P. M., Edwards, D., Eldering, A., Goes, J., Herman, J., Hu, C., Jacob, D. J., Jordan, C., Kawa, S. R., Key, R., Liu, X., Lohrenz, S., Mannino, A., Natraj, V., Neil, D., Neu, J., Newchurch, M., Pickering, K., Salisbury, J., Sosik, H., Subramaniam, A., Tzortziou, M., Wang, J., and Wang, M.: The United States' Next Generation of Atmospheric Composition and Coastal Ecosystem Measurements: NASA's Geostationary Coastal and Air Pollution Events (GEO-CAPE) Mission, Bull. Am. Meteorol. Soc., 93, 1547–1566, https://doi.org/10.1175/BAMS-D-11-00201.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1002/qj.49712555417</doi>
+              <unstructured_citation>Gaspari, G., Gaspari, G., Cohn, S. E., and Cohn, S. E.: Construction of correlation functions in two and three dimensions, Q. J. R. Meteorol. Soc., 125, 723–757, https://doi.org/10.1002/qj.49712555417, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/gmd-7-283-2014</doi>
+              <unstructured_citation>Gaubert, B., Coman, A., Foret, G., Meleux, F., Ung, A., Rouil, L., Ionescu, A., Candau, Y., and Beekmann, M.: Regional scale ozone data assimilation using an ensemble Kalman filter and the CHIMERE chemical transport model, Geosci. Model Dev., 7, 283–302, https://doi.org/10.5194/gmd-7-283-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/gmd-8-1857-2015</doi>
+              <unstructured_citation>Guerrette, J. J. and Henze, D. K.: Development and application of the WRFPLUS-Chem online chemistry adjoint and WRFDA-Chem assimilation system, Geosci. Model Dev., 8, 1857–1876, https://doi.org/10.5194/gmd-8-1857-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/amt-7-2185-2014</doi>
+              <unstructured_citation>Hache, E., Attié, J.-L., Tourneur, C., Ricaud, P., Coret, L., Lahoz, W. A., El Amraoui, L., Josse, B., Hamer, P., Warner, J., Liu, X., Chance, K., Höpfner, M., Spurr, R., Natraj, V., Kulawik, S., Eldering, A., and Orphal, J.: The added value of a visible channel to a geostationary thermal infrared instrument to monitor ozone for air quality, Atmos. Meas. Tech., 7, 2185–2201, https://doi.org/10.5194/amt-7-2185-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;0123:ASEKFF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Houtekamer, P. L. and Mitchell, H. L.: A sequential ensemble Kalman filter for atmospheric data assimilation, Mon. Weather Rev., 129, 123–137, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/2010JAMC2432.1</doi>
+              <unstructured_citation>Hu, X.-M., Nielsen-Gammon, J. W., and Zhang, F.: Evaluation of Three Planetary Boundary Layer Schemes in the WRF Model, J. Appl. Meteorol. Climatol., 49, 1831–1844, https://doi.org/10.1175/2010JAMC2432.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/2010JD014673</doi>
+              <unstructured_citation>Kang, J.-S., Kalnay, E., Liu, J., Fung, I., Miyoshi, T., and Ide, K.: “Variable localization” in an ensemble Kalman filter: Application to the carbon cycle data assimilation, J. Geophys. Res., 116, D09110, https://doi.org/10.1029/2010JD014673, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2012JD018259</doi>
+              <unstructured_citation>Kang, J.-S., Kalnay, E., Miyoshi, T., Liu, J., and Fung, I.: Estimation of surface carbon fluxes with an advanced data assimilation methodology, J. Geophys. Res.-Atmos., 117, D24101, https://doi.org/10.1029/2012JD018259, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/acp-13-5887-2013</doi>
+              <unstructured_citation>Koohkan, M. R., Bocquet, M., Roustan, Y., Kim, Y., and Seigneur, C.: Estimation of volatile organic compound emissions for Europe using data assimilation, Atmos. Chem. Phys., 13, 5887–5905, https://doi.org/10.5194/acp-13-5887-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/acp-12-2441-2012</doi>
+              <unstructured_citation>Kretschmer, R., Gerbig, C., Karstens, U., and Koch, F.-T.: Error characterization of CO2 vertical mixing in the atmospheric transport model WRF-VPRM, Atmos. Chem. Phys., 12, 2441–2458, https://doi.org/10.5194/acp-12-2441-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-14-7149-2014</doi>
+              <unstructured_citation>Kretschmer, R., Gerbig, C., Karstens, U., Biavati, G., Vermeulen, A., Vogel, F., Hammer, S., and Totsche, K. U.: Impact of optimized mixing heights on simulated regional atmospheric transport of CO2, Atmos. Chem. Phys., 14, 7149–7172, https://doi.org/10.5194/acp-14-7149-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/acp-16-4605-2016</doi>
+              <unstructured_citation>Krotkov, N. A., McLinden, C. A., Li, C., Lamsal, L. N., Celarier, E. A., Marchenko, S. V., Swartz, W. H., Bucsela, E. J., Joiner, J., Duncan, B. N., Boersma, K. F., Veefkind, J. P., Levelt, P. F., Fioletov, V. E., Dickerson, R. R., He, H., Lu, Z., and Streets, D. G.: Aura OMI observations of regional SO2 and NO2 pollution changes from 2005 to 2014, Atmos. Chem. Phys., 16, 4605–4629, https://doi.org/10.5194/acp-16-4605-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/BAMS-D-11-00045.1</doi>
+              <unstructured_citation>Lahoz, W. A., Peuch, V.-H., Orphal, J., Attié, J.-L., Chance, K., Liu, X., Edwards, D., Elbern, H., Flaud, J.-M., Claeyman, M., and Amraoui, L. El: Monitoring Air Quality from Space: The Case for the Geostationary Platform, Bull. Am. Meteorol. Soc., 93, 221–233, https://doi.org/10.1175/BAMS-D-11-00045.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-16-15247-2016</doi>
+              <unstructured_citation>Laughner, J. L., Zare, A., and Cohen, R. C.: Effects of daily meteorology on the interpretation of space-based remote sensing of NO2, Atmos. Chem. Phys., 16, 15247–15264, https://doi.org/10.5194/acp-16-15247-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1002/2013JD020175</doi>
+              <unstructured_citation>Lauvaux, T. and Davis, K. J.: Planetary boundary layer errors in mesoscale inversions of column-integrated CO2 measurements, J. Geophys. Res.-Atmos., 119, 490–508, https://doi.org/10.1002/2013JD020175, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2011GL047213</doi>
+              <unstructured_citation>Liu, J., Fung, I., Kalnay, E., and Kang, J.-S.: CO2 transport uncertainties from the uncertainties in meteorological fields, Geophys. Res. Lett., 38, L12808, https://doi.org/10.1029/2011GL047213, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/acp-12-9545-2012</doi>
+              <unstructured_citation>Miyazaki, K., Eskes, H. J., Sudo, K., Takigawa, M., van Weele, M., and Boersma, K. F.: Simultaneous assimilation of satellite NO2, O3, CO, and HNO3 data for the analysis of tropospheric chemical composition and emissions, Atmos. Chem. Phys., 12, 9545–9579, https://doi.org/10.5194/acp-12-9545-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/acp-17-807-2017</doi>
+              <unstructured_citation>Miyazaki, K., Eskes, H., Sudo, K., Boersma, K. F., Bowman, K., and Kanaya, Y.: Decadal changes in global surface NOx emissions from multi-constituent satellite data assimilation, Atmos. Chem. Phys., 17, 807–837, https://doi.org/10.5194/acp-17-807-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/gmd-9-965-2016</doi>
+              <unstructured_citation>Mizzi, A. P., Arellano Jr., A. F., Edwards, D. P., Anderson, J. L., and Pfister, G. G.: Assimilating compact phase space retrievals of atmospheric composition with WRF-Chem/DART: a regional chemical transport/ensemble Kalman filter data assimilation system, Geosci. Model Dev., 9, 965–978, https://doi.org/10.5194/gmd-9-965-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/2012JD018333</doi>
+              <unstructured_citation>Pagowski, M. and Grell, G. A.: Experiments with the assimilation of fine aerosols using an ensemble Kalman filter, J. Geophys. Res.-Atmos., 117, D21302, https://doi.org/10.1029/2012JD018333, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/MWR-D-12-00112.1</doi>
+              <unstructured_citation>Romine, G. S., Schwartz, C. S., Snyder, C., Anderson, J. L., and Weisman, M. L.: Model Bias in a Continuously Cycled Assimilation System and Its Influence on Convection-Permitting Forecasts, Mon. Weather Rev., 141, 1263–1284, https://doi.org/10.1175/MWR-D-12-00112.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/acp-11-8543-2011</doi>
+              <unstructured_citation>Russell, A. R., Perring, A. E., Valin, L. C., Bucsela, E. J., Browne, E. C., Wooldridge, P. J., and Cohen, R. C.: A high spatial resolution retrieval of NO2 column densities from OMI: method and evaluation, Atmos. Chem. Phys., 11, 8543–8554, https://doi.org/10.5194/acp-11-8543-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/acp-12-12197-2012</doi>
+              <unstructured_citation>Russell, A. R., Valin, L. C., and Cohen, R. C.: Trends in OMI NO2 observations over the United States: effects of emission control technology and the economic recession, Atmos. Chem. Phys., 12, 12197–12209, https://doi.org/10.5194/acp-12-12197-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1002/2014GL062089</doi>
+              <unstructured_citation>Saide, P. E., Kim, J., Song, C. H., Choi, M., Cheng, Y., and Carmichael, G. R.: Assimilation of next generation geostationary aerosol optical depth retrievals to improve air quality simulations, Geophys. Res. Lett., 41, 9188–9196, https://doi.org/10.1002/2014GL062089.Received, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/JD095iD10p16343</doi>
+              <unstructured_citation>Stockwell, W. R., Middleton, P., Chang, J. S., and Tang, X.: The second generation regional acid deposition model chemical mechanism for regional air quality modeling, J. Geophys. Res., 95, 16343, https://doi.org/10.1029/JD095iD10p16343, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-16-13561-2016</doi>
+              <unstructured_citation>Travis, K. R., Jacob, D. J., Fisher, J. A., Kim, P. S., Marais, E. A., Zhu, L., Yu, K., Miller, C. C., Yantosca, R. M., Sulprizio, M. P., Thompson, A. M., Wennberg, P. O., Crounse, J. D., St. Clair, J. M., Cohen, R. C., Laugher, J. L., Dibb, J. E., Hall, S. R., Ullmann, K., Wolfe, G. M., Pollack, I. B., Peischl, J., Neuman, J. A., and Zhou, X.: NOx emissions, isoprene oxidation pathways, vertical mixing, and implications for surface ozone in the Southeast United States, Atmos. Chem. Phys., 16, 13561–13577, https://doi.org/10.5194/acp-16-13561-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-15-7049-2015</doi>
+              <unstructured_citation>Turner, A. J., Jacob, D. J., Wecht, K. J., Maasakkers, J. D., Lundgren, E., Andrews, A. E., Biraud, S. C., Boesch, H., Bowman, K. W., Deutscher, N. M., Dubey, M. K., Griffith, D. W. T., Hase, F., Kuze, A., Notholt, J., Ohyama, H., Parker, R., Payne, V. H., Sussmann, R., Sweeney, C., Velazco, V. A., Warneke, T., Wennberg, P. O., and Wunch, D.: Estimating global and North American methane emissions with high spatial resolution using GOSAT satellite data, Atmos. Chem. Phys., 15, 7049–7069, https://doi.org/10.5194/acp-15-7049-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-11-11647-2011</doi>
+              <unstructured_citation>Valin, L. C., Russell, A. R., Hudman, R. C., and Cohen, R. C.: Effects of model resolution on the interpretation of satellite NO2 observations, Atmos. Chem. Phys., 11, 11647–11655, https://doi.org/10.5194/acp-11-11647-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1002/grl.50267</doi>
+              <unstructured_citation>Valin, L. C., Russell, A. R., and Cohen, R. C.: Variations of OH radical in an urban plume inferred from NO2 column measurements, Geophys. Res. Lett., 40, 1856–1860, https://doi.org/10.1002/grl.50267, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1016/j.atmosenv.2013.03.032</doi>
+              <unstructured_citation>Yumimoto, K.: Impacts of geostationary satellite measurements on CO forecasting: An observing system simulation experiment with GEOS-Chem/LETKF data assimilation system, Atmos. Environ., 74, 123–133, https://doi.org/10.1016/j.atmosenv.2013.03.032, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1016/j.atmosenv.2013.11.048</doi>
+              <unstructured_citation>Zoogman, P., Jacob, D. J., Chance, K., Worden, H. M., Edwards, D. P., and Zhang, L.: Improved monitoring of surface ozone by joint assimilation of geostationary satellite observations of ozone and CO, Atmos. Environ., 84, 254–261, https://doi.org/10.1016/j.atmosenv.2013.11.048, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1016/j.jqsrt.2016.05.008</doi>
+              <unstructured_citation>Zoogman, P., Liu, X., Suleiman, R. M., Pennington, W. F., Flittner, D. E., Al-Saadi, J. A., Hilton, B. B., Nicks, D. K., Newchurch, M. J., Carr, J. L., Janz, S. J., Andraschko, M. R., Arola, A., Baker, B. D., Canova, B. P., Chan Miller, C., Cohen, R. C., Davis, J. E., Dussault, M. E., Edwards, D. P., Fishman, J., Ghulam, A., González Abad, G., Grutter, M., Herman, J. R., Houck, J., Jacob, D. J., Joiner, J., Kerridge, B. J., Kim, J., Krotkov, N. A., Lamsal, L., Li, C., Lindfors, A., Martin, R. V., McElroy, C. T., McLinden, C., Natraj, V., Neil, D. O., Nowlan, C. R., O'Sullivan, E. J., Palmer, P. I., Pierce, R. B., Pippin, M. R., Saiz-Lopez, A., Spurr, R. J. D., Szykman, J. J., Torres, O., Veefkind, J. P., Veihelmann, B., Wang, H., Wang, J., and Chance, K.: Tropospheric emissions: Monitoring of pollution (TEMPO), J. Quant. Spectrosc. Radiat. Transf., 186, 17–39, https://doi.org/10.1016/j.jqsrt.2016.05.008, 2017.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

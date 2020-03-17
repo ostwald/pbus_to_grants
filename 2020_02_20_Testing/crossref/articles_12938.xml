@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-15 00:24:30">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Tropospheric CO vertical profiles deduced from total columns using data assimilation: methodology and validation</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>L.</given_name>
+              <surname>El Amraoui</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.-L.</given_name>
+              <surname>Attié</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>P.</given_name>
+              <surname>Ricaud</surname>
+              <ORCID>https://orcid.org/0000-0002-7133-1734</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>W. A.</given_name>
+              <surname>Lahoz</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Piacentini</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>V.-H.</given_name>
+              <surname>Peuch</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J. X.</given_name>
+              <surname>Warner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R.</given_name>
+              <surname>Abida</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Barré</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R.</given_name>
+              <surname>Zbinden</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This paper presents a validation of a method to derive the vertical profile of carbon monoxide (CO) from its total column using data assimilation. We choose version 3 of MOPITT CO total columns to validate the proposed method. MOPITT products have the advantage of providing both the vertical profiles and the total columns of CO. Furthermore, this version has been extensively validated by comparison with many independent data sets, and has been used in many scientific studies. <br><br> The first step of the paper consists in the specification of the observation errors based on the chi-square (&amp;chi;<sup>2</sup>) test. The observations have been binned according to three types: over land during daytime, over land during night-time, and over sea. Their respective errors using the &amp;chi;<sup>2</sup> metric have been found to be 8, 11 and 7%. <br><br> In the second step, the CO total columns, with their specified errors, are used within the assimilation system to estimate the vertical profiles. These are compared to the retrieved profiles of MOPITT V3 at global and regional scales. Generally, the two data sets show similar patterns and good agreement at both scales. Nevertheless, total column analyses slightly overestimate CO concentrations compared to MOPITT observations. The mean bias between both data sets is +15 and +12% at 700 and 250 hPa, respectively. <br><br> In the third step, the assimilation of total column has been compared to the assimilation of MOPITT vertical profiles. The differences between both analyses are very small. In terms longitude–latitude maps, the mean bias between the two data sets is +6 and +8% at the pressure levels 700 and 200 hPa, respectively. In terms of zonal means, the CO distribution is similar for both analyses, with a mean bias which does not exceed 12%. <br><br> Finally, the two analyses have been validated using independent observations from the aircraft-based MOZAIC program in terms of vertical profiles over eight airports. Over most airports, both analyses agree well with aircraft profiles. For more than 50% of recorded measurements, the difference between the analyses and MOZAIC does not exceed 5 ppbv (parts per billion by volume).</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>18</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>3035</first_page>
+            <last_page>3057</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-7-3035-2014</doi>
+            <resource>https://www.atmos-meas-tech.net/7/3035/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/7/3035/2014/amt-7-3035-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/acp-11-363-2011</doi>
+              <unstructured_citation>Bencherif, H., El Amraoui, L., Kirgis, G., Leclair De Bellevue, J., Hauchecorne, A., Mzé, N., Portafaix, T., Pazmino, A., and Goutail, F.: Analysis of a rapid increase of stratospheric ozone during late austral summer 2008 over Kerguelen (49.4° S, 70.3° E), Atmos. Chem. Phys., 11, 363–373, https://doi.org/10.5194/acp-11-363-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2006JD008376</doi>
+              <unstructured_citation>Bian, H., Chin, M., Kawa, S. R., Duncan, B., Arellano, A., and Kasibhatla, P.: Sensitivity of global CO simulations to uncertainties in biomass burning sources, J. Geophys. Res., 112, D23308, https://doi.org/10.1029/2006JD008376, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-10-6097-2010</doi>
+              <unstructured_citation>Claeyman, M., Attié, J.-L., El Amraoui, L., Cariolle, D., Peuch, V.-H., Teyssèdre, H., Josse, B., Ricaud, P., Massart, S., Piacentini, A., Cammas, J.-P., Livesey, N. J., Pumphrey, H. C., and Edwards, D. P.: A linear CO chemistry parameterization in a chemistry-transport model: evaluation and application to data assimilation, Atmos. Chem. Phys., 10, 6097–6115, https://doi.org/10.5194/acp-10-6097-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/amt-4-297-2011</doi>
+              <unstructured_citation>Claeyman, M., Attié, J.-L., Peuch, V.-H., El Amraoui, L., Lahoz, W. A., Josse, B., Ricaud, P., von Clarmann, T., Höpfner, M., Orphal, J., Flaud, J.-M., Edwards, D. P., Chance, K., Liu, X., Pasternak, F., and Cantié, R.: A geostationary thermal infrared sensor to monitor the lowermost troposphere: O3 and CO retrieval studies, Atmos. Meas. Tech., 4, 297–317, https://doi.org/10.5194/amt-4-297-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2000JD900682</doi>
+              <unstructured_citation>Clerbaux, C., Hadji-Lazaro, J., Hauglustaine, D., Megie, G., Khattatov, B., and Lamarque, J.-F.: Assimilation of carbon monoxide measured from satellite in a three-dimensional chemistry-transport model, J. Geophys. Res., 106, 15385–15394, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Courtier, P., Freydier, C., Geleyn, J., Rabier, F., and Rochas, M.: The ARPEGE project at Météo France, in: Atmospheric Models, vol.2, pp. 193–231, Workshop on Numerical Methods, Reading, UK, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1126/science.250.4988.1669</doi>
+              <unstructured_citation>Crutzen, P. J. and Andreae, M. O.: Biomass burning in the tropics: Impact on atmospheric chemistry and biogeochemical cycles, Science, 250, 1669–1678, https://doi.org/10.1126/science.250.4988.1669, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2007JD008929</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Gille, J. C., and Drummond, J. R.: Sensitivity of MOPITT observations to carbon monoxide in the lower troposphere, J. Geophys. Res., 112, D24306, https://doi.org/10.1029/2007JD008929, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/1520-0426(1996)013&lt;0314:TMOPIT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Drummond, J. and Mand, G.: The measurements of pollution in the troposphere (MOPITT) instrument: Overall performance and calibration requirements, J. Atmos. Oceanic Technol., 13, 314–320, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/qj.191</doi>
+              <unstructured_citation>El Amraoui, L., Peuch, V.-H., Ricaud, P., Massart, S., Semane, N., Teyssèdre, H., Cariolle, D., and Karcher, F.: Ozone loss in the 2002–2003 Arctic vortex deduced from the assimilation of Odin/SMR O3 and N2O measurements: N2O as a dynamical tracer, Quart. J. Roy.\\ Meteor. Soc., 134, 217–228, 2008a.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2007GL031251</doi>
+              <unstructured_citation>El Amraoui, L., Semane, N., Peuch, V.-H., and Santee, M. L.: Investigation of dynamical processes in the polar stratospheric vortex during the unusually cold winter 2004/2005, Geophys. Res. Lett., 35, L03803, https://doi.org/10.1029/2007GL031251, 2008b.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/acp-10-2175-2010</doi>
+              <unstructured_citation>El Amraoui, L., Attié, J.-L., Semane, N., Claeyman, M., Peuch, V.-H., Warner, J., Ricaud, P., Cammas, J.-P., Piacentini, A., Josse, B., Cariolle, D., Massart, S., and Bencherif, H.: Midlatitude stratosphere–troposphere exchange as diagnosed by MLS O3 and MOPITT CO assimilated fields, Atmos. Chem. Phys., 10, 2175–2194, https://doi.org/10.5194/acp-10-2175-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-14-177-2014</doi>
+              <unstructured_citation>Emili, E., Barret, B., Massart, S., Le Flochmoen, E., Piacentini, A., El Amraoui, L., Pannekoucke, O., and Cariolle, D.: Combined assimilation of IASI and MLS observations to constrain tropospheric and stratospheric ozone in a global chemical transport model, Atmos. Chem. Phys., 14, 177–198, https://doi.org/10.5194/acp-14-177-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2003JD004101</doi>
+              <unstructured_citation>Emmons, L., Deeter, M., Gille, J., Edwards, D., Attié, J.-L., Warner, J., Ziskin, D., Francis, G., Khattatov, B., Yudin, V., Lamarque, J.-F., HO, S.-P., Mao, D., Chen, J. S., Drummond, J., Novelli, P., Sachse, G., Coffey, M. T., Hannigan, J. W., Gerbig, C., Kawakami, S., Kondo, Y., Takegawa, N., Schlager, H., Baehr, J., and Ziereis, H.: Validation of Measurements of Pollution in the Troposphere (MOPITT) CO retrievals with aircraft in situ profiles, J. Geophys. Res., 109, D3, https://doi.org/10.1029/2003JD004101, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-9-1795-2009</doi>
+              <unstructured_citation>Emmons, L., Edwards, D., Deeter, M., Gille, J., Campos, T., Nédélec, P., Novelli, P., and Sachse, G.: Measurements of Pollution In The Troposphere (MOPITT) validation through 2006, Atmos. Chem. Phys., 9, 1795–1803, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2006JD007833</doi>
+              <unstructured_citation>Emmons, L. K., Pfister, G. G., Edwards, D. P., Gille, J. C., Sachse, G., Blake, D., Wofsy, S., Gerbig, C., Matross, D., and Nédélec, P.: Measurements of Pollution in the Troposphere (MOPITT) validation exercises during summer 2004 field campaigns over North America, J. Geophys. Res., 112, D12S02, https://doi.org/10.1029/2006JD007833, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Fisher, M. and Andersson, E.: Developments in 4D-Var and Kalman filtering, in: Technical Memorandum Research Department, vol. 347, ECMWF, Reading, UK, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1016/S1352-2310(00)00299-5</doi>
+              <unstructured_citation>Granier, C., Petron, G., Muller, J. F., and Brasseur, G.: The impact of natural and anthropogenic hydrocarbons on the tropospheric budget of carbon monoxide, Atmos. Environ., 34, 5255–5270, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.2151/jmsj1965.75.1B_181</doi>
+              <unstructured_citation>Ide, K., Courtier, P., Ghil, M., and Lorenc, A. C.: Unified Notations for Data Assimilation: Operational, Sequential and Variational, J. Meteor. Soc.\\ Japan, 75, 181–189, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2003JD003702</doi>
+              <unstructured_citation>Jones, D., Bowman, K. W., Palmer, P., Worden, J., Jacob, D., Hoffman, R., Bey, I., and Yantosca, R.: Potential of observations from the Troposphere Emission Spectrometer to constrain continental sources of carbon monoxide, J. Geophys. Res., 108, 4789, https://doi.org/10.1029/2003JD003702, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-10-855-2010</doi>
+              <unstructured_citation>Kopacz, M., Jacob, D. J., Fisher, J. A., Logan, J. A., Zhang, L., Megretskaia, I. A., Yantosca, R. M., Singh, K., Henze, D. K., Burrows, J. P., Buchwitz, M., Khlystova, I., McMillan, W. W., Gille, J. C., Edwards, D. P., Eldering, A., Thouret, V., and Nedelec, P.: Global estimates of CO sources with high resolution by adjoint inversion of multiple satellite datasets (MOPITT, AIRS, SCIAMACHY, TES), Atmos. Chem. Phys., 10, 855–876, https://doi.org/10.5194/acp-10-855-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-7-5745-2007</doi>
+              <unstructured_citation>Lahoz, W. A., Errera, Q., Swinbank, R., and Fonteyn, D.: Data assimilation of stratospheric constituents: a review, Atmos. Chem. Phys., 7, 5745–5773, 2007a.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/acp-7-1773-2007</doi>
+              <unstructured_citation>Lahoz, W. A., Geer, A. J., Bekki, S., Bormann, N., Ceccherini, S., Elbern, H., Errera, Q., Eskes, H. J., Fonteyn, D., Jackson, D. R., Khattatov, B., Marchand, M., Massart, S., Peuch, V.-H., Rharmili, S., Ridolfi, M., Segers, A., Talagrand, O., Thornton, H. E., Vik, A. F., and von Clarmann, T.: The Assimilation of Envisat data (ASSET) project, Atmos. Chem. Phys., 7, 1773–1796, 2007b.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/BAMS-D-11-00045.1</doi>
+              <unstructured_citation>Lahoz, W. A., Peuch, V.-H., Orphal, J., Attie, J.-L., Chance, K., Liu, X., Edwards, D., Elbern, H., Flaud, J.-M., Claeyman, M., and El Amraoui, L.: Monitoring Air Quality from space: The case for the geostationary platform, Bull. Amer. Meteor. Soc., 93, 221–233, https://doi.org/10.1175/BAMS-D-11-00045.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1029/1999JD900807</doi>
+              <unstructured_citation>Lamarque, J.-F., Khattatov, B., Gille, J., and Brasseur, G.: Assimilation of MAPS CO in a global three-dimensional model, J. Geophys. Res., 104, 26209–26218, https://doi.org/10.1029/1999JD900807, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/2003JD004402</doi>
+              <unstructured_citation>Liang, Q., Jaeglé, L., Jaffe, D. A., Weiss-Penzias, P., Heckman, A., and Snow, J. A.: Long-range transport of Asian pollution to the northeast Pacific: Seasonal variations and transport pathways of carbon monoxide, J.\\ Geophys. Res., 109, D23S07, https://doi.org/10.1029/2003JD004402, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/2005JD006076</doi>
+              <unstructured_citation>Liu, J., Drummond, J. R., Jones, D. B. A., Cao, Z., Bremer, H., Kar, J., Zou, J., Nichitiu, F., and Gille, J. C.: Large horizontal gradients in atmospheric CO at the synoptic scale as seen by spaceborne Measurements of Pollution in the Troposphere, J. Geophys. Res., 111, D02306, https://doi.org/10.1029/2005JD006076, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1023/A:1005854926740</doi>
+              <unstructured_citation>Mahieu, E., Zander, R., Delbouille, L., Demoulin, P., Roland, G., and Servais, C.: Observed trends in total vertical column abundances of atmospheric gases from IR solar spectra recorded at the Jungfraujoch, J. Atmos. Chem., 28, 227–243, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/acp-3-1551-2003</doi>
+              <unstructured_citation>Nedelec, P., Cammas, J.-P., Thouret, V., Athier, G., Cousin, J.-M., Legrand, C., Abonnel, C., Lecoeur, F., Cayez, G., and Marizy, C.: An improved infrared carbon monoxide analyser for routine measurements aboard commercial Airbus aircraft: technical validation and first scientific results of the MOZAIC III programme, Atmos. Chem. Phys., 3, 1551–1564, https://doi.org/10.5194/acp-3-1551-2003, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1016/j.ocemod.2007.11.002</doi>
+              <unstructured_citation>Oke, P. R., Brassington, G. B., Griffin, D. A., and Schiller, A.: The Bluelink ocean data assimilation system (BODAS), Ocean Model., 21, 46–70, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Peuch, V.-H., Amodei, M., Barthet, T., Cathala, M. L., Michou, M., and Simon, P.: MOCAGE, MOdéle de Chimie Atmosphérique à Grande Echelle, in: Proceedings of Météo France: Workshop on atmospheric modelling, pp. 33–36, Toulouse, France, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1111/j.1600-0889.2006.00185.x</doi>
+              <unstructured_citation>Pradier, S., Attié, J.-L., Chong, M., Escobar, J., Peuch, V.-H., Lamarque, J.-F., Khattatov, B., and Edwards, D.: Evaluation of 2001 springtime CO transport over West Africa using MOPITT CO measurements assimilated in a global chemistry transport model, Tellus, 58B, 163–176, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/2009BAMS2764.1</doi>
+              <unstructured_citation>Rabier, F., Bouchard, A., Brun, E., Doerenbecher, A., Guedj, S., Guidard, V., Karbou, F., Peuch, V., El Amraoui, L., Puech, D., Genthon, C., Picard, G., Town, M., Hertzog, A., Vial, F., Cocquerez, P., Cohn, S., Hock, T., Fox, J., Cole, H., Parsons, D., Powers, J., Romberg, K., VanAndel, J., Deshler, T., Mercer, J., Haase, J., Avallone, L., Kalnajs, L., Mechoso, C., Tangborn, A., Pellegrini, A., Frenot, Y., Thépaut, J., McNally, A., Balsamo, G., and Steinle, P.: The Concordiasi Project in Antarctica, Bull. Amer. Meteor.\\ Soc., 91, 69–86, https://doi.org/10.1175/2009BAMS2764.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1142/9789812813718</doi>
+              <unstructured_citation>Rodgers, C.: Inverse Methods for Atmospheric Sounding: Theory and Practice, Series on Atmospheric, Oceanic and Planetary Physics, Vol. 2, 238 pp., World Scientific, Hackensack, New Jersey, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1002/qj.141</doi>
+              <unstructured_citation>Semane, N., Peuch, V.-H., El Amraoui, L., Bencherif, H., Massart, S., Cariolle, D., Attié, J.-L., and Abida, R.: An observed and analysed stratospheric ozone intrusion over the high Canadian Arctic UTLS region during the summer of 2003, Quart. J. Roy. Meteor. Soc., 133, 171–178, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2008JD010781</doi>
+              <unstructured_citation>Tangborn, A., Stajner, I., Buchwitz, M., Khlystova, I., Pawson, S., Burrows, J., Hudman, R., and Nedelec, P.: Assimilation of SCIAMACHY total column CO observations: Global and regional analysis of data impact, J. Geophys.\\ Res., 114, D07307, https://doi.org/10.1029/2008JD010781, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/98JD02243</doi>
+              <unstructured_citation>Thouret, V., Marenco, A., Logan, J., Nédélec, P., and Grouhel, C.: Comparisons of ozone measurements from the MOZAIC airborne program and the ozone sounding network at eight locations, J. Geophys. Res., 103, 25695–25720, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/qj.49712757518</doi>
+              <unstructured_citation>Weaver, A. and Courtier, P.: Correlation modelling on the sphere using a generalized diffusion equation, Quart. J. Roy. Meteor. Soc., 127, 1815–1846, https://doi.org/10.1002/qj.49712757518, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2007JD009229</doi>
+              <unstructured_citation>Yurganov, L. N., McMillan, W. W., Dzhola, A. V., Grechko, E. I., Jones, N. B., and van der Werf, G. R.: Global AIRS and MOPITT CO measurements: Validation, comparison, and links to biomass burning variations and carbon cycle, J. Geophys. Res., 113, D09301, https://doi.org/10.1029/2007JD009229, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1145" timestamp="2019-08-23 08:06:32">
+    <crossref>
+      <conference>
+        <contributors>
+          <person_name sequence="first" contributor_role="chair">
+            <given_name>Torsten</given_name>
+            <surname>Hoefler</surname>
+            <affiliation>ETH, Zürich</affiliation>
+          </person_name>
+        </contributors>
+        <event_metadata>
+          <conference_name>the 26th European MPI Users' Group Meeting</conference_name>
+          <conference_acronym>EuroMPI '19</conference_acronym>
+          <conference_number>26</conference_number>
+          <conference_location>Z&amp;#252;rich, Switzerland</conference_location>
+          <conference_date start_month="09" start_year="2019" start_day="11" end_year="2019" end_month="09" end_day="13"/>
+        </event_metadata>
+        <proceedings_metadata language="en">
+          <proceedings_title>Proceedings of the 26th European MPI Users' Group Meeting on   - EuroMPI '19</proceedings_title>
+          <publisher>
+            <publisher_name>ACM Press</publisher_name>
+            <publisher_place>New York, New York, USA</publisher_place>
+          </publisher>
+          <publication_date media_type="print">
+            <year>2019</year>
+          </publication_date>
+          <isbn media_type="print">9781450371759</isbn>
+          <doi_data>
+            <doi>10.1145/3343211</doi>
+            <timestamp>20190823075728</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=3343211</resource>
+          </doi_data>
+        </proceedings_metadata>
+        <conference_paper publication_type="full_text">
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Sergio</given_name>
+              <surname>Rivas-Gomez</surname>
+              <affiliation>KTH Royal Institute of Technology, Stockholm, Sweden</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alessandro</given_name>
+              <surname>Fanfarillo</surname>
+              <affiliation>National Center for Atmospheric Research</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sai</given_name>
+              <surname>Narasimhamurthy</surname>
+              <affiliation>Seagate Systems, Havant, United Kingdom</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stefano</given_name>
+              <surname>Markidis</surname>
+              <affiliation>KTH Royal Institute of Technology, Stockholm, Sweden</affiliation>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Persistent coarrays</title>
+            <subtitle>integrating MPI storage windows in coarray fortran</subtitle>
+          </titles>
+          <publication_date media_type="print">
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>1</first_page>
+            <last_page>8</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">National Energy Research Scientific Computing Center (NERSC)</assertion>
+              <assertion name="award_number">OpenCoarrays_FT</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Horizon 2020 - Sage2</assertion>
+              <assertion name="award_number">800999</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2019-09-11">http://www.acm.org/publications/policies/copyright_policy#Background</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1145/3343211.3343214</doi>
+            <timestamp>20190823075728</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=3343211.3343214</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://dl.acm.org/ft_gateway.cfm?id=3343214&amp;ftid=2080659&amp;dwn=1</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="key-10.1145/3343211.3343214-1">
+              <unstructured_citation>
+                Nilmini Abeyratne, Hsing-Min Chen, Byoungchan Oh, Ronald Dreslinski, Chaitali Chakrabarti, and Trevor Mudge. 2016. Checkpointing Exascale Memory Systems with Existing Memory Technologies. In
+                <i>Proceedings of the Second International Symposium on Memory Systems (MEMSYS '16)</i>
+                . ACM, New York, NY, USA, 18--29.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-2">
+              <unstructured_citation>
+                Katie Antypas, Nicholas Wright, Nicholas P Cardo, Allison Andrews, and Matthew Cordery. 2014. Cori: A Cray XC Pre-exascale System for NERSC.
+                <i>Cray User Group Proceedings. Cray</i>
+                (2014).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-3">
+              <unstructured_citation>
+                Daniel P Bovet and Marco Cesati. 2005.
+                <i>Understanding the Linux Kernel: from I/O ports to process management</i>
+                . O'Reilly.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-4">
+              <unstructured_citation>
+                Franck Cappello, Al Geist, Bill Gropp, Laxmikant Kale, Bill Kramer, and Marc Snir. 2009. Toward Exascale Resilience.
+                <i>The International Journal of High Performance Computing Applications</i>
+                23, 4 (2009), 374--388.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-5">
+              <unstructured_citation>
+                Barbara Chapman, Tony Curtis, Swaroop Pophale, Stephen Poole, Jeff Kuehn, Chuck Koelbel, and Lauren Smith. 2010. Introducing OpenSHMEM: SHMEM for the PGAS community. In
+                <i>Proceedings of the Fourth Conference on Partitioned Global Address Space Programming Model</i>
+                . ACM, 2.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-6">
+              <unstructured_citation>
+                Matthieu Courbariaux, Yoshua Bengio, and Jean-Pierre David. 2014. Training deep neural networks with low precision multiplications.
+                <i>arXiv preprint arXiv:1412.7024</i>
+                (2014).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-7">
+              <doi provider="crossref">10.1109/99.660313</doi>
+              <unstructured_citation>
+                Leonardo Dagum and Ramesh Menon. 1998. OpenMP: An industry-standard API for shared-memory programming.
+                <i>Computing in Science &amp;#38; Engineering</i>
+                1 (1998).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-8">
+              <unstructured_citation>
+                Jack Dongarra, Pete Beckman, Terry Moore, Patrick Aerts, Giovanni Aloisio, Jean-Claude Andre, David Barkai, Jean-Yves Berthou, Taisuke Boku, Bertrand Braunschweig, et al. 2011. The International Exascale Software Project Roadmap.
+                <i>The International Journal of High-Performance Computing Applications</i>
+                25, 1 (2011).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-9">
+              <unstructured_citation>
+                Piotr Doro&amp;#380;y&amp;#324;ski, Pawe&amp;#322;t Czarnul, Artur Malinowski, Krzysztof Czury&amp;#322;to, &amp;#321;ukasz Dorau, Maciej Maciejewski, and Pawe&amp;#322;t Skowron. 2016. Checkpointing of parallel MPI applications using MPI one-sided API with support for byte-addressable non-volatile RAM.
+                <i>Procedia Computer Science</i>
+                80 (2016), 30--40.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-10">
+              <doi provider="crossref">10.1109/PACT.2017.58</doi>
+              <unstructured_citation>
+                H. Elnawawy, M. Alshboul, J. Tuck, and Y. Solihin. 2017. Efficient Checkpointing of Loop-Based Codes for Non-volatile Main Memory. In
+                <i>2017 26th International Conference on Parallel Architectures and Compilation Techniques (PACT)</i>
+                . 318--329.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-11">
+              <unstructured_citation>
+                Alessandro Fanfarillo, Tobias Burnus, Valeria Cardellini, Salvatore Filippone, Dan Nagle, and Damian Rouson. 2014. OpenCoarrays: Open-source Transport Layers supporting Coarray Fortran compilers. In
+                <i>Proceedings of the 8th International Conference on Partitioned Global Address Space Programming Models</i>
+                . ACM, 4.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-12">
+              <unstructured_citation>
+                Alessandro Fanfarillo, Sudip Kumar Garain, Dinshaw Balsara, and Daniel Nagle. 2019. Resilient Computational Applications using Coarray Fortran.
+                <i>Parallel Comput</i>
+                . 81 (2019), 58--67.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-13">
+              <unstructured_citation>Michael Feldman. 2017. Oak Ridge readies Summit supercomputer for 2018 debut. in: Top500.org, http://bit.ly/2ERRFr9. [On-Line].</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-14">
+              <unstructured_citation>
+                Robert Gerstenberger, Maciej Besta, and Torsten Hoefler. 2014. Enabling highly-scalable remote memory access programming with MPI-3 one sided.
+                <i>Scientific Programming</i>
+                22, 2 (2014), 75--91.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-15">
+              <unstructured_citation>
+                Gurbinder Gill, Roshan Dathathri, Loc Hoang, Ramesh Peri, and Keshav Pingali. 2019. Single Machine Graph Analytics on Massive Datasets Using Intel Optane DC Persistent Memory.
+                <i>arXiv preprint arXiv:1904.07162</i>
+                (2019).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-16">
+              <unstructured_citation>
+                William Gropp, Torsten Hoefler, Rajeev Thakur, and Ewing Lusk. 2014.
+                <i>Using advanced MPI: Modern features of the message-passing interface</i>
+                . MIT Press.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-17">
+              <unstructured_citation>
+                William Gropp and Ewing Lusk. 2004. Fault tolerance in message passing interface programs.
+                <i>The International Journal of High Performance Computing Applications</i>
+                18, 3 (2004), 363--372.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-18">
+              <unstructured_citation>
+                David Henty. 2011. A Parallel Benchmark Suite for Fortran Coarrays. In
+                <i>Parallel Computing</i>
+                . Elsevier, 281--288.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-19">
+              <unstructured_citation>
+                Joseph Izraelevitz, Jian Yang, Lu Zhang, Juno Kim, Xiao Liu, Amirsaman Memaripour, Yun Joon Soh, Zixuan Wang, Yi Xu, Subramanya R Dulloor, et al. 2019. Basic Performance Measurements of the Intel Optane DC Persistent Memory Module.
+                <i>arXiv preprint arXiv:1903.05714</i>
+                (2019).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-20">
+              <unstructured_citation>
+                Edward Karrels and Ewing Lusk. 1994. Performance analysis of MPI programs. In
+                <i>Proceedings of the Workshop on Environments and Tools For Parallel Scientific Computing</i>
+                . 195--200.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-21">
+              <unstructured_citation>
+                Urs K&amp;#246;ster, Tristan Webb, Xin Wang, Marcel Nassar, Arjun K Bansal, William Constable, Oguz Elibol, Scott Gray, Stewart Hall, Luke Hornof, Amir Khosrow-shahi, Carey Kloss, Ruby J Pai, and Naveen Rao. 2017. Flexpoint: An Adaptive Numerical Format for Efficient Training of Deep Neural Networks. In
+                <i>Advances in Neural Information Processing Systems 30 (NIPS 2017)</i>
+                . 1740--1750.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-22">
+              <unstructured_citation>
+                John D McCalpin. 1995. A survey of memory bandwidth and machine balance in current high performance computers.
+                <i>IEEE TCCA Newsletter</i>
+                19 (1995), 25.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-23">
+              <unstructured_citation>
+                MPI Forum. 2015.
+                <i>MPI: A Message-Passing Interface Standard</i>
+                . Vol. 3.1. http://mpi-forum.org/docs/mpi-3.1/mpi31-report.pdf. Accessed: 2019-04-21.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-24">
+              <unstructured_citation>
+                Mihir Nanavati, Malte Schwarzkopf, Jake Wires, and Andrew Warfield. 2015. Non-volatile storage.
+                <i>Commun. ACM</i>
+                59, 1 (2015), 56--63.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-25">
+              <doi provider="crossref">10.1016/j.parco.2018.03.002</doi>
+              <unstructured_citation>
+                Sai Narasimhamurthy, Nikita Danilov, Sining Wu, Ganesan Umanesan, Stefano Markidis, Sergio Rivas-Gomez, Ivy Bo Peng, Erwin Laure, Dirk Pleiter, and Shaun De Witt. 2018. SAGE: Percipient Storage for Exascale Data-centric Computing.
+                <i>Parallel Computing</i>
+                (2018).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-26">
+              <unstructured_citation>
+                Robert W Numrich and John Reid. 1998. Co-Array Fortran for parallel programming. In
+                <i>ACM Sigplan Fortran Forum</i>
+                , Vol. 17. ACM, 1--31.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-27">
+              <unstructured_citation>
+                Ivy Bo Peng, Roberto Gioiosa, Gokcen Kestor, Pietro Cicotti, Erwin Laure, and Stefano Markidis. 2017. Exploring the Performance Benefit of Hybrid Memory System on HPC Environments. In
+                <i>Parallel and Distributed Processing Symposium Workshops (IPDPSW), 2017 IEEE International</i>
+                . IEEE, 683--692.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-28">
+              <unstructured_citation>
+                Daniel A Reed and Jack Dongarra. 2015. Exascale computing and big data.
+                <i>Commun. ACM</i>
+                58, 7 (2015), 56--68.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-29">
+              <unstructured_citation>
+                John Reid. 2018. The new features of Fortran 2018. In
+                <i>ACM SIGPLAN Fortran Forum</i>
+                , Vol. 37. ACM, 5--43.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-30">
+              <unstructured_citation>
+                John Reid and Robert W Numrich. 2007. Co-arrays in the next Fortran Standard.
+                <i>Scientific Programming</i>
+                15, 1 (2007), 9--26.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-31">
+              <unstructured_citation>
+                Sergio Rivas-Gomez, Roberto Gioiosa, Ivy Bo Peng, Gokcen Kestor, Sai Narasimhamurthy, Erwin Laure, and Stefano Markidis. 2018. MPI Windows on Storage for HPC Applications.
+                <i>Parallel Computing</i>
+                77 (2018), 38--56.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-32">
+              <unstructured_citation>
+                Gabriel Rodriguez, Mar&amp;#237;a J. Mart&amp;#237;n, Patricia Gonz&amp;#225;lez, Juan Touri&amp;#241;o, and Ram&amp;#243;n Doallo. 2010. CPPC: A Compiler-assisted Tool for Portable Checkpointing of Message-passing Applications.
+                <i>Concurr. Comput.: Pract. Exper</i>
+                . 22, 6 (April 2010), 749--766.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-33">
+              <unstructured_citation>
+                David Schneider. 2018. US supercomputing strikes back.
+                <i>IEEE Spectrum</i>
+                55, 1 (2018), 52--53.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-34">
+              <unstructured_citation>
+                Monika ten Bruggencate and Duncan Roweth. 2010. DMAPP - An API for One-sided Program Models on Baker Systems. In
+                <i>Cray User Group Conference</i>
+                .
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-35">
+              <unstructured_citation>
+                Rob F Van der Wijngaart and Timothy G Mattson. 2014. The Parallel Research Kernels. In
+                <i>2014 IEEE High Performance Extreme Computing Conference (HPEC)</i>
+                . IEEE, 1--6.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3343211.3343214-36">
+              <unstructured_citation>
+                Sudharshan S Vazhkudai, Bronis R de Supinski, Arthur S Bland, Al Geist, James Sexton, Jim Kahle, Christopher J Zimmer, Scott Atchley, Sarp Oral, Don E Maxwell, et al. 2018. The design, deployment, and evaluation of the CORAL pre-exascale systems. In
+                <i>Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis</i>
+                . IEEE Press, 52.
+              </unstructured_citation>
+            </citation>
+          </citation_list>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </doi_record>
+</doi_records>

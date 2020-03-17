@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A case study of aerosol data assimilation with the Community Multi-scale Air Quality Model over the contiguous United States using 3D-Var and optimal interpolation methods</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Youhua</given_name>
+              <surname>Tang</surname>
+              <ORCID>https://orcid.org/0000-0001-7089-7915</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mariusz</given_name>
+              <surname>Pagowski</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tianfeng</given_name>
+              <surname>Chai</surname>
+              <ORCID>https://orcid.org/0000-0003-3520-2641</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Li</given_name>
+              <surname>Pan</surname>
+              <ORCID>https://orcid.org/0000-0002-1806-5414</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pius</given_name>
+              <surname>Lee</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Barry</given_name>
+              <surname>Baker</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rajesh</given_name>
+              <surname>Kumar</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Luca</given_name>
+              <surname>Delle Monache</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel</given_name>
+              <surname>Tong</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hyun-Cheol</given_name>
+              <surname>Kim</surname>
+              <ORCID>https://orcid.org/0000-0003-3968-6145</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This study applies the Gridpoint Statistical Interpolation (GSI) 3D-Var assimilation tool originally developed by the National Centers for Environmental Prediction (NCEP), to improve surface PM<sub>2.5</sub> predictions over the contiguous United States (CONUS) by assimilating aerosol optical depth (AOD) and surface PM<sub>2.5</sub> in version 5.1 of the Community Multi-scale Air Quality (CMAQ) modeling system. An optimal interpolation (OI) method implemented earlier (Tang et al., 2015) for the CMAQ modeling system is also tested for the same period (July 2011) over the same CONUS. Both GSI and OI methods assimilate surface PM<sub>2.5</sub> observations at 00:00, 06:00, 12:00 and 18:00<span class="thinspace"></span>UTC, and MODIS AOD at 18:00<span class="thinspace"></span>UTC. The assimilations of observations using both GSI and OI generally help reduce the prediction biases and improve correlation between model predictions and observations. In the GSI experiments, assimilation of surface PM<sub>2.5</sub> (particle matter with diameter<span class="thinspace"></span>&amp;lt; 2.5<span class="thinspace"></span>µm) leads to stronger increments in surface PM<sub>2.5</sub> compared to its MODIS AOD assimilation at the 550<span class="thinspace"></span>nm wavelength. In contrast, we find a stronger OI impact of the MODIS AOD on surface aerosols at 18:00<span class="thinspace"></span>UTC compared to the surface PM<sub>2.5</sub> OI method. GSI produces smoother result and yields overall better correlation coefficient and root mean squared error (RMSE). It should be noted that the 3D-Var and OI methods used here have several big differences besides the data assimilation schemes. For instance, the OI uses relatively big model uncertainties, which helps yield smaller mean biases, but sometimes causes the RMSE to increase. We also examine and discuss the sensitivity of the assimilation experiments' results to the AOD forward operators.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>22</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>4743</first_page>
+            <last_page>4758</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-10-4743-2017</doi>
+            <resource>https://www.geosci-model-dev.net/10/4743/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/10/4743/2017/gmd-10-4743-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Adhikary, B., Kulkarni, S., Dallura, A., Tang, Y., Chai, T., Leung, L. R., Qian, Y., Chung, C. E., Ramanathan, V., and Carmichael, G. R.: A regional scale chemical transport modeling of Asian aerosols with data assimilation of AOD observations using optimal interpolation technique, Atmos. Environ., 42, 8600–8615, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/gmd-3-169-2010</doi>
+              <unstructured_citation>Appel, K. W., Roselle, S. J., Gilliam, R. C., and Pleim, J. E.: Sensitivity of the Community Multiscale Air Quality (CMAQ) model v4.7 results for the eastern United States to MM5 and WRF meteorological drivers, Geosci. Model Dev., 3, 169–188, https://doi.org/10.5194/gmd-3-169-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2001JD001409</doi>
+              <unstructured_citation>Binkowski, F. S. and Roselle, S. J.: Models-3 Community Multiscale Air Quality (CMAQ) model aerosol component: 1. Model description, J. Geophys. Res., 108, 4183, https://doi.org/10.1029/2001JD001409, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/acp-15-5325-2015</doi>
+              <unstructured_citation>Bocquet, M., Elbern, H., Eskes, H., Hirtl, M., Žabkar, R., Carmichael, G. R., Flemming, J., Inness, A., Pagowski, M., Pérez Camaño, J. L., Saide, P. E., San Jose, R., Sofiev, M., Vira, J., Baklanov, A., Carnevale, C., Grell, G., and Seigneur, C.: Data assimilation in atmospheric chemistry models: current status and future prospects for coupled chemistry meteorology models, Atmos. Chem. Phys., 15, 5325–5358, https://doi.org/10.5194/acp-15-5325-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2005JD005883</doi>
+              <unstructured_citation>Chai, T., Carmichael, G. R., Sandu, A., Tang, Y., and Daescu, D. N.: Chemical data assimilation of Transport and Chemical Evolution over the Pacific (TRACE-P) aircraft measurements, J. Geophys. Res.-Atmos., 111, D02301, https://doi.org/10.1029/2005JD005883, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/2016JD026295</doi>
+              <unstructured_citation>Chai, T., Kim, H. C., Pan, L., Lee, P., and Tong, D.: Impact of Moderate Resolution Imaging Spectroradiometer (MODIS) aerosol optical depth (AOD) and AirNow PM2.5 assimilation on Community Multi-scale Air Quality (CMAQ) aerosol predictions over the contiguous United States, J. Geophys. Res.-Atmos., 122, 5399–5415, https://doi.org/10.1002/2016JD026295, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2000JD900384</doi>
+              <unstructured_citation>Chin, M., Rood, R. B., Lin, S.-J., Muller, J.-F., and Thompson, A. M.: Atmospheric sulfur cycle simulated in the global model GOCART: model description and global properties, J. Geophys. Res.-Atmos., 105, 24671–24687, https://doi.org/10.1029/2000JD900384, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Chin, M., Ginoux, P., Kinne, S., Torres, O., Holben, B. N., Duncan, B. N., Martin, R. V., Logan, J. A., and Higurashi, A.: Tropospheric aerosol optical thickness from the GOCART model and comparisons with satellite and Sun photometer measurements, J. Atmos. Sci., 59, 461–483, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/gmd-8-669-2015</doi>
+              <unstructured_citation>Descombes, G., Auligné, T., Vandenberghe, F., Barker, D. M., and Barré, J.: Generalized background error covariance matrix model (GEN_BE v2.0), Geosci. Model Dev., 8, 669–696, https://doi.org/10.5194/gmd-8-669-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Elbern, H. and Schmidt, H.: A 4D-Var chemistry data assimilation scheme for Eulerian chemistry transport modelling, J. Geophys. Res.-Atmos., 104, 18583–18598, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2000JD900448</doi>
+              <unstructured_citation>Elbern, H. and Schmidt, H.: Ozone episode analysis by four dimensional variational chemistry data assimilation, J. Geophys. Res.-Atmos., 106, 3569–3590, https://doi.org/10.1029/2000JD900448, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/97JD01213</doi>
+              <unstructured_citation>Elbern, H., Schmidt, H., and Ebel, A.: Variational data assimilation for tropospheric chemistry modelling, J. Geophys. Res.-Atmos., 102, 15967–15985, https://doi.org/10.1029/97JD01213, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Elbern, H., Schmidt, H., Talagrand, O., and Ebel, A.: 4D-variational data assimilation with an adjoint air quality model for emission analysis, Environ. Modell. Softw., 15, 539–548, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-7-3749-2007</doi>
+              <unstructured_citation>Elbern, H., Strunk, A., Schmidt, H., and Talagrand, O.: Emission rate and chemical state estimation by 4-dimensional variational inversion, Atmos. Chem. Phys., 7, 3749–3769, https://doi.org/10.5194/acp-7-3749-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Han, Y., van Delst, P., Liu, Q., Weng, F., Yan, B., Treadon, R., and Derber, J.: JCSDA Community Radiative Transfer Model (CRTM) – Version 1, NOAA Tech. Rep. NESDIS 122, 33 pp., NOAA, Silver Spring, MD, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Jiang, W., Smyth, S., Giroux, E., Roth, H., and Yin, D.: Differences between CMAQ fine mode particle and PM2.5 concentrations and their impact on model performance evaluation in the lower Fraser valley, Atmos. Environ., 40, 4973–4985, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Lee, P., McQueen, J., Stajner, I., Huang, J., Pan, L., Tong, D., Kim, H., Tang, Y., Kondragunta, S., Ruminski, M., and Lu, S.: NAQFC developmental forecast guidance for fine particulate matter (PM2.5), Weather Forecast., 32, 343–360, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Levy, R. C., Remer, L. A., Tanré, D., Mattoo, S., and Kaufman, Y. J.: Algorithm for remote sensing of tropospheric aerosol over dark targetsfrom MODIS: Collections 005 and 051, NASA Goddard Space Flight Center, Greenbelt, MD, available at: https://modis-images.gsfc.nasa.gov/_docs/ATBD_MOD04_C005_rev2.pdf (last access: 20 December 2017), revision2, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-16-12815-2016</doi>
+              <unstructured_citation>Liu, J., Lin, P., Laskin, A., Laskin, J., Kathmann, S. M., Wise, M., Caylor, R., Imholt, F., Selimovic, V., and Shilling, J. E.: Optical properties and aging of light-absorbing secondary organic aerosol, Atmos. Chem. Phys., 16, 12815–12827, https://doi.org/10.5194/acp-16-12815-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Liu, Q. and Weng, F.: Advanced doubling-adding method for radiative transfer in planetary atmospheres, J. Atmos. Sci., 63, 3459–3465, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2011JD016159</doi>
+              <unstructured_citation>Liu, Z., Liu, Q., Lin, H.-C., Schwartz, C. S., Lee, Y.-H., and Wang, T.: Three-dimensional variational assimilation of MODIS aerosol optical depth: implementation and application to a dust storm over East Asia, J. Geophys. Res.-Atmos., 116, D22306, https://doi.org/10.1029/2011JD016159, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/gmd-9-1905-2016</doi>
+              <unstructured_citation>Lu, C.-H., da Silva, A., Wang, J., Moorthi, S., Chin, M., Colarco, P., Tang, Y., Bhattacharjee, P. S., Chen, S.-P., Chuang, H.-Y., Juang, H.-M. H., McQueen, J., and Iredell, M.: The implementation of NEMS GFS Aerosol Component (NGAC) Version 1.0 for global dust forecasting at NOAA/NCEP, Geosci. Model Dev., 9, 1905–1919, https://doi.org/10.5194/gmd-9-1905-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Malm, W. C., J. F. Sisler, D. Huffman, R. A. Eldred, and Cahill, T. A.: Spatial and seasonal trends in particle concentration and optical extinction in the United States, J. Geophys. Res., 99, 1347–1370, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/gmd-7-1621-2014</doi>
+              <unstructured_citation>Pagowski, M., Liu, Z., Grell, G. A., Hu, M., Lin, H.-C., and Schwartz, C. S.: Implementation of aerosol assimilation in Gridpoint Statistical Interpolation (v. 3.2) and WRF-Chem (v. 3.4.1), Geosci. Model Dev., 7, 1621–1627, https://doi.org/10.5194/gmd-7-1621-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1016/j.atmosenv.2014.06.020</doi>
+              <unstructured_citation>Pan, L., Tong, D. Q., Lee, P., Kim, H., and Chai, T.: Assessment of NOx and O3 forecasting performances in the US National Air Quality Forecasting Capability before and after the 2012 major emissions updates, Atmos. Environ., 95, 610–619, https://doi.org/10.1016/j.atmosenv.2014.06.020, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Parrish, D. F. and Derber, J. C.: The National Meteorological Center spectral statistical interpolation analysis system, Mon. Weather Rev., 120, 1747–1763, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Purser, R. J., Wu, W.-S., Parrish, A. F., and Roberts, N. M.: Numerical aspects of the application of recursive filters to variational statistical analysis. Part I: Spatially homogeneous Gaussian covariances, Mon. Weather Rev., 131, 1524–1535, 2003a.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Purser, R. J., Wu, W.-S., Parrish, A. F., and Roberts, N. M.: Numerical aspects of the application of recursive filters to variational statistical analysis. Part II: Spatially inhomogeneous and anisotropic general covariances, Mon. Weather Rev., 131, 1536–1549, 2003b.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Remer, L. A., Kaufman, Y. J., Tanré, D., Mattoo, S., Chu, D. A., Martins, J. V., Li, R. R., Ichoku, C., Levy, R. C., Kleidman, R. G., and Eck, T. F.: The MODIS aerosol algorithm, products, and validation, J. Atmos. Sci., 62, 947–973, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2006JD008085</doi>
+              <unstructured_citation>Roy, B., Mathur, R., Gilliland, A. B., and Howard, S. C.: A comparison of CMAQ-based aerosol properties with IMPROVE, MODIS, and AERONET data, J. Geophys. Res.-Atmos., 112, D14301, https://doi.org/10.1029/2006JD008085, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1080/10962247.2013.870096</doi>
+              <unstructured_citation>Sonntag, D. B., Baldauf, R. W., Yanca, C. A., and Fulper, C. R.: Particulate matter speciation profiles for light-duty gasoline vehicles in the United States, J. Air Waste Manage., 64, 529–545, https://doi.org/10.1080/10962247.2013.870096, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1007/s10652-008-9092-5</doi>
+              <unstructured_citation>Tang, Y., Lee, P., Tsidulko, M., Huang, H.-C., McQueen, J. T., DiMego, G. J., Emmons, L. K., Pierce, R. B., Thompson, A. M., Lin, H.-M., Kang, D., Tong, D., Yu, S.-C., Mathur, R., Pleim, J. E., Otte, T. L., Pouliot, G., Young, J. O., Schere, K. L., Davidson, P. M., and Stajner, I.: The Impact of chemical lateral boundary conditions on CMAQ predictions of tropospheric ozone over the Continental United States, Environ. Fluid Mech., 9, 43–58, https://doi.org/10.1007/s10652-008-9092-5, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1080/10962247.2015.1062439</doi>
+              <unstructured_citation>Tang, Y., Chai, T., Pan, L., Lee, P., Tong, D., Kim, H., and Chen, W.: Using optimal interpolation to assimilate surface measurements and satellite AOD for ozone and PM2.5: a case study for July 2011, J. Air Waste Manage. Assoc., https://doi.org/10.1080/10962247.2015.1062439, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Whitby, E. R. and McMurry, P. H.: Modal aerosol dynamics modeling, Aerosol Sci. Tech., 27, 673–688, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Wu, W.-S., Purser, R. J., and Parrish, D. F.: Three-dimensional variational analysis with spatially inhomogeneous covariances, Mon. Weather Rev., 130, 2905–2916, 2002.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

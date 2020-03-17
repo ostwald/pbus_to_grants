@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-07-17 06:34:48">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>14</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>On the sources and sinks of atmospheric VOCs: an integrated analysis of recent aircraft campaigns over North America</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Xin</given_name>
+              <surname>Chen</surname>
+              <ORCID>https://orcid.org/0000-0002-0952-0008</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dylan B.</given_name>
+              <surname>Millet</surname>
+              <ORCID>https://orcid.org/0000-0003-3076-125X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hanwant B.</given_name>
+              <surname>Singh</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Armin</given_name>
+              <surname>Wisthaler</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eric C.</given_name>
+              <surname>Apel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Elliot L.</given_name>
+              <surname>Atlas</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Donald R.</given_name>
+              <surname>Blake</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ilann</given_name>
+              <surname>Bourgeois</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Steven S.</given_name>
+              <surname>Brown</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John D.</given_name>
+              <surname>Crounse</surname>
+              <ORCID>https://orcid.org/0000-0001-5443-729X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joost A.</given_name>
+              <surname>de Gouw</surname>
+              <ORCID>https://orcid.org/0000-0002-0385-1826</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frank M.</given_name>
+              <surname>Flocke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alan</given_name>
+              <surname>Fried</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian G.</given_name>
+              <surname>Heikes</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rebecca S.</given_name>
+              <surname>Hornbrook</surname>
+              <ORCID>https://orcid.org/0000-0002-6304-6554</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tomas</given_name>
+              <surname>Mikoviny</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kyung-Eun</given_name>
+              <surname>Min</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Markus</given_name>
+              <surname>Müller</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J. Andrew</given_name>
+              <surname>Neuman</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel W.</given_name>
+              <surname>O&amp;amp;apos;Sullivan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeff</given_name>
+              <surname>Peischl</surname>
+              <ORCID>https://orcid.org/0000-0002-9320-7101</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gabriele G.</given_name>
+              <surname>Pfister</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dirk</given_name>
+              <surname>Richter</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James M.</given_name>
+              <surname>Roberts</surname>
+              <ORCID>https://orcid.org/0000-0002-8485-8172</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas B.</given_name>
+              <surname>Ryerson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephen R.</given_name>
+              <surname>Shertz</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chelsea R.</given_name>
+              <surname>Thompson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Victoria</given_name>
+              <surname>Treadaway</surname>
+              <ORCID>https://orcid.org/0000-0003-0564-3702</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Patrick R.</given_name>
+              <surname>Veres</surname>
+              <ORCID>https://orcid.org/0000-0001-7539-353X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James</given_name>
+              <surname>Walega</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Carsten</given_name>
+              <surname>Warneke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rebecca A.</given_name>
+              <surname>Washenfelder</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Petter</given_name>
+              <surname>Weibring</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bin</given_name>
+              <surname>Yuan</surname>
+              <ORCID>https://orcid.org/0000-0003-3041-0329</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We apply a high-resolution chemical transport model (GEOS-Chem CTM) with
+updated treatment of volatile organic compounds (VOCs) and a comprehensive
+suite of airborne datasets over North America to (i) characterize the VOC
+budget and (ii) test the ability of current models to capture the
+distribution and reactivity of atmospheric VOCs over this region. Biogenic
+emissions dominate the North American VOC budget in the model, accounting
+for 70&amp;thinsp;% and 95&amp;thinsp;% of annually emitted VOC carbon and reactivity,
+respectively. Based on current inventories anthropogenic emissions have
+declined to the point where biogenic emissions are the dominant summertime
+source of VOC reactivity even in most major North American cities. Methane
+oxidation is a 2<span class="inline-formula">×</span> larger source of nonmethane VOCs (via production
+of formaldehyde and methyl hydroperoxide) over North America in the model
+than are anthropogenic emissions. However, anthropogenic VOCs account for
+over half of the ambient VOC loading over the majority of the region owing to
+their longer aggregate lifetime. Fires can be a significant VOC source
+episodically but are small on average. In<span id="page9098"/> the planetary boundary layer
+(PBL), the model exhibits skill in capturing observed variability in total
+VOC abundance (<span class="inline-formula"><i>R</i><sup>2</sup>=0.36</span>) and reactivity (<span class="inline-formula"><i>R</i><sup>2</sup>=0.54</span>). The same is
+not true in the free troposphere (FT), where skill is low and there is a
+persistent low model bias (<span class="inline-formula">∼</span>&amp;thinsp;60&amp;thinsp;%), with most (27 of 34)
+model VOCs underestimated by more than a factor of 2. A comparison of PBL&amp;thinsp;:&amp;thinsp;FT
+concentration ratios over the southeastern US points to a misrepresentation
+of PBL ventilation as a contributor to these model FT biases. We also find
+that a relatively small number of VOCs (acetone, methanol, ethane,
+acetaldehyde, formaldehyde, isoprene <span class="inline-formula">+</span> oxidation products, methyl
+hydroperoxide) drive a large fraction of total ambient VOC reactivity and
+associated model biases; research to improve understanding of their budgets
+is thus warranted. A source tracer analysis suggests a current overestimate
+of biogenic sources for hydroxyacetone, methyl ethyl ketone and glyoxal, an
+underestimate of biogenic formic acid sources, and an underestimate of
+peroxyacetic acid production across biogenic and anthropogenic precursors.
+Future work to improve model representations of vertical transport and to
+address the VOC biases discussed are needed to advance predictions of ozone
+and SOA formation.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>17</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>9097</first_page>
+            <last_page>9123</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-19-9097-2019</doi>
+            <resource>https://www.atmos-chem-phys.net/19/9097/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/19/9097/2019/acp-19-9097-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/acp-11-4039-2011</doi>
+              <unstructured_citation>Akagi, S. K., Yokelson, R. J., Wiedinmyer, C., Alvarado, M. J., Reid, J. S., Karl, T., Crounse, J. D., and Wennberg, P. O.: Emission factors for open and domestic biomass burning for use in atmospheric models, Atmos. Chem. Phys., 11, 4039–4072, https://doi.org/10.5194/acp-11-4039-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2018GL081526</doi>
+              <unstructured_citation>Alwe, H. D., Millet, D. B., Chen, X., Raff, J. D., Payne, Z. C., and
+Fledderman, K.: Oxidation of Volatile Organic Compounds as the Major Source
+of Formic Acid in a Mixed Forest Canopy, Geophys. Res. Lett., 46, 2940–2948,
+https://doi.org/10.1029/2018GL081526, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-12-591-2012</doi>
+              <unstructured_citation>Amos, H. M., Jacob, D. J., Holmes, C. D., Fisher, J. A., Wang, Q., Yantosca, R. M., Corbitt, E. S., Galarneau, E., Rutter, A. P., Gustin, M. S., Steffen, A., Schauer, J. J., Graydon, J. A., Louis, V. L. St., Talbot, R. W., Edgerton, E. S., Zhang, Y., and Sunderland, E. M.: Gas-particle partitioning of atmospheric Hg(II) and its effect on global mercury deposition, Atmos. Chem. Phys., 12, 591–603, https://doi.org/10.5194/acp-12-591-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2000GB001382</doi>
+              <unstructured_citation>Andreae, M. O. and Merlet, P.: Emission of trace gases and aerosols from
+biomass burning, Global Biogeochem. Cy., 15, 955–966,
+https://doi.org/10.1029/2000gb001382, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/acp-10-2353-2010</doi>
+              <unstructured_citation>Apel, E. C., Emmons, L. K., Karl, T., Flocke, F., Hills, A. J., Madronich, S., Lee-Taylor, J., Fried, A., Weibring, P., Walega, J., Richter, D., Tie, X., Mauldin, L., Campos, T., Weinheimer, A., Knapp, D., Sive, B., Kleinman, L., Springston, S., Zaveri, R., Ortega, J., Voss, P., Blake, D., Baker, A., Warneke, C., Welsh-Bon, D., de Gouw, J., Zheng, J., Zhang, R., Rudolph, J., Junkermann, W., and Riemer, D. D.: Chemical evolution of volatile organic compounds in the outflow of the Mexico City Metropolitan area, Atmos. Chem. Phys., 10, 2353–2375, https://doi.org/10.5194/acp-10-2353-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/2014JD022121</doi>
+              <unstructured_citation>Apel, E. C., Hornbrook, R. S., Hills, A. J., Blake, N. J., Barth, M. C.,
+Weinheimer, A., Cantrell, C., Rutledge, S. A., Basarab, B., Crawford, J.,
+Diskin, G., Homeyer, C. R., Campos, T., Flocke, F., Fried, A., Blake, D. R.,
+Brune, W., Pollack, I., Peischl, J., Ryerson, T., Wennberg, P. O., Crounse,
+J. D., Wisthaler, A., Mikoviny, T., Huey, G., Heikes, B., O'Sullivan, D.,
+and Riemer, D. D.: Upper tropospheric ozone production from lightning
+NOx-impacted convection: Smoke ingestion case study from the DC3 campaign,
+J. Geophys. Res.-Atmos., 120, 2505–2523,
+https://doi.org/10.1002/2014JD022121, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/BAMS-D-13-00290.1</doi>
+              <unstructured_citation>Barth, M. C., Cantrell, C. A., Brune, W. H., Rutledge, S. A., Crawford, J.
+H., Huntrieser, H., Carey, L. D., MacGorman, D., Weisman, M., Pickering, K.
+E., Bruning, E., Anderson, B., Apel, E., Biggerstaff, M., Campos, T.,
+Campuzano-Jost, P., Cohen, R., Crounse, J., Day, D. A., Diskin, G., Flocke,
+F., Fried, A., Garland, C., Heikes, B., Honomichl, S., Hornbrook, R., Huey,
+L. G., Jimenez, J. L., Lang, T., Lichtenstern, M., Mikoviny, T., Nault, B.,
+O'Sullivan, D., Pan, L. L., Peischl, J., Pollack, I., Richter, D., Riemer,
+D., Ryerson, T., Schlager, H., St Clair, J., Walega, J., Weibring, P.,
+Weinheimer, A., Wennberg, P., Wisthaler, A., Wooldridge, P. J., and Ziegler,
+C.: The Deep Convective Clouds and Chemistry (DC3) Field Campaign, B. Am.
+Meteorol. Soc., 96, 1281–1309, https://doi.org/10.1175/Bams-D-13-00290.1,
+2015. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/j.aca.2011.08.023</doi>
+              <unstructured_citation>Beale, R., Liss, P. S., Dixon, J. L., and Nightingale, P. D.: Quantification
+of oxygenated volatile organic compounds in seawater by membrane
+inlet-proton transfer reaction/mass spectrometry, Anal. Chim. Acta, 706,
+128–134, https://doi.org/10.1016/j.aca.2011.08.023, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1002/jgrc.20322</doi>
+              <unstructured_citation>Beale, R., Dixon, J. L., Arnold, S. R., Liss, P. S., and Nightingale, P. D.:
+Methanol, acetaldehyde, and acetone in the surface waters of the Atlantic
+Ocean, J. Geophys. Res.-Oceans, 118, 5412–5425,
+https://doi.org/10.1002/jgrc.20322, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/j.marchem.2015.02.013</doi>
+              <unstructured_citation>Beale, R., Dixon, J. L., Smyth, T. J., and Nightingale, P. D.: Annual study
+of oxygenated volatile organic compounds in UK shelf waters, Mar. Chem.,
+171, 96–106, https://doi.org/10.1016/j.marchem.2015.02.013, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1126/science.1134548</doi>
+              <unstructured_citation>Bertram, T. H., Perring, A. E., Wooldridge, P. J., Crounse, J. D., Kwan, A.
+J., Wennberg, P. O., Scheuer, E., Dibb, J., Avery, M., Sachse, G., Vay, S.
+A., Crawford, J. H., McNaughton, C. S., Clarke, A., Pickering, K. E.,
+Fuelberg, H., Huey, G., Blake, D. R., Singh, H. B., Hall, S. R., Shetter, R.
+E., Fried, A., Heikes, B. G., and Cohen, R. C.: Direct measurements of the
+convective recycling of the upper troposphere, Science, 315, 816–820,
+https://doi.org/10.1126/science.1134548, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1126/science.aad5456</doi>
+              <unstructured_citation>Bianchi, F., Trostl, J., Junninen, H., Frege, C., Henne, S., Hoyle, C. R.,
+Molteni, U., Herrmann, E., Adamov, A., Bukowiecki, N., Chen, X., Duplissy,
+J., Gysel, M., Hutterli, M., Kangasluoma, J., Kontkanen, J., Kurten, A.,
+Manninen, H. E., Munch, S., Perakyla, O., Petaja, T., Rondo, L., Williamson,
+C., Weingartner, E., Curtius, J., Worsnop, D. R., Kulmala, M., Dommen, J.,
+and Baltensperger, U.: New particle formation in the free troposphere: A
+question of chemistry and timing, Science, 352, 1109–1112,
+https://doi.org/10.1126/science.aad5456, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2001JD001444</doi>
+              <unstructured_citation>Blake, N. J., Blake, D. R., Swanson, A. L., Atlas, E., Flocke, F., and
+Rowland, F. S.: Latitudinal, vertical, and seasonal variations of C1-C4
+alkyl nitrates in the troposphere over the Pacific Ocean during PEM-Tropics
+A and B: Oceanic and continental sources, J. Geophys. Res.-Atmos., 108, 8242,
+https://doi.org/10.1029/2001jd001444, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1007/BF00048328</doi>
+              <unstructured_citation>Bonsang, B., Kanakidou, M., Lambert, G., and Monfray, P.: The marine source
+of C2-C6 aliphatic-hydrocarbons, J. Atmos. Chem., 6, 3–20,
+https://doi.org/10.1007/Bf00048328, 1988. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G., Forster,
+C., Kerminen, V. M., Kondo, Y., Liao, H., Lohmann, U., Rasch, P., Satheesh,
+S. K., Sherwood, S., and Stevens, B.: Clouds and aerosols, in: Climate
+Change 2013: The Physical Science Basis, Contribution of Working Group I to
+the Fifth Assessment Report of the Intergovernmental Panel on Climate
+Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M.,
+Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P.
+M., Cambridge University Press, Cambridge, United Kingdom and New York, NY,
+USA, 571–658, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/97GL02736</doi>
+              <unstructured_citation>Broadgate, W. J., Liss, P. S., and Penkett, S. A.: Seasonal emissions of
+isoprene and other reactive hydrocarbon gases from the ocean, Geophys. Res. Lett., 24, 2675–2678, https://doi.org/10.1029/97gl02736, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/acp-18-14493-2018</doi>
+              <unstructured_citation>Brune, W. H., Ren, X., Zhang, L., Mao, J., Miller, D. O., Anderson, B. E., Blake, D. R., Cohen, R. C., Diskin, G. S., Hall, S. R., Hanisco, T. F., Huey, L. G., Nault, B. A., Peischl, J., Pollack, I., Ryerson, T. B., Shingler, T., Sorooshian, A., Ullmann, K., Wisthaler, A., and Wooldridge, P. J.: Atmospheric oxidation in the presence of clouds during the Deep Convective Clouds and Chemistry (DC3) study, Atmos. Chem. Phys., 18, 14493–14510, https://doi.org/10.5194/acp-18-14493-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1038/533478a</doi>
+              <unstructured_citation>Cappa, C.: Atmospheric science: Unexpected player in particle formation,
+Nature, 533, 478–479, https://doi.org/10.1038/533478a, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1038/s41467-018-06716-x</doi>
+              <unstructured_citation>Caravan, R. L., Khan, M. A. H., Zador, J., Sheps, L., Antonov, I. O.,
+Rotavera, B., Ramasesha, K., Au, K., Chen, M. W., Rosch, D., Osborn, D. L.,
+Fittschen, C., Schoemaecker, C., Duncianu, M., Grira, A., Dusanter, S.,
+Tomas, A., Percival, C. J., Shallcross, D. E., and Taatjes, C. A.: The
+reaction of hydroxyl and methylperoxy radicals is not a major source of
+atmospheric methanol, Nat. Commun., 9, 4343,
+https://doi.org/10.1038/s41467-018-06716-x, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1039/c2cs35121h</doi>
+              <unstructured_citation>Carpenter, L. J., Archer, S. D., and Beale, R.: Ocean-atmosphere trace gas
+exchange, Chem. Soc. Rev., 41, 6473–6506,
+https://doi.org/10.1039/c2cs35121h, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/amt-8-541-2015</doi>
+              <unstructured_citation>Cazorla, M., Wolfe, G. M., Bailey, S. A., Swanson, A. K., Arkinson, H. L., and Hanisco, T. F.: A new airborne laser-induced fluorescence instrument for in situ detection of formaldehyde throughout the troposphere and lower stratosphere, Atmos. Meas. Tech., 8, 541–552, https://doi.org/10.5194/amt-8-541-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-17-8725-2017</doi>
+              <unstructured_citation>Chan Miller, C., Jacob, D. J., Marais, E. A., Yu, K., Travis, K. R., Kim, P. S., Fisher, J. A., Zhu, L., Wolfe, G. M., Hanisco, T. F., Keutsch, F. N., Kaiser, J., Min, K.-E., Brown, S. S., Washenfelder, R. A., González Abad, G., and Chance, K.: Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data, Atmos. Chem. Phys., 17, 8725–8738, https://doi.org/10.5194/acp-17-8725-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/amt-7-3579-2014</doi>
+              <unstructured_citation>Coburn, S., Ortega, I., Thalman, R., Blomquist, B., Fairall, C. W., and Volkamer, R.: Measurements of diurnal variations and eddy covariance (EC) fluxes of glyoxal in the tropical marine boundary layer: description of the Fast LED-CE-DOAS instrument, Atmos. Meas. Tech., 7, 3579–3595, https://doi.org/10.5194/amt-7-3579-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1021/ac010027g</doi>
+              <unstructured_citation>Colman, J. J., Swanson, A. L., Meinardi, S., Sive, B. C., Blake, D. R., and
+Rowland, F. S.: Description of the analysis of a wide range of volatile
+organic compounds in whole air samples collected during PEM-tropics A and B,
+Anal. Chem., 73, 3723–3731, https://doi.org/10.1021/ac010027g, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Crawford, J. H. and Pickering, K. E.: Advancing Strategies for Air Quality
+Observations in the Next Decade, Environ. Manage., 9, 4–7, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1021/ac0604235</doi>
+              <unstructured_citation>Crounse, J. D., McKinney, K. A., Kwan, A. J., and Wennberg, P. O.:
+Measurement of gas-phase hydroperoxides by chemical ionization mass
+spectrometry, Anal. Chem., 78, 6726–6732, https://doi.org/10.1021/ac0604235,
+2006. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1021/jz4019207</doi>
+              <unstructured_citation>Crounse, J. D., Nielsen, L. B., Jørgensen, S., Kjaergaard, H. G., and
+Wennberg, P. O.: Autoxidation of Organic Compounds in the Atmosphere, J.
+Phys. Chem. Lett., 4, 3513–3520, https://doi.org/10.1021/jz4019207, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Cubasch, U., Wuebbles, D., Chen, D., Facchini, M. C., Frame, C. L.,
+Mahowald, N., and Winther, J.-G.: Introduction, in: Climate Change 2013: The
+Physical Science Basis, Contribution of Working Group I to the Fifth
+Assessment Report of the Intergovernmental Panel on Climate Change, edited
+by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K.,
+Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge
+University Press, Cambridge, United Kingdom and New York, NY, USA, 119–158,
+2013. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/acp-18-9823-2018</doi>
+              <unstructured_citation>Curry, L. A., Tsui, W. G., and McNeill, V. F.: Technical note: Updated parameterization of the reactive uptake of glyoxal and methylglyoxal by atmospheric aerosols and cloud droplets, Atmos. Chem. Phys., 18, 9823–9830, https://doi.org/10.5194/acp-18-9823-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>DC3 Science Team: DC3 Field Campaign Data from DC-8 aircraft, NASA Langley
+Atmospheric Science Data Center DAAC,
+https://doi.org/10.5067/aircraft/dc3/dc8/aerosol-tracegas, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1002/mas.20119</doi>
+              <unstructured_citation>de Gouw, J. and Warneke, C.: Measurements of volatile organic compounds in
+the earth's atmosphere using proton-transfer-reaction mass spectrometry,
+Mass Spectrom. Rev., 26, 223–257, https://doi.org/10.1002/mas.20119, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2004JD005623</doi>
+              <unstructured_citation>de Gouw, J. A., Middlebrook, A. M., Warneke, C., Goldan, P. D., Kuster, W.
+C., Roberts, J. M., Fehsenfeld, F. C., Worsnop, D. R., Canagaratna, M. R.,
+Pszenny, A. A. P., Keene, W. C., Marchewka, M., Bertman, S. B., and Bates,
+T. S.: Budget of organic carbon in a polluted atmosphere: Results from the
+New England Air Quality Study in 2002, J. Geophys. Res.-Atmos., 110, D16305,
+https://doi.org/10.1029/2004jd005623, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/2012GL052109</doi>
+              <unstructured_citation>de Gouw, J. A., Gilman, J. B., Borbon, A., Warneke, C., Kuster, W. C.,
+Goldan, P. D., Holloway, J. S., Peischl, J., Ryerson, T. B., Parrish, D. D.,
+Gentner, D. R., Goldstein, A. H., and Harley, R. A.: Increasing atmospheric
+burden of ethanol in the United States, Geophys. Res. Lett., 39, L15803,
+https://doi.org/10.1029/2012gl052109, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2018JG004536</doi>
+              <unstructured_citation>Deventer, M. J., Jiao, Y., Knox, H., Anderson, F., Ferner, M. C., Lewis, J.
+A., and Rhew, R. C.: Ecosystem-scale measurements of methyl halide fluxes
+from a brackish tidal marsh invaded with perennial pepperweed (lepidium
+latifolium), J. Geophys. Res.-Biogeo., 123, 2104–2120,
+https://doi.org/10.1029/2018JG004536, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-11-10565-2011</doi>
+              <unstructured_citation>DiGangi, J. P., Boyle, E. S., Karl, T., Harley, P., Turnipseed, A., Kim, S., Cantrell, C., Maudlin III, R. L., Zheng, W., Flocke, F., Hall, S. R., Ullmann, K., Nakashima, Y., Paul, J. B., Wolfe, G. M., Desai, A. R., Kajii, Y., Guenther, A., and Keutsch, F. N.: First direct measurements of formaldehyde flux via eddy covariance: implications for missing in-canopy formaldehyde sources, Atmos. Chem. Phys., 11, 10565–10578, https://doi.org/10.5194/acp-11-10565-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5067/Aircraft/DISCOVER-AQ/Aerosol-TraceGas</doi>
+              <unstructured_citation>DISCOVER-AQ Science Team: DISCOVER-AQ P-3B Aircraft In-situ Trace Gas
+Measurements. NASA Langley Atmospheric Science Data Center DAAC,
+https://doi.org/10.5067/aircraft/discover-aq/aerosol-tracegas, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/gmd-11-2941-2018</doi>
+              <unstructured_citation>Eastham, S. D., Long, M. S., Keller, C. A., Lundgren, E., Yantosca, R. M., Zhuang, J., Li, C., Lee, C. J., Yannetti, M., Auer, B. M., Clune, T. L., Kouatchou, J., Putman, W. M., Thompson, M. A., Trayanov, A. L., Molod, A. M., Martin, R. V., and Jacob, D. J.: GEOS-Chem High Performance (GCHP v11-02c): a next-generation implementation of the GEOS-Chem chemical transport model for massively parallel applications, Geosci. Model Dev., 11, 2941–2953, https://doi.org/10.5194/gmd-11-2941-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1038/nature13032</doi>
+              <unstructured_citation>Ehn, M., Thornton, J. A., Kleist, E., Sipila, M., Junninen, H., Pullinen,
+I., Springer, M., Rubach, F., Tillmann, R., Lee, B., Lopez-Hilfiker, F.,
+Andres, S., Acir, I. H., Rissanen, M., Jokinen, T., Schobesberger, S.,
+Kangasluoma, J., Kontkanen, J., Nieminen, T., Kurten, T., Nielsen, L. B.,
+Jorgensen, S., Kjaergaard, H. G., Canagaratna, M., Maso, M. D., Berndt, T.,
+Petaja, T., Wahner, A., Kerminen, V. M., Kulmala, M., Worsnop, D. R., Wildt,
+J., and Mentel, T. F.: A large source of low-volatility secondary organic
+aerosol, Nature, 506, 476–479, https://doi.org/10.1038/nature13032, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>EPA: 2011 National Emissions Inventory Data &amp;amp;amp; Documentation, available
+at: https://www.epa.gov/air-emissions-inventories/2011-national-emission-inventory-nei-report (last access: 8 February 2018), 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>EPA: Technical Support Document EPA's 2014 National Air Toxics Assessment,
+available at: https://www.epa.gov/sites/production/files/2018-09/documents/2014_nata_technical_support_document.pdf last access: 25 September 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>European Commission (EC): Joint Research Centre (JRC)/Netherlands
+Environmental Assessment Agency (PBL), Emission Database for Global
+Atmospheric Research (EDGAR), release version 4.2, available at: http://edgar.jrc.ec.europa.eu (last access: 25 September 2018), 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/JAS-D-16-0044.1</doi>
+              <unstructured_citation>Feiner, P. A., Brune, W. H., Miller, D. O., Zhang, L., Cohen, R. C., Romer,
+P. S., Goldstein, A. H., Keutsch, F. N., Skog, K. M., Wennberg, P. O.,
+Nguyen, T. B., Teng, A. P., DeGouw, J., Koss, A., Wild, R. J., Brown, S. S.,
+Guenther, A., Edgerton, E., Baumann, K., and Fry, J. L.: Testing atmospheric
+oxidation in an alabama forest, J. Atmos. Sci., 73, 4699–4710,
+https://doi.org/10.1175/Jas-D-16-0044.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2011GL050086</doi>
+              <unstructured_citation>Fischer, E. V., Jacob, D. J., Millet, D. B., Yantosca, R. M., and Mao, J.:
+The role of the ocean in the global atmospheric budget of acetone, Geophys. Res. Lett., 39, L01807, https://doi.org/10.1029/2011gl050086, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/acp-14-2679-2014</doi>
+              <unstructured_citation>Fischer, E. V., Jacob, D. J., Yantosca, R. M., Sulprizio, M. P., Millet, D. B., Mao, J., Paulot, F., Singh, H. B., Roiger, A., Ries, L., Talbot, R. W., Dzepina, K., and Pandey Deolal, S.: Atmospheric peroxyacetyl nitrate (PAN): a global budget and source attribution, Atmos. Chem. Phys., 14, 2679–2698, https://doi.org/10.5194/acp-14-2679-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-16-5969-2016</doi>
+              <unstructured_citation>Fisher, J. A., Jacob, D. J., Travis, K. R., Kim, P. S., Marais, E. A., Chan Miller, C., Yu, K., Zhu, L., Yantosca, R. M., Sulprizio, M. P., Mao, J., Wennberg, P. O., Crounse, J. D., Teng, A. P., Nguyen, T. B., St. Clair, J. M., Cohen, R. C., Romer, P., Nault, B. A., Wooldridge, P. J., Jimenez, J. L.,&amp;lt;span id=&amp;quot;page9117&amp;quot;/&amp;gt; Campuzano-Jost, P., Day, D. A., Hu, W., Shepson, P. B., Xiong, F., Blake, D. R., Goldstein, A. H., Misztal, P. K., Hanisco, T. F., Wolfe, G. M., Ryerson, T. B., Wisthaler, A., and Mikoviny, T.: Organic nitrate chemistry and its implications for nitrogen budgets in an isoprene- and monoterpene-rich atmosphere: constraints from aircraft (SEAC4RS) and ground-based (SOAS) observations in the Southeast US, Atmos. Chem. Phys., 16, 5969–5991, https://doi.org/10.5194/acp-16-5969-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-11-11867-2011</doi>
+              <unstructured_citation>Fried, A., Cantrell, C., Olson, J., Crawford, J. H., Weibring, P., Walega, J., Richter, D., Junkermann, W., Volkamer, R., Sinreich, R., Heikes, B. G., O'Sullivan, D., Blake, D. R., Blake, N., Meinardi, S., Apel, E., Weinheimer, A., Knapp, D., Perring, A., Cohen, R. C., Fuelberg, H., Shetter, R. E., Hall, S. R., Ullmann, K., Brune, W. H., Mao, J., Ren, X., Huey, L. G., Singh, H. B., Hair, J. W., Riemer, D., Diskin, G., and Sachse, G.: Detailed comparisons of airborne formaldehyde measurements with box models during the 2006 INTEX-B and MILAGRO campaigns: potential evidence for significant impacts of unmeasured and multi-generation volatile organic carbon compounds, Atmos. Chem. Phys., 11, 11867–11894, https://doi.org/10.5194/acp-11-11867-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1002/jgrg.20042</doi>
+              <unstructured_citation>Giglio, L., Randerson, J. T., and van der Werf, G. R.: Analysis of daily,
+monthly, and annual burned area using the fourth-generation global fire
+emissions database (GFED4), J. Geophys. Res.-Biogeo., 118, 317–328,
+https://doi.org/10.1002/jgrg.20042, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/2008JD011525</doi>
+              <unstructured_citation>Gilman, J. B., Kuster, W. C., Goldan, P. D., Herndon, S. C., Zahniser, M.
+S., Tucker, S. C., Brewer, W. A., Lerner, B. M., Williams, E. J., Harley, R.
+A., Fehsenfeld, F. C., Warneke, C., and de Gouw, J. A.: Measurements of
+volatile organic compounds during the 2006 TexAQS/GoMACCS campaign:
+Industrial influences, regional characteristics, and diurnal dependencies of
+the OH reactivity, J. Geophys. Res.-Atmos., 114, D00F06,
+https://doi.org/10.1029/2008jd011525, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1021/acs.est.5b05105</doi>
+              <unstructured_citation>Glasius, M. and Goldstein, A. H.: Recent discoveries and future challenges
+in atmospheric organic chemistry, Environ. Sci. Technol., 50, 2754–2764,
+https://doi.org/10.1021/acs.est.5b05105, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1021/es072476p</doi>
+              <unstructured_citation>Goldstein, A. H. and Galbally, I. E.: Known and unexplored organic
+constituents in the earth's atmosphere, Environ. Sci. Technol., 41,
+1514–1521, https://doi.org/10.1021/Es072476p, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/gmd-5-1471-2012</doi>
+              <unstructured_citation>Guenther, A. B., Jiang, X., Heald, C. L., Sakulyanontvittaya, T., Duhl, T., Emmons, L. K., and Wang, X.: The Model of Emissions of Gases and Aerosols from Nature version 2.1 (MEGAN2.1): an extended and updated framework for modeling biogenic emissions, Geosci. Model Dev., 5, 1471–1492, https://doi.org/10.5194/gmd-5-1471-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/acp-17-1471-2017</doi>
+              <unstructured_citation>Hatch, L. E., Yokelson, R. J., Stockwell, C. E., Veres, P. R., Simpson, I. J., Blake, D. R., Orlando, J. J., and Barsanti, K. C.: Multi-instrument comparison and compilation of non-methane organic gas emissions from biomass burning and implications for smoke-derived secondary organic aerosol precursors, Atmos. Chem. Phys., 17, 1471–1489, https://doi.org/10.5194/acp-17-1471-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1029/2005GL023831</doi>
+              <unstructured_citation>Heald, C. L., Jacob, D. J., Park, R. J., Russell, L. M., Huebert, B. J.,
+Seinfeld, J. H., Liao, H., and Weber, R. J.: A large organic aerosol source
+in the free troposphere missing from current models, Geophys. Res. Lett., 32,
+L18809, https://doi.org/10.1029/2005gl023831, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/acp-8-2007-2008</doi>
+              <unstructured_citation>Heald, C. L., Goldstein, A. H., Allan, J. D., Aiken, A. C., Apel, E., Atlas, E. L., Baker, A. K., Bates, T. S., Beyersdorf, A. J., Blake, D. R., Campos, T., Coe, H., Crounse, J. D., DeCarlo, P. F., de Gouw, J. A., Dunlea, E. J., Flocke, F. M., Fried, A., Goldan, P., Griffin, R. J., Herndon, S. C., Holloway, J. S., Holzinger, R., Jimenez, J. L., Junkermann, W., Kuster, W. C., Lewis, A. C., Meinardi, S., Millet, D. B., Onasch, T., Polidori, A., Quinn, P. K., Riemer, D. D., Roberts, J. M., Salcedo, D., Sive, B., Swanson, A. L., Talbot, R., Warneke, C., Weber, R. J., Weibring, P., Wennberg, P. O., Worsnop, D. R., Wittig, A. E., Zhang, R., Zheng, J., and Zheng, W.: Total observed organic carbon (TOOC) in the atmosphere: a synthesis of North American observations, Atmos. Chem. Phys., 8, 2007–2025, https://doi.org/10.5194/acp-8-2007-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1021/es801621f</doi>
+              <unstructured_citation>Hottle, J. R., Huisman, A. J., DiGangi, J. P., Kammrath, A., Galloway, M.
+M., Coens, K. L., and Keutsch, F. N.: A laser induced fluorescence-based
+instrument for in-situ measurements of atmospheric formaldehyde, Environ.
+Sci. Technol., 43, 790–795, https://doi.org/10.1021/es801621f, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1002/2014JD022732</doi>
+              <unstructured_citation>Hu, L., Millet, D. B., Baasandorj, M., Griffis, T. J., Turner, P., Helmig,
+D., Curtis, A. J., and Hueber, J.: Isoprene emissions and impacts over an
+ecological transition region in the US Upper Midwest inferred from tall
+tower measurements, J. Geophys. Res.-Atmos., 120, 3553–3571,
+https://doi.org/10.1002/2014JD022732, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/gmd-11-4603-2018</doi>
+              <unstructured_citation>Hu, L., Keller, C. A., Long, M. S., Sherwen, T., Auer, B., Da Silva, A., Nielsen, J. E., Pawson, S., Thompson, M. A., Trayanov, A. L., Travis, K. R., Grange, S. K., Evans, M. J., and Jacob, D. J.: Global simulation of tropospheric chemistry at 12.5&amp;amp;thinsp;km resolution: performance and evaluation of the GEOS-Chem chemical module (v10-1) within the NASA GEOS Earth system model (GEOS-5 ESM), Geosci. Model Dev., 11, 4603–4620, https://doi.org/10.5194/gmd-11-4603-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-12-7779-2012</doi>
+              <unstructured_citation>Hudman, R. C., Moore, N. E., Mebust, A. K., Martin, R. V., Russell, A. R., Valin, L. C., and Cohen, R. C.: Steps towards a mechanistic model of global soil nitric oxide emissions: implementation and space based-constraints, Atmos. Chem. Phys., 12, 7779–7795, https://doi.org/10.5194/acp-12-7779-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1007/s00216-007-1324-x</doi>
+              <unstructured_citation>Hudson, E. D., Okuda, K., and Ariya, P. A.: Determination of acetone in
+seawater using derivatization solid-phase microextraction, Anal. Bioanal.
+Chem., 388, 1275–1282, https://doi.org/10.1007/s00216-007-1324-x, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1002/mas.20118</doi>
+              <unstructured_citation>Huey, L. G.: Measurement of trace atmospheric species by chemical ionization
+mass spectrometry: speciation of reactive nitrogen and future directions,
+Mass Spectrom. Rev., 26, 166–184, https://doi.org/10.1002/mas.20118, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1038/ngeo3018</doi>
+              <unstructured_citation>Hunter, J. F., Day, D. A., Palm, B. B., Yatavelli, R. L. N., Chan, A. H.,
+Kaser, L., Cappellin, L., Hayes, P. L., Cross, E. S., Carrasquillo, A. J.,
+Campuzano-Jost, P., Stark, H., Zhao, Y. L., Hohaus, T., Smith, J. N.,
+Hansel, A., Karl, T., Goldstein, A. H., Guenther, A., Worsnop, D. R.,
+Thornton, J. A., Heald, C. L., Jimenez, J. L., and Kroll, J. H.:
+Comprehensive characterization of atmospheric organic carbon at a forested
+site, Nat. Geosci., 10, 748–753, https://doi.org/10.1038/NGEO3018, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1002/2016JD026027</doi>
+              <unstructured_citation>Iavorivska, L., Boyer, E. W., and Grimm, J. W.: Wet atmospheric deposition
+of organic carbon: An underreported source of carbon to watersheds in the
+northeastern United States, J. Geophys. Res.-Atmos., 122, 3104–3115,
+https://doi.org/10.1002/2016JD026027, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1038/s41557-018-0002-2</doi>
+              <unstructured_citation>Isaacman-VanWertz, G., Massoli, P., O'Brien, R., Lim, C., Franklin, J. P.,
+Moss, J. A., Hunter, J. F., Nowak, J. B., Canagaratna, M. R., Misztal, P.
+K., Arata, C., Roscioli, J. R., Herndon, S. T., Onasch, T. B., Lambe, A. T.,
+Jayne, J. T., Su, L., Knopf, D. A., Goldstein, A. H., Worsnop, D. R., and
+Kroll, J. H.: Chemical evolution of atmospheric organic carbon over multiple
+generations of oxidation, Nat. Chem., 10, 462–468,
+https://doi.org/10.1038/s41557-018-0002-2, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1016/S1352-2310(99)00462-8</doi>
+              <unstructured_citation>Jacob, D. J.: Heterogeneous chemistry and tropospheric ozone, Atmos.
+Environ., 34, 2131–2159, https://doi.org/10.1016/S1352-2310(99)00462-8,
+2000. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/os-6-913-2010</doi>
+              <unstructured_citation>Johnson, M. T.: A numerical scheme to calculate temperature and salinity dependent air-water transfer velocities for any gas, Ocean Sci., 6, 913–932, https://doi.org/10.5194/os-6-913-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.5194/acp-16-9349-2016</doi>
+              <unstructured_citation>Kaiser, J., Skog, K. M., Baumann, K., Bertman, S. B., Brown, S. B., Brune, W. H., Crounse, J. D., de Gouw, J. A., Edgerton, E. S., Feiner, P. A., Goldstein, A. H., Koss, A., Misztal, P. K., Nguyen, T. B., Olson, K. F., St. Clair, J. M., Teng, A. P., Toma, S., Wennberg, P. O., Wild, R. J., Zhang, L., and Keutsch, F. N.: Speciation of OH reactivity above the canopy of an isoprene-dominated forest, Atmos. Chem. Phys., 16, 9349–9359, https://doi.org/10.5194/acp-16-9349-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.5194/acp-18-5483-2018</doi>
+              <unstructured_citation>Kaiser, J., Jacob, D. J., Zhu, L., Travis, K. R., Fisher, J. A., González Abad, G., Zhang, L., Zhang, X., Fried, A., Crounse, J. D., St. Clair, J. M., and Wisthaler, A.: High-resolution inversion of OMI formaldehyde columns to quantify isoprene emission on ecosystem-relevant scales: application to the southeast US, Atmos. Chem. Phys., 18, 5483–5497, https://doi.org/10.5194/acp-18-5483-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1021/ac901630h</doi>
+              <unstructured_citation>Kameyama, S., Tanimoto, H., Inomata, S., Tsunogai, U., Ooki, A., Yokouchi,
+Y., Takeda, S., Obata, H., and Uematsu, M.: Equilibrator inlet-proton
+transfer reaction-mass spectrometry (EI-PTR-MS) for sensitive,
+high-resolution measurement of dimethyl sulfide dissolved in seawater, Anal.
+Chem., 81, 9021–9026, https://doi.org/10.1021/ac901630h, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1038/333051a0</doi>
+              <unstructured_citation>Kanakidou, M., Bonsang, B., Leroulley, J. C., Lambert, G., Martin, D., and
+Sennequier, G.: Marine source of atmospheric acetylene, Nature, 333, 51–52,
+https://doi.org/10.1038/333051a0, 1988. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2011GB004277</doi>
+              <unstructured_citation>Kanakidou, M., Duce, R. A., Prospero, J. M., Baker, A. R., Benitez-Nelson,
+C., Dentener, F. J., Hunter, K. A., Liss, P. S., Mahowald, N., Okin, G. S.,
+Sarin, M., Tsigaridis, K., Uematsu, M., Zamora, L. M., and Zhu, T.:
+Atmospheric fluxes of organic N and P to the global ocean, Global Biogeochem.
+Cy., 26, GB3026, https://doi.org/10.1029/2011gb004277, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1126/science.1192534</doi>
+              <unstructured_citation>Karl, T., Harley, P., Emmons, L., Thornton, B., Guenther, A., Basu, C.,
+Turnipseed, A., and Jardine, K.: Efficient atmospheric cleansing of oxidized
+organic trace gases by vegetation, Science, 330, 816–819,
+https://doi.org/10.1126/science.1192534, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1073/pnas.1714715115</doi>
+              <unstructured_citation>Karl, T., Striednig, M., Graus, M., Hammerle, A., and Wohlfahrt, G.: Urban
+flux measurements reveal a large pool of oxygenated volatile organic
+compound emissions, P. Natl. Acad. Sci. USA, 115, 1186–1191,
+https://doi.org/10.1073/pnas.1714715115, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.5194/acp-13-2893-2013</doi>
+              <unstructured_citation>Kaser, L., Karl, T., Schnitzhofer, R., Graus, M., Herdlinger-Blatt, I. S., DiGangi, J. P., Sive, B., Turnipseed, A., Hornbrook, R. S., Zheng, W., Flocke, F. M., Guenther, A., Keutsch, F. N., Apel, E., and Hansel, A.: Comparison of different real time VOC measurement techniques in a ponderosa pine forest, Atmos. Chem. Phys., 13, 2893–2906, https://doi.org/10.5194/acp-13-2893-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1002/2017GL072975</doi>
+              <unstructured_citation>Kim, M. J., Novak, G. A., Zoerb, M. C., Yang, M. X., Blomquist, B. W.,
+Huebert, B. J., Cappa, C. D., and Bertram, T. H.: Air-Sea exchange of
+biogenic volatile organic compounds and the impact on aerosol particle size
+distributions, Geophys. Res. Lett., 44, 3887–3896,
+https://doi.org/10.1002/2017GL072975, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.5194/acp-15-10411-2015</doi>
+              <unstructured_citation>Kim, P. S., Jacob, D. J., Fisher, J. A., Travis, K., Yu, K., Zhu, L., Yantosca, R. M., Sulprizio, M. P., Jimenez, J. L., Campuzano-Jost, P., Froyd, K. D., Liao, J., Hair, J. W., Fenn, M. A., Butler, C. F., Wagner, N. L., Gordon, T. D., Welti, A., Wennberg, P. O., Crounse, J. D., St. Clair, J. M., Teng, A. P., Millet, D. B., Schwarz, J. P., Markovic, M. Z., and Perring, A. E.: Sources, seasonality, and trends of southeast US aerosol: an integrated analysis of surface, aircraft, and satellite observations with the GEOS-Chem chemical transport model, Atmos. Chem. Phys., 15, 10411–10433, https://doi.org/10.5194/acp-15-10411-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/2006JD007676</doi>
+              <unstructured_citation>Kim, S., Huey, L. G., Stickel, R. E., Tanner, D. J., Crawford, J. H., Olson,
+J. R., Chen, G., Brune, W. H., Ren, X., Lesher, R., Wooldridge, P. J.,
+Bertram, T. H., Perring, A., Cohen, R. C., Lefer, B. L., Shetter, R. E.,
+Avery, M., Diskin, G., and Sokolik, I.: Measurement of HO2NO2 in the free
+troposphere during the intercontinental chemical transport experiment –
+North America 2004, J. Geophys. Res.-Atmos., 112, D12S01,
+https://doi.org/10.1029/2006jd007676, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1038/nature17953</doi>
+              <unstructured_citation>Kirkby, J., Duplissy, J., Sengupta, K., Frege, C., Gordon, H., Williamson,
+C., Heinritzi, M., Simon, M., Yan, C., Almeida, J., Trostl, J., Nieminen,
+T., Ortega, I. K., Wagner, R., Adamov, A., Amorim, A., Bernhammer, A. K.,
+Bianchi, F., Breitenlechner, M., Brilke, S., Chen, X., Craven, J., Dias, A.,
+Ehrhart, S., Flagan, R. C., Franchin, A., Fuchs, C., Guida, R., Hakala, J.,
+Hoyle, C. R., Jokinen, T., Junninen, H., Kangasluoma, J., Kim, J., Krapf,
+M., Kurten, A., Laaksonen, A., Lehtipalo, K., Makhmutov, V., Mathot, S.,
+Molteni, U., Onnela, A., Perakyla, O., Piel, F., Petaja, T., Praplan, A. P.,
+Pringle, K., Rap, A., Richards, N. A., Riipinen, I., Rissanen, M. P., Rondo,
+L., Sarnela, N., Schobesberger, S., Scott, C. E., Seinfeld, J. H., Sipila,
+M., Steiner, G., Stozhkov, Y., Stratmann, F., Tome, A., Virtanen, A., Vogel,
+A. L., Wagner, A. C., Wagner, P. E., Weingartner, E., Wimmer, D., Winkler,
+P. M., Ye, P., Zhang, X., Hansel, A., Dommen, J., Donahue, N. M., Worsnop,
+D. R., Baltensperger, U., Kulmala, M., Carslaw, K. S., and Curtius, J.:
+Ion-induced nucleation of pure biogenic particles, Nature, 533, 521–526,
+https://doi.org/10.1038/nature17953, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1038/nchem.948</doi>
+              <unstructured_citation>Kroll, J. H., Donahue, N. M., Jimenez, J. L., Kessler, S. H., Canagaratna,
+M. R., Wilson, K. R., Altieri, K. E., Mazzoleni, L. R., Wozniak, A. S.,
+Bluhm, H., Mysak, E. R., Smith, J. D., Kolb, C. E., and Worsnop, D. R.:
+Carbon oxidation state as a metric for describing the chemistry of
+atmospheric organic aerosol, Nat. Chem., 3, 133–139,
+https://doi.org/10.1038/nchem.948, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.5194/acp-10-7017-2010</doi>
+              <unstructured_citation>Lamarque, J.-F., Bond, T. C., Eyring, V., Granier, C., Heil, A., Klimont, Z., Lee, D., Liousse, C., Mieville, A., Owen, B., Schultz, M. G., Shindell, D., Smith, S. J., Stehfest, E., Van Aardenne, J., Cooper, O. R., Kainuma, M., Mahowald, N., McConnell, J. R., Naik, V., Riahi, K., and van Vuuren, D. P.: Historical (1850–2000) gridded anthropogenic and biomass burning emissions of reactive gases and aerosols: methodology and application, Atmos. Chem. Phys., 10, 7017–7039, https://doi.org/10.5194/acp-10-7017-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1021/es500362a</doi>
+              <unstructured_citation>Lee, B. H., Lopez-Hilfiker, F. D., Mohr, C., Kurten, T., Worsnop, D. R., and
+Thornton, J. A.: An iodide-adduct high-resolution time-of-flight
+chemical-ionization mass spectrometer: application to atmospheric inorganic
+and organic compounds, Environ. Sci. Technol., 48, 6309–6317,
+https://doi.org/10.1021/es500362a, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.5194/amt-10-291-2017</doi>
+              <unstructured_citation>Lerner, B. M., Gilman, J. B., Aikin, K. C., Atlas, E. L., Goldan, P. D., Graus, M., Hendershot, R., Isaacman-VanWertz, G. A., Koss, A., Kuster, W. C., Lueb, R. A., McLaughlin, R. J., Peischl, J., Sueper, D., Ryerson, T. B., Tokarek, T. W., Warneke, C., Yuan, B., and de Gouw, J. A.: An improved, automated whole air sampler and gas chromatography mass spectrometry analysis system for volatile organic compounds in the atmosphere, Atmos. Meas. Tech., 10, 291–313, https://doi.org/10.5194/amt-10-291-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1002/2016JD025331</doi>
+              <unstructured_citation>Li, J., Mao, J., Min, K. E., Washenfelder, R. A., Brown, S. S., Kaiser, J.,
+Keutsch, F. N., Volkamer, R., Wolfe, G. M., Hanisco, T. F., Pollack, I. B.,
+Ryerson, T. B., Graus, M., Gilman, J. B., Lerner, B. M., Warneke, C., de
+Gouw, J. A., Middlebrook, A. M., Liao, J., Welti, A., Henderson, B. H.,
+McNeill, V. F., Hall, S. R., Ullmann, K., Donner, L. J., Paulot, F., and
+Horowitz, L. W.: Observational constraints on glyoxal production from
+isoprene oxidation and its contribution to organic aerosol over the
+Southeast United States, J. Geophys. Res.-Atmos., 121, 9849–9861,
+https://doi.org/10.1002/2016JD025331, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1073/pnas.1617862114</doi>
+              <unstructured_citation>Li, S. M., Leithead, A., Moussa, S. G., Liggio, J., Moran, M. D., Wang, D.,
+Hayden, K., Darlington, A., Gordon, M., Staebler, R., Makar, P. A., Stroud,
+C. A., McLaren, R., Liu, P. S. K., O'Brien, J., Mittermeier, R. L., Zhang,
+J., Marson, G., Cober, S. G., Wolde, M., and Wentzell, J. J. B.: Differences
+between measured and reported volatile organic compound emissions from oil
+sands facilities in Alberta, Canada, P. Natl. Acad. Sci. USA, 114,
+E3756–E3765, https://doi.org/10.1073/pnas.1617862114, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1016/j.atmosenv.2010.02.009</doi>
+              <unstructured_citation>Lin, J. T. and McElroy, M. B.: Impacts of boundary layer mixing on
+pollutant vertical profiles in the lower troposphere: Implications to
+satellite remote sensing, Atmos. Environ., 44, 1726–1739,
+https://doi.org/10.1016/j.atmosenv.2010.02.009, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Lin, S. J. and Rood, R. B.: Multidimensional flux-form semi-Lagrangian
+transport schemes, Mon. Weather Rev., 124, 2046–2070,
+https://doi.org/10.1175/1520-0493(1996)124&amp;amp;lt;2046:Mffslt&amp;amp;gt;2.0.Co;2, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.5194/gmd-8-595-2015</doi>
+              <unstructured_citation>Long, M. S., Yantosca, R., Nielsen, J. E., Keller, C. A., da Silva, A., Sulprizio, M. P., Pawson, S., and Jacob, D. J.: Development of a grid-independent GEOS-Chem chemical transport model (v9-02) as an atmospheric chemistry module for Earth system models, Geosci. Model Dev., 8, 595–602, https://doi.org/10.5194/gmd-8-595-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.5194/acp-10-2007-2010</doi>
+              <unstructured_citation>Luo, G. and Yu, F.: A numerical evaluation of global oceanic emissions of
+α-pinene and isoprene, Atmos. Chem. Phys., 10, 2007–2015, https://doi.org/10.5194/acp-10-2007-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.5194/acp-9-163-2009</doi>
+              <unstructured_citation>Mao, J., Ren, X., Brune, W. H., Olson, J. R., Crawford, J. H., Fried, A., Huey, L. G., Cohen, R. C., Heikes, B., Singh, H. B., Blake, D. R., Sachse, G. W., Diskin, G. S., Hall, S. R., and Shetter, R. E.: Airborne measurement of OH reactivity during INTEX-B, Atmos. Chem. Phys., 9, 163–173, https://doi.org/10.5194/acp-9-163-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.5194/acp-16-1603-2016</doi>
+              <unstructured_citation>Marais, E. A., Jacob, D. J., Jimenez, J. L., Campuzano-Jost, P., Day, D. A., Hu, W., Krechmer, J., Zhu, L., Kim, P. S., Miller, C. C., Fisher, J. A., Travis, K., Yu, K., Hanisco, T. F., Wolfe, G. M., Arkinson, H. L., Pye, H. O. T., Froyd, K. D., Liao, J., and McNeill, V. F.: Aqueous-phase mechanism for secondary organic aerosol formation from isoprene: application to the southeast United States and co-benefit of SO2 emission controls, Atmos. Chem. Phys., 16, 1603–1618, https://doi.org/10.5194/acp-16-1603-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1029/2005GL023285</doi>
+              <unstructured_citation>Marandino, C. A., De Bruyn, W. J., Miller, S. D., Prather, M. J., and
+Saltzman, E. S.: Oceanic uptake and the global atmospheric acetone budget,
+Geophys. Res. Lett., 32, L15806, https://doi.org/10.1029/2005gl023285, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1029/2000JD900211</doi>
+              <unstructured_citation>Mari, C., Jacob, D. J., and Bechtold, P.: Transport and scavenging of
+soluble gases in a deep convective cloud, J. Geophys. Res.-Atmos., 105,
+22255–22267, https://doi.org/10.1029/2000jd900211, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1021/es401034z</doi>
+              <unstructured_citation>McDonald, B. C., Gentner, D. R., Goldstein, A. H., and Harley, R. A.:
+Long-term trends in motor vehicle emissions in u.s. urban areas, Environ.
+Sci. Technol., 47, 10022–10031, https://doi.org/10.1021/es401034z, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.1126/science.aaq0524</doi>
+              <unstructured_citation>McDonald, B. C., de Gouw, J. A., Gilman, J. B., Jathar, S. H., Akherati, A.,
+Cappa, C. D., Jimenez, J. L., Lee-Taylor, J., Hayes, P. L., McKeen, S. A.,
+Cui, Y. Y., Kim, S. W., Gentner, D. R., Isaacman-VanWertz, G., Goldstein, A.
+H., Harley, R. A., Frost, G. J., Roberts, J. M., Ryerson, T. B., and
+Trainer, M.: Volatile chemical products emerging as largest petrochemical
+source of urban organic emissions, Science, 359, 760–764,
+https://doi.org/10.1126/science.aaq0524, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.5194/acp-8-6887-2008</doi>
+              <unstructured_citation>Millet, D. B., Jacob, D. J., Custer, T. G., de Gouw, J. A., Goldstein, A. H., Karl, T., Singh, H. B., Sive, B. C., Talbot, R. W., Warneke, C., and Williams, J.: New constraints on terrestrial and oceanic sources of atmospheric methanol, Atmos. Chem. Phys., 8, 6887–6905, https://doi.org/10.5194/acp-8-6887-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.5194/acp-10-3405-2010</doi>
+              <unstructured_citation>Millet, D. B., Guenther, A., Siegel, D. A., Nelson, N. B., Singh, H. B., de Gouw, J. A., Warneke, C., Williams, J., Eerdekens, G., Sinha, V., Karl, T., Flocke, F., Apel, E., Riemer, D. D., Palmer, P. I., and Barkley, M.: Global atmospheric budget of acetaldehyde: 3-D model analysis and constraints from in-situ and satellite observations, Atmos. Chem. Phys., 10, 3405–3425, https://doi.org/10.5194/acp-10-3405-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.1021/es300162u</doi>
+              <unstructured_citation>Millet, D. B., Apel, E., Henze, D. K., Hill, J., Marshall, J. D., Singh, H.
+B., and Tessum, C. W.: Natural and anthropogenic ethanol sources in North
+America and potential atmospheric impacts of ethanol fuel use, Environ. Sci.
+Technol., 46, 8484–8492, https://doi.org/10.1021/es300162u, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.5194/acp-15-6283-2015</doi>
+              <unstructured_citation>Millet, D. B., Baasandorj, M., Farmer, D. K., Thornton, J. A., Baumann, K., Brophy, P., Chaliyakunnel, S., de Gouw, J. A., Graus, M., Hu, L., Koss, A., Lee, B. H., Lopez-Hilfiker, F. D., Neuman, J. A., Paulot, F., Peischl, J., Pollack, I. B., Ryerson, T. B., Warneke, C., Williams, B. J., and Xu, J.: A large and ubiquitous source of atmospheric formic acid, Atmos. Chem. Phys., 15, 6283–6304, https://doi.org/10.5194/acp-15-6283-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.1021/acsearthspacechem.8b00061</doi>
+              <unstructured_citation>Millet, D. B., Alwe, H. D., Chen, X., Deventer, M. J., Griffis, T. J.,
+Holzinger, R., Bertman, S. B., Rickly, P. S., Stevens, P. S., Leonardis, T.,
+Locoge, N., Dusanter, S., Tyndall, G. S., Alvarez, S. L., Erickson, M. H.,
+and Flynn, J. H.: Bidirectional ecosystem-atmosphere fluxes of volatile
+organic compounds across the mass spectrum: How many matter?, ACS Earth
+Space Chem., 2, 764–777, https://doi.org/10.1021/acsearthspacechem.8b00061,
+2018. </unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.5194/amt-9-423-2016</doi>
+              <unstructured_citation>Min, K.-E., Washenfelder, R. A., Dubé, W. P., Langford, A. O., Edwards, P. M., Zarzana, K. J., Stutz, J., Lu, K., Rohrer, F., Zhang, Y., and Brown, S. S.: A broadband cavity enhanced absorption spectrometer for aircraft measurements of glyoxal, methylglyoxal, nitrous acid, nitrogen dioxide, and water vapor, Atmos. Meas. Tech., 9, 423–440, https://doi.org/10.5194/amt-9-423-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.1038/ncomms13213</doi>
+              <unstructured_citation>Müller, J. F., Liu, Z., Nguyen, V. S., Stavrakou, T., Harvey, J. N., and
+Peeters, J.: The reaction of methyl peroxy and hydroxyl radicals as a major
+source of atmospheric methanol, Nat. Commun., 7, 13213,
+https://doi.org/10.1038/ncomms13213, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.5194/amt-7-3763-2014</doi>
+              <unstructured_citation>Müller, M., Mikoviny, T., Feil, S., Haidacher, S., Hanel, G., Hartungen, E., Jordan, A., Märk, L., Mutschlechner, P., Schottkowsky, R., Sulzer, P., Crawford, J. H., and Wisthaler, A.: A compact PTR-ToF-MS instrument for airborne measurements of volatile organic compounds at high spatiotemporal resolution, Atmos. Meas. Tech., 7, 3763–3772, https://doi.org/10.5194/amt-7-3763-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.5194/acp-16-3813-2016</doi>
+              <unstructured_citation>Müller, M., Anderson, B. E., Beyersdorf, A. J., Crawford, J. H., Diskin, G. S., Eichler, P., Fried, A., Keutsch, F. N., Mikoviny, T., Thornhill, K. L., Walega, J. G., Weinheimer, A. J., Yang, M., Yokelson, R. J., and Wisthaler, A.: In situ measurements and modeling of reactive trace gases in a small biomass burning plume, Atmos. Chem. Phys., 16, 3813–3824, https://doi.org/10.5194/acp-16-3813-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.1073/pnas.1620571114</doi>
+              <unstructured_citation>Mungall, E. L., Abbatt, J. P. D., Wentzell, J. J. B., Lee, A. K. Y., Thomas,
+J. L., Blais, M., Gosselin, M., Miller, L. A., Papakyriakou, T., Willis, M.
+D., and Liggio, J.: Microlayer source of oxygenated volatile organic
+compounds in the summertime marine Arctic boundary layer, P. Natl. Acad.
+Sci. USA, 114, 6203–6208, https://doi.org/10.1073/pnas.1620571114, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <unstructured_citation>Myhre, G., Shindell, D., Breìon, F.-M., Collins, W., Fuglestvedt, J., Huang,
+J., Koch, D., Lamarque, J.-F., Lee, D., Mendoza, B., Nakajima, T., Robock,
+A., Stephens, G., Takemura, T., and Zhang, H.: Anthropogenic and natural
+radiative forcing, in: Climate Change 2013: The Physical Science Basis, Contribution of Working Group I to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin,
+D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A.,
+Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge,
+United Kingdom and New York, NY, USA, 659–740, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.1073/pnas.1418702112</doi>
+              <unstructured_citation>Nguyen, T. B., Crounse, J. D., Teng, A. P., St Clair, J. M., Paulot, F.,
+Wolfe, G. M., and Wennberg, P. O.: Rapid deposition of oxidized biogenic
+compounds to a temperate forest, P. Natl. Acad. Sci. USA, 112,
+E392–E401, https://doi.org/10.1073/pnas.1418702112, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.1021/es00176a016</doi>
+              <unstructured_citation>Nirmalakhandan, N. N. and Speece, R. E.: QSAR model for predicting Henry's
+constant, Environ. Sci. Technol., 22, 1349–1357,
+https://doi.org/10.1021/es00176a016, 1988. </unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1016/j.ijms.2017.11.015</doi>
+              <unstructured_citation>O'Sullivan, D. W., Silwal, I. K. C., McNeill, A. S., Treadaway, V., and
+Heikes, B. G.: Quantification of gas phase hydrogen peroxide and methyl
+peroxide in ambient air: Using atmospheric pressure chemical ionization mass
+spectrometry with O2-, and O2-(CO2) reagent ions, Int. J. Mass Spectrom.,
+424, 16–26, https://doi.org/10.1016/j.ijms.2017.11.015, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.1038/ngeo177</doi>
+              <unstructured_citation>Osthoff, H. D., Roberts, J. M., Ravishankara, A. R., Williams, E. J.,
+Lerner, B. M., Sommariva, R., Bates, T. S., Coffman, D., Quinn, P. K., Dibb,
+J. E., Stark, H., Burkholder, J. B., Talukdar, R. K., Meagher, J.,
+Fehsenfeld, F. C., and Brown, S. S.: High levels of nitryl chloride in the
+polluted subtropical marine boundary layer, Nat. Geosci., 1, 324–328,
+https://doi.org/10.1038/ngeo177, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.1029/2005GL022592</doi>
+              <unstructured_citation>Palmer, P. I. and Shaw, S. L.: Quantifying global marine isoprene fluxes
+using MODIS chlorophyll observations, Geophys. Res. Lett., 32, L09805,
+https://doi.org/10.1029/2005gl022592, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <doi provider="crossref">10.1126/science.1235053</doi>
+              <unstructured_citation>Park, J. H., Goldstein, A. H., Timkovsky, J., Fares, S., Weber, R., Karlik,
+J., and Holzinger, R.: Active atmosphere-ecosystem exchange of the vast
+majority of detected volatile organic compounds, Science, 341, 643–647,
+https://doi.org/10.1126/science.1235053, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.11.033</doi>
+              <unstructured_citation>Parrish, D. D.: Critical evaluation of US on-road vehicle emission
+inventories, Atmos. Environ., 40, 2288–2300,
+https://doi.org/10.1016/j.atmosenv.2005.11.033, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <doi provider="crossref">10.5194/acp-9-1479-2009</doi>
+              <unstructured_citation>Paulot, F., Crounse, J. D., Kjaergaard, H. G., Kroll, J. H., Seinfeld, J. H., and Wennberg, P. O.: Isoprene photooxidation: new insights into the production of acids and organic nitrates, Atmos. Chem. Phys., 9, 1479–1501, https://doi.org/10.5194/acp-9-1479-2009, 2009a. </unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <doi provider="crossref">10.1126/science.1172910</doi>
+              <unstructured_citation>Paulot, F., Crounse, J. D., Kjaergaard, H. G., Kurten, A., St. Clair, J. M.,
+Seinfeld, J. H., and Wennberg, P. O.: Unexpected epoxide formation in the
+gas-phase photooxidation of isoprene, Science, 325, 730–733,
+10.1126/science.1172910, 2009b. </unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <doi provider="crossref">10.5194/acp-11-1989-2011</doi>
+              <unstructured_citation>Paulot, F., Wunch, D., Crounse, J. D., Toon, G. C., Millet, D. B., DeCarlo, P. F., Vigouroux, C., Deutscher, N. M., González Abad, G., Notholt, J., Warneke, T., Hannigan, J. W., Warneke, C., de Gouw, J. A., Dunlea, E. J., De Mazière, M., Griffith, D. W. T., Bernath, P., Jimenez, J. L., and Wennberg, P. O.: Importance of secondary sources in the atmospheric budgets of formic and acetic acids, Atmos. Chem. Phys., 11, 1989–2013, https://doi.org/10.5194/acp-11-1989-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <doi provider="crossref">10.1029/2012JD017994</doi>
+              <unstructured_citation>Peischl, J., Ryerson, T. B., Holloway, J. S., Trainer, M., Andrews, A. E.,
+Atlas, E. L., Blake, D. R., Daube, B. C., Dlugokencky, E. J., Fischer, M.
+L., Goldstein, A. H., Guha, A., Karl, T., Kofler, J., Kosciuch, E., Misztal,
+P. K., Perring, A. E., Pollack, I. B., Santoni, G. W., Schwarz, J. P.,
+Spackman, J. R., Wofsy, S. C., and Parrish, D. D.: Airborne observations of
+methane emissions from rice cultivation in the Sacramento Valley of
+California, J. Geophys. Res.-Atmos., 117, D00V25,
+https://doi.org/10.1029/2012jd017994, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <unstructured_citation>Pfister, G., Flocke, F., Hornbrook, R., Orlando, J., Lee, S., and Schroeder,
+J.: FRAPPÉ Final Report: Process-Based and Regional Source Impact
+Analysis for FRAPPÉ and DISCOVER-AQ 2014, available at:
+https://www.colorado.gov/airquality/tech_doc_repository.aspx?action=open&amp;amp;amp;file=FRAPPE-NCAR_Final_Report_July2017.pdf (last access: 13 January 2019), 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <doi provider="crossref">10.5194/gmd-9-1683-2016</doi>
+              <unstructured_citation>Philip, S., Martin, R. V., and Keller, C. A.: Sensitivity of chemistry-transport model simulations to the duration of chemical and transport operators: a case study with GEOS-Chem v10-01, Geosci. Model Dev., 9, 1683–1695, https://doi.org/10.5194/gmd-9-1683-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <doi provider="crossref">10.1007/s10874-011-9184-3</doi>
+              <unstructured_citation>Pollack, I. B., Lerner, B. M., and Ryerson, T. B.: Evaluation of ultraviolet
+light-emitting diodes for detection of atmospheric NO2 by photolysis -
+chemiluminescence, J. Atmos. Chem., 65, 111–125,
+https://doi.org/10.1007/s10874-011-9184-3, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <doi provider="crossref">10.1073/pnas.1715540115</doi>
+              <unstructured_citation>Praske, E., Otkjaer, R. V., Crounse, J. D., Hethcox, J. C., Stoltz, B. M.,
+Kjaergaard, H. G., and Wennberg, P. O.: Atmospheric autoxidation is
+increasingly important in urban and suburban North America, P. Natl.
+Acad. Sci. USA, 115, 64–69, https://doi.org/10.1073/pnas.1715540115,
+2018. </unstructured_citation>
+            </citation>
+            <citation key="ref120">
+              <doi provider="crossref">10.1038/nature07035</doi>
+              <unstructured_citation>Read, K. A., Mahajan, A. S., Carpenter, L. J., Evans, M. J., Faria, B. V.,
+Heard, D. E., Hopkins, J. R., Lee, J. D., Moller, S. J., Lewis, A. C.,
+Mendes, L., McQuaid, J. B., Oetjen, H., Saiz-Lopez, A., Pilling, M. J., and
+Plane, J. M.: Extensive halogen-mediated ozone destruction over the tropical
+Atlantic Ocean, Nature, 453, 1232–1235, https://doi.org/10.1038/nature07035,
+2008. </unstructured_citation>
+            </citation>
+            <citation key="ref121">
+              <doi provider="crossref">10.1021/es302082p</doi>
+              <unstructured_citation>Read, K. A., Carpenter, L. J., Arnold, S. R., Beale, R., Nightingale, P. D.,
+Hopkins, J. R., Lewis, A. C., Lee, J. D., Mendes, L., and Pickering, S. J.:
+Multiannual observations of acetone, methanol, and acetaldehyde in remote
+tropical atlantic air: implications for atmospheric OVOC budgets and
+oxidative capacity, Environ. Sci. Technol., 46, 11028–11039,
+https://doi.org/10.1021/es302082p, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref122">
+              <doi provider="crossref">10.1016/j.techfore.2006.05.026</doi>
+              <unstructured_citation>Riahi, K., Grubler, A., and Nakicenovic, N.: Scenarios of long-term
+socio-economic and environmental development under climate stabilization,
+Technol. Forecast. Soc., 74, 887–935,
+https://doi.org/10.1016/j.techfore.2006.05.026, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref123">
+              <doi provider="crossref">10.1007/s00340-015-6038-8</doi>
+              <unstructured_citation>Richter, D., Weibring, P., Walega, J. G., Fried, A., Spuler, S. M., and
+Taubman, M. S.: Compact highly sensitive multi-species airborne mid-IR
+spectrometer, Appl. Phys. B, 119, 119–131,
+https://doi.org/10.1007/s00340-015-6038-8, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref124">
+              <doi provider="crossref">10.1029/98JD01620</doi>
+              <unstructured_citation>Ryerson, T. B., Buhr, M. P., Frost, G. J., Goldan, P. D., Holloway, J. S.,
+Hubler, G., Jobson, B. T., Kuster, W. C., McKeen, S. A., Parrish, D. D.,
+Roberts, J. M., Sueper, D. T., Trainer, M., Williams, J., and Fehsenfeld, F.
+C.: Emissions lifetimes and ozone formation in power plant plumes, J.
+Geophys. Res.-Atmos., 103, 22569–22583, https://doi.org/10.1029/98jd01620,
+1998. </unstructured_citation>
+            </citation>
+            <citation key="ref125">
+              <doi provider="crossref">10.1029/1998JD100087</doi>
+              <unstructured_citation>Ryerson, T. B., Huey, L. G., Knapp, K., Neuman, J. A., Parrish, D. D.,
+Sueper, D. T., and Fehsenfeld, F. C.: Design and initial characterization of
+an inlet for gas-phase NOy measurements from aircraft, J. Geophys. Res.-Atmos., 104, 5483–5492, https://doi.org/10.1029/1998jd100087, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref126">
+              <doi provider="crossref">10.1002/jgrd.50331</doi>
+              <unstructured_citation>Ryerson, T. B., Andrews, A. E., Angevine, W. M., Bates, T. S., Brock, C. A.,
+Cairns, B., Cohen, R. C., Cooper, O. R., de Gouw, J. A., Fehsenfeld, F. C.,
+Ferrare, R. A., Fischer, M. L., Flagan, R. C., Goldstein, A. H., Hair, J.
+W., Hardesty, R. M., Hostetler, C. A., Jimenez, J. L., Langford, A. O.,
+McCauley, E., McKeen, S. A., Molina, L. T., Nenes, A., Oltmans, S. J.,
+Parrish, D. D., Pederson, J. R., Pierce, R. B., Prather, K., Quinn, P. K.,
+Seinfeld, J. H., Senff, C. J., Sorooshian, A., Stutz, J., Surratt, J. D.,
+Trainer, M., Volkamer, R., Williams, E. J., and Wofsy, S. C.: The 2010
+California Research at the Nexus of Air Quality and Climate Change (CalNex)
+field study, J. Geophys. Res.-Atmos., 118, 5830–5866,
+https://doi.org/10.1002/jgrd.50331, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref127">
+              <doi provider="crossref">10.1002/2017GL072602</doi>
+              <unstructured_citation>Safieddine, S. A., Heald, C. L., and Henderson, B. H.: The global nonmethane
+reactive organic carbon budget: A modeling perspective, Geophys. Res. Lett.,
+44, 3897–3906, https://doi.org/10.1002/2017GL072602, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref128">
+              <doi provider="crossref">10.5194/acp-15-4399-2015</doi>
+              <unstructured_citation>Sander, R.: Compilation of Henry's law constants (version 4.0) for water as solvent, Atmos. Chem. Phys., 15, 4399–4981, https://doi.org/10.5194/acp-15-4399-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref129">
+              <doi provider="crossref">10.1029/2001JD002040</doi>
+              <unstructured_citation>Schauffler, S. M., Atlas, E. L., Donnelly, S. G., Andrews, A., Montzka, S.
+A., Elkins, J. W., Hurst, D. F., Romashkin, P. A., Dutton, G. S., and
+Stroud, V.: Chlorine budget and partitioning during the Stratospheric
+Aerosol and Gas Experiment (SAGE) III Ozone Loss and Validation Experiment
+(SOLVE), J. Geophys. Res.-Atmos., 108, 4173, https://doi.org/10.1029/2001JD002040,
+2003. </unstructured_citation>
+            </citation>
+            <citation key="ref130">
+              <doi provider="crossref">10.5067/Aircraft/SEAC4RS/Aerosol-TraceGas-Cloud</doi>
+              <unstructured_citation>SEAC&amp;lt;span class=&amp;quot;inline-formula&amp;quot;&amp;gt;&amp;lt;sup&amp;gt;4&amp;lt;/sup&amp;gt;&amp;lt;/span&amp;gt;RS Science Team: SEAC4RS Field Campaign Data. NASA Langley
+Atmospheric Science Data Center DAAC,
+https://doi.org/10.5067/aircraft/seac4rs/aerosol-tracegas-cloud, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref131">
+              <doi provider="crossref">10.1038/s41467-018-04824-2</doi>
+              <unstructured_citation>Shaw, M. F., Sztáray, B., Whalley, L. K., Heard, D. E., Millet, D. B.,
+Jordan, M. J., Osborn, D. L., and Kable, S. H.: Photo-tautomerization of
+acetaldehyde as a photochemical source of formic acid in the troposphere,
+Nat. Commun., 9, 2584, https://doi.org/10.1038/s41467-018-04824-2, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref132">
+              <doi provider="crossref">10.1155/2010/408696</doi>
+              <unstructured_citation>Shaw, S. L., Gantt, B., and Meskhidze, N.: Production and emissions of
+marine isoprene and monoterpenes: A review, Adv. Meteorol., 2010, 1–24,
+https://doi.org/10.1155/2010/408696, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref133">
+              <doi provider="crossref">10.1029/2003GL017933</doi>
+              <unstructured_citation>Singh, H. B., Tabazadeh, A., Evans, M. J., Field, B. D., Jacob, D. J.,
+Sachse, G., Crawford, J. H., Shetter, R., and Brune, W. H.: Oxygenated
+volatile organic chemicals in the oceans: Inferences and implications based
+on atmospheric observations and air-sea exchange models, Geophys. Res. Lett.,
+30, 1862, https://doi.org/10.1029/2003gl017933, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref134">
+              <doi provider="crossref">10.1029/2004JD004670</doi>
+              <unstructured_citation>Slusher, D. L., Huey, L. G., Tanner, D. J., Flocke, F. M., and Roberts, J.
+M.: A thermal dissociation-chemical ionization mass spectrometry (TD-CIMS)
+technique for the simultaneous measurement of peroxyacyl nitrates and
+dinitrogen pentoxide, J. Geophys. Res.-Atmos., 109, D19315,
+https://doi.org/10.1029/2004jd004670, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref135">
+              <doi provider="crossref">10.1063/1.3480552</doi>
+              <unstructured_citation>St Clair, J. M., McCabe, D. C., Crounse, J. D., Steiner, U., and Wennberg,
+P. O.: Chemical ionization tandem mass spectrometer for the in situ
+measurement of methyl hydrogen peroxide, Rev. Sci. Instrum., 81, 094102,
+https://doi.org/10.1063/1.3480552, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref136">
+              <doi provider="crossref">10.1016/S0045-6535(00)00505-1</doi>
+              <unstructured_citation>Staudinger, J. and Roberts, P. V.: A critical compilation of Henry's law
+constant temperature dependence relations for organic compounds in dilute
+aqueous solutions, Chemosphere, 44, 561–576,
+https://doi.org/10.1016/S0045-6535(00)00505-1, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref137">
+              <doi provider="crossref">10.1038/ngeo1354</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J. F., Peeters, J., Razavi, A., Clarisse, L.,
+Clerbaux, C., Coheur, P. F., Hurtmans, D., De Maziere, M., Vigouroux, C.,
+Deutscher, N. M., Griffith, D. W. T., Jones, N., and Paton-Walsh, C.:
+Satellite evidence for a large source of formic acid from boreal and
+tropical forests, Nat. Geosci., 5, 26–30, https://doi.org/10.1038/NGEO1354,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref138">
+              <doi provider="crossref">10.1016/j.atmosenv.2011.07.012</doi>
+              <unstructured_citation>Stettler, M. E. J., Eastham, S., and Barrett, S. R. H.: Air quality and
+public health impacts of UK airports. Part I: Emissions, Atmos. Environ.,
+45, 5415–5424, https://doi.org/10.1016/j.atmosenv.2011.07.012, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref139">
+              <doi provider="crossref">10.1002/2015JD024297</doi>
+              <unstructured_citation>Toon, O. B., Maring, H., Dibb, J., Ferrare, R., Jacob, D. J., Jensen, E. J.,
+Luo, Z. J., Mace, G. G., Pan, L. L., Pfister, L., Rosenlof, K. H., Redemann,
+J., Reid, J. S., Singh, H. B., Thompson, A. M., Yokelson, R., Minnis, P.,
+Chen, G., Jucks, K. W., and Pszenny, A.: Planning, implementation, and
+scientific goals of the Studies of Emissions and Atmospheric Composition,
+Clouds and Climate Coupling by Regional Surveys (SEAC(4)RS) field mission,
+J. Geophys. Res.-Atmos., 121, 4967–5009,
+https://doi.org/10.1002/2015JD024297, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref140">
+              <doi provider="crossref">10.5194/acp-16-13561-2016</doi>
+              <unstructured_citation>Travis, K. R., Jacob, D. J., Fisher, J. A., Kim, P. S., Marais, E. A., Zhu, L., Yu, K., Miller, C. C., Yantosca, R. M., Sulprizio, M. P., Thompson, A. M., Wennberg, P. O., Crounse, J. D., St. Clair, J. M., Cohen, R. C., Laughner, J. L., Dibb, J. E., Hall, S. R., Ullmann, K., Wolfe, G. M., Pollack, I. B., Peischl, J., Neuman, J. A., and Zhou, X.: Why do models overestimate surface ozone in the Southeast United States?, Atmos. Chem. Phys., 16, 13561–13577, https://doi.org/10.5194/acp-16-13561-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref141">
+              <doi provider="crossref">10.5194/amt-11-1901-2018</doi>
+              <unstructured_citation>Treadaway, V., Heikes, B. G., McNeill, A. S., Silwal, I. K. C., and O'Sullivan, D. W.: Measurement of formic acid, acetic acid and hydroxyacetaldehyde, hydrogen peroxide, and methyl peroxide in air by chemical ionization mass spectrometry: airborne method development, Atmos. Meas. Tech., 11, 1901–1920, https://doi.org/10.5194/amt-11-1901-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref142">
+              <doi provider="crossref">10.1038/nature18271</doi>
+              <unstructured_citation>Trostl, J., Chuang, W. K., Gordon, H., Heinritzi, M., Yan, C., Molteni, U.,
+Ahlm, L., Frege, C., Bianchi, F., Wagner, R., Simon, M., Lehtipalo, K.,
+Williamson, C., Craven, J. S., Duplissy, J., Adamov, A., Almeida, J.,
+Bernhammer, A. K., Breitenlechner, M., Brilke, S., Dias, A., Ehrhart, S.,
+Flagan, R. C., Franchin, A., Fuchs, C., Guida, R., Gysel, M., Hansel, A.,
+Hoyle, C. R., Jokinen, T., Junninen, H., Kangasluoma, J., Keskinen, H., Kim,
+J., Krapf, M., Kurten, A., Laaksonen, A., Lawler, M., Leiminger, M., Mathot,
+S., Mohler, O., Nieminen, T., Onnela, A., Petaja, T., Piel, F. M.,
+Miettinen, P., Rissanen, M. P., Rondo, L., Sarnela, N., Schobesberger, S.,
+Sengupta, K., Sipila, M., Smith, J. N., Steiner, G., Tome, A., Virtanen, A.,
+Wagner, A. C., Weingartner, E., Wimmer, D., Winkler, P. M., Ye, P. L.,
+Carslaw, K. S., Curtius, J., Dommen, J., Kirkby, J., Kulmala, M., Riipinen,
+I., Worsnop, D. R., Donahue, N. M., and Baltensperger, U.: The role of
+low-volatility organic compounds in initial particle growth in the
+atmosphere, Nature, 533, 527–531, https://doi.org/10.1038/nature18271, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref143">
+              <doi provider="crossref">10.5194/essd-9-697-2017</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., van Leeuwen, T. T., Chen, Y., Rogers, B. M., Mu, M., van Marle, M. J. E., Morton, D. C., Collatz, G. J., Yokelson, R. J., and Kasibhatla, P. S.: Global fire emissions estimates during 1997–2016, Earth Syst. Sci. Data, 9, 697–720, https://doi.org/10.5194/essd-9-697-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref144">
+              <doi provider="crossref">10.1007/s10584-011-0148-z</doi>
+              <unstructured_citation>van Vuuren, D. P., Edmonds, J., Kainuma, M., Riahi, K., Thomson, A.,
+Hibbard, K., Hurtt, G. C., Kram, T., Krey, V., Lamarque, J. F., Masui, T.,
+Meinshausen, M., Nakicenovic, N., Smith, S. J., and Rose, S. K.: The
+representative concentration pathways: an overview, Clim. Change, 109, 5–31,
+https://doi.org/10.1007/s10584-011-0148-z, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref145">
+              <doi provider="crossref">10.1029/98JD00158</doi>
+              <unstructured_citation>Wang, Y. H., Jacob, D. J., and Logan, J. A.: Global simulation of
+tropospheric O3-NOx-hydrocarbon chemistry 1. Model formulation, J. Geophys.
+Res.-Atmos., 103, 10713–10725, https://doi.org/10.1029/98jd00158, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref146">
+              <unstructured_citation>Warneke, C., de Gouw, J. A., Nowak, J. B., and Peischl, J.: Volatile organic
+compound emissions from agriculture in Central Valley, California, Abstr.
+Pap. Am. Chem. Soc., 242, 1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref147">
+              <doi provider="crossref">10.1029/2012JD017899</doi>
+              <unstructured_citation>Warneke, C., de Gouw, J. A., Holloway, J. S., Peischl, J., Ryerson, T. B.,
+Atlas, E., Blake, D., Trainer, M., and Parrish, D. D.: Multiyear trends in
+volatile organic compounds in Los Angeles, California: Five decades of
+decreasing emissions, J. Geophys. Res.-Atmos., 117, D00V17,
+https://doi.org/10.1029/2012jd017899, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref148">
+              <doi provider="crossref">10.5194/acp-14-10977-2014</doi>
+              <unstructured_citation>Warneke, C., Geiger, F., Edwards, P. M., Dube, W., Pétron, G., Kofler, J., Zahn, A., Brown, S. S., Graus, M., Gilman, J. B., Lerner, B. M., Peischl, J., Ryerson, T. B., de Gouw, J. A., and Roberts, J. M.: Volatile organic compound emissions from the oil and natural gas industry in the Uintah Basin, Utah: oil and gas well pad emissions compared to ambient air composition, Atmos. Chem. Phys., 14, 10977–10988, https://doi.org/10.5194/acp-14-10977-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref149">
+              <doi provider="crossref">10.5194/amt-9-3063-2016</doi>
+              <unstructured_citation>Warneke, C., Trainer, M., de Gouw, J. A., Parrish, D. D., Fahey, D. W., Ravishankara, A. R., Middlebrook, A. M., Brock, C. A., Roberts, J. M., Brown, S. S., Neuman, J. A., Lerner, B. M., Lack, D., Law, D., Hübler, G., Pollack, I., Sjostedt, S., Ryerson, T. B., Gilman, J. B., Liao, J., Holloway, J., Peischl, J., Nowak, J. B., Aikin, K. C., Min, K.-E., Washenfelder, R. A., Graus, M. G., Richardson, M., Markovic, M. Z., Wagner, N. L., Welti, A., Veres, P. R., Edwards, P., Schwarz, J. P., Gordon, T., Dube, W. P., McKeen, S. A., Brioude, J., Ahmadov, R., Bougiatioti, A., Lin, J. J., Nenes, A., Wolfe, G. M., Hanisco, T. F., Lee, B. H., Lopez-Hilfiker, F. D., Thornton, J. A., Keutsch, F. N., Kaiser, J., Mao, J., and Hatch, C. D.: Instrumentation and measurement strategy for the NOAA SENEX aircraft campaign as part of the Southeast Atmosphere Study 2013, Atmos. Meas. Tech., 9, 3063–3093, https://doi.org/10.5194/amt-9-3063-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref150">
+              <doi provider="crossref">10.1364/OE.18.027670</doi>
+              <unstructured_citation>Weibring, P., Richter, D., Walega, J. G., Rippe, L., and Fried, A.:
+Difference frequency generation spectrometer for simultaneous multispecies
+detection, Opt. Express, 18, 27670–27681,
+https://doi.org/10.1364/OE.18.027670, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref151">
+              <doi provider="crossref">10.1029/94GL01897</doi>
+              <unstructured_citation>Weinheimer, A. J., Walega, J. G., Ridley, B. A., Gary, B. L., Blake, D. R.,
+Blake, N. J., Rowland, F. S., Sachse, G. W., Anderson, B. E., and Collins,
+J. E.: Meridional distributions of NOx, NOy and other species in the lower
+stratosphere and upper troposphere during AASE II, Geophys. Res. Lett., 21,
+2583–2586, https://doi.org/10.1029/94gl01897, 1994. </unstructured_citation>
+            </citation>
+            <citation key="ref152">
+              <doi provider="crossref">10.5194/acp-12-5897-2012</doi>
+              <unstructured_citation>Wells, K. C., Millet, D. B., Hu, L., Cady-Pereira, K. E., Xiao, Y., Shephard, M. W., Clerbaux, C. L., Clarisse, L., Coheur, P.-F., Apel, E. C., de Gouw, J., Warneke, C., Singh, H. B., Goldstein, A. H., and Sive, B. C.: Tropospheric methanol observations from space: retrieval evaluation and constraints on the seasonality of biogenic emissions, Atmos. Chem. Phys., 12, 5897–5912, https://doi.org/10.5194/acp-12-5897-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref153">
+              <doi provider="crossref">10.1016/0004-6981(89)90153-4</doi>
+              <unstructured_citation>Wesely, M. L.: Parameterization of surface resistances to gaseous dry
+deposition in regional-scale numerical models, Atmos. Environ., 23,
+1293–1304, https://doi.org/10.1016/0004-6981(89)90153-4, 1989. </unstructured_citation>
+            </citation>
+            <citation key="ref154">
+              <doi provider="crossref">10.5194/gmd-4-625-2011</doi>
+              <unstructured_citation>Wiedinmyer, C., Akagi, S. K., Yokelson, R. J., Emmons, L. K., Al-Saadi, J. A., Orlando, J. J., and Soja, A. J.: The Fire INventory from NCAR (FINN): a high resolution global model to estimate the emissions from open burning, Geosci. Model Dev., 4, 625–641, https://doi.org/10.5194/gmd-4-625-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref155">
+              <doi provider="crossref">10.1029/2004GL020012</doi>
+              <unstructured_citation>Williams, J., Holzinger, R., Gros, V., Xu, X., Atlas, E., and Wallace, D. W.
+R.: Measurements of organic species in air and seawater from the tropical
+Atlantic, Geophys. Res. Lett., 31, L23S06, https://doi.org/10.1029/2004gl020012, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref156">
+              <doi provider="crossref">10.1029/2001JD000576</doi>
+              <unstructured_citation>Wisthaler, A., Hansel, A., Dickerson, R. R., and Crutzen, P. J.: Organic
+trace gas measurements by PTR-MS during INDOEX 1999, J. Geophys. Res.-Atmos., 107, 8024, https://doi.org/10.1029/2001jd000576, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref157">
+              <unstructured_citation>Wofsy, S. C., Afshar, S., Allen, H. M., Apel, E., Asher, E. C., Barletta,
+B., Bent, J., Bian, H., Biggs, B. C., Blake, D. R., Blake, N., Bourgeois,
+I., Brock, C. A., Brune, W. H., Budney, J. W., Bui, T. P., Butler, A.,
+Campuzano-Jost, P., Chang, C. S., Chin, M., Commane, R., Correa, G.,
+Crounse, J. D., Cullis, P. D., Daube, B. C., Day, D. A., Dean-Day, J. M.,
+Dibb, J. E.,&amp;lt;span id=&amp;quot;page9123&amp;quot;/&amp;gt; DiGangi, J. P., Diskin, G. S., Dollner, M., Elkins, J. W.,
+Erdesz, F., Fiore, A. M., Flynn, C. M., Froyd, K., Gesler, D. W., Hall, S.
+R., Hanisco, T. F., Hannun, R. A., Hills, A. J., Hintsa, E. J., Hoffman, A.,
+Hornbrook, R. S., Huey, L. G., Hughes, S., Jimenez, J. L., Johnson, B. J.,
+Katich, J. M., Keeling, R. F., Kim, M. J., Kupc, A., Lait, L. R., Lamarque,
+J.-F., Liu, J., McKain, K., Mclaughlin, R. J., Meinardi, S., Miller, D. O.,
+Montzka, S. A., Moore, F. L., Morgan, E. J., Murphy, D. M., Murray, L. T.,
+Nault, B. A., Neuman, J. A., Newman, P. A., Nicely, J. M., Pan, X.,
+Paplawsky, W., Peischl, J., Prather, M. J., Price, D. J., Ray, E., Reeves,
+J. M., Richardson, M., Rollins, A. W., Rosenlof, K. H., Ryerson, T. B.,
+Scheuer, E., Schill, G. P., Schroder, J. C., Schwarz, J. P., St.Clair, J.
+M., Steenrod, S. D., Stephens, B. B., Strode, S. A., Sweeney, C., Tanner,
+D., Teng, A. P., Thames, A. B., Thompson, C. R., Ullmann, K., Veres, P. R.,
+Vieznor, N., Wagner, N. L., Watt, A., Weber, R., Weinzierl, B., Wennberg,
+P., Williamson, C. J., Wilson, J. C., Wolfe, G. M., Woods, C. T., and Zeng,
+L. H.: ATom: Merged Atmospheric Chemistry, Trace Gases, and Aerosols. ORNL
+DAAC, Oak Ridge, Tennessee, USA, https://doi.org/10.3334/ornldaac/1581,
+2018. </unstructured_citation>
+            </citation>
+            <citation key="ref158">
+              <doi provider="crossref">10.1002/2015GL065839</doi>
+              <unstructured_citation>Wolfe, G. M., Hanisco, T. F., Arkinson, H. L., Bui, T. P., Crounse, J. D.,
+Dean-Day, J., Goldstein, A., Guenther, A., Hall, S. R., Huey, G., Jacob, D.
+J., Karl, T., Kim, P. S., Liu, X., Marvin, M. R., Mikoviny, T., Misztal, P.
+K., Nguyen, T. B., Peischl, J., Pollack, I., Ryerson, T., St Clair, J. M.,
+Teng, A., Travis, K. R., Ullmann, K., Wennberg, P. O., and Wisthaler, A.:
+Quantifying sources and sinks of reactive gases in the lower atmosphere
+using airborne flux observations, Geophys. Res. Lett., 42, 8231–8240,
+https://doi.org/10.1002/2015GL065839, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref159">
+              <doi provider="crossref">10.5194/amt-3-593-2010</doi>
+              <unstructured_citation>Wooldridge, P. J., Perring, A. E., Bertram, T. H., Flocke, F. M., Roberts, J. M.,
+Singh, H. B., Huey, L. G., Thornton, J. A., Wolfe, G. M., Murphy, J. G., Fry,
+J. L., Rollins, A. W., LaFranchi, B. W., and Cohen, R. C.: Total Peroxy Nitrates
+(ΣPNs) in the atmosphere: the Thermal Dissociation-Laser Induced Fluorescence (TD-LIF)
+technique and comparisons to speciated PAN measurements, Atmos. Meas. Tech., 3, 593–607, https://doi.org/10.5194/amt-3-593-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref160">
+              <doi provider="crossref">10.1029/2006JD007801</doi>
+              <unstructured_citation>Wu, S. L., Mickley, L. J., Jacob, D. J., Logan, J. A., Yantosca, R. M., and
+Rind, D.: Why are there large differences between models in global budgets
+of tropospheric ozone?, J. Geophys. Res.-Atmos., 112, D05302,
+https://doi.org/10.1029/2006jd007801, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref161">
+              <doi provider="crossref">10.1029/2007JD009415</doi>
+              <unstructured_citation>Xiao, Y. P., Logan, J. A., Jacob, D. J., Hudman, R. C., Yantosca, R., and
+Blake, D. R.: Global budget of ethane and regional constraints on US
+sources, J. Geophys. Res.-Atmos., 113, D21306, https://doi.org/10.1029/2007jd009415,
+2008. </unstructured_citation>
+            </citation>
+            <citation key="ref162">
+              <doi provider="crossref">10.1021/es501475q</doi>
+              <unstructured_citation>Yacovitch, T. I., Herndon, S. C., Roscioli, J. R., Floerchinger, C.,
+McGovern, R. M., Agnese, M., Petron, G., Kofler, J., Sweeney, C., Karion,
+A., Conley, S. A., Kort, E. A., Nahle, L., Fischer, M., Hildebrandt, L.,
+Koeth, J., McManus, J. B., Nelson, D. D., Zahniser, M. S., and Kolb, C. E.:
+Demonstration of an ethane spectrometer for methane source identification,
+Environ. Sci. Technol., 48, 8028–8034, https://doi.org/10.1021/es501475q, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref163">
+              <doi provider="crossref">10.1073/pnas.1317840110</doi>
+              <unstructured_citation>Yang, M., Nightingale, P. D., Beale, R., Liss, P. S., Blomquist, B., and
+Fairall, C.: Atmospheric deposition of methanol over the Atlantic Ocean,
+P. Natl. Acad. Sci. USA, 110, 20034–20039,
+https://doi.org/10.1073/pnas.1317840110, 2013.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref164">
+              <doi provider="crossref">10.5194/acp-14-7499-2014</doi>
+              <unstructured_citation>Yang, M., Beale, R., Liss, P., Johnson, M., Blomquist, B., and Nightingale, P.: Air–sea fluxes of oxygenated volatile organic compounds across the Atlantic Ocean, Atmos. Chem. Phys., 14, 7499–7517, https://doi.org/10.5194/acp-14-7499-2014, 2014a. </unstructured_citation>
+            </citation>
+            <citation key="ref165">
+              <doi provider="crossref">10.1002/2014JC010227</doi>
+              <unstructured_citation>Yang, M. X., Blomquist, B. W., and Nightingale, P. D.: Air-sea exchange of
+methanol and acetone during HiWinGS: Estimation of air phase, water phase
+gas transfer velocities, J. Geophys. Res.-Oceans, 119, 7308–7323,
+https://doi.org/10.1002/2014JC010227, 2014b. </unstructured_citation>
+            </citation>
+            <citation key="ref166">
+              <doi provider="crossref">10.1029/2002GB001952</doi>
+              <unstructured_citation>Yevich, R. and Logan, J. A.: An assessment of biofuel use and burning of
+agricultural waste in the developing world, Global Biogeochem. Cy., 17, 1095,
+https://doi.org/10.1029/2002gb001952, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref167">
+              <doi provider="crossref">10.5194/gmd-11-305-2018</doi>
+              <unstructured_citation>Yu, K., Keller, C. A., Jacob, D. J., Molod, A. M., Eastham, S. D., and Long, M. S.: Errors and improvements in the use of archived meteorological data for chemical transport modeling: an analysis using GEOS-Chem v11-01 driven by GEOS-5 meteorology, Geosci. Model Dev., 11, 305–319, https://doi.org/10.5194/gmd-11-305-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref168">
+              <doi provider="crossref">10.5194/acp-16-4369-2016</doi>
+              <unstructured_citation>Yu, K., Jacob, D. J., Fisher, J. A., Kim, P. S., Marais, E. A., Miller, C. C., Travis, K. R., Zhu, L., Yantosca, R. M., Sulprizio, M. P., Cohen, R. C., Dibb, J. E., Fried, A., Mikoviny, T., Ryerson, T. B., Wennberg, P. O., and Wisthaler, A.: Sensitivity to grid resolution in the ability of a chemical transport model to simulate observed oxidant chemistry under high-isoprene conditions, Atmos. Chem. Phys., 16, 4369–4378, https://doi.org/10.5194/acp-16-4369-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref169">
+              <doi provider="crossref">10.5194/acp-11-6529-2011</doi>
+              <unstructured_citation>Zheng, W., Flocke, F. M., Tyndall, G. S., Swanson, A., Orlando, J. J., Roberts, J. M., Huey, L. G., and Tanner, D. J.: Characterization of a thermal decomposition chemical ionization mass spectrometer for the measurement of peroxy acyl nitrates (PANs) in the atmosphere, Atmos. Chem. Phys., 11, 6529–6547, https://doi.org/10.5194/acp-11-6529-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref170">
+              <doi provider="crossref">10.1016/S0304-4203(96)00076-X</doi>
+              <unstructured_citation>Zhou, X. L. and Mopper, K.: Photochemical production of
+low-molecular-weight carbonyl compounds in seawater and surface microlayer
+and their air-sea exchange, Mar. Chem., 56, 201–213,
+https://doi.org/10.1016/S0304-4203(96)00076-X, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref171">
+              <doi provider="crossref">10.5194/acp-16-13477-2016</doi>
+              <unstructured_citation>Zhu, L., Jacob, D. J., Kim, P. S., Fisher, J. A., Yu, K., Travis, K. R., Mickley, L. J., Yantosca, R. M., Sulprizio, M. P., De Smedt, I., González Abad, G., Chance, K., Li, C., Ferrare, R., Fried, A., Hair, J. W., Hanisco, T. F., Richter, D., Jo Scarino, A., Walega, J., Weibring, P., and Wolfe, G. M.: Observing atmospheric formaldehyde (HCHO) from space: validation and intercomparison of six retrievals from four satellites (OMI, GOME2A, GOME2B, OMPS) with SEAC4RS aircraft observations over the southeast US, Atmos. Chem. Phys., 16, 13477–13490, https://doi.org/10.5194/acp-16-13477-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref172">
+              <doi provider="crossref">10.5194/acp-18-6039-2018</doi>
+              <unstructured_citation>Zhuang, J., Jacob, D. J., and Eastham, S. D.: The importance of vertical resolution in the free troposphere for modeling intercontinental plumes, Atmos. Chem. Phys., 18, 6039–6055, https://doi.org/10.5194/acp-18-6039-2018, 2018. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-19-9097-2019-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/19/9097/2019/acp-19-9097-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

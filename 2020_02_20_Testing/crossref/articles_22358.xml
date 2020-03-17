@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-03-01 06:03:32">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>12</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Dual-wavelength radar technique development for snow rate estimation: a case study from GCPEx</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Gwo-Jong</given_name>
+              <surname>Huang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Viswanathan N.</given_name>
+              <surname>Bringi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew J.</given_name>
+              <surname>Newman</surname>
+              <ORCID>https://orcid.org/0000-0001-8796-0861</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gyuwon</given_name>
+              <surname>Lee</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dmitri</given_name>
+              <surname>Moisseev</surname>
+              <ORCID>https://orcid.org/0000-0002-4575-0409</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Branislav M.</given_name>
+              <surname>Notaroš</surname>
+              <ORCID>https://orcid.org/0000-0002-5755-961X</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> quantitative precipitation estimation (QPE) of snowfall has generally been
+expressed in power-law form between equivalent radar reflectivity factor
+(<span class="inline-formula"><i>Z</i><sub>e</sub></span>) and liquid equivalent snow rate (SR). It is known that
+there is large variability in the prefactor of the power law due to changes
+in particle size distribution (PSD), density, and fall velocity, whereas the
+variability of the exponent is considerably smaller. The dual-wavelength
+radar reflectivity ratio (DWR) technique can improve SR
+accuracy by estimating one of the PSD parameters (characteristic diameter),
+thus reducing the variability due to the prefactor. The two frequencies
+commonly used in dual-wavelength techniques are Ku- and Ka-bands. The basic
+idea of DWR is that the snow particle size-to-wavelength ratio is
+falls in the Rayleigh region at Ku-band but in the Mie region at
+Ka-band.</p> <p>We propose a method for snow rate estimation by using NASA D3R radar DWR and
+Ka-band reflectivity observations collected during a long-duration synoptic
+snow event on 30–31 January 2012 during the GCPEx (GPM Cold-season
+Precipitation Experiment). Since the particle mass can be estimated using
+2-D video disdrometer (2DVD) fall speed data and hydrodynamic theory, we
+simulate the DWR and compare it directly with D3R radar measurements. We also use
+the 2DVD-based mass to compute the 2DVD-based SR. Using three different mass
+estimation methods, we arrive at three respective sets of <span class="inline-formula"><i>Z</i></span>–SR and
+SR(<span class="inline-formula"><i>Z</i><sub>h</sub></span>, DWR) relationships. We then use these relationships with D3R
+measurements to compute radar-based SR. Finally, we validate our method by
+comparing the D3R radar-retrieved SR with accumulated SR directly measured by a
+well-shielded Pluvio gauge for the entire synoptic event.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>01</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>1409</first_page>
+            <last_page>1427</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-12-1409-2019</doi>
+            <resource>https://www.atmos-meas-tech.net/12/1409/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/12/1409/2019/amt-12-1409-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1063/1.1693218</doi>
+              <unstructured_citation>Abraham, F. F.: Functional dependence of drag coefficient of a sphere on
+Reynolds number, Phys. Fluids, 13, 2194–2195,
+https://doi.org/10.1063/1.1693218, 1970. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/JTECH-D-16-0221.1</doi>
+              <unstructured_citation>Barthazy, E., Göke, S., Schefold, R., and Högl, D.: An optical array
+instrument for shape and fall velocity measurements of hydrometeors, J.
+Atmos. Ocean. Tech., 21, 1400–1416,
+https://doi.org/10.1175/JTECH-D-16-0221.1, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/amt-8-3251-2015</doi>
+              <unstructured_citation>Bernauer, F., Hürkamp, K., Rühm, W., and Tschiersch, J.: On the consistency of
+2-D video disdrometers in measuring microphysical parameters of solid
+precipitation, Atmos. Meas. Tech., 8, 3251–3261, https://doi.org/10.5194/amt-8-3251-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Böhm, H. P.: A general equation for the terminal fall speed of solid
+hydrometeors, J. Atmos. Sci., 46, 2419–2427,
+https://doi.org/10.1175/1520-0469(1989)046&amp;amp;lt;2419:AGEFTT&amp;amp;gt;2.0.CO;2, 1989. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1109/LGRS.2010.2041633</doi>
+              <unstructured_citation>Botta, G., Aydin, K., and Verlinde, J.: Modeling of microwave scattering
+from cloud ice crystal aggregates and melting aggregates: A new approach,
+IEEE Geosci. Remote Sens. Lett., 7, 572–576,
+https://doi.org/10.1109/LGRS.2010.2041633, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/JAM2489.1</doi>
+              <unstructured_citation>Brandes, E. A., Ikeda, K., Zhang, G., Schönhuber, M., and Rasmussen, R.
+M.: A statistical and physical description of hydrometeor distributions in
+Colorado snowstorms using a video disdrometer, J. Appl. Meteor. Climatol.,
+46, 634–650, https://doi.org/10.1175/JAM2489.1, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Bringi, V. N. and Chandrasekar, V.: Polarimetric Doppler Weather Radar:
+Principles and Applications, Cambridge University Press, Cambridge, United
+Kingdom, 545–554, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/JAMC-D-17-0090.1</doi>
+              <unstructured_citation>Bukovčić, P., Ryzhkov, A., Zrnić, D., and Zhang, G.:
+Polarimetric Radar Relations for Quantification of Snow Based on Disdrometer
+Data, J. Appl. Meteor. Climatol., 57, 103–120,
+https://doi.org/10.1175/JAMC-D-17-0090.1, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/JTECH-D-15-0037.1</doi>
+              <unstructured_citation>Chobanyan, E., Šekeljić, N. J., Manić, A. B., Ilić, M. M.,
+Bringi, V. N., and Notaroš, B. M.: Efficient and Accurate Computational
+Electromagnetics Approach to Precipitation Particle Scattering Analysis
+Based on Higher-Order Method of Moments Integral Equation Modeling, J.
+Atmos. Ocean. Tech., 32, 1745–1758,
+https://doi.org/10.1175/JTECH-D-15-0037.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1088/0959-5309/57/4/301</doi>
+              <unstructured_citation>Davies, C. N.: Definitive Equations for the Fluid Resistance of Spheres,
+Proc. Phys. Soc. London, A57, 259–270,
+https://doi.org/10.1088/0959-5309/57/4/301, 1945. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2004JD005405</doi>
+              <unstructured_citation>Delanoë, J., Protat, A., Testud, J., Bouniol, D., Heymsfield, A. J.,
+Bansemer, A., Brown, P. R. A., and Forbes, R. M.: Statistical properties of
+the normalized ice particle size distribution, J. Geophys. Res., 110,
+D10201, https://doi.org/10.1029/2004JD005405, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1364/JOSAA.11.001491</doi>
+              <unstructured_citation>Draine, B. T. and Flatau, P. J.: Discrete dipole approximation for
+scattering calculations, J. Opt. Soc. Am. A, 11, 1491–1499,
+https://doi.org/10.1364/JOSAA.11.001491, 1994. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-11-3059-2018</doi>
+              <unstructured_citation>Falconi, M. T., von Lerber, A., Ori, D., Marzano, F. S., and Moisseev, D.: Snowfall
+retrieval at X, Ka and W bands: consistency of backscattering and microphysical
+properties using BAECC ground-based measurements, Atmos. Meas. Tech., 11, 3059–3079, https://doi.org/10.5194/amt-11-3059-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Fujiyoshi, Y., Endoh, T., Yamada, T., Tsuboki, K., Tachibana, Y., and
+Wakahama, G.: Determination of a Z-R relationship or snowfall using a radar
+and high sensitivity snow gauges, J. Appl. Meteor., 29, 147–152,
+https://doi.org/10.1175/1520-0450(1990)029&amp;amp;lt;0147:DOARFS&amp;amp;gt;2.0.CO;2, 1990. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/amt-5-2625-2012</doi>
+              <unstructured_citation>Garrett, T. J., Fallgatter, C., Shkurko, K., and Howlett, D.: Fall speed measurement and
+high-resolution multi-angle photography of hydrometeors in free fall, Atmos. Meas. Tech., 5, 2625–2633, https://doi.org/10.5194/amt-5-2625-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/2015GL064040</doi>
+              <unstructured_citation>Garrett, T. J., Yuter, S. E., Fallgatter, C., Shkurko, K., Rhodes, S. R.,
+and Endries, J. L.: Orientations and Aspect ratios of falling snow, Geophys.
+Res. Lett., 42, 4617–4622, https://doi.org/10.1002/2015GL064040, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Hanesch, M.: Fall Velocity and Shape of Snowflake, PhD dissertation,
+Swiss Federal Institute of Technology, Zürich, Switzerland,
+available at: https://doi.org/10.3929/ethz-a-003837623 (last access: 19 February 2019), 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/2010JAS3379.1</doi>
+              <unstructured_citation>Heymsfield, A. J. and Westbrook, C. D.: Advances in the Estimation of Ice
+Particle Fall Speeds Using Laboratory and Field Measurements, J. Atmos.
+Sci., 67, 2469–2482, https://doi.org/10.1175/2010JAS3379.1, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/JAM2282.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Wang, Z., and Matrosov, S.: Improved Radar Ice Water
+Content Retrieval Algorithms Using Coincident Microphysical and Radar
+Measurements, J. Appl. Meteor., 44, 1391–1412,
+https://doi.org/10.1175/JAM2282.1, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/JAMC-D-16-0230.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Krämer, M., Wood, N. B., Gettelman, A., Field, P. R.,
+and Liu, G.: Dependence of the Ice Water Content and Snowfall Rate on
+Temperature, Globally: Comparison of in Situ Observations, Satellite Active
+Remote Sensing Retrievals, and Global Climate Model Simulations, J. Appl.
+Meteor. Climatol., 56, 189–215, https://doi.org/10.1175/JAMC-D-16-0230.1,
+2016. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/JAM2340.1</doi>
+              <unstructured_citation>Hogan, R. J., Mittermaier, M. P., and Illingworth, A. J.: The retrieval of
+ice water content from radar reflectivity factor and temperature and its use
+in evaluating a mesoscale model, J. Appl. Meteor. Climatol., 45, 301–317,
+https://doi.org/10.1175/JAM2340.1, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/2009JTECHA1284.1</doi>
+              <unstructured_citation>Huang, G., Bringi, V. N., Cifelli, R., Hudak, D., and Petersen, W. A.: A
+Methodology to Derive Radar Reflectivity–Liquid Equivalent Snow Rate
+Relations Using C-Band Radar and a 2D Video Disdrometer, J. Atmos. Ocean.
+Tech., 27, 637–651, https://doi.org/10.1175/2009JTECHA1284.1, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/j.atmosres.2014.07.013</doi>
+              <unstructured_citation>Huang, G., Bringi, V. N., Moisseev, D., Petersen, W. A., Bliven, L., and
+Hudak, D.: Use of 2D-Video Disdrometer to Derive Mean Density-Size and
+Ze-SR Relations: Four Snow Cases from the Light Precipitation
+Validation Experiment, Atmos. Res., 153, 34–48,
+https://doi.org/10.1016/j.atmosres.2014.07.013, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1002/2014WR015672</doi>
+              <unstructured_citation>Kirstetter, P. E., Gourley, J. J., Hong, Y., Zhang, J., Moazamigoodarzi, S.,
+Langston, C., and Arthur, A.: Probabilistic Precipitation Rate Estimates
+with Ground-based Radar Networks, Water Resour. Res., 51, 1422–1442,
+https://doi.org/10.1002/2014WR015672, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/JTECH-D-16-0099.1</doi>
+              <unstructured_citation>Kleinkort, C., Huang, G., Bringi, V. N., and Notaroš, B. M.: Visual Hull
+Method for Realistic 3D Particle Shape Reconstruction Based on
+High-Resolution Photographs of Snowflakes in Free Fall from Multiple Views,
+J. Atmos. Ocean. Tech., 34, 679–702,
+https://doi.org/10.1175/JTECH-D-16-0099.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1002/2015JD023156</doi>
+              <unstructured_citation>Kneifel, S., von Lerber, A., Tiira, J., Moisseev, D., Kollias, P., and
+Leinonen, J.: Observed relations between snowfall microphysics and
+triple-frequency radar measurements, J. Geophys. Res.-Atmos., 120,
+6034–6055, https://doi.org/10.1002/2015JD023156, 2015 </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/JAMC-D-15-0130.1</doi>
+              <unstructured_citation>Kuo, K., Olson, W. S., Johnson, B. T., Grecu, M., Tian, L., Clune, T. L.,
+van Aartsen, B. H., Heymsfield, A. J., Liao, L., and Meneghini, R.: The
+Microwave Radiative Properties of Falling Snow Derived from Nonspherical Ice
+Particle Models. Part I: An Extensive Database of Simulated Pristine
+Crystals and Aggregate Particles, and Their Scattering Properties, J. Appl.
+Meteor. Climatol., 55, 691–708, https://doi.org/10.1175/JAMC-D-15-0130.1,
+2016. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2012JD017680</doi>
+              <unstructured_citation>Leinonen, J., Kneifel, S., Moisseev, D., Tyynelä, J., Tanelli, S., and
+Nousiainen, T.: Evidence of nonspheroidal behavior in millimeter-wavelength
+radar observations of snowfall, J. Geophys. Res., 117, D18205,
+https://doi.org/10.1029/2012JD017680, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1175/JTECH1808.1</doi>
+              <unstructured_citation>Liao, L., Meneghini, R., Iguchi, T., and Detwiler, A.: Use of
+Dual-Wavelength Radar for Snow Parameter Estimates, J. Atmos. Ocean.
+Tech., 22, 1494–1506, https://doi.org/10.1175/JTECH1808.1, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1109/TGRS.2008.916079</doi>
+              <unstructured_citation>Liao, L., Meneghini, R., Tian, L., and Heymsfield, G. M.: Retrieval of snow
+and rain from combined X- and W-band airborne radar measurements, IEEE
+T. Geosci. Remote, 46, 1514–1524,
+https://doi.org/10.1109/TGRS.2008.916079, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1109/JSTARS.2013.2255262</doi>
+              <unstructured_citation>Liao, L., Meneghini, R., Nowell, H. K., and Liu, G.: Scattering computations
+of snow aggregates from simple geometrical particle models, IEEE J. Sel.
+Top. Earth Obs. Remote Sens., 6, 1409–1417,
+https://doi.org/10.1109/JSTARS.2013.2255262, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/JAMC-D-15-0355.1</doi>
+              <unstructured_citation>Liao, L., Meneghini, R., Tokay, A., and Bliven, L. F.: Retrieval of snow
+properties for Ku- and Ka-band dual-frequency radar, J. Appl. Meteor.
+Climatol., 55, 1845–1858, https://doi.org/10.1175/JAMC-D-15-0355.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Magono, C. and Lee, C. W.: Meteorological Classification of Natural Snow
+Crystals, J. Fac. Sci., Hokkaidô University, Japan, Ser., 7, 321–335, 1966. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Matrosov, S. Y.: A Dual-Wavelength Radar Method to Measure Snowfall Rate, J.
+Appl. Meteor., 37, 1510–1521,
+https://doi.org/10.1175/1520-0450(1998)037&amp;amp;lt;1510:ADWRMT&amp;amp;gt;2.0.CO;2, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2005GL023210</doi>
+              <unstructured_citation>Matrosov, S. Y., Heymsfield, A. J., and Wang, Z.: Dual-frequency radar ratio
+of nonspherical atmospheric hydrometeors, Geophys. Res. Lett., 32, L13816,
+https://doi.org/10.1029/2005GL023210, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/JTECH2005.1</doi>
+              <unstructured_citation>Meneghini, R. and Liao, L.: On the Equivalence of Dual-Wavelength and
+Dual-Polarization Equations for Estimation of the Raindrop Size
+Distribution, J. Atmos. Ocean. Tech., 24, 806–820,
+https://doi.org/10.1175/JTECH2005.1, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Mishchenko, M. I., Travis, L. D., and Lacis, A. A.: Scattering, Absorption,
+and Emission of Light by Small Particles, Cambridge University Press,
+Cambridge, United Kingdom, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/2008JTECHA1148.1</doi>
+              <unstructured_citation>Newman, A. J., Kucera, P. A., and Bliven, L. F.: Presenting the Snowflake
+Video Imager (SVI), J. Atmos. Ocean. Tech., 26, 167–179,
+https://doi.org/10.1175/2008JTECHA1148.1, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/BAMS-D-14-00199.1</doi>
+              <unstructured_citation>Petäjä, T., O'Connor, E., Moisseev, D., Sinclair, V., Manninen, A.,
+Väänänen, R., von Lerber, A., Thornton, J., Nicoll, K.,
+Petersen, W., Chandrasekar, V., Smith, J., Winkler, P., Krüger, O.,
+Hakola, H., Timonen, H., Brus, D., Laurila, T., Asmi, E., Riekkola, M.,
+Mona, L., Massoli, P., Engelmann, R., Komppula, M., Wang, J., Kuang, C.,
+Bäck, J., Virtanen, A., Levula, J., Ritsche, M., and Hickmon, N.: BAECC:
+A Field Campaign to Elucidate the Impact of Biogenic Aerosols on Clouds and
+Climate, B. Am. Meteorol. Soc., 97, 1909–1928,
+https://doi.org/10.1175/BAMS-D-14-00199.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/2009JAS3146.1</doi>
+              <unstructured_citation>Petty, G. W. and Huang, W.: Microwave backscattering and extinction by soft
+ice spheres and complex snow aggregates, J. Atmos. Sci., 67, 769–787,
+https://doi.org/10.1175/2009JAS3146.1, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Rasmussen, R., Dixon, M., Vasiloff, S., Hage, F., Knight, S., Vivekanandan,
+J., and Xu, M.: Snow Nowcasting Using a Real-Time Correlation of Radar
+Reflectivity with Snow Gauge Accumulation, J. Atmos. Sci., 42, 20–36,
+https://doi.org/10.1175/1520-0450(2003)042&amp;amp;lt;0020:SNUART&amp;amp;gt;2.0.CO;2, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Ryzhkov, A. V., Zrnić, D. S., and Gordon, B. A.: Polarimetric Method for
+Ice Water Content Determination, J. Appl. Meteor., 37, 125–134,
+https://doi.org/10.1175/1520-0450(1998)037&amp;amp;lt;0125:PMFIWC&amp;amp;gt;2.0.CO;2, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Schönhuber, M., Urban, H. E., Randeu, W. L., and Poiares Baptista, J. P.
+V.: Empirical Relationships between Shape, Water Content and Fall Velocity
+of Snowflakes, ESA SP-444 Proceedings, Millennium Conference on Antennas
+&amp;amp;amp; Propagation, Davos, Switzerland, 9–14 April 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1007/978-3-540-77655-0</doi>
+              <unstructured_citation>Schönhuber, M., Lammer, G., and Randeu, W. L.: The 2D-video-distrometer,
+Chapter 1, in: Precipitation: Advances in Measurement, Estimation and
+Prediction, edited by: Michaelides, S. C., Springer-Verlag, Berlin Heidelberg, ISBN 978-3-540-77654-3,
+2008. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/BAMS-D-13-00262.1</doi>
+              <unstructured_citation>Skofronick-Jackson, G., Hudak, D., Petersen, W., Nesbitt, S. W.,
+Chandrasekar, V., Durden, S., Gleicher K. J., Huang, G., Joe, P., Kollias,
+P., Reed, K. A., Schwaller, M. R., Stewart, R., Tanelli, S., Tokay, A.,
+Wang, J. R., and Wolde, M.: Global Precipitation Measurement Cold Season
+Precipitation Experiment (GCPEX): For Measurement's Sake, Let It Snow, B.
+Am. Meteorol. Soc., 96, 1719–1741,
+https://doi.org/10.1175/BAMS-D-13-00262.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/2010JAS3390.1</doi>
+              <unstructured_citation>Szyrmer, W. and Zawadzki, I.: Snow Studies. Part II: Average Relationship
+between Mass of Snowflakes and Their Terminal Fall Velocity, J. Atmos. Sci.,
+67, 3319–3335, https://doi.org/10.1175/2010JAS3390.1, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/JAS-D-12-0286.1</doi>
+              <unstructured_citation>Szyrmer, W. and Zawadzki, I.: Snow Studies. Part IV: Ensemble Retrieval of
+Snow Microphysics from Dual-Wavelength Vertically Pointing Radars, J. Atmos.
+Sci., 71, 1171–1186, https://doi.org/10.1175/JAS-D-12-0286.1, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/amt-9-4825-2016</doi>
+              <unstructured_citation>Tiira, J., Moisseev, D. N., von Lerber, A., Ori, D., Tokay, A., Bliven, L. F., and
+Petersen, W.: Ensemble mean density and its connection to other microphysical
+properties of falling snow as observed in Southern Finland, Atmos. Meas. Tech., 9, 4825–4841, https://doi.org/10.5194/amt-9-4825-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1002/2014RS005529</doi>
+              <unstructured_citation>Vega, M. A., Chandrasekar, V., Carswell, J., Beauchamp, R. M., Schwaller, M.
+R., and Nguyen, C.: Salient features of the dual-frequency, dual-polarized,
+Doppler radar for remote sensing of precipitation, Radio Sci., 49,
+1087–1105, https://doi.org/10.1002/2014RS005529, 2014.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1175/JAMC-D-16-0379.1</doi>
+              <unstructured_citation>von Lerber, A., Moisseev, D., Bliven, L. F., Petersen, W., Harri, A., and
+Chandrasekar, V.: Microphysical Properties of Snow and Their Link to Ze–S
+Relations during BAECC 2014, J. Appl. Meteor. Climatol., 56, 1561–1582,
+https://doi.org/10.1175/JAMC-D-16-0379.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1002/2017GL074130</doi>
+              <unstructured_citation>Westbrook, C. D. and Sephton, E. K.: Using 3-D-printed analogues to
+investigate the fall speeds and orientations of complex ice particles,
+Geophys, Res. Lett., 44, 7994–8001, https://doi.org/10.1002/2017GL074130,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1256/qj.05.82</doi>
+              <unstructured_citation>Westbrook, C. D., Ball, R. C., and Field, P. R.: Radar scattering by
+aggregate snowflakes, Q. J. Roy. Meteor. Soc., 132, 897–914,
+https://doi.org/10.1256/qj.05.82, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1002/qj.233</doi>
+              <unstructured_citation>Westbrook, C. D., Ball, R. C., and Field, P. R.: Corrigendum: Radar
+scattering by aggregate snowflakes, Q. J. Roy. Meteor. Soc., 134,
+547–548, https://doi.org/10.1002/qj.233, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1175/JAMC-D-11-0112.1</doi>
+              <unstructured_citation>Wolfe, J. P. and Snider, J. R.: A Relationship between Reflectivity and
+Snow Rate for a High-Altitude S-Band Radar, J. Appl. Meteor. Climatol., 51,
+1111–1128, https://doi.org/10.1175/JAMC-D-11-0112.1, 2012. </unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

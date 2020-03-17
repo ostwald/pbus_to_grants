@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>6</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Skill and independence weighting for multi-model assessments</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Benjamin M.</given_name>
+              <surname>Sanderson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michael</given_name>
+              <surname>Wehner</surname>
+              <ORCID>https://orcid.org/0000-0001-5991-0082</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Reto</given_name>
+              <surname>Knutti</surname>
+              <ORCID>https://orcid.org/0000-0001-8303-6700</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We present a weighting strategy for use with the CMIP5 multi-model archive in the fourth National Climate Assessment, which considers both skill in the climatological performance of models over North America as well as the inter-dependency of models arising from common parameterizations or tuning practices. The method exploits information relating to the climatological mean state of a number of projection-relevant variables as well as metrics representing long-term statistics of weather extremes. The weights, once computed can be used to simply compute weighted means and significance information from an ensemble containing multiple initial condition members from potentially co-dependent models of varying skill. Two parameters in the algorithm determine the degree to which model climatological skill and model uniqueness are rewarded; these parameters are explored and final values are defended for the assessment. The influence of model weighting on projected temperature and precipitation changes is found to be moderate, partly due to a compensating effect between model skill and uniqueness. However, more aggressive skill weighting and weighting by targeted metrics is found to have a more significant effect on inferred ensemble confidence in future patterns of change for a given projection.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>28</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>2379</first_page>
+            <last_page>2395</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-10-2379-2017</doi>
+            <resource>https://www.geosci-model-dev.net/10/2379/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/10/2379/2017/gmd-10-2379-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Abramowitz, G. and Bishop, C. H.: Climate model dependence and the ensemble dependence transformation of cmip projections, J. Climate, 28, 2332–2348, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Alexander, L., Donat, M., Takayama, Y., and Yang, H.: The climdex project: creation of long-term global gridded products for the analysis of temperature and precipitation extremes, WCRP Open Science conference, Denver, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Annan, J. D. and Hargreaves, J. C.: Understanding the CMIP3 multimodel ensemble, J. Climate, 24, 4529–4538, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1109/TGRS.2002.808356</doi>
+              <unstructured_citation>Aumann, H. H., Chahine, M. T., Gautier, C., Goldberg, M. D., Kalnay, E., McMillin, L. M., Revercomb, H., Rosenkranz, P. W., Smith, W. L., Staelin, D. H., and Strow, L. L.: AIRS/AMSU/HSB on the Aqua Mission: Design, Science Objectives, Data Products, and Processing Systems, IEEE T. Geosci. Remote, 41, 253–264, https://doi.org/10.1109/TGRS.2002.808356, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Bishop, C. H. and Abramowitz, G.: Climate model dependence and the replicate earth paradigm, Clim. Dynam., 41, 885–900, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Core Writing Team: Good practice guidance paper on assessing and combining multi model climate projections, IPCC Expert meeting on assessing and combining multi model climate projections, p. 1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Giorgi, F. and Mearns, L. O.: Calculation of average, uncertainty range, and reliability of regional climate changes from aogcm simulations via the “ensemble averaging”(rea) method, J. Climate, 15, 1141–1158, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Hidalgo, H. G. and Alfaro, E. J.: Skill of CMIP5 climate models in reproducing 20th century basic climate features in Central America, Int. J. Climatol., 35, 3397–3421, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Hoeting, J. A., Madigan, D., Raftery, A. E., and Volinsky, C. T.: Bayesian model averaging: a tutorial, Stat. Sci., 382–401, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Hutchinson, M. F., McKenney, D. W., Lawrence, K., Pedlar, J. H., Hopkinson, R. F., Milewska, E., and Papadopol, P.: Development and testing of Canada-wide interpolated spatial models of daily minimum-maximum temperature and precipitation for 1961–2003, J. Appl. Meteorol. Climatol., 48, 725–741, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>IPCC: Climate Change, The physical science basis, Contribution of working group I to the fifth assessment report of the intergovernmental panel on climate change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., p. 1535, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Knutti, R.: The end of model democracy?, Clim. Change, 102, 395–404, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Knutti, R., Furrer, R., Tebaldi, C., Cermak, J., and Meehl, G. A.: Challenges in combining projections from multiple climate models, J. Climate, 23, 2739–2758, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Knutti, R., Masson, D., and Gettelman, A.: Climate model genealogy: Generation CMIP5 and how we got there, Geophys. Res. Lett., 40, 1194–1199, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Knutti, R. Sedlacek, J., Sanderson, B. M., Lorenz, R., Fischer, E. M., and Eyring, V.: A climate model projection weighting scheme accounting for performance and interdependence, Geophys. Res. Lett., 44, 1909–1918, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2011GL046864</doi>
+              <unstructured_citation>Masson, D. and Knutti, R.: Climate model genealogy, Geophys. Res. Lett., 38, L08703, https://doi.org/10.1029/2011GL046864, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Melillo, J. M., Richmond, T. T. C., and Yohe, G. W.: Climate change impacts in the United States, Third National Climate Assessment, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>NASA: CERES EBAF Data Sets, available at: http://eosweb.larc.nasa.gov/PRODOCS/ceres/level4_ebaf_table.html, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Parker, W. S.: Confirmation and adequacy-for-Purpose in Climate Modelling, Aristotelian Society Supplementary Volume, Oxford University Press, 83, 233–249, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Pennell, C. and Reichler, T.: On the effective number of climate models, J. Climate, 24, 2358–2367, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2012GL052665</doi>
+              <unstructured_citation>Sanderson, B. M. and Knutti, R.: On the interpretation of constrained climate model ensembles, Geophys. Res. Lett., 39, L16708, https://doi.org/10.1029/2012GL052665, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Sanderson, B. M., Knutti, R., and Caldwell, P.: A representative democracy to reduce interdependency in a multimodel ensemble, J. Climate, 28, 5171–5194, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Sillmann, J., Kharin, V. V., Zwiers, F. W., Zhang, X., and Bronaugh, D.: Climate extremes indices in the cmip5 multimodel ensemble: Part 2. future climate projections, J. Geophys. Res.-Atmos., 118, 2473–2493, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An overview of CMIP5 and the experiment design, B. Am. Meteorol. Soc., 93, 485, https://doi.org/10.1175/BAMS-D-11-00094.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Tebaldi, C. and Knutti, R.: The use of the multi-model ensemble in probabilistic climate projections, Philos. T. Roy. Soc. A, 365, 2053–2075, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1256/qj.04.176</doi>
+              <unstructured_citation>Uppala, S. M., Kållberg, P. W., Simmons, A. J., Andrae, U., Da Costa Bechtold, V., Fiorino, M., Gibson, J. K., Haseler, J., Hernandez, A., Kelly, G. A., Li, X., Onogi, K., Saarinen, S., Sokka, N., Allan, R. P., Anderson, E., Arpe, K., Balmaseda, M. A., Beljaars, A. C. M., Van De Berg, L., Bidlot, J., Bormann, N., Caires, S., Chevallier, F., Dethof, A., Dragosavac, M., Fisher, M., Fuentes, M., Hagemann, S., Hóslm, E., Hoskins, B. J., Isaksen, L., Janssen, P. A. E. M., Jenne, R., Mcnally, A. P., Mahfouf, J.-F., Morcrette, J.-J., Rayner, N. A., Saunders, R. W., Simon, P., Sterl, A., Trenbreth, K. E., Untch, A., Vasiljevic, D., Viterbo, P., and Woollen, J.: The ERA-40 re-analysis, Q. J. Roy. Meteor. Soc., 131, 2961–3012, https://doi.org/10.1256/qj.04.176, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Walsh, J., Wuebbles, D., Hayhoe, K., Kossin, J., Kunkel, K., Stephens, G., Thorne, P., Vose, R., Wehner, M., Willis, J., Anderson, D., Doney, S., Feely, R., Hennon, P., Kharin, V., Knutson, T., Landerer, F., Lenton, T., Kennedy, J., and Somerville, R.: Our changing climate, Climate change impacts in the United States: the third national climate assessment, Washington, DC, US Global Change Research Program, 19–67, https://doi.org/10.7930/J0KW5CXT, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1051" timestamp="2019-10-29 05:20:24">
+    <crossref>
+      <journal>
+        <journal_metadata>
+          <full_title>Astronomy &amp; Astrophysics</full_title>
+          <abbrev_title>A&amp;A</abbrev_title>
+          <issn media_type="print">0004-6361</issn>
+          <issn media_type="electronic">1432-0746</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date>
+            <month>11</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>631</volume>
+          </journal_volume>
+        </journal_issue>
+        <journal_article publication_type="full_text" language="en">
+          <titles>
+            <title>Superstrong photospheric magnetic fields in sunspot penumbrae</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Siu-Tapia</surname>
+              <ORCID>http://orcid.org/0000-0003-0175-6232</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Lagg</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M.</given_name>
+              <surname>van Noort</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M.</given_name>
+              <surname>Rempel</surname>
+              <ORCID>http://orcid.org/0000-0001-5850-3119</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S. K.</given_name>
+              <surname>Solanki</surname>
+              <ORCID>http://orcid.org/0000-0002-3418-8449</ORCID>
+            </person_name>
+          </contributors>
+          <abstract lang="en">
+            <p>
+              <italic>Context.</italic>
+              Recently, there have been some reports of unusually strong photospheric magnetic fields (which can reach values of over 7 kG) inferred from Hinode SOT/SP sunspot observations within penumbral regions. These superstrong penumbral fields are even larger than the strongest umbral fields on record and appear to be associated with supersonic downflows. The finding of such fields has been controversial since they seem to show up only when spatially coupled inversions are performed.
+            </p>
+            <p>
+              <italic>Aims.</italic>
+              Here, we investigate and discuss the reliability of those findings by studying in detail observed spectra associated with particularly strong magnetic fields at the inner edge of the penumbra of active region 10930.
+            </p>
+            <p>
+              <italic>Methods.</italic>
+              We applied classical diagnostic methods and various inversions with different model atmospheres to the observed Stokes profiles in two selected pixels with superstrong magnetic fields, and compared the results with a magnetohydrodynamic simulation of a sunspot whose penumbra contains localized regions with strong fields (nearly 5 kG at
+              <italic>τ</italic>
+               = 1) associated with supersonic downflows.
+            </p>
+            <p>
+              <italic>Results.</italic>
+              The different inversions provide different results: while the SPINOR 2D inversions consider a height-dependent single-component model and return
+              <italic>B</italic>
+               &gt;  7 kG and supersonic positive
+              <italic>v</italic>
+              <sub>LOS</sub>
+              (corresponding to a counter-Evershed flow), height-dependent two-component inversions suggest the presence of an umbral component (almost at rest) with field strengths ∼4 − 4.2 kG and a penumbral component with
+              <italic>v</italic>
+              <sub>LOS</sub>
+               ∼ 16 − 18 km s
+              <sup>−1</sup>
+              and field strengths up to ∼5.8 kG. Likewise, height-independent two-component inversions find a solution for an umbral component and a strongly redshifted (
+              <italic>v</italic>
+              <sub>LOS</sub>
+               ∼ 15 − 17 km s
+              <sup>−1</sup>
+              ) penumbral component with
+              <italic>B</italic>
+               ∼ 4 kG. According to a Bayesian information criterion, the inversions providing a better balance between the quality of the fits and the number of free parameters considered by the models are the height-independent two-component inversions, but they lie only slightly above the SPINOR 2D inversions. Since it is expected that the physical parameters all display considerable gradients with height, as supported by magnetohydrodynamic (MHD) sunspot simulations, the SPINOR 2D inversions are the preferred ones.
+            </p>
+            <p>
+              <italic>Conclusions.</italic>
+              According to the MHD sunspot simulation analyzed here, the presence of counter-Evershed flows in the photospheric penumbra can lead to the necessary conditions for the observation of ∼5 kG fields at the inner penumbra. Although a definite conclusion about the potential existence of fields in excess of 7 kG cannot be given, their nature could be explained (based on the simulation results) as the consequence of the extreme dynamical effects introduced by highly supersonic counter-Evershed flows (
+              <italic>v</italic>
+              <sub>LOS</sub>
+               &gt;  10 km s
+              <sup>−1</sup>
+              and up to ∼30 km s
+              <sup>−1</sup>
+              according to SPINOR 2D). The latter are much faster and more compressive downflows than those found in the MHD simulations and therefore could lead to field intensification up to considerably stronger fields. Also, a lower gas density would lead to a deeper depression of the
+              <italic>τ</italic>
+               = 1 surface, making possible the observation of deeper-lying stronger fields. The superstrong magnetic fields are expected to be nearly force-free, meaning that they can attain much larger strengths than expected when considering only balance between magnetic pressure and the local gas pressure.
+            </p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>29</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>11</month>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>A99</first_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">aa34083-18</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Max-Planck-Gesellschaft
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/501100004189</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Ministerio de Ciencia e Innovación
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100004837</assertion>
+              </assertion>
+              <assertion name="award_number">RTI2018-096886-B-C51</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">State Agency for Research of the Spanish MCIU</assertion>
+              <assertion name="award_number">SEV-2017-0709</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Max Planck Institute for Solar System Research</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">International Max Planck Research School (IMPRS) for Solar System Science</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <free_to_read start_date="2019-10-29"/>
+            <license_ref applies_to="vor" start_date="2019-10-29">http://creativecommons.org/licenses/by/4.0</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1051/0004-6361/201834083</doi>
+            <resource>https://www.aanda.org/10.1051/0004-6361/201834083</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.aanda.org/10.1051/0004-6361/201834083/pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="R1">
+              <journal_title>ApJ</journal_title>
+              <author>Asensio Ramos</author>
+              <volume>748</volume>
+              <first_page>83</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1088/0004-637X/748/2/83</doi>
+            </citation>
+            <citation key="R2">
+              <journal_title>A&amp;A</journal_title>
+              <author>Bellot Rubio</author>
+              <volume>427</volume>
+              <first_page>319</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20041277</doi>
+            </citation>
+            <citation key="R3">
+              <journal_title>A&amp;A</journal_title>
+              <author>Borrero</author>
+              <volume>385</volume>
+              <first_page>1056</first_page>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20020176</doi>
+            </citation>
+            <citation key="R4">
+              <journal_title>Sol. Phys.</journal_title>
+              <author>Borrero</author>
+              <volume>273</volume>
+              <first_page>267</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1007/s11207-010-9515-6</doi>
+            </citation>
+            <citation key="R5">
+              <journal_title>A&amp;A</journal_title>
+              <author>Cabrera Solana</author>
+              <volume>439</volume>
+              <first_page>687</first_page>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20052720</doi>
+            </citation>
+            <citation key="R6">
+              <journal_title>Sol. Phys.</journal_title>
+              <author>Cauzzi</author>
+              <volume>146</volume>
+              <first_page>207</first_page>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1007/BF00662010</doi>
+            </citation>
+            <citation key="R7">
+              <journal_title>A&amp;A</journal_title>
+              <author>Danilovic</author>
+              <volume>484</volume>
+              <first_page>L17</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1051/0004-6361:200809857</doi>
+            </citation>
+            <citation key="R8">
+              <journal_title>MNRAS</journal_title>
+              <author>Evershed</author>
+              <volume>69</volume>
+              <first_page>454</first_page>
+              <cYear>1909</cYear>
+              <doi provider="crossref">10.1093/mnras/69.5.454</doi>
+            </citation>
+            <citation key="R9">
+              <unstructured_citation>Frisch I. E. 1963, Optical Spectra of Atoms (Moscow, Leningrad: Fizmatgiz)</unstructured_citation>
+            </citation>
+            <citation key="R10">
+              <unstructured_citation>Frutiger C. 2000, PhD Thesis, Institute of Astronomy, ETH Zürich, Switzerland</unstructured_citation>
+            </citation>
+            <citation key="R11">
+              <journal_title>A&amp;A</journal_title>
+              <author>Frutiger</author>
+              <volume>358</volume>
+              <first_page>1109</first_page>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="R12">
+              <journal_title>ApJ</journal_title>
+              <author>Georgoulis</author>
+              <volume>629</volume>
+              <first_page>L69</first_page>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1086/444376</doi>
+            </citation>
+            <citation key="R13">
+              <journal_title>A&amp;A</journal_title>
+              <author>Keppens</author>
+              <volume>316</volume>
+              <first_page>229</first_page>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="R14">
+              <journal_title>A&amp;A</journal_title>
+              <author>Lagg</author>
+              <volume>414</volume>
+              <first_page>1109</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20031643</doi>
+            </citation>
+            <citation key="R15">
+              <journal_title>ASP Conf. Ser.</journal_title>
+              <author>Lagg</author>
+              <volume>415</volume>
+              <first_page>327</first_page>
+              <cYear>2009</cYear>
+            </citation>
+            <citation key="R16">
+              <journal_title>Sol. Phys.</journal_title>
+              <author>Lites</author>
+              <volume>283</volume>
+              <first_page>601</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1007/s11207-012-0205-4</doi>
+            </citation>
+            <citation key="R17">
+              <journal_title>ApJ</journal_title>
+              <author>Lites</author>
+              <volume>355</volume>
+              <first_page>329</first_page>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1086/168767</doi>
+            </citation>
+            <citation key="R18">
+              <unstructured_citation>Lites B. W., Elmore D. F., &amp; Streander K. V. 2001, in Advanced Solar Polarimetry – Theory, Observation, and Instrumentation, ed. Sigwarth M., ASP Conf. Proc., 236, 33</unstructured_citation>
+            </citation>
+            <citation key="R19">
+              <journal_title>Sol. Phys.</journal_title>
+              <author>Lites</author>
+              <volume>283</volume>
+              <first_page>579</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1007/s11207-012-0206-3</doi>
+            </citation>
+            <citation key="R20">
+              <journal_title>Sol. Phys.</journal_title>
+              <author>Livingston</author>
+              <volume>207</volume>
+              <first_page>41</first_page>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1023/A:1015555000456</doi>
+            </citation>
+            <citation key="R21">
+              <journal_title>Sol. Phys.</journal_title>
+              <author>Livingston</author>
+              <volume>239</volume>
+              <first_page>41</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1007/s11207-006-0265-4</doi>
+            </citation>
+            <citation key="R22">
+              <journal_title>AJ</journal_title>
+              <author>Lucy</author>
+              <volume>79</volume>
+              <first_page>745</first_page>
+              <cYear>1974</cYear>
+              <doi provider="crossref">10.1086/111605</doi>
+            </citation>
+            <citation key="R23">
+              <journal_title>A&amp;A</journal_title>
+              <author>Martínez Pillet</author>
+              <volume>361</volume>
+              <first_page>734</first_page>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="R24">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mathew</author>
+              <volume>410</volume>
+              <first_page>695</first_page>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20031282</doi>
+            </citation>
+            <citation key="R25">
+              <journal_title>A&amp;A</journal_title>
+              <author>Mathew</author>
+              <volume>422</volume>
+              <first_page>693</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20040136</doi>
+            </citation>
+            <citation key="R26">
+              <unstructured_citation>Moore C. E. 1945, A Multiplet Table of Astrophysical Interest (Princeton: Princeton University Observatory)</unstructured_citation>
+            </citation>
+            <citation key="R27">
+              <journal_title>ApJ</journal_title>
+              <author>Okamoto</author>
+              <volume>852</volume>
+              <first_page>L16</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.3847/2041-8213/aaa3d8</doi>
+            </citation>
+            <citation key="R28">
+              <journal_title>A&amp;A</journal_title>
+              <author>Rees</author>
+              <volume>74</volume>
+              <first_page>1</first_page>
+              <cYear>1979</cYear>
+            </citation>
+            <citation key="R29">
+              <journal_title>ApJ</journal_title>
+              <author>Rempel</author>
+              <volume>729</volume>
+              <first_page>5</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1088/0004-637X/729/1/5</doi>
+            </citation>
+            <citation key="R30">
+              <journal_title>ApJ</journal_title>
+              <author>Rempel</author>
+              <volume>62</volume>
+              <first_page>21</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="R31">
+              <journal_title>ApJ</journal_title>
+              <author>Rempel</author>
+              <volume>814</volume>
+              <first_page>125</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1088/0004-637X/814/2/125</doi>
+            </citation>
+            <citation key="R32">
+              <journal_title>J. Opt. Soc. Am.</journal_title>
+              <author>Richardson</author>
+              <volume>62</volume>
+              <first_page>55</first_page>
+              <cYear>1972</cYear>
+              <doi provider="crossref">10.1364/JOSA.62.000055</doi>
+            </citation>
+            <citation key="R33">
+              <unstructured_citation>Ruiz Cobo B. 2007, in Modern Solar Facilities-Advanced Solar Science, eds. Kneer F., Puschmann K. G., &amp; Wittmann A. D., 287</unstructured_citation>
+            </citation>
+            <citation key="R34">
+              <journal_title>J. Math. Phys.</journal_title>
+              <author>Sabatier</author>
+              <volume>41</volume>
+              <first_page>4082</first_page>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1063/1.533336</doi>
+            </citation>
+            <citation key="R35">
+              <journal_title>A&amp;A</journal_title>
+              <author>Schlichenmaier</author>
+              <volume>381</volume>
+              <first_page>668</first_page>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1051/0004-6361:20011459</doi>
+            </citation>
+            <citation key="R36">
+              <journal_title>Ann. Stat.</journal_title>
+              <author>Schwarz</author>
+              <volume>6</volume>
+              <first_page>461</first_page>
+              <cYear>1978</cYear>
+              <doi provider="crossref">10.1214/aos/1176344136</doi>
+            </citation>
+            <citation key="R37">
+              <journal_title>Ann. d’Astrophys.</journal_title>
+              <author>Semel</author>
+              <volume>30</volume>
+              <first_page>513</first_page>
+              <cYear>1967</cYear>
+            </citation>
+            <citation key="R38">
+              <journal_title>A&amp;A</journal_title>
+              <author>Semel</author>
+              <volume>5</volume>
+              <first_page>330</first_page>
+              <cYear>1970</cYear>
+            </citation>
+            <citation key="R39">
+              <journal_title>A&amp;A</journal_title>
+              <author>Siu-Tapia</author>
+              <volume>607</volume>
+              <first_page>A36</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201730647</doi>
+            </citation>
+            <citation key="R40">
+              <journal_title>ApJ</journal_title>
+              <author>Siu-Tapia</author>
+              <volume>852</volume>
+              <first_page>66</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.3847/1538-4357/aaa007</doi>
+            </citation>
+            <citation key="R41">
+              <journal_title>ApJ</journal_title>
+              <author>Skumanich</author>
+              <volume>322</volume>
+              <first_page>473</first_page>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1086/165743</doi>
+            </citation>
+            <citation key="R42">
+              <doi provider="crossref">10.1007/978-94-011-1188-1_9</doi>
+              <unstructured_citation>Skumanich A., Lites B. W., &amp; Martínez Pillet V. 1994, Solar Surface Magnetism, 99</unstructured_citation>
+            </citation>
+            <citation key="R43">
+              <unstructured_citation>Solanki S. K. 1987, PhD Thesis, Institute of Astronomy, ETH Zürich, Switzerland</unstructured_citation>
+            </citation>
+            <citation key="R44">
+              <journal_title>Space Sci. Rev.</journal_title>
+              <author>Solanki</author>
+              <volume>63</volume>
+              <first_page>1</first_page>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1007/BF00749277</doi>
+            </citation>
+            <citation key="R45">
+              <journal_title>A&amp;A</journal_title>
+              <author>Solanki</author>
+              <volume>275</volume>
+              <first_page>283</first_page>
+              <cYear>1993</cYear>
+            </citation>
+            <citation key="R46">
+              <unstructured_citation>Stenflo J. O. 1993, Proc. Int. Conf. (Feidburg, Germany: Cambridge University Press), 301</unstructured_citation>
+            </citation>
+            <citation key="R47">
+              <journal_title>Sol. Phys.</journal_title>
+              <author>Suematsu</author>
+              <volume>249</volume>
+              <first_page>197</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1007/s11207-008-9129-4</doi>
+            </citation>
+            <citation key="R48">
+              <journal_title>A&amp;A</journal_title>
+              <author>Tiwari</author>
+              <volume>557</volume>
+              <first_page>A25</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201321391</doi>
+            </citation>
+            <citation key="R49">
+              <journal_title>A&amp;A</journal_title>
+              <author>Tiwari</author>
+              <volume>583</volume>
+              <first_page>A119</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201526224</doi>
+            </citation>
+            <citation key="R50">
+              <journal_title>A&amp;A</journal_title>
+              <author>van Noort</author>
+              <volume>548</volume>
+              <first_page>A5</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201220220</doi>
+            </citation>
+            <citation key="R51">
+              <journal_title>A&amp;A</journal_title>
+              <author>van Noort</author>
+              <volume>557</volume>
+              <first_page>A24</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1051/0004-6361/201321073</doi>
+            </citation>
+            <citation key="R52">
+              <journal_title>ApJ</journal_title>
+              <author>Westendorp Plaza</author>
+              <volume>547</volume>
+              <first_page>1148</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1086/318377</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

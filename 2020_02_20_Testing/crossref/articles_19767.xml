@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-04-03 10:59:39">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Geophysical Research: Atmospheres</full_title>
+          <abbrev_title>J. Geophys. Res. Atmos.</abbrev_title>
+          <issn>2169897X</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>04</month>
+            <day>16</day>
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>122</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A machine learning nowcasting method based on real-time reanalysis data</title>
+            <subtitle>A Machine Learning Nowcasting Method</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Lei</given_name>
+              <surname>Han</surname>
+              <affiliation>College of Information Science and Engineering; Ocean University of China; Qingdao China</affiliation>
+              <affiliation>Institute of Urban Meteorology; China Meteorological Administration; Beijing China</affiliation>
+              <ORCID>http://orcid.org/0000-0002-6141-4595</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Juanzhen</given_name>
+              <surname>Sun</surname>
+              <affiliation>National Center for Atmospheric Research, Mesoscale and Microscale Meteorology Laboratory; Boulder Colorado USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-6048-6362</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Wei</given_name>
+              <surname>Zhang</surname>
+              <affiliation>College of Information Science and Engineering; Ocean University of China; Qingdao China</affiliation>
+              <affiliation>Institute of Urban Meteorology; China Meteorological Administration; Beijing China</affiliation>
+              <ORCID>http://orcid.org/0000-0001-7390-7613</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Yuanyuan</given_name>
+              <surname>Xiu</surname>
+              <affiliation>College of Information Science and Engineering; Ocean University of China; Qingdao China</affiliation>
+              <ORCID>http://orcid.org/0000-0002-7216-8393</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Hailei</given_name>
+              <surname>Feng</surname>
+              <affiliation>College of Information Science and Engineering; Ocean University of China; Qingdao China</affiliation>
+              <ORCID>http://orcid.org/0000-0002-4238-8141</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Yinjing</given_name>
+              <surname>Lin</surname>
+              <affiliation>National Meteorological Center; China Meteorological Administration; Beijing China</affiliation>
+              <ORCID>http://orcid.org/0000-0002-1795-5837</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>04</month>
+            <day>16</day>
+            <year>2017</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>14</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>4038</first_page>
+            <last_page>4051</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">China Special Fund for Meteorological Research in the Public Interest</assertion>
+              <assertion name="award_number">GYHY201506004</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">41405110</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Natural Science Foundation of Shandong Province
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100007129</assertion>
+              </assertion>
+              <assertion name="award_number">ZR2016DM05</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1</license_ref>
+            <license_ref applies_to="vor" start_date="2017-04-14">http://onlinelibrary.wiley.com/termsAndConditions</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2016JD025783</doi>
+            <resource>http://doi.wiley.com/10.1002/2016JD025783</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2016JD025783/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2016JD025783</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2016JD025783-BIB0001|jgrd53752-cit-0002">
+              <author>Austin</author>
+              <cYear>1982</cYear>
+              <volume_title>Nowcasting</volume_title>
+              <first_page>177</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0002|jgrd53752-cit-0003">
+              <author>Bishop</author>
+              <cYear>2006</cYear>
+              <volume_title>Pattern Recognition and Machine Learning</volume_title>
+              <first_page>2</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0003|jgrd53752-cit-0004">
+              <author>Boser</author>
+              <cYear>1992</cYear>
+              <volume_title>Proceedings of the Fifth Annual Workshop on Computational Learning Theory</volume_title>
+              <first_page>144</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0004|jgrd53752-cit-0005">
+              <author>Chang</author>
+              <cYear>2011</cYear>
+              <article_title>LIBSVM: A library for support vector machines</article_title>
+              <journal_title>ACM Trans. Intell. Syst. Technol. (TIST)</journal_title>
+              <volume>2</volume>
+              <issue>3</issue>
+              <first_page>27</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0005|jgrd53752-cit-0006">
+              <author>Cortes</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1007/BF00994018</doi>
+              <article_title>Support-vector networks</article_title>
+              <journal_title>Mach. Learn.</journal_title>
+              <volume>20</volume>
+              <issue>3</issue>
+              <first_page>273</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0006|jgrd53752-cit-0007">
+              <author>Cox</author>
+              <cYear>1958</cYear>
+              <article_title>The regression analysis of binary sequences</article_title>
+              <journal_title>J. R. Stat. Soc. Ser. B Methodol.</journal_title>
+              <first_page>215</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0007|jgrd53752-cit-0008">
+              <author>Dixon</author>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1175/1520-0426(1993)010&lt;0785:TTITAA&gt;2.0.CO;2</doi>
+              <article_title>TITAN: Thunderstorm identification, tracking, analysis and nowcasting-A radar based methodology</article_title>
+              <journal_title>J. Atmos. Ocean. Technol.</journal_title>
+              <volume>10</volume>
+              <issue>6</issue>
+              <first_page>785</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0008|jgrd53752-cit-0009">
+              <author>Donaldson</author>
+              <cYear>1975</cYear>
+              <volume_title>Preprints, Ninth Conf. On Severe Local Storms</volume_title>
+              <first_page>321</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0009|jgrd53752-cit-0010">
+              <author>Felker</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1175/2010JTECHA1449.1</doi>
+              <article_title>Forecasting post-extratropical transition outcomes for tropical cyclones using support vector machine classifiers</article_title>
+              <journal_title>J. Atmos. Ocean. Technol.</journal_title>
+              <volume>28</volume>
+              <first_page>709</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0010|jgrd53752-cit-0011">
+              <author>Frank</author>
+              <cYear>2016</cYear>
+              <volume_title>The WEKA Workbench. Online Appendix for “Data Mining: Practical Machine Learning Tools and Techniques”</volume_title>
+              <first_page>18</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0011|jgrd53752-cit-0012">
+              <author>Freund</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1007/3-540-59119-2_166</doi>
+              <volume_title>European Conference on Computational Learning Theory</volume_title>
+              <first_page>23</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0012|jgrd53752-cit-0013">
+              <author>Golding</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1017/S1350482798000577</doi>
+              <article_title>Nimrod: A system for generating automated very short range forecasts</article_title>
+              <journal_title>Meteorol. Appl.</journal_title>
+              <volume>5</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0013|jgrd53752-cit-0014">
+              <author>Han</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1175/2008JTECHA1084.1</doi>
+              <article_title>3D convective storm identification, tracking, and forecasting-An enhanced TITAN algorithm</article_title>
+              <journal_title>J. Atmos. Ocean. Technol.</journal_title>
+              <volume>26</volume>
+              <issue>4</issue>
+              <first_page>719</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0014|jgrd53752-cit-0015">
+              <author>Handwerker</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1016/S0169-8095(01)00100-4</doi>
+              <article_title>Cell tracking with TRACE3D-A new algorithm</article_title>
+              <journal_title>Atmos. Res.</journal_title>
+              <volume>61</volume>
+              <first_page>15</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0015|jgrd53752-cit-0016">
+              <author>Jaynes</author>
+              <cYear>1957</cYear>
+              <doi provider="crossref">10.1103/PhysRev.106.620</doi>
+              <article_title>Information theory and statistical mechanics</article_title>
+              <journal_title>Phys. Rev.</journal_title>
+              <volume>106</volume>
+              <issue>4</issue>
+              <first_page>620</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0046|jgrd53752-cit-0047">
+              <author>Johns</author>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1175/1520-0434(1992)007&lt;0588:SLSF&gt;2.0.CO;2</doi>
+              <article_title>Severe local storms forecasting</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>7</volume>
+              <first_page>588</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0017|jgrd53752-cit-0018">
+              <author>Johnson</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1175/1520-0434(1998)013&lt;0263:TSCIAT&gt;2.0.CO;2</doi>
+              <article_title>The storm cell identification and tracking algorithm: An enhanced WSR-88D algorithm</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>13</volume>
+              <first_page>263</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0018|jgrd53752-cit-0019">
+              <author>Lai</author>
+              <cYear>1999</cYear>
+              <volume_title>Proceedings of the ESCAP/WMO Typhoon Committee Annual Review</volume_title>
+              <first_page>135</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0019|jgrd53752-cit-0020">
+              <author>Lee</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/1520-0426(2004)021&lt;0159:CCOSRD&gt;2.0.CO;2</doi>
+              <article_title>Cloud classification of satellite radiance data by multicategory support vector machines</article_title>
+              <journal_title>J. Atmos. Ocean. Technol.</journal_title>
+              <volume>21</volume>
+              <first_page>159</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0020|jgrd53752-cit-0021">
+              <author>Li</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1175/1520-0450(1995)034&lt;1286:NOMAGO&gt;2.0.CO;2</doi>
+              <article_title>Nowcasting of motion and growth of precipitation with radar over a complex orography</article_title>
+              <journal_title>J. Appl. Meteorol.</journal_title>
+              <volume>34</volume>
+              <first_page>1286</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0021|jgrd53752-cit-0022">
+              <author>Mecikalski</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/MWR3062.1</doi>
+              <article_title>Forecasting convective initiation by monitoring the evolution of moving cumulus in daytime GOES imagery</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>134</volume>
+              <first_page>49</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0022|jgrd53752-cit-0023">
+              <author>Mercer</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1175/2008WAF2007067.1</doi>
+              <article_title>Statistical modeling of downslope windstorms in Boulder, Colorado</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>23</volume>
+              <first_page>1176</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0023|jgrd53752-cit-0024">
+              <author>Mohri</author>
+              <cYear>2012</cYear>
+              <volume_title>Foundations of Machine Learning</volume_title>
+              <first_page>12</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0024|jgrd53752-cit-0025">
+              <author>Mueller</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/1520-0434(2003)018&lt;0545:NAS&gt;2.0.CO;2</doi>
+              <article_title>NCAR Auto-Nowcast system</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>18</volume>
+              <first_page>545</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0025|jgrd53752-cit-0026">
+              <author>Phillips</author>
+              <cYear>2004</cYear>
+              <volume_title>Proceedings of the 21st International Conference on Machine Learning (ICML-04)</volume_title>
+              <first_page>655</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0026|jgrd53752-cit-0027">
+              <author>Quinlan</author>
+              <cYear>2014</cYear>
+              <volume_title>C4. 5: Programs for Machine Learning</volume_title>
+              <first_page>17</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0047|jgrd53752-cit-0048">
+              <author>Rinehart</author>
+              <cYear>1978</cYear>
+              <doi provider="crossref">10.1038/273287a0</doi>
+              <article_title>Three-dimensional storm motion detection by conventional weather radar</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>273</volume>
+              <first_page>287</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0048|jgrd53752-cit-0049">
+              <author>Roberts</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/1520-0434(2003)018&lt;0562:NSIAGU&gt;2.0.CO;2</doi>
+              <article_title>Nowcasting storm initiation and growth using GOES-8 and WSR-88D data</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>18</volume>
+              <first_page>562</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0027|jgrd53752-cit-0028">
+              <author>Rosenfeld</author>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1175/1520-0426(1987)004&lt;0422:OMFAAT&gt;2.0.CO;2</doi>
+              <article_title>Objective method for analysis and tracking of convective cells as seen by radar</article_title>
+              <journal_title>J. Atmos. Ocean. Technol.</journal_title>
+              <volume>4</volume>
+              <first_page>422</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0029|jgrd53752-cit-0030">
+              <author>Sieglaff</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1175/2010JAMC2496.1</doi>
+              <article_title>Nowcasting convective storm initiation using satellite-based box-averaged cloud-top cooling and cloud-type trends</article_title>
+              <journal_title>J. Appl. Meteorol. Climatol.</journal_title>
+              <volume>50</volume>
+              <first_page>110</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0028|jgrd53752-cit-0029">
+              <author>Sieglaff</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/JTECH-D-12-00114.1</doi>
+              <article_title>A satellite-based convective cloud object tracking and multipurpose data fusion tool with application to developing convection</article_title>
+              <journal_title>J. Atmos. Ocean. Technol.</journal_title>
+              <volume>30</volume>
+              <first_page>510</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0031|jgrd53752-cit-0032">
+              <author>Sun</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1997)054&lt;1642:DAMRFD&gt;2.0.CO;2</doi>
+              <article_title>Dynamical and microphysical retrieval from Doppler radar observations using a cloud model and its adjoint. Part I: Model development and simulated data experiments</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>54</volume>
+              <first_page>1642</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0032|jgrd53752-cit-0033">
+              <author>Sun</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1175/1520-0434(2001)016&lt;0117:RTLLWA&gt;2.0.CO;2</doi>
+              <article_title>Real-time low-level wind and temperature analysis using single WSR-88D data</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>16</volume>
+              <first_page>117</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0033|jgrd53752-cit-0034">
+              <author>Sun</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2010WAF2222336.1</doi>
+              <article_title>A frequent-updating analysis system based on radar, surface, and mesoscale model data for the Beijing 2008 forecast demonstration project</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>25</volume>
+              <first_page>1715</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0034|jgrd53752-cit-0035">
+              <author>Sun</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-11-00263.1</doi>
+              <article_title>Use of NWP for nowcasting convective precipitation: Recent progress and challenges</article_title>
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <volume>95</volume>
+              <first_page>409</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0049|jgrd53752-cit-0050">
+              <author>Tuttle</author>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1175/1520-0426(1990)007&lt;0218:DOTBLA&gt;2.0.CO;2</doi>
+              <article_title>Determination of the boundary layer airflow from a single Doppler radar</article_title>
+              <journal_title>J. Atmos. Oceanic Technol.</journal_title>
+              <volume>7</volume>
+              <first_page>218</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0035|jgrd53752-cit-0036">
+              <author>Vapnik</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1007/978-1-4757-3264-1</doi>
+              <volume_title>The Nature of Statistical Learning Theory</volume_title>
+              <first_page>20</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0036|jgrd53752-cit-0037">
+              <author>Vapnik</author>
+              <cYear>1971</cYear>
+              <doi provider="crossref">10.1137/1116025</doi>
+              <article_title>On the uniform convergence of relative frequencies of events to their probabilities</article_title>
+              <journal_title>Theory Probab. Appl.</journal_title>
+              <volume>16</volume>
+              <issue>2</issue>
+              <first_page>264</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0037|jgrd53752-cit-0038">
+              <author>Vapnik</author>
+              <cYear>1998</cYear>
+              <volume_title>Statistical Learning Theory</volume_title>
+              <first_page>252</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0038|jgrd53752-cit-0039">
+              <author>Viola</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1023/B:VISI.0000013087.49260.fb</doi>
+              <article_title>Robust real-time face detection</article_title>
+              <journal_title>Int. J. Comput. Vis.</journal_title>
+              <volume>57</volume>
+              <first_page>137</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0039|jgrd53752-cit-0040">
+              <author>Weisman</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1175/2007WAF2007005.1</doi>
+              <article_title>Experiences with 0-36-h explicit convective forecasts with the WRF-ARW model</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>23</volume>
+              <first_page>407</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0040|jgrd53752-cit-0041">
+              <author>Wilks</author>
+              <cYear>2011</cYear>
+              <volume_title>Statistical Methods in the Atmospheric Sciences</volume_title>
+              <first_page>305</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0041|jgrd53752-cit-0042">
+              <author>Wilson</author>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1175/1520-0434(1993)008&lt;0113:NOTIAE&gt;2.0.CO;2</doi>
+              <article_title>Nowcasts of thunderstorm initiation and evolution</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>8</volume>
+              <first_page>113</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0042|jgrd53752-cit-0043">
+              <author>Wilson</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1175/1520-0477(1998)079&lt;2079:NTASR&gt;2.0.CO;2</doi>
+              <article_title>Nowcasting thunderstorms: A status report</article_title>
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <volume>79</volume>
+              <first_page>2079</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0043|jgrd53752-cit-0044">
+              <author>Wilson</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2010WAF2222417.1</doi>
+              <article_title>Nowcasting challenges during the Beijing Olympics: Successes, failures, and implications for future nowcasting systems</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>25</volume>
+              <first_page>1691</first_page>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0044|jgrd53752-cit-0045">
+              <author>Yeung</author>
+              <cYear>2009</cYear>
+              <volume_title>Proceedings of the Symp. On Nowcasting and very short range forecasting</volume_title>
+            </citation>
+            <citation key="10.1002/2016JD025783-BIB0045|jgrd53752-cit-0046">
+              <author>Zhuo</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/JTECH-D-13-00048.1</doi>
+              <article_title>Cloud classification of ground-based images using texture-structure features</article_title>
+              <journal_title>J. Atmos. Ocean. Technol.</journal_title>
+              <volume>31</volume>
+              <first_page>79</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

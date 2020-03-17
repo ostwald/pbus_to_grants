@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1002" timestamp="2019-02-01 10:50:07">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Numerical Linear Algebra with Applications</full_title>
+          <abbrev_title>Numer Linear Algebra Appl</abbrev_title>
+          <issn>10705325</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>03</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>26</volume>
+          </journal_volume>
+          <issue>2</issue>
+          <doi_data>
+            <doi>10.1002/nla.v26.2</doi>
+            <resource>http://doi.wiley.com/10.1002/nla.v26.2</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A parallel time integrator for solving the linearized shallow water equations on the rotating sphere</title>
+            <subtitle>Parallel time integrator for linearized SWE on rotating sphere</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Martin</given_name>
+              <surname>Schreiber</surname>
+              <affiliation>College of Engineering, Mathematics and Physical Sciences; University of Exeter; Exeter UK</affiliation>
+              <affiliation>Chair of Computer Architecture and Parallel Systems; Technical University of Munich; Germany</affiliation>
+              <ORCID>http://orcid.org/0000-0002-2390-6716</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Richard</given_name>
+              <surname>Loft</surname>
+              <affiliation>Computational and Information Systems Laboratory; National Center for Atmospheric Research; Boulder Colorado</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>03</month>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>29</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>e2220</first_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="am" start_date="2019-10-29">http://onlinelibrary.wiley.com/termsAndConditions#am</license_ref>
+            <license_ref applies_to="vor" start_date="2018-10-29">http://onlinelibrary.wiley.com/termsAndConditions#vor</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/nla.2220</doi>
+            <resource>http://doi.wiley.com/10.1002/nla.2220</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/nla.2220/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="am" mime_type="application/pdf">https://onlinelibrary.wiley.com/doi/am-pdf/10.1002%2Fnla.2220</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fnla.2220</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/nla.2220-BIB0001|nla2220-cit-0001">
+              <author>Dennard</author>
+              <article_title>Design of ion-implanted MOSFET's with very small physical dimensions</article_title>
+              <journal_title>IEEE J Solid State Circuits</journal_title>
+              <cYear>1974</cYear>
+              <doi provider="crossref">10.1109/JSSC.1974.1050511</doi>
+              <volume>9</volume>
+              <issue>5</issue>
+              <first_page>256</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0002|nla2220-cit-0002">
+              <author>Gander</author>
+              <volume_title>Multiple shooting and time domain decomposition</volume_title>
+              <cYear>2015</cYear>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0003|nla2220-cit-0003">
+              <author>Haut</author>
+              <article_title>A high-order time-parallel scheme for solving wave propagation problems via the direct construction of an approximate time-evolution operator</article_title>
+              <journal_title>IMA J Numer Anal</journal_title>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1093/imanum/drv021</doi>
+              <volume>36</volume>
+              <first_page>688</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0004|nla2220-cit-0004">
+              <author>Schreiber</author>
+              <article_title>Beyond spatial scalability limitations with a massively parallel method for linear oscillatory problems</article_title>
+              <journal_title>Int J High Perform Comput Appl</journal_title>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0005|nla2220-cit-0005">
+              <author>Hochbruck</author>
+              <article_title>Exponential integrators</article_title>
+              <journal_title>Acta Numerica</journal_title>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1017/S0962492910000048</doi>
+              <volume>19</volume>
+              <first_page>209</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0006|nla2220-cit-0006">
+              <author>Kasahara</author>
+              <article_title>Numerical integration of the global barotropic primitive equations with Hough harmonic expansions</article_title>
+              <journal_title>J Atmospheric Sci</journal_title>
+              <cYear>1977</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1977)034&lt;0687:NIOTGB&gt;2.0.CO;2</doi>
+              <volume>34</volume>
+              <issue>5</issue>
+              <first_page>687</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0007|nla2220-cit-0007">
+              <author>Wang</author>
+              <article_title>On computation of Hough functions</article_title>
+              <journal_title>Geosci Model Dev</journal_title>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/gmd-9-1477-2016</doi>
+              <volume>9</volume>
+              <issue>4</issue>
+              <first_page>1477</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0008|nla2220-cit-0008">
+              <unstructured_citation>Robert A The integration of a spectral model of the atmosphere by the implicit method Tokyo, Japan Tokyo, Japan Japan Meteorological Agency 1969 19 24</unstructured_citation>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0009|nla2220-cit-0009">
+              <unstructured_citation>Hack JJ Jakob R Description of a global shallow water model based on the spectral transform method Boulder, CO National Center for Atmospheric Research 1992</unstructured_citation>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0010|nla2220-cit-0010">
+              <author>Ritchie</author>
+              <article_title>Application of the semi-Lagrangian method to a spectral model of the shallow water equations</article_title>
+              <journal_title>Mon Weather Rev</journal_title>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1988)116&lt;1587:AOTSLM&gt;2.0.CO;2</doi>
+              <volume>116</volume>
+              <issue>8</issue>
+              <first_page>1587</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0011|nla2220-cit-0011">
+              <author>Wood</author>
+              <article_title>An inherently mass-conserving semi-implicit semi-Lagrangian discretization of the deep-atmosphere global non-hydrostatic equations</article_title>
+              <journal_title>Q J Royal Meteorol Soc</journal_title>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/qj.2235</doi>
+              <volume>140</volume>
+              <issue>682</issue>
+              <first_page>1505</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0012|nla2220-cit-0012">
+              <author>Barros</author>
+              <article_title>The IFS model: a parallel production weather code</article_title>
+              <journal_title>Parallel Computing</journal_title>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1016/0167-8191(96)80002-0</doi>
+              <volume>21</volume>
+              <issue>10</issue>
+              <first_page>1621</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0013|nla2220-cit-0013">
+              <author>Moler</author>
+              <article_title>Nineteen dubious ways to compute the exponential of a matrix, twenty-five years later</article_title>
+              <journal_title>SIAM Review</journal_title>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1137/S00361445024180</doi>
+              <volume>45</volume>
+              <issue>1</issue>
+              <first_page>3</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0014|nla2220-cit-0014">
+              <author>Garcia</author>
+              <article_title>Exponential versus IMEX high-order time integrators for thermal convection in rotating spherical shells</article_title>
+              <journal_title>J Comput Phys</journal_title>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2014.01.033</doi>
+              <volume>264</volume>
+              <first_page>41</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0015|nla2220-cit-0015">
+              <author>Clancy</author>
+              <article_title>Laplace transform integration of the shallow-water equations. Part I: Eulerian formulation and Kelvin waves</article_title>
+              <journal_title>Q J Royal Meteorol Soc</journal_title>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1002/qj.793</doi>
+              <volume>137</volume>
+              <issue>656</issue>
+              <first_page>792</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0016|nla2220-cit-0016">
+              <author>Williamson</author>
+              <article_title>A standard test set for numerical approximations to the shallow water equations in spherical geometry</article_title>
+              <journal_title>J Comput Phys</journal_title>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1016/S0021-9991(05)80016-6</doi>
+              <volume>102</volume>
+              <issue>1</issue>
+              <first_page>211</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0017|nla2220-cit-0017">
+              <author>Temperton</author>
+              <article_title>On scalar and vector transform methods for global spectral models</article_title>
+              <journal_title>Mon Weather Rev</journal_title>
+              <cYear>1991</cYear>
+              <doi provider="crossref">10.1175/1520-0493-119-5-1303.1</doi>
+              <volume>119</volume>
+              <issue>5</issue>
+              <first_page>1303</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0018|nla2220-cit-0018">
+              <unstructured_citation>Collins WD Rasch PJ Boville BA Description of the NCAR community atmosphere model (CAM 3.0) Boulder, CO National Center for Atmospheric Research 2004</unstructured_citation>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0019|nla2220-cit-0019">
+              <author>White</author>
+              <volume_title>IFS documentation: Part III: Dynamics and numerical procedures (CY21r4)</volume_title>
+              <cYear>2000</cYear>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0020|nla2220-cit-0020">
+              <author>Robert</author>
+              <article_title>The integration of a low order spectral form of the primitive meteorological equations</article_title>
+              <journal_title>J Meteorol Soc Jpn Ser II</journal_title>
+              <cYear>1966</cYear>
+              <doi provider="crossref">10.2151/jmsj1965.44.5_237</doi>
+              <volume>44</volume>
+              <issue>5</issue>
+              <first_page>237</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0021|nla2220-cit-0021">
+              <author>Rivier</author>
+              <article_title>An efficient spectral dynamical core for distributed memory computers</article_title>
+              <journal_title>Mon Weather Rev</journal_title>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2002)130&lt;1384:AESDCF&gt;2.0.CO;2</doi>
+              <volume>130</volume>
+              <issue>5</issue>
+              <first_page>1384</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0022|nla2220-cit-0022">
+              <author>Thuburn</author>
+              <article_title>Numerical representation of geostrophic modes on arbitrarily structured C-grids</article_title>
+              <journal_title>J Comput Phys</journal_title>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2009.08.006</doi>
+              <volume>228</volume>
+              <issue>22</issue>
+              <first_page>8321</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0023|nla2220-cit-0023">
+              <unstructured_citation>Yessad K Semi-implicit spectral computations and predictor-corrector schemes in the cycle 43 of ARPEGE/IFS 2016 https://www.umr-cnrm.fr/gmapdoc/IMG/pdf/yksi43.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0024|nla2220-cit-0024">
+              <unstructured_citation>Schreiber M Peixoto P Schmitt A SWEET software 2017 https://github.com/schreiberx/sweet https://schreiberx.github.io/sweetsite/</unstructured_citation>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0025|nla2220-cit-0025">
+              <author>Schaeffer</author>
+              <article_title>Efficient spherical harmonic transforms aimed at pseudospectral numerical simulations</article_title>
+              <journal_title>Geochem Geophys Geosystems</journal_title>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/ggge.20071</doi>
+              <volume>14</volume>
+              <issue>3</issue>
+              <first_page>751</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0026|nla2220-cit-0026">
+              <author>Staniforth</author>
+              <article_title>Horizontal grids for global weather and climate prediction models: a review</article_title>
+              <journal_title>Q J Royal Meteorol Soc</journal_title>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1002/qj.958</doi>
+              <volume>138</volume>
+              <issue>662</issue>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0027|nla2220-cit-0027">
+              <author>Thuburn</author>
+              <article_title>A framework for mimetic discretization of the rotating shallow-water equations on arbitrary polygonal grids</article_title>
+              <journal_title>SIAM J Sci Comput</journal_title>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1137/110850293</doi>
+              <volume>34</volume>
+              <issue>3</issue>
+              <first_page>B203</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0028|nla2220-cit-0028">
+              <author>Hoskins</author>
+              <article_title>A multi-layer spectral model and the semi-implicit method</article_title>
+              <journal_title>Q J Royal Meteorol Soc</journal_title>
+              <cYear>1975</cYear>
+              <doi provider="crossref">10.1002/qj.49710142918</doi>
+              <volume>101</volume>
+              <issue>429</issue>
+              <first_page>637</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0029|nla2220-cit-0029">
+              <author>Durran</author>
+              <volume_title>Numerical methods for fluid dynamics: With applications to geophysics</volume_title>
+              <volume>32</volume>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1007/978-1-4419-6412-0</doi>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0030|nla2220-cit-0030">
+              <author>Lynch</author>
+              <volume_title>The emergence of numerical weather prediction: Richardson's dream</volume_title>
+              <cYear>2006</cYear>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0031|nla2220-cit-0031">
+              <author>Weller</author>
+              <article_title>Computational modes and grid imprinting on five quasi-uniform spherical C grids</article_title>
+              <journal_title>Mon Weather Rev</journal_title>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/MWR-D-11-00193.1</doi>
+              <volume>140</volume>
+              <issue>8</issue>
+              <first_page>2734</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0032|nla2220-cit-0032">
+              <author>Peixoto</author>
+              <article_title>Accuracy analysis of mimetic finite volume operators on geodesic grids and a consistent alternative</article_title>
+              <journal_title>J Comput Phys</journal_title>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2015.12.058</doi>
+              <volume>310</volume>
+              <first_page>127</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0033|nla2220-cit-0033">
+              <unstructured_citation>Computational and Information Systems Laboratory Cheyenne: SGI ICE XA System (NCAR Community Computing) Boulder, CO National Center for Atmospheric Research 2017 https://doi.org/10.5065/D6RX99HX</unstructured_citation>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0034|nla2220-cit-0034">
+              <author>Gander</author>
+              <article_title>Paraexp: a parallel integrator for linear initial-value problems</article_title>
+              <journal_title>SIAM J Sci Comput</journal_title>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1137/110856137</doi>
+              <volume>35</volume>
+              <issue>2</issue>
+              <first_page>C123</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0035|nla2220-cit-0035">
+              <author>Haut</author>
+              <article_title>As asymptotic parallel-in-time method for highly oscillatory PDEs</article_title>
+              <journal_title>SIAM J Sci Comput</journal_title>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1137/130914577</doi>
+              <volume>36</volume>
+              <issue>2</issue>
+              <first_page>A693</first_page>
+            </citation>
+            <citation key="10.1002/nla.2220-BIB0036|nla2220-cit-0036">
+              <unstructured_citation>Computational and Information Systems Laboratory Yellowstone: IBM iDataPlex System (NCAR Community Computing) Boulder, CO National Center for Atmospheric Research 2012 http://n2t.net/ark:/85065/d7wd3xhc</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

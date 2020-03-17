@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-11 12:10:49">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A simple parameterization of the short-wave aerosol optical properties for surface direct and diffuse irradiances assessment in a numerical weather model</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>J. A.</given_name>
+              <surname>Ruiz-Arias</surname>
+              <ORCID>https://orcid.org/0000-0003-4220-1751</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Dudhia</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>C. A.</given_name>
+              <surname>Gueymard</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Broadband short-wave (SW) surface direct and diffuse irradiances are not typically within the set of output variables produced by numerical weather prediction (NWP) models. However, they are frequently requested for solar energy applications. In order to compute them, a detailed representation of the aerosol optical properties is important. Nonetheless, NWP models typically oversimplify aerosol representation or even neglect their effect. In this work, a flexible method to account for the SW aerosol optical properties in the computation of broadband SW surface direct and diffuse irradiances is presented. It only requires aerosol optical depth at 0.55 μm and knowledge of the type of predominant aerosol. Other parameters needed to consider spectral aerosol extinction, namely, Angström exponent, aerosol single-scattering albedo and aerosol asymmetry factor, are parameterized. The parameterization has been tested using the Rapid Radiative Transfer Model for climate and weather models (RRTMG) SW scheme of the Weather Research and Forecasting (WRF) NWP model for data over the continental US. In principle, it can be adapted to any other SW radiative transfer band model. It has been verified against a control experiment and using data from five radiometric stations in the contiguous US. The control experiment consisted of a clear-sky evaluation of the RRTMG solar radiation estimates obtained in WRF when RRTMG is driven with ground-observed aerosol optical properties. Overall, the verification has shown satisfactory results for both broadband SW surface direct and diffuse irradiances. The parameterization has proven effective in significantly reducing the prediction error and constraining the seasonal bias in clear-sky conditions to within the typical observational error expected in well maintained radiometers.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>17</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>1159</first_page>
+            <last_page>1174</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Commission
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000780</assertion>
+              </assertion>
+              <assertion name="award_number">273648</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-7-1159-2014</doi>
+            <resource>https://www.geosci-model-dev.net/7/1159/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/7/1159/2014/gmd-7-1159-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.3402/tellusa.v13i2.9493</doi>
+              <unstructured_citation>Ångström, A.: Techniques of determining the turbidity of the atmosphere 1, Tellus, 13, 214–223, 1961.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/JTECH1806.1</doi>
+              <unstructured_citation>Augustine, J. A., Hodges, G. B., Cornwall, C. R., Michalsky, J. J., and Medina, C. I.: An update on SURFRAD-The GCOS Surface Radiation budget network for the continental United States, J. Atmos. Ocean. Tech., 22, 1460–1472, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1117/12.564634</doi>
+              <unstructured_citation>Berk, A., Anderson, G. P., Acharya, P. K., Bernstein, L. S., Muratov, L., Lee, J., Fox, M. J., Adler-Golden, S. M., Chetwynd, J. H., Hoke, M. L., Lockwood, R. B., Cooley, T. W., and Gardner, J. A.: MODTRAN5: a reformulated atmospheric band model with auxiliary species and practical multiple scattering options, Fourth International Asia-Pacific Environmental Remote Sensing Symposium 2004: Remote Sensing of the Atmosphere, Ocean, Environment, and Space, 88–95, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/BAMS-86-9-1275</doi>
+              <unstructured_citation>Cahalan, R. F., Oreopoulos, L., Marshak, A., Evans, K. F., Davis, A. B., Pincus, R., Yetzer, K. H., Mayer, B., Davies, R., Ackerman, T. P., Barker, H. W., Clothiaux, Eugene Eand Ellingson, R. G., Garay, M. J., Kassianov, E., Kinne, S., Macke, A., O'Hirok, W., Partain, P. T., Prigarin, S. M., Rublev, A. N., Stephens, G. L., Szczap, F., Takara, E. E., Várnai, T., Wen, G., and Zhuravleva, T. B.: THE I3RC: Bringing together the most advanced radiative transfer tools for cloudy atmospheres, B. Am. Meteorol. Soc., 86, 1275–1293, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/1520-0442(1998)011&lt;0202:PFCOAS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Chou, M.-D., Suarez, M. J., Ho, C.-H., Yan, M. M., and Lee, K.-T.: Parameterizations for cloud overlapping and shortwave single-scattering properties for use in general circulation and cloud ensemble models, J. Climate, 11, 202–214, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1016/j.rser.2013.06.042</doi>
+              <unstructured_citation>Diagne, M., David, M., Lauret, P., Boland, J., and Schmutz, N.: Review of solar irradiance forecasting methods and a proposition for small-scale insular grids, Renew. Sust. Energy Rev., 27, 65–76, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2000JD900040</doi>
+              <unstructured_citation>Dubovik, O., Smirnov, A., Holben, B., King, M., Kaufman, Y., Eck, T., and Slutsker, I.: Accuracy assessments of aerosol optical properties retrieved from Aerosol Robotic Network (AERONET) Sun and sky radiance measurements, J. Geophys. Res.-Atmos., 105, 9791–9806, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;0590:VOAAOP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Dubovik, O., Holben, B., Eck, T. F., Smirnov, A., Kaufman, Y. J., King, M. D., Tanré, D., and Slutsker, I.: Variability of absorption and optical properties of key aerosol types observed in worldwide locations, J. Atmos. Sci., 59, 590–608, https://doi.org/10.1175/1520-0469(2002)0592.0.CO;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/1520-0469(1989)046&lt;3077:NSOCOD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Dudhia, J.: Numerical study of convection observed during the winter monsoon experiment using a mesoscale two-dimensional model, J. Atmos. Sci., 46, 3077–3107, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/qj.49712253107</doi>
+              <unstructured_citation>Edwards, J. and Slingo, A.: Studies with a flexible new radiation code. I: Choosing a configuration for a large-scale model, Q. J. Roy. Meteorol. Soc., 122, 689–719, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Geiger, R.: The Climate Near the Ground, Cambridge, Mass, 1965.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>GEOS-5: available at: http://gmao.gsfc.nasa.gov/GEOS/, last accessed: 7 November 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2001JD001242</doi>
+              <unstructured_citation>Gu, L., Baldocchi, D., Verma, S., Black, T., Vesala, T., Falge, E., and Dowty, P.: Advantages of diffuse radiation for terrestrial ecosystem productivity, J. Geophys. Res.-Atmos., 107, ACL2.1–ACL2.23, https://doi.org/10.1029/2001JD001242, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1016/S0038-092X(01)00054-8</doi>
+              <unstructured_citation>Gueymard, C. A.: Parameterized transmittance model for direct beam and circumsolar spectral irradiance, Sol. Energy, 71, 325–346, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1016/j.solener.2003.08.039</doi>
+              <unstructured_citation>Gueymard, C. A.: The sun's total and spectral irradiance for solar energy applications and solar radiation models, Sol. Energy, 76, 423–453, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/j.solener.2007.04.007</doi>
+              <unstructured_citation>Gueymard, C. A.: Prediction and validation of cloudless shortwave solar spectra incident on horizontal, tilted, or tracking surfaces, Sol. Energy, 82, 260–271, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1016/j.solener.2012.01.013</doi>
+              <unstructured_citation>Gueymard, C. A.: Temporal variability in direct and global irradiance at various time scales as affected by aerosols, Sol. Energy, 86, 3544–3553, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1016/j.solener.2009.07.011</doi>
+              <unstructured_citation>Gueymard, C. A. and Thevenard, D.: Monthly average clear-sky broadband irradiance database for worldwide solar heat gain and building cooling load calculations, Sol. Energy, 83, 1998–2018, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/0960-1481(93)90104-O</doi>
+              <unstructured_citation>Hay, J.: Calculating solar radiation for inclined surfaces: Practical approaches, Renew. Energ., 3, 373–380, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1016/S0034-4257(98)00031-5</doi>
+              <unstructured_citation>Holben, B., Eck, T., Slutsker, I., Tanre, D., Buis, J., Setzer, A., Vermote, E., Reagan, J., Kaufman, Y., Nakajima, T and, L. F., Jankowiak, I., and Smirnov, A.: AERONET: A federated instrument network and data archive for aerosol characterization, Remote Sens. Environ., 66, 1–16, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2008JD009944</doi>
+              <unstructured_citation>Iacono, M. J., Delamere, J. S., Mlawer, E. J., Shephard, M. W., Clough, S. A., and Collins, W. D.: Radiative forcing by long-lived greenhouse gases: Calculations with the AER radiative transfer models, J. Geophys. Res.-Atmos., 113, D13103, https://doi.org/10.1029/2008JD009944, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1016/j.pecs.2013.06.002</doi>
+              <unstructured_citation>Inman, R. H., Pedro, H. T., and Coimbra, C. F.: Solar forecasting methods for renewable energy integration, Prog. Energ. Combust., 39, 535–576, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/JAS3755.1</doi>
+              <unstructured_citation>Iwabuchi, H.: Efficient Monte Carlo methods for radiative transfer modeling, J. Atmos. Sci., 63, 2324–2339, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1002/jame.20035</doi>
+              <unstructured_citation>Kinne, S., O'Donnel, D., Stier, P., Kloster, S., Zhang, K., Schmidt, H., Rast, S., Giorgetta, M., Eck, T. F., and Stevens, B.: MAC-v1: A new global aerosol climatology for climate studies, J. Adv. Model. Earth Syst., 5, 704–740, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Kleissl, J.: Solar Energy Forecasting and Resource Assessment, Academic Press, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/2010JD014722</doi>
+              <unstructured_citation>Lee, W.-L., Liou, K., and Hall, A.: Parameterization of solar fluxes over mountain surfaces for application to climate models, J. Geophys. Res.-Atmos., 116, D01101, https://doi.org/10.1029/2010JD014722, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Liou, K.: An introduction to atmospheric radiation, Vol. 84, International Geophysics Series, Academic Press, San Diego, CA, 2nd Edn., 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2000JD900077</doi>
+              <unstructured_citation>Long, C. N. and Ackerman, T. P.: Identification of clear skies from broadband pyranometer measurements and calculation of downwelling shortwave cloud effects, J. Geophys. Res., 105, 15609–15626, https://doi.org/10.1029/2000JD900077, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>MACC: available at: http://www.gmes-atmosphere.eu/, last access: 7 November 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1002/qj.956</doi>
+              <unstructured_citation>Manners, J., Vosper, S., and Roberts, N.: Radiative transfer over resolved topographic features for high-resolution weather prediction, Q. J. Roy. Meteorol. Soc., 138, 720–733, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-5-1855-2005</doi>
+              <unstructured_citation>Mayer, B. and Kylling, A.: Technical note: The libRadtran software package for radiative transfer calculations – description and examples of use, Atmos. Chem. Phys., 5, 1855–1877, https://doi.org/10.5194/acp-5-1855-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/acp-10-8685-2010</doi>
+              <unstructured_citation>Mayer, B., Hoch, S. W., and Whiteman, C. D.: Validating the MYSTIC three-dimensional radiative transfer model with observations from the complex topography of Arizona's Meteor Crater, Atmos. Chem. Phys., 10, 8685–8696, https://doi.org/10.5194/acp-10-8685-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/1520-0477(1998)079&lt;2115:BSRNBW&gt;2.0.CO;2</doi>
+              <unstructured_citation>Ohmura, A., Dutton, E. D., Forgan, B., Fröhlich, C., Gilgen, H., Hegner, H., Heimo, A., König-Langlo, G., McArthur, B., Müller, G., Philipona, R., Pinker, R., Whitlock, C. H., Dehne, K., and Wild, M.: Baseline Surface Radiation Network (BSRN/WCRP): New precision radiometry for climate research, B. Am. Meteorol. Soc., 79, 2115–2136, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/1520-0450(2003)042&lt;0113:SVOSRF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Oliphant, A., Spronken-Smith, R., Sturman, A., and Owens, I.: Spatial variability of surface radiation fluxes in mountainous terrain, J. Appl. Meteorol., 42, 113–128, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1002/qj.49712555316</doi>
+              <unstructured_citation>Oreopoulos, L. and Barker, H. W.: Accounting for subgrid-scale cloud variability in a multi-layer 1d solar radiative transfer algorithm, Q. J. Roy. Meteorol. Soc., 125, 301–330, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1007/s10980-004-1296-6</doi>
+              <unstructured_citation>Pierce, J. K., Lookingbill, T., and Urban, D.: A simple method for estimating potential relative radiation (PRR) for landscape-scale vegetation analysis, Landscape Ecol., 20, 137–147, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/2009JAS3137.1</doi>
+              <unstructured_citation>Pincus, R. and Evans, K. F.: Computational cost and accuracy in calculating three-dimensional radiative transfer: Results for new implementations of Monte Carlo and SHDOM, J. Atmos. Sci., 66, 3131–3146, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/JAS3385.1</doi>
+              <unstructured_citation>Remer, L. A., Kaufman, Y., Tanré, D., Mattoo, S., Chu, D., Martins, J., Li, R.-R., Ichoku, C., Levy, R., Kleidman, R., Eck, T., Vermote, E., and Holben, B.: The MODIS aerosol algorithm, products, and validation, J. Atmos. Sci., 62, 947–973, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/1520-0477(1998)079&lt;2101:SARATS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Ricchiazzi, P., Yang, S., Gautier, C., and Sowle, D.: SBDART: A Research and Teaching Software Tool for Plane-Parallel Radiative Transfer in the Earth's Atmosphere, B. Am. Meteorol. Soc., 79, 2101–2114, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/1520-0493(1992)120&lt;0303:ACRSFN&gt;2.0.CO;2</doi>
+              <unstructured_citation>Ritter, B. and Geleyn, J.-F.: A comprehensive radiation scheme for numerical weather prediction models with potential applications in climate simulations, Mon. Weather Rev., 120, 303–325, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1016/j.solener.2010.06.002</doi>
+              <unstructured_citation>Ruiz-Arias, J. A., Cebecauer, T., Tovar-Pescador, J., and Šúri, M.: Spatial disaggregation of satellite-derived irradiance using a high-resolution digital elevation model, Sol. Energy, 84, 1644–1657, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/2011JAMC2571.1</doi>
+              <unstructured_citation>Ruiz-Arias, J. A., Pozo-Váquez, D., Lara-Fanego, V., Santos-Alamillos, F. J., and Tovar-Pescador, J.: A high-resolution topographic correction method for clear-sky solar irradiance derived with a numerical weather prediction model, J. App. Meteorol. Clim., 50, 2460–2472, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/acp-13-675-2013</doi>
+              <unstructured_citation>Ruiz-Arias, J. A., Dudhia, J., Gueymard, C. A., and Pozo-Vázquez, D.: Assessment of the Level-3 MODIS daily aerosol optical depth in the context of surface solar radiation and numerical weather modeling, Atmos. Chem. Phys., 13, 675–692, https://doi.org/10.5194/acp-13-675-2013, 2013a.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/j.atmosenv.2013.07.002</doi>
+              <unstructured_citation>Ruiz-Arias, J., Dudhia, J., Lara-Fanego, V., and Pozo-Vázquez, D.: A geostatistical approach for producing daily Level-3 MODIS aerosol optical depth analyses, Atmos. Environ., 79, 395–405, 2013b.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1002/jgrd.50778</doi>
+              <unstructured_citation>Ruiz-Arias, J. A., Dudhia, J., Santos-Alamillos, F. J., and Pozo-Vázquez, D.: Surface clear-sky shortwave radiative closure intercomparisons in the Weather Research and Forecasting model, J. Geophys. Res.-Atmos., 118, 9901–9913, 2013c.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Shettle, E. P. and Fenn, R. W.: Models for the aerosols of the lower atmosphere and the effects of humidity variations on their optical properties, Tech. Rep. AFGL-TR-79-0214, Air Force Geophys. Lab., 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.2737/RDS-2013-0009</doi>
+              <unstructured_citation>Short, K. C.: Spatial wildfire occurrence data for the United States, 1992–2011, Tech. Rep. FPA-FOD-20130422, USDA Forest Service, Rocky Mountain Research Station, Fort Collins, CO, https://doi.org/10.2737/RDS-2013-0009, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.2172/989017</doi>
+              <unstructured_citation>Stoffel, T., Renné, D., Myers, D., Wilcox, S., Sengupta, M., George, R., and Turchi, C.: Concentrating Solar Power: Best practices handbook for the collection and use of solar resource data (CSP), Tech. rep., National Renewable Energy Laboratory (NREL), Golden, CO, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Whiteman, C.: Mountain Meteorology: Fundamentals and applications, Vol. 355, Oxford University Press New York, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/2002JD002122</doi>
+              <unstructured_citation>Zamora, R., Solomon, S., Dutton, E., Bao, J., Trainer, M., Portmann, R., White, A., Nelson, D., and McNider, R.: Comparing MM5 radiative fluxes with observations gathered during the 1995 and 1999 Nashville southern oxidants studies, J. Geophys. Res., 108, 4050, https://doi.org/10.1029/2002JD002122, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1175/MWR2886.1</doi>
+              <unstructured_citation>Zamora, R. J., Dutton, E. G., Trainer, M., McKeen, S. A., Wilczak, J. M., and Hou, Y.-T.: The accuracy of solar irradiance calculations used in mesoscale numerical weather prediction, Mon. Weather Rev., 133, 783–792, 2005.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

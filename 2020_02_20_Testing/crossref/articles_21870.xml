@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2019-02-11 17:06:07">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Geophysical Research: Space Physics</full_title>
+          <abbrev_title>J. Geophys. Res. Space Physics</abbrev_title>
+          <issn>21699380</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>06</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>123</volume>
+          </journal_volume>
+          <issue>6</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Semianalytical Estimation of Energy Deposition in the Ionosphere by Monochromatic Alfvén Waves</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Olga P.</given_name>
+              <surname>Verkhoglyadova</surname>
+              <affiliation>NASA Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-9295-9539</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Xing</given_name>
+              <surname>Meng</surname>
+              <affiliation>NASA Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-6154-9150</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Anthony J.</given_name>
+              <surname>Mannucci</surname>
+              <affiliation>NASA Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-2391-8490</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ryan M.</given_name>
+              <surname>McGranaghan</surname>
+              <affiliation>NASA Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+              <affiliation>University Corporation for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-9605-0007</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>06</month>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>21</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>5210</first_page>
+            <last_page>5222</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNN13D461T</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">NASA Living With a Star Jack Eddy Postdoctoral Fellowship Program</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2018-06-21">http://onlinelibrary.wiley.com/termsAndConditions#vor</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1029/2017JA025097</doi>
+            <resource>http://doi.wiley.com/10.1029/2017JA025097</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1029/2017JA025097/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2017JA025097</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1029/2017JA025097-BIB0001|jgra54322-cit-0001">
+              <author>Alexandrov</author>
+              <cYear>1984</cYear>
+              <doi provider="crossref">10.1007/978-3-642-69247-5</doi>
+              <volume_title>Principles of plasma electrodynamics</volume_title>
+              <series_title>Springer Series in Electronics and Photonics V.9</series_title>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0002|jgra54322-cit-0002">
+              <author>Bilitza</author>
+              <cYear>2014</cYear>
+              <article_title>The International Reference Ionosphere 2012-A model of international collaboration</article_title>
+              <journal_title>Journal of Space Weather and Space Climate</journal_title>
+              <volume>4</volume>
+              <issue>A07</issue>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0003|jgra54322-cit-0003">
+              <author>Chaston</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1029/2004JA010483</doi>
+              <article_title>Energy deposition by Alfvén waves into the dayside auroral oval: Cluster and FAST observations</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>110</volume>
+              <first_page>A02211</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0004|jgra54322-cit-0004">
+              <author>Connor</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1051/swsc/2016019</doi>
+              <article_title>Modeling the ionosphere-thermosphere response to a geomagnetic storm using physics-based magnetospheric energy input: OpenGGCM-CTIM results</article_title>
+              <journal_title>Journal of Space Weather and Space Climate</journal_title>
+              <volume>6</volume>
+              <first_page>A25</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0005|jgra54322-cit-0005">
+              <author>Deng</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2010JA016019</doi>
+              <article_title>Impact of the altitudinal Joule heating distribution on the thermosphere</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>116</volume>
+              <first_page>A05313</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0006|jgra54322-cit-0006">
+              <author>Deng</author>
+              <cYear>2013</cYear>
+              <article_title>Theoretical study: Influence of different energy sources on the cusp neutral density enhancement</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>2340</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0007|jgra54322-cit-0007">
+              <author>Drob</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1029/2008JA013668</doi>
+              <article_title>An empirical model of the Earth's horizontal wind fields: HWM07</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>113</volume>
+              <first_page>A12304</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0008|jgra54322-cit-0008">
+              <author>Hatch</author>
+              <cYear>2016</cYear>
+              <article_title>Alfvén wave-driven ionospheric mass outflow and electron precipitation during storms</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>121</volume>
+              <first_page>7828</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0009|jgra54322-cit-0009">
+              <author>Hedin</author>
+              <cYear>1991</cYear>
+              <doi provider="crossref">10.1029/90JA02125</doi>
+              <article_title>Extension of the MSIS thermosphere model into the middle and lower atmosphere</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>96</volume>
+              <first_page>1159</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0010|jgra54322-cit-0010">
+              <author>Huang</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2003JA010067</doi>
+              <article_title>Transient sheets of field-aligned current observed by DMSP during the main phase of a magnetic superstorm</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>109</volume>
+              <first_page>A06303</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0011|jgra54322-cit-0011">
+              <author>Huang</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1051/swsc/2015041</doi>
+              <article_title>Ionosphere-thermosphere (IT) response to solar wind forcing during magnetic storms</article_title>
+              <journal_title>Journal of Space Weather and Space Climate</journal_title>
+              <volume>6</volume>
+              <first_page>A4</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0012|jgra54322-cit-0012">
+              <author>Ishii</author>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1029/92JA00110</doi>
+              <article_title>Correlation between magnetic and electric fiedl preturbations in the field-aligned current regions deduced from DE2 observations</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>97</volume>
+              <first_page>13,877</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0013|jgra54322-cit-0013">
+              <author>Keiling</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1126/science.1080073</doi>
+              <article_title>The global morphology of wave Poynting flux: Powering the aurora</article_title>
+              <journal_title>Science</journal_title>
+              <volume>299</volume>
+              <first_page>383</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0014|jgra54322-cit-0014">
+              <author>Klatt</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1029/2004JA010883</doi>
+              <article_title>SIERRA observations of Alfvénic processes in the topside auroral ionosphere</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>110</volume>
+              <first_page>A10S12</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0015|jgra54322-cit-0015">
+              <author>Knudsen</author>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1029/91JA02300</doi>
+              <article_title>Alfvén waves in the auroral ionosphere: A numerical model compared with measurements</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>97</volume>
+              <first_page>77</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0016|jgra54322-cit-0016">
+              <author>Krall</author>
+              <cYear>1973</cYear>
+              <doi provider="crossref">10.1119/1.1987587</doi>
+              <volume_title>Principles of plasma physics</volume_title>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0017|jgra54322-cit-0017">
+              <author>Landau</author>
+              <cYear>1960</cYear>
+              <volume_title>Electrodynamics of continuous media</volume_title>
+              <volume>8</volume>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0018|jgra54322-cit-0018">
+              <author>Lessard</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1029/2000GL012529</doi>
+              <article_title>Ionospheric reflection of small-scale Alfvén waves</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>28</volume>
+              <issue>18</issue>
+              <first_page>3573</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0019|jgra54322-cit-0019">
+              <author>Lotko</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2004.03.027</doi>
+              <article_title>Inductive magnetosphere-ionosphere coupling</article_title>
+              <journal_title>Journal of Atmospheric and Solar-Terrestrial Physics</journal_title>
+              <volume>66</volume>
+              <first_page>1443</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0020|jgra54322-cit-0020">
+              <author>Lotko</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2006.08.011</doi>
+              <article_title>The magnetosphere-ionosphere system from the perspective of plasma circulation: A tutorial</article_title>
+              <journal_title>Journal of Atmospheric and Solar-Terrestrial Physics</journal_title>
+              <volume>69</volume>
+              <first_page>191</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0021|jgra54322-cit-0021">
+              <author>Lu</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1029/2001JA000324</doi>
+              <article_title>Ionospheric response to the interplanetary magnetic field southward turning: Fast onset and slow reconfiguration</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>107</volume>
+              <first_page>1153</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0022|jgra54322-cit-0022">
+              <author>Lu</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1029/2000JA000606</doi>
+              <article_title>An investigation of the influence of data and model inputs on assimilative mapping of ionospheric electrodynamics</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>106</volume>
+              <first_page>417</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0023|jgra54322-cit-0023">
+              <author>Luhr</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2003GL019314</doi>
+              <article_title>Thermospheric up-welling in the cusp region: Evidence from CHAMP observations</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>31</volume>
+              <first_page>L06805</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0024|jgra54322-cit-0024">
+              <author>Lundberg</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2011GL050018</doi>
+              <article_title>Multipayload measurement of transverse velocity shears in the topside ionosphere</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>39</volume>
+              <first_page>L01107</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0025|jgra54322-cit-0025">
+              <author>Lynch</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2012JA017691</doi>
+              <article_title>Structure and dynamics of the nightside poleward boundary: Sounding rocket and ground-based observations of auroral electron precipitation in a rayed curtain</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>117</volume>
+              <first_page>A11202</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0026|jgra54322-cit-0026">
+              <author>Lynch</author>
+              <cYear>2015</cYear>
+              <article_title>MICA sounding rocket observations of conductivity-gradient-generated auroral ionospheric responses: Small-scale structure with large-scale drivers</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>9661</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0027|jgra54322-cit-0027">
+              <author>Lyons</author>
+              <cYear>2016</cYear>
+              <article_title>Unsolved problems: Mesoscale polar cap flow channels' structure, propagation, and effects on space weather disturbances</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>3347</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0028|jgra54322-cit-0028">
+              <author>Lysak</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1029/1999JA900024</doi>
+              <article_title>Propagation of Alfvén waves through the ionosphere: Dependence on ionospheric parameters</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>104</volume>
+              <first_page>10,017</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0029|jgra54322-cit-0029">
+              <author>Lysak</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2004JA010454</doi>
+              <article_title>Magnetosphere-ionosphere coupling by Alfvén waves at midlatitudes</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>109</volume>
+              <first_page>A07201</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0030|jgra54322-cit-0030">
+              <author>Lysak</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1029/95JA03712</doi>
+              <article_title>On the kinetic dispersion relation for shear Alfvén waves</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>101</volume>
+              <issue>A3</issue>
+              <first_page>5085</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0031|jgra54322-cit-0031">
+              <author>Lysak</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1016/j.asr.2005.08.038</doi>
+              <article_title>Magnetosphere-ionosphere coupling by Alfvén waves: Beyond current continuity</article_title>
+              <journal_title>Advances in Space Research</journal_title>
+              <volume>38</volume>
+              <issue>8</issue>
+              <first_page>1713</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0032|jgra54322-cit-0032">
+              <author>Lysak</author>
+              <cYear>2015</cYear>
+              <article_title>Propagation of Pi2 pulsations in a dipole model of the magnetosphere</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>355</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0033|jgra54322-cit-0033">
+              <author>Lysak</author>
+              <cYear>2013</cYear>
+              <article_title>Modeling of the ionospheric Alfvén resonator in dipolar geometry</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>118</volume>
+              <first_page>1514</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0034|jgra54322-cit-0034">
+              <author>Mannucci</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.5194/amt-8-2789-2015</doi>
+              <article_title>Use of radio occultation to probe the high-latitude ionosphere</article_title>
+              <journal_title>Atmospheric Measurement Techniques</journal_title>
+              <volume>8</volume>
+              <first_page>2789</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0035|jgra54322-cit-0035">
+              <author>McGranaghan</author>
+              <cYear>2017</cYear>
+              <article_title>A comprehensive analysis of multi-scale field aligned currents: Characteristics, controlling parameters, and relationships</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>122</volume>
+              <first_page>11,931</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0036|jgra54322-cit-0036">
+              <author>Merkin</author>
+              <cYear>2013</cYear>
+              <article_title>Global evolution of Birkeland currents on 10 min timescales: MHD simulations and observations</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>4977</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0037|jgra54322-cit-0037">
+              <author>Miles</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1002/2017GL076051</doi>
+              <article_title>Alfvénic dynamics and fine structuring of discrete auroral arcs: Swarm and e-POP observations</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>45</volume>
+              <first_page>545</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0038|jgra54322-cit-0038">
+              <author>Nagatsuma</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1029/96JA01797</doi>
+              <article_title>Field-aligned currents associated with Alfvén waves in the poleward boundary region of the nightside auroral oval</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>101</volume>
+              <first_page>21,715</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0039|jgra54322-cit-0039">
+              <author>Newell</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1029/2009JA014326</doi>
+              <article_title>Diffuse, monoenergetic, and broadband aurora: The global precipitation budget</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>114</volume>
+              <first_page>A09207</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0040|jgra54322-cit-0040">
+              <author>Pakhotin</author>
+              <cYear>2018</cYear>
+              <article_title>Diagnosing the role of Alfvén waves in magnetosphere-ionosphere coupling: Swarm observations of large amplitude nonstationary magnetic perturbations during an interval of northward IMF</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>123</volume>
+              <first_page>326</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0041|jgra54322-cit-0041">
+              <author>Park</author>
+              <cYear>2017</cYear>
+              <article_title>Alfvén waves in the auroral region, their Poynting flux, and reflection coefficient as estimated from Swarm observations</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>122</volume>
+              <first_page>2345</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0042|jgra54322-cit-0042">
+              <author>Picone</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1029/2002JA009430</doi>
+              <article_title>NRLMSISE-00 empirical model of the atmosphere: Statisticalcomparisons and scientific issues</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>107</volume>
+              <issue>A12</issue>
+              <first_page>1468</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0043|jgra54322-cit-0043">
+              <author>Rees</author>
+              <cYear>1989</cYear>
+              <doi provider="crossref">10.1017/CBO9780511573118</doi>
+              <volume_title>Physics and chemistry of the upper atmosphere</volume_title>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0044|jgra54322-cit-0044">
+              <author>Richmond</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2010JA015768</doi>
+              <article_title>On the ionospheric application of Poynting's theorem</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>115</volume>
+              <first_page>A10311</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0045|jgra54322-cit-0045">
+              <author>Ridley</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2006.01.008</doi>
+              <article_title>The global ionosphere thermosphere model</article_title>
+              <journal_title>Journal of Atmospheric and Solar-Terrestrial Physics</journal_title>
+              <volume>68</volume>
+              <first_page>839</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0046|jgra54322-cit-0046">
+              <author>Ridley</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1029/97JA03328</doi>
+              <article_title>A statistical study of the ionospheric convection response to changing interplanetary magnetic field conditions using the assimilative mapping of ionospheric electrodynamics technique</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>103</volume>
+              <first_page>4023</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0047|jgra54322-cit-0047">
+              <author>Schunk</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1017/CBO9780511635342</doi>
+              <volume_title>Ionospheres: Physics, plasma physics and chemistry</volume_title>
+              <edition_number>2</edition_number>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0048|jgra54322-cit-0048">
+              <author>Semeter</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2009JA014931</doi>
+              <article_title>Composite imaging of auroral forms and convective flows during a substorm cycle</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>115</volume>
+              <first_page>A08308</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0050|jgra54322-cit-0050">
+              <author>Stasiewicz</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1023/A:1005207202143</doi>
+              <article_title>Small scale Alfvénic structure in the aurora</article_title>
+              <journal_title>Space Science Reviews</journal_title>
+              <volume>92</volume>
+              <first_page>423</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0051|jgra54322-cit-0051">
+              <author>Stix</author>
+              <cYear>1992</cYear>
+              <volume_title>Waves in plasmas</volume_title>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0052|jgra54322-cit-0052">
+              <author>Thayer</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2004.01.035</doi>
+              <article_title>The convergence of magnetospheric energy flux in the polar atmosphere</article_title>
+              <journal_title>Journal of Atmospheric and Solar-Terrestrial Physics</journal_title>
+              <volume>66</volume>
+              <first_page>807</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0053|jgra54322-cit-0053">
+              <author>Thayer</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1029/95JA01159</doi>
+              <article_title>Interpretation and modeling of the high-latitude electromagnetic energy flux</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>100</volume>
+              <issue>A10</issue>
+              <first_page>19,715</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0054|jgra54322-cit-0054">
+              <author>Verkhoglyadova</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2017SW001650</doi>
+              <article_title>Ionosphere thermosphere energy budgets for the ICME storms of March 2013 and 2015 estimated with GITM and observational proxies</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>15</volume>
+              <first_page>1102</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0055|jgra54322-cit-0055">
+              <author>Weimer</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1029/2004JA010884</doi>
+              <article_title>Improved ionospheric electrodynamic models and application to calculating Joule heating rates</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>110</volume>
+              <first_page>A05306</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0056|jgra54322-cit-0056">
+              <author>Yoshikawa</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2011JA016460</doi>
+              <article_title>A self-consistent synthesis description of magnetosphere-ionosphere coupling and scale dependent auroral process using shear Alfvén wave</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>116</volume>
+              <first_page>A08218</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0057|jgra54322-cit-0057">
+              <author>Yoshikawa</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2009JA014924</doi>
+              <article_title>Alfvénic-coupling algorithm for global and dynamical magnetosphere-ionosphere coupled system</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>115</volume>
+              <first_page>A04211</first_page>
+            </citation>
+            <citation key="10.1029/2017JA025097-BIB0058|jgra54322-cit-0058">
+              <author>Zhang</author>
+              <cYear>2015</cYear>
+              <article_title>Pathways of F region thermospheric mass density enhancement via soft electron precipitation</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>5824</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

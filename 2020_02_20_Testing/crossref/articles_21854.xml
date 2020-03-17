@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-01-16 05:21:22">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>18</volume>
+          </journal_volume>
+          <issue>14</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Ice cloud microphysical trends observed by the Atmospheric Infrared Sounder</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Brian H.</given_name>
+              <surname>Kahn</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hanii</given_name>
+              <surname>Takahashi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Graeme L.</given_name>
+              <surname>Stephens</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Qing</given_name>
+              <surname>Yue</surname>
+              <ORCID>https://orcid.org/0000-0002-3559-6508</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Julien</given_name>
+              <surname>Delanoë</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gerald</given_name>
+              <surname>Manipon</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Evan M.</given_name>
+              <surname>Manning</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew J.</given_name>
+              <surname>Heymsfield</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We use the Atmospheric Infrared Sounder (AIRS) version 6 ice cloud property
+and thermodynamic phase retrievals to quantify variability and 14-year trends
+in ice cloud frequency, ice cloud top temperature (<span class="inline-formula"><i>T</i><sub>ci</sub></span>), ice
+optical thickness (<span class="inline-formula"><i>τ</i><sub>i</sub></span>) and ice effective radius
+(<span class="inline-formula"><i>r</i><sub>ei</sub></span>). The trends in ice cloud properties are shown to be
+independent of trends in information content and <span class="inline-formula"><i>χ</i><sup>2</sup></span>. Statistically
+significant decreases in ice frequency, <span class="inline-formula"><i>τ</i><sub>i</sub></span>, and ice water path
+(IWP) are found in the SH and NH extratropics, but trends are of much smaller
+magnitude and statistically insignificant in the tropics. However,
+statistically significant increases in <span class="inline-formula"><i>r</i><sub>ei</sub></span> are found in all three
+latitude bands. Perturbation experiments consistent with estimates of AIRS
+radiometric stability fall significantly short of explaining the observed
+trends in ice properties, averaging kernels, and <span class="inline-formula"><i>χ</i><sup>2</sup></span> trends. Values of
+<span class="inline-formula"><i>r</i><sub>ei</sub></span> are larger at the tops of opaque clouds and exhibit
+dependence on surface wind speed, column water vapour (CWV) and surface
+temperature (<span class="inline-formula"><i>T</i><sub>sfc</sub></span>) with changes up to 4–5<span class="thinspace"></span><span class="inline-formula">µ</span>m but are only 1.9<span class="thinspace"></span>%
+of all ice clouds. Non-opaque clouds exhibit a much smaller change in
+<span class="inline-formula"><i>r</i><sub>ei</sub></span> with respect to CWV and <span class="inline-formula"><i>T</i><sub>sfc</sub></span>. Comparisons between DARDAR
+and AIRS suggest that <span class="inline-formula"><i>r</i><sub>ei</sub></span> is smallest for single-layer cirrus,
+larger for cirrus above weak convection, and largest for cirrus above strong
+convection at the same cloud top temperature. This behaviour is consistent
+with enhanced particle growth from radiative cooling above convection or
+large particle lofting from strong convection.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>26</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>10715</first_page>
+            <last_page>10739</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5067/MEASURES/WVCC/DATA201</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5067/AQUA/AIRS/DATA201</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-18-10715-2018</doi>
+            <resource>https://www.atmos-chem-phys.net/18/10715/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/18/10715/2018/acp-18-10715-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/JCLI3519.1</doi>
+              <unstructured_citation>Back, L. E. and Bretherton, C. S.: The relationship between wind speed and
+precipitation in the Pacific ITCZ, J. Climate, 18, 4317–4328, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/gmd-7-1733-2014</doi>
+              <unstructured_citation>Barahona, D., Molod, A., Bacmeister, J., Nenes, A., Gettelman, A., Morrison,
+H., Phillips, V., and Eichmann, A.: Development of two-moment cloud
+microphysics for liquid and ice within the NASA Goddard Earth Observing
+System Model (GEOS-5), Geosci. Model Dev., 7, 1733–1766,
+https://doi.org/10.5194/gmd-7-1733-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/JAM2473.1</doi>
+              <unstructured_citation>Baum, B. A., Yang, P, Nasiri, S. L., Heidinger, A. K., Heymsfield, A. J., and
+Li, J.: Bulk scattering properties for the remote sensing of ice clouds. Part
+III: High-resolution spectral models from 100 to 3250&amp;amp;thinsp;cm−1, J. Appl.
+Meteorol. Clim., 46, 423–434, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/AMSMONOGRAPHS-D-16-0011.1</doi>
+              <unstructured_citation>Baumgardner, D., Abel, S. J., Axisa, D., Cotton, R., Crosier, J., Field, P.,
+Gurganus, C., Heymsfield, A., Korolev, A., Krämer, M., Lawson, P.,
+McFarquhar, G., Ulanowski, Z., and Um, J.: Cloud ice properties: In situ
+measurement challenges. Ice Formation and Evolution in Clouds and
+Precipitation: Measurement and Modeling Challenges, Meteor. Monogr., 58,
+Amer. Meteor. Soc., https://doi.org/10.1175/AMSMONOGRAPHS-D-16-0011.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1007/s00382-011-1065-6</doi>
+              <unstructured_citation>Bender, F. A. M., Ramanathan, V., and Tselioudis, G.: Changes in
+extratropical storm track cloudiness 1983–2008: Observational support for a
+poleward shift, Clim. Dynam., 38, 2037–2053, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1073/pnas.1601472113</doi>
+              <unstructured_citation>Bony, S., Stevens, B., Coppin, D., Becker, T., Reed, K. A., Voigt, A., and
+Medeiros, B.: Thermodynamic control of anvil cloud amount, P. Natl. Acad.
+Sci. USA, 113, 8927–8932, https://doi.org/10.1073/pnas.1601472113, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/jgrd.50579</doi>
+              <unstructured_citation>Ceccaldi, M., Delanoë, J., Hogan, R. J., Pounder, N. L., Protat, A.,
+and Pelon, J.: From CloudSat-CALIPSO to EarthCare: Evolution of
+the DARDAR cloud classification and its comparison to airborne radar-lidar
+observations, J. Geophys. Res.-Atmos., 118, 7962–7981,
+https://doi.org/10.1002/jgrd.50579, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/JCLI-D-15-0327.1</doi>
+              <unstructured_citation>Ceppi, P., Hartmann, D. L., and Webb, M. J.: Mechanisms of the negative
+shortwave cloud feedback in middle to high latitudes, J. Climate, 29,
+139–157, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/JCLI3553.1</doi>
+              <unstructured_citation>Chang, F. L. and Li, Z.: A near global climatology of single-layer and
+overlapped clouds and their optical properties retrieved from TERRA/MODIS
+data using a new algorithm, J. Climate, 18, 4752–4771, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/2016JD026357</doi>
+              <unstructured_citation>Chang, K.-W., L'Ecuyer, T. S., Kahn, B. H., and Natraj, V.: Information
+content of visible and midinfrared radiances for retrieving tropical ice
+cloud properties, J. Geophys. Res.-Atmos., 122, 4944–4966,
+https://doi.org/10.1002/2016JD026357, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1175/JCLI-D-15-0668.1</doi>
+              <unstructured_citation>Chen, Y.-W., Seiki, T., Kodama, C., Satoh, M., Noda, A. T., and Yamada, Y.:
+High cloud responses to global warming simulated by two different cloud
+microphysics schemes implemented in the Nonhydrostatic Icosahedral
+Atmospheric Model (NICAM), J. Climate, 29, 5949–5964, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1111/j.1467-842X.1980.tb01161.x</doi>
+              <unstructured_citation>Cressie, N.: Relaxing assumptions in the one sample t-test, Australian J.
+Stat., 22, 143–153, 1980. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2007JD009000</doi>
+              <unstructured_citation>Delanoë, J. and Hogan, R. J.: A variational scheme for retrieving ice
+cloud properties from combined radar, lidar, and infrared radiometer, J.
+Geophys. Res., 113, D07204, https://doi.org/10.1029/2007JD009000, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2009JD012346</doi>
+              <unstructured_citation>Delanoë, J. and Hogan, R. J.: Combined CloudSat-CALIPSO-MODIS retrievals
+of the properties of ice clouds, J. Geophys. Res., 115, D00H29,
+https://doi.org/10.1029/2009JD012346, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1002/2013JD020700</doi>
+              <unstructured_citation>Delanoë, J., Heymsfield, A. J., Protat, A., Bansemer, A., and Hogan, R.
+J.: Normalized particle size distribution for remote sensing application, J.
+Geophys. Res.-Atmos., 119, 4204–4227, https://doi.org/10.1002/2013JD020700, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/JAMC-D-12-054.1</doi>
+              <unstructured_citation>Deng, M., Mace, G. G., Wang, Z., and Lawson, R. P.: Evaluation of several
+A-train ice cloud retrieval products with in situ measurements collected
+during the SPARTICUS campaign, J. Appl. Meteorol. Clim., 52, 1014–1030,
+2013. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2010JD014559</doi>
+              <unstructured_citation>Dim, J. R., Murakami, H., Nakajima, T. Y., Nordell, B., Heidinger, A. K.,
+and Takamura, T.: The recent state of the climate: Driving components of
+cloud-type variability, J. Geophys. Res., 116, D11117,
+https://doi.org/10.1029/2010JD014559, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/JCLI-D-16-0050.1</doi>
+              <unstructured_citation>Eidhammer, T., Morrison, H., Mitchell, D., Gettelman, A., and Erfani, E.:
+Improvements in global climate model microphysics using a consistent
+representation of ice particle properties, J. Climate, 30, 609–629, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1073/pnas.1316830110</doi>
+              <unstructured_citation>Fan, J., Leung, L. R., Rosenfeld, D., Chen, Q., Li, Z., Zhang, J., and Yan,
+H.: Microphysical effects determine macrophysical response for aerosol
+impacts on deep convective clouds, P. Natl. Acad. Sci. USA, 110,
+E4581–E4590, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/amt-8-633-2015</doi>
+              <unstructured_citation>Fauchez, T., Dubuisson, P., Cornet, C., Szczap, F., Garnier, A., Pelon, J.,
+and Meyer, K.: Impacts of cloud heterogeneities on cirrus optical properties
+retrieved from space-based thermal infrared radiometry, Atmos. Meas. Tech.,
+8, 633–647, https://doi.org/10.5194/amt-8-633-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Fetzer, E., Wilson, B., and Manipon, G.: AIRS-AMSU variables-CloudSat cloud
+mask, radar reflectivities, and cloud classification matchups V3.2,
+Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services
+Center (GES DISC), https://doi.org/10.5067/MEASURES/WVCC/DATA201, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/JAMC-D-12-0328.1</doi>
+              <unstructured_citation>Garnier, A., Pelon, J., Dubuisson, P.,Yang, P., Faivre, M., Chomette, O.,
+Pascal, N., Lucker, P., and Murray, T.: Retrieval of cloud properties using
+CALIPSO Imaging Infrared Radiometer, Part II: effective diameter and ice
+water path, J. Appl. Meteorol. Clim., 52, 2582–2599,
+https://doi.org/10.1175/JAMC-D-12-0328.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1109/TGRS.2009.2030322</doi>
+              <unstructured_citation>Gentemann, C. L., Meissner, T., and Wentz, F. J.: Accuracy of Satellite Sea
+Surface Temperatures at 7 and 11&amp;amp;thinsp;GHz, IEEE T. Geosci. Remote, 48,
+1009–1018, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2009JD013797</doi>
+              <unstructured_citation>Gettelman, A., Liu, X., Ghan, S. J., Morrison, H., Park, S., Conley, A. J.,
+Klein, S. A., Boyle, J., Mitchell, D. L., and Li, J.-L. F.: Global
+simulations of ice nucleation and ice supersaturation with an improved cloud
+scheme in the Community Atmosphere Model, J. Geophys. Res., 115, D18216,
+https://doi.org/10.1029/2009JD013797, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/JAS-D-14-0307.1</doi>
+              <unstructured_citation>Grabowski, W. W.: Untangling Microphysical Impacts on Deep Convection
+Applying a Novel Modeling Methodology, J. Atmos. Sci., 72, 2446–2464, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/JAMC-D-13-087.1</doi>
+              <unstructured_citation>Heymsfield, A., Winker, D., Avery, M., Vaughan, M., Diskin, G., Deng, M.,
+Mitev, V., and Matthey, R.: Relationships between Ice Water Content and
+Volume Extinction Coefficient from In Situ Observations for Temperatures from
+0∘ to −86&amp;amp;thinsp;∘C: Implications for Spaceborne Lidar
+Retrievals, J. Appl. Meteorol. Clim., 53, 479–505, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/JAS-D-12-0124.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Schmitt, C., and Bansemer, A.: Ice cloud particle size
+distributions and pressure-dependent terminal velocities from in situ
+observations at temperatures from 0∘ to −86&amp;amp;thinsp;∘C, J. Atmos.
+Sci., 70, 4123–4154, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/2007JAMC1635.1</doi>
+              <unstructured_citation>Hilburn, K. A. and Wentz, F. J.: Intercalibrated Passive Microwave Rain
+Products from the Unified Microwave Ocean Retrieval Algorithm (UMORA), J.
+Appl. Meteorol. Clim., 47, 778–794, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1175/JCLI-D-14-00666.1</doi>
+              <unstructured_citation>Hong, Y. and Liu, G.: The characteristics of ice cloud properties derived
+from CloudSat and CALIPSO measurements, J. Climate, 28, 3880–3901, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1109/TGRS.2003.822752</doi>
+              <unstructured_citation>Huang, H.-L., Yang, P., Wei, H., Baum, B. A., Hu, Y., Antonelli, P., and
+Ackerman, S. A.: Inference of ice cloud properties from high spectral
+resolution infrared observations, IEEE T. Geosci. Remote, 42, 842–853, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/amt-11-971-2018</doi>
+              <unstructured_citation>Irion, F. W., Kahn, B. H., Schreier, M. M., Fetzer, E. J., Fishbein, E., Fu,
+D., Kalmus, P., Wilson, R. C., Wong, S., and Yue, Q.: Single-footprint
+retrievals of temperature, water vapor and cloud properties from AIRS, Atmos.
+Meas. Tech., 11, 971–995, https://doi.org/10.5194/amt-11-971-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/acp-11-457-2011</doi>
+              <unstructured_citation>Jiang, J. H., Su, H., Zhai, C., Massie, S. T., Schoeberl, M. R., Colarco, P.
+R., Platnick, S., Gu, Y., and Liou, K.-N.: Influence of convection and
+aerosol pollution on ice cloud particle effective radius, Atmos. Chem. Phys.,
+11, 457–463, https://doi.org/10.5194/acp-11-457-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/JAMC-D-13-0137.1</doi>
+              <unstructured_citation>Jin, H. and Nasiri, S. L.: Evaluation of AIRS cloud-thermodynamic phase
+determination with CALIPSO, J. Appl. Meteorol. Clim., 53, 1012–1027, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-8-1501-2008</doi>
+              <unstructured_citation>Kahn, B. H., Liang, C. K., Eldering, A., Gettelman, A., Yue, Q., and Liou, K.
+N.: Tropical thin cirrus and relative humidity observed by the Atmospheric
+Infrared Sounder, Atmos. Chem. Phys., 8, 1501–1518,
+https://doi.org/10.5194/acp-8-1501-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-14-399-2014</doi>
+              <unstructured_citation>Kahn, B. H., Irion, F. W., Dang, V. T., Manning, E. M., Nasiri, S. L., Naud,
+C. M., Blaisdell, J. M., Schreier, M. M., Yue, Q., Bowman, K. W., Fetzer, E.
+J., Hulley, G. C., Liou, K. N., Lubin, D., Ou, S. C., Susskind, J., Takano,
+Y., Tian, B., and Worden, J. R.: The Atmospheric Infrared Sounder version 6
+cloud products, Atmos. Chem. Phys., 14, 399–426,
+https://doi.org/10.5194/acp-14-399-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1002/2015JD023950</doi>
+              <unstructured_citation>Kahn, B. H., Schreier, M. M., Yue, Q., Fetzer, E. J., Irion, F. W.,
+Platnick, S., Wang, C., Nasiri, S. L., and L'Ecuyer, T. S.: Pixel-scale
+assessment and uncertainty analysis of AIRS and MODIS ice cloud optical
+thickness and effective radius, J. Geophys. Res.-Atmos., 120, 11669–11689,
+2015. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/acp-17-9451-2017</doi>
+              <unstructured_citation>Kahn, B. H., Matheou, G., Yue, Q., Fauchez, T., Fetzer, E. J., Lebsock, M.,
+Martins, J., Schreier, M. M., Suzuki, K., and Teixeira, J.: An A-train and
+MERRA view of cloud, thermodynamic, and dynamic variability within the
+subtropical marine boundary layer, Atmos. Chem. Phys., 17, 9451–9468,
+https://doi.org/10.5194/acp-17-9451-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1007/s40641-017-0060-3</doi>
+              <unstructured_citation>Kärcher, B.: Cirrus clouds and their response to anthropogenic
+activities, Curr. Clim. Change Rep., 3, 45–57,
+https://doi.org/10.1007/s40641-017-0060-3, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1109/TGRS.2012.2227333</doi>
+              <unstructured_citation>King, M. D., Platnick, S., Menzel, W. P., Ackerman, S. A., and Hubanks, P.
+A.: Spatial and temporal distributions of clouds observed by MODIS onboard
+the Terra and Aqua satellites, IEEE T. Geosci. Remote, 51, 3826–3852, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-16-3463-2016</doi>
+              <unstructured_citation>Krämer, M., Rolf, C., Luebke, A., Afchine, A., Spelten, N., Costa, A., Meyer,
+J., Zöger, M., Smith, J., Herman, R. L., Buchholz, B., Ebert, V.,
+Baumgardner, D., Borrmann, S., Klingebiel, M., and Avallone, L.: A
+microphysics guide to cirrus clouds – Part 1: Cirrus types, Atmos. Chem.
+Phys., 16, 3463–3483, https://doi.org/10.5194/acp-16-3463-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/JAM2348.1</doi>
+              <unstructured_citation>Keckhut, P., Borchi, F., Bekki, S., Hauchecorne, A., and Silaouina, M.:
+Cirrus classification at midlatitude from systematic lidar observations, J.
+Appl. Meteorol. Clim., 45, 249–258, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2009JD013017</doi>
+              <unstructured_citation>Lawson, R. P., Jensen, E., Mitchell, D. L., Baker, B., Mo, Q., and Pilson,
+B.: Microphysical and radiative properties of tropical clouds investigated
+in TC4 and NAMMA, J. Geophys. Res., 115, D00J08, https://doi.org/10.1029/2009JD013017,
+2010. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/JTECH-D-15-0246.1</doi>
+              <unstructured_citation>Leroy, D., Fontaine, E., Schwarzenboeck, A., Strapp, J. W., Korolev, A.,
+Mcfarquhar, G., Dupuy, R., Gourbeyre, C., Lilie, L., Protat, A., Delanoe, J.,
+Dezitter, F., and Grandin, A.: Ice crystal sizes in High Ice Water Content
+clouds. Part II: Statistics of mass diameter percentiles in tropical
+convection observed in the HAIC/HIWC project, J. Atmos. Ocean. Tech., 34,
+117–136, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/1520-0477(2001)082&lt;0417:DTEHAA&gt;2.3.CO;2</doi>
+              <unstructured_citation>Lindzen, R. S., Chou, M.-D., and Hou, A. U.: Does the Earth have an adaptive
+infrared iris?, B. Am. Meteorol. Soc., 82, 417–432, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/JCLI4264.1</doi>
+              <unstructured_citation>Liu, X., Penner, J. E., Ghan, S. J., and Wang, M.: Inclusion of ice
+microphysics in the NCAR Community Atmospheric Model Version 3 (CAM3), J.
+Climate, 20, 4526–4547, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2008GL035330</doi>
+              <unstructured_citation>Luo, Z., Liu, G. Y., and Stephens, G. L: CloudSat adding new insight into
+tropical penetrating convection, Geophys. Res. Lett., 35, L19819,
+https://doi.org/10.1029/2008GL035330, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/2007JD009755</doi>
+              <unstructured_citation>Mace, G. G., Zhang, Q., Vaughan, M., Marchand, R., Stephens, G., Trepte, C.,
+and Winker, D.: A description of hydrometeor layer occurrence statistics
+derived from the first year of merged Cloudsat and CALIPSO data, J. Geophys.
+Res., 114, D00A26, https://doi.org/10.1029/2007JD009755, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1175/JCLI-D-16-0399.1</doi>
+              <unstructured_citation>Manaster, A., O'Dell, C., and Elsaesser, G.: Evaluation of Cloud Liquid Water
+Path Trends Using a Multidecadal Record of Passive Microwave Observations, J.
+Climate, 30, 5871–5884, https://doi.org/10.1175/JCLI-D-16-0399.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1117/12.2273398</doi>
+              <unstructured_citation>Manning, E. M. and Aumann, H. H.: Hyperspectral sounder performance for cold
+scenes, Proc. SPIE 10402, Earth Observing Systems XXII, 1040225,
+https://doi.org/10.1117/12.2273398, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1175/JCLI-D-14-00734.1</doi>
+              <unstructured_citation>Marvel, K., Zelinka, M., Klein, S. A., Bonfils, C., Caldwell, P., Doutriaux,
+C., Santer, B. D., and Taylor, K. E.: External influences on modeled and
+observed cloud trends, J. Climate, 28, 4820–4840, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1038/ngeo2414</doi>
+              <unstructured_citation>Mauritsen, T. and Stevens, B.: Missing iris effect as a possible cause of
+muted hydrological change and high climate sensitivity in models, Nat.
+Geosci., 8, 346–351, https://doi.org/10.1038/ngeo2414, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>McFarquhar, G. M. and Heymsfield, A. J.: The definition and significance of
+an effective radius for ice clouds. J. Atmos. Sci., 55, 2039–2052,
+https://doi.org/10.1175/1520-0469(1998)055&amp;amp;lt;2039:TDASOA&amp;amp;gt;2.0.CO;2,
+1998. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1109/TGRS.2011.2144601</doi>
+              <unstructured_citation>Minnis, P., Sun-Mack, S., Young, D. F., Heck, P. W., Garber, D. P., Chen, Y.,
+Spangenberg, D. A., Arduini, R. F., Trepte, Q. Z., Smith, W. L., Ayers, J.
+K., Gibson, S. C., Miller, W. F., Hong, G., Chakrapani, V., Takano, Y., Liou,
+K.-N., Xie, Y., and Yang, P.: CERES edition-2 cloud property retrievals using
+TRMM VIRS and Terra and Aqua MODIS data, Part I: Algorithms. IEEE T. Geosci.
+Remote, 49, 4374–4400, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1029/2008GL033552</doi>
+              <unstructured_citation>Mitchell, D. L., Rasch, P., Ivanova, D., McFarquhar, G., and Nousiainen, T.:
+Impact of small ice crystal assumptions on ice sedimentation rates in cirrus
+clouds and GCM simulations, Geophys. Res. Lett., 35, L09806,
+https://doi.org/10.1029/2008GL033552, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-11-10503-2011</doi>
+              <unstructured_citation>Morrison, H. and Grabowski, W. W.: Cloud-system resolving model simulations
+of aerosol indirect effects on tropical deep convection and its thermodynamic
+environment, Atmos. Chem. Phys., 11, 10503–10523,
+https://doi.org/10.5194/acp-11-10503-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1175/2010JAMC2603.1</doi>
+              <unstructured_citation>Nasiri, S. L., Dang, V. T., Kahn, B. H., Fetzer, E. J., Manning, E. M.,
+Schreier, M. M., and Frey, R. A.: Comparing MODIS and AIRS infrared-based
+cloud retrievals, J. Appl. Meteorol. Clim., 50, 1057–1072,
+https://doi.org/10.1175/2010JAMC2603.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1038/nature18273</doi>
+              <unstructured_citation>Norris, J. R., Allen, R. J., Evan, A. T., Zelinka, M. D., O'Dell, C. W., and
+Klein, S. A.: Evidence for climate change in the satellite cloud record,
+Nature, 536, 72–75, https://doi.org/10.1038/nature18273, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1117/12.977309</doi>
+              <unstructured_citation>Pagano, T. S., Broberg, S., Aumann, H. H., Elliott, D., Manning, E., and
+Strow, L.: Performance status of the Atmospheric Infrared Sounder ten years
+after launch, Proc. SPIE 8527, Multispectral, Hyperspectral, and
+Ultraspectral Remote Sensing Technology, Techniques and Applications IV,
+852703, https://doi.org/10.1117/12.977309, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1175/JAS3869.1</doi>
+              <unstructured_citation>Phillips, V. T. J., Donner, L. J., and Garner, S. T.: Nucleation processes
+in deep convection simulated by a cloud-system-resolving model with
+double-moment bulk microphysics, J. Atmos. Sci., 64, 738–761, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1109/TGRS.2016.2610522</doi>
+              <unstructured_citation>Platnick, S., Meyer, K. G., King, M. D., Wind, G., Amarasinghe, N., Marchant,
+B., Arnold, G. T., Zhang, Z., Hubanks, P. A., Holz, R. E., Yang, P., Ridgway,
+W. L., and Riedi, J.: The MODIS cloud optical and microphysical products:
+Collection 6 updates and examples from Terra and Aqua, IEEE T. Geosci.
+Remote, 55, 502–525, https://doi.org/10.1109/TGRS.2016.2610522, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1029/2008JD010832</doi>
+              <unstructured_citation>Posselt, D., L'Ecuyer, T. S., and Stephens, G. L.: Exploring the error
+characteristics of thin ice cloud property retrievals using a Markov chain
+Monte Carlo algorithm, J. Geophys. Res., 113, D24206,
+https://doi.org/10.1029/2008JD010832, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/acp-11-8363-2011</doi>
+              <unstructured_citation>Protat, A., Delanoë, J., May, P. T., Haynes, J., Jakob, C., O'Connor, E.,
+Pope, M., and Wheeler, M. C.: The variability of tropical ice cloud
+properties as a function of the large-scale context from ground-based
+radar-lidar observations over Darwin, Australia, Atmos. Chem. Phys., 11,
+8363–8384, https://doi.org/10.5194/acp-11-8363-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/acp-17-3845-2017</doi>
+              <unstructured_citation>Protopapadaki, S. E., Stubenrauch, C. J., and Feofilov, A. G.: Upper
+tropospheric cloud systems derived from IR sounders: properties of cirrus
+anvils in the tropics, Atmos. Chem. Phys., 17, 3845–3859,
+https://doi.org/10.5194/acp-17-3845-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1126/science.1160606</doi>
+              <unstructured_citation>Rosenfeld, D., Lohmann, U., Raga, G. B., and Coauthors: Flood or drought: How
+do aerosols affect precipitation?, Science, 321, 1309–1313,
+https://doi.org/10.1126/science.1160606, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1109/LGRS.2016.2631725</doi>
+              <unstructured_citation>Rysman, J.-F., Claud, C., and Delanoë, J: Monitoring deep convection and
+convective overshooting from 60∘&amp;amp;thinsp;S to 60∘&amp;amp;thinsp;N using MHS: A
+CloudSat/CALIPSO-based assessment, IEEE Geosci. Remote Sens., 14, 159–163,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1007/s00382-007-0280-7</doi>
+              <unstructured_citation>Sanderson, B. M., Piani, C., Ingram, W. J., Stone, D. A., and Allen, M. R.:
+Towards constraining climate sensitivity by linear analysis of feedback
+patterns in thousands of perturbed-physics GCM simulations, Clim. Dynam., 30,
+175–190, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1029/1999JD901105</doi>
+              <unstructured_citation>Santer, B. D., Wigley, T. M. L., Boyle, J. S., Gaffen, D. J., Hnilo, J. J.,
+Nychka, D., Parker, D. E., and Taylor, K. E.: Statistical significance of
+trends and trend differences in layer-average atmospheric temperature time
+series, J. Geophys. Res., 105, 7337–7356, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1175/2009JAS2948.1</doi>
+              <unstructured_citation>Satoh, M. and Matsuda, Y.: Statistics on high-cloud areas and their
+sensitivities to cloud microphysics using single-cloud experiments, J. Atmos.
+Sci., 66, 2659–2677, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1175/1520-0442(2002)015&lt;1051:AAIPSI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Sherwood, S. C.: Aerosols and ice particle size in tropical cumulonimbus, J.
+Climate, 15, 1051–1063, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.5194/acp-17-9599-2017</doi>
+              <unstructured_citation>Stanford, M. W., Varble, A., Zipser, E., Strapp, J. W., Leroy, D.,
+Schwarzenboeck, A., Potts, R., and Protat, A.: A ubiquitous ice size bias in
+simulations of tropical deep convection, Atmos. Chem. Phys., 17, 9599–9621,
+https://doi.org/10.5194/acp-17-9599-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1175/1520-0469(1983)040&lt;1729:TIORTO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Stephens, G. L.: The influence of radiative transfer on the mass and heat
+budgets of ice crystals falling in the atmosphere, J. Atmos. Sci., 40,
+1729–1739, 1983. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1029/2018GL077598</doi>
+              <unstructured_citation>Stephens, G. L., Hakuba, M. Z., Webb, M., Lebsock, M., Yue, Q., Kahn, B. H.,
+Hristova-Veleva, S., Rapp, A., Stubenrauch, C., Elsasser, G., and Slingo, J.:
+Regional intensification of the tropical hydrological cycle during ENSO,
+Geophys. Res. Lett., 45, 4361–4370, https://doi.org/10.1029/2018GL077598, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1175/BAMS-D-12-00117.1</doi>
+              <unstructured_citation>Stubenrauch, C., Rossow, W. B., Kinne, S., and Coauthors: Assessment of
+global cloud datasets from satellites: Project and database initiated by the
+GEWEX Radiation Panel, B. Am. Meteorol. Soc., 94, 1031–1049,
+https://doi.org/10.1175/BAMS-D-12-00117.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1038/ncomms15771</doi>
+              <unstructured_citation>Su, H., Jiang, J. H., Neelin, J. D., and Coauthors: Tightening of tropical
+ascent and high clouds key to precipitation change in a warmer climate, Nat.
+Commun., 8, 15771, https://doi.org/10.1038/ncomms15771, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1029/2012GL052638</doi>
+              <unstructured_citation>Takahashi, H. and Luo, Z.: Where is the level of neutral buoyancy for deep
+convection?, Geophys. Res. Lett., 39, L15809, https://doi.org/10.1029/2012GL052638,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1002/2013JD020972</doi>
+              <unstructured_citation>Takahashi, H. and Luo, Z. J.: Characterizing tropical overshooting deep
+convection from joint analysis of CloudSat and geostationary satellite
+observations, J. Geophys. Res.-Atmos., 119, 112–121, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1002/2016JD025969</doi>
+              <unstructured_citation>Takahashi, H., Luo, Z. J., and Stephens, G. L.: Level of neutral buoyancy,
+deep convective outflow, and convective core: New perspectives based on 5
+years of CloudSat data, J. Geophys. Res.-Atmos, 122, 2958–2969,
+https://doi.org/10.1002/2016JD025969, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Teixeira, J.: AIRS/Aqua L2 Standard Physical Retrieval (AIRS+AMSU) V006,
+Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services
+Center (GES DISC), https://doi.org/10.5067/AQUA/AIRS/DATA201, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1002/2014JD022385</doi>
+              <unstructured_citation>van Diedenhoven, B., Fridlind, A. M., Cairns, B., and Ackerman, A. S.:
+Variation of ice crystal size, shape, and asymmetry parameter in tops of
+tropical deep convective clouds, J. Geophys. Res.-Atmos., 119, 11809–11825,
+2014. </unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1002/2016GL068548</doi>
+              <unstructured_citation>van Diedenhoven, B., Fridlind, A. M., Cairns, B., Ackerman, A. S., and Yorks,
+J. E.: Vertical variation of ice particle size in convective cloud tops,
+Geophys. Res. Lett., 43, 4586–4593, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1175/JAS-D-12-0104.1</doi>
+              <unstructured_citation>Van Weverberg, K., Vogelmann, A. M., Lin, W., Luke, E. P., Cialella, A.,
+Minnis, P., Khaiyer, M., Boer, E. R., and Jensen, M. P.: The role of cloud
+microphysics parameterization in the simulation of mesoscale convective
+system clouds and precipitation in the tropical western Pacific, J. Atmos.
+Sci., 70, 1104–1128, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1002/2015JD024526</doi>
+              <unstructured_citation>Wang, C., Platnick, S., Zhang, Z., Meyer, K., and Yang, P: Retrieval of ice
+cloud properties using an optimal estimation algorithm and MODIS infrared
+observations: 1. Forward model, error analysis, and information content, J.
+Geophys. Res.-Atmos., 121, 5809–5826, https://doi.org/10.1002/2015JD024526, 2016.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Wentz, F. J., Meissner, T., Gentemann, C., and Brewer, M.: Remote Sensing
+Systems AQUA AMSR-E Daily Environmental Suite on 0.25 deg grid, Version
+V7, Remote Sensing Systems, Santa Rosa, CA, available
+at: http://remss.com/missions/amsr (last access: 16 May 2017), 2014a. </unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Wentz, F. J., Meissner, T., Gentemann, C., Hilburn, K. A., and Scott, J.:
+Remote Sensing Systems GCOM-W1 AMSR2 Daily Environmental Suite on 0.25 deg
+grid, Version V7.2, Remote Sensing Systems, Santa Rosa, CA, available at:
+http://remss.com/missions/amsr, 2014b. </unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1175/2010BAMS3009.1</doi>
+              <unstructured_citation>Winker, D. M., Pelon, J., Coakley, J. A., Ackerman, S. A., Charlson, R. J.,
+Colarco, P. R., Flamant, P., Fu, Q., Hoff, R. M., Kittaka, C., Kubar, T. L.,
+Le Treut, H., McCormick, M. P., Megie, E., Poole, L., Powell, K., Trepte, C.,
+Vaughan, M. A., and Wielicki, B. A.: The CALIPSO mission. A global 3D view of
+aerosols and clouds, B. Am. Meteorol. Soc., 91, 1211–1229, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1175/JCLI3461.1</doi>
+              <unstructured_citation>Wylie, D., Jackson, D. L., Menzel, W. P., and Bates, J. J.: Trends in global
+cloud cover in two decades of HIRS observations, J. Climate, 18, 3021–3031,
+2005. </unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1175/2009JCLI3136.1</doi>
+              <unstructured_citation>Yuan, T. and Li, Z.: General macro- and microphysical properties of deep
+convective clouds as observed by MODIS, J. Climate, 23, 3457–3473, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1002/2016JD025174</doi>
+              <unstructured_citation>Yue, Q., Kahn, B. H., Fetzer, E. J., Wong, S., Frey, R., and Meyer, K. G.:
+On the response of MODIS cloud coverage to global mean surface air
+temperature, J. Geophys. Res.-Atmos., 122, 966–979,
+https://doi.org/10.1002/2016JD025174, 2017a. </unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Yue, Q., Lambrigtsen, B., Behrangi, A., and Coauthors: AIRS V6 Test Report
+Supplement: Performance of AIRS+AMSU vs. AIRS-only retrievals: Analysis of
+the impact of the loss of AMSU-A2, 104 pp., 2017b. </unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1175/JCLI-D-12-00555.1</doi>
+              <unstructured_citation>Zelinka, M. D., Klein, S. A., Taylor, K. E., Andrews, T., Webb, M. J.,
+Gregory, J. M., and Forster, P.: Contributions of different cloud types to
+feedbacks and rapid adjustments in CMIP5, J. Climate, 26, 5007–5027,
+https://doi.org/10.1175/JCLI-D-12-00555.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Zhang, Z., Platnick, S., Yang, P., Heidinger, A. K., and Comstock, J. M.:
+Effects of ice particle size vertical inhomogeneity on the passive remote
+sensing of ice clouds, J. Geophys. Res., 115, D17203,
+https://doi.org/10.1029/2010JD013835, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1109/TGRS.2016.2538723</doi>
+              <unstructured_citation>Zhao, G., Di Girolamo, L., Diner, D. J., Bruegge, C. J., Mueller, K. J., and
+Wu, D. L.: Regional changes in Earth's color and texture as observed from
+space over a 15-year period, IEEE T. Geosci. Remote, 54, 4240–4249, 2016. </unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-02-08 10:06:32">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>6</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Atmospheric River Tracking Method Intercomparison Project (ARTMIP): project goals and experimental design</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Christine A.</given_name>
+              <surname>Shields</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jonathan J.</given_name>
+              <surname>Rutz</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lai-Yung</given_name>
+              <surname>Leung</surname>
+              <ORCID>https://orcid.org/0000-0002-3221-9467</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>F. Martin</given_name>
+              <surname>Ralph</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michael</given_name>
+              <surname>Wehner</surname>
+              <ORCID>https://orcid.org/0000-0001-5991-0082</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian</given_name>
+              <surname>Kawzenuk</surname>
+              <ORCID>https://orcid.org/0000-0003-1194-4296</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Juan M.</given_name>
+              <surname>Lora</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Elizabeth</given_name>
+              <surname>McClenny</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tashiana</given_name>
+              <surname>Osborne</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ashley E.</given_name>
+              <surname>Payne</surname>
+              <ORCID>https://orcid.org/0000-0003-3967-7994</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Paul</given_name>
+              <surname>Ullrich</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alexander</given_name>
+              <surname>Gershunov</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Naomi</given_name>
+              <surname>Goldenson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bin</given_name>
+              <surname>Guan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yun</given_name>
+              <surname>Qian</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alexandre M.</given_name>
+              <surname>Ramos</surname>
+              <ORCID>https://orcid.org/0000-0003-3129-7233</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chandan</given_name>
+              <surname>Sarangi</surname>
+              <ORCID>https://orcid.org/0000-0002-4850-5118</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Scott</given_name>
+              <surname>Sellars</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Irina</given_name>
+              <surname>Gorodetskaya</surname>
+              <ORCID>https://orcid.org/0000-0002-2294-7823</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Karthik</given_name>
+              <surname>Kashinath</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Vitaliy</given_name>
+              <surname>Kurlin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kelly</given_name>
+              <surname>Mahoney</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Grzegorz</given_name>
+              <surname>Muszynski</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roger</given_name>
+              <surname>Pierce</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Aneesh C.</given_name>
+              <surname>Subramanian</surname>
+              <ORCID>https://orcid.org/0000-0001-7805-0102</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ricardo</given_name>
+              <surname>Tome</surname>
+              <ORCID>https://orcid.org/0000-0003-0657-7057</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Duane</given_name>
+              <surname>Waliser</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel</given_name>
+              <surname>Walton</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gary</given_name>
+              <surname>Wick</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Anna</given_name>
+              <surname>Wilson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David</given_name>
+              <surname>Lavers</surname>
+              <ORCID>https://orcid.org/0000-0002-7947-3737</ORCID>
+            </person_name>
+            <organization sequence="additional" contributor_role="author">Prabhat</organization>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Allison</given_name>
+              <surname>Collow</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Harinarayan</given_name>
+              <surname>Krishnan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gudrun</given_name>
+              <surname>Magnusdottir</surname>
+              <ORCID>https://orcid.org/0000-0001-6079-5886</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Phu</given_name>
+              <surname>Nguyen</surname>
+              <ORCID>https://orcid.org/0000-0002-9055-2583</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Atmospheric River Tracking Method Intercomparison Project
+(ARTMIP) is an international collaborative effort to understand and quantify
+the uncertainties in atmospheric river (AR) science based on detection
+algorithm alone. Currently, there are many AR identification and tracking
+algorithms in the literature with a wide range of techniques and conclusions.
+ARTMIP strives to provide the community with information on different
+methodologies and provide guidance on the most appropriate algorithm for a
+given science question or region of interest. All ARTMIP participants will
+implement their detection algorithms on a specified common dataset for a
+defined period of time. The project is divided into two phases: Tier 1 will
+utilize the Modern-Era Retrospective analysis for Research and Applications,
+version 2 (MERRA-2) reanalysis from January 1980 to June 2017 and will be
+used as a baseline for all subsequent comparisons. Participation in Tier 1 is
+required. Tier 2 will be optional and include sensitivity studies designed
+around specific science questions, such as reanalysis uncertainty and climate
+change. High-resolution reanalysis and/or model output will be used wherever
+possible. Proposed metrics include AR frequency, duration, intensity, and
+precipitation attributable to ARs. Here, we present the ARTMIP experimental
+design, timeline, project requirements, and a brief description of the
+variety of methodologies in the current literature. We also present results
+from our 1-month “proof-of-concept” trial run designed to illustrate the
+utility and feasibility of the ARTMIP project.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>20</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>2455</first_page>
+            <last_page>2474</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5065/D62R3QFS</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-11-2455-2018</doi>
+            <resource>https://www.geosci-model-dev.net/11/2455/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/11/2455/2018/gmd-11-2455-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>American Meteorological Society: Atmospheric River, Glossary of
+Meteorology, available at:
+http://glossary.ametsoc.org/wiki/atmospheric river (last access: 15 June 2018), 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/2017GL074434</doi>
+              <unstructured_citation>Baggett, C. F., Barnes, E. A., Maloney, E. D., and Mundhenk, B. D.: Advancing
+atmospheric river forecasts into subseasonal-to-seasonal time scales,
+Geophys. Res. Lett., 44, 7528–7536, https://doi.org/10.1002/2017gl074434,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/JCLI-D-12-00536.1</doi>
+              <unstructured_citation>Barnes, E. A. and Polvani, L.: Response of the midlatitude jets, and of their
+variability, to increased greenhouse gases in the CMIP5 models, J.
+Climate, 26, 7117–7135, https://doi.org/10.1175/jcli-d-12-00536.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1002/2014JD022602</doi>
+              <unstructured_citation>Bonne, J., Steen-Larsen, H. C., Risi, C., Werner, M., Sodemann, H., Lacour,
+J. Fettweis, X., Cesana, G., Delmotte, M., Cattani, O., Vallelonga, P.,
+Kjær, H. A., Clerbaux, C., Sveinbjörnsdóttir, A. E., and
+Masson-Delmotte, V.: The summer 2012 Greenland heat wave: In situ and remote
+sensing observations of water vapor isotopic composition during an
+atmospheric river event, J. Geophys. Res.-Atmos., 120, 2970–2989,
+https://doi.org/10.1002/2014JD022602, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1002/qj.776</doi>
+              <unstructured_citation>Compo, G. P., Whitaker, J. S., Sardeshmukh, P. D., Matsui, N., Allan, R. J.,
+Yin, X., Gleason, B. E., Vose, R. S., Rutledge, G., Bessemoulin, P.,
+Brönnimann, S. Brunet, M., Crouthamel, R. I., Grant, A. N., Groisman, P.
+Y., Jones, P. D., Kruk, M., Kruger, A. C., Marshall, G. J., Maugeri, M., Mok,
+H. Y., Nordli, Ø., Ross, T. F., Trigo, R. M., Wang, X. L., Woodruff, S.
+D., and Worley, S. J.: The Twentieth Century Reanalysis Project, Q. J. Roy.
+Meteor. Soc., 137, 1–28, https://doi.org/10.1002/qj.776, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/MWR-D-13-00019.1</doi>
+              <unstructured_citation>Cordeira, J. M., Ralph, F. M., and Moore, B. J.: The development and
+evolution of two atmospheric rivers in proximity to Western North Pacific
+tropical cyclones in October 2010, Mon. Weather Rev., 141, 4234–4255,
+https://doi.org/10.1175/mwr-d-13-00019.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/BAMS-D-14-00031.1</doi>
+              <unstructured_citation>Dacre, H. F., Clark, P. A., Martinez-Alvarado, O., Stringer, M. A., and
+Lavers, D. A.: How do atmospheric rivers form?, B. Am. Meteorol. Soc., 96,
+1243–1255, https://doi.org/10.1175/bams-d-14-00031.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P.,
+Kobayashi, S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P.,
+Bechtold, P., Beljaars, A. C. M., van de Berg, L., Bidlot, J., Bormann, N.,
+Delsol, C., Dragani, R., Fuentes, M., Geer, A. J., Haimberger, L., Healy, S.
+B., Hersbach, H., Hólm, E. V., Isaksen, L., Kållberg, P., Köhler,
+M., Matricardi, M., McNally, A. P., Monge-Sanz, B. M., Morcrette, J.-J.,
+Park, B.-K., Peubey, C., de Rosnay, P., Tavolato, C., Thépaut, J.-N., and
+Vitart, F.: The ERA-Interim reanalysis: configuration and performance of the
+data assimilation system, Q. J. Roy. Meteor. Soc., 137, 553–597,
+https://doi.org/10.1002/qj.828, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/JHM-D-17-0135.1</doi>
+              <unstructured_citation>DeFlorio, M., Waliser, D. E., Guan, B., Lavers, D., Ralph, F. M., and Vitart,
+F.: Global Assessment of Atmospheric River Prediction Skill, J. Hydrometeor.,
+19, 409–426, https://doi.org/10.1175/JHM-D-17-0135.1, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1175/JCLI-D-11-00316.1</doi>
+              <unstructured_citation>Delworth, T. L., Rosati, A., Anderson, W., Adcroft, A. J., Balaji, V.,
+Benson, R., Dixon, K., Griffies, S. M., Lee, H.-C., Pacanowski, R. C.,
+Vecchi, G. A., Wittenberg, A. T., Zeng, F., and Zhang, R.: Simulated climate
+and climate change in the GFDL CM2.5 high-resolution coupled climate model,
+J. Climate, 25, 2755–2781, https://doi.org/10.1175/jcli-d-11-00316.1, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1175/JHM-D-13-02.1</doi>
+              <unstructured_citation>Dettinger, M. D.: Atmospheric rivers as drought busters on the U.S. West
+Coast, J. Hydrometeor., 14, 1721–1732, https://doi.org/10.1175/jhm-d-13-02.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.3390/w3020445</doi>
+              <unstructured_citation>Dettinger, M. D., Ralph, F. M., Das, T., Neiman, P. J., and Cayan, D. R.:
+Atmospheric rivers, floods, and the water resources of California, Water, 3,
+445–478, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1002/2015GL065435</doi>
+              <unstructured_citation>Gao, Y., Lu, J., Leung, L. R., Yang, Q., Hagos, S., and Qian, Y.: Dynamical
+and thermodynamical modulations on future changes of landfalling atmospheric
+rivers over western North America, Geophys. Res. Lett., 42, 7179–7186,
+https://doi.org/10.1002/2015gl065435, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/JCLI-D-16-0088.1</doi>
+              <unstructured_citation>Gao, Y., Lu, J., and Leung, L. R.: Uncertainties in projecting future changes
+in atmospheric rivers and their impacts on heavy precipitation over Europe,
+J. Climate, 29, 6711–6726, https://doi.org/10.1175/jcli-d-16-0088.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/JCLI-D-16-0758.1</doi>
+              <unstructured_citation>Gelaro, R., McCarty, W., Suárez, M. J., Todling, R., Molod, A., Takacs,
+L., Randles, C. A., Darmenov, A., Bosilovich, M. G., Reichle, R., Wargan, K.,
+Coy, L., Cullather, R., Draper, C., Akella, S., Buchard, V., Conaty, A., da
+Silva, A. M., Gu, W., Kim, G.-K., Koster, R., Lucchesi, R., Merkova, D.,
+Nielsen, J. E., Partyka, G., Pawson, S., Putman, W., Rienecker, M., Schubert,
+S. D., Sienkiewicz, M., and Zhao, B.: The Modern-Era Retrospective Analysis
+for Research and Applications, Version 2 (MERRA-2), J. Climate, 30,
+5419–5454, https://doi.org/10.1175/jcli-d-16-0758.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/2017GL074175</doi>
+              <unstructured_citation>Gershunov, A., Shulgina, T., Ralph, F. M., Lavers, D. A., and Rutz, J. J.:
+Assessing the climate-scale variability of atmospheric rivers affecting
+western North America, Geophys. Res. Lett., 44, 7900–7908,
+https://doi.org/10.1002/2017gl074175, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Global Modeling and Assimilation Office (GMAO): MERRA-2 inst3_3d_asm_Np:
+3d,3-Hourly,Instantaneous,Pressure-Level,Assimilation,Assimilated
+Meteorological Fields V5.12.4, Greenbelt, MD, USA, Goddard Earth Sciences
+Data and Information Services Center (GES DISC), https://doi.org/10.5067/QBZ6MG944HW0 (last access: 15 June 2018),
+2015. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Goldenson, N., Leung, L. R., Bitz, C. M., and Blanchard-Wrigglesworth, E.:
+Influence of Atmospheric River Events on Mountain Snowpack of the Western
+U.S., in review, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1002/2014GL060881</doi>
+              <unstructured_citation>Gorodetskaya, I. V., Tsukernik, M., Claes, K., Ralph, M. F., Neff, W. D., and
+Van Lipzig, N. P. M.: The role of atmospheric rivers in anomalous snow
+accumulation in East Antarctica, Geophys. Res. Lett., 41, 6199–6206,
+https://doi.org/10.1002/2014gl060881, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1002/2015JD024257</doi>
+              <unstructured_citation>Guan, B. and Waliser, D. E.: Detection of atmospheric rivers: Evaluation and
+application of an algorithm for global studies, J. Geophys. Res.-Atmos., 120,
+12514–12535, https://doi.org/10.1002/2015jd024257, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1002/2016JD026174</doi>
+              <unstructured_citation>Guan, B. and Waliser, D. E.: Atmospheric rivers in 20 year weather and
+climate simulations: A multimodel, global evaluation, J. Geophys.
+Res.-Atmos., 122, 5556–5581, https://doi.org/10.1002/2016jd026174, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2010GL044696</doi>
+              <unstructured_citation>Guan, B., Molotch, N. P., Waliser, D. E., Fetzer, E. J., and Neiman, P. J.:
+Extreme snowfall events linked to atmospheric rivers and surface air
+temperature via satellite measurements, Geophys. Res. Lett., 37, L20401,
+https://doi.org/10.1029/2010gl044696, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/JHM-D-17-0114.1</doi>
+              <unstructured_citation>Guan, B., Waliser, D. E., and Ralph, F. M.: An Intercomparison between
+Reanalysis and Dropsonde Observations of the Total Water Vapor Transport in
+Individual Atmospheric Rivers, J. Hydrometeor., 19, 321–337,
+https://doi.org/10.1175/JHM-D-17-0114, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JCLI-D-14-00567.1</doi>
+              <unstructured_citation>Hagos, S., Leung, L. R., Yang, Q., Zhao, C., and Lu, J.: Resolution and
+dynamical core dependence of atmospheric river frequency in global model
+simulations, J. Climate, 28, 2764–2776, https://doi.org/10.1175/jcli-d-14-00567.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1002/2015GL067392</doi>
+              <unstructured_citation>Hagos, S. M., Leung, L. R., Yoon, J.-H., Lu, J., and Gao, Y.: A projection of
+changes in landfalling atmospheric river frequency and extreme precipitation
+over western North America from the Large Ensemble CESM simulations, Geophys.
+Res. Lett., 43, 1357–1363, https://doi.org/10.1002/2015gl067392, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/2008JD010201</doi>
+              <unstructured_citation>Haylock, M. R., Hofstra, N., Klein Tank, A. M. G., Klok, E. J., Jones, P. D.,
+and New, M.: A European daily high-resolution gridded data set of surface
+temperature and precipitation for 1950–2006, J. Geophys. Res., 113, D20119,
+https://doi.org/10.1029/2008jd010201, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/1525-7541(2001)002&lt;0036:GPAODD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Huffman, G. J., Adler, R. F., Morrissey, M. M., Bolvin, D. T., Curtis, S.,
+Joyce, R., McGavock, B., and Susskind, J.: Global precipitation at one-degree
+daily resolution from multisatellite observations, J. Hydrometeor., 2,
+36–50, https://doi.org/10.1175/1525-7541(2001)002&amp;amp;lt;0036:gpaodd&amp;amp;gt;2.0.co;2, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/JHM560.1</doi>
+              <unstructured_citation>Huffman, G. J., Bolvin, D. T., Nelkin, E. J., Wolff, D. B., Adler, R. F., Gu,
+G., Hong, Y., Bowman, K. P., and Stocker, E. F.: The TRMM Multisatellite
+Precipitation Analysis (TMPA): Quasi-Global, Multiyear, Combined-Sensor
+Precipitation Estimates at Fine Scales, J. Hydrometeor., 8, 38–55,
+https://doi.org/10.1175/jhm560.1, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/2017GL075201</doi>
+              <unstructured_citation>Huning, L. S., Margulis, S. A., Guan, B., Waliser, D. E., and Neiman, P. J.:
+Implications of detection methods on characterizing atmospheric river
+contribution to seasonal snowfall across Sierra Nevada, USA, Geophys. Res.
+Lett., 44, 10445–10453, https://doi.org/10.1002/2017gl075201, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/2009JHM1059.1</doi>
+              <unstructured_citation>Jankov, I., Bao, J.-W., Neiman, P. J., Schultz, P. J., Yuan, H., and White,
+A. B.: Evaluation and comparison of microphysical algorithms in ARW-WRF model
+simulations of atmospheric river events affecting the California coast, J.
+Hydrometeor., 10, 847–870, https://doi.org/10.1175/2009jhm1059.1, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L.,
+Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Leetmaa, A.,
+Reynolds, R., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K.
+C., Ropelewski, C., Wang, J., Jenne, R., and Joseph, D.: The NCEP/NCAR
+40-Year Reanalysis Project, B. Am. Meteorol. Soc., 77, 437–471,
+https://doi.org/10.1175/1520 0477(1996)077&amp;amp;lt;0437:tnyrp&amp;amp;gt;2.0.co;2, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1007/s00382-012-1322-3</doi>
+              <unstructured_citation>Kim, J., Waliser, D. E., Neiman, P. J., Guan, B., Ryoo, J.-M., and Wick, G.
+A.: Effects of atmospheric river landfalls on the cold season precipitation
+in California, Clim. Dynam., 40, 465–474, https://doi.org/10.1007/s00382-012-1322-3,
+2013. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.2151/jmsj.2015-001</doi>
+              <unstructured_citation>Kobayashi, S., Ota, Y., Harada, Y., Ebita, A., Moriya, M., Onoda, H., Onogi,
+K., Kamahori, H., Kobayashi, C., Endo, H., Miyaoka, K., and Takahashi, K.:
+The JRA-55 Reanalysis: General Specifications and Basic Characteristics, J.
+Meteorol. Soc. Jpn., 93, 5–48, https://doi.org/10.2151/jmsj.2015-001, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.jhydrol.2014.12.010</doi>
+              <unstructured_citation>Lavers, D. A. and Villarini, G.: The contribution of atmospheric rivers to
+precipitation in Europe and the United States, J. Hydrol., 522, 382–390,
+https://doi.org/10.1016/j.jhydrol.2014.12.010, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2012JD018027</doi>
+              <unstructured_citation>Lavers, D. A., Villarini, G., Allan, R. P., Wood, E. F., and Wade, A. J.: The
+detection of atmospheric rivers in atmospheric reanalyses and their links to
+British winter floods and the large-scale climatic circulation, J. Geophys.
+Res.-Atmos., 117, D20106, https://doi.org/10.1029/2012jd018027, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1088/1748-9326/8/3/034010</doi>
+              <unstructured_citation>Lavers, D. A., Allan, R. P., Villarini, G., Lloyd-Hughes, B., Brayshaw, D.
+J., and Wade, A. J.: Future changes in atmospheric rivers and their
+implications for winter flooding in Britain, Environ. Res. Lett., 8, 34010,
+https://doi.org/10.1088/1748-9326/8/3/034010, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1038/ncomms6382</doi>
+              <unstructured_citation>Lavers, D. A., Pappenberger, F., and Zsoter, E.: Extending medium-range
+predictability of extreme hydrological events in Europe, Nat. Comm., 5, 5382,
+https://doi.org/10.1038/ncomms6382, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/2015GL064672</doi>
+              <unstructured_citation>Lavers, D. A., Ralph, F. M., Waliser, D. E., Gershunov, A., and Dettinger, M.
+D.: Climate change intensification of horizontal water vapor transport in
+CMIP5, Geophys. Res. Lett., 42, 5617–5625, https://doi.org/10.1002/2015GL064672, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2008GL036445</doi>
+              <unstructured_citation>Leung, L. R. and Qian, Y.: Atmospheric rivers induced heavy precipitation and
+flooding in the western U.S. simulated by the WRF regional climate model,
+Geophys. Res. Lett., 36, L03820, https://doi.org/10.1029/2008gl036445, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/JCLI-D-12-00508.1</doi>
+              <unstructured_citation>Livneh, B., Rosenberg, E. A., Lin, C., Nijssen, B., Mishra, V., Andreadis, K.
+M., Maurer, E. P., and Lettenmaier, D. P.: A long-term hydrologically based
+dataset of land surface fluxes and states for the conterminous United States:
+Update and Extensions, J. Climate, 26, 9384–9392,
+https://doi.org/10.1175/jcli-d-12-00508.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1002/2016GL071541</doi>
+              <unstructured_citation>Lora, J. M., Mitchell, J. L., Risi, C., and Tripati, A. E.: North Pacific
+atmospheric rivers and their influence on western North America at the Last
+Glacial Maximum, Geophys. Res. Lett., 44, 1051–1059,
+https://doi.org/10.1002/2016gl071541, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/MWR-D-15-0279.1</doi>
+              <unstructured_citation>Mahoney, K., Jackson, D. L., Neiman, P., Hughes, M., Darby, L., Wick, G.,
+White, A., Sukovich, E., and Cifelli, R.: Understanding the role of
+atmospheric rivers in heavy precipitation in the Southeast United States,
+Mon. Weather Rev., 144, 1617–1632, https://doi.org/10.1175/mwr-d-15-0279.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1002/2014GL060299</doi>
+              <unstructured_citation>Nayak, M. A., Villarini, G., and Lavers, D. A.: On the skill of numerical
+weather prediction models to forecast atmospheric rivers over the central
+United States, Geophys. Res. Lett., 41, 4354–4362, https://doi.org/10.1002/2014gl060299,
+2014. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>NCAR/UCAR Climate Data Gateway: 3-hourly MERRA2 IVT, uIVT, vIVT,IWV data computed
+for ARTMIP, https://doi.org/10.5065/D62R3QFS, last access: 15 June 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Neale, R. B., Chen, C. C., Gettelman, A., Lauritzen, P. H., Park, S.,
+Williamson, D. L., Conley, A. J., Garcia, R., Kinnison, D., Lamarque, J. F.,
+and Marsh, D.: Description of the NCAR community atmosphere model (CAM 5.0),
+NCAR Tech. Note NCAR/TN-486+STR, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1002/2014JD021470</doi>
+              <unstructured_citation>Neff, W., Compo, G. P., Ralph F. M., and Shupe, M. D.: Continental heat
+anomalies and the extreme melting of the Greenland ice surface in 2012 and
+1889, J. Geophys. Res.-Atmos., 119, 6520–6536, https://doi.org/10.1002/2014JD021470,
+2014. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/2008MWR2550.1</doi>
+              <unstructured_citation>Neiman, P. J., Ralph, F. M., Wick, G. A., Kuo, Y.-H., Wee, T.-K., Ma, Z.,
+Taylor, G. H., and Dettinger, M. D.: Diagnosis of an intense atmospheric
+river impacting the Pacific Northwest: storm summary and offshore vertical
+structure observed with COSMIC satellite retrievals, Mon. Weather Rev., 136,
+4398–4420, https://doi.org/10.1175/2008mwr2550.1, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1175/2011JHM1358.1</doi>
+              <unstructured_citation>Neiman, P. J., Schick, L. J., Ralph, F. M., Hughes, M., and Wick, G. A.:
+Flooding in western Washington: The connection to atmospheric rivers, J.
+Hydrometeor., 12, 1337–1358, https://doi.org/10.1175/2011jhm1358.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/BAMS-D-11-00154.1</doi>
+              <unstructured_citation>Neu, U., Akperov, M. G., Bellenbaum, N., Benestad, R., Blender, R.,
+Caballero, R., Cocozza, A., Dacre, H. F., Feng, Y., Fraedrich, K., Grieger,
+J., Gulev, S., Hanley, J., Hewson, T., Inatsu, M., Keay, K., Kew, S. F.,
+Kindem, I., Leckebusch, G. C., Liberato, M. L. R., Lionello, P., Mokhov, I.
+I., Pinto, J. G., Raible, C. C., Reale, M., Rudeva, I., Schuster, M.,
+Simmonds, I., Sinclair, M., Sprenger, M., Tilinina, N. D., Trigo, I. F.,
+Ulbrich, S., Ulbrich, U., Wang, X. L., and Wernli, H.: IMILAST: A community
+effort to intercompare extratropical cyclone detection and tracking
+algorithms, B. Am. Meteorol. Soc., 94, 529–547,
+https://doi.org/10.1175/bams-d-11-00154.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1175/JCLI-D-11-00665.1</doi>
+              <unstructured_citation>Newman, M., Kiladis, G. N., Weickmann, K. M., Ralph, F. M., and Sardeshmukh,
+P. D.: Relative contributions of synoptic and low-frequency eddies to
+time-mean atmospheric moisture transport, including the role of atmospheric
+rivers, J. Climate, 25, 7341–7361, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1002/2017GL074882</doi>
+              <unstructured_citation>Paltan, H., Waliser, D., Lim, W. H., Guan, B., Yamazaki, D., Pant, R., and
+Dadson, S.: Global floods and water availability driven by atmospheric
+rivers, Geophys. Res. Lett., 44, 10387–10395, https://doi.org/10.1002/2017gl074882,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1002/2015JD023586</doi>
+              <unstructured_citation>Payne, A. E. and Magnusdottir, G.: An evaluation of atmospheric rivers over
+the North Pacific in CMIP5 and their response to warming under RCP 8.5, J.
+Geophys. Res.-Atmos., 120, 11173–11190, https://doi.org/10.1002/2015jd023586, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1002/2016JD025549</doi>
+              <unstructured_citation>Payne, A. E. and Magnusdottir, G.: Persistent landfalling atmospheric rivers
+over the west coast of North America, J. Geophys. Res.-Atmos., 121,
+13287–13300, https://doi.org/10.1002/2016jd025549, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;1721:SACAOO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Ralph, F. M., Neiman, P. J., and Wick, G. A.: Satellite and CALJET aircraft
+observations of atmospheric rivers over the Eastern North Pacific Ocean
+during the Winter of 1997/98, Mon. Weather Rev., 132, 1721–1745,
+https://doi.org/10.1175/1520-0493(2004)132&amp;amp;lt;1721:sacaoo&amp;amp;gt;2.0.co;2, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1029/2006GL026689</doi>
+              <unstructured_citation>Ralph, F. M., Neiman, P. J., Wick, G. A., Gutman, S. I., Dettinger, M. D.,
+Cayan, D. R., and White, A. B.: Flooding on California's Russian River: Role
+of atmospheric rivers, Geophys. Res. Lett., 33, L13801,
+https://doi.org/10.1029/2006gl026689, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1175/JHM-D-12-076.1</doi>
+              <unstructured_citation>Ralph, F. M., Coleman, T., Neiman, P. J., Zamora, R. J., and Dettinger, M.
+D.: Observed impacts of duration and seasonality of atmospheric river
+landfalls on soil moisture and runoff in Coastal Northern California, J.
+Hydrometeor., 14, 443–459, https://doi.org/10.1175/jhm-d-12-076.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1175/BAMS-D-14-00043.1</doi>
+              <unstructured_citation>Ralph, F. M., Prather, K. A., Cayan, D., Spackman, J. R., DeMott, P.,
+Dettinger, M., Fairall, C., Leung, R., Rosenfeld, D., Rutledge, S., Waliser,
+D., White, A. B., Cordeira, J., Martin, A., Helly, J., and Intrieri, J.:
+CalWater Field studies designed to quantify the roles of atmospheric rivers
+and aerosols in modulating U.S. West Coast precipitation in a changing
+climate, B. Am. Meteorol. Soc., 97, 1209–1228,
+https://doi.org/10.1175/bams-d-14-00043.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1175/BAMS-D-16-0262.1</doi>
+              <unstructured_citation>Ralph, F. M., Dettinger, M., Lavers, D., Gorodetskaya, I. V., Martin, A.,
+Viale, M., White, A. B., Oakley, N., Rutz, J., Spackman, J. R., Wernli, H.,
+and Cordeira, J.: Atmospheric Rivers Emerge as a Global Science and
+Applications Focus, B. Am. Meteorol. Soc., 98, 1969–1973,
+https://doi.org/10.1175/bams-d-16-0262.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/esd-7-371-2016</doi>
+              <unstructured_citation>Ramos, A. M., Nieto, R., Tomé, R., Gimeno, L., Trigo, R. M., Liberato, M.
+L. R., and Lavers, D. A.: Atmospheric rivers moisture sources from a
+Lagrangian perspective, Earth Syst. Dynam., 7, 371–384,
+https://doi.org/10.5194/esd-7-371-2016, 2016a. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1002/2016GL070634</doi>
+              <unstructured_citation>Ramos, A. M., Tomé, R., Trigo, R. M., Liberato, M. L. R., and Pinto, J.
+G.: Projected changes in atmospheric rivers affecting Europe in CMIP5 models,
+Geophys. Res. Lett., 43, 9315–9323, https://doi.org/10.1002/2016gl070634, 2016b. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/MWR-D-13-00168.1</doi>
+              <unstructured_citation>Rutz, J. J., Steenburgh, W. J., and Ralph, F. M.: Climatological
+characteristics of atmospheric rivers and their inland penetration over the
+Western United States, Mon. Weather Rev., 142, 905–921,
+https://doi.org/10.1175/mwr-d-13-00168.1, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1002/2014JD022023</doi>
+              <unstructured_citation>Ryoo, J.-M., Waliser, D. E., Waugh, D. W., Wong., S., Fetzer, E. J., and
+Fung, I.: Classification of atmospheric river events on the U.S. West Coast
+using a trajectory model, J. Geophys. Res.-Atmos., 120, 3007–3028,
+https://doi.org/10.1002/2014JD022023, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1175/JCLI-D-12-00823.1</doi>
+              <unstructured_citation>Saha, S., Moorthi, S., Wu, X., Wang, J., Nadiga, S., Tripp, P., Behringer,
+D., Hou, Y.-T., Chuang, H., Iredell, M., Ek, M.,&amp;lt;span id=&amp;quot;page2474&amp;quot;/&amp;gt; Meng, J., Yang, R., Mendez,
+M. P., van den Dool, H., Zhang, Q., Wang, W., Chen, M., and Becker, E.: The
+NCEP Climate Forecast System Version 2, J. Climate, 27, 2185–2208,
+https://doi.org/10.1175/jcli-d-12-00823.1, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1002/2013EO320001</doi>
+              <unstructured_citation>Sellars, S., Nguyen, P., Chu, W., Gao, X., Hsu, K., and Sorooshian, S.:
+Computational Earth Science: Big data transformed into insight, Eos T. Am.
+Geophys. Un., 94, 277–278, https://doi.org/10.1002/2013eo320001, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1175/JHM-D-14-0101.1</doi>
+              <unstructured_citation>Sellars, S. L., Gao, X., and Sorooshian, S.: An Object-oriented approach to
+investigate impacts of climate oscillations on precipitation: A western
+United States case study, J. Hydrometeor., 16, 830–842,
+https://doi.org/10.1175/jhm-d-14-0101.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1002/2016GL070470</doi>
+              <unstructured_citation>Shields, C. A. and Kiehl, J. T.: Atmospheric river landfall-latitude changes
+in future climate simulations, Geophys. Res. Lett., 43, 8775–8782,
+https://doi.org/10.1002/2016gl070470, 2016a. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1002/2016GL069476</doi>
+              <unstructured_citation>Shields, C. A. and Kiehl, J. T.: Simulating the Pineapple Express in the half
+degree Community Climate System Model, CCSM4, Geophys. Res. Lett., 43,
+7767–7773, https://doi.org/10.1002/2016gl069476, 2016b. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1002/2015MS000584</doi>
+              <unstructured_citation>Shields, C. A., Kiehl, J. T. and Meehl, G. A.: Future changes in regional
+precipitation simulated by a half-degree coupled climate model: Sensitivity
+to horizontal resolution, J. Adv. Model. Earth Sy., 8, 863–884,
+https://doi.org/10.1002/2015ms000584, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1002/2014MS000363</doi>
+              <unstructured_citation>Small, R. J., Bacmeister, J., Bailey, D., Baker, A., Bishop, S., Bryan, F.,
+Caron, J., Dennis, J., Gent, P., Hsu, H., Jochum, M., Lawrence, D.,
+Muñoz, E., diNezio, P., Scheitlin, T., Tomas, R., Tribbia, J., Tseng, Y.,
+and Vertenstein, M.: A new synoptic scale resolving global climate simulation
+using the Community Earth System Model, J. Adv. Model. Earth Sy., 6,
+1065–1094, https://doi.org/10.1002/2014ms000363, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Sorooshian, S., Hsu, K.-L., Gao, X., Gupta, H. V., Imam, B., and Braithwaite,
+D.: Evaluation of PERSIANN system satellite–based estimates of tropical
+rainfall, B. Am. Meteorol. Soc., 81, 2035–2046,
+https://doi.org/10.1175/1520-0477(2000)081&amp;amp;lt;2035:eopsse&amp;amp;gt;2.3.co;2, 2000.  </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1175/2010JHM1284.1</doi>
+              <unstructured_citation>Viale, M. and Nuñez, M. N.: Climatology of winter orographic
+precipitation over the subtropical Central Andes and associated synoptic and
+regional characteristics, J. Hydrometeor., 12, 481–507,
+https://doi.org/10.1175/2010jhm1284.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1038/ngeo2894</doi>
+              <unstructured_citation>Waliser, D. and Guan, B.: Extreme winds and precipitation during landfall of
+atmospheric rivers, Nat. Geosci., 10, 179–183, https://doi.org/10.1038/ngeo2894, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1175/JHM-D-16-0200.1</doi>
+              <unstructured_citation>Warner, M. D. and Mass, C. F.: Changes in the climatology, structure, and
+seasonality of Northeast Pacific atmospheric rivers in CMIP5 climate
+simulations, J. Hydrometeor., 18, 2131–2141, https://doi.org/10.1175/JHM-D-16-0200.1,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1175/JHM-D-14-0080.1</doi>
+              <unstructured_citation>Warner, M. D., Mass, C. F., and Salathé Jr., E. P.: Changes in winter
+atmospheric rivers along the North American West Coast in CMIP5 Climate
+Models, J. Hydrometeor., 16, 118–128, https://doi.org/10.1175/jhm-d-14-0080.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1002/2013MS000276</doi>
+              <unstructured_citation>Wehner, M. F., Reed, K., Li, F., Prabhat, Bacmeister, J., Chen, C.,
+Paciorek, C., Gleckler, P., Sperber, K., Collins, W. D., Gettelman, A., and
+Jablonowski, C.: The effect of horizontal resolution on simulation quality in
+the Community Atmospheric Model, CAM5.1, J. Adv. Model. Earth Sy., 6,
+980–997, https://doi.org/10.1002/2013MS000276, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1175/WAF-D-13-00025.1</doi>
+              <unstructured_citation>Wick, G. A., Neiman, P. J., Ralph, F. M., and Hamill, T. M.: Evaluation of
+forecasts of the water vapor signature of atmospheric rivers in operational
+numerical weather prediction models, Weather Forecast., 28, 1337–1352,
+https://doi.org/10.1175/waf-d-13-00025.1, 2013a. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1109/TGRS.2012.2211024</doi>
+              <unstructured_citation>Wick, G. A., Neiman, P. J., and Ralph, F. M.: Description and validation of
+an automated objective technique for identification and characterization of
+the integrated water vapor signature of atmospheric rivers, IEEE T. Geosci.
+Remote Sens., 51, 2166–2176, https://doi.org/10.1109/tgrs.2012.2211024, 2013b. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1175/1520-0493(1998)126&lt;0725:APAFMF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Zhu, Y. and Newell, R. E.: A proposed algorithm for moisture fluxes from
+atmospheric rivers, Mon. Weather Rev., 126, 725–735,
+https://doi.org/10.1175/1520-0493(1998)126&amp;amp;lt;0725:apafmf&amp;amp;gt;2.0.co;2, 1998. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/gmd-11-2455-2018-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/11/2455/2018/gmd-11-2455-2018-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

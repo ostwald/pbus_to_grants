@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A consistent prescription of stratospheric aerosol for both radiation and
+chemistry in the Community Earth System Model (CESM1)</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Ryan Reynolds</given_name>
+              <surname>Neely III</surname>
+              <ORCID>https://orcid.org/0000-0003-4560-4812</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew J.</given_name>
+              <surname>Conley</surname>
+              <ORCID>https://orcid.org/0000-0003-0061-9906</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Francis</given_name>
+              <surname>Vitt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jean-François</given_name>
+              <surname>Lamarque</surname>
+              <ORCID>https://orcid.org/0000-0002-4225-5074</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Here we describe an updated parameterization for prescribing stratospheric aerosol in the National Center for Atmospheric Research (NCAR) Community Earth System Model (CESM1). The need for a new parameterization is motivated by the poor response of the CESM1 (formerly referred to as the Community Climate System Model, version 4, CCSM4) simulations contributed to the Coupled Model Intercomparison Project 5 (CMIP5) to colossal volcanic perturbations to the stratospheric aerosol layer (such as the 1991 Pinatubo eruption or the 1883 Krakatau eruption) in comparison to observations. In particular, the scheme used in the CMIP5 simulations by CESM1 simulated a global mean surface temperature decrease that was inconsistent with the GISS Surface Temperature Analysis (GISTEMP), NOAA's National Climatic Data Center, and the Hadley Centre of the UK Met Office (HADCRUT4). The new parameterization takes advantage of recent improvements in historical stratospheric aerosol databases to allow for variations in both the mass loading and size of the prescribed aerosol. An ensemble of simulations utilizing the old and new schemes shows CESM1's improved response to the 1991 Pinatubo eruption. Most significantly, the new scheme more accurately simulates the temperature response of the stratosphere due to local aerosol heating. Results also indicate that the new scheme decreases the global mean temperature response to the 1991 Pinatubo eruption by half of the observed temperature change, and modelled climate variability precludes statements as to the significance of this change.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>25</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>2459</first_page>
+            <last_page>2470</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-2459-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/2459/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/2459/2016/gmd-9-2459-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2003GL016875</doi>
+              <unstructured_citation>Ammann, C. M., Meehl, G. A., Washington, W. M., and Zender, C. S.: A monthly and latitudinally varying volcanic forcing dataset in simulations of 20th century climate, Geophys. Res. Lett., 30, 1657, https://doi.org/10.1029/2003GL016875, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/acp-13-11221-2013</doi>
+              <unstructured_citation>Arfeuille, F., Luo, B. P., Heckendorn, P., Weisenstein, D., Sheng, J. X., Rozanov, E., Schraner, M., Brönnimann, S., Thomason, L. W., and Peter, T.: Modeling the stratospheric warming following the Mt. Pinatubo eruption: uncertainties in aerosol extinctions, Atmos. Chem. Phys., 13, 11221–11234, https://doi.org/10.5194/acp-13-11221-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/JC084iC11p06929</doi>
+              <unstructured_citation>Bauer, E.: A catalog of perturbing influences on stratospheric ozone, 1955–1975, J. Geophys. Res.-Atmos., 84, 6929–6940, https://doi.org/10.1029/JC084iC11p06929, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1021/jp992349i</doi>
+              <unstructured_citation>Biermann, U. M., Luo, B.-P., and Peter, T.: Absorption spectra and optical constants of binary and ternary solutions of H2SO4, HNO3, and H2O in the mid infrared at atmospheric temperatures, J. Phys. Chem. A, 104, 783–793, https://doi.org/10.1021/jp992349i, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/acp-13-3997-2013</doi>
+              <unstructured_citation>Canty, T., Mascioli, N. R., Smarte, M. D., and Salawitch, R. J.: An empirical model of global climate – Part 1: A critical evaluation of volcanic cooling, Atmos. Chem. Phys., 13, 3997–4031, https://doi.org/10.5194/acp-13-3997-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2012JD017607</doi>
+              <unstructured_citation>Driscoll, S., Bozzo, A., Gray, L. J., Robock, A., and Stenchikov, G.: Coupled Model Intercomparison Project 5 (CMIP5) simulations of climate following volcanic eruptions, J. Geophys. Res, 117, D17105, https://doi.org/10.1029/2012JD017607, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2012EO510012</doi>
+              <unstructured_citation>Eyring, V. and Lamarque, J.-F.: Global Chemistry-Climate Modeling and Evaluation, Eos Trans. AGU, 93, 539, https://doi.org/10.1029/2012EO510012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/acp-10-9451-2010</doi>
+              <unstructured_citation>Eyring, V., Cionni, I., Bodeker, G. E., Charlton-Perez, A. J., Kinnison, D. E., Scinocca, J. F., Waugh, D. W., Akiyoshi, H., Bekki, S., Chipperfield, M. P., Dameris, M., Dhomse, S., Frith, S. M., Garny, H., Gettelman, A., Kubin, A., Langematz, U., Mancini, E., Marchand, M., Nakamura, T., Oman, L. D., Pawson, S., Pitari, G., Plummer, D. A., Rozanov, E., Shepherd, T. G., Shibata, K., Tian, W., Braesicke, P., Hardiman, S. C., Lamarque, J. F., Morgenstern, O., Pyle, J. A., Smale, D., and Yamashita, Y.: Multi-model assessment of stratospheric ozone return dates and ozone recovery in CCMVal-2 models, Atmos. Chem. Phys., 10, 9451–9472, https://doi.org/10.5194/acp-10-9451-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Eyring, V., Lamarque, J.-F., Hess, P., Arfeuille, F., Bowman, K., Chipperfield, M. P., Duncan, B., Fiore, A., Gettelman, A., Giorgetta, M. A., Granier, C., Hegglin, M., Kinnison, D., Kunze, M., Langematz, U., Luo, B., Martin, R., Matthes, K., Newman, P. A., Peter, T., Robock, A., Ryerson, T., Saiz-Lopez, A., Salawitch, R., Schultz, M., Shepherd, T. G., Shindell, D., Stähelin, J., Tegtmeier, S., Thomason, L., Tilmes, S., Vernier, J.-P., Waugh, D. W., and Young, P. J.: Overview of IGAC/SPARC Chemistry-Climate Model Initiative (CCMI) Community Simulations in Support of Upcoming Ozone and Climate Assessments, SPARC Newsletter No. 40, 48–66, available at http://www.sparc-climate.org/newsletter (last access: 20 November 2015), January 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>GISTEMP Team: GISS Surface Temperature Analysis (GISTEMP): NASA Goddard Institute for Space Studies, available at: http://data.giss.nasa.gov/gistemp/, last access: 11 November 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Grainger, R. G.: Some Useful Formulae for Aerosol Size Distributions and Optical Properties, available at: http://eodg.atm.ox.ac.uk/user/grainger/research/aerosols.pdf, last access: 2 October 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Haimberger, L., Tavolato, C., and Sperka, S.: Towards elimination of the warm bias in historic radiosonde temperature records – Some new results from a comprehensive intercomparison of upper air data, J. Climate, 21, 4587–4606, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2010RG000345</doi>
+              <unstructured_citation>Hansen, J., Ruedy, R., Sato, M., and Lo, K.: Global surface temperature change, Rev. Geophys., 48, RG4004, https://doi.org/10.1029/2010RG000345, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2008JD009944</doi>
+              <unstructured_citation>Iacono, M., Delamere, J., Mlawer, E., Shephard, M., Clough, S., and Collins, W.: Radiative forcing by long-lived greenhouse gases: Calculations with the AER radiative transfer models, J. Geophys. Res., 113, D13103, https://doi.org/10.1029/2008JD009944, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Jones, P. D., New, M., Parker, D. E., Martin, S., and Rigor, I. G.: Surface Air Temperature and its Changes Over the Past 150 Years, Rev. Geophys., 37, 173—199, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/BAMS-D-13-00255.1</doi>
+              <unstructured_citation>Kay, J. E., Deser, C., Phillip, A., Mai, A., Hannay, C., Strand, G., Arblaster, J., Bates, S., Danabasoglu, G., Edwards, J., Holland, M., Kushner, P., Lamarque, J.-F., Lawrence, D., Lindsay, K., Middleton, A., Munoz, E., Neale, R., Oleson, K., Polvani, L., and Vertenstein, M.: The Community Earth System Model (CESM) Large Ensemble Project: A Community Resource for Studying Climate Change in the Presence of Internal Climate Variability, B. Am. Meteorol. Soc., 96, 1333–1349, https://doi.org/10.1175/BAMS-D-13-00255.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2006JD007879</doi>
+              <unstructured_citation>Kinnison, D. E., Brasseur, G. P., Walters, S., Garcia, R. R., Marsh, D. R., Sassi, F., Harvey, V. L., Randall, C. E., Emmons, L., Lamarque, J.-F., Hess, P., Orlando, J. J., Tie, X. X., Randel, W., Pan, L. L., Gettelman, A., Granier, C., Diehl, T., Niemeier, U., and Simmons, A. J.: Sensitivity of chemical tracers to meteorological parameters in the MOZART-3 chemical transport model, J. Geophys. Res, 112, D20302, https://doi.org/10.1029/2006JD007879, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/JCLI-D-12-00567.1</doi>
+              <unstructured_citation>Knutson, T. R., Zeng, F., and Wittenberg, A. T.: Multimodel Assessment of Regional Surface Temperature Trends: CMIP3 and CMIP5 Twentieth-Century Simulations, J. Climate, 26, 8709–8743, https://doi.org/10.1175/JCLI-D-12-00567.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Kremser, S., Thomason, L. W., Hobe, M., Hermann, M., Deshler, T., Timmreck, C., Toohey, M., Stenke, A., Schwarz, J. P., Weigel, R., Fueglistaler, S., Prata, F. J., Vernier, J.-P., Schlager, H., Barnes, J. E., Antuña-Marrero, J.-C., Fairlie, D., Palm, M., Mahieu, E., Notholt, J., Rex, M., Bingen, C., Vanhellemont, F., Bourassa, A., Plane, J. M. C., Klocke, D., Carn, S. A., Clarisse, L., Trickl, T., Neely, R., James, A. D., Rieger, L., Wilson, J. C. and Meland, B.: Stratospheric aerosol–Observations, processes, and impact on climate, Rev. Geophys., 54, https://doi.org/10.1002/2015RG000511, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/gmd-5-369-2012</doi>
+              <unstructured_citation>Lamarque, J.-F., Emmons, L. K., Hess, P. G., Kinnison, D. E., Tilmes, S., Vitt, F., Heald, C. L., Holland, E. A., Lauritzen, P. H., Neu, J., Orlando, J. J., Rasch, P. J., and Tyndall, G. K.: CAM-chem: description and evaluation of interactive atmospheric chemistry in the Community Earth System Model, Geosci. Model Dev., 5, 369–411, https://doi.org/10.5194/gmd-5-369-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1155/2013/245076</doi>
+              <unstructured_citation>Langmann, B.: Volcanic Ash versus Mineral Dust: Atmospheric Processing and Environmental and Climate Impacts. ISRN Atmospheric Sciences, 2013, 245076, https://doi.org/10.1155/2013/245076, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/JCLI-D-12-00558.1</doi>
+              <unstructured_citation>Marsh, D. R., Mills, M. J., Kinnison, D. E., Lamarque, J.-F., Calvo, N., and Polvani, L. M.: Climate change from 1850 to 2005 simulated in CESM1 (WACCM), J. Climate, 26, 1–65, https://doi.org/10.1175/jcli-d-12-00558.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Mätzler, C.: MATLAB Functions for Mie Scattering and Absorption Version 2, IAP Res. Rep, University of Bern, Bern, Switzerland, 1–26, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JCLI-D-11-00240.1</doi>
+              <unstructured_citation>Meehl, G. A., Washington, W. M., Arblaster, J. M., Hu, A., Teng, H., Tebaldi, C., Sanderson, B., Lamarque, J. F., Conley, A., Strand, W. G., and White III, J. B.: Climate system response to external forcings and climate change projections in CCSM4, J. Climate, 25, 3661–3683, https://doi.org/10.1175/JCLI-D-11-00240.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/JCLI-D-12-00572.1</doi>
+              <unstructured_citation>Meehl, G. A., Washington, W. M., Arblaster, J. M., Hu, A., Teng, H., Kay, J. E., Gettelman, A., Lawrence, D. M., Sanderson, B. M., and Strand, W. G.: Climate change projections in CESM1(CAM5) compared to CCSM4, J. Climate, 26, 6308, https://doi.org/10.1175/JCLI-D-12-00572.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1002/2015JD024290</doi>
+              <unstructured_citation>Mills, M. J., Schmidt, A., Easter, R., Solomon, S., Kinnison, D. E., Ghan, S. J., Neely, R. R., Marsh D. R., Conley, A., Bardeen, C. G., and Gettelman, A.: Global volcanic aerosol properties derived from emissions, 1990–2014, using CESM1(WACCM), J. Geophys. Res.-Atmos., 121, 2332–2348, https://doi.org/10.1002/2015JD024290, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Mlawer, E., Taubman, S., Brown, P., Iacono, M., and Clough, S.: Radiative transfer for inhomogeneous atmospheres: RRTM, a validated correlated-k model for the longwave, J. Geophys. Res., 102, 16663–16682, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2011JD017187</doi>
+              <unstructured_citation>Morice, C. P., Kennedy, J. J., and Rayner, N. A.: Quantifying uncertainties in global and regional temperature change using an ensemble of observational estimates: The HadCRUT4 data set, J. Geophys. Res., 117, D08101, https://doi.org/10.1029/2011jd017187, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Neale, R. B., Richter, J. H., Conley, A. J., Park, S., Lauritzen, P. H., Gettelman, A., Williamson, D. L., Rasch, P. J., Vavrus, S. J., Taylor, M. A., Collins, W. D., Zhang, M., and Lin, S.-J.: Description of the NCAR Community Atmosphere Model (CAM4.0), Tech. Rep. NCAR/TN-485+STR, National Center for Atmospheric Research, Boulder, CO, USA, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Neale, R. B., Chen, C. C., Gettelman, A., Lauritzen, P. H., Park, S., Williamson, D. L., Conley, A. J., Garcia, R., Kinnison, D., Lamarque, J. F., Marsh, D., Mills, M., Smith, A. K., Tilmes, S., Vitt, F., Morrison, H., Cameron-Smith, P., Collins, W. D., Iacono, M. J., Easter, R. C., Ghan, S. J., Liu, X. H., Rasch, P. J., and Taylor, M. A.: Description of the NCAR Community Atmosphere Model (CAM5.0), Tech. Rep. NCAR/TN-486+STR, National Center for Atmospheric Research, Boulder, CO, USA, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/JCLI-D-12-00236.1</doi>
+              <unstructured_citation>Neale, R. B., Richter, J., Park, S., Lauritzen, P. H., Vavrus, S. J., Rasch, P. J., and Zhang, M.: The Mean Climate of the Community Atmosphere Model (CAM4) in Forced SST and Fully Coupled Experiments, J. Climate, 26, 5150–5168, https://doi.org/10.1175/JCLI-D-12-00236.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Neely III, R. R. and Schmidt, A.: VolcanEESM: Global volcanic sulphur dioxide (SO2) emissions database from 1850 to present – Version 1.0. Centre for Environmental Data Analysis, https://doi.org/10.5285/76ebdc0b-0eed-4f70-b89e-55e606bcd568, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/2014GL061627</doi>
+              <unstructured_citation>Neely, R. R. I., Marsh, D. R., Smith, K. L., Davis, S. M., and Polvani, L. M.: Biases in southern hemisphere climate trends induced by coarsely specifying the temporal resolution of stratospheric ozone, Geophys. Res. Lett., 41, 8602–8610, https://doi.org/10.1002/2014GL061627, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/JC087iC02p01231</doi>
+              <unstructured_citation>Newhall, C. and Self, S.: The Volcanic Explosivity Index (VEI) – an Estimate of Explosive Magnitude for Historical Volcanism, J. Geophys. Res, 87, 1231–1238, https://doi.org/10.1029/jc087ic02p01231, 1982.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/93JD02553</doi>
+              <unstructured_citation>Sato, M., Hansen, J. McCormick, P., and Pollack, J.: Stratospheric Aerosol Optical Depths, 1850–1990, J. Geophys. Res, 98, 22987–22994, https://doi.org/10.1029/93jd02553, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/2007JCLI2100.1</doi>
+              <unstructured_citation>Smith, T. M., Reynolds, R. W., and Peterson, T. C.: Improvements to NOAA's historical merged land-ocean surface temperature analysis (1880–2006), J. Climate, 21, 2283–2296, https://doi.org/10.1175/2007JCLI2100.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1126/science.1206027</doi>
+              <unstructured_citation>Solomon, S., Daniel, J. S., Neely, R. R., Vernier, J. P., Dutton, E. G., and Thomason, L. W.: The Persistently Variable “Background” Stratospheric Aerosol Layer and Global Climate Change, Science, 333, 866–870, https://doi.org/10.1126/science.1206027, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>SPARC: SPARC CCMVal Report on the Evaluation of Chemistry-Climate Models, edited by: Eyring, V., Shepherd, T., and Waugh, D., SPARC Report No. 5, WCRP-30/2010, WMO/TD-No. 40, available at: www.sparc-climate.org/publications/sparc-reports/ (last access: 14 August 2015), 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/98JD00693</doi>
+              <unstructured_citation>Stenchikov, G. L., Kirchner, I., Robock, A., Graf, H.-F., Antuña, J. C., Grainger, R. G., Lambert, A., and Thomason, L.: Radiative forcing from the 1991 Mount Pinatubo volcanic eruption, J. Geophys. Res, 103, 13837, https://doi.org/10.1029/98JD00693, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Stothers, R. B.: Major optical depth perturbations to the stratosphere from volcanic eruptions: Stellar extinction period, 1961–1978, J. Geophys. Res.-Atmos., 106, 2993–3003, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/97GL01879</doi>
+              <unstructured_citation>Tabazadeh, A., Toon, O. B., Clegg, S. L., and Hamill, P.: A new parameterisation of H2SO4/H20 Atmospheric implications, Geophys. Res. Lett, 24, 1931–1934, https://doi.org/10.1029/97gl01879, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An Overview of CMIP5 and the Experiment Design, B. Am. Meteorol. Soc., 93, 485–498, https://doi.org/10.1175/BAMS-D-11-00094.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/2009JCLI3089.1</doi>
+              <unstructured_citation>Thompson, D. W. J., Wallace, J. M., Jones, P. D., and Kennedy, J. J.: Identifying Signatures of Natural Climate Variability in Time Series of Global-Mean Surface Temperature: Methodology and Insights, J. Climate, 22, 6120–6141, https://doi.org/10.1175/2009JCLI3089.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2008JD011420</doi>
+              <unstructured_citation>Tilmes, S., Garcia, R. R., Kinnison, D. E., Gettelman, A., and Rasch, P. J.: Impact of geoengineered aerosols on the troposphere and stratosphere, J. Geophys. Res.-Atmos., 114, D12305, https://doi.org/10.1029/2008JD011420, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/gmd-9-1853-2016</doi>
+              <unstructured_citation>Tilmes, S., Lamarque, J.-F., Emmons, L. K., Kinnison, D. E., Marsh, D., Garcia, R. R., Smith, A. K., Neely, R. R., Conley, A., Vitt, F., Val Martin, M., Tanimoto, H., Simpson, I., Blake, D. R., and Blake, N.: Representation of the Community Earth System Model (CESM1) CAM4-chem within the Chemistry-Climate Model Initiative (CCMI), Geosci. Model Dev., 9, 1853–1890, https://doi.org/10.5194/gmd-9-1853-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Wiscombe, W. J.: Mie scattering calculations: Advances in technique and fast, vector-speed computer codes, Technical Report Tech. Note. NCAR/TN-140+STR, NCAR, Boulder, CO, USA, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-16-1479-2016</doi>
+              <unstructured_citation>Xia, L., Robock, A., Tilmes, S., and Neely III, R. R.: Stratospheric sulfate geoengineering could enhance the terrestrial photosynthesis rate, Atmos. Chem. Phys., 16, 1479–1489, https://doi.org/10.5194/acp-16-1479-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Zanchettin, D., Timmreck, C., Khodri, M., Robock, A., Rubino, A., Schmidt, A., and Toohey, M.: A coordinated modeling assessment of the climate response to volcanic forcing, Past Global Changes Magazine, 23, 54–55, 2015.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/gmd-9-2459-2016-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/9/2459/2016/gmd-9-2459-2016-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

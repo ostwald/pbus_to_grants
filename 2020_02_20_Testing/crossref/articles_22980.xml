@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-11-13 08:12:57">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>21</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Inter-model comparison of global hydroxyl radical (OH) distributions and their impact on atmospheric methane over the 2000&amp;amp;#8211;2016 period</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Yuanhong</given_name>
+              <surname>Zhao</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Marielle</given_name>
+              <surname>Saunois</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Philippe</given_name>
+              <surname>Bousquet</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xin</given_name>
+              <surname>Lin</surname>
+              <ORCID>https://orcid.org/0000-0002-0605-6430</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Antoine</given_name>
+              <surname>Berchet</surname>
+              <ORCID>https://orcid.org/0000-0001-6709-0125</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michaela I.</given_name>
+              <surname>Hegglin</surname>
+              <ORCID>https://orcid.org/0000-0003-2820-9044</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Josep G.</given_name>
+              <surname>Canadell</surname>
+              <ORCID>https://orcid.org/0000-0002-8788-3218</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Robert B.</given_name>
+              <surname>Jackson</surname>
+              <ORCID>https://orcid.org/0000-0001-8846-7147</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Didier A.</given_name>
+              <surname>Hauglustaine</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sophie</given_name>
+              <surname>Szopa</surname>
+              <ORCID>https://orcid.org/0000-0002-8641-1737</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ann R.</given_name>
+              <surname>Stavert</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nathan Luke</given_name>
+              <surname>Abraham</surname>
+              <ORCID>https://orcid.org/0000-0003-3750-3544</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alex T.</given_name>
+              <surname>Archibald</surname>
+              <ORCID>https://orcid.org/0000-0001-9302-4180</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Slimane</given_name>
+              <surname>Bekki</surname>
+              <ORCID>https://orcid.org/0000-0002-5538-0800</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Makoto</given_name>
+              <surname>Deushi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Patrick</given_name>
+              <surname>Jöckel</surname>
+              <ORCID>https://orcid.org/0000-0002-8964-1394</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Béatrice</given_name>
+              <surname>Josse</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Douglas</given_name>
+              <surname>Kinnison</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ole</given_name>
+              <surname>Kirner</surname>
+              <ORCID>https://orcid.org/0000-0001-5668-6177</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Virginie</given_name>
+              <surname>Marécal</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Fiona M.</given_name>
+              <surname>O&amp;amp;apos;Connor</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David A.</given_name>
+              <surname>Plummer</surname>
+              <ORCID>https://orcid.org/0000-0001-8087-3976</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Laura E.</given_name>
+              <surname>Revell</surname>
+              <ORCID>https://orcid.org/0000-0002-8974-7703</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eugene</given_name>
+              <surname>Rozanov</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrea</given_name>
+              <surname>Stenke</surname>
+              <ORCID>https://orcid.org/0000-0002-5916-4013</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sarah</given_name>
+              <surname>Strode</surname>
+              <ORCID>https://orcid.org/0000-0002-8103-1663</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Simone</given_name>
+              <surname>Tilmes</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Edward J.</given_name>
+              <surname>Dlugokencky</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bo</given_name>
+              <surname>Zheng</surname>
+              <ORCID>https://orcid.org/0000-0001-8344-3445</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[Abstract. The modeling study presented here aims to estimate how uncertainties in
+global hydroxyl radical (OH) distributions, variability, and trends may
+contribute to resolving discrepancies between simulated and observed methane
+(CH4) changes since 2000. A multi-model ensemble of 14 OH fields was
+analyzed and aggregated into 64 scenarios to force the offline
+atmospheric chemistry transport model LMDz (Laboratoire de Meteorologie Dynamique) with a standard CH4 emission
+scenario over the period 2000–2016. The multi-model simulated global
+volume-weighted tropospheric mean OH concentration ([OH]) averaged over
+2000–2010 ranges between 8.7×105 and 12.8×105 molec cm−3. The inter-model differences in tropospheric OH burden and
+vertical distributions are mainly determined by the differences in the
+nitrogen oxide (NO) distributions, while the spatial discrepancies between
+OH fields are mostly due to differences in natural emissions and volatile organic compound (VOC)
+chemistry. From 2000 to 2010, most simulated OH fields show an increase of
+0.1–0.3×105 molec cm−3 in the tropospheric mean [OH],
+with year-to-year variations much smaller than during the historical period
+1960–2000. Once ingested into the LMDz model, these OH changes translated
+into a 5 to 15 ppbv reduction in the CH4 mixing ratio in 2010, which
+represents 7 %–20 % of the model-simulated CH4 increase due to
+surface emissions. Between 2010 and 2016, the ensemble of simulations showed
+that OH changes could lead to a CH4 mixing ratio uncertainty of
+>±30 ppbv. Over the full 2000–2016 time period, using a
+common state-of-the-art but nonoptimized emission scenario, the impact of
+[OH] changes tested here can explain up to 54 % of the gap between model
+simulations and observations. This result emphasizes the importance of
+better representing OH abundance and variations in CH4 forward
+simulations and emission optimizations performed by atmospheric inversions.]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>13</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>13701</first_page>
+            <last_page>13723</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Gordon and Betty Moore Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000936</assertion>
+              </assertion>
+              <assertion name="award_number">GBMF5439</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <intra_work_relation relationship-type="hasPreprint" identifier-type="doi">10.5194/acp-2019-281</intra_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-19-13701-2019</doi>
+            <resource>https://www.atmos-chem-phys.net/19/13701/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/19/13701/2019/acp-19-13701-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2002JD002066</doi>
+              <unstructured_citation>Allen, D. J. and Pickering, K. E.: Evaluation of lightning flash rate
+parameterizations for use in a global chemical transport model, J.
+Geophys. Res.-Atmos., 107, ACH 15-11-ACH 15-21,
+https://doi.org/10.1029/2002JD002066, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/acp-16-12159-2016</doi>
+              <unstructured_citation>Bednarz, E. M., Maycock, A. C., Abraham, N. L., Braesicke, P., Dessens, O., and Pyle, J. A.: Future Arctic ozone recovery: the importance of chemistry and dynamics, Atmos. Chem. Phys., 16, 12159–12176, https://doi.org/10.5194/acp-16-12159-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-5-2635-2005</doi>
+              <unstructured_citation>Bousquet, P., Hauglustaine, D. A., Peylin, P., Carouge, C., and Ciais, P.: Two decades of OH variability as inferred by an inversion of atmospheric transport and chemistry of methyl chloroform, Atmos. Chem. Phys., 5, 2635–2656, https://doi.org/10.5194/acp-5-2635-2005, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/acp-11-3689-2011</doi>
+              <unstructured_citation>Bousquet, P., Ringeval, B., Pison, I., Dlugokencky, E. J., Brunke, E.-G., Carouge, C., Chevallier, F., Fortems-Cheiney, A., Frankenberg, C., Hauglustaine, D. A., Krummel, P. B., Langenfelds, R. L., Ramonet, M., Schmidt, M., Steele, L. P., Szopa, S., Yver, C., Viovy, N., and Ciais, P.: Source attribution of the changes in atmospheric methane for 2006–2008, Atmos. Chem. Phys., 11, 3689–3700, https://doi.org/10.5194/acp-11-3689-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1038/356050a0</doi>
+              <unstructured_citation>Brenninkmeijer, C. A. M., Manning, M. R., Lowe, D. C., Wallace, G., Sparks,
+R. J., and Volz-Thomas, A.: Interhemispheric asymmetry in OH abundance
+inferred from measurements of atmospheric 14CO, Nature, 356, 50–52, https://doi.org/10.1038/356050a0, 1992. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Ciais, P., Sabine, C., Bala, G., Bopp, L., Brovkin, V., and House,
+J. I.: Carbon and Other Biogeochemical Cycles, in: Climate Change 2013: The
+Physical Science Basis, Contribution of Working Group I to the Fifth
+Assessment Report of the Intergovernmental Panel on Climate Change Change,
+Cambridge University Press, Cambridge, United Kingdom and New York, NY,
+USA, 465–570, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Climate Data Gateway at NCAR: available at: https://www.earthsystemgrid.org/, last access: May 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.12952/journal.elementa.000029</doi>
+              <unstructured_citation>Cooper, O. R., Parrish, D. D., Ziemke, J., Balashov, N. V., Cupeiro, M.,
+Galbally, I. E., Gilge, S., Horowitz, L., Jensen, N. R., Lamarque, J. F.,
+Naik, V., Oltmans, S. J., Schwab, J., Shindell, D. T., Thompson, A. M.,
+Thouret, V., Wang, Y., and Zbinden, R. M.: Global distribution and trends of
+tropospheric ozone: An observation-based review, Elementa, 2, 000029, https://doi.org/10.12952/journal.elementa.000029, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1007/BF00881092</doi>
+              <unstructured_citation>Crutzen, P.: A discussion of the chemistry of some minor constituents in the
+stratosphere and troposphere, Pure Appl. Geophys., 106, 1385–1399,
+https://doi.org/10.1007/bf00881092, 1973. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/acp-16-3099-2016</doi>
+              <unstructured_citation>Dalsøren, S. B., Myhre, C. L., Myhre, G., Gomez-Pelaez, A. J., Søvde, O. A., Isaksen, I. S. A., Weiss, R. F., and Harth, C. M.: Atmospheric methane evolution the last 40 years, Atmos. Chem. Phys., 16, 3099–3126, https://doi.org/10.5194/acp-16-3099-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P.,
+Kobayashi, S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P.,
+Bechtold, P., Beljaars, A. C. M., van de Berg, L., Bidlot, J., Bormann, N.,
+Delsol, C., Dragani, R., Fuentes, M., Geer, A. J., Haimberger, L., Healy, S.
+B., Hersbach, H., Hólm, E. V., Isaksen, L., Kållberg, P.,
+Köhler, M., Matricardi, M., McNally, A. P., Monge-Sanz, B. M.,
+Morcrette, J.-J., Park, B.-K., Peubey, C., de Rosnay, P., Tavolato, C.,
+Thépaut, J.-N., and Vitart, F.: The ERA-Interim reanalysis:
+configuration and performance of the data assimilation system, Q. J. Roy. Meteor. Soc., 137, 553–597,
+https://doi.org/10.1002/qj.828, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2002JD002916</doi>
+              <unstructured_citation>Dentener, F., Peters, W., Krol, M., van Weele, M., Bergamaschi, P., and
+Lelieveld, J.: Interannual variability and trend of CH4 lifetime as a
+measure for OH changes in the 1979–1993 time period, J. Geophys. Res.-Atmos., 108, 4442, https://doi.org/10.1029/2002jd002916, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.2467/mripapers.62.1</doi>
+              <unstructured_citation>Deushi, M. and Shibata, K.: Development of a Meteorological Research
+Institute chemistry-climate model version 2 for the study of tropospheric
+and stratospheric chemistry, Pap. Meteorol. Geophys., 62, 1–46, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Dlugokencky, E. J.: NOAA/ESRL, available at: https://www.esrl.noaa.gov/gmd/ccgg/trends_ch4/ (last access: May 2019), 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1111/j.2153-3490.1974.tb01952.x</doi>
+              <unstructured_citation>Ehhalt, D. H.: The atmospheric cycle of methane, Tellus, 26, 58–70,
+https://doi.org/10.1111/j.2153-3490.1974.tb01952.x, 1974. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Emanuel, K. A.: A Scheme for Representing Cumulus Convection in Large-Scale
+Models, J. Atmos. Sci., 48, 2313–2329,
+https://doi.org/10.1175/1520-0469(1991)048&amp;amp;lt;2313:ASFRCC&amp;amp;gt;2.0.CO;2,
+1991. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Etiope, G.: Natural Gas Seepage: The Earth's Hydrocarbon Degassing, in:
+Springer International Publishing, Cham, 195 pp., 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1002/2016GL071930</doi>
+              <unstructured_citation>Etminan, M., Myhre, G., Highwood, E. J., and Shine, K. P.: Radiative forcing
+of carbon dioxide, methane, and nitrous oxide: A significant revision of the
+methane radiative forcing, Geophys. Res. Lett., 43, 12614–12623,
+https://doi.org/10.1002/2016GL071930, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/1520-0469(1994)051&lt;2238:COTMMC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Garcia, R. R. and Boville, B. A.: Downward control of the meanmeridional
+circulation and temperature distribution of the polar winter stratosphere,
+J. Atmos. Sci., 51, 2238–2245, 1994. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1007/s10584-011-0154-1</doi>
+              <unstructured_citation>Granier, C., Bessagnet, B., Bond, T., D'Angiola, A., Denier van der Gon, H.,
+Frost, G. J., Heil, A., Kaiser, J. W., Kinne, S., Klimont, Z., Kloster, S.,
+Lamarque, J.-F., Liousse, C., Masui, T., Meleux, F., Mieville, A., Ohara,
+T., Raut, J.-C., Riahi, K., Schultz, M. G., Smith, S. J., Thompson, A., van
+Aardenne, J., van der Werf, G. R., and van Vuuren, D. P.: Evolution of
+anthropogenic and biomass burning emissions of air pollutants at global and
+regional scales during the 1980–2010 period, Clim. Change, 109, 163,
+https://doi.org/10.1007/s10584-011-0154-1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1016/S1352-2310(01)00134-0</doi>
+              <unstructured_citation>Grewe, V., Brunner, D., Dameris, M., Grenfell, J. L., Hein, R., Shindell,
+D., and Staehelin, J.: Origin and variability of upper tropospheric nitrogen
+oxides and ozone at northern mid-latitudes, Atmos. Environ., 35,
+3421–3433, https://doi.org/10.1016/S1352-2310(01)00134-0, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/gmd-9-137-2016</doi>
+              <unstructured_citation>Guth, J., Josse, B., Marécal, V., Joly, M., and Hamer, P.: First implementation of secondary inorganic aerosols in the MOCAGE version R2.15.0 chemistry transport model, Geosci. Model Dev., 9, 137–160, https://doi.org/10.5194/gmd-9-137-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/gmd-10-1209-2017</doi>
+              <unstructured_citation>Hardiman, S. C., Butchart, N., O'Connor, F. M., and Rumbold, S. T.: The Met Office HadGEM3-ES chemistry-climate model: evaluation of stratospheric dynamics and its impact on ozone, Geosci. Model Dev., 10, 1209–1232, https://doi.org/10.5194/gmd-10-1209-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2003JD003957</doi>
+              <unstructured_citation>Hauglustaine, D. A., Hourdin, F., Jourdain, L., Filiberti, M.-A., Walters,
+S., Lamarque, J.-F., and Holland, E. A.: Interactive chemistry in the
+Laboratoire de Météorologie Dynamique general circulation model:
+Description and background tropospheric chemistry evaluation, J. Geophys. Res.-Atmos., 109, D04314, https://doi.org/10.1029/2003JD003957, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Hegglin, M. I. and Lamarque, J.-F.: The IGAC/SPARC Chemistry-Climate Model
+Initiative Phase-1 (CCMI-1) model data output, NCAS British Atmospheric Data
+Centre, ADD ACCESS DATE, available at: http://catalogue.ceda.ac.uk/uuid/9cc6b94df0f4469d8066d69b5df879d5 (last access: May 2019), 2015 (data available at: http://data.ceda.ac.uk/badc/wcrp-ccmi/data/CCMI-1/output, last access: May 2019). </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/acp-13-285-2013</doi>
+              <unstructured_citation>Holmes, C. D., Prather, M. J., Søvde, O. A., and Myhre, G.: Future methane, hydroxyl, and their uncertainties: key climate and emission parameters for future predictions, Atmos. Chem. Phys., 13, 285–302, https://doi.org/10.5194/acp-13-285-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Hourdin, F. and Armengaud, A.: The Use of Finite-Volume Methods for
+Atmospheric Advection of Trace Species. Part I: Test of Various Formulations
+in a General Circulation Model, Mon. Weather Rev., 127, 822–837,
+https://doi.org/10.1175/1520-0493(1999)127&amp;amp;lt;0822:tuofvm&amp;amp;gt;2.0.co;2,
+1999. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/BAMS-D-15-00135.1</doi>
+              <unstructured_citation>Hourdin, F., Mauritsen, T., Gettelman, A., Golaz, J.-C., Balaji, V., Duan,
+Q., Folini, D., Ji, D., Klocke, D., Qian, Y., Rauser, F., Rio, C.,
+Tomassini, L., Watanabe, M., and Williamson, D.: The Art and Science of
+Climate Model Tuning, B. Am. Meteorol. Soc., 98,
+589–602, https://doi.org/10.1175/bams-d-15-00135.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Hunke, E. C. and Lipscombe, W. H.: CICE: the Los Alamos sea ice model
+documentation and software user's manual, Version 4.0, LA-CC-06-012, Los
+Alamos National Laboratory, New Mexico, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/essd-2017-79</doi>
+              <unstructured_citation>Janssens-Maenhout, G., Crippa, M., Guizzardi, D., Muntean, M., Schaaf, E., Dentener, F., Bergamaschi, P., Pagliari, V., Olivier, J. G. J., Peters, J. A. H. W., van Aardenne, J. A., Monni, S., Doering, U., and Petrescu, A. M. R.: EDGAR v4.3.2 Global Atlas of the three major Greenhouse Gas Emissions for the period 1970–2012, Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2017-79, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/angeo-26-1391-2008</doi>
+              <unstructured_citation>Jourdain, L., Bekki, S., Lott, F., and Lefèvre, F.: The coupled
+chemistry-climate model LMDz-REPROBUS: description and evaluation of a
+transient simulation of the period 1980–1999, Ann. Geophys., 26,
+1391–1413, https://doi.org/10.5194/angeo-26-1391-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/acp-12-12021-2012</doi>
+              <unstructured_citation>John, J. G., Fiore, A. M., Naik, V., Horowitz, L. W., and Dunne, J. P.: Climate versus emission drivers of methane lifetime against loss by tropospheric OH from 1860–2100, Atmos. Chem. Phys., 12, 12021–12036, https://doi.org/10.5194/acp-12-12021-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/gmd-3-717-2010</doi>
+              <unstructured_citation>Jöckel, P., Kerkweg, A., Pozzer, A., Sander, R., Tost, H., Riede, H., Baumgaertner, A., Gromov, S., and Kern, B.: Development cycle 2 of the Modular Earth Submodel System (MESSy2), Geosci. Model Dev., 3, 717–752, https://doi.org/10.5194/gmd-3-717-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/gmd-9-1153-2016</doi>
+              <unstructured_citation>Jöckel, P., Tost, H., Pozzer, A., Kunze, M., Kirner, O., Brenninkmeijer, C. A. M., Brinkop, S., Cai, D. S., Dyroff, C., Eckstein, J., Frank, F., Garny, H., Gottschaldt, K.-D., Graf, P., Grewe, V., Kerkweg, A., Kern, B., Matthes, S., Mertens, M., Meul, S., Neumaier, M., Nützel, M., Oberländer-Hayn, S., Ruhnke, R., Runde, T., Sander, R., Scharffe, D., and Zahn, A.: Earth System Chemistry integrated Modelling (ESCiMo) with the Modular Earth Submodel System (MESSy) version 2.51, Geosci. Model Dev., 9, 1153–1200, https://doi.org/10.5194/gmd-9-1153-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.3402/tellusb.v56i4.16448</doi>
+              <unstructured_citation>Josse, B., Simon, P., and Peuch, V.-H.: Radon global simulations with the
+multiscale chemistry and transport model MOCAGE, Tellus B, 56, 339–356,
+2004. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2004JD005093</doi>
+              <unstructured_citation>Jonsson, A. I., de Grandpré, J., Fomichev, V. I., McConnell, J. C., and
+Beagley, S. R.: Doubled CO2-induced coolingin the middle atmosphere:
+Photochemical analysis of the ozone radiative feedback, J. Geophys. Res,
+109, D24103, https://doi.org/10.1029/2004JD005093, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1038/ngeo1955</doi>
+              <unstructured_citation>Kirschke, S., Bousquet, P., Ciais, P., Saunois, M., Canadell, J. G., Dlugokencky, E. J., Bergamaschi, P., Bergmann, D., Blake, D. R., Bruhwiler, L., Cameron-Smith, P., Castaldi, S., Chevallier, F., Feng, L., Fraser, A., Heimann, M., Hodson, E. L., Houweling, S., Josse, B., Fraser, P. J., Krummel, P. B., Lamarque, J.-F., Langenfelds, R. L., Le Quéré, C., Naik, V., O'Doherty, S., Palmer, P. I., Pison, I., Plummer, D., Poulter, B., Prinn, R. G., Rigby, M., Ringeval, B., Santini, M., Schmidt, M., Shindell, D. T., Simpson, I. J., Spahni, R., Steele, L. P., Strode, S. A., Sudo, K., Szopa, S., van der Werf, G. R., Voulgarakis, A., van Weele, M., Weiss, R. F., Williams, J. E., and Zeng, G.: Three decades of global methane sources and sinks, Nat. Geosci., 6, 813–823, https://doi.org/10.1038/ngeo1955, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2002JD002423</doi>
+              <unstructured_citation>Krol, M. and Lelieveld, J.: Can the variability in tropospheric OH be
+deduced from measurements of 1,1,1-trichloroethane (methyl chloroform)?,
+J. Geophys. Res.-Atmos., 108, 4125, https://doi.org/10.1029/2002JD002423,
+2003. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acp-10-7017-2010</doi>
+              <unstructured_citation>Lamarque, J.-F., Bond, T. C., Eyring, V., Granier, C., Heil, A., Klimont, Z., Lee, D., Liousse, C., Mieville, A., Owen, B., Schultz, M. G., Shindell, D., Smith, S. J., Stehfest, E., Van Aardenne, J., Cooper, O. R., Kainuma, M., Mahowald, N., McConnell, J. R., Naik, V., Riahi, K., and van Vuuren, D. P.: Historical (1850–2000) gridded anthropogenic and biomass burning emissions of reactive gases and aerosols: methodology and application, Atmos. Chem. Phys., 10, 7017–7039, https://doi.org/10.5194/acp-10-7017-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1016/0045-6535(93)90443-9</doi>
+              <unstructured_citation>Lambert, G. and Schmidt, S.: Reevaluation of the oceanic flux of methane:
+Uncertainties and long term variations, Chemosphere, 26, 579–589,
+https://doi.org/10.1016/0045-6535(93)90443-9, 1993. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-1-37-2001</doi>
+              <unstructured_citation>Lawrence, M. G., Jöckel, P., and von Kuhlmann, R.: What does the global mean OH concentration tell us?, Atmos. Chem. Phys., 1, 37–49, https://doi.org/10.5194/acp-1-37-2001, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/1999JD901011</doi>
+              <unstructured_citation>Lelieveld, J. and Dentener, F. J.: What controls tropospheric ozone?,
+J. Geophys. Res.-Atmos., 105, 3531–3551,
+https://doi.org/10.1029/1999JD901011, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/acp-4-2337-2004</doi>
+              <unstructured_citation>Lelieveld, J., Dentener, F. J., Peters, W., and Krol, M. C.: On the role of hydroxyl radicals in the self-cleansing capacity of the troposphere, Atmos. Chem. Phys., 4, 2337–2344, https://doi.org/10.5194/acp-4-2337-2004, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1038/nature06870</doi>
+              <unstructured_citation>Lelieveld, J., Butler, T. M., Crowley, J. N., Dillon, T. J., Fischer, H.,
+Ganzeveld, L., Harder, H., Lawrence, M. G., Martinez, M., Taraborrelli, D.,
+and Williams, J.: Atmospheric oxidation capacity sustained by a tropical
+forest, Nature, 452, 737–740, https://doi.org/10.1038/nature06870, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-16-12477-2016</doi>
+              <unstructured_citation>Lelieveld, J., Gromov, S., Pozzer, A., and Taraborrelli, D.: Global tropospheric hydroxyl distribution, budget and reactivity, Atmos. Chem. Phys., 16, 12477–12493, https://doi.org/10.5194/acp-16-12477-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1126/science.173.3992.141</doi>
+              <unstructured_citation>Levy, H.: Normal Atmosphere: Large Radical and Formaldehyde Concentrations
+Predicted, Science, 173, 141–143, https://doi.org/10.1126/science.173.3992.141, 1971. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-18-9475-2018</doi>
+              <unstructured_citation>Lin, X., Ciais, P., Bousquet, P., Ramonet, M., Yin, Y., Balkanski, Y., Cozic, A., Delmotte, M., Evangeliou, N., Indira, N. K., Locatelli, R., Peng, S., Piao, S., Saunois, M., Swathi, P. S., Wang, R., Yver-Kwok, C., Tiwari, Y. K., and Zhou, L.: Simulating CH4 and CO2 over South and East Asia using the zoomed chemistry transport model LMDz-INCA, Atmos. Chem. Phys., 18, 9475–9497, https://doi.org/10.5194/acp-18-9475-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/gmd-8-129-2015</doi>
+              <unstructured_citation>Locatelli, R., Bousquet, P., Hourdin, F., Saunois, M., Cozic, A., Couvreux, F., Grandpeix, J.-Y., Lefebvre, M.-P., Rio, C., Bergamaschi, P., Chambers, S. D., Karstens, U., Kazan, V., van der Laan, S., Meijer, H. A. J., Moncrieff, J., Ramonet, M., Scheeren, H. A., Schlosser, C., Schmidt, M., Vermeulen, A., and Williams, A. G.: Atmospheric transport and chemistry of trace gases in LMDz5B: evaluation and implications for inverse modelling, Geosci. Model Dev., 8, 129–150, https://doi.org/10.5194/gmd-8-129-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/JC086iC08p07210</doi>
+              <unstructured_citation>Logan, J. A., Prather, M. J., Wofsy, S. C., and McElroy, M. B.: Tropospheric
+chemistry: A global perspective, J. Geophys. Res., 86, 7210,
+https://doi.org/10.1029/JC086iC08p07210, 1981. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1021/acs.estlett.8b00366</doi>
+              <unstructured_citation>Lu, X., Hong, J., Zhang, L., Cooper, O. R., Schultz, M. G., Xu, X., Wang,
+T., Gao, M., Zhao, Y., and Zhang, Y.: Severe Surface Ozone Pollution in
+China: A Global Perspective, Environ. Sci. Technol.,
+5, 487–494, https://doi.org/10.1021/acs.estlett.8b00366, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Madec, G.: NEMO ocean engine, Institut Piere-Simon Laplace (IPSL), France,
+27, ISSN 1288-1619, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1175/JCLI-D-12-00558.1</doi>
+              <unstructured_citation>Marsh, D., Mills, M. J., Kinnison, D. E., Garcia, R. R., Lamarque, J.-F.,
+and Calvo, N.: Climate change from 1850–2005 simulated in CESM1 (WACCM), J.
+Climate, 26, 7372–7391, https://doi.org/10.1175/JCLI-D-12-00558.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1007/s10584-011-0150-5</doi>
+              <unstructured_citation>Masui, T., Matsumoto, K., Hijioka, Y., Kinoshita, T., Nozawa, T.,
+Ishiwatari, S., Kato, E., Shukla, P., Yamagata, Y., and Kainuma, M.: An
+emission pathway for stabilization at 6&amp;amp;thinsp;W&amp;amp;thinsp;m−2 radiative forcing,
+Clim. Change, 109, 59, https://doi.org/10.1007/s10584-011-0150-5, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/acp-16-7943-2016</doi>
+              <unstructured_citation>McNorton, J., Chipperfield, M. P., Gloor, M., Wilson, C., Feng, W., Hayman, G. D., Rigby, M., Krummel, P. B., O'Doherty, S., Prinn, R. G., Weiss, R. F., Young, D., Dlugokencky, E., and Montzka, S. A.: Role of OH variability in the stalling of the global atmospheric CH4 growth rate from 1999 to 2006, Atmos. Chem. Phys., 16, 7943–7956, https://doi.org/10.5194/acp-16-7943-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-12-2263-2012</doi>
+              <unstructured_citation>Miyazaki, K., Eskes, H. J., and Sudo, K.: Global NOx emission estimates derived from an assimilation of OMI tropospheric NO2 columns, Atmos. Chem. Phys., 12, 2263–2288, https://doi.org/10.5194/acp-12-2263-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1126/science.1197640</doi>
+              <unstructured_citation>Montzka, S. A., Krol, M., Dlugokencky, E., Hall, B., Jöckel, P., and
+Lelieveld, J.: Small Interannual Variability of Global Atmospheric Hydroxyl,
+Science, 331, 67–69, https://doi.org/10.1126/science.1197640, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Molod, A., Takacs, L., Suarez, M., Bacmeister, J., Song, I.-S., and
+Eichmann, A.: The GEOS-5 Atmospheric General Circulation Model: Mean Climate
+and Development from MERRA to Fortuna, NASA Technical Report Series on
+Global Modeling and Data Assimilation, NASA TM-2012-104606, 28, 117 pp.,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/gmd-8-1339-2015</doi>
+              <unstructured_citation>Molod, A., Takacs, L., Suarez, M., and Bacmeister, J.: Development of the GEOS-5 atmospheric general circulation model: evolution from MERRA to MERRA2, Geosci. Model Dev., 8, 1339–1356, https://doi.org/10.5194/gmd-8-1339-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/gmd-2-43-2009</doi>
+              <unstructured_citation>Morgenstern, O., Braesicke, P., O'Connor, F. M., Bushell, A. C., Johnson, C. E., Osprey, S. M., and Pyle, J. A.: Evaluation of the new UKCA climate-composition model – Part 1: The stratosphere, Geosci. Model Dev., 2, 43–57, https://doi.org/10.5194/gmd-2-43-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/gmd-10-639-2017</doi>
+              <unstructured_citation>Morgenstern, O., Hegglin, M. I., Rozanov, E., O'Connor, F. M., Abraham, N. L., Akiyoshi, H., Archibald, A. T., Bekki, S., Butchart, N., Chipperfield, M. P., Deushi, M., Dhomse, S. S., Garcia, R. R., Hardiman, S. C., Horowitz, L. W., Jöckel, P., Josse, B., Kinnison, D., Lin, M., Mancini, E., Manyin, M. E., Marchand, M., Marécal, V., Michou, M., Oman, L. D., Pitari, G., Plummer, D. A., Revell, L. E., Saint-Martin, D., Schofield, R., Stenke, A., Stone, K., Sudo, K., Tanaka, T. Y., Tilmes, S., Yamashita, Y., Yoshida, K., and Zeng, G.: Review of the global models used within phase 1 of the Chemistry-Climate Model Initiative (CCMI), Geosci. Model Dev., 10, 639–671, https://doi.org/10.5194/gmd-10-639-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1002/jgrd.50857</doi>
+              <unstructured_citation>Murray, L. T., Logan, J. A., and Jacob, D. J.: Interannual variability in tropical tropospheric ozone and OH: The role of lightning, J. Geophys. Res.- Atmos., 118, 11468–411480, https://doi.org/10.1002/jgrd.50857, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/acp-14-3589-2014</doi>
+              <unstructured_citation>Murray, L. T., Mickley, L. J., Kaplan, J. O., Sofen, E. D., Pfeiffer, M., and Alexander, B.: Factors controlling variability in the oxidative capacity of the troposphere since the Last Glacial Maximum, Atmos. Chem. Phys., 14, 3589–3622, https://doi.org/10.5194/acp-14-3589-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/acp-13-5277-2013</doi>
+              <unstructured_citation>Naik, V., Voulgarakis, A., Fiore, A. M., Horowitz, L. W., Lamarque, J.-F., Lin, M., Prather, M. J., Young, P. J., Bergmann, D., Cameron-Smith, P. J., Cionni, I., Collins, W. J., Dalsøren, S. B., Doherty, R., Eyring, V., Faluvegi, G., Folberth, G. A., Josse, B., Lee, Y. H., MacKenzie, I. A., Nagashima, T., van Noije, T. P. C., Plummer, D. A., Righi, M., Rumbold, S. T., Skeie, R., Shindell, D. T., Stevenson, D. S., Strode, S., Sudo, K., Szopa, S., and Zeng, G.: Preindustrial to present-day changes in tropospheric hydroxyl radical and methane lifetime from the Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP), Atmos. Chem. Phys., 13, 5277–5298, https://doi.org/10.5194/acp-13-5277-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1029/2006JD008007</doi>
+              <unstructured_citation>Neu, J. L., Prather, M. J., and Penner, J. E.: Global atmospheric chemistry:
+Integrating over fractional cloud cover, J. Geophys. Res.-Atmos., 112, D11306, https://doi.org/10.1029/2006JD008007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1002/2016JD026239</doi>
+              <unstructured_citation>Nicely, J. M., Salawitch, R. J., Canty, T., Anderson, D. C., Arnold, S. R.,
+Chipperfield, M. P., Emmons, L. K., Flemming, J., Huijnen, V., Kinnison, D.
+E., Lamarque, J.-F., Mao, J., Monks, S. A., Steenrod, S. D., Tilmes, S., and
+Turquety, S.: Quantifying the causes of differences in tropospheric OH
+within global models, J. Geophys. Res.-Atmos., 122,
+1983–2007, https://doi.org/10.1002/2016jd026239, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/2018JD028388</doi>
+              <unstructured_citation>Nicely, J. M., Canty, T. P., Manyin, M., Oman, L. D., Salawitch, R. J.,
+Steenrod, S. D., Strahan, S. E., and Strode, S. A.: Changes in Global
+Tropospheric OH Expected as a Result of Climate Change Over the Last Several
+Decades, J. Geophys. Res.-Atmos., 123, 10774–10795,
+https://doi.org/10.1029/2018JD028388, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1002/2017MS001011</doi>
+              <unstructured_citation>Nielsen, J. E., Pawson, S., Molod, A., Auer, B., da Silva, A. M., Douglass,
+A. R., Duncan, B., Liang, Q., Manyin, M., and Oman, L. D.: Chemical
+mechanisms and their applications in the Goddard Earth Observing System
+(GEOS) earth system model, J. Adv. Model. Earth Sy., 9,
+3019–3044, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1029/2018GB006009</doi>
+              <unstructured_citation>Nisbet, E. G., Manning, M. R., Dlugokencky, E. J., Fisher, R. E., Lowry, D.,
+Michel, S. E., Myhre, C. L., Platt, S. M., Allen, G., Bousquet, P.,
+Brownlow, R., Cain, M., France, J. L., Hermansen, O., Hossaini, R., Jones,
+A. E., Levin, I., Manning, A. C., Myhre, G., Pyle, J. A., Vaughn, B.,
+Warwick, N. J., and White, J. W. C.: Very strong atmospheric methane growth
+in the four years 2014-2017: Implications for the Paris Agreement, Global Biogeochem. Cy., 33, 318–342, https://doi.org/10.1029/2018GB006009, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.5194/gmd-7-41-2014</doi>
+              <unstructured_citation>O'Connor, F. M., Johnson, C. E., Morgenstern, O., Abraham, N. L., Braesicke, P., Dalvi, M., Folberth, G. A., Sanderson, M. G., Telford, P. J., Voulgarakis, A., Young, P. J., Zeng, G., Collins, W. J., and Pyle, J. A.: Evaluation of the new UKCA climate-composition model – Part 2: The Troposphere, Geosci. Model Dev., 7, 41–91, https://doi.org/10.5194/gmd-7-41-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2011GL047865</doi>
+              <unstructured_citation>Oman, L. D., Ziemke, J. R., Douglass, A. R., Waugh, D. W., Lang, C.,
+Rodriguez, J. M., and Nielsen, J. E.: The response of tropical tropospheric
+ozone to ENSO, Geophys. Res. Lett., 38, L13706, https://doi.org/10.1029/2011GL047865,
+2011. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1029/2012JD018546</doi>
+              <unstructured_citation>Oman, L. D., Douglass, A. R., Ziemke, J. R., Rodriguez, J. M., Waugh, D. W.,
+and Nielsen, J. E.: The ozone response to ENSO in Aura satellite
+measurements and a chemistry-climate simulation, J. Geophys. Res., 118,
+965–976, https://doi.org/10.1029/2012JD018546, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.5194/acp-11-12813-2011</doi>
+              <unstructured_citation>Patra, P. K., Houweling, S., Krol, M., Bousquet, P., Belikov, D., Bergmann, D., Bian, H., Cameron-Smith, P., Chipperfield, M. P., Corbin, K., Fortems-Cheiney, A., Fraser, A., Gloor, E., Hess, P., Ito, A., Kawa, S. R., Law, R. M., Loh, Z., Maksyutov, S., Meng, L., Palmer, P. I., Prinn, R. G., Rigby, M., Saito, R., and Wilson, C.: TransCom model simulations of CH4 and related species: linking transport, surface flux and chemical loss with CH4 variability in the troposphere and lower stratosphere, Atmos. Chem. Phys., 11, 12813–12837, https://doi.org/10.5194/acp-11-12813-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1038/nature13721</doi>
+              <unstructured_citation>Patra, P. K., Krol, M. C., Montzka, S. A., Arnold, T., Atlas, E. L.,
+Lintner, B. R., Stephens, B. B., Xiang, B., Elkins, J. W., Fraser, P. J.,
+Ghosh, A., Hintsa, E. J., Hurst, D. F., Ishijima, K., Krummel, P. B.,
+Miller, B. R., Miyazaki, K., Moore, F. L., Mühle, J., O'Doherty, S.,
+Prinn, R. G., Steele, L. P., Takigawa, M., Wang, H. J., Weiss, R. F., Wofsy,
+S. C., and Young, D.: Observational evidence for interhemispheric
+hydroxyl-radical parity, Nature, 513, 219, https://doi.org/10.1038/nature13721, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.5194/acp-9-5281-2009</doi>
+              <unstructured_citation>Pison, I., Bousquet, P., Chevallier, F., Szopa, S., and Hauglustaine, D.: Multi-species inversion of CH4, CO and H2 emissions from surface measurements, Atmos. Chem. Phys., 9, 5281–5297, https://doi.org/10.5194/acp-9-5281-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1088/1748-9326/aa8391</doi>
+              <unstructured_citation>Poulter, B., Bousquet, P., Canadell, J. G., Ciais, P., Peregon, A., Saunois,
+M., Arora, V. K., Beerling, D. J., Brovkin, V., and Jones, C. D.: Global
+wetland contribution to 2000–2012 atmospheric methane growth rate dynamics,
+Environ. Res. Lett., 12, 094013, https://doi.org/10.1088/1748-9326/aa8391, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/2012GL051440</doi>
+              <unstructured_citation>Prather, M. J., Holmes, C. D., and Hsu, J.: Reactive greenhouse gas
+scenarios: Systematic exploration of uncertainties and the role of
+atmospheric chemistry, Geophys. Res. Lett., 39, L09803,
+https://doi.org/10.1029/2012GL051440, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Price, C. and Rind, D.: Modeling Global Lightning Distributions in a
+General Circulation Model, Mon. Weather Rev., 122, 1930–1939,
+https://doi.org/10.1175/1520-0493(1994)122&amp;amp;lt;1930:mgldia&amp;amp;gt;2.0.co;2,
+1994. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1029/2004GL022228</doi>
+              <unstructured_citation>Prinn, R. G., Huang, J., Weiss, R. F., Cunnold, D. M., Fraser, P. J.,
+Simmonds, P. G., McCulloch, A., Harth, C., Reimann, S., Salameh, P.,
+O'Doherty, S., Wang, R. H. J., Porter, L. W., Miller, B. R., and Krummel, P.
+B.: Evidence for variability of atmospheric hydroxyl radicals over the past
+quarter century, Geophys. Res. Lett., 32, L07809,
+https://doi.org/10.1029/2004GL022228, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Randerson, J. T., van der Werf, G. R., Giglio, L., Collatz, G. J., and Kasibhatla, P. S.: Global Fire Emissions Database, Version 4.1 (GFEDv4), ORNL
+DAAC, Oak Ridge, Tennessee, USA, https://doi.org/10.3334/ORNLDAAC/1293, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.5194/acp-15-5887-2015</doi>
+              <unstructured_citation>Revell, L. E., Tummon, F., Stenke, A., Sukhodolov, T., Coulon, A., Rozanov, E., Garny, H., Grewe, V., and Peter, T.: Drivers of the tropospheric ozone budget throughout the 21st century under the medium-high climate scenario RCP 6.0, Atmos. Chem. Phys., 15, 5887–5902, https://doi.org/10.5194/acp-15-5887-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.5194/acp-18-16155-2018</doi>
+              <unstructured_citation>Revell, L. E., Stenke, A., Tummon, F., Feinberg, A., Rozanov, E., Peter, T., Abraham, N. L., Akiyoshi, H., Archibald, A. T., Butchart, N., Deushi, M., Jöckel, P., Kinnison, D., Michou, M., Morgenstern, O., O'Connor, F. M., Oman, L. D., Pitari, G., Plummer, D. A., Schofield, R., Stone, K., Tilmes, S., Visioni, D., Yamashita, Y., and Zeng, G.: Tropospheric ozone in CCMI models and Gaussian process emulation to understand biases in the SOCOLv3 chemistry-climate model, Atmos. Chem. Phys., 18, 16155–16172, https://doi.org/10.5194/acp-18-16155-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1007/s10584-011-0149-y</doi>
+              <unstructured_citation>Riahi, K., Rao, S., Krey, V., Cho, C., Chirkov, V., Fischer, G., Kindermann,
+G., Nakicenovic, N., and Rafaj, P.: RCP 8.5 – A scenario of comparatively
+high greenhouse gas emissions, Clim. Change, 109, 33–57,
+https://doi.org/10.1007/s10584-011-0149-y, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1029/1998GB900004</doi>
+              <unstructured_citation>Ridgwell, A. J., Marshall, S. J., and Gregson, K.: Consumption of
+atmospheric methane by soils: A process-based model, Global Biogeochem. Cy., 13, 59–70, https://doi.org/10.1029/1998GB900004, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1029/2008GL036037</doi>
+              <unstructured_citation>Rigby, M., Prinn, R. G., Fraser, P. J., Simmonds, P. G., Langenfelds, R. L.,
+Huang, J., Cunnold, D. M., Steele, L. P., Krummel, P. B., Weiss, R. F.,
+O'Doherty, S., Salameh, P. K., Wang, H. J., Harth, C. M., Mühle, J., and
+Porter, L. W.: Renewed growth of atmospheric methane, Geophys. Res. Lett., 35, L22805, https://doi.org/10.1029/2008gl036037, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1073/pnas.1616426114</doi>
+              <unstructured_citation>Rigby, M., Montzka, S. A., Prinn, R. G., White, J. W. C., Young, D.,
+O'Doherty, S., Lunt, M. F., Ganesan, A. L., Manning, A. J., Simmonds, P. G.,
+Salameh, P. K., Harth, C. M., Muhle, J., Weiss, R. F., Fraser, P. J.,
+Steele, L. P., Krummel, P. B., McCulloch, A., and Park, S.: Role of
+atmospheric oxidation in recent methane growth, P. Natl. Acad. Sci. USA,
+114, 5373–5377, https://doi.org/10.1073/pnas.1616426114, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.5194/acp-19-8669-2019</doi>
+              <unstructured_citation>Rowlinson, M. J., Rap, A., Arnold, S. R., Pope, R. J., Chipperfield, M. P., McNorton, J., Forster, P., Gordon, H., Pringle, K. J., Feng, W., Kerridge, B. J., Latter, B. L., and Siddans, R.: Impact of El Niño–Southern Oscillation on the interannual variability of methane and tropospheric ozone, Atmos. Chem. Phys., 19, 8669–8686, https://doi.org/10.5194/acp-19-8669-2019, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Sadourny, R. and Laval, K.: January and July performances of the LMD
+general circulation model, New Perspectives in Climate Modeling, in: New
+Perspectives in Climate Modeling, edited by: Berger, A. L. and Nicolis, C.,
+Elsevier Press, Amsterdam, 173–197, 1984. </unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.5194/gmd-7-2653-2014</doi>
+              <unstructured_citation>Sander, R., Jöckel, P., Kirner, O., Kunert, A. T., Landgraf, J., and Pozzer, A.: The photolysis module JVAL-14, compatible with the MESSy standard, and the JVal PreProcessor (JVPP), Geosci. Model Dev., 7, 2653–2662, https://doi.org/10.5194/gmd-7-2653-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Sander, S. P., Abbatt, J., Barker, J. R., Burkholder, J. B., Friedl, R. R.,
+Golden, D. M., Huie, R., Kurylo, M. J., Moortgat, G. K., Orkin, V. L., and
+Wine, P. H.: Chemical kinetics and photochemical data for use in atmospheric
+studies evaluation number 17, Pasadena, CA: Jet Propulsion Laboratory,
+National Aeronautics and Space Administration, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.5194/essd-8-697-2016</doi>
+              <unstructured_citation>Saunois, M., Bousquet, P., Poulter, B., Peregon, A., Ciais, P., Canadell, J. G., Dlugokencky, E. J., Etiope, G., Bastviken, D., Houweling, S., Janssens-Maenhout, G., Tubiello, F. N., Castaldi, S., Jackson, R. B., Alexe, M., Arora, V. K., Beerling, D. J., Bergamaschi, P., Blake, D. R., Brailsford, G., Brovkin, V., Bruhwiler, L., Crevoisier, C., Crill, P., Covey, K., Curry, C., Frankenberg, C., Gedney, N., Höglund-Isaksson, L., Ishizawa, M., Ito, A., Joos, F., Kim, H.-S., Kleinen, T., Krummel, P., Lamarque, J.-F., Langenfelds, R., Locatelli, R., Machida, T., Maksyutov, S., McDonald, K. C., Marshall, J., Melton, J. R., Morino, I., Naik, V., O'Doherty, S., Parmentier, F.-J. W., Patra, P. K., Peng, C., Peng, S., Peters, G. P., Pison, I., Prigent, C., Prinn, R., Ramonet, M., Riley, W. J., Saito, M., Santini, M., Schroeder, R., Simpson, I. J., Spahni, R., Steele, P., Takizawa, A., Thornton, B. F., Tian, H., Tohjima, Y., Viovy, N., Voulgarakis, A., van Weele, M., van der Werf, G. R., Weiss, R., Wiedinmyer, C., Wilton, D. J., Wiltshire, A., Worthy, D., Wunch, D., Xu, X., Yoshida, Y., Zhang, B., Zhang, Z., and Zhu, Q.: The global methane budget 2000–2012, Earth Syst. Sci. Data, 8, 697–751, https://doi.org/10.5194/essd-8-697-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1029/2007GB003031</doi>
+              <unstructured_citation>Schultz, M. G., Heil, A., Hoelzemann, J. J., Spessa, A., Thonicke, K.,
+Goldammer, J. G., Held, A. C., Pereira, J. M. C., and van het Bolscher, M.:
+Global wildland fire emissions from 1960 to 2000, Global Biogeochem. Cy., 22, GB2002, https://doi.org/10.1029/2007gb003031, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.5194/acp-8-7055-2008</doi>
+              <unstructured_citation>Scinocca, J. F., McFarlane, N. A., Lazare, M., Li, J., and Plummer, D.: Technical Note: The CCCma third generation AGCM and its extension into the middle atmosphere, Atmos. Chem. Phys., 8, 7055–7074, https://doi.org/10.5194/acp-8-7055-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.5194/acp-14-9317-2014</doi>
+              <unstructured_citation>Sindelarova, K., Granier, C., Bouarar, I., Guenther, A., Tilmes, S., Stavrakou, T., Müller, J.-F., Kuhn, U., Stefani, P., and Knorr, W.: Global data set of biogenic VOC emissions calculated by the MEGAN model over the last 30 years, Atmos. Chem. Phys., 14, 9317–9341, https://doi.org/10.5194/acp-14-9317-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.1002/2015JD023365</doi>
+              <unstructured_citation>Solomon, S., Kinnison, D. E., Bandoro, J., and Garcia, R.: Simulations of
+polar ozone depletion: an update, J. Geophys. Res., 120, 7958–7974,
+https://doi.org/10.1002/2015JD023365, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1029/1999JD901006</doi>
+              <unstructured_citation>Spivakovsky, C. M., Logan, J. A., Montzka, S. A., Balkanski, Y. J.,
+Foreman-Fowler, M., Jones, D. B. A., Horowitz, L. W., Fusco, A. C.,
+Brenninkmeijer, C. A. M., Prather, M. J., Wofsy, S. C., and McElroy, M. B.:
+Three-dimensional climatological distribution of tropospheric OH: Update and
+evaluation, J. Geophys. Res.-Atmos., 105, 8931–8980,
+https://doi.org/10.1029/1999jd901006, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.5194/gmd-6-1407-2013</doi>
+              <unstructured_citation>Stenke, A., Schraner, M., Rozanov, E., Egorova, T., Luo, B., and Peter, T.: The SOCOL version 3.0 chemistry-climate model: description, evaluation, and implications from an advanced transport algorithm, Geosci. Model Dev., 6, 1407–1427, https://doi.org/10.5194/gmd-6-1407-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.3390/atmos8090163</doi>
+              <unstructured_citation>Staehelin, J., Tummon, F., Revell, L., Stenke, A., and Peter, T.:
+Tropospheric Ozone at Northern Mid-Latitudes: Modeled and Measured Long-Term
+Changes, Atmosphere, 8, 163, https://doi.org/10.3390/atmos8090163, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.5194/acp-15-10529-2015</doi>
+              <unstructured_citation>Stohl, A., Aamaas, B., Amann, M., Baker, L. H., Bellouin, N., Berntsen, T. K., Boucher, O., Cherian, R., Collins, W., Daskalakis, N., Dusinska, M., Eckhardt, S., Fuglestvedt, J. S., Harju, M., Heyes, C., Hodnebrog, Ø., Hao, J., Im, U., Kanakidou, M., Klimont, Z., Kupiainen, K., Law, K. S., Lund, M. T., Maas, R., MacIntosh, C. R., Myhre, G., Myriokefalitakis, S., Olivié, D., Quaas, J., Quennehen, B., Raut, J.-C., Rumbold, S. T., Samset, B. H., Schulz, M., Seland, Ø., Shine, K. P., Skeie, R. B., Wang, S., Yttri, K. E., and Zhu, T.: Evaluating the climate and air quality impacts of short-lived pollutants, Atmos. Chem. Phys., 15, 10529–10566, https://doi.org/10.5194/acp-15-10529-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.5194/acp-15-11789-2015</doi>
+              <unstructured_citation>Strode, S. A., Duncan, B. N., Yegorova, E. A., Kouatchou, J., Ziemke, J. R., and Douglass, A. R.: Implications of carbon monoxide bias for methane lifetime and atmospheric composition in chemistry climate models, Atmos. Chem. Phys., 15, 11789–11805, https://doi.org/10.5194/acp-15-11789-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.5194/acp-16-7285-2016</doi>
+              <unstructured_citation>Strode, S. A., Worden, H. M., Damon, M., Douglass, A. R., Duncan, B. N., Emmons, L. K., Lamarque, J.-F., Manyin, M., Oman, L. D., Rodriguez, J. M., Strahan, S. E., and Tilmes, S.: Interpreting space-based trends in carbon monoxide with multiple models, Atmos. Chem. Phys., 16, 7285–7294, https://doi.org/10.5194/acp-16-7285-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.1002/2015JD024277</doi>
+              <unstructured_citation>Sukhodolov, T., Rozanov, E., Ball, W. T., Bais, A., Tourpali, K., Shapiro,
+A. I., Telford, P., Smyshlyaev, S., Fomin, B., Sander, R., Bossay, S., Bekki,
+S., Marchand, M., Chipperfield, M. P., Dhomse, S., Haigh, J. D., Peter, T.,
+and Schmutz, W.: Evaluation of simulated photolysis rates and their
+response to solar irradiance variability, J. Geophys. Res.-Atmos. 121, 6066–6084, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1007/s00382-012-1408-y</doi>
+              <unstructured_citation>Szopa, S., Balkanski, Y., Schulz, M., Bekki, S., Cugnet, D.,
+Fortems-Cheiney, A., Turquety, S., Cozic, A., Déandreis, C.,
+Hauglustaine, D., Idelkadi, A., Lathière, J., Lefevre, F., Marchand, M.,
+Vuolo, R., Yan, N., and Dufresne, J.-L.: Aerosol and ozone changes as
+forcing for climate evolution between 1850 and 2100, Clim. Dynam., 40,
+2223–2250, https://doi.org/10.1007/s00382-012-1408-y, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.5194/gmd-6-161-2013</doi>
+              <unstructured_citation>Telford, P. J., Abraham, N. L., Archibald, A. T., Braesicke, P., Dalvi, M., Morgenstern, O., O'Connor, F. M., Richards, N. A. D., and Pyle, J. A.: Implementation of the Fast-JX Photolysis scheme (v6.4) into the UKCA component of the MetUM chemistry-climate model (v7.3), Geosci. Model Dev., 6, 161–177, https://doi.org/10.5194/gmd-6-161-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <unstructured_citation>Terrenoire, E., Hauglustaine, D., Valorso, A. R., and Cozic, A.: Impact of
+present and future aircraft NOx and aerosol emissions on atmospheric
+composition and radiative forcing of climate, Atmos. Chem. Phys., in
+preparation, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.5194/acp-7-5815-2007</doi>
+              <unstructured_citation>Teyssèdre, H., Michou, M., Clark, H. L., Josse, B., Karcher, F., Olivié, D., Peuch, V.-H., Saint-Martin, D., Cariolle, D., Attié, J.-L., Nédélec, P., Ricaud, P., Thouret, V., van der A, R. J., Volz-Thomas, A., and Chéroux, F.: A new tropospheric and stratospheric Chemistry and Transport Model MOCAGE-Climat for multi-year studies: evaluation of the present-day climatology and sensitivity to surface processes, Atmos. Chem. Phys., 7, 5815–5860, https://doi.org/10.5194/acp-7-5815-2007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.5194/gmd-8-1395-2015</doi>
+              <unstructured_citation>Tilmes, S., Lamarque, J.-F., Emmons, L. K., Kinnison, D. E., Ma, P.-L., Liu, X., Ghan, S., Bardeen, C., Arnold, S., Deeter, M., Vitt, F., Ryerson, T., Elkins, J. W., Moore, F., Spackman, J. R., and Val Martin, M.: Description and evaluation of tropospheric chemistry and aerosols in the Community Earth System Model (CESM1.2), Geosci. Model Dev., 8, 1395–1426, https://doi.org/10.5194/gmd-8-1395-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.5194/gmd-9-1853-2016</doi>
+              <unstructured_citation>Tilmes, S., Lamarque, J.-F., Emmons, L. K., Kinnison, D. E., Marsh, D., Garcia, R. R., Smith, A. K., Neely, R. R., Conley, A., Vitt, F., Val Martin, M., Tanimoto, H., Simpson, I., Blake, D. R., and Blake, N.: Representation of the Community Earth System Model (CESM1) CAM4-chem within the Chemistry-Climate Model Initiative (CCMI), Geosci. Model Dev., 9, 1853–1890, https://doi.org/10.5194/gmd-9-1853-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.1073/pnas.1616020114</doi>
+              <unstructured_citation>Turner, A. J., Frankenberg, C., Wennberg, P. O., and Jacob, D. J.: Ambiguity
+in the causes for decadal trends in atmospheric methane and hydroxyl, P. Natl. Acad. Sci. USA, 114, 5367–5372, https://doi.org/10.1073/pnas.1616020114, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.1073/pnas.1807532115</doi>
+              <unstructured_citation>Turner, A. J., Fung, I., Naik, V., Horowitz, L. W., and Cohen, R. C.:
+Modulation of hydroxyl variability by ENSO in the absence of external
+forcing, P. Natl. Acad. Sci. USA, 115, 8931–8936,
+https://doi.org/10.1073/pnas.1807532115, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <doi provider="crossref">10.1073/pnas.1814297116</doi>
+              <unstructured_citation>Turner, A. J., Frankenberg, C., and Kort, E. A.: Interpreting contemporary
+trends in atmospheric methane, P. Natl. Acad. Sci. USA, 116, 2805–2813, 10.1073/pnas.1814297116, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.5194/acp-6-3423-2006</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., Collatz, G. J., Kasibhatla, P. S., and Arellano Jr., A. F.: Interannual variability in global biomass burning emissions from 1997 to 2004, Atmos. Chem. Phys., 6, 3423–3441, https://doi.org/10.5194/acp-6-3423-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <doi provider="crossref">10.5194/acp-10-11707-2010</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., Collatz, G. J., Mu, M., Kasibhatla, P. S., Morton, D. C., DeFries, R. S., Jin, Y., and van Leeuwen, T. T.: Global fire emissions and the contribution of deforestation, savanna, forest, agricultural, and peat fires (1997–2009), Atmos. Chem. Phys., 10, 11707–11735, https://doi.org/10.5194/acp-10-11707-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <doi provider="crossref">10.5194/acp-14-10363-2014</doi>
+              <unstructured_citation>Vinken, G. C. M., Boersma, K. F., Maasakkers, J. D., Adon, M., and Martin, R. V.: Worldwide biogenic soil NOx emissions inferred from OMI NO2 observations, Atmos. Chem. Phys., 14, 10363–10381, https://doi.org/10.5194/acp-14-10363-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <doi provider="crossref">10.5194/acp-13-2563-2013</doi>
+              <unstructured_citation>Voulgarakis, A., Naik, V., Lamarque, J.-F., Shindell, D. T., Young, P. J., Prather, M. J., Wild, O., Field, R. D., Bergmann, D., Cameron-Smith, P., Cionni, I., Collins, W. J., Dalsøren, S. B., Doherty, R. M., Eyring, V., Faluvegi, G., Folberth, G. A., Horowitz, L. W., Josse, B., MacKenzie, I. A., Nagashima, T., Plummer, D. A., Righi, M., Rumbold, S. T., Stevenson, D. S., Strode, S. A., Sudo, K., Szopa, S., and Zeng, G.: Analysis of present day and future OH and methane lifetime in the ACCMIP simulations, Atmos. Chem. Phys., 13, 2563–2587, https://doi.org/10.5194/acp-13-2563-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <doi provider="crossref">10.5194/gmd-7-361-2014</doi>
+              <unstructured_citation>Walters, D. N., Williams, K. D., Boutle, I. A., Bushell, A. C., Edwards, J. M., Field, P. R., Lock, A. P., Morcrette, C. J., Stratton, R. A., Wilkinson, J. M., Willett, M. R., Bellouin, N., Bodas-Salcedo, A., Brooks, M. E., Copsey, D., Earnshaw, P. D., Hardiman, S. C., Harris, C. M., Levine, R. C., MacLachlan, C., Manners, J. C., Martin, G. M., Milton, S. F., Palmer, M. D., Roberts, M. J., Rodríguez, J. M., Tennant, W. J., and Vidale, P. L.: The Met Office Unified Model Global Atmosphere 4.0 and JULES Global Land 4.0 configurations, Geosci. Model Dev., 7, 361–386, https://doi.org/10.5194/gmd-7-361-2014, 2014.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <doi provider="crossref">10.1029/1998JD100004</doi>
+              <unstructured_citation>Wang, Y. and Jacob, D. J.: Anthropogenic forcing on tropospheric ozone and
+OH since preindustrial times, J. Geophys. Res.-Atmos.,
+103, 31123–31135, https://doi.org/10.1029/1998JD100004, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <unstructured_citation>World Meteorological Organization: Definition of the tropopause, Bulletin of
+the World Meteorological Organization, 6, 136–137, 1957. </unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <doi provider="crossref">10.1029/95JD00370</doi>
+              <unstructured_citation>Yienger, J. J. and Levy, H.: Empirical model of global soil-biogenic
+NOχ emissions, J. Geophys. Res.-Atmos., 100,
+11447–11464, https://doi.org/10.1029/95JD00370, 1995. </unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <unstructured_citation>Yukimoto, S., Yoshimura, H., Hosaka, M., Sakami, T., Tsujino, H., Hirabara,
+M., Tanaka, T. Y., Deushi, M., Obata, A., Nakano, H., Adachi, Y., Shindo,
+E., Yabu, S., Ose, T., and Kitoh, A.: Meteorological Research Institute
+Earth System Model Version 1 (MRIESM1), 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref120">
+              <doi provider="crossref">10.2151/jmsj.2012-A02</doi>
+              <unstructured_citation>Yukimoto, S., Adachi, Y., Hosaka, M., Sakami, T., Yoshimura, H., Hirabara, M., Tanaka, T. Y., Shindo, E., Tsujino, H., Deushi, M., Mizuta, R., Yabu, S., Obata, A., Nakano, H., Koshiro, T., Ose, T., and Kitoh, A.: A new global climate model of the Meteorological Research Institute: MRI-CGCM3 – Model description and basic performance, J. Meteorol. Soc. Jpn., 90, 23–64, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref121">
+              <doi provider="crossref">10.1029/GL005i008p00679</doi>
+              <unstructured_citation>Zimmerman, P. R., Chatfield, R. B., Fishman, J., Crutzen, P. J., and Hanst,
+P. L.: Estimates on the production of CO and H2 from the oxidation of
+hydrocarbon emissions from vegetation, Geophys. Res. Lett., 5,
+679–682, https://doi.org/10.1029/GL005i008p00679, 1978. </unstructured_citation>
+            </citation>
+            <citation key="ref122">
+              <doi provider="crossref">10.5194/acp-2017-1212</doi>
+              <unstructured_citation>Zimmermann, P. H., Brenninkmeijer, C. A. M., Pozzer, A., Jöckel, P., Zahn, A., Houweling, S., and Lelieveld, J.: Model simulations of atmospheric methane and their evaluation using AGAGE/NOAA surface- and IAGOS-CARIBIC aircraft observations, 1997–2014, Atmos. Chem. Phys. Discuss., https://doi.org/10.5194/acp-2017-1212, in review, 2018. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-19-13701-2019-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/19/13701/2019/acp-19-13701-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

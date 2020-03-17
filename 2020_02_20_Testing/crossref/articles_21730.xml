@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-10 19:46:43">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>6</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Assessing a low-cost methane sensor quantification system for use in complex rural and urban environments</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Ashley</given_name>
+              <surname>Collier-Oxandale</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joanna Gordon</given_name>
+              <surname>Casey</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ricardo</given_name>
+              <surname>Piedrahita</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John</given_name>
+              <surname>Ortega</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hannah</given_name>
+              <surname>Halliday</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jill</given_name>
+              <surname>Johnston</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michael P.</given_name>
+              <surname>Hannigan</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Low-cost sensors have the potential to facilitate the exploration of air quality issues on new temporal and spatial scales. Here we evaluate a low-cost sensor quantification system for methane through its use in two different deployments. The first was a 1-month deployment along the Colorado Front Range and included sites near active oil and gas operations in the Denver-Julesburg basin. The second deployment was in an urban Los Angeles neighborhood, subject to complex mixtures of air pollution sources including oil operations. Given its role as a potent greenhouse gas, new low-cost methods for detecting and monitoring methane may aid in protecting human and environmental health. In this paper, we assess a number of linear calibration models used to convert raw sensor signals into ppm concentration values. We also examine different choices that can be made during calibration and data processing and explore cross sensitivities that impact this sensor type. The results illustrate the accuracy of the Figaro TGS 2600 sensor when methane is quantified from raw signals using the techniques described. The results also demonstrate the value of these tools for examining air quality trends and events on small spatial and temporal scales as well as their ability to characterize an area – highlighting their potential to provide preliminary data that can inform more targeted measurements or supplement existing monitoring networks.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>20</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>3569</first_page>
+            <last_page>3594</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">CBET: 1240584</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">DISCOVER-AQ</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5067/Aircraft/DISCOVER-AQ/Aerosol-TraceGas</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-11-3569-2018</doi>
+            <resource>https://www.atmos-meas-tech.net/11/3569/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/11/3569/2018/amt-11-3569-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1016/j.coche.2014.05.004</doi>
+              <unstructured_citation>Allen, D. T.: Methane emissions from natural gas production and use: reconciling bottom-up and top-down measurements, Curr. Opin. Chem. Eng., 5, 78–83, https://doi.org/10.1016/j.coche.2014.05.004, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1021/es404621d</doi>
+              <unstructured_citation>Adgate, J. L., Goldstein, B. D., and McKenzie, L. M.: Potential public health hazards, exposures and health effects from unconventional natural gas development, Environ. Sci. Technol., 48, 8307–8320, https://doi.org/10.1021/es404621d, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Arfire, A., Marjovi, A., and Martinoli, A.: Mitigating slow dynamics of low-cost chemical sensors for mobile air quality monitoring sensor networks. ESWN '16 Proceedings of the 2016 International Conference on Embedded Wireless Systems and Networks, Conference Proceedings, 159–167, ISBN: 978-0-9949886-0-7, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1016/j.envpol.2014.03.028</doi>
+              <unstructured_citation>Bamberger, I., Stieger, J., Buchmann, N., and Eugster, W.: Spatial variability of methane: attributing atmospheric concentrations to emissions, Environ. Pollut., 190, 65–74, https://doi.org/10.1016/j.envpol.2014.03.028, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1088/0957-4484/23/45/455501</doi>
+              <unstructured_citation>Biaggi-Labiosa, A., Sola, F., Lebron-Colon, M., Evans, L. J., Xu, J. C., Hunter, G., Berger, G. M., and Gonzalez, J. M.: A novel methane sensor based on porous SnO2 nanorods: room temperature to high temperature detection, Nanotechnology, 23, 45, https://doi.org/10.1088/0957-4484/23/45/455501, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Boulder County: Past review of oil and gas development regulations, available at: https://www.bouldercounty.org/property-and-land/land-use/planning/oil-gas-development/history/, last access: 8 November 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1016/j.scitotenv.2017.12.312</doi>
+              <unstructured_citation>Casey J. G., Ortega, J., Coffey, E., and Hannigan, M.: Low-cost measurement techniques to characterize the influence of home heating fuel on carbon monoxide in Navajo homes, Sci. Total Environ., 625, 608–618, https://doi.org/10.1016/j.scitotenv.2017.12.312, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.3390/s17092072</doi>
+              <unstructured_citation>Cheadle, L., Deanes, L., Sadighi, K., Casey, J. G., Collier-Oxandale, A., and Hannigan, M.: Quantifying neighborhood-scale spatial variations of ozone at open space and urban sites in Boulder, Colorado using low-cost sensor technology, Sensors, 17, 9, https://doi.org/10.3390/s17092072, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.3390/s17112478</doi>
+              <unstructured_citation>Clements, A., Griswold, W., RS, A., Johnston, J. E., Herting, M. M., Thorson, J., Collier-Oxandale, A., and Hannigan, M.: Low-cost air quality monitoring tools: from research to practice (a workshop summary), Sensors, 17, 2478, https://doi.org/10.3390/s17112478, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1109/FIE.2015.7344246</doi>
+              <unstructured_citation>Collier, A., Knight, D., Hafich, K., Hannigan, M., Polmear, M., and Graves, B.: On the development and implementation of a project-based learning curriculum for air quality in K-12 schools, 2015 IEEE: Frontiers in Education Conference (FIE), Conference Proceedings, https://doi.org/10.1109/FIE.2015.7344246, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Colorado Oil and Gas Conservation Commission (COGCC), Wells, data layer, available at: http://cogcc.state.co.us/documents/data/downloads/gis/WELLS_SHP.ZIP (last access: 4 October 2017), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Colorado Oil and Gas Conservation Commission (COGCC): Online GIS Tool, available at: https://cogccmap.state.co.us/cogcc_gis_online/, last access: 4 October 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-10-3575-2017</doi>
+              <unstructured_citation>Cross, E. S., Williams, L. R., Lewis, D. K., Magoon, G. R., Onasch, T. B., Kaminsky, M. L., Worsnop, D. R., and Jayne, J. T.: Use of electrochemical sensors for measurement of air pollution: correcting interference response and validating measurements, Atmos. Meas. Tech., 10, 3575–3588, https://doi.org/10.5194/amt-10-3575-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1525/elementa.188</doi>
+              <unstructured_citation>Davis K. J., Deng A., Lauvaux T., Miles N. L., Richardson S. J., Sarmiento D. P., Kevin R., Gurney, R., Hardesty, M., Bonin, T. A., Brewer, W. A., Lamb, B. K., Shepson, P. B., Harvey, R. M., Cambaliza, M. O., Sweeney, C., Turnbull, J. C., Whetstone, J., and Karion, A.: The Indianapolis flux experiment (INFLUX): a test-bed for developing urban greenhouse gas emission measurements, Elem. Sci. Anth. 5, 21, https://doi.org/10.1525/elementa.188, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1016/j.snb.2007.09.060</doi>
+              <unstructured_citation>De Vito, S., Massera, E., Piga, M., Martinotto, L., and Di Francia, G.: On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario, Sensor. Actuat. B-Chem., 129, 750–57, https://doi.org/10.1016/j.snb.2007.09.060, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5067/Aircraft/DISCOVER-AQ/Aerosol-TraceGas</doi>
+              <unstructured_citation>DISCOVER-AQ: Database, https://doi.org/10.5067/Aircraft/DISCOVER-AQ/Aerosol-TraceGas, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/98JD00923</doi>
+              <unstructured_citation>Etheridge, D. M., Steele, L. P., Francey, R. J., and Langenfelds, R. L.: Atmospheric methane between 1000 A.D. and present: evidence of anthropogenic emissions and climatic variability, J. Geophys. Res-Atmos., 103, 15979–15993, https://doi.org/10.1029/98JD00923, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/amt-5-1925-2012</doi>
+              <unstructured_citation>Eugster, W. and Kling, G. W.: Performance of a low-cost methane sensor for ambient concentration measurements in preliminary studies, Atmos. Meas. Tech., 5, 1925–1934, https://doi.org/10.5194/amt-5-1925-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-13-1377-2013</doi>
+              <unstructured_citation>Fang, Y., Naik, V., Horowitz, L. W., and Mauzerall, D. L.: Air pollution and associated human mortality: the role of air pollutant emissions, climate change and methane concentration increases from the preindustrial period to present, Atmos. Chem. Phys., 13, 1377–1394, https://doi.org/10.5194/acp-13-1377-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Figaro: TGS 2600 – for the detection of air contaminants, On-line product data sheet, available at: http://www.figarosensor.com/products/2600pdf.pdf (last access: 4 October 2017), 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2007JD009162</doi>
+              <unstructured_citation>Fiore, A. M., West, J. J., Horowitz, L. W., Naik, V., and Schwarzkopf, M. D.: Characterizing the tropospheric ozone response to methane emission controls and the benefits to climate and air quality, J. Geophys. Res., 113, 2156–2202, https://doi.org/10.1029/2007JD009162, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.4209/aaqr.2011.05.0055</doi>
+              <unstructured_citation>Hagler, G. S. W., Yelverton T. L. B., Vedantham, R., Hansen, A. D. A., and Turner, J. R.: Post-processing method to reduce noise while preserving high time resolution in aethalometer real-time black carbon data, Aerosol Air Qual. Res., 11, 539–546, https://doi.org/10.4209/aaqr.2011.05.0055, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/2016JD025327</doi>
+              <unstructured_citation>Halliday, H. S., Thompson, A. M., Wisthaler, A., Blake, D., Hornbrook, R. S., Mikoviny, T., Muller, M., Eicher, P., Apel, E. C., and Hills, A. J.: Atmospheric benzene observations from oil and gas production in the Denver Julesburg basin in July and August 2014, J. Geophys. Res.-Atmos., 121, 11055–11074, https://doi.org/10.1002/2016JD025327, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/j.atmosenv.2015.04.057</doi>
+              <unstructured_citation>Heimann, I., Bright, V. B., McLeod, M. W., Mead, M. I., Popoola, O. A. M., Stewart, G. B., and Jones, R. L.: Source attribution of air pollution by spatial scale separation using high spatial density networks of low cost air quality sensors, Atmos. Environ., 113, 10–19, https://doi.org/10.1016/j.atmosenv.2015.04.057, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1021/es405046r</doi>
+              <unstructured_citation>Helmig, D., Thompson, C. R., Evans, J., Boylan, P., Hueber, J., and Park, J. H.: Highly elevated atmospheric levels of volatile organic compounds in the uintah basin, Utah, Environ. Sci. Technol., 48, 4707–4715, https://doi.org/10.1021/es405046r, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1016/S0925-4005(97)00283-9</doi>
+              <unstructured_citation>Huyberechts, G., Szeco, P., Roggen, J., and Licznerski, B. W.: Simultaneous quantification of carbon monoxide and methane in humid air using a sensor array and an artificial neural network, Sensor. Actuat. B-Chem., 45, 123–30 https://doi.org/10.1016/S0925-4005(97)00283-9, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Intergovernmental Panel on Climate Change (IPCC): Climate Change 2014 Synthesis Report, available at: https://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full.pdf (last access: 4 October 2017), ISBN: 978-92-9169-143-2, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1002/grl.50811</doi>
+              <unstructured_citation>Karion, A., Sweeney, C., Pétron, G., Frost, G., Hardesty, R. M., Kofler, J., Miller, B. R., Newberger, T., Wolter, S., Banta, R., Brewer, A., Dlugokencky, E., Lang, P., Montzka, S. A., Schnell, R. S., Tans, P., Trainer, M., Zamora, R., and Conley, S.: Methane emissions estimate from airborne measurements over a western United States natural gas field, Geophys. Res. Lett., 40, 4393–4397, https://doi.org/10.1002/grl.50811, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/amt-11-1937-2018</doi>
+              <unstructured_citation>Kim, J., Shusterman, A. A., Lieschke, K. J., Newman, C., and Cohen, R. C.: The BErkeley Atmospheric CO2 Observation Network: field calibration and evaluation of low-cost air quality sensors, Atmos. Meas. Tech., 11, 1937–1946, https://doi.org/10.5194/amt-11-1937-2018, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1002/2014GL061503</doi>
+              <unstructured_citation>Kort, E. A., Frankenberg, C., Costigan, K. R., Lindenmaier, R., Dubey, M. K., and Wunch, D.: Four corners: the largest US methane anomaly viewed from space, Geophys. Res. Lett., 41, 6898–6903, https://doi.org/10.1002/2014GL061503, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1039/C5FD00201J</doi>
+              <unstructured_citation>Lewis, A. C., Lee, J., Edwards, P. M., Shaw, M. D., Evans, M. J., Moller, S. J., Smith, K. R., Buckley, J. W., Ellis, M., Gillot, S. R., and White, A.: Evaluating the performance of low cost chemical sensors for air pollution research, Faraday Discuss., 189, 85–103, https://doi.org/10.1039/C5FD00201J, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1016/j.snb.2014.11.032</doi>
+              <unstructured_citation>Masson, N., Piedrahita, R., and Hannigan, M.: Approach for quantification of metal oxide type semiconductor gas sensors used for ambient air quality monitoring, Sensor. Actuat. B-Chem., 208, 339–345, https://doi.org/10.1016/j.snb.2014.11.032, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.3390/s151027283</doi>
+              <unstructured_citation>Masson, N., Piedrahita, R., and Hannigan, M.: Quantification method for electrolytic sensors in long-term monitoring of ambient air quality, Sensors, 15, 27283–27302, https://doi.org/10.3390/s151027283, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.atmosenv.2012.11.060</doi>
+              <unstructured_citation>Mead, M. I., Popoola, O. A. M., Stewart, G. B., Landshoff, P., Calleja, M., Hayes, M., Baldovi, J. J., McLeod, M. W., Hodgson, T. F., Dicks, J., Lewis, A., Cohen, J., Baron, R., Saffell, J. R., and Jones, R. L.: The use of electrochemical sensors for monitoring urban air quality in low-cost, high-density networks, Atmos. Environ., 70, 186–203, https://doi.org/10.1016/j.atmosenv.2012.11.060, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1073/pnas.1314392110</doi>
+              <unstructured_citation>Miller, S. M., Wofsy, S. C., Michalak, A. M., Kort, E. A., Andrews, A. E., Biraud, S. C., Dlugokencky, E. J., Eluszkiewicz, J., Fischer, M. L., Janssens-Maenhout, G., Miller, B. R., Miller, J. B., Montzka, S. A., Nehrkorn, T., and Sweeney, C.: Anthropogenic emissions of methane in the United States, P. Natl. Acad. Sci. USA, 110, 20018–20022, https://doi.org/10.1073/pnas.1314392110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Mobile Sensing Technology: U-Pod open-source construction and parts information, available at: http://mobilesensingtechnology.com/, last access: 4 October 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Mocon, Inc – Baseline: Series 9000 Total Hydrocarbon Analyzer, available at: www.baseline-mocon.com (last access: 7 May 2018), 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1016/j.scitotenv.2014.09.059</doi>
+              <unstructured_citation>Moltchanov, S., Levy, I., Etzion, Y., Lerner, U., Broday, D. M., and Fishbain, B.: On the feasibility of measuring urban air pollution by wireless distributed sensor networks, Sci. Total Environ., 502, 537–547, https://doi.org/10.1016/j.scitotenv.2014.09.059, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1021/es4053472</doi>
+              <unstructured_citation>Moore, C. W., Zielinska, B., Petron, G., and Jackson, R. B.: Air impacts of increased natural gas acquisition, processing, and use: a critical review, Environ. Sci. Technol., 48, 8349–8359, https://doi.org/10.1021/es4053472, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1021/es034837g</doi>
+              <unstructured_citation>Nam, E. K., Jensen, T. E., and Wallington, T. J.: Methane Emissions from Vehicles, Environ. Sci. Technol., 38, 2005–2010, https://doi.org/10.1021/es034837g, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>National Oceanic and Atmospheric Association (NOAA): Global Greenhouse Gas Reference Network: Trends in Atmospheric Methane, available at: https://www.esrl.noaa.gov/gmd/ccgg/trends_ch4/#global_data, last access: 4 October 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1002/jgrd.50413</doi>
+              <unstructured_citation>Peischl, J., Ryerson T. B., Brioude, J., Aikin, K. C., Andrews, A. E., Atlas, E., Blake, D., Daube, B.C., De Gouw, J. A., Dlugokencky, E., Frost, G. J., Gentner, D. R., Gilman, J. B., Goldstein, A. H., Harley, R. A., Holloway, J. S., Kofler, J., Kuster, W. C., Lang, P. M., Novelli, P.C., Santoni, G. W., Trainer, M., Wofsy, S. S. C., and Parrish, D. D.: Quantifying sources of methane using light alkanes in the Los Angeles Basin, California, J. Geophys. Res.-Atmos., 118, 4974–90, https://doi.org/10.1002/jgrd.50413, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1016/j.uclim.2014.09.002</doi>
+              <unstructured_citation>Penza, M., Suriano, D., Cassano, G., Pfister, V., Amodio, M., Trizio, L., Brattoli, M., and De Gennaro, G.: A case-study of microsensors for landfill air-pollution monitoring applications, Urban Climate, 14, 351–369, https://doi.org/10.1016/j.uclim.2014.09.002, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1002/2013JD021272</doi>
+              <unstructured_citation>Pétron, G., Karion, A., Sweeney, C., Miller, B. R., Montzka, S. A., Frost, G. J., Trainer, M., Tans, P., Andrews, A., Kofler, J., Helmig, D., Guenther, D., Dlugokencky, E., Lang, P., Newberger, T., Wolter, S., Hall, B., Novelli, P., Brewer, A., Conley, S., Hardesty, M., Banta, R., White, A., Noone, D., Wolfe, D., and Schnell, R.: A new look at methane and nonmethane hydrocarbon emissions from oil and natural gas operations in the Colorado Denver-Julesburg Basin, J. Geophys. Res.-Atmos., 119, 6836–6852, https://doi.org/10.1002/2013JD021272, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Picarro, Inc: Picarro G2301 CRDS Analyzer CO2 CH4 H2O Measurements in Air, available at: www.picarro.com (last access: 7 May 2018), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Pfister G., Flocke, F., Hornbrook, R., Orlando, J., Lee, S., and Schroeder, J.: Final Report: Process-Based and Regional Source Impact Analysis for FRAPPÉ and DISCOVER-AQ 2014, National Center for Atmospheric Research, available at: https://www.colorado.gov/airquality/tech_doc_repository.aspx?action=open&amp;amp;amp;file=FRAPPE-NCAR_Final_Report_July2017.pdf, last access: 4 November 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/amt-7-3325-2014</doi>
+              <unstructured_citation>Piedrahita, R., Xiang, Y., Masson, N., Ortega, J., Collier, A., Jiang, Y., Li, K., Dick, R. P., Lv, Q., Hannigan, M., and Shang, L.: The next generation of low-cost personal air quality sensors for quantitative exposure monitoring, Atmos. Meas. Tech., 7, 3325–3336, https://doi.org/10.5194/amt-7-3325-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-14-2105-2014</doi>
+              <unstructured_citation>Popa, M. E., Vollmer, M. K., Jordan, A., Brand, W. A., Pathirana, S. L., Rothe, M., and Röckmann, T.: Vehicle emissions of greenhouse gases and related tracers from a tunnel study: CO : CO2, N2O : CO2, CH4 : CO2, O2 : CO2 ratios, and the stable isotopes 13C and 18O in CO2 and CO, Atmos. Chem. Phys., 14, 2105–2123, https://doi.org/10.5194/acp-14-2105-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1016/S0925-4005(99)00095-7</doi>
+              <unstructured_citation>Quaranta, F., Rella, R., Siciliano, P., Capone, S., Epifani, M., Vasanelli, L., Licciullic, A., and Zoccod, A.: A novel gas sensor based on SnO2/Os thin film for the detection of methane at low temperature, Sensor. Actuat. B-Chem., 58, 350–355, https://doi.org/10.1016/S0925-4005(99)00095-7, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Sadd, J. and Shamasunder, B.: Oil extraction in Los Angeles: health, land use, and environmental justice consequences, from the Drilling Down Report, by the Liberty Hill Foundation, available at: https://www.libertyhill.org/sites/libertyhillfoundation/files/Drilling Down Report_1.pdf (last access: 4 October 2017), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/amt-11-1777-2018</doi>
+              <unstructured_citation>Sadighi, K., Coffey, E., Polidori, A., Feenstra, B., Lv, Q., Henze, D. K., and Hannigan, M.: Intra-urban spatial variability of surface ozone in Riverside, CA: viability and validation of low-cost sensors, Atmos. Meas. Tech., 11, 1777–1792, https://doi.org/10.5194/amt-11-1777-2018, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.3390/ijerph15010138</doi>
+              <unstructured_citation>Shamasunder, B., Collier-Oxandale, A., Blickley, J., Sadd, J., Chan, M., Navarro, S., Hannigan, M., and Wong, N. J.: Community-based health and exposure study around urban oil developments in south Los Angeles, Int. J. Environ. Res. Public Health, 15, 1, https://doi.org/10.3390/ijerph15010138, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1021/es4022602</doi>
+              <unstructured_citation>Snyder, E. G., Watkins, T. H., Solomon, P. A., Thoma, E. D., Williams, R. W., Hagler, G. S. W., Shelow, D., Hindin D. A., Kilaru, V. J., and Preuss, P. W.: The changing paradigm of air pollution monitoring, Environ. Sci. Technol., 47, 11369–11377 https://doi.org/10.1021/es4022602, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1016/j.snb.2015.03.031</doi>
+              <unstructured_citation>Spinelle, L., Gerboles, M., Villani, M. G., Aleixandre, M., and Bonavitacola, F.: Field calibration of a cluster of low-cost available sensors for air quality monitoring. part A: ozone and nitrogen dioxide, Sensor. Actuat. B-Chem., 215, 249–257, https://doi.org/10.1016/j.snb.2015.03.031, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1016/j.snb.2016.07.036</doi>
+              <unstructured_citation>Spinelle, L., Gerboles, M., Villani, M. G., Aleixandre, M., and Bonavitacola, F.: Field calibration of a cluster of low-cost commercially available sensors for air quality monitoring. part B: NO, CO and CO2, Sensor. Actuat. B-Chem., 238, 706–715, https://doi.org/10.1016/j.snb.2016.07.036, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1021/es5060258</doi>
+              <unstructured_citation>Subramanian, R., Williams, L. L., Vaughn, T. L., Zimmerle, D., Roscioli, J. R., Herndon, S. C., Yacovitch, T. I., Floerchinger, C., Tkacik, D. S., Mitchell, A. L., Sullivan, M. R., Dallman, T. R., and Robinson, A. L.: Methane emissions from natural gas compressor stations in the transmission and storage sector: measurements and comparisons with the EPA greenhouse gas reporting program protocol, Environ. Sci. Technol., 49, 3252–3261, https://doi.org/10.1021/es5060258, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.3390/s120302610</doi>
+              <unstructured_citation>Sun, Y. F., Liu, S. B., Meng, F. L., Liu, J. Y., Jin, Z., Kong, L. T., and Liu, J. H.: Metal oxide nanostructures and their gas sensing properties: a review, Sensors 12, 2610–2631, https://doi.org/10.3390/s120302610, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.12952/journal.elementa.000035</doi>
+              <unstructured_citation>Thompson, C. R., Hueber, J., and Helmig, D.: Influence of oil and gas emissions on ambient atmospheric non-methane hydrocarbons in residential areas of Northeastern Colorado, Elementa: Science of the Anthropocene, 3, 35, https://doi.org/10.12952/journal.elementa.000035, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>United States Energy Information Administration (US EIA): Top 100 oil fields, available at: https://www.eia.gov/naturalgas/crudeoilreserves/top100/pdf/top100.pdf (last access: 4 October 2017), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>United States Energy Information Administration (US EIA): States Profiles and Energy Estimates, Colorado, available at: https://www.eia.gov/state/analysis.php?sid=CO (last access: 4 October 2017), 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>United States Energy Information Administration (US EIA): States Profiles and Energy Estimates, California, available at: https://www.eia.gov/state/analysis.php?sid=CA (last access: 4 October 2017), 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>United States Environmental Protection Agency (US EPA): Technical Note – Reporting Negative Values for Criteria Pollutant Gaseous Monitors to AQS, available at: https://www.epa.gov/sites/production/files/2017-02/documents/negative_values_reporting_to_aqs_10_6_16.pdf (last access: 15 April 2018), 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>United States Environmental Protection Agency (US EPA): Overview of greenhouse gases: methane, available at: https://www.epa.gov/ghgemissions/overview-greenhouse-gases#CH4 reference, last access: 4 October 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1016/j.snb.2016.07.092</doi>
+              <unstructured_citation>Van den Bossche, M., Rose, N. T., and De Wekker, S. F. J.: Potential of a low-cost gas sensor for atmospheric methane monitoring, Sensor. Actuat. B-Chem., 238, 501–509, https://doi.org/10.1016/j.snb.2016.07.092, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.3390/s100302088</doi>
+              <unstructured_citation>Wang, C., Yin, L., Zhang, L., Xiang, D., and Gao, R.: Metal oxide gas sensors: sensitivity and influencing factors, Sensors, 10, 2088–2106, https://doi.org/10.3390/s100302088, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1073/pnas.0600201103</doi>
+              <unstructured_citation>West, J. J., Arlene, F. M., Horowitz, L. W., and Mauzerall, D. L.: Global health benefits of mitigating ozone pollution with methane emission controls, P. Natl. Acad. Sci. USA., 103, 3988–3993, https://doi.org/10.1073/pnas.0600201103, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1126/science.1247045</doi>
+              <unstructured_citation>Wilcox, J., Gopstein, A. M., Arent, D., Wofsy, S., Brown, N. J., Bradley, R., and Stucky, G. D.: Methane leaks from north american natural gas systems, Science, 343, 733–735, https://doi.org/10.1126/science.1247045, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.5194/acp-15-241-2015</doi>
+              <unstructured_citation>Wong, K. W., Fu, D., Pongetti, T. J., Newman, S., Kort, E. A., Duren, R., Hsu, Y.-K., Miller, C. E., Yung, Y. L., and Sander, S. P.: Mapping CH4 : CO2 ratios in Los Angeles with CLARS-FTS from Mount Wilson, California, Atmos. Chem. Phys., 15, 241–252, https://doi.org/10.5194/acp-15-241-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1021/es506352j</doi>
+              <unstructured_citation>Yacovitch T. I., Herndon, S. C., Pétron, G., Kofler, J., Lyon, D., Zahniser, M. S., and Kolb C. E.: Mobile laboratory observations of methane emissions in the barnett shale region, Environ. Sci. Technol., 49, 7889–7895, https://doi.org/10.1021/es506352j, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Zavala-araiza, D., Lyon, D. R., Alvarez, R. A., Davis, K. J., Harriss, R., Herndon, S. C., Karion, A., Kort, E. A., Lamb, B. K., Lan, X. Marchese, A. J., Pacala, S. W., Robinson A. L., Shepson, P. B., Sweeny, C., Talbot, R., Townsend-Small, A., Yacovitch, T. I., Zimmerle D. J., and Hamburg, S. P.: Reconciling divergent estimates of oil and gas methane emissions, P. Natl. Acad. Sci. USA., 112, 15597–15602, https://doi.org/10.1073/pnas.1522126112, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/amt-11-291-2018</doi>
+              <unstructured_citation>Zimmerman, N., Presto, A. A., Kumar, S. P. N., Gu, J., Hauryliuk, A., Robinson, E. S., Robinson, A. L., and R. Subramanian: A machine learning calibration model using random forests to improve sensor performance for lower-cost air quality monitoring, Atmos. Meas. Tech., 11, 291–313, https://doi.org/10.5194/amt-11-291-2018, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1016/S1672-6529(08)60008-6</doi>
+              <unstructured_citation>Zhang, Z., Tong, J., Chen, D., and Yu-bin Lan, Y.: Electronic nose with an air sensor matrix for detecting beef freshness, J. Bionic Eng., 5, 67–73, https://doi.org/10.1016/S1672-6529(08)60008-6, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

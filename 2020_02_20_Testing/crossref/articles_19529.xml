@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-04-02 17:12:01">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Geophysical Research Letters</full_title>
+          <abbrev_title>Geophys. Res. Lett.</abbrev_title>
+          <issn>00948276</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A climate model projection weighting scheme accounting for performance and interdependence</title>
+            <subtitle>Model Projection Weighting Scheme</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Reto</given_name>
+              <surname>Knutti</surname>
+              <affiliation>Institute for Atmospheric and Climate Science; ETH Zurich; Zurich Switzerland</affiliation>
+              <affiliation>National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-8303-6700</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jan</given_name>
+              <surname>Sedláček</surname>
+              <affiliation>Institute for Atmospheric and Climate Science; ETH Zurich; Zurich Switzerland</affiliation>
+              <ORCID>http://orcid.org/0000-0002-6742-9130</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Benjamin M.</given_name>
+              <surname>Sanderson</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-8635-4624</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ruth</given_name>
+              <surname>Lorenz</surname>
+              <affiliation>Institute for Atmospheric and Climate Science; ETH Zurich; Zurich Switzerland</affiliation>
+              <ORCID>http://orcid.org/0000-0002-3986-1268</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Erich M.</given_name>
+              <surname>Fischer</surname>
+              <affiliation>Institute for Atmospheric and Climate Science; ETH Zurich; Zurich Switzerland</affiliation>
+              <ORCID>http://orcid.org/0000-0003-1931-6737</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Veronika</given_name>
+              <surname>Eyring</surname>
+              <affiliation>Deutsches Zentrum für Luft- und Raumfahrt (DLR), Institut für Physik der Atmosphäre; Oberpfaffenhofen Germany</affiliation>
+              <ORCID>http://orcid.org/0000-0002-6887-4885</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>02</month>
+            <day>18</day>
+            <year>2017</year>
+          </publication_date>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">European Union's Horizon 2020</assertion>
+              <assertion name="award_number">641816</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Regional and Global Climate Modeling Program (RGCM) of the U.S. Department of Energy, Office of Science (BER), Cooperative Agreement</assertion>
+              <assertion name="award_number">DE-FC02-97ER62402</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1</license_ref>
+            <license_ref applies_to="vor" start_date="2017-02-18">http://onlinelibrary.wiley.com/termsAndConditions</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2016GL072012</doi>
+            <resource>http://doi.wiley.com/10.1002/2016GL072012</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2016GL072012/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2016GL072012</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2016GL072012-BIB0001|grl55546-cit-0001">
+              <author>Abramowitz</author>
+              <cYear>2015</cYear>
+              <article_title>Climate model dependence and the ensemble dependence transformation of CMIP projections</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>28</volume>
+              <first_page>2332</first_page>
+              <doi>10.1175/JCLI-D-14-00364.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0002|grl55546-cit-0002">
+              <author>Allen</author>
+              <cYear>2013</cYear>
+              <article_title>Test of a decadal climate forecast</article_title>
+              <journal_title>Nat. Geosci.</journal_title>
+              <volume>6</volume>
+              <issue>4</issue>
+              <first_page>243</first_page>
+              <doi>10.1038/ngeo1788</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0004|grl55546-cit-0004">
+              <author>Annan</author>
+              <cYear>2016</cYear>
+              <article_title>On the meaning of independence in climate science</article_title>
+              <journal_title>Earth Syst. Dyn. Discuss.</journal_title>
+              <first_page>1</first_page>
+              <doi>10.5194/esd-2016-34</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0003|grl55546-cit-0003">
+              <author>Annan</author>
+              <cYear>2011</cYear>
+              <article_title>Understanding the CMIP3 multimodel ensemble</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>24</volume>
+              <issue>16</issue>
+              <first_page>4529</first_page>
+              <doi>10.1175/2011JCLI3873.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0005|grl55546-cit-0005">
+              <author>Baumberger</author>
+              <cYear>2017</cYear>
+              <article_title>Building confidence in climate model projections: An analysis of inferences from fit</article_title>
+              <journal_title>Wiley Interdiscip. Rev. Clim. Change</journal_title>
+              <first_page>e454</first_page>
+              <doi>10.1002/wcc.454</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0006|grl55546-cit-0006">
+              <author>Boé</author>
+              <cYear>2009a</cYear>
+              <article_title>Deep ocean heat uptake as a major source of spread in transient climate change simulations</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>36</volume>
+              <doi>10.1029/2009GL040845</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0007|grl55546-cit-0007">
+              <author>Boé</author>
+              <cYear>2009b</cYear>
+              <article_title>September sea-ice cover in the Arctic Ocean projected to vanish by 2100</article_title>
+              <journal_title>Nat. Geosci.</journal_title>
+              <volume>2</volume>
+              <issue>5</issue>
+              <first_page>341</first_page>
+              <doi>10.1038/ngeo467</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0008|grl55546-cit-0008">
+              <author>Bracegirdle</author>
+              <cYear>2012</cYear>
+              <article_title>Higher precision estimates of regional polar warming by ensemble regression of climate model projections</article_title>
+              <journal_title>Clim. Dyn.</journal_title>
+              <volume>39</volume>
+              <issue>12</issue>
+              <first_page>2805</first_page>
+              <doi>10.1007/s00382-012-1330-3</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0009|grl55546-cit-0009">
+              <author>Bracegirdle</author>
+              <cYear>2013</cYear>
+              <article_title>On the robustness of emergent constraints used in multimodel climate change projections of Arctic warming</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>26</volume>
+              <issue>2</issue>
+              <first_page>669</first_page>
+              <doi>10.1175/JCLI-D-12-00537.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0010|grl55546-cit-0010">
+              <author>Caldwell</author>
+              <cYear>2014</cYear>
+              <article_title>Statistical significance of climate sensitivity predictors obtained by data mining</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>1803</first_page>
+              <doi>10.1002/2014GL059205</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0011|grl55546-cit-0011">
+              <author>Cox</author>
+              <cYear>2013</cYear>
+              <article_title>Sensitivity of tropical carbon to climate change constrained by carbon dioxide variability</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>494</volume>
+              <issue>7437</issue>
+              <first_page>341</first_page>
+              <doi>10.1038/nature11882</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0012|grl55546-cit-0012">
+              <author>Deser</author>
+              <cYear>2012</cYear>
+              <article_title>Communication of the role of natural variability in future North American climate</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>2</volume>
+              <issue>11</issue>
+              <first_page>775</first_page>
+              <doi>10.1038/nclimate1562</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0013|grl55546-cit-0013">
+              <author>Eyring</author>
+              <cYear>2016</cYear>
+              <article_title>Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization</article_title>
+              <journal_title>Geosci. Model Dev.</journal_title>
+              <volume>9</volume>
+              <issue>5</issue>
+              <first_page>1937</first_page>
+              <doi>10.5194/gmd-9-1937-2016</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0014|grl55546-cit-0014">
+              <author>Fasullo</author>
+              <cYear>2015</cYear>
+              <article_title>Recent progress in constraining climate sensitivity with model ensembles</article_title>
+              <journal_title>Curr. Clim. Chang. Rep.</journal_title>
+              <volume>1</volume>
+              <issue>4</issue>
+              <first_page>268</first_page>
+              <doi>10.1007/s40641-015-0021-7</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0015|grl55546-cit-0015">
+              <author>Gleckler</author>
+              <cYear>2008</cYear>
+              <article_title>Performance metrics for climate models</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>113</volume>
+              <doi>10.1029/2007JD008972</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0016|grl55546-cit-0016">
+              <author>Hall</author>
+              <cYear>2006</cYear>
+              <article_title>Using the current seasonal cycle to constrain snow albedo feedback in future climate change</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>33</volume>
+              <doi>10.1029/2005GL025127</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0017|grl55546-cit-0017">
+              <author>Hawkins</author>
+              <cYear>2009</cYear>
+              <article_title>The potential to narrow uncertainty in regional climate predictions</article_title>
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <volume>90</volume>
+              <issue>8</issue>
+              <first_page>1095</first_page>
+              <doi>10.1175/2009BAMS2607.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0018|grl55546-cit-0018">
+              <author>Huber</author>
+              <cYear>2011</cYear>
+              <article_title>Constraints on climate sensitivity from radiation patterns in climate models</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>24</volume>
+              <issue>4</issue>
+              <first_page>1034</first_page>
+              <doi>10.1175/2010JCLI3403.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0019|grl55546-cit-0019">
+              <author>Karpechko</author>
+              <cYear>2013</cYear>
+              <article_title>Improving Antarctic total ozone projections by a process-oriented multiple diagnostic ensemble regression</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>70</volume>
+              <issue>12</issue>
+              <first_page>3959</first_page>
+              <doi>10.1175/JAS-D-13-071.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0020|grl55546-cit-0020">
+              <author>Kay</author>
+              <cYear>2011</cYear>
+              <article_title>Inter-annual to multi-decadal Arctic sea ice extent trends in a warming world</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>38</volume>
+              <doi>10.1029/2011GL048008</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0021|grl55546-cit-0021">
+              <author>Knutti</author>
+              <cYear>2008</cYear>
+              <article_title>Should we believe model predictions of future climate change?</article_title>
+              <journal_title>Philos. Trans. R. Soc. London, Ser. A</journal_title>
+              <volume>366</volume>
+              <issue>1885</issue>
+              <first_page>4647</first_page>
+              <doi>10.1098/rsta.2008.0169</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0022|grl55546-cit-0022">
+              <author>Knutti</author>
+              <cYear>2010</cYear>
+              <article_title>The end of model democracy?</article_title>
+              <journal_title>Clim. Change</journal_title>
+              <volume>102</volume>
+              <issue>3-4</issue>
+              <first_page>395</first_page>
+              <doi>10.1007/s10584-010-9800-2</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0023|grl55546-cit-0023">
+              <author>Knutti</author>
+              <cYear>2012</cYear>
+              <article_title>Robustness and uncertainties in the new CMIP5 climate model projections</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>3</volume>
+              <issue>4</issue>
+              <first_page>369</first_page>
+              <doi>10.1038/nclimate1716</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0024|grl55546-cit-0024">
+              <author>Knutti</author>
+              <cYear>2010a</cYear>
+              <article_title>Challenges in combining projections from multiple climate models</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>23</volume>
+              <issue>10</issue>
+              <first_page>2739</first_page>
+              <doi>10.1175/2009JCLI3361.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0025|grl55546-cit-0025">
+              <unstructured_citation>Knutti , R. G. Abramowitz M. Collins V. Eyring P. J. Gleckler B. Hewitson L. Mearns 2010b Good practice guidance paper on assessing and combining multi model climate projections</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0026|grl55546-cit-0026">
+              <author>Knutti</author>
+              <cYear>2013</cYear>
+              <article_title>Climate model genealogy: Generation CMIP5 and how we got there</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>40</volume>
+              <first_page>1194</first_page>
+              <doi>10.1002/grl.50256</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0027|grl55546-cit-0027">
+              <author>Mahlstein</author>
+              <cYear>2012</cYear>
+              <article_title>September Arctic sea ice predicted to disappear near 2°C global warming above present</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>117</volume>
+              <doi>10.1029/2011JD016709</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0028|grl55546-cit-0028">
+              <author>Masson</author>
+              <cYear>2011a</cYear>
+              <article_title>Climate model genealogy</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>38</volume>
+              <doi>10.1029/2011GL046864</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0029|grl55546-cit-0029">
+              <author>Masson</author>
+              <cYear>2011b</cYear>
+              <article_title>Spatial-scale dependence of climate model performance in the CMIP3 ensemble</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>24</volume>
+              <issue>11</issue>
+              <first_page>2680</first_page>
+              <doi>10.1175/2011JCLI3513.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0030|grl55546-cit-0030">
+              <author>Massonnet</author>
+              <cYear>2012</cYear>
+              <article_title>Constraining projections of summer Arctic sea ice</article_title>
+              <journal_title>Cryosphere</journal_title>
+              <volume>6</volume>
+              <issue>6</issue>
+              <first_page>1383</first_page>
+              <doi>10.5194/tc-6-1383-2012</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0031|grl55546-cit-0031">
+              <author>Notz</author>
+              <cYear>2016</cYear>
+              <article_title>Observed Arctic sea-ice loss directly follows anthropogenic CO2 emission</article_title>
+              <journal_title>Science</journal_title>
+              <volume>354</volume>
+              <issue>6313</issue>
+              <first_page>747</first_page>
+              <doi>10.1126/science.aag2345</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0032|grl55546-cit-0032">
+              <author>Overland</author>
+              <cYear>2013</cYear>
+              <article_title>When will the summer Arctic be nearly sea ice free?</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>40</volume>
+              <first_page>2097</first_page>
+              <doi>10.1002/grl.50316</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0033|grl55546-cit-0033">
+              <author>Parker</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1007/s10699-005-3196-x</doi>
+              <article_title>Understanding pluralism in climate modeling</article_title>
+              <journal_title>Found. Sci.</journal_title>
+              <volume>11</volume>
+              <issue>4</issue>
+              <first_page>349</first_page>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0034|grl55546-cit-0034">
+              <author>Parker</author>
+              <cYear>2009</cYear>
+              <article_title>Confirmation and adequacy-for-purpose in climate modelling</article_title>
+              <journal_title>Aristot. Soc. Suppl. Vol.</journal_title>
+              <volume>83</volume>
+              <issue>1</issue>
+              <first_page>233</first_page>
+              <doi>10.1111/j.1467-8349.2009.00180.x</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0035|grl55546-cit-0035">
+              <author>Pennell</author>
+              <cYear>2011</cYear>
+              <article_title>On the effective number of climate models</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>24</volume>
+              <issue>9</issue>
+              <first_page>2358</first_page>
+              <doi>10.1175/2010JCLI3814.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0036|grl55546-cit-0036">
+              <author>Rauser</author>
+              <cYear>2015</cYear>
+              <article_title>Rethinking the default construction of multimodel climate ensembles</article_title>
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <volume>96</volume>
+              <issue>6</issue>
+              <first_page>911</first_page>
+              <doi>10.1175/BAMS-D-13-00181.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0037|grl55546-cit-0037">
+              <author>Reichler</author>
+              <cYear>2008</cYear>
+              <article_title>How well do coupled models simulate today's climate?</article_title>
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <volume>89</volume>
+              <issue>3</issue>
+              <first_page>303</first_page>
+              <doi>10.1175/BAMS-89-3-303</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0038|grl55546-cit-0038">
+              <author>Sanderson</author>
+              <cYear>2012</cYear>
+              <article_title>On the interpretation of constrained climate model ensembles</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>39</volume>
+              <doi>10.1029/2012GL052665</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0039|grl55546-cit-0039">
+              <author>Sanderson</author>
+              <cYear>2015a</cYear>
+              <article_title>A representative democracy to reduce interdependency in a multimodel ensemble</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>28</volume>
+              <issue>13</issue>
+              <first_page>5171</first_page>
+              <doi>10.1175/JCLI-D-14-00362.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0040|grl55546-cit-0040">
+              <author>Sanderson</author>
+              <cYear>2015b</cYear>
+              <article_title>Addressing interdependency in a multimodel ensemble by interpolation of model properties</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>28</volume>
+              <issue>13</issue>
+              <first_page>5150</first_page>
+              <doi>10.1175/JCLI-D-14-00361.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0041|grl55546-cit-0041">
+              <author>Screen</author>
+              <cYear>2016</cYear>
+              <article_title>Contribution of sea-ice loss to Arctic amplification is regulated by Pacific Ocean decadal variability</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>6</volume>
+              <issue>9</issue>
+              <first_page>856</first_page>
+              <doi>10.1038/nclimate3011</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0042|grl55546-cit-0042">
+              <author>Sherwood</author>
+              <cYear>2014</cYear>
+              <article_title>Spread in model climate sensitivity traced to atmospheric convective mixing</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>505</volume>
+              <issue>7481</issue>
+              <first_page>37</first_page>
+              <doi>10.1038/nature12829</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0043|grl55546-cit-0043">
+              <author>Swart</author>
+              <cYear>2015</cYear>
+              <article_title>Influence of internal variability on Arctic sea-ice trends</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>5</volume>
+              <issue>2</issue>
+              <first_page>86</first_page>
+              <doi>10.1038/nclimate2483</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0044|grl55546-cit-0044">
+              <author>Tebaldi</author>
+              <cYear>2007</cYear>
+              <article_title>The use of the multi-model ensemble in probabilistic climate projections</article_title>
+              <journal_title>Philos. Trans. R. Soc. London, Ser. A</journal_title>
+              <volume>365</volume>
+              <issue>1857</issue>
+              <first_page>2053</first_page>
+              <doi>10.1098/rsta.2007.2076</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0045|grl55546-cit-0045">
+              <author>Tebaldi</author>
+              <cYear>2004</cYear>
+              <article_title>Regional probabilities of precipitation change: A Bayesian analysis of multimodel simulations</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>31</volume>
+              <doi>10.1029/2004GL021276</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0046|grl55546-cit-0046">
+              <author>Watterson</author>
+              <cYear>1996</cYear>
+              <article_title>Non-dimensional measures of climate model performance</article_title>
+              <journal_title>Int. J. Climatol.</journal_title>
+              <volume>16</volume>
+              <issue>4</issue>
+              <first_page>379</first_page>
+              <doi>10.1002/(SICI)1097-0088(199604)16:4&lt;379::AID-JOC18&gt;3.0.CO;2-U</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0047|grl55546-cit-0047">
+              <author>Waugh</author>
+              <cYear>2008</cYear>
+              <article_title>Quantitative performance metrics for stratospheric-resolving chemistry-climate models</article_title>
+              <journal_title>Atmos. Chem. Phys.</journal_title>
+              <volume>8</volume>
+              <issue>18</issue>
+              <first_page>5699</first_page>
+              <doi>10.5194/acp-8-5699-2008</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0048|grl55546-cit-0048">
+              <author>Weigel</author>
+              <cYear>2010</cYear>
+              <article_title>Risks of model weighting in multimodel climate projections</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>23</volume>
+              <issue>15</issue>
+              <first_page>4175</first_page>
+              <doi>10.1175/2010JCLI3594.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0049|grl55546-cit-0049">
+              <author>Wenzel</author>
+              <cYear>2014</cYear>
+              <article_title>Emergent constraints on climate-carbon cycle feedbacks in the CMIP5 Earth system models</article_title>
+              <journal_title>J. Geophys. Res. Biogeosci.</journal_title>
+              <volume>119</volume>
+              <first_page>794</first_page>
+              <doi>10.1002/2013JG002591</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0050|grl55546-cit-0050">
+              <author>Wenzel</author>
+              <cYear>2016a</cYear>
+              <article_title>Constraining future summer austral jet stream positions in the CMIP5 Ensemble by process-oriented multiple diagnostic regression</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>29</volume>
+              <issue>2</issue>
+              <first_page>673</first_page>
+              <doi>10.1175/JCLI-D-15-0412.1</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0051|grl55546-cit-0051">
+              <author>Wenzel</author>
+              <cYear>2016b</cYear>
+              <article_title>Projected land photosynthesis constrained by changes in the seasonal cycle of atmospheric CO2</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>538</volume>
+              <issue>7626</issue>
+              <first_page>499</first_page>
+              <doi>10.1038/nature19772</doi>
+            </citation>
+            <citation key="10.1002/2016GL072012-BIB0052|grl55546-cit-0052">
+              <author>Zubler</author>
+              <cYear>2015</cYear>
+              <article_title>Climate change signals of CMIP5 general circulation models over the Alps-Impact of model selection</article_title>
+              <journal_title>Int. J. Climatol.</journal_title>
+              <doi>10.1002/joc.4538</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

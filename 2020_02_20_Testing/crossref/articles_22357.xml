@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-03-01 05:40:53">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>12</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>An intercomparison of total column-averaged nitrous oxide between ground-based FTIR TCCON and NDACC measurements at seven sites and comparisons with the GEOS-Chem model</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Minqiang</given_name>
+              <surname>Zhou</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bavo</given_name>
+              <surname>Langerock</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kelley C.</given_name>
+              <surname>Wells</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dylan B.</given_name>
+              <surname>Millet</surname>
+              <ORCID>https://orcid.org/0000-0003-3076-125X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Corinne</given_name>
+              <surname>Vigouroux</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mahesh Kumar</given_name>
+              <surname>Sha</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christian</given_name>
+              <surname>Hermans</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jean-Marc</given_name>
+              <surname>Metzger</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rigel</given_name>
+              <surname>Kivi</surname>
+              <ORCID>https://orcid.org/0000-0001-8828-2759</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pauli</given_name>
+              <surname>Heikkinen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Smale</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David F.</given_name>
+              <surname>Pollard</surname>
+              <ORCID>https://orcid.org/0000-0001-9923-2984</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicholas</given_name>
+              <surname>Jones</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicholas M.</given_name>
+              <surname>Deutscher</surname>
+              <ORCID>https://orcid.org/0000-0002-2906-2577</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas</given_name>
+              <surname>Blumenstock</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthias</given_name>
+              <surname>Schneider</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mathias</given_name>
+              <surname>Palm</surname>
+              <ORCID>https://orcid.org/0000-0001-7191-6911</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justus</given_name>
+              <surname>Notholt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James W.</given_name>
+              <surname>Hannigan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martine</given_name>
+              <surname>De Mazière</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Nitrous oxide (<span class="inline-formula">N<sub>2</sub>O</span>) is an important greenhouse gas and it can also
+generate nitric oxide, which depletes ozone in the stratosphere. It is a
+common target species of ground-based Fourier transform infrared (FTIR) near-infrared (TCCON) and
+mid-infrared (NDACC) measurements. Both TCCON and NDACC networks provide a
+long-term global distribution of atmospheric <span class="inline-formula">N<sub>2</sub>O</span> mole fraction. In this
+study, the dry-air column-averaged mole fractions of <span class="inline-formula">N<sub>2</sub>O</span> (<span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M4" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="7083feeaa337c360bc1dec6cdd9e436c"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00001.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00001.png"/></svg:svg></span></span>) from
+the TCCON and NDACC measurements are compared against each other at seven
+sites around the world (Ny-Ålesund, Sodankylä, Bremen, Izaña,
+Réunion, Wollongong, Lauder) in the time period of 2007–2017. The mean
+differences in <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M5" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="5e6a681c49fd20b61f27782a4f0ae370"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00002.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00002.png"/></svg:svg></span></span> between TCCON and NDACC (NDACC–TCCON) at these
+sites are between <span class="inline-formula">−3.32</span> and 1.37&amp;thinsp;ppb (<span class="inline-formula">−1.1</span>&amp;thinsp;%–0.5&amp;thinsp;%) with standard
+deviations between 1.69 and 5.01&amp;thinsp;ppb (0.5&amp;thinsp;%–1.6&amp;thinsp;%), which are within the
+uncertainties of the two datasets. The NDACC <span class="inline-formula">N<sub>2</sub>O</span> retrieval has good
+sensitivity throughout the troposphere and stratosphere, while the TCCON
+retrieval underestimates a deviation from the a priori in the troposphere and
+overestimates it in the stratosphere. As a result, the TCCON <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M9" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="50b5fa68b9780aad29d3bc59a335671d"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00003.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00003.png"/></svg:svg></span></span>
+measurement is strongly affected by its a priori profile.</p> <p><span id="page1394"/>Trends and seasonal cycles of <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M10" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="99677be2b065f598f9fe943d745811ab"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00004.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00004.png"/></svg:svg></span></span> are derived from the TCCON and NDACC
+measurements and the nearby surface flask sample measurements and compared
+with the results from GEOS-Chem model a priori and a posteriori simulations.
+The trends and seasonal cycles from FTIR measurement at Ny-Ålesund and
+Sodankylä are strongly affected by the polar winter and the polar vortex.
+The a posteriori <span class="inline-formula">N<sub>2</sub>O</span> fluxes in the model are optimized based on surface
+<span class="inline-formula">N<sub>2</sub>O</span> measurements with a 4D-Var inversion method. The <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M13" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="e10d4b76078a1e8806f098c6d853566d"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00005.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00005.png"/></svg:svg></span></span> trends
+from the GEOS-Chem a posteriori simulation (<span class="inline-formula">0.97±0.02</span> (<span class="inline-formula">1<i>σ</i></span>)&amp;thinsp;ppb&amp;thinsp;yr<span class="inline-formula"><sup>−1</sup></span>) are close to those from the NDACC (0<span class="inline-formula">.93±0.04</span>&amp;thinsp;ppb&amp;thinsp;yr<span class="inline-formula"><sup>−1</sup></span>) and
+the surface flask sample measurements (<span class="inline-formula">0.93±0.02</span>&amp;thinsp;ppb&amp;thinsp;yr<span class="inline-formula"><sup>−1</sup></span>). The
+<span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M21" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="466b2088eb3ba38a6fcc0d0b8ea69279"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00006.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00006.png"/></svg:svg></span></span> trend from the TCCON measurements is slightly lower (<span class="inline-formula">0.81±0.04</span>&amp;thinsp;ppb&amp;thinsp;yr<span class="inline-formula"><sup>−1</sup></span>) due to the underestimation of the trend in TCCON a priori simulation. The
+<span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M24" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="90450f00fd870e5f84133e6e1a36cf6c"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00007.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00007.png"/></svg:svg></span></span> trends from the GEOS-Chem a priori simulation are about 1.25&amp;thinsp;ppb&amp;thinsp;yr<span class="inline-formula"><sup>−1</sup></span>, and our study confirms that the
+<span class="inline-formula">N<sub>2</sub>O</span> fluxes from the a priori
+inventories are overestimated. The seasonal cycles of <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M27" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="bf7b54d1602258a6bd4e0a2baf736945"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00008.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00008.png"/></svg:svg></span></span> from the
+FTIR measurements and the model simulations are close to each other in the
+Northern Hemisphere with a maximum in August–October and a minimum in
+February–April. However, in the Southern Hemisphere, the modeled <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M28" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="da6994d65f4a61e38d189bbe5fbdd62a"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00009.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00009.png"/></svg:svg></span></span>
+values show a minimum in February–April while the FTIR <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M29" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="8900c9f9c19d990507a65d899d2e82ec"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00010.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00010.png"/></svg:svg></span></span> retrievals show
+different patterns. By comparing the partial column-averaged <span class="inline-formula">N<sub>2</sub>O</span> from the
+model and NDACC for three vertical ranges (surface–8, 8–17, 17–50&amp;thinsp;km), we
+find that the discrepancy in the <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M31" display="inline" overflow="scroll" dspmath="mathml"><mrow class="chem"><msub><mi mathvariant="normal">X</mi><mrow><msub><mi mathvariant="normal">N</mi><mn mathvariant="normal">2</mn></msub><mi mathvariant="normal">O</mi></mrow></msub></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="25pt" height="14pt" class="svg-formula" dspmath="mathimg" md5hash="0d208196834a80a82d174963af43b993"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="amt-12-1393-2019-ie00011.svg" width="25pt" height="14pt" src="amt-12-1393-2019-ie00011.png"/></svg:svg></span></span> seasonal cycle between the model
+simulations and the FTIR measurements in the Southern Hemisphere is mainly
+due to their stratospheric differences.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>01</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>1393</first_page>
+            <last_page>1408</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.14291/TCCON.GGG2014</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-12-1393-2019</doi>
+            <resource>https://www.atmos-meas-tech.net/12/1393/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/12/1393/2019/amt-12-1393-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>ACE-FTS team: ACE/SCISAT Database Level 2 Data Access,
+available at: https://ace.uwaterloo.ca/data.php,
+last access: 27 February 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/acp-11-6167-2011</doi>
+              <unstructured_citation>Angelbratt, J., Mellqvist, J., Blumenstock, T., Borsdorff, T., Brohede, S., Duchatelet, P., Forster, F., Hase, F., Mahieu, E., Murtagh, D.,
+Petersen, A. K., Schneider, M., Sussmann, R., and Urban, J.: A new method to detect long term trends of methane (CH4) and nitrous oxide (N2O)
+total columns measured within the NDACC ground-based high resolution solar FTIR network, Atmos. Chem. Phys., 11, 6167–6183, https://doi.org/10.5194/acp-11-6167-2011, 2011. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.14291/tccon.ggg2014.izana01.R0/1149295</doi>
+              <unstructured_citation>Blumenstock, T., Hase, F., Schneider, M., Garcia, O. E., and Sepulveda, E.:
+TCCON data from Izana (ES), Release GGG2014R0, TCCON data archive, hosted
+by CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.izana01.R0/1149295,
+2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Boone, C. D., Walker, K. A., and Bernath, P. F.: Version 3 Retrievals for the
+Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS),
+in: The Atmospheric Chemistry Experiment ACE at 10: A Solar Occultation
+Anthology, JA, Deepak Publishing 2013, Hampton, Virginia, USA, 103–127,
+2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2009GB003601</doi>
+              <unstructured_citation>Buitenhuis, E. T., Rivkin, R. B., Séailley, S., and Le
+Quéré, C.: Biogeochemical fluxes through microzooplankton,
+Global Biogeochem. Cy., 24,
+GB4015, https://doi.org/10.1029/2009GB003601, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P., Kobayashi,
+S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P., Bechtold, P.,
+Beljaars, A. C., van de Berg, L., Bidlot, J., Bormann, N., Delsol, C.,
+Dragani, R., Fuentes, M., Geer, A. J., Haimberger, L., Healy, S. B.,
+Hersbach, H., Hólm, E. V., Isaksen, L., Kållberg, P., Köhler,
+M., Matricardi, M., Mcnally, A. P., Monge-Sanz, B. M., Morcrette, J. J.,
+Park, B. K., Peubey, C., de Rosnay, P., Tavolato, C., Thépaut, J. N.,
+and Vitart, F.: The ERA-Interim reanalysis: Configuration and performance of
+the data assimilation system, Q. J. Roy. Meteor. Soc., 137, 553–597,
+https://doi.org/10.1002/qj.828, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.14291/tccon.ggg2014.reunion01.R0/1149288</doi>
+              <unstructured_citation>De Mazière, M., Sha, M. K., Desmet, F., Hermans, C., Scolas, F., Kumps,
+N., Metzger, J.-M., Duflot, V., and Cammas, J.-P.: TCCON data from Reunion
+Island (RE), Release GGG2014R0, TCCON data archive, hosted by CaltechDATA,
+https://doi.org/10.14291/tccon.ggg2014.reunion01.R0/1149288,
+2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/acp-18-4935-2018</doi>
+              <unstructured_citation>De Mazière, M., Thompson, A. M., Kurylo, M. J., Wild, J. D., Bernhard, G., Blumenstock, T., Braathen, G. O.,
+Hannigan, J. W., Lambert, J.-C., Leblanc, T., McGee, T. J., Nedoluha, G., Petropavlovskikh, I., Seckmeyer, G.,
+Simon, P. C., Steinbrecht, W., and Strahan, S. E.: The Network for the Detection of Atmospheric Composition Change (NDACC):
+history, status and perspectives, Atmos. Chem. Phys., 18, 4935–4964, https://doi.org/10.5194/acp-18-4935-2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1002/2017GL075966</doi>
+              <unstructured_citation>Denton, M. H., Kivi, R., Ulich, T., Clilverd, M. A., Rodger, C. J., and von der
+Gathen, P.: Northern Hemisphere Stratospheric Ozone Depletion Caused by
+Solar Proton Events: The Role of the Polar Vortex, Geophys. Res. Lett., 45,
+2115–2124, https://doi.org/10.1002/2017GL075966, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/amt-3-947-2010</doi>
+              <unstructured_citation>Deutscher, N. M., Griffith, D. W. T., Bryant, G. W., Wennberg, P. O., Toon, G. C., Washenfelder, R. A., Keppel-Aleks, G., Wunch, D., Yavin, Y.,
+Allen, N. T., Blavier, J.-F., Jiménez, R., Daube, B. C., Bright, A. V., Matross, D. M., Wofsy, S. C., and Park, S.: Total column CO2 measurements
+at Darwin, Australia – site description and calibration against in situ aircraft profiles, Atmos. Meas. Tech., 3, 947–958,
+https://doi.org/10.5194/amt-3-947-2010, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Dlugokencky, E., Lang, P., Crotwell, A., Mund, J., Crotwell, M., and Thoning,
+K.: Atmospheric Nitrous Oxide Dry Air Mole Fractions from the NOAA ESRL
+Carbon Cycle Cooperative Global Air Sampling Network, 1997–2017, Version:
+2018-08-02,
+available at: ftp://aftp.cmdl.noaa.gov/data/trace_gases/n2o/flask/surface/ (last access: 27 February 2019),
+2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>European Commission: Emission Database for Global Atmospheric Research
+(EDGAR), release EDGARv4.2 FT2010, Tech. rep., Joint Research Centre
+(JRC)/Netherlands Environmental Assessment Agency (PBL), available at: http://edgar.jrc.ec.europa.eu (last access: 12
+April 2018), 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-9-2315-2016</doi>
+              <unstructured_citation>García, O. E., Sepúlveda, E., Schneider, M., Hase, F., August, T., Blumenstock, T., Kühl, S., Munro, R., Gómez-Peláez, Á. J.,
+Hultberg, T., Redondas, A., Barthlott, S., Wiegele, A., González, Y., and Sanromá, E.: Consistency and quality assessment of the Metop-A/IASI
+and Metop-B/IASI operational trace gas products (O3, CO, N2O, CH4, and CO2) in the subtropical North Atlantic,
+Atmos. Meas. Tech., 9, 2315–2333, https://doi.org/10.5194/amt-9-2315-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/amt-11-4171-2018</doi>
+              <unstructured_citation>García, O. E., Schneider, M., Ertl, B., Sepúlveda, E., Borger, C., Diekmann, C., Wiegele, A., Hase, F., Barthlott, S., Blumenstock, T.,
+Raffalski, U., Gómez-Peláez, A., Steinbacher, M., Ries, L., and de Frutos, A. M.: The MUSICA IASI CH4 and N2O products and their
+comparison to HIPPO, GAW and NDACC FTIR references, Atmos. Meas. Tech., 11, 4171–4215, https://doi.org/10.5194/amt-11-4171-2018, 2018. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Griffith, D. W., Velazco, V. A., Deutscher, N. M., Murphy, C., Jones, N.,
+Wilson, S., Macatangay, R., Kettlewell, G., Buchholz, R. R., and Riggenbach,
+M.: TCCON data from Wollongong (AU), Release GGG2014R0, TCCON data archive,
+hosted by CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.wollongong01.R0,
+2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/j.jqsrt.2003.12.008</doi>
+              <unstructured_citation>Hase, F., Hannigan, J., Coffey, M., Goldman, A., Höpfner, M., Jones, N.,
+Rinsland, C., and Wood, S.: Intercomparison of retrieval codes used for the
+analysis of high-resolution, ground-based FTIR measurements, J. Quant.
+Spectrosc. Ra., 87, 25–52, https://doi.org/10.1016/j.jqsrt.2003.12.008,
+2004. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>IPCC: Climate change 2013: The physical science basis, Contribution of Working
+Group I to the Fifth Assessment Report of the Intergovernmental Panel on
+Climate Change, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>IRWG: Network for the Detection of Atmospheric Composition Change (NDACC)
+datasets,
+available at: http://www.ndaccdemo.org/,
+last access: 27 February 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/gi-5-229-2016</doi>
+              <unstructured_citation>Karppinen, T., Lakkala, K., Karhu, J. M., Heikkinen, P., Kivi, R., and Kyrö, E.: Brewer spectrometer total ozone column
+measurements in Sodankylä, Geosci. Instrum. Method. Data Syst., 5, 229–239, https://doi.org/10.5194/gi-5-229-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2001GL013187</doi>
+              <unstructured_citation>Kivi, R., Kyrö, E., Dörnbrack, A., and Birner, T.: Observations of
+vertically thick polar stratospheric clouds and record low temperature in the
+Arctic vortex, Geophys. Res. Lett., 28, 3661–3664,
+https://doi.org/10.1029/2001GL013187, 2001. a</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2006JD007271</doi>
+              <unstructured_citation>Kivi, R., Kyrö, E., Turunen, T., Harris, N. R., von der Gathen, P., Rex,
+M., Andersen, S. B., and Wohltmann, I.: Ozonesonde observations in the
+Arctic during 1989–2003: Ozone variability and trends in the lower
+stratosphere and free troposphere, J. Geophys. Res.-Atmos., 112,
+D08306, https://doi.org/10.1029/2006JD007271, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Kivi, R., Heikkinen, P., and Kyrö, E.: TCCON data from Sodankyla (FI),
+Release GGG2014R0, TCCON data archive, hosted by CaltechDATA,
+https://doi.org/10.14291/tccon.ggg2014.sodankyla01.R0,
+2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.14291/tccon.ggg2014.bremen01.R0/1149275</doi>
+              <unstructured_citation>Notholt, J., Petri, C., Warneke, T., Deutscher, N. M., Buschmann, M.,
+Weinzierl, C., Macatangay, R., and Grupe, P.: TCCON data from Bremen (DE),
+Release GGG2014R0, TCCON data archive, hosted by CaltechDATA,
+https://doi.org/10.14291/tccon.ggg2014.bremen01.R0/1149275,
+2014a. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Notholt, J., Schrems, O., Warneke, T., Deutscher, N., Weinzierl, C., Palm, M.,
+and Buschmann, B.: TCCON data from Bialystok (PL), Release GGG2014R0, TCCON
+data archive, hosted by CaltechDATA,
+https://doi.org/10.14291/tccon.ggg2014.nyalesund01.R0,
+2014b. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/amt-7-4081-2014</doi>
+              <unstructured_citation>Ostler, A., Sussmann, R., Rettinger, M., Deutscher, N. M., Dohe, S., Hase, F., Jones, N., Palm, M., and Sinnhuber, B.-M.: Multistation
+intercomparison of column-averaged methane from NDACC and TCCON: impact of dynamical variability, Atmos. Meas. Tech., 7, 4081–4101, https://doi.org/10.5194/amt-7-4081-2014, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1038/ngeo1421</doi>
+              <unstructured_citation>Park, S., Croteau, P., Boering, K. A., Etheridge, D. M., Ferretti, D., Fraser,
+P. J., Kim, K. R., Krummel, P. B., Langenfelds, R. L., Van Ommen, T. D.,
+Steele, L. P., and Trudinger, C. M.: Trends and seasonal cycles in the
+isotopic composition of nitrous oxide since 1940, Nat. Geosci., 5,
+261–265, https://doi.org/10.1038/ngeo1421, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/essd-9-977-2017</doi>
+              <unstructured_citation>Pollard, D. F., Sherlock, V., Robinson, J., Deutscher, N. M., Connor, B., and Shiona, H.: The Total Carbon Column Observing
+Network site description for Lauder, New Zealand, Earth Syst. Sci. Data, 9, 977–992, https://doi.org/10.5194/essd-9-977-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1098/rstb.2011.0377</doi>
+              <unstructured_citation>Portmann, R. W., Daniel, J. S., and Ravishankara, A. R.: Stratospheric ozone
+depletion due to nitrous oxide: influences of other gases, Philos. T. Roy.
+Soc. B, 367, 1256–1264, https://doi.org/10.1098/rstb.2011.0377, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/95JD01296</doi>
+              <unstructured_citation>Pougatchev, N. S., Connor, B. J., and Rinsland, C. P.: Infrared measurements
+of the ozone vertical distribution above Kitt Peak, J. Geophys. Res., 100,
+16689, https://doi.org/10.1029/95JD01296, 1995. a</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1002/2015JD023267</doi>
+              <unstructured_citation>Prather, M. J., Hsu, J., DeLuca, N. M., Jackman, C. H., Oman, L. D., Douglass,
+A. R., Fleming, E. L., Strahan, S. E., Steenrod, S. D., Søvde, O. A.,
+Isaksen, I. S., Froidevaux, L., and Funke, B.: Measuring and modeling the
+lifetime of nitrous oxide including its variability, J. Geophys. Res., 120,
+5693–5705, https://doi.org/10.1002/2015JD023267, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1126/science.1176985</doi>
+              <unstructured_citation>Ravishankara, A. R., Daniel, J. S., and Portmann, R. W.: Nitrous oxide (N2O):
+The dominant ozone-depleting substance emitted in the 21st century, Science, 326, 123–125, https://doi.org/10.1126/science.1176985, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1142/9789812813718</doi>
+              <unstructured_citation>Rodgers, C. D.: Inverse Methods for Atmospheric Sounding – Theory and
+Practice, Series on Atmospheric Oceanic and Planetary Physics, vol. 2, World
+Scientific Publishing Co. Pte. Ltd, Singapore, https://doi.org/10.1142/9789812813718,
+2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/2002JD002299</doi>
+              <unstructured_citation>Rodgers, C. D.: Intercomparison of remote sounding instruments, J. Geophys.
+Res., 108, 46–48, https://doi.org/10.1029/2002JD002299, 2003. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.jqsrt.2009.02.013</doi>
+              <unstructured_citation>Rothman, L. S., Gordon, I. E., Barbe, A., Benner, D. C., Bernath, P. F., Birk,
+M., Boudon, V., Brown, L. R., Campargue, A., Champion, J. P., Chance, K.,
+Coudert,&amp;lt;span id=&amp;quot;page1407&amp;quot;/&amp;gt; L. H., Dana, V., Devi, V. M., Fally, S., Flaud, J. M., Gamache,
+R. R., Goldman, A., Jacquemart, D., Kleiner, I., Lacome, N., Lafferty, W. J.,
+Mandin, J. Y., Massie, S. T., Mikhailenko, S. N., Miller, C. E.,
+Moazzen-Ahmadi, N., Naumenko, O. V., Nikitin, A. V., Orphal, J., Perevalov,
+V. I., Perrin, A., Predoi-Cross, A., Rinsland, C. P., Rotger, M.,
+Šimečková, M., Smith, M. A., Sung, K., Tashkun, S. A.,
+Tennyson, J., Toth, R. A., Vandaele, A. C., and Vander Auwera, J.: The
+HITRAN 2008 molecular spectroscopic database, J. Quant. Spectrosc. Ra., 110, 533–572, https://doi.org/10.1016/j.jqsrt.2009.02.013, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-12-7767-2012</doi>
+              <unstructured_citation>Saito, R., Patra, P. K., Deutscher, N., Wunch, D., Ishijima, K., Sherlock, V., Blumenstock, T., Dohe, S., Griffith, D., Hase, F.,
+Heikkinen, P., Kyrö, E., Macatangay, R., Mendonca, J., Messerschmidt, J., Morino, I., Notholt, J., Rettinger, M., Strong, K., Sussmann, R.,
+and Warneke, T.: Technical Note: Latitude-time variations of atmospheric column-average dry air mole fractions of CO2, CH4 and N2O,
+Atmos. Chem. Phys., 12, 7767–7777, https://doi.org/10.5194/acp-12-7767-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1126/science.251.4989.46</doi>
+              <unstructured_citation>Schoeberl, M. R. and Hartmann, D. L.: The Dynamics of the Stratospheric Polar
+Vortex and Its Relation to Springtime Ozone Depletions, Science,
+251, 46–52, https://doi.org/10.1126/science.251.4989.46, 1991. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1016/j.jqsrt.2016.06.026</doi>
+              <unstructured_citation>Sheese, P. E., Walker, K. A., Boone, C. D., Bernath, P. F., Froidevaux, L.,
+Funke, B., Raspollini, P., and von Clarmann, T.: ACE-FTS ozone, water
+vapour, nitrous oxide, nitric acid, and carbon monoxide profile comparisons
+with MIPAS and MLS, J. Quant. Spectrosc. Ra., 186, 63–80,
+https://doi.org/10.1016/j.jqsrt.2016.06.026, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.14291/tccon.ggg2014.lauder02.R0/1149298</doi>
+              <unstructured_citation>Sherlock, V., Connor, B. J., Robinson, J., Shiona, H., Smale, D., and Pollard,
+D.: TCCON data from Lauder (NZ), 125HR, Release GGG2014R0, TCCON data
+archive, hosted by CaltechDATA,
+https://doi.org/10.14291/tccon.ggg2014.lauder02.R0/1149298,
+2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acp-8-4759-2008</doi>
+              <unstructured_citation>Strong, K., Wolff, M. A., Kerzenmacher, T. E., Walker, K. A., Bernath, P. F., Blumenstock, T., Boone, C., Catoire, V., Coffey, M., De Mazière, M.,
+Demoulin, P., Duchatelet, P., Dupuy, E., Hannigan, J., Höpfner, M., Glatthor, N., Griffith, D. W. T., Jin, J. J., Jones, N., Jucks, K., Kuellmann, H.,
+Kuttippurath, J., Lambert, A., Mahieu, E., McConnell, J. C., Mellqvist, J., Mikuteit, S., Murtagh, D. P., Notholt, J., Piccolo, C., Raspollini, P.,
+Ridolfi, M., Robert, C., Schneider, M., Schrems, O., Semeniuk, K., Senten, C., Stiller, G. P., Strandberg, A., Taylor, J., Tétard, C., Toohey, M.,
+Urban, J., Warneke, T., and Wood, S.: Validation of ACE-FTS N2O measurements, Atmos. Chem. Phys., 8, 4759–4786, https://doi.org/10.5194/acp-8-4759-2008, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-14-6177-2014</doi>
+              <unstructured_citation>Thompson, R. L., Ishijima, K., Saikawa, E., Corazza, M., Karstens, U., Patra, P. K., Bergamaschi, P., Chevallier, F., Dlugokencky, E.,
+Prinn, R. G., Weiss, R. F., O'Doherty, S., Fraser, P. J., Steele, L. P., Krummel, P. B., Vermeulen, A., Tohjima, Y., Jordan, A., Haszpra, L.,
+Steinbacher, M., Van der Laan, S., Aalto, T., Meinhardt, F., Popa, M. E., Moncrieff, J., and Bousquet, P.: TransCom N2O model inter-comparison – Part 2:
+Atmospheric inversion estimates of N2O emissions, Atmos. Chem. Phys., 14, 6177–6194, https://doi.org/10.5194/acp-14-6177-2014, 2014. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1111/j.1365-246X.2012.05699.x</doi>
+              <unstructured_citation>Tikhonov, A. N.: Solution of Incorrectly Formulated Problems and the
+Regularisation Method, Soviet. Math. Dokl., 4, 1035–1038,
+https://doi.org/10.1111/J.1365-246X.2012.05699.X, 1963. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Total Carbon Column Observing Network (TCCON) Team:
+2014 TCCON Data Release (Version GGG2014) [Data set],
+https://doi.org/10.14291/TCCON.GGG2014, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Toon, G. C.: Telluric line list for GGG2014, TCCON data archive, hosted by the
+Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory,
+Oak Ridge, Tennessee, USA, https://doi.org/10.14291/tccon.ggg2014.atm.R0/1221656,
+2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Toon, G. C. and Wunch, D.: A stand-alone a priori profile generation tool for
+GGG2014 release, TCCON data archive, hosted by the Carbon Dioxide Information
+Analysis Center, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA,
+https://doi.org/10.14291/TCCON.GGG2014.PRIORS.R0, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/essd-9-697-2017</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., van Leeuwen, T. T., Chen, Y., Rogers, B. M., Mu, M., van Marle, M. J. E., Morton, D. C.,
+Collatz, G. J., Yokelson, R. J., and Kasibhatla, P. S.: Global fire emissions estimates during 1997–2016, Earth Syst. Sci. Data, 9, 697–720,
+https://doi.org/10.5194/essd-9-697-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-7-377-2007</doi>
+              <unstructured_citation>Vigouroux, C., De Mazière, M., Errera, Q., Chabrillat, S., Mahieu, E., Duchatelet, P., Wood, S., Smale, D., Mikuteit, S., Blumenstock, T.,
+Hase, F., and Jones, N.: Comparisons between ground-based FTIR and MIPAS N2O and HNO3 profiles before and after assimilation in BASCOE,
+Atmos. Chem. Phys., 7, 377–396, https://doi.org/10.5194/acp-7-377-2007, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/gmd-8-3179-2015</doi>
+              <unstructured_citation>Wells, K. C., Millet, D. B., Bousserez, N., Henze, D. K., Chaliyakunnel, S., Griffis, T. J., Luan, Y., Dlugokencky, E. J., Prinn, R. G.,
+O'Doherty, S., Weiss, R. F., Dutton, G. S., Elkins, J. W., Krummel, P. B., Langenfelds, R., Steele, L. P., Kort, E. A., Wofsy, S. C., and
+Umezawa, T.: Simulation of atmospheric N2O with GEOS-Chem and its adjoint: evaluation of observational constraints, Geosci. Model Dev., 8, 3179–3198, https://doi.org/10.5194/gmd-8-3179-2015, 2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-18-735-2018</doi>
+              <unstructured_citation>Wells, K. C., Millet, D. B., Bousserez, N., Henze, D. K., Griffis, T. J., Chaliyakunnel, S., Dlugokencky, E. J., Saikawa, E., Xiang, G.,
+Prinn, R. G., O'Doherty, S., Young, D., Weiss, R. F., Dutton, G. S., Elkins, J. W., Krummel, P. B., Langenfelds, R., and Steele, L. P.:
+Top-down constraints on global N2O emissions at optimal resolution: application of a new dimension reduction technique,
+Atmos. Chem. Phys., 18, 735–756, https://doi.org/10.5194/acp-18-735-2018, 2018. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>WMO: Scientific Assessment of Ozone Depletion: 2014, World Meteorological Organization Global Ozone Research and Monitoring Project – Report No. 55, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>WMO: WMO Greenhouse Gas Bulletin | World Meteorological Organization, WMO
+Bull., ISSN 2078-0796, 2017. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1098/rsta.2010.0240</doi>
+              <unstructured_citation>Wunch, D., Toon, G. C., Blavier, J.-F. L., Washenfelder, R. A., Notholt, J.,
+Connor, B. J., Griffith, D. W. T., Sherlock, V., and Wennberg, P. O.: The
+Total Carbon Column Observing Network, Philos. T. Roy. Soc. A, 369, 2087–2112, https://doi.org/10.1098/rsta.2010.0240, 2011. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Wunch, D., Toon, G. C., Sherlock, V., Deutscher, N. M., Liu, C., Feist, D. G.,
+and Wennberg, P. O.: The Total Carbon Column Observing Network's GGG2014
+Data Version, p. 43,
+https://doi.org/10.14291/tccon.ggg2014.documentation.R0,
+2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1002/2013JD021406</doi>
+              <unstructured_citation>Xiong, X., Maddy, E. S., Barnet, C., Gambacorta, A., Patra, P. K., Sun, F., and
+Goldberg, M.: Retrieval of nitrous oxide from atmospheric infrared sounder:
+Characterization and validation, J. Geophys. Res., 119, 9107–9122,
+https://doi.org/10.1002/2013JD021406, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1029/2001GL014537</doi>
+              <unstructured_citation>Yang, Z., Toon, G. C., Margolis, J. S., and Wennberg, P. O.: Atmospheric CO2
+retrieved from ground-based near IR solar spectra, Geophys. Res. Lett., 29,
+53-1–53-4, https://doi.org/10.1029/2001GL014537, 2002. a</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1038/ngeo1207</doi>
+              <unstructured_citation>Zaehle, S., Ciais, P., Friend, A. D., and Prieur, V.: Carbon benefits of
+anthropogenic reactive nitrogen offset by nitrous oxide emissions, Nat.
+Geosci., 4, 601–605, https://doi.org/10.1038/ngeo1207, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/94JD01030</doi>
+              <unstructured_citation>Zander, R., Ehhalt, D. H., Rinsland, C. P., Schmidt, U., Mahieu, E., Rudolph,
+J., Demoulin, P., Roland, G., Delbouille, L., and Sauval, A. J.: Secular
+trend and seasonal variability of the column abundance of N2O above the
+Jungfraujoch station determined from IR solar spectra, J. Geophys. Res., 99,
+16745–16756, https://doi.org/10.1029/94JD01030, 1994. a</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/amt-9-5621-2016</doi>
+              <unstructured_citation>Zhou, M., Vigouroux, C., Langerock, B., Wang, P., Dutton, G., Hermans, C., Kumps, N., Metzger, J.-M., Toon, G., and De Mazière, M.:
+CFC-11, CFC-12 and HCFC-22 ground-based remote sensing FTIR measurements at Réunion Island and comparisons with MIPAS/ENVISAT data,
+Atmos. Meas. Tech., 9, 5621–5636, https://doi.org/10.5194/amt-9-5621-2016, 2016.
+ a</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-18-13881-2018</doi>
+              <unstructured_citation>Zhou, M., Langerock, B., Vigouroux, C., Sha, M. K., Ramonet, M., Delmotte, M., Mahieu, E., Bader, W., Hermans, C., Kumps, N., Metzger, J.-M.,
+Duflot, V., Wang, Z., Palm, M., and De Mazière, M.: Atmospheric CO and CH4 time series and seasonal variations on Reunion Island from
+ground-based in situ and FTIR (NDACC and TCCON) measurements, Atmos. Chem. Phys., 18, 13881–13901, https://doi.org/10.5194/acp-18-13881-2018, 2018. a</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

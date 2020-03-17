@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1038" timestamp="2019-03-01 06:17:28">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Nature Communications</full_title>
+          <abbrev_title>Nat Commun</abbrev_title>
+          <issn media_type="electronic">2041-1723</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>12</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>State-of-the-art global models underestimate impacts from climate extremes</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Jacob</given_name>
+              <surname>Schewe</surname>
+              <ORCID>http://orcid.org/0000-0001-9455-4159</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Simon N.</given_name>
+              <surname>Gosling</surname>
+              <ORCID>http://orcid.org/0000-0001-5973-6862</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Christopher</given_name>
+              <surname>Reyer</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Fang</given_name>
+              <surname>Zhao</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Philippe</given_name>
+              <surname>Ciais</surname>
+              <ORCID>http://orcid.org/0000-0001-8560-4943</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Joshua</given_name>
+              <surname>Elliott</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Louis</given_name>
+              <surname>Francois</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Veronika</given_name>
+              <surname>Huber</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Heike K.</given_name>
+              <surname>Lotze</surname>
+              <ORCID>http://orcid.org/0000-0001-6258-1304</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Sonia I.</given_name>
+              <surname>Seneviratne</surname>
+              <ORCID>http://orcid.org/0000-0001-9528-2917</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Michelle T. H.</given_name>
+              <surname>van Vliet</surname>
+              <ORCID>http://orcid.org/0000-0002-2597-8422</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Robert</given_name>
+              <surname>Vautard</surname>
+              <ORCID>http://orcid.org/0000-0001-5544-9903</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Yoshihide</given_name>
+              <surname>Wada</surname>
+              <ORCID>http://orcid.org/0000-0003-4770-2539</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Lutz</given_name>
+              <surname>Breuer</surname>
+              <ORCID>http://orcid.org/0000-0001-9720-1076</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Matthias</given_name>
+              <surname>Büchner</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David A.</given_name>
+              <surname>Carozza</surname>
+              <ORCID>http://orcid.org/0000-0001-7343-9442</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jinfeng</given_name>
+              <surname>Chang</surname>
+              <ORCID>http://orcid.org/0000-0003-4463-7778</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Marta</given_name>
+              <surname>Coll</surname>
+              <ORCID>http://orcid.org/0000-0001-6235-5868</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Delphine</given_name>
+              <surname>Deryng</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Allard</given_name>
+              <surname>de Wit</surname>
+              <ORCID>http://orcid.org/0000-0002-5517-6404</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Tyler D.</given_name>
+              <surname>Eddy</surname>
+              <ORCID>http://orcid.org/0000-0002-2833-9407</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Christian</given_name>
+              <surname>Folberth</surname>
+              <ORCID>http://orcid.org/0000-0002-6738-5238</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Katja</given_name>
+              <surname>Frieler</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew D.</given_name>
+              <surname>Friend</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Dieter</given_name>
+              <surname>Gerten</surname>
+              <ORCID>http://orcid.org/0000-0002-6214-6991</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Lukas</given_name>
+              <surname>Gudmundsson</surname>
+              <ORCID>http://orcid.org/0000-0003-3539-8621</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Naota</given_name>
+              <surname>Hanasaki</surname>
+              <ORCID>http://orcid.org/0000-0002-5092-7563</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Akihiko</given_name>
+              <surname>Ito</surname>
+              <ORCID>http://orcid.org/0000-0001-5265-0791</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Nikolay</given_name>
+              <surname>Khabarov</surname>
+              <ORCID>http://orcid.org/0000-0001-5372-4668</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Hyungjun</given_name>
+              <surname>Kim</surname>
+              <ORCID>http://orcid.org/0000-0003-1083-8416</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Peter</given_name>
+              <surname>Lawrence</surname>
+              <ORCID>http://orcid.org/0000-0002-4843-4903</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Catherine</given_name>
+              <surname>Morfopoulos</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Christoph</given_name>
+              <surname>Müller</surname>
+              <ORCID>http://orcid.org/0000-0002-9491-3550</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Hannes</given_name>
+              <surname>Müller Schmied</surname>
+              <ORCID>http://orcid.org/0000-0001-5330-9923</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>René</given_name>
+              <surname>Orth</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Sebastian</given_name>
+              <surname>Ostberg</surname>
+              <ORCID>http://orcid.org/0000-0002-2368-7015</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Yadu</given_name>
+              <surname>Pokhrel</surname>
+              <ORCID>http://orcid.org/0000-0002-1367-216X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Thomas A. M.</given_name>
+              <surname>Pugh</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Gen</given_name>
+              <surname>Sakurai</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Yusuke</given_name>
+              <surname>Satoh</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Erwin</given_name>
+              <surname>Schmid</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Tobias</given_name>
+              <surname>Stacke</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jeroen</given_name>
+              <surname>Steenbeek</surname>
+              <ORCID>http://orcid.org/0000-0002-7878-8075</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jörg</given_name>
+              <surname>Steinkamp</surname>
+              <ORCID>http://orcid.org/0000-0002-7861-8789</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Qiuhong</given_name>
+              <surname>Tang</surname>
+              <ORCID>http://orcid.org/0000-0002-0886-6699</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Hanqin</given_name>
+              <surname>Tian</surname>
+              <ORCID>http://orcid.org/0000-0002-1806-4091</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Derek P.</given_name>
+              <surname>Tittensor</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jan</given_name>
+              <surname>Volkholz</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Xuhui</given_name>
+              <surname>Wang</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Lila</given_name>
+              <surname>Warszawski</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>3</month>
+            <day>1</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>12</month>
+            <year>2019</year>
+          </publication_date>
+          <publisher_item>
+            <item_number item_number_type="article-number">1005</item_number>
+            <identifier id_type="pii">8745</identifier>
+          </publisher_item>
+          <crossmark>
+            <crossmark_version>1</crossmark_version>
+            <crossmark_policy>10.1007/springer_crossmark_policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>link.springer.com</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <crossmark_domain_exclusive>false</crossmark_domain_exclusive>
+            <custom_metadata>
+              <assertion group_label="Article History" group_name="ArticleHistory" label="Received" name="received" order="1">9 January 2018</assertion>
+              <assertion group_label="Article History" group_name="ArticleHistory" label="Accepted" name="accepted" order="2">28 January 2019</assertion>
+              <assertion group_label="Article History" group_name="ArticleHistory" label="First Online" name="first_online" order="3">1 March 2019</assertion>
+              <assertion group_label="Competing interests" group_name="EthicsHeading" name="Ethics" order="1">The authors declare no competing interests.</assertion>
+              <program name="AccessIndicators">
+                <license_ref applies_to="tdm">http://creativecommons.org/licenses/by/4.0</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.1038/s41467-019-08745-6</doi>
+            <timestamp>20190301120617031</timestamp>
+            <resource content_version="vor">http://www.nature.com/articles/s41467-019-08745-6</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource mime_type="application/pdf">http://www.nature.com/articles/s41467-019-08745-6.pdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">http://www.nature.com/articles/s41467-019-08745-6.pdf</resource>
+              </item>
+              <item>
+                <resource mime_type="text/html">http://www.nature.com/articles/s41467-019-08745-6</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="8745_CR1">
+              <journal_title>Proc. Natl Acad. Sci. USA</journal_title>
+              <author>C Rosenzweig</author>
+              <volume>14</volume>
+              <first_page>1</first_page>
+              <cYear>2014</cYear>
+              <unstructured_citation>Rosenzweig, C. et al. Assessing agricultural risks of climate change in the 21st century in a global gridded crop model intercomparison. Proc. Natl Acad. Sci. USA 14, 1–6 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR2">
+              <unstructured_citation>Schewe, J. et al. Multimodel assessment of water scarcity under climate change. Proc. Natl Acad. Sci. USA 111, 3245–3250 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR3">
+              <journal_title>Glob. Environ. Chang</journal_title>
+              <author>MTH Vliet van</author>
+              <volume>40</volume>
+              <first_page>156</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1016/j.gloenvcha.2016.07.007</doi>
+              <unstructured_citation>van Vliet, M. T. H. et al. Multi-model assessment of global hydropower and cooling water discharge potential under climate change. Glob. Environ. Chang 40, 156–170 (2016).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR4">
+              <journal_title>Lancet</journal_title>
+              <author>S Whitmee</author>
+              <volume>386</volume>
+              <first_page>1973</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1016/S0140-6736(15)60901-1</doi>
+              <unstructured_citation>Whitmee, S. et al. Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health. Lancet 386, 1973–2028 (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR5">
+              <journal_title>Science (80-)</journal_title>
+              <author>GT Pecl</author>
+              <volume>355</volume>
+              <first_page>eaai9214</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1126/science.aai9214</doi>
+              <unstructured_citation>Pecl, G. T. et al. Biodiversity redistribution under climate change: Impacts on ecosystems and human well-being. Science (80-) 355, eaai9214 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR6">
+              <journal_title>J. Econ. Lit.</journal_title>
+              <author>RS Pindyck</author>
+              <volume>51</volume>
+              <first_page>860</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1257/jel.51.3.860</doi>
+              <unstructured_citation>Pindyck, R. S. Climate change policy: what do the models tell us? J. Econ. Lit. 51, 860–872 (2013).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR7">
+              <unstructured_citation>Hsiang, S. et al. Estimating economic damage from climate change in the United States. Science (80-) 356, 1362–1369 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR8">
+              <journal_title>Nat. Commun.</journal_title>
+              <author>E Monier</author>
+              <volume>9</volume>
+              <cYear>2018</cYear>
+              <doi>10.1038/s41467-018-02984-9</doi>
+              <unstructured_citation>Monier, E. et al. Toward a consistent modeling framework to assess multi-sectoral climate impacts. Nat. Commun. 9, 660 (2018).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR9">
+              <journal_title>Reg. Environ. Chang.</journal_title>
+              <author>PA Harrison</author>
+              <cYear>2018</cYear>
+              <doi>10.1007/s10113-018-1352-4</doi>
+              <unstructured_citation>Harrison, P. A. et al. Differences between low-end and high-end climate change impacts in Europe across multiple sectors. Reg. Environ. Chang. 
+                    https://doi.org/10.1007/s10113-018-1352-4
+                    
+                   (2018).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR10">
+              <journal_title>Econ. Disasters Clim. Chang.</journal_title>
+              <author>CLE Franzke</author>
+              <volume>1</volume>
+              <first_page>95</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1007/s41885-017-0004-3</doi>
+              <unstructured_citation>Franzke, C. L. E. Impacts of a changing climate on economic damages and insurance. Econ. Disasters Clim. Chang. 1, 95–110 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR11">
+              <journal_title>Geosci. Model Dev.</journal_title>
+              <author>C Müller</author>
+              <volume>10</volume>
+              <first_page>1403</first_page>
+              <cYear>2017</cYear>
+              <doi>10.5194/gmd-10-1403-2017</doi>
+              <unstructured_citation>Müller, C. et al. Global gridded crop model evaluation: benchmarking, skills, deficiencies and implications. Geosci. Model Dev. 10, 1403–1422 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR12">
+              <journal_title>Hydrol. Earth Syst. Sci.</journal_title>
+              <author>HE Beck</author>
+              <volume>21</volume>
+              <first_page>2881</first_page>
+              <cYear>2017</cYear>
+              <doi>10.5194/hess-21-2881-2017</doi>
+              <unstructured_citation>Beck, H. E. et al. Global evaluation of runoff from 10 state-of-the-art hydrological models. Hydrol. Earth Syst. Sci. 21, 2881–2903 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR13">
+              <journal_title>Clim. Change</journal_title>
+              <author>FF Hattermann</author>
+              <volume>141</volume>
+              <first_page>561</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1007/s10584-016-1829-4</doi>
+              <unstructured_citation>Hattermann, F. F. et al. Cross‐scale intercomparison of climate change impacts simulated by regional and global hydrological models in eleven large river basins. Clim. Change 141, 561–576 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR14">
+              <journal_title>J. Geophys. Res. Biogeosci.</journal_title>
+              <author>AK Traore</author>
+              <volume>119</volume>
+              <first_page>1554</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1002/2014JG002638</doi>
+              <unstructured_citation>Traore, A. K. et al. Evaluation of the ORCHIDEE ecosystem model over Africa against 25 years of satellite-based water and carbon measurements. J. Geophys. Res. Biogeosci. 119, 1554–1575 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR15">
+              <journal_title>Nat. Commun.</journal_title>
+              <author>B Schauberger</author>
+              <volume>8</volume>
+              <cYear>2017</cYear>
+              <doi>10.1038/ncomms13931</doi>
+              <unstructured_citation>Schauberger, B. et al. Consistent negative response of US crops to high temperatures in observations and crop models. Nat. Commun. 8, 13931 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR16">
+              <journal_title>Environ. Res. Lett.</journal_title>
+              <author>A Dosio</author>
+              <volume>13</volume>
+              <first_page>054006</first_page>
+              <cYear>2018</cYear>
+              <doi>10.1088/1748-9326/aab827</doi>
+              <unstructured_citation>Dosio, A., Mentaschi, L., Fischer, E. M. &amp; Wyser, K. Extreme heat waves under 1.5 °C and 2 °C global warming. Environ. Res. Lett. 13, 054006 (2018).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR17">
+              <journal_title>Nature</journal_title>
+              <author>C Schär</author>
+              <volume>427</volume>
+              <first_page>332</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1038/nature02300</doi>
+              <unstructured_citation>Schär, C. et al. The role of increasing temperature variability in European summer heatwaves. Nature 427, 332–336 (2004).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR18">
+              <journal_title>Crit. Rev. Environ. Sci. Technol.</journal_title>
+              <author>R García-Herrera</author>
+              <volume>40</volume>
+              <first_page>267</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1080/10643380802238137</doi>
+              <unstructured_citation>García-Herrera, R., Díaz, J., Trigo, R. M., Luterbacher, J. &amp; Fischer, E. M. A review of the European summer heat wave of 2003. Crit. Rev. Environ. Sci. Technol. 40, 267–306 (2010).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR19">
+              <doi provider="crossref">10.1029/2011WR011749</doi>
+              <unstructured_citation>Seneviratne, S. I. et al. Swiss prealpine Rietholzbach research catchment and lysimeter: 32 year time series and 2003 drought event. Water Resour. Res. 48, W06526 (2012).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR20">
+              <journal_title>J. Clim.</journal_title>
+              <author>EM Fischer</author>
+              <volume>20</volume>
+              <first_page>5081</first_page>
+              <cYear>2007</cYear>
+              <doi>10.1175/JCLI4288.1</doi>
+              <unstructured_citation>Fischer, E. M., Seneviratne, S. I., Vidale, P. L., Lüthi, D. &amp; Schär, C. Soil moisture–atmosphere interactions during the 2003 European summer heat wave. J. Clim. 20, 5081–5099 (2007).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR21">
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <author>M Beniston</author>
+              <volume>31</volume>
+              <first_page>L02202</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1029/2003GL018857</doi>
+              <unstructured_citation>Beniston, M. The 2003 heat wave in Europe: a shape of things to come? An analysis based on Swiss climatological data and model simulations. Geophys. Res. Lett. 31, L02202 (2004).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR22">
+              <journal_title>Nature</journal_title>
+              <author>PA Stott</author>
+              <volume>432</volume>
+              <first_page>610</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1038/nature03089</doi>
+              <unstructured_citation>Stott, P. A., Stone, D. A. &amp; Allen, M. R. Human contribution to the European heatwave of 2003. Nature 432, 610–614 (2004).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR23">
+              <unstructured_citation>Zhao, C. et al. Temperature increase reduces global yields of major crops in four independent estimates. Proc. Natl Acad. Sci. USA 114, 9326–9331 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR24">
+              <journal_title>Environ. Res. Lett.</journal_title>
+              <author>M Bador</author>
+              <volume>12</volume>
+              <first_page>074025</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1088/1748-9326/aa751c</doi>
+              <unstructured_citation>Bador, M. et al. Future summer mega-heatwave and record-breaking temperatures in a warmer France climate. Environ. Res. Lett. 12, 074025 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR25">
+              <journal_title>Weather Clim. Extrem.</journal_title>
+              <author>K Whan</author>
+              <volume>9</volume>
+              <first_page>57</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1016/j.wace.2015.05.001</doi>
+              <unstructured_citation>Whan, K. et al. Impact of soil moisture on extreme maximum temperatures in Europe. Weather Clim. Extrem. 9, 57–67 (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR26">
+              <journal_title>Nat. Hazards Earth Syst. Sci.</journal_title>
+              <author>M Zappa</author>
+              <volume>7</volume>
+              <first_page>375</first_page>
+              <cYear>2007</cYear>
+              <doi>10.5194/nhess-7-375-2007</doi>
+              <unstructured_citation>Zappa, M. &amp; Kan, C. Extreme heat and runoff extremes in the Swiss Alps. Nat. Hazards Earth Syst. Sci. 7, 375–389 (2007).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR27">
+              <journal_title>Hydrol. Process.</journal_title>
+              <author>J Hannaford</author>
+              <volume>25</volume>
+              <first_page>1146</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1002/hyp.7725</doi>
+              <unstructured_citation>Hannaford, J., Lloyd-Hughes, B., Keef, C., Parry, S. &amp; Prudhomme, C. Examining the large-scale spatial coherence of European drought using regional indicators of precipitation and streamflow deficit. Hydrol. Process. 25, 1146–1162 (2011).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR28">
+              <journal_title>Earth Syst. Sci. Data</journal_title>
+              <author>L Gudmundsson</author>
+              <volume>8</volume>
+              <first_page>279</first_page>
+              <cYear>2016</cYear>
+              <doi>10.5194/essd-8-279-2016</doi>
+              <unstructured_citation>Gudmundsson, L. &amp; Seneviratne, S. I. Observation-based gridded runoff estimates for Europe (E-RUN version 1.1). Earth Syst. Sci. Data 8, 279–295 (2016).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR29">
+              <journal_title>Science</journal_title>
+              <author>T Oki</author>
+              <volume>313</volume>
+              <first_page>1068</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1126/science.1128845</doi>
+              <unstructured_citation>Oki, T. &amp; Kanae, S. Global hydrological cycles and world water resources. Science 313, 1068–1072 (2006).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR30">
+              <journal_title>Weather</journal_title>
+              <author>AH Fink</author>
+              <volume>59</volume>
+              <first_page>209</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1256/wea.73.04</doi>
+              <unstructured_citation>Fink, A. H. et al. The 2003 European summer heatwaves and drought -synoptic diagnosis and impacts. Weather 59, 209–216 (2004).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR31">
+              <unstructured_citation>Umweltbundesamt. Monitoringbericht 2015 zur Deutschen Anpassungsstrategie an den Klimawandel (Dessau-Roßlau, Germany) 
+                    http://www.umweltbundesamt.de/publikationen/monitoringbericht-2015
+                    
+                   (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR32">
+              <doi provider="crossref">10.1029/2005GL023574</doi>
+              <unstructured_citation>Andersen, O. B., Seneviratne, S. I., Hinderer, J. &amp; Viterbo, P. GRACE-derived terrestrial water storage depletion associated with the 2003 European heat wave. Geophys. Res. Lett. 32, L18405 (2005).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR33">
+              <journal_title>Proc. Natl Acad. Sci. USA</journal_title>
+              <author>I Haddeland</author>
+              <cYear>2013</cYear>
+              <doi>10.1073/pnas.1222475110</doi>
+              <unstructured_citation>Haddeland, I. et al. Global water resources affected by human interventions and climate change. Proc. Natl Acad. Sci. USA. 111, 3251–3256 (2013).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR34">
+              <journal_title>Environ. Res. Lett.</journal_title>
+              <author>Y Wada</author>
+              <volume>8</volume>
+              <first_page>034036</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1088/1748-9326/8/3/034036</doi>
+              <unstructured_citation>Wada, Y., van Beek, L. P. H., Wanders, N. &amp; Bierkens, M. F. P. Human water consumption intensifies hydrological drought worldwide. Environ. Res. Lett. 8, 034036 (2013).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR35">
+              <journal_title>Environ. Res. Lett.</journal_title>
+              <author>J Zaherpour</author>
+              <cYear>2018</cYear>
+              <doi>10.1088/1748-9326/aac547</doi>
+              <unstructured_citation>Zaherpour, J. et al. Worldwide evaluation of mean and extreme runoff from six global-scale hydrological models that account for human impacts. Environ. Res. Lett. 13, 065015 (2018).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR36">
+              <journal_title>JAWRA</journal_title>
+              <author>PCD Milly</author>
+              <cYear>2017</cYear>
+              <doi>10.1111/1752-1688.12538</doi>
+              <unstructured_citation>Milly, P. C. D. &amp; Dunne, K. A. A hydrologic drying bias in water-resource impact analyses of anthropogenic climate change. JAWRA. 53, 822–838 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR37">
+              <journal_title>Clim. Change</journal_title>
+              <author>M Velde van der</author>
+              <volume>113</volume>
+              <first_page>751</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1007/s10584-011-0368-2</doi>
+              <unstructured_citation>van der Velde, M., Tubiello, F. N., Vrieling, A. &amp; Bouraoui, F. Impacts of extreme weather on wheat and maize in France: evaluating regional crop simulations against observed data. Clim. Change 113, 751–765 (2012).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR38">
+              <unstructured_citation>Parry, M. L., Canziani, O. F., Palutikof, J. P., van der Linden, P. J. &amp; Hanson, C. E. (Eds) in Climate Change 2007: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. 843–868 (Cambridge University Press, Cambridge, 2007).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR39">
+              <journal_title>Nature</journal_title>
+              <author>P Ciais</author>
+              <volume>437</volume>
+              <first_page>529</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1038/nature03972</doi>
+              <unstructured_citation>Ciais, P. et al. Europe-wide reduction in primary productivity caused by the heat and drought in 2003. Nature 437, 529–533 (2005).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR40">
+              <unstructured_citation>Copa-Cogeca. Assessment of the impact of the heat wave and drought of the summer 2003 on agriculture and forestry 
+                    http://docs.gip-ecofor.org/libre/COPA_COGECA_2004.pdf
+                    
+                   (2004).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR41">
+              <journal_title>Glob. Ecol. Biogeogr.</journal_title>
+              <author>LGJ Bussel van</author>
+              <volume>24</volume>
+              <first_page>1018</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1111/geb.12351</doi>
+              <unstructured_citation>van Bussel, L. G. J., Stehfest, E., Siebert, S., Müller, C. &amp; Ewert, F. Simulation of the phenological development of wheat and maize at the global scale. Glob. Ecol. Biogeogr. 24, 1018–1029 (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR42">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>PC Smith</author>
+              <volume>115</volume>
+              <issue>G4</issue>
+              <first_page>G04028</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1029/2009JG001041</doi>
+              <unstructured_citation>Smith, P. C. et al. European-wide simulations of croplands using an improved terrestrial biosphere model: 2. Interannual yields and anomalous CO 2 fluxes in 2003. J. Geophys. Res. 115(G4), G04028 (2010).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR43">
+              <journal_title>Biogeosciences</journal_title>
+              <author>M Vetter</author>
+              <volume>5</volume>
+              <first_page>561</first_page>
+              <cYear>2008</cYear>
+              <doi>10.5194/bg-5-561-2008</doi>
+              <unstructured_citation>Vetter, M. et al. Analyzing the causes and spatial pattern of the European 2003 carbon flux anomaly using seven models. Biogeosciences 5, 561–583 (2008).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR44">
+              <journal_title>Int J. Climatol.</journal_title>
+              <author>BF Zaitchik</author>
+              <volume>26</volume>
+              <first_page>743</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1002/joc.1280</doi>
+              <unstructured_citation>Zaitchik, B. F., Macalady, A. K., Bonneau, L. R. &amp; Smith, R. B. Europe’s 2003 heat wave: a satellite view of impacts and land–atmosphere feedbacks. Int J. Climatol. 26, 743–769 (2006).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR45">
+              <journal_title>Glob. Chang. Biol.</journal_title>
+              <author>M Reichstein</author>
+              <volume>13</volume>
+              <first_page>634</first_page>
+              <cYear>2007</cYear>
+              <doi>10.1111/j.1365-2486.2006.01224.x</doi>
+              <unstructured_citation>Reichstein, M. et al. Reduction of ecosystem productivity and respiration during the European summer 2003 climate anomaly: a joint flux tower, remote sensing and modelling analysis. Glob. Chang. Biol. 13, 634–651 (2007).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR46">
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <author>WM Jolly</author>
+              <volume>32</volume>
+              <first_page>n/a</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1029/2005GL023252</doi>
+              <unstructured_citation>Jolly, W. M., Dobbertin, M., Zimmermann, N. E. &amp; Reichstein, M. Divergent vegetation growth responses to the 2003 heat wave in the Swiss Alps. Geophys. Res. Lett. 32, L18409 (2005).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR47">
+              <journal_title>Bioscience</journal_title>
+              <author>SW Running</author>
+              <volume>54</volume>
+              <first_page>547</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1641/0006-3568(2004)054[0547:ACSMOG]2.0.CO;2</doi>
+              <unstructured_citation>Running, S. W. et al. A continuous satellite-derived measure of global terrestrial primary production. Bioscience 54, 547–560 (2004).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR48">
+              <journal_title>Remote Sens. Environ.</journal_title>
+              <author>M Zhao</author>
+              <volume>95</volume>
+              <first_page>164</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1016/j.rse.2004.12.011</doi>
+              <unstructured_citation>Zhao, M., Heinsch, F. A., Nemani, R. R. &amp; Running, S. W. Improvements of the MODIS terrestrial gross and net primary production global data set. Remote Sens. Environ. 95, 164–176 (2005).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR49">
+              <journal_title>Environ. Res. Lett.</journal_title>
+              <author>A Ito</author>
+              <volume>12</volume>
+              <first_page>085001</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1088/1748-9326/aa7a19</doi>
+              <unstructured_citation>Ito, A. et al. Photosynthetic productivity and its efficiencies in ISIMIP2a biome models: benchmarking for impact assessment studies. Environ. Res. Lett. 12, 085001 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR50">
+              <journal_title>Glob. Biogeochem. Cycles</journal_title>
+              <author>Y Huang</author>
+              <volume>30</volume>
+              <first_page>1827</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1002/2016GB005480</doi>
+              <unstructured_citation>Huang, Y., Gerber, S., Huang, T. &amp; Lichstein, J. W. Evaluating the drought response of CMIP5 models using global gross primary productivity, leaf area, precipitation, and soil moisture data. Glob. Biogeochem. Cycles 30, 1827–1846 (2016).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR51">
+              <journal_title>Biogeosci. Discuss.</journal_title>
+              <author>M Oijen Van</author>
+              <volume>11</volume>
+              <first_page>8325</first_page>
+              <cYear>2014</cYear>
+              <doi>10.5194/bgd-11-8325-2014</doi>
+              <unstructured_citation>Van Oijen, M. et al. Impact of droughts on the C-cycle in European vegetation: a probabilistic risk analysis using six vegetation models. Biogeosci. Discuss. 11, 8325–8371 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR52">
+              <journal_title>Environ. Res. Lett.</journal_title>
+              <author>M Chen</author>
+              <volume>12</volume>
+              <first_page>105005</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1088/1748-9326/aa8978</doi>
+              <unstructured_citation>Chen, M. et al. Regional contribution to variability and trends of global gross primary productivity. Environ. Res. Lett. 12, 105005 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR53">
+              <journal_title>Biogeosciences</journal_title>
+              <author>MG Kauwe De</author>
+              <volume>12</volume>
+              <first_page>7503</first_page>
+              <cYear>2015</cYear>
+              <doi>10.5194/bg-12-7503-2015</doi>
+              <unstructured_citation>De Kauwe, M. G. et al. Do land surface models need to include differential plant species responses to drought? Examining model predictions across a mesic-xeric gradient in Europe. Biogeosciences 12, 7503–7518 (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR54">
+              <unstructured_citation>IAEA. Operating experience with nuclear power stations in Member States in 2003. 
+                    www-pub.iaea.org/MTCD/Publications/PDF/Pub1219_web.pdf
+                    
+                   (IAEA, Vienna, 2004).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR55">
+              <unstructured_citation>Rübbelke, D. &amp; Vögele, S. Impacts of climate change on European critical infrastructures: the case of the power sector. Environ. Sci. Policy. 14, 53–63 (2011).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR56">
+              <journal_title>Nat. Clim. Chang.</journal_title>
+              <author>MTH Vliet van</author>
+              <volume>6</volume>
+              <first_page>375</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1038/nclimate2903</doi>
+              <unstructured_citation>van Vliet, M. T. H., Wiberg, D., Leduc, S. &amp; Riahi, K. Power-generation system vulnerability and adaptation to changes in climate and water resources. Nat. Clim. Chang. 6, 375–380 (2016).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR57">
+              <unstructured_citation>Murray, V. et al. in Managing the Risks of Extreme Events and Disasters to Advance Climate Change
+                           Adaptation (eds Field, C. B. et al.) 487–542 (Cambridge University Press, Cambridge and New York, 2012).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR58">
+              <journal_title>C. R. Biol.</journal_title>
+              <author>JM Robine</author>
+              <volume>331</volume>
+              <first_page>171</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1016/j.crvi.2007.12.001</doi>
+              <unstructured_citation>Robine, J.-M. et al. Death toll exceeded 70,000 in Europe during the summer of 2003. C. R. Biol. 331, 171–178 (2008).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR59">
+              <journal_title>Euro. Surveill.</journal_title>
+              <author>P Pirard</author>
+              <volume>10</volume>
+              <first_page>153</first_page>
+              <cYear>2005</cYear>
+              <doi>10.2807/esm.10.07.00554-en</doi>
+              <unstructured_citation>Pirard, P. et al. Summary of the mortality impact assessment of the 2003 heat wave in France. Euro. Surveill. 10, 153–156 (2005).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR60">
+              <journal_title>Epidemiology</journal_title>
+              <author>M Baccini</author>
+              <volume>19</volume>
+              <first_page>711</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1097/EDE.0b013e318176bfcd</doi>
+              <unstructured_citation>Baccini, M. et al. Heat effects on mortality in 15 european cities. Epidemiology 19, 711–719 (2008).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR61">
+              <journal_title>Eur. Surveill.</journal_title>
+              <author>P Michelozzi</author>
+              <volume>10</volume>
+              <first_page>161</first_page>
+              <cYear>2005</cYear>
+              <doi>10.2807/esm.10.07.00556-en</doi>
+              <unstructured_citation>Michelozzi, P. et al. The impact of the summer 2003 heat waves on mortality in four Italian cities. Eur. Surveill. 10, 161–165 (2005).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR62">
+              <journal_title>J. Epidemiol. Community Health</journal_title>
+              <author>P Michelozzi</author>
+              <volume>60</volume>
+              <first_page>417</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1136/jech.2005.040857</doi>
+              <unstructured_citation>Michelozzi, P. et al. Temperature and summer mortality: geographical and temporal variations in four Italian cities. J. Epidemiol. Community Health 60, 417–423 (2006).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR63">
+              <journal_title>Ocean Sci.</journal_title>
+              <author>A Olita</author>
+              <volume>3</volume>
+              <first_page>273</first_page>
+              <cYear>2007</cYear>
+              <doi>10.5194/os-3-273-2007</doi>
+              <unstructured_citation>Olita, A. et al. Effects of the 2003 European heatwave on the Central Mediterranean Sea: surface fluxes and the dynamical response. Ocean Sci. 3, 273–289 (2007).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR64">
+              <journal_title>Glob. Chang. Biol.</journal_title>
+              <author>N MARBÀ</author>
+              <volume>16</volume>
+              <first_page>2366</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1111/j.1365-2486.2009.02130.x</doi>
+              <unstructured_citation>Marbà, N. &amp; Duarte, C. M. Mediterranean warming triggers seagrass (Posidonia oceanica) shoot mortality. Glob. Chang. Biol. 16, 2366–2375 (2009).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR65">
+              <journal_title>Glob. Chang. Biol.</journal_title>
+              <author>J GARRABOU</author>
+              <volume>15</volume>
+              <first_page>1090</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1111/j.1365-2486.2008.01823.x</doi>
+              <unstructured_citation>Garrabou, J. et al. Mass mortality in Northwestern Mediterranean rocky benthic communities: effects of the 2003 heat wave. Glob. Chang. Biol. 15, 1090–1103 (2009).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR66">
+              <journal_title>Fish. Oceanogr.</journal_title>
+              <author>A García</author>
+              <volume>22</volume>
+              <first_page>273</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1111/fog.12021</doi>
+              <unstructured_citation>García, A. et al. Climate-induced environmental conditions influencing interannual variability of Mediterranean bluefin (Thunnus thynnus) larval growth. Fish. Oceanogr. 22, 273–287 (2013).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR67">
+              <journal_title>Clim. Change</journal_title>
+              <author>F Maynou</author>
+              <volume>126</volume>
+              <first_page>175</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1007/s10584-014-1194-0</doi>
+              <unstructured_citation>Maynou, F., Sabatés, A. &amp; Salat, J. Clues from the recent past to assess recruitment of Mediterranean small pelagic fishes under sea warming scenarios. Clim. Change 126, 175–188 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR68">
+              <unstructured_citation>Tzanatos, E., Raitsos, D. E., Triantafyllou, G., Somarakis, S. &amp; Tsonis, A. A. Indications of a climate effect on Mediterranean fisheries. Clim. Change 
+                           122, 41–54 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR69">
+              <unstructured_citation>Tittensor, D. P. et al. A protocol for the intercomparison of marine fishery and ecosystem models: Fish-MIP v1.0. Geosci. Model Dev. 11, 1421–1442 (2018).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR70">
+              <journal_title>Nat. Commun.</journal_title>
+              <author>D Pauly</author>
+              <volume>7</volume>
+              <cYear>2016</cYear>
+              <doi>10.1038/ncomms10244</doi>
+              <unstructured_citation>Pauly, D. &amp; Zeller, D. Catch reconstructions reveal that global marine fisheries catches are higher than reported and declining. Nat. Commun. 7, 10244 (2016).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR71">
+              <unstructured_citation>Gómez, F. &amp; Souissi, S. The impact of the 2003 summer heat wave and the 2005 late cold wave on the phytoplankton in the north-eastern English Channel. C. R. Biol. 331, 678–685 (2008).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR72">
+              <journal_title>Sci. Rep.</journal_title>
+              <author>R Orth</author>
+              <volume>6</volume>
+              <cYear>2016</cYear>
+              <doi>10.1038/srep28334</doi>
+              <unstructured_citation>Orth, R. et al. Record dry summer in 2015 challenges precipitation projections in Central Europe. Sci. Rep. 6, 28334 (2016).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR73">
+              <journal_title>Environ. Health Perspect.</journal_title>
+              <author>SN Gosling</author>
+              <volume>125</volume>
+              <first_page>1</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1289/EHP634</doi>
+              <unstructured_citation>Gosling, S. N. et al. Adaptation to climate change: a comparative analysis of modeling methods for heat-related mortality. Environ. Health Perspect. 125, 1–45 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR74">
+              <journal_title>Agric. Ecosyst. Environ.</journal_title>
+              <author>M Velde van der</author>
+              <volume>135</volume>
+              <first_page>90</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1016/j.agee.2009.08.017</doi>
+              <unstructured_citation>van der Velde, M., Wriedt, G. &amp; Bouraoui, F. Estimating irrigation use and effects on maize yield during the 2003 heatwave in France. Agric. Ecosyst. Environ. 135, 90–97 (2010).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR75">
+              <journal_title>Earth Syst. Dyn.</journal_title>
+              <author>K Frieler</author>
+              <volume>6</volume>
+              <first_page>447</first_page>
+              <cYear>2015</cYear>
+              <doi>10.5194/esd-6-447-2015</doi>
+              <unstructured_citation>Frieler, K. et al. A framework for the cross-sectoral integration of multi-model impact projections: land use decisions under climate impacts uncertainties. Earth Syst. Dyn. 6, 447–460 (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR76">
+              <journal_title>Environ. Res. Lett.</journal_title>
+              <author>CPO Reyer</author>
+              <volume>12</volume>
+              <first_page>034027</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1088/1748-9326/aa5ef1</doi>
+              <unstructured_citation>Reyer, C. P. O. et al. Are forest disturbances amplifying or canceling out climate change-induced productivity changes in European forests? Environ. Res. Lett. 12, 034027 (2017).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR77">
+              <unstructured_citation>Caminade, C. et al. Impact of climate change on global malaria distribution. Proc. Natl Acad. Sci. USA 111, 1–6 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR78">
+              <unstructured_citation>Friend, A. D. et al. Carbon residence time dominates uncertainty in terrestrial vegetation responses to future climate and atmospheric CO2. Proc. Natl Acad. Sci. USA 
+                           111, 3280–3285 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR79">
+              <journal_title>Water Resour. Res.</journal_title>
+              <author>GP Weedon</author>
+              <volume>50</volume>
+              <first_page>7505</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1002/2014WR015638</doi>
+              <unstructured_citation>Weedon, G. P. et al. The WFDEI meteorological forcing data set: WATCH Forcing Data methodology applied to ERA-Interim reanalysis data. Water Resour. Res. 50, 7505–7514 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR80">
+              <journal_title>Geosci. Model Dev.</journal_title>
+              <author>B Hurk van den</author>
+              <volume>9</volume>
+              <first_page>2809</first_page>
+              <cYear>2016</cYear>
+              <doi>10.5194/gmd-9-2809-2016</doi>
+              <unstructured_citation>van den Hurk, B. et al. LS3MIP (v1.0) contribution to CMIP6: the Land Surface, Snow and Soil moisture Model Intercomparison Project – aims, setup and expected outcome. Geosci. Model Dev. 9, 2809–2832 (2016).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR81">
+              <journal_title>J. Clim.</journal_title>
+              <author>J Sheffield</author>
+              <volume>19</volume>
+              <first_page>3088</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1175/JCLI3790.1</doi>
+              <unstructured_citation>Sheffield, J., Goteti, G. &amp; Wood, E. F. Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling. J. Clim. 19, 3088–3111 (2006).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR82">
+              <unstructured_citation>Portmann, F. T., Siebert, S. &amp; Döll, P. MIRCA2000-Global monthly irrigated and rainfed crop areas around the year 2000: a new high-resolution data set for agricultural and hydrological modeling. Glob. Biogeochem. Cycles 24, GB1011 (2010).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR83">
+              <unstructured_citation>Running, S. W. &amp; Zhao, M. User's Guide: Daily GPP and annual NPP (MOD17A2/A3) products NASA Earth Observing System MODIS land algorithm. Version 3.0. 
+                    https://www.ntsg.umt.edu/files/modis/MOD17UsersGuide2015_v3.pdf
+                    
+                   (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR84">
+              <unstructured_citation>UDI. World electric power plants database 
+                    http://www.platts.com/
+                    
+                   (2013).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR85">
+              <journal_title>Clim. Change</journal_title>
+              <author>I Tobin</author>
+              <volume>128</volume>
+              <first_page>99</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1007/s10584-014-1291-0</doi>
+              <unstructured_citation>Tobin, I. et al. Assessing climate change impacts on European wind energy from ENSEMBLES high-resolution climate projections. Clim. Change 128, 99–112 (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR86">
+              <journal_title>Bmc Med. Res. Methodol.</journal_title>
+              <author>A Gasparrini</author>
+              <volume>14</volume>
+              <cYear>2014</cYear>
+              <doi>10.1186/1471-2288-14-55</doi>
+              <unstructured_citation>Gasparrini, A. &amp; Leone, M. Attributable risk from distributed lag models. Bmc Med. Res. Methodol. 14, 55 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR87">
+              <journal_title>Environ. Res Lett.</journal_title>
+              <author>D Mitchell</author>
+              <volume>11</volume>
+              <first_page>074006</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1088/1748-9326/11/7/074006</doi>
+              <unstructured_citation>Mitchell, D. et al. Attributing human mortality during extreme heat waves to anthropogenic climate change. Environ. Res Lett. 11, 074006 (2016).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR88">
+              <unstructured_citation>Monteith, J. L. &amp; Unsworth, M. Principles of Environmental Physics. (Elsevier Science, San Diego, 2007).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR89">
+              <journal_title>Eur. J. Epidemiol.</journal_title>
+              <author>C Borrell</author>
+              <volume>21</volume>
+              <first_page>633</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1007/s10654-006-9047-4</doi>
+              <unstructured_citation>Borrell, C. et al. Socioeconomic position and excess mortality during the heat wave of 2003 in Barcelona. Eur. J. Epidemiol. 21, 633–640 (2006).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR90">
+              <journal_title>Swiss Med. Wkly</journal_title>
+              <author>L Grize</author>
+              <volume>135</volume>
+              <first_page>200</first_page>
+              <cYear>2005</cYear>
+              <unstructured_citation>Grize, L., Huss, A., Thommen, O., Schindler, C. &amp; Braun-Fahrländer, C. Heat wave 2003 and mortality in Switzerland. Swiss Med. Wkly 135, 200–205 (2005).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR91">
+              <journal_title>Gac. Sanit.</journal_title>
+              <author>F Martínez Navarro</author>
+              <volume>18</volume>
+              <issue>Supl.1</issue>
+              <first_page>250</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1157/13062535</doi>
+              <unstructured_citation>Martínez Navarro, F., Simón-Soria, F. &amp; López-Abente, G. Valoración del impacto de la ola de calor del verano de 2003 sobre la mortalidad. Gac. Sanit. 18(Supl.1), 250–258 (2004).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR92">
+              <journal_title>Int. J. Biometeorol.</journal_title>
+              <author>A Tobías</author>
+              <volume>54</volume>
+              <first_page>115</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1007/s00484-009-0266-8</doi>
+              <unstructured_citation>Tobías, A. et al. Short-term effects of extreme hot summer temperatures on total daily mortality in Barcelona, Spain. Int. J. Biometeorol. 54, 115–117 (2010).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR93">
+              <journal_title>Epidemiology</journal_title>
+              <author>A Tertre Le</author>
+              <volume>17</volume>
+              <first_page>75</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1097/01.ede.0000187650.36636.1f</doi>
+              <unstructured_citation>Le Tertre, A. et al. Impact of the 2003 heatwave on all-cause mortality in 9 french cities. Epidemiology 17, 75–79 (2006).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR94">
+              <journal_title>Health Stat. Q</journal_title>
+              <author>H Johnson</author>
+              <volume>25</volume>
+              <first_page>6</first_page>
+              <cYear>2005</cYear>
+              <unstructured_citation>Johnson, H. et al. The impact of the 2003 heat wave on mortality and hospital admissions in England. Health Stat. Q 25, 6–11 (2005).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR95">
+              <journal_title>Epidemiology</journal_title>
+              <author>S Hajat</author>
+              <volume>17</volume>
+              <first_page>632</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1097/01.ede.0000239688.70829.63</doi>
+              <unstructured_citation>Hajat, S. et al. Impact of high temperatures on mortality. Epidemiology 17, 632–638 (2006).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR96">
+              <journal_title>Epidemiology</journal_title>
+              <author>A Gasparrini</author>
+              <volume>22</volume>
+              <first_page>68</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1097/EDE.0b013e3181fdcd99</doi>
+              <unstructured_citation>Gasparrini, A. &amp; Armstrong, B. The impact of heat waves on mortality. Epidemiology 22, 68–73 (2011).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR97">
+              <journal_title>Clim. Change</journal_title>
+              <author>SN Gosling</author>
+              <volume>92</volume>
+              <first_page>299</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1007/s10584-008-9441-x</doi>
+              <unstructured_citation>Gosling, S. N., Lowe, J. A., McGregor, G. R., Pelling, M. &amp; Malamud, B. D. Associations between elevated atmospheric temperature and human mortality: a critical review of the literature. Clim. Change 92, 299–341 (2009).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR98">
+              <journal_title>Clim. Change</journal_title>
+              <author>SN Gosling</author>
+              <volume>112</volume>
+              <first_page>217</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1007/s10584-011-0211-9</doi>
+              <unstructured_citation>Gosling, S. N., McGregor, G. R. &amp; Lowe, J. A. The benefits of quantifying climate model uncertainty in climate change impacts assessment: an example with heat-related mortality change estimates. Clim. Change 112, 217–231 (2012).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR99">
+              <journal_title>Environ. Health Perspect.</journal_title>
+              <author>SL Kingsley</author>
+              <volume>124</volume>
+              <first_page>460</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1289/ehp.1408826</doi>
+              <unstructured_citation>Kingsley, S. L., Eliot, M. N., Gold, J., Vanderslice, R. R. &amp; Wellenius, G. A. Current and projected heat-related morbidity and mortality in rhode island. Environ. Health Perspect. 124, 460–467 (2015).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR100">
+              <journal_title>J. Epidemiol. Community Health</journal_title>
+              <author>A Smargiassi</author>
+              <volume>63</volume>
+              <first_page>659</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1136/jech.2008.078147</doi>
+              <unstructured_citation>Smargiassi, A. et al. Variation of daily warm season mortality as a function of micro-urban heat islands. J. Epidemiol. Community Health 63, 659–664 (2009).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR101">
+              <journal_title>Prog. Oceanogr.</journal_title>
+              <author>CA Stock</author>
+              <volume>120</volume>
+              <first_page>1</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1016/j.pocean.2013.07.001</doi>
+              <unstructured_citation>Stock, C. A., Dunne, J. P. &amp; John, J. G. Global-scale carbon and energy flows through the marine planktonic food web: an analysis with a coupled physical–biological model. Prog. Oceanogr. 120, 1–28 (2014).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR102">
+              <journal_title>Ocean Model.</journal_title>
+              <author>SM Griffies</author>
+              <volume>26</volume>
+              <first_page>1</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1016/j.ocemod.2008.08.007</doi>
+              <unstructured_citation>Griffies, S. M. et al. Coordinated ocean-ice reference experiments (COREs). Ocean Model. 26, 1–46 (2009).</unstructured_citation>
+            </citation>
+            <citation key="8745_CR103">
+              <unstructured_citation>Large, W. G. &amp; Yeager, S. G. Diurnal to Decadal Global Forcing For Ocean and Sea-Ice Models: The Data Sets and Flux Climatologies. NCAR Technical Note NCAR/TN-460+STR (National Center for Atmospheric Research, Boulder, 2004).</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

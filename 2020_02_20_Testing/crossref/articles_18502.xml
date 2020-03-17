@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Sensitivity of biogenic volatile organic compounds to land surface  parameterizations and vegetation distributions in California</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Chun</given_name>
+              <surname>Zhao</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Maoyi</given_name>
+              <surname>Huang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jerome D.</given_name>
+              <surname>Fast</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Larry K.</given_name>
+              <surname>Berg</surname>
+              <ORCID>https://orcid.org/0000-0002-3362-9492</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yun</given_name>
+              <surname>Qian</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alex</given_name>
+              <surname>Guenther</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dasa</given_name>
+              <surname>Gu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Manish</given_name>
+              <surname>Shrivastava</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ying</given_name>
+              <surname>Liu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stacy</given_name>
+              <surname>Walters</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gabriele</given_name>
+              <surname>Pfister</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jiming</given_name>
+              <surname>Jin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John E.</given_name>
+              <surname>Shilling</surname>
+              <ORCID>https://orcid.org/0000-0002-3728-0195</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Carsten</given_name>
+              <surname>Warneke</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Current climate models still have large uncertainties in estimating biogenic trace gases, which can significantly affect atmospheric chemistry and secondary aerosol formation that ultimately influences air quality and aerosol radiative forcing. These uncertainties result from many factors, including uncertainties in land surface processes and specification of vegetation types, both of which can affect the simulated near-surface fluxes of biogenic volatile organic compounds (BVOCs). In this study, the latest version of Model of Emissions of Gases and Aerosols from Nature (MEGAN v2.1) is coupled within the land surface scheme CLM4 (Community Land Model version 4.0) in the Weather Research and Forecasting model with chemistry (WRF-Chem). In this implementation, MEGAN v2.1 shares a consistent vegetation map with CLM4 for estimating BVOC emissions. This is unlike MEGAN v2.0 in the public version of WRF-Chem that uses a stand-alone vegetation map that differs from what is used by land surface schemes. This improved modeling framework is used to investigate the impact of two land surface schemes, CLM4 and Noah, on BVOCs and examine the sensitivity of BVOCs to vegetation distributions in California. The measurements collected during the Carbonaceous Aerosol and Radiative Effects Study (CARES) and the California Nexus of Air Quality and Climate Experiment (CalNex) conducted in June of 2010 provided an opportunity to evaluate the simulated BVOCs. Sensitivity experiments show that land surface schemes do influence the simulated BVOCs, but the impact is much smaller than that of vegetation distributions. This study indicates that more effort is needed to obtain the most appropriate and accurate land cover data sets for climate and air quality models in terms of simulating BVOCs, oxidant chemistry and, consequently, secondary organic aerosol formation.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>27</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>1959</first_page>
+            <last_page>1976</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-1959-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/1959/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/1959/2016/gmd-9-1959-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Andreae, M. and Crutzen, P. J.: Atmospheric Aerosols: Biogeochemical Sources and Role in Atmospheric Chemistry, Science, 276, 1052–1058, https://doi.org/10.1126/science.276.5315.1052, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Arneth, A., Niinemets, Ü., Pressley, S., Bäck, J., Hari, P., Karl, T., Noe, S., Prentice, I. C., Serça, D., Hickler, T., Wolf, A., and Smith, B.: Process-based estimates of terrestrial ecosystem isoprene emissions: incorporating the effects of a direct CO2-isoprene interaction, Atmos. Chem. Phys., 7, 31–53, https://doi.org/10.5194/acp-7-31-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Arneth, A., Harrison, S. P., Zaehle, S., Tsigaridis, K., Menon, S., Bartlein, P. J., Feichter, J., Korhola, A., Kulmala, M., O'Donnell, D., Schurgers, G., Sorvari, S., and Vesala, T.: Terrestrial biogeo- chemical feedbacks in the climate system, Nat. Geosci., 3, 525–532, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Barlage, M., Chen, F., Tewari, M., Ikeda, K., Gochis, D., Dudhia, J., Rasmussen, R., Livneh, B., Ek, M., and Mitchell, K.: Noah land surface model modifications to improve snowpack prediction in the Colorado Rocky Mountains, J. Geophys. Res., 115, D22101, https://doi.org/10.1029/2009JD013470, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Bonan, G. B.: A land surface model (LSM ver. 1.0) for ecological, hydrological, and atmospheric studies: Technical description and user's guide, NCAR Tech. Note 4171STR, 150 pp., available at: http://opensky.ucar.edu/islandora/object/technotes:185 (last access: 25 May 2016), 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Bonan, G. B., Oleson, K. W., Vertenstein, M., Levis, S., Zeng, X., Dai, Y., Dickinson, R. E., and Yang, Z.-L.: The Land Surface Climatology of the Community Land Model Coupled to the NCAR Community Climate Model, J. Climate, 15, 3123–3149, https://doi.org/10.1175/1520-0442(2002)015&amp;amp;lt;3123:TLSCOT&amp;amp;gt;2.0.CO;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Carter, W. P. L.: Documentation of the SAPRC-99 Chemical Mechanism for VOC Reactivity Assessment, Draft report to the California Air Resources Board, Contracts 92–329 and 95–308, 8 May, available at: http://www.cert.ucr.edu/~carter/pubs/ (last access: 25 May 2016), 2000a.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Carter, W. P. L.: Implementation of the SAPRC-99 Chemical Mechanism into the Models-3 Framework, Report to the United States Environmental Protection Agency, 29 January, available at: http://www.cert.ucr.edu/~carter/pubs/ (last access: 1 December 2015), 2000b.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Chameides, W. L., Fehsenfeld, F., Rodgers, M. O., Cardelino, C., Martinez, J., Parrish, D., Lonneman, W., Lawson, D. R., Rasmussen, R. A., Zimmerman, P., Greenberg, J., Mlddleton, P., and Wang, T.: Ozone precursor relationships in the ambient atmosphere, J. Geophys. Res., 97, 6037–6055, https://doi.org/10.1029/91JD03014, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Claeys, M., Graham, B., Vas, G., Wang, W., Vermeylen, R., Pashynska, V., Cafmeyer, J., Guyon, P., Andreae, M. O., Artaxo, P., and Maenhaut, W.: Formation of Secondary Organic Aerosols Through Photooxidation of Isoprene, Science, 303, 1173–1176, https://doi.org/10.1126/science.1092805, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Cox, P., Delao, A., Komorniczak, A., and Weller, R.: The California almanac of emissions and air quality 2009 edition, available at: http://www.arb.ca.gov/aqd/almanac/almanac09/almanac2009all.pdf (last access: May 2016), 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Dickinson, R. E.: Land Surface Processes and Climate Surface Albedos and Energy-Balance, Adv. Geophys., 25, 305–353, https://doi.org/10.1016/S0065-2687(08)60176-4, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Duhl, T. R., Guenther, A., and Helmig, D.: Estimating urban vegetation cover fraction using Google Earth® images, Journal of Land Use Science, 7, 311–329, https://doi.org/10.1080/1747423X.2011.587207, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Fast, J. D, Gustafson Jr., W. I., Easter, R. C., Zaveri, R. A., Barnard, J. C., Chapman, E. G., and. Grell, G. A.: Evolution of ozone, particulates, and aerosol direct forcing in an urban area using a new fully-coupled meteorology, chemistry, and aerosol model, J. Geophys. Res., 111, D21305, https://doi.org/10.1029/2005JD006721, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Fast, J. D., Allan, J., Bahreini, R., Craven, J., Emmons, L., Ferrare, R., Hayes, P. L., Hodzic, A., Holloway, J., Hostetler, C., Jimenez, J. L., Jonsson, H., Liu, S., Liu, Y., Metcalf, A., Middlebrook, A., Nowak, J., Pekour, M., Perring, A., Russell, L., Sedlacek, A., Seinfeld, J., Setyan, A., Shilling, J., Shrivastava, M., Springston, S., Song, C., Subramanian, R., Taylor, J. W., Vinoj, V., Yang, Q., Zaveri, R. A., and Zhang, Q.: Modeling regional aerosol and aerosol precursor variability over California and its sensitivity to emissions and long-range transport during the 2010 CalNex and CARES campaigns, Atmos. Chem. Phys., 14, 10013–10060, https://doi.org/10.5194/acp-14-10013-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Fehsenfeld, F., Calvert, J., Fall, R., Goldan, P., Guenther, A. B., Hewitt, C. N., Lamb, B., Liu, S., Trainer, M., Westberg, H., and Zimmerman, P.: Emissions of volatile organic compounds from vegetation and the implications for atmospheric chemistry, Global Biogeochem. Cy., 6, 389–430, https://doi.org/10.1029/92GB02125, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Gao, Y., Liu, X., Zhao, C., and Zhang, M.: Emission controls versus meteorological conditions in determining aerosol concentrations in Beijing during the 2008 Olympic Games, Atmos. Chem. Phys., 11, 12437–12451, https://doi.org/10.5194/acp-11-12437-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Gao, Y., Zhao, C., Liu, X., Zhang, M., and Leung, L. R.: Regional modeling of aerosol and its radiative forcing over East Asia using WRF-Chem, Atmos. Environ., 92, 250–266, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Gentner, D. R., Isaacman, G., Worton, D. R., Chan, A. W. H., Dallmann, T. R., Davis, L., Liu, S., Day, D. A., Russell, L. M., Wilson, K. R., Weber, R., Guha, A., Harley, R. A., and Goldstein, A. H.: Elucidating secondary organic aerosol from diesel and gasoline vehicles through detailed characterization of organic carbon emissions, P. Natl. Acad. Sci. USA, 109, 18318–18323, https://doi.org/10.1073/pnas.1212272109, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Greenfield, E. J., Nowak, D. J., and Walton, J. T.: Assessment of 2001 NLCD percent tree and impervious cover estimates, Photogramm. Eng. Rem. S., 75, 1279–1286, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock, W. C., and Eder, B.: Fully coupled “online” chemistry within the WRF model, Atmos. Environ., 39, 6957–6976, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I., and Geron, C.: Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature), Atmos. Chem. Phys., 6, 3181–3210, https://doi.org/10.5194/acp-6-3181-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Guenther, A. B.: Biological and chemical diversity of biogenic volatile organic emissions into the atmosphere, ISRN Atmospheric Sciences, 2013, 786290, https://doi.org/10.1155/2013/786290, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Guenther, A. B., Hewitt, C. N., Erickson, D., Fall, R., Geron, C., Graedel, T., Harley, P., Klinger, L., Lerdau, M., McKay, W. A., Pierce, T., Scholes, B., Steinbrecher, R., Tallamraju, R., Taylor, J., and Zimmerman, P.: A global model of natural volatile organic compound emissions, J. Geophys. Res.-Atmos., 100, 8873–8892, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Guenther, A. B., Jiang, X., Heald, C. L., Sakulyanontvittaya, T., Duhl, T., Emmons, L. K., and Wang, X.: The Model of Emissions of Gases and Aerosols from Nature version 2.1 (MEGAN2.1): an extended and updated framework for modeling biogenic emissions, Geosci. Model Dev., 5, 1471–1492, https://doi.org/10.5194/gmd-5-1471-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Hijmas, R. J., Cameron, S. E., Parra, J. L., Jones, P. G., and Jarvis, A.: Very high resolution interpolated climate surfaces for global land areas, Int. J. Climatol., 25, 1965–1978, https://doi.org/10.1002/joc.1276, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Homer, C., Huang, C., Yang, L., Wylie, B., and Coan, M.: Development of a 2001 National Landcover Database for the United States, Photogramm. Eng. Rem. S., 70, 829–840, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Hong, S.-Y., Noh, Y., and Dudhia, J.: A new vertical diffusion package with an explicit treatment of entrainment processes, Mon. Weather Rev., 134, 2318–2341, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Huang, M., Carmichael, G. R., Spak, S. N., Adhikary, B., Kulkarni, S., Cheng, Y., Wei, C., Tang, Y., D'Allura, A., Wennberg, P. O., Huey, G. L., Dibb, J. E., Jimenez, J. L., Cubison, M. J., Weinheimer, A. J., Kaduwela, A., Cai, C., Wong, M., Bradley Pierce, R., Al-Saadi, J. A., Streets, D. G., and Zhang, Q.: Multi-scale modeling study of the source contributions to near-surface ozone and sulfur oxides levels over California during the ARCTAS-CARB period, Atmos. Chem. Phys., 11, 3173–3194, https://doi.org/10.5194/acp-11-3173-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Iacono, M. J., Delamere, J. S., Mlawer, E. J., Shephard, M. W., Clough, S. A., and Collins, W. D.: Radiative forcing by long–lived greenhouse gases: Calculations with the AER radiative transfer models, J. Geophys. Res., 113, D13103, https://doi.org/10.1029/2008JD009944, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Jin, J. and Miller, N. L.: Analysis of the impact of snow on dailyweather variability in mountainous regions using MM5, J. Hydrometeorol., 8, 245–258, https://doi.org/10.1175/JHM565.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Jin, J. and Wen, L.: Evaluation of snowmelt simulation in the Weather Research and Forecasting model, J. Geophys. Res., 117, D10110, https://doi.org/10.1029/2011JD016980, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Kain, J. S.: The Kain–Fritsch convective parameterization: An update, J. Appl. Meteorol., 43, 170–181, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Ke, Y., Leung, L. R., Huang, M., Coleman, A. M., Li, H., and Wigmosta, M. S.: Development of high resolution land surface parameters for the Community Land Model, Geosci. Model Dev., 5, 1341–1362, https://doi.org/10.5194/gmd-5-1341-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Knote, C., Hodzic, A., Jimenez, J. L., Volkamer, R., Orlando, J. J., Baidar, S., Brioude, J., Fast, J., Gentner, D. R., Goldstein, A. H., Hayes, P. L., Knighton, W. B., Oetjen, H., Setyan, A., Stark, H., Thalman, R., Tyndall, G., Washenfelder, R., Waxman, E., and Zhang, Q.: Simulation of semi-explicit mechanisms of SOA formation from glyoxal in aerosol in a 3-D model, Atmos. Chem. Phys., 14, 6213–6239, https://doi.org/10.5194/acp-14-6213-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Lamb, B., Guenther, A., Gay, D., and Westberg, H.: A national inventory of biogenic hydrocarbon emissions. Atmos. Environ., 21, 1695–1705, https://doi.org/10.1016/0004-6981(87)90108-9, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Thornton, P. E., Swenson, S. C., Lawrence, P. J., Zeng, X., Yang, Z.-L., Levis, S., Sakaguchi, K., Bonan, G. B., and Slater, A. G.: Parameterization improvements and functional and structural advances in version 4 of the Community Land Model. J. Adv. Model. Earth Sys., 3, M03001, https://doi.org/10.1029/2011MS000045, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Lawrence, P. J. and Chase, T. N.: Climate Impacts. Our earth's changing land: an encyclopedia of land-use and land-cover change, H. Geist, Greenwood Press, Westport, USA, 115–124, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Lawrence, P. J. and Chase, T. N.: Representing a new MODIS consistent land surface in the Community Land Model (CLM 3.0), J. Geophys. Res.-Biogeosci., 112, G01023, https://doi.org/10.1029/2006JG000168, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>LeMone, M. A., Chen, F., Tewari, M., Dudhia, J., Geerts, B., Miao, Q., Coulter, R. L., and Grossman, R. L.: Simulating the IHOP_2002 Fair-Weather CBL with the WRF-ARW-Noah modeling system. Part I: Surface fluxes and CBL structure and evolution along the eastern track, Mon. Weather Rev., 138, 722–744, https://doi.org/10.1175/2009mwr3003.1, 2010a.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>LeMone, M. A., Chen, F., Tewari, M., Dudhia, J., Geerts, B., Mia, Q., Coulter, R. L., and Grossman, R. L.: Simulating the IHOP_2002 Fair-Weather CBL with the WRF-ARW Noah modeling system. Part II: Structures from a few kilometers to 100 km across, Mon. Weather Rev., 138, 745–764, https://doi.org/10.1175/2009mwr3004.1, 2010b.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Lindinger, W., Hansel, A., and Jordan, A.: On-line monitoring of volatile organic compounds at pptv levels by means of protontransfer-reaction mass spectrometry (PTR-MS) – medical applications, food control and environmental research, Int. J. Mass Spectrom., 173, 191–241, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>McKeen, S. A., Wotawa, G., Parrish, D. D., Holloway, J. S., Buhr, M. P., Hubler, G., Fehsenfeld, F. C., and Meagher, J. F.: Ozone production from Canadian wildfires during June and July of 1995, J. Geophys. Res., 107, 4192, https://doi.org/10.1029/2001JD000697, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Morrison, H., Thompson, G., and Tatarskii, V.: Impact of Cloud Microphysics on the Development of Trailing Stratiform Precipitation in a Simulated Squall Line: Comparison of One- and Two-Moment Schemes, Mon. Weather Rev., 137, 991–1007, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Müller, J.-F.: Geographical distribution and seasonal variation of surface emissions and deposition velocities of atmospheric trace gases, J. Geophys. Res., 97, 3787–3804, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Niinemets, Ü., Tenhunen, J. D., Harley, P. C., and Steinbrecher, R.: A model of isoprene emission based on energetic requirements for isoprene synthesis and leaf photosynthetic properties for Liquidambar and Quercus, Plant Cell Environ., 22, 1319–1335, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Niinemets, Ü., Seufert, G., Steinbrecher, R., and Tenhunen, J. D.: A model coupling foliar monoterpene emissions to leaf photosynthetic characteristics in Mediterranean evergreen Quercus species, New Phytol., 153, 257–275, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Oleson, K. W., Lawrence, D. M., Bonan, G. B., Flanner, M. G., Kluzek, E., Lawrence, P. J., Levis, S., Swenson, S. C., Thornton, P. E., Dai, A., Decker, M., Dickinson, R., Feddema, J., Heald, C. L., Hoffman, F., Lamarque, J.-F., Mahowald, N., Niu, G.-Y., Qian, T., Randerson, J., Running, S., Sakaguchi, K., Slater, A., Stöckli, R., Wang, A., Yang, Z.-L., Zeng, X., and Zeng, X.: Technical Description of version 4.0 of the Community Land Model (CLM), Tech. Rep. NCAR/TN-478 + STR, National Center for Atmospheric Research, available at: http://www.cesm.ucar.edu/models/cesm1.0/clm/CLM4_Tech_Note.pdf (last access: 25 May 2016), 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Paulson, C. A.: The mathematical representation of wind speed and temperature profiles in the unstable atmospheric surface layer, J. Appl. Meteorol., 9, 857–861, 1970.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Pfister, G. G., Parrish, D. D., Worden, H., Emmons, L. K., Edwards, D. P., Wiedinmyer, C., Diskin, G. S., Huey, G., Oltmans, S. J., Thouret, V., Weinheimer, A., and Wisthaler, A.: Characterizing summertime chemical boundary conditions for airmasses entering the US West Coast, Atmos. Chem. Phys., 11, 1769–1790, https://doi.org/10.5194/acp-11-1769-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Pierce, T., Geron, C., Bender, L., Dennis, R., Tonnesen, G., and Guenther, A.: Influence of increased isoprene emissions on regional ozone modeling, J. Geophys. Res., 103, 25611–25629, https://doi.org/10.1029/98JD01804, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Poisson, N., Kanakidou, M., and Crutzen, P. J.: Impact of Non-Methane Hydrocarbons on Tropospheric Chemistry and the Oxidizing Power of the Global Troposphere: 3-Dimensional Modelling Results, J. Atmos. Chem., 36, 157–230, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Rasmussen, R. A.: What do the hydrocarbons from trees contribute to air pollution? J. Air Poll. Con. Asso., 22, 7, 537–543, 1972.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Ryerson, T. B., Andrews, A. E., Angevine, W. M., Bates, T. S., Brock, C. A., Cairns, B., Cohen, R. C., Cooper, O. R., de Gouw, J. A., Fehsenfeld, R. C., Ferrare, R. A., Fischer, M. L., Flagan, R. C., Goldstein, A. H., Hair, J. W., Hardesty, R. M., Hostetler, C. A., Jimenez, J. L., Langford, A. O., McCauley, E., McKeen, S. A., Molina, L. T., Nenes, A., Oltmans, S. J., Parrish, D. D., Pederson, J. R., Pierce, R. B., Prather, K., Quinn, P. K., Seinfeld, J. H., Senff, C. J., Sorooshian, A., Stutz, J., Surratt, J. D., Trainer, M., Volkamer, R., Williams, E. J., and Wofsy, S. C.: The 2010 California Research at the Nexus of Air Quality and Climate Change (CalNex) field study, J. Geophys. Res., 118, 5830–5866, https://doi.org/10.1002/jgrd.50331, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Sakulyanontvittaya, T., Duhl, T., Wiedinmyer, C., Helmig, D., Matsunaga, S., Potosnak, M., Milford, J., and Guenther, A.: Monoterpene and sesquiterpene emission estimates for the United States, Environ. Sci. Technol., 42, 1623–1629, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Sanderson, M. G., Jones, C. D., Collins, W. J., Johnson, C. E., and Derwent, R. G.: Effect of Climate Change on Isoprene Emissions and Surface Ozone Levels, Geophys. Res. Lett., 30, 1936, https://doi.org/10.1029/2003GL017642, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Schurgers, G., Arneth, A., Holzinger, R., and Goldstein, A. H.: Process-based modelling of biogenic monoterpene emissions combining production and release from storage, Atmos. Chem. Phys., 9, 3409–3423, https://doi.org/10.5194/acp-9-3409-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Shilling, J. E., Zaveri, R. A., Fast, J. D., Kleinman, L., Alexander, M. L., Canagaratna, M. R., Fortner, E., Hubbe, J. M., Jayne, J. T., Sedlacek, A., Setyan, A., Springston, S., Worsnop, D. R., and Zhang, Q.: Enhanced SOA formation from mixed anthropogenic and biogenic emissions during the CARES campaign, Atmos. Chem. Phys., 13, 2091–2113, https://doi.org/10.5194/acp-13-2091-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Shrivastava, M., Fast, J., Easter, R., Gustafson Jr., W. I., Zaveri, R. A., Jimenez, J. L., Saide, P., and Hodzic, A.: Modeling organic aerosols in a megacity: comparison of simple and complex representations of the volatility basis set approach, Atmos. Chem. Phys., 11, 6639–6662, https://doi.org/10.5194/acp-11-6639-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Shrivastava, M. K. B., Zelenyuk, A., Imre, D., Easter Jr., R. C., Beranek, J., Zaveri, R. A., and Fast, J. D.: Implications of Low Volatility SOA and Gas-Phase Fragmentation Reactions on SOA Loadings and their Spatial and Temporal Evolution in the Atmosphere, J. Geophys. Res.-Atmos., 118, 3328–3342, https://doi.org/10.1002/jgrd.50160, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Stauffer, D. R. and Seaman, N. L.: Use of four-dimensional data assimilation in a limited-area mesoscale model, Part I: Experiments with synoptic-scale data, Mon. Weather Rev., 118, 1250–1277, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Still, C. J., Berry, J. A., Collatz, G. J., and DeFries, R. S.: Global distribution of C3 and C4 vegetation: Carbon cycle implications, Global Biogeochem. Cy., 17, 1006, https://doi.org/10.1029/2001GB001807, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Went, F. W.: Blue hazes in the atmosphere, Nature, 187, 641–643, 1960.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Wild, O., Zhu, X., and Prather, M. J.: Fast-J: Accurate simulation of in- and below-cloud photolysis in tropospheric chemical models, J. Atmos. Chem., 37, 245–282, https://doi.org/10.1023/A:1006415919030, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Willmott, C. J. and Matsuura, K.: Terrestrial Air Temperature and Precipitation: Monthly and Annual Time Series (1950–1999), available at: http://climate.geog.udel.edu/~climate/html_pages/README.ghcn_ts2.html (last access: May 2016), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Zaveri, R. A., Shaw, W. J., Cziczo, D. J., Schmid, B., Ferrare, R. A., Alexander, M. L., Alexandrov, M., Alvarez, R. J., Arnott, W. P., Atkinson, D. B., Baidar, S., Banta, R. M., Barnard, J. C., Beranek, J., Berg, L. K., Brechtel, F., Brewer, W. A., Cahill, J. F., Cairns, B., Cappa, C. D., Chand, D., China, S., Comstock, J. M., Dubey, M. K., Easter, R. C., Erickson, M. H., Fast, J. D., Floerchinger, C., Flowers, B. A., Fortner, E., Gaffney, J. S., Gilles, M. K., Gorkowski, K., Gustafson, W. I., Gyawali, M., Hair, J., Hardesty, R. M., Harworth, J. W., Herndon, S., Hiranuma, N., Hostetler, C., Hubbe, J. M., Jayne, J. T., Jeong, H., Jobson, B. T., Kassianov, E. I., Kleinman, L. I., Kluzek, C., Knighton, B., Kolesar, K. R., Kuang, C., Kubátová, A., Langford, A. O., Laskin, A., Laulainen, N., Marchbanks, R. D., Mazzoleni, C., Mei, F., Moffet, R. C., Nelson, D., Obland, M. D., Oetjen, H., Onasch, T. B., Ortega, I., Ottaviani, M., Pekour, M., Prather, K. A., Radney, J. G., Rogers, R. R., Sandberg, S. P., Sedlacek, A., Senff, C. J., Senum, G., Setyan, A., Shilling, J. E., Shrivastava, M., Song, C., Springston, S. R., Subramanian, R., Suski, K., Tomlinson, J., Volkamer, R., Wallace, H. W., Wang, J., Weickmann, A. M., Worsnop, D. R., Yu, X.-Y., Zelenyuk, A., and Zhang, Q.: Overview of the 2010 Carbonaceous Aerosols and Radiative Effects Study (CARES), Atmos. Chem. Phys., 12, 7647–7687, https://doi.org/10.5194/acp-12-7647-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Zeng, X., Shaikh, M., Dai, Y., Dickinson, R. E., and Myneni, R.: Coupling of the common land model to the NCAR community climate model, J. Climate, 15, 1832–1854, https://doi.org/10.1175/1520-0442(2002)015&amp;amp;lt;1832:COTCLM&amp;amp;gt;2.0.CO;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Zhao, C., Hu, Z., Qian, Y., Ruby Leung, L., Huang, J., Huang, M., Jin, J., Flanner, M. G., Zhang, R., Wang, H., Yan, H., Lu, Z., and Streets, D. G.: Simulating black carbon and dust and their radiative forcing in seasonal snow: a case study over North China with field campaign measurements, Atmos. Chem. Phys., 14, 11475–11491, https://doi.org/10.5194/acp-14-11475-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Zimmerman, P.: Testing of hydrocarbon emissions from vegetation, leaf litter and aquatic surfaces and development of a method for compiling biogenic emission inventories, Tech. Rep. EPA-450-4-70-004, U.S. Environmental Protection Agency, Research Triangle Park, California, USA, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Zimmerman, P. R., Chatfield, R. B., Fishman, J., Crutzen, P. J., and Hanst, P. L.: Estimates the production of CO and H2 from the oxidation of hydrocarbon emissions from vegetation, Geophys. Res. Lett., 5, 679–682, 1978.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

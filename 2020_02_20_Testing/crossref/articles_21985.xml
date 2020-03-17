@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-09-17 03:53:20">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Assimilating compact phase space retrievals (CPSRs): comparison with independent observations (MOZAIC in situ and IASI retrievals) and extension to assimilation of truncated retrieval profiles</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Arthur P.</given_name>
+              <surname>Mizzi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David P.</given_name>
+              <surname>Edwards</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey L.</given_name>
+              <surname>Anderson</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Assimilation of atmospheric composition retrievals presents computational challenges due to their high data volume and often sparse information density. Assimilation of compact phase space retrievals (CPSRs) meets those challenges and offers a promising alternative to assimilation of raw retrievals at reduced computational cost (Mizzi et al., 2016). This paper compares analysis and forecast results from assimilation of Terra/Measurement of Pollution in the Troposphere (MOPITT) carbon monoxide (CO) CPSRs with independent observations. We use MetOp-A/Infrared Atmospheric Sounding Interferometer (IASI) CO retrievals and Measurement of OZone, water vapor, carbon monoxide, and nitrogen oxides by in-service AIrbus airCraft (MOZAIC) in situ CO profiles for our independent observation comparisons. Generally, the results confirm that assimilation of MOPITT CPSRs improves the Weather Research and Forecasting model with chemistry coupled to the ensemble Kalman filter data assimilation from the Data Assimilation Research Testbed (WRF-Chem/DART) analysis fit and forecast skill at a reduced computational cost compared to assimilation of raw retrievals. Comparison with the independent observations shows that assimilation of MOPITT CO generally improved the analysis fit and forecast skill in the lower troposphere but degraded it in the upper troposphere. We attribute that degradation to assimilation of MOPITT CO retrievals with a possible bias of  ∼ 14<span class="thinspace"></span>% above 300<span class="thinspace"></span>hPa. To discard the biased retrievals, in this paper, we also extend CPSRs to assimilation of truncated retrieval profiles (as opposed to assimilation of full retrieval profiles). Those results show that not assimilating the biased retrievals (i) resolves the upper tropospheric analysis fit degradation issue and (ii) reduces the impact of assimilating the remaining unbiased retrievals because the total information content and vertical sensitivities are changed.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>17</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>3727</first_page>
+            <last_page>3745</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-11-3727-2018</doi>
+            <resource>https://www.geosci-model-dev.net/11/3727/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/11/3727/2018/gmd-11-3727-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Anderson, J. L.: An ensemble adjustment Kalman filter for data assimilation, Mon. Weather Rev., 129, 2884–2903, https://doi.org/10.1175/1520-0493(2001129&amp;amp;lt;2884:AEAKFF&amp;amp;gt;2.CO:2, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/1520-0493(2003)131&lt;0634:ALLSFF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Anderson, J. L.: A local least squares framework for ensemble filtering, Mon. Weather Rev., 131, 634–642, https://doi.org/10.1175/1520-0493(2003)&amp;amp;lt;0634:ALLSFF&amp;amp;gt;2.0.CO:2, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1111/j.1600-0870.2008.00361.x</doi>
+              <unstructured_citation>Anderson, J. L.: Spatially and temporally varying adaptive covariance inflation for ensemble filters, Tellus, 61, 72–83, https://doi.org/10.1111/j.1600-0870.2008.00361.x, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/2009BAMS2618.1</doi>
+              <unstructured_citation>Anderson, J. L., Hoar, T., Raeder, K., Liu, H., Collins, N., Torn, R., and Arellano, A.: The Data Assimilation Research Testbed: A community facility, B. Am. Meteorol. Soc., 90, 1283–1296, https://doi.org/10.1175/2009BAMS2618.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/acp-7-5695-2007</doi>
+              <unstructured_citation>Arellano Jr., A. F., Raeder, K., Anderson, J. L., Hess, P. G., Emmons, L. K., Edwards, D. P., Pfister, G. G., Campos, T. L., and Sachse, G. W.: Evaluating model performance of an ensemble-based chemical data assimilation system during INTEX-B field mission, Atmos. Chem. Phys., 7, 5695–5710, https://doi.org/10.5194/acp-7-5695-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Barker, D., Huang, X.-Y., Liu, Z., Auligné, T., Zhang, X., Rugg, S., Ajjaji, R., Bourgeois, A., Bray, J., Chen, Y., Demirtas, M., Guo, Y.-R., Henderson, T., Huang, W., Lin, H.-C., Michalakes, J., Rizvi, S., and Zhang, X.: The Weather Research and Forecasting Model's Community Variational/Ensemble Data Assimilation System: WRFDA, B. Am. Meteorol. Soc., 93, 831–843, https://doi.org/10.1175/BAMS=D-11-00167.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/2015JD023467</doi>
+              <unstructured_citation>Barre, J., Gaubert, B., Arellano, A. F., Worden, H. M., Edwards, D. P., Deeter, M. N., Anderson, J. L., Raeder, K., Collins, N., Tilmes, S., Francis, G., Clerbaux, C., Emmons, L. K., Pfister, G. G., Coheur, P.-F., and Hurtmans, D.: Assessing the impacts of assimilating IASI and MOPITT CO retrievals using CESM-CAM-chem and DART, J. Geophys. Res.-Atmos., 120, 10501–10529, https://doi.org/10.1002/2015JD023467, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/acp-9-6041-2009</doi>
+              <unstructured_citation>Clerbaux, C., Boynard, A., Clarisse, L., George, M., Hadji-Lazaro, J., Herbin, H., Hurtmans, D., Pommier, M., Razavi, A., Turquety, S., Wespes, C., and Coheur, P.-F.: Monitoring of atmospheric composition using the thermal infrared IASI/MetOp sounder, Atmos. Chem. Phys., 9, 6041–6054, https://doi.org/10.5194/acp-9-6041-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1029/2006JD007999</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., and Gille, J. C.: Retrievals of carbon monoxide profiles from MOPITT observations using lognormal a priori statistics, J. Geophys. Res., 112, D11311, https://doi.org/10.1029/2006JD007999, 2007a.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2007JD008929</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Gille, J. C., and Drummond, J. R.: Sensitivity of MOPITT observations to carbon monoxide in the lower troposphere, J. Geophys. Res., 112, D24306, https://doi.org/10.1029/2007JD008929, 2007b.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/jgrd.50272</doi>
+              <unstructured_citation>Deeter, M. N., Martinez-Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: Validation of MOPITT Version 5 thermal-infrared, near-infrared, and multispectral carbon monoxide profile retrievals for 2000–2011, J. Geophys. Res.-Atmos., 118, 6710–6725, https://doi.org/10.1002/jgrd.50272, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/amt-7-3623-2014</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Sweeney, C., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: The MOPITT Version 6 product: algorithm enhancements and validation, Atmos. Meas. Tech., 7, 3623–3632, https://doi.org/10.5194/amt-7-3623-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-3-1285-2003</doi>
+              <unstructured_citation>Eskes, H. J. and Boersma, K. F.: Averaging kernels for DOAS total-column satellite retrievals, Atmos. Chem. Phys., 3, 1285–1291, https://doi.org/10.5194/acp-3-1285-2003, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Harvey, C.: The Staggering economic cost of air pollution, Washington Post, Energy and Environment, https://www.washingtonpost.com/news/energy-environment/wp/2016/01/29/the-staggering-economic-cost-of-air-pollution/?noredirect=on&amp;amp;amp;utm_term=.c25a8cfa222b (last access: 6 September 2018), 29 January 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-15-6801-2015</doi>
+              <unstructured_citation>Jiang, Z., Jones, D. B. A., Worden, J., Worden, H. M., Henze, D. K., and Wang, Y. X.: Regional data assimilation of multi-spectral MOPITT observations of CO over North America, Atmos. Chem. Phys., 15, 6801—6814, https://doi.org/10.5194/acp-15-6801-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/qj.49712454915</doi>
+              <unstructured_citation>Joiner, J. and Da Silva, A. M.: Efficient methods to assimilate remotely sensed data based on information content, Q. J. Roy. Meteor. Soc., 124, 1669–1694, https://doi.org/10.1002/qj.49712454915, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/98JD00977</doi>
+              <unstructured_citation>Marenco, A., Thouret, V., Nedelec, P., Smit, H., Helten, M., Kley, D., Karcher, F., Simon, P., Law, K., Pyle, J., Poschmann, G., Von Wrede, R., Hume, C., and Cook, T., Measurement of ozone and water vapor by Airbus in-service aircraft: The MOZAIC airborne program, an overview, J. Geophys. Res., 103, 25631–25642, https://doi.org/10.1029/98jD00977, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1002/2014JD022397</doi>
+              <unstructured_citation>Martinez-Alonso, S., Deeter, M. N., Worden, H. M., Gille, J. C., Emmons, L. K., Pan, L. L., Park, M., Manney, G. L., Bernath, P. F., Boone, C. D., Walker, K. A., Kolonjari, F., Wofsy, S. C., Pittman, J., and Daube, B. C., Comparison of upper tropospheric carbon monoxide from MOPITT, ACD-FTC, and HIPPO-QCLS, J. Geophys. Res.-Atmos., 119, 14164–14164, https://doi.org/10.1002/2014JD022397, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/2007MWR2236.1</doi>
+              <unstructured_citation>Migliorini, S., Piccolo, C., and Rodgers, C. D.: Use of the information content in satellite measurements for an efficient interface to data assimilation, Mon. Weather Rev., 136, 2633–2650, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-12-2263-2012</doi>
+              <unstructured_citation>Miyazaki, K., Eskes, H. J., and Sudo, K.: Global NOx emission estimates derived from an assimilation of OMI tropospheric NO2 columns, Atmos. Chem. Phys., 12, 2263–2288, https://doi.org/10.5194/acp-12-2263-2012, 2012a.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-12-9545-2012</doi>
+              <unstructured_citation>Miyazaki, K., Eskes, H. J., Sudo, K., Takigawa, M., van Weele, M., and Boersma, K. F.: Simultaneous assimilation of satellite NO2, O3, CO, and HNO3 data for the analysis of tropospheric chemical composition and emissions, Atmos. Chem. Phys., 12, 9545–9579, https://doi.org/10.5194/acp-12-9545-2012, 2012b.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-15-8315-2015</doi>
+              <unstructured_citation>Miyazaki, K., Eskes, H. J., and Sudo, K.: A tropospheric chemistry reanalysis for the years 2005–2012 based on an assimilation of OMI, MLS, TES, and MOPITT satellite data, Atmos. Chem. Phys., 15, 8315–8348, https://doi.org/10.5194/acp-15-8315-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/gmd-9-965-2016</doi>
+              <unstructured_citation>Mizzi, A. P., Arellano Jr., A. F., Edwards, D. P., Anderson, J. L., and Pfister, G. G.: Assimilating compact phase space retrievals of atmospheric composition with WRF-Chem/DART: a regional chemical transport/ensemble Kalman filter data assimilation system, Geosci. Model Dev., 9, 965–978, https://doi.org/10.5194/gmd-9-965-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1007/s11869-017-0485-9</doi>
+              <unstructured_citation>Robichaud, A.: Surface data assimilation of chemical compounds over North America and its impact on air quality and Air Quality Health Index (AQHI) forecasts, Air Qual. Atmos. Health, 10, 955–970, https://doi.org/10.2017/s11869-017-0485-9, 2017.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1016" timestamp="2019-03-26 18:53:10">
+    <crossref>
+      <book book_type="edited_book">
+        <book_metadata language="en">
+          <titles>
+            <title>The Sun as a Guide to Stellar Physics</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2019</year>
+          </publication_date>
+          <isbn media_type="print">9780128143346</isbn>
+          <publisher>
+            <publisher_name>Elsevier</publisher_name>
+          </publisher>
+        </book_metadata>
+        <content_item component_type="chapter" level_sequence_number="1" publication_type="full_text" language="en">
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>B.C.</given_name>
+              <surname>Low</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Coronal Magnetism as a Universal Phenomenon</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>207</first_page>
+            <last_page>237</last_page>
+          </pages>
+          <publisher_item>
+            <item_number item_number_type="sequence-number">B978012814334600008X</item_number>
+          </publisher_item>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">https://www.elsevier.com/tdm/userlicense/1.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1016/B978-0-12-814334-6.00008-X</doi>
+            <resource>https://linkinghub.elsevier.com/retrieve/pii/B978012814334600008X</resource>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="text/xml">https://api.elsevier.com/content/article/PII:B978012814334600008X?httpAccept=text/xml</resource>
+              </item>
+              <item>
+                <resource mime_type="text/plain">https://api.elsevier.com/content/article/PII:B978012814334600008X?httpAccept=text/plain</resource>
+              </item>
+            </collection>
+            <collection property="link-header">
+              <item link_header_relationship="dul">
+                <resource>https://dul.usage.elsevier.com/doi/</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </content_item>
+      </book>
+    </crossref>
+  </doi_record>
+</doi_records>

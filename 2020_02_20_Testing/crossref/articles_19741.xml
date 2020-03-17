@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-12 20:12:41">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>17</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Direct comparisons of ice cloud macro- and microphysical properties simulated by the Community Atmosphere Model version 5 with HIPPO aircraft observations</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Chenglai</given_name>
+              <surname>Wu</surname>
+              <ORCID>https://orcid.org/0000-0002-8397-2424</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xiaohong</given_name>
+              <surname>Liu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Minghui</given_name>
+              <surname>Diao</surname>
+              <ORCID>https://orcid.org/0000-0003-0324-0897</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kai</given_name>
+              <surname>Zhang</surname>
+              <ORCID>https://orcid.org/0000-0003-0457-6368</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew</given_name>
+              <surname>Gettelman</surname>
+              <ORCID>https://orcid.org/0000-0002-8284-2599</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zheng</given_name>
+              <surname>Lu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joyce E.</given_name>
+              <surname>Penner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zhaohui</given_name>
+              <surname>Lin</surname>
+              <ORCID>https://orcid.org/0000-0003-1376-3106</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> In this study we evaluate cloud properties simulated by the Community Atmosphere Model version 5 (CAM5) using in situ measurements from the HIAPER Pole-to-Pole Observations (HIPPO) campaign for the period of 2009 to 2011. The modeled wind and temperature are nudged towards reanalysis. Model results collocated with HIPPO flight tracks are directly compared with the observations, and model sensitivities to the representations of ice nucleation and growth are also examined. Generally, CAM5 is able to capture specific cloud systems in terms of vertical configuration and horizontal extension. In total, the model reproduces 79.8<span class="thinspace"></span>% of observed cloud occurrences inside model grid boxes and even higher (94.3<span class="thinspace"></span>%) for ice clouds (<i>T</i> ≤ −40<span class="thinspace"></span>°C). The missing cloud occurrences in the model are primarily ascribed to the fact that the model cannot account for the high spatial variability of observed relative humidity (RH). Furthermore, model RH biases are mostly attributed to the discrepancies in water vapor, rather than temperature. At the micro-scale of ice clouds, the model captures the observed increase of ice crystal mean sizes with temperature, albeit with smaller sizes than the observations. The model underestimates the observed ice number concentration (<i>N</i><sub><i>i</i></sub>) and ice water content (IWC) for ice crystals larger than 75<span class="thinspace"></span>µm in diameter. Modeled IWC and <i>N</i><sub><i>i</i></sub> are more sensitive to the threshold diameter for autoconversion of cloud ice to snow (<i>D</i><sub>cs</sub>), while simulated ice crystal mean size is more sensitive to ice nucleation parameterizations than to <i>D</i><sub>cs</sub>. Our results highlight the need for further improvements to the sub-grid RH variability and ice nucleation and growth in the model.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>11</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>4731</first_page>
+            <last_page>4749</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-17-4731-2017</doi>
+            <resource>https://www.atmos-chem-phys.net/17/4731/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/17/4731/2017/acp-17-4731-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/1999JD901161</doi>
+              <unstructured_citation>Abdul-Razzak, H. and Ghan, S. J.: A parameterization of aerosol activation, 2. Multiple aerosol types, J. Geophys. Res.-Atmos., 105, 6837–6844, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Bardeen, C. G., Gettelman, A., Jensen, E. J., Heymsfield, A., Conley, A. J., Delanoë, J., Deng, M., and Toon, O. B.: Improved cirrus simulations in a GCM using CARMA sectional microphysics, J. Geophys. Res., 118, 11679–11697, https://doi.org/10.1002/2013JD020193, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/2011BAMS2856.1</doi>
+              <unstructured_citation>Bodas-Salcedo, A., Webb, M. J., Bony, S., Chepfer, H., Dufresne, J.-L., Klein, S. A., Zhang, Y., Marchand, R., Haynes, J. M., Pincus, R., and John, V. O.: COSP: A satellite simulation software for model assessment, Bull. Amer. Meteor. Soc., 92, 1023–1043, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/JCLI-D-13-00075.1</doi>
+              <unstructured_citation>Bogenschutz, P. A., Gettelman, A., Morrison, H., Larson, V. E., Craig, C., and Schanen, D. P.: Higher-Order Turbulence Closure and Its Impact on Climate Simulations in the Community Atmosphere Model, J. Clim., 26, 9655–9676, https://doi.org/10.1175/JCLI-D-13-00075.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G., Forster, P., Kerminen, V.-M., Kondo, Y., Liao, H., Lohmann, U., Rasch, P., Satheesh, S. K., Sherwood, S., Stevens, B., and Zhang, X. Y.: Clouds and Aerosols, in: Climate Change 2013: The Physical Science Basis, Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1535, 571–657, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/2008JCLI2556.1</doi>
+              <unstructured_citation>Bretherton, C. S. and Park, S.: A New Moist Turbulence Parameterization in the Community Atmosphere Model, J. Clim., 22, 3422–3448, https://doi.org/10.1175/2008JCLI2556.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Brown, P. R. A. and Francis, P. N.: Improved measurements of the ice water content in cirrus using a total-water probe, J. Atmos. Ocean. Tech., 12, 410–414, https://doi.org/10.1175/1520- 0426(1995)0122.0.co;2, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2004GL021889</doi>
+              <unstructured_citation>Corti, T., Luo, B. P., Peter, T., Vömel, H., and Fu, Q.: Mean radiative energy balance and vertical mass fluxes in the equatorial upper troposphere and lower stratosphere, Geophys. Res. Lett., 32, L06802, https://doi.org/10.1029/2004GL021889, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1002/2016JD025994</doi>
+              <unstructured_citation>D'Alessandro, J., Diao, M., Wu, C., Liu, X., Chen, M., Morrison, H., Eidhammer, T., Jensen, Jorgen B. Bansemer, A., Zondlo, M. A., and DiGangi, J. P.: Dynamical conditions of ice supersaturation in convective systems: a comparative analysis between in-situ aircraft observations and WRF simulations, J. Geophys. Res.-Atmos., 122, 2844–2866, https://doi.org/10.1002/2016JD025994, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1073/pnas.2532677100</doi>
+              <unstructured_citation>DeMott, P. J., Cziczo, D. J., Prenni, A. J., Murphy, D. M., Kreidenweis, S. M., Thomson, D. S., Borys, R., and Rogers, D. C.: Measurements of the concentration and composition of nuclei for cirrus formation, P. Natl. Acad. Sci. USA, 100, 14655–14660, https://doi.org/10.1073/pnas.2532677100, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1175/JAM2433.1</doi>
+              <unstructured_citation>Deng, M. and Mace, G. G.: Cirrus Microphysical Properties and Air Motion Statistics Using Cloud Radar Doppler Moments, Part I: Algorithm Description, J. Appl. Meteorol. Climatol., 45, 1690–1709, https://doi.org/10.1175/JAM2433.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/2008JAMC1949.1</doi>
+              <unstructured_citation>Deng, M. and Mace, G. G.: Cirrus Microphysical Properties and Air Motion Statistics Using Cloud Radar Doppler Moments, Part II: Climatology, J. Appl. Meteorol. Climatol., 47, 3221–3235, https://doi.org/10.1175/2008JAMC1949.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1002/grl.50665</doi>
+              <unstructured_citation>Diao, M., Zondlo, M. A., Heymsfield, A. J., Beaton, S. P., and Rogers, D. C.: Evolution of ice crystal regions on the microscale based on in situ observations, Geophys. Res. Lett., 40, 3473–3478, https://doi.org/10.1002/grl.50665, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-14-2639-2014</doi>
+              <unstructured_citation>Diao, M., Zondlo, M. A., Heymsfield, A. J., Avallone, L. M., Paige, M. E., Beaton, S. P., Campos, T., and Rogers, D. C.: Cloud-scale ice-supersaturated regions spatially correlate with high water vapor heterogeneities, Atmos. Chem. Phys., 14, 2639–2656, https://doi.org/10.5194/acp-14-2639-2014, 2014a.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1002/2014GL059873</doi>
+              <unstructured_citation>Diao, M., Zondlo, M. A., Heymsfield, A. J., and Beaton, S. P.: Hemispheric comparison of cirrus cloud evolution using in situ measurements in HIAPER Pole-to-Pole Observations, Geophys. Res. Lett., 41, 4090–4099, https://doi.org/10.1002/2014GL059873, 2014b.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/acp-14-12225-2014</doi>
+              <unstructured_citation>Dinh, T., Fueglistaler, S., Durran, D., and Ackerman, T.: Cirrus and water vapour transport in the tropical tropopause layer – Part 2: Roles of ice nucleation and sedimentation, cloud dynamics, and moisture conditions, Atmos. Chem. Phys., 14, 12225–12236, https://doi.org/10.5194/acp-14-12225-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/acp-14-10103-2014</doi>
+              <unstructured_citation>Eidhammer, T., Morrison, H., Bansemer, A., Gettelman, A., and Heymsfield, A. J.: Comparison of ice cloud properties simulated by the Community Atmosphere Model (CAM5) with in-situ observations, Atmos. Chem. Phys., 14, 10103–10118, https://doi.org/10.5194/acp-14-10103-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/JCLI-D-16-0050.1</doi>
+              <unstructured_citation>Eidhammer, T., Morrison, H., Mitchell, D., Gettelman, A., and Erfani, E.: Improvements in Global Climate Model Microphysics Using a Consistent Representation of Ice Particle Properties, J. Clim., 30, 609–629, https://doi.org/10.1175/jcli-d-16-0050.1, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2007JD008449</doi>
+              <unstructured_citation>Fusina, F., Spichtinger, P., and Lohmann, U.: Impact of ice supersaturated regions and thin cirrus on radiation in the midlatitudes, J. Geophys. Res.-Atmos., 112, D24S14, https://doi.org/10.1029/2007JD008449, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/JCLI-D-14-00102.1</doi>
+              <unstructured_citation>Gettelman, A. and Morrison, H.: Advanced Two-Moment Bulk Microphysics for Global Models, Part I: Off-Line Tests and Comparison with Other Schemes, J. Clim., 28, 1268–1287, https://doi.org/10.1175/JCLI-D-14-00102.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2001GL013818</doi>
+              <unstructured_citation>Gettelman, A., Randel, W. J., Wu, F., and Massie, S. T.: Transport of water vapor in the tropical tropopause layer, Geophys. Res. Lett., 29, 9-1–9-4, https://doi.org/10.1029/2001GL013818, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2009JD013797</doi>
+              <unstructured_citation>Gettelman, A., Liu, X., Ghan, S. J., Morrison, H., Park, S., Conley, A. J., Klein, S. A., Boyle, J., Mitchell, D. L., and Li, J. L. F.: Global simulations of ice nucleation and ice supersaturation with an improved cloud scheme in the Community Atmosphere Model, J. Geophys. Res.-Atmos., 115, D18216, https://doi.org/10.1029/2009JD013797, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/2012JD017950</doi>
+              <unstructured_citation>Gettelman, A., Liu, X., Barahona, D., Lohmann, U., and Chen, C.: Climate impacts of ice nucleation, J. Geophys. Res.-Atmos., 117, D20201, https://doi.org/10.1029/2012JD017950, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JCLI-D-14-00103.1</doi>
+              <unstructured_citation>Gettelman, A., Morrison, H., Santos, S., Bogenschutz, P., and Caldwell, P. M.: Advanced Two-Moment Bulk Microphysics for Global Models, Part II: Global Model Solutions and Aerosol–Cloud Interactions, J. Clim., 28, 1288–1307, https://doi.org/10.1175/JCLI-D-14-00103.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-3-1791-2003</doi>
+              <unstructured_citation>Haag, W., Kärcher, B., Ström, J., Minikin, A., Lohmann, U., Ovarlez, J., and Stohl, A.: Freezing thresholds and cirrus cloud formation mechanisms inferred from in situ measurements of relative humidity, Atmos. Chem. Phys., 3, 1791–1806, https://doi.org/10.5194/acp-3-1791-2003, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/2008JAS2583.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Field, P., and Bansemer, A.: Exponential Size Distributions for Snow, J. Atmos. Sci., 65, 4017–4031, https://doi.org/10.1175/2008JAS2583.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/JAS-D-12-0124.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Schmitt, C., and Bansemer, A.: Ice cloud particle size distributions and pressure-dependent terminal velocities from in situ observations at temperatures from 0 to −86 °C, J. Atmos. Sci., 70, 4123–4154, https://doi.org/10.1175/JAS-D-12-0124.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/acp-12-9817-2012</doi>
+              <unstructured_citation>Hoose, C. and Möhler, O.: Heterogeneous ice nucleation on atmospheric aerosols: a review of results from laboratory experiments, Atmos. Chem. Phys., 12, 9817–9854, https://doi.org/10.5194/acp-12-9817-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1175/JAS3487.1</doi>
+              <unstructured_citation>Hoyle, C. R., Luo, B. P., and Peter, T.: The Origin of High Ice Crystal Number Densities in Cirrus Clouds, J. Atmos. Sci., 62, 2568–2579, https://doi.org/10.1175/JAS3487.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1073/pnas.1217104110</doi>
+              <unstructured_citation>Jensen, E. J., Diskin, G., Lawson, R. P., Lance, S., Bui, T. P., Hlavka, D., McGill, M., Pfister, L., Toon, O. B., and Gao, R.: Ice nucleation and dehydration in the Tropical Tropopause Layer, P. Natl. Acad. Sci. USA, 110, 2041–2046, https://doi.org/10.1073/pnas.1217104110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.7551/mitpress/9780262012874.003.0011</doi>
+              <unstructured_citation>Kärcher, B. and Spichtinger, B.: Cloud-controlling factors of cirrus, in: Clouds in the Perturbed Climate System: Their Relationship to Energy Balance, Atmospheric Dynamics, and Precipitation, edited by: Heintzenberg, J. and Charlson, R. J., Strüngmann Forum Report, The MIT Press, Cambridge, MA, USA, 3536, 235–267, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2005JD006916</doi>
+              <unstructured_citation>Kay, J. E., Baker, M., and Hegg, D.: Microphysical and dynamical controls on cirrus cloud optical depth distributions, J. Geophys. Res.-Atmos., 111, D24205, https://doi.org/10.1029/2005JD006916, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/JCLI-D-11-00469.1</doi>
+              <unstructured_citation>Kay, J. E., Hillman, B. R., Klein, S. A., Zhang, Y., Medeiros, B., Pincus, R., Gettelman, A., Eaton, B., Boyle, J., Marchand, R., and Ackerman, T. P.: Exposing global cloud biases in the Community Atmosphere Model (CAM) using satellite observations and their corresponding instrument simulators, J. Clim., 25, 5190–5207, https://doi.org/10.1175/JCLI-D-11-00469.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1002/2014RG000468</doi>
+              <unstructured_citation>Khain, A. P., Beheng, K. D., Heymsfield, A., Korolev, A., Krichak, S. O., Levin, Z., Pinsky, M., Phillips, V., Prabhakaran, T., Teller, A., van den Heever, S. C., and Yano, J. I.: Representation of microphysical processes in cloud-resolving models: Spectral (bin) microphysics versus bulk parameterization, Rev. Geophys., 53, 247–322, https://doi.org/10.1002/2014RG000468, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1038/35020537</doi>
+              <unstructured_citation>Koop, T., Luo, B., Tsias, A., and Peter, T.: Water activity as the determinant for homogeneous ice nucleation in aqueous solutions, Nature, 406, 611–614, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2012JD018588</doi>
+              <unstructured_citation>Kooperman, G. J., Pritchard, M. S., Ghan, S. J., Wang, M., Somerville, R. C. J., and Russell, L. M.: Constraining the influence of natural variability to improve estimates of global aerosol indirect effects in a nudged version of the Community Atmosphere Model 5, J. Geophys. Res., 117, D23204, https://doi.org/10.1029/2012JD018588, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/2010BAMS3141.1</doi>
+              <unstructured_citation>Korolev, A. V., Emery, E. F., Strapp, J. W., Cober, S. G., Isaac, G. A., Wasey, M., and Marcotte, D.: Small Ice Particles in Tropospheric Clouds: Fact or Artifact? Airborne Icing Instrumentation Evaluation Experiment, B. Am. Meteorol. Soc., 92, 967–973, https://doi.org/10.1175/2010BAMS3141.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/acp-9-3505-2009</doi>
+              <unstructured_citation>Krämer, M., Schiller, C., Afchine, A., Bauer, R., Gensch, I., Mangold, A., Schlicht, S., Spelten, N., Sitnikov, N., Borrmann, S., de Reus, M., and Spichtinger, P.: Ice supersaturations and cirrus cloud crystal numbers, Atmos. Chem. Phys., 9, 3505–3522, https://doi.org/10.5194/acp-9-3505-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acp-16-3463-2016</doi>
+              <unstructured_citation>Krämer, M., Rolf, C., Luebke, A., Afchine, A., Spelten, N., Costa, A., Meyer, J., Zöger, M., Smith, J., Herman, R. L., Buchholz, B., Ebert, V., Baumgardner, D., Borrmann, S., Klingebiel, M., and Avallone, L.: A microphysics guide to cirrus clouds – Part 1: Cirrus types, Atmos. Chem. Phys., 16, 3463–3483, https://doi.org/10.5194/acp-16-3463-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/gmd-5-369-2012</doi>
+              <unstructured_citation>Lamarque, J. F., Emmons, L. K., Hess, P. G., Kinnison, D. E., Tilmes, S., Vitt, F., Heald, C. L., Holland, E. A., Lauritzen, P. H., Neu, J., Orlando, J. J., Rasch, P. J., and Tyndall, G. K.: CAM-chem: description and evaluation of interactive atmospheric chemistry in the Community Earth System Model, Geosci. Model Dev., 5, 369–411, https://doi.org/10.5194/gmd-5-369-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/amt-4-1361-2011</doi>
+              <unstructured_citation>Lawson, R. P.: Effects of ice particles shattering on the 2D-S probe, Atmos. Meas. Tech., 4, 1361–1381, https://doi.org/10.5194/amt-4-1361-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1002/jgrd.50347</doi>
+              <unstructured_citation>Lebsock, M., Morrison, H., and Gettelman, A.: Microphysical implications of cloud-precipitation covariance derived from satellite remote sensing, J. Geophys. Res.-Atmos., 118, 6521–6533, https://doi.org/10.1002/jgrd.50347, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2012JD017640</doi>
+              <unstructured_citation>Li, J. L. F., Waliser, D. E., Chen, W. T., Guan, B., Kubar, T., Stephens, G., Ma, H. Y., Deng, M., Donner, L., Seman, C., and Horowitz, L.: An observationally based evaluation of cloud ice water in CMIP3 and CMIP5 GCMs and contemporary reanalyses using contemporary satellite data, J. Geophys. Res.-Atmos., 117, D16105, https://doi.org/10.1029/2012JD017640, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/1520-0493(1986)114&lt;1167:IOCCOW&gt;2.0.CO;2</doi>
+              <unstructured_citation>Liou, K.-N.: Influence of Cirrus Clouds on Weather and Climate Processes: A Global Perspective, Mon. Weather Rev., 114, 1167–1199, https://doi.org/10.1175/1520-0493(1986)114&amp;amp;lt;1167:IOCCOW&amp;amp;gt;2.0.CO;2, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1127/0941-2948/2005/0059</doi>
+              <unstructured_citation>Liu, X. and Penner, J. E.: Ice nucleation parameterization for global models, Meteorol. Z., 14, 499–514, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/JCLI4264.1</doi>
+              <unstructured_citation>Liu, X., Penner, J. E., Ghan, S. J., and Wang, M.: Inclusion of Ice Microphysics in the NCAR Community Atmospheric Model Version 3 (CAM3), J. Clim., 20, 4526–4547, https://doi.org/10.1175/JCLI4264.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/gmd-5-709-2012</doi>
+              <unstructured_citation>Liu, X., Easter, R. C., Ghan, S. J., Zaveri, R., Rasch, P., Shi, X., Lamarque, J. F., Gettelman, A., Morrison, H., Vitt, F., Conley, A., Park, S., Neale, R., Hannay, C., Ekman, A. M. L., Hess, P., Mahowald, N., Collins, W., Iacono, M. J., Bretherton, C. S., Flanner, M. G., and Mitchell, D.: Toward a minimal representation of aerosols in climate models: description and evaluation in the Community Atmosphere Model CAM5, Geosci. Model Dev., 5, 709–739, https://doi.org/10.5194/gmd-5-709-2012, 2012a.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-12-12061-2012</doi>
+              <unstructured_citation>Liu, X., Shi, X., Zhang, K., Jensen, E. J., Gettelman, A., Barahona, D., Nenes, A., and Lawson, P.: Sensitivity studies of dust ice nuclei effect on cirrus clouds with the Community Atmosphere Model CAM5, Atmos. Chem. Phys., 12, 12061–12079, https://doi.org/10.5194/acp-12-12061-2012, 2012b.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-16-5793-2016</doi>
+              <unstructured_citation>Luebke, A. E., Afchine, A., Costa, A., Grooß, J.-U., Meyer, J., Rolf, C., Spelten, N., Avallone, L. M., Baumgardner, D., and Krämer, M.: The origin of midlatitude ice clouds and the resulting influence on their microphysical properties, Atmos. Chem. Phys., 16, 5793–5809, https://doi.org/10.5194/acp-16-5793-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1175/JAM2193.1</doi>
+              <unstructured_citation>Mace, G. G., Zhang, Y., Platnick, S., King, M. D., Minnis, P., and Yang, P.: Evaluation of Cirrus Cloud Properties Derived from MODIS Data Using Cloud Properties Derived from Ground-Based Observations Collected at the ARM SGP Site, J. Appl. Meteorol., 44, 221–240, https://doi.org/10.1175/JAM2193.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1175/2008JCLI2105.1</doi>
+              <unstructured_citation>Morrison, H. and Gettelman, A.: A New Two-Moment Bulk Stratiform Cloud Microphysics Scheme in the Community Atmosphere Model, Version 3 (CAM3), Part I: Description and Numerical Tests, J. Clim., 21, 3642–3659, https://doi.org/10.1175/2008JCLI2105.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1175/JAS-D-14-0065.1</doi>
+              <unstructured_citation>Morrison, H. and Milbrandt, J. A.: Parameterization of Cloud Microphysics Based on the Prediction of Bulk Ice Particle Properties, Part I: Scheme Description and Idealized Tests, J. Atmos. Sci., 72, 287–311, https://doi.org/10.1175/JAS-D-14-0065.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1256/qj.04.94</doi>
+              <unstructured_citation>Murphy, D. M. and Koop, T.: Review of the vapour pressures of ice and supercooled water for atmospheric applications, Q. J. R. Meteorol. Soc., 131, 1539–1565, https://doi.org/10.1256/qj.04.94, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Neale, R. B. and Coauthors: Description of the NCAR Community Atmosphere Model (CAM 5.0), NCAR/TN-486+STR, available at: http://www.cesm.ucar.edu/models/cesm1.0/cam/docs/description/cam5_desc.pdf (last access: 5 April 2017), 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1175/2008JCLI2557.1</doi>
+              <unstructured_citation>Park, S. and Bretherton, C. S.: The University of Washington Shallow Convection and Moist Turbulence Schemes and Their Impact on Climate Simulations with the Community Atmosphere Model, J. Clim., 22, 3449–3469, https://doi.org/10.1175/2008JCLI2557.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1175/JCLI-D-14-00087.1</doi>
+              <unstructured_citation>Park, S., Bretherton, C. S., and Rasch, P. J.: Integrating Cloud Processes in the Community Atmosphere Model, Version 5, J. Clim., 27, 6821–6856, https://doi.org/10.1175/JCLI-D-14-00087.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1038/351027a0</doi>
+              <unstructured_citation>Ramanathan, V. and Collins, W.: Thermodynamic regulation of ocean warming by cirrus clouds deduced from observations of the 1987 El Nino, Nature, 351, 27–32, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1175/2007JCLI1789.1</doi>
+              <unstructured_citation>Richter, J. H. and Rasch, P. J.: Effects of Convective Momentum Transport on the Atmospheric Circulation in the Community Atmosphere Model, Version 3, J. Clim., 21, 1487–1499, https://doi.org/10.1175/2007JCLI1789.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/acp-15-1503-2015</doi>
+              <unstructured_citation>Shi, X., Liu, X., and Zhang, K.: Effects of pre-existing ice crystals on cirrus clouds and comparison between different ice nucleation parameterizations with the Community Atmosphere Model (CAM5), Atmos. Chem. Phys., 15, 1503–1520, https://doi.org/10.5194/acp-15-1503-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1002/2016GL071144</doi>
+              <unstructured_citation>Tan, X., Huang, Y., Diao, M., Bansemer, A., Zondlo, M. A., DiGangi, J. P., Volkamer, R., and Hu, Y.: An assessment of the radiative effects of ice supersaturation based on in situ observations, Geophys. Res. Lett., 43, 11039–11047, https://doi.org/10.1002/2016GL071144, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.5194/gmd-8-3801-2015</doi>
+              <unstructured_citation>Thayer-Calder, K., Gettelman, A., Craig, C., Goldhaber, S., Bogenschutz, P. A., Chen, C. C., Morrison, H., Höft, J., Raut, E., Griffin, B. M., Weber, J. K., Larson, V. E., Wyant, M. C., Wang, M., Guo, Z., and Ghan, S. J.: A unified parameterization of clouds and turbulence using CLUBB and subcolumns in the Community Atmosphere Model, Geosci. Model Dev., 8, 3801–3821, https://doi.org/10.5194/gmd-8-3801-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/acp-10-5449-2010</doi>
+              <unstructured_citation>Wang, M. and Penner, J. E.: Cirrus clouds in a global climate model with a statistical cirrus cloud scheme, Atmos. Chem. Phys., 10, 5449–5474, https://doi.org/10.5194/acp-10-5449-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/gmd-4-137-2011</doi>
+              <unstructured_citation>Wang, M., Ghan, S., Easter, R., Ovchinnikov, M., Liu, X., Kassianov, E., Qian, Y., Gustafson Jr., W. I., Larson, V. E., Schanen, D. P., Khairoutdinov, M., and Morrison, H.: The multi-scale aerosol-climate model PNNL-MMF: model description and evaluation, Geosci. Model Dev., 4, 137–168, https://doi.org/10.5194/gmd-4-137-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1002/2014MS000339</doi>
+              <unstructured_citation>Wang, M., Liu, X., Zhang, K., and Comstock, J. M.: Aerosol effects on cirrus through ice nucleation in the Community Atmosphere Model CAM5 with a statistical cirrus scheme, J. Adv. Model. Earth Syst., 6, 756–776, https://doi.org/10.1002/2014MS000339, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1029/96JD01780</doi>
+              <unstructured_citation>Wang, P.-H., Minnis, P., McCormick, M. P., Kent, G. S., and Skeens, K. M.: A 6-year climatology of cloud occurrence frequency from Stratospheric Aerosol and Gas Experiment II observations (1985–1990), J. Geophys. Res.-Atmos., 101, 29407–29429, https://doi.org/10.1029/96JD01780, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1088/1748-9326/9/12/124020</doi>
+              <unstructured_citation>Wang, Y. and Liu, X.: Immersion freezing by natural dust based on a soccer ball model with the Community Atmospheric Model version 5: climate effects, Environ. Res. Lett., 9, 124020, https://doi.org/10.1088/1748-9326/9/12/124020, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1098/rsta.2010.0313</doi>
+              <unstructured_citation>Wofsy, S. C.: HIAPER Pole-to-Pole Observations (HIPPO): fine-grained, global-scale measurements of climatically important atmospheric gases and aerosols, Philos. T. R. Soc. A, 369, 2073–2086, https://doi.org/10.1098/rsta.2010.0313, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1175/1520-0442-12.1.170</doi>
+              <unstructured_citation>Wylie, D. P. and Menzel, W. P.: Eight Years of High Cloud Statistics Using HIRS, J. Clim., 12, 170–184, https://doi.org/10.1175/1520-0442-12.1.170, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1002/2014MS000343</doi>
+              <unstructured_citation>Zhang, C., Wang, M., Morrison, H., Somerville, R. C. J., Zhang, K., Liu, X., and Li, J. F.: Investigating ice nucleation in cirrus clouds with an aerosol-enabled multi-scale modeling framework, J. Adv. Model. Earth Syst., 6, 998–1015, https://doi.org/10.1002/2014MS000343, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1080/07055900.1995.9649539</doi>
+              <unstructured_citation>Zhang, G. J. and McFarlane, N. A.: Sensitivity of climate simulations to the parameterization of cumulus convection in the Canadian Climate Centre general circulation model, Atmos. Ocean, 33, 407–446, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/acp-13-4963-2013</doi>
+              <unstructured_citation>Zhang, K., Liu, X., Wang, M., Comstock, J. M., Mitchell, D. L., Mishra, S., and Mace, G. G.: Evaluating and constraining ice cloud parameterizations in CAM5 using aircraft measurements from the SPARTICUS campaign, Atmos. Chem. Phys., 13, 4963–4982, https://doi.org/10.5194/acp-13-4963-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.5194/acp-14-8631-2014</doi>
+              <unstructured_citation>Zhang, K., Wan, H., Liu, X., Ghan, S. J., Kooperman, G. J., Ma, P. L., Rasch, P. J., Neubauer, D., and Lohmann, U.: Technical Note: On the use of nudging for aerosol–climate model intercomparison studies, Atmos. Chem. Phys., 14, 8631–8645, https://doi.org/10.5194/acp-14-8631-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1029/2010JD014445</doi>
+              <unstructured_citation>Zondlo, M. A., Paige, M. E., Massick, S. M., and Silver, J. A.: Vertical cavity laser hygrometer for the National Science Foundation Gulfstream-V aircraft, J. Geophys. Res.-Atmos., 115, D20309, https://doi.org/10.1029/2010JD014445, 2010.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

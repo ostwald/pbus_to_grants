@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1175" timestamp="2019-12-23 16:30:55">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of the Atmospheric Sciences</full_title>
+          <abbrev_title>J. Atmos. Sci.</abbrev_title>
+          <issn media_type="print">0022-4928</issn>
+          <issn media_type="electronic">1520-0469</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>11</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>76</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>An Implicit Algebraic Turbulence Closure Scheme for Atmospheric Boundary Layer Simulation</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Xiaoming</given_name>
+              <surname>Shi</surname>
+              <affiliation>Division of Environment and Sustainability, and Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology, Hong Kong, China</affiliation>
+              <ORCID authenticated="true">http://orcid.org/0000-0002-5329-7851</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rica Mae</given_name>
+              <surname>Enriquez</surname>
+              <affiliation>Department of Civil and Environmental Engineering, Stanford University, Stanford, California</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Robert L.</given_name>
+              <surname>Street</surname>
+              <affiliation>Department of Civil and Environmental Engineering, Stanford University, Stanford, California</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>George H.</given_name>
+              <surname>Bryan</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Fotini Katopodes</given_name>
+              <surname>Chow</surname>
+              <affiliation>Department of Civil and Environmental Engineering, University of California, Berkeley, Berkeley, California</affiliation>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>Turbulence parameterization plays a critical role in the simulation of many weather regimes. For challenging cases such as the stratocumulus-capped boundary layer (SCBL), traditional schemes can produce unrealistic results even when a fine large-eddy-simulation (LES) resolution is used. Here we present an implicit generalized linear algebraic subfilter-scale model (iGLASS) to better represent unresolved turbulence in the simulation of the atmospheric boundary layer, at both standard LES and so-called terra incognita (TI) resolutions. The latter refers to a range of model resolutions where turbulent eddies are only partially resolved, and therefore the simulated processes are sensitive to the representation of unresolved turbulence. iGLASS is based on the truncated conservation equations of subfilter-scale (SFS) fluxes, but it integrates the full equations of the SFS turbulence kinetic energy and potential energy to retain “memory” of the SFS turbulence. Our evaluations suggest iGLASS can perform significantly better than traditional eddy-diffusivity models and exhibit skills comparable to the dynamic reconstruction model (DRM). For a neutral boundary layer case run at LES resolution, the simulation using iGLASS exhibits a wind profile that reasonably matches the similarity-theory solution. For an SCBL case with 5-m vertical resolution, iGLASS maintains more realistic cloud water profiles and boundary layer structure than traditional schemes. The SCBL case is also tested at TI resolution, and iGLASS also exhibits superior performance. iGLASS permits significant backscatter, whereas traditional models allow forward scatter (diffusion) only. As a physics-based approach, iGLASS appears to be a viable alternative for turbulence parameterization.</p>
+          </abstract>
+          <publication_date media_type="print">
+            <month>11</month>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>3367</first_page>
+            <last_page>3386</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1175/JAS-D-18-0375.1</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Division of Atmospheric and Geospace Sciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000159</assertion>
+              </assertion>
+              <assertion name="award_number">1503860</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Division of Atmospheric and Geospace Sciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000159</assertion>
+              </assertion>
+              <assertion name="award_number">1503885</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref start_date="2020-10-16" applies_to="vor">http://www.ametsoc.org/PUBSReuseLicenses</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1175/JAS-D-18-0375.1</doi>
+            <resource>http://journals.ametsoc.org/doi/10.1175/JAS-D-18-0375.1</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.ametsoc.org/doi/pdf/10.1175/JAS-D-18-0375.1</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">http://journals.ametsoc.org/doi/pdf/10.1175/JAS-D-18-0375.1</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

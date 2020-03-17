@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1007" timestamp="2019-03-26 19:14:13">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Machine Learning</full_title>
+          <abbrev_title>Mach Learn</abbrev_title>
+          <issn media_type="print">0885-6125</issn>
+          <issn media_type="electronic">1573-0565</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>4</month>
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>95</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Using random forests to diagnose aviation turbulence</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>John K.</given_name>
+              <surname>Williams</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>4</month>
+            <day>23</day>
+            <year>2013</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>4</month>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>51</first_page>
+            <last_page>70</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">5346</identifier>
+          </publisher_item>
+          <program name="AccessIndicators">
+            <license_ref>http://creativecommons.org/licenses/by/2.0</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1007/s10994-013-5346-7</doi>
+            <timestamp>20151029165814452</timestamp>
+            <resource>http://link.springer.com/10.1007/s10994-013-5346-7</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/s10994-013-5346-7</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/s10994-013-5346-7.pdf</resource>
+              </item>
+              <item>
+                <resource mime_type="text/html">http://link.springer.com/article/10.1007/s10994-013-5346-7/fulltext.html</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="5346_CR1">
+              <journal_title>Journal of Applied Meteorology and Climatology</journal_title>
+              <author>K. M. Bedka</author>
+              <volume>49</volume>
+              <first_page>181</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2009JAMC2286.1</doi>
+              <unstructured_citation>Bedka, K. M., Brunner, J., Dworak, R., Feltz, W., Otkin, J., &amp; Greenwald, T. (2010). Objective satellite-based overshooting top detection using infrared window channel brightness temperature gradients. Journal of Applied Meteorology and Climatology, 49, 181–202.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR2">
+              <author>S. G. Benjamin</author>
+              <cYear>2006</cYear>
+              <volume_title>AMS 12th conference on aviation, range, and aerospace meteorology</volume_title>
+              <unstructured_citation>Benjamin, S. G., Devenyi, D., Smirnova, T., Weygandt, S. S., Brown, J. M., Peckham, S., Brundage, K. J., Smith, T. L., Grell, G. A., &amp; Schlatter, T. W. (2006). From the 13-km RUC to the rapid refresh. In AMS 12th conference on aviation, range, and aerospace meteorology, Atlanta, GA (paper 9.1).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR3">
+              <journal_title>Machine Learning</journal_title>
+              <author>L. Breiman</author>
+              <volume>45</volume>
+              <first_page>5</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1023/A:1010933404324</doi>
+              <unstructured_citation>Breiman, L. (2001). Random forests. Machine Learning, 45, 5–32.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR4">
+              <journal_title>ICAO Journal</journal_title>
+              <author>L. B. Cornman</author>
+              <volume>48</volume>
+              <first_page>10</first_page>
+              <cYear>1993</cYear>
+              <unstructured_citation>Cornman, L. B., &amp; Carmichael, B. (1993). Varied research efforts are under way to find means of avoiding air turbulence. ICAO Journal, 48, 10–15.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR5">
+              <unstructured_citation>Commercial Aviation Safety Team (CAST) (2001). Turbulence Joint Safety Analysis Team (JSAT) Analysis and Results (Report), 83 pp. www.cast-safety.org/pdf/jsat_turbulence.pdf .</unstructured_citation>
+            </citation>
+            <citation key="5346_CR6">
+              <journal_title>Journal of Aircraft</journal_title>
+              <author>L. B. Cornman</author>
+              <volume>32</volume>
+              <first_page>171</first_page>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.2514/3.46697</doi>
+              <unstructured_citation>Cornman, L. B., Morse, C. S., &amp; Cunning, G. (1995). Real-time estimation of atmospheric turbulence severity from in-situ aircraft measurements. Journal of Aircraft, 32, 171–177.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR7">
+              <author>L. B. Cornman</author>
+              <cYear>2004</cYear>
+              <volume_title>AMS 12th conference on aviation, range, and aerospace meteorology</volume_title>
+              <unstructured_citation>Cornman, L. B., Meymaris, G., &amp; Limber, M. (2004). An update on the FAA Aviation Weather Research Program’s in situ turbulence measurement and reporting system. In AMS 12th conference on aviation, range, and aerospace meteorology (paper 4.3).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR8">
+              <unstructured_citation>Cook, A. J., Tanner, G., &amp; Anderson, S. (2004). Evaluating the true cost to airlines of one minute of airborne or ground delay (Technical Report). Transport Studies Group, University of Westminster.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR9">
+              <unstructured_citation>Cook, L. (2008). Translating weather information (convective and non-convective) into TFM constraints: report of parameters that affect TFM decisions (MOSAIC ATM/AvMet report under NASA NRA Contract No. NNA07BC57C).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR10">
+              <journal_title>IEEE Transactions on Electromagnetic Compatibility</journal_title>
+              <author>K. L. Cummins</author>
+              <volume>51</volume>
+              <issue>3</issue>
+              <first_page>499</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1109/TEMC.2009.2023450</doi>
+              <unstructured_citation>Cummins, K. L., &amp; Murphy, M. J. (2009). An overview of lightning locating systems: history, techniques, and data uses, with an in-depth look at the U.S. NLDN. IEEE Transactions on Electromagnetic Compatibility, 51(3), 499–518.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR11">
+              <author>W. Deierling</author>
+              <cYear>2011</cYear>
+              <volume_title>AMS 15th conference on aviation, range, and aerospace meteorology</volume_title>
+              <unstructured_citation>Deierling, W., Williams, J. K., Kessinger, C. J., Sharman, R. D., &amp; Steiner, M. (2011). The relationship of in-cloud convective turbulence to total lightning. In AMS 15th conference on aviation, range, and aerospace meteorology, Los Angeles, CA (paper 2.3).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR12">
+              <journal_title>BMC Bioinformatics</journal_title>
+              <author>R. Díaz-Uriarte</author>
+              <volume>7</volume>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1186/1471-2105-7-3</doi>
+              <unstructured_citation>Díaz-Uriarte, R., &amp; de Andrés, S. A. (2006). Gene selection and classification of microarray data using random forest. BMC Bioinformatics, 7, 3.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR13">
+              <unstructured_citation>Eichenbaum, H. (2000). Historical overview of turbulence accidents (MCR Federal Report TR-7100/023-1). Available from MCR Federal Inc., 175 Middlesex Turnpike, Bedford, MA 01730.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR14">
+              <unstructured_citation>Eichenbaum, H. (2003). Historical overview of turbulence accidents and case study analysis (MCR Federal Report Br-M021/080-1), 82 pp. Available from MCR Federal Inc., 175 Middlesex Turnpike, Bedford, MA 01730.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR15">
+              <author>Federal Aviation Administration</author>
+              <cYear>2012</cYear>
+              <volume_title>FAA aeronautical information manual</volume_title>
+              <unstructured_citation>Federal Aviation Administration (2012). FAA aeronautical information manual. Chap. 7. Available online at www.faa.gov/air_traffic/publications/atpubs/aim/ .</unstructured_citation>
+            </citation>
+            <citation key="5346_CR16">
+              <author>R. G. Fovell</author>
+              <cYear>2007</cYear>
+              <volume_title>AMS 12th conference on mesoscale processes</volume_title>
+              <unstructured_citation>Fovell, R. G., Sharman, R. D., &amp; Trier, S. B. (2007). A case study of convectively-induced clear-air turbulence. In AMS 12th conference on mesoscale processes, Waterville Valley, NH (paper 13.4).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR17">
+              <author>International Civil Aviation Organization (ICAO)</author>
+              <cYear>2001</cYear>
+              <volume_title>Meteorological service for international air navigation. Annex 3 to the convention on international civil aviation</volume_title>
+              <edition_number>14</edition_number>
+              <unstructured_citation>International Civil Aviation Organization (ICAO) (2001). Meteorological service for international air navigation. Annex 3 to the convention on international civil aviation (14th ed.), 128 pp.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR18">
+              <author>Joint Planning and Development Office (JPDO)</author>
+              <cYear>2008</cYear>
+              <volume_title>Integrated work plan for the next generation air transportation system. Version 0.2</volume_title>
+              <unstructured_citation>Joint Planning and Development Office (JPDO) (2008). Integrated work plan for the next generation air transportation system. Version 0.2, 432 pp. http://ebookbrowse.com/iwp-version-02-master-w-o-appendix-pdf-d90599595 .</unstructured_citation>
+            </citation>
+            <citation key="5346_CR19">
+              <journal_title>Meteorology and Atmospheric Physics</journal_title>
+              <author>M. L. Kaplan</author>
+              <volume>88</volume>
+              <first_page>129</first_page>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1007/s00703-004-0080-0</doi>
+              <unstructured_citation>Kaplan, M. L., Huffman, A. W., Lux, K. M., Charney, J. J., Riordan, A. J., &amp; Lin, Y.-L. (2005). Characterizing the severe turbulence environments associated with commercial aviation accidents. Part 1: a 44-case study synoptic observational analysis. Meteorology and Atmospheric Physics, 88, 129–153.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR20">
+              <journal_title>Air Traffic Control Quarterly</journal_title>
+              <author>J. Krozel</author>
+              <volume>15</volume>
+              <issue>3</issue>
+              <first_page>209</first_page>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.2514/atcq.15.3.209</doi>
+              <unstructured_citation>Krozel, J., Mitchell, J. S. B., Polishchuk, V., &amp; Prete, J. (2007). Maximum flow rates for capacity estimation in level flight with convective weather constraints. Air Traffic Control Quarterly, 15(3), 209–238.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR21">
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <author>T. P. Lane</author>
+              <volume>60</volume>
+              <first_page>1297</first_page>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/1520-0469(2003)60&lt;1297:AIOTGM&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lane, T. P., Sharman, R. D., Clark, T. L., &amp; Hsu, H.-M. (2003). An investigation of turbulence generation mechanisms above deep convection. J. Atmos. Sci., 60, 1297–1321.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR22">
+              <journal_title>Journal of Applied Meteorology and Climatology</journal_title>
+              <author>T. P. Lane</author>
+              <volume>47</volume>
+              <issue>11</issue>
+              <first_page>2777</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1175/2008JAMC1787.1</doi>
+              <unstructured_citation>Lane, T. P., &amp; Sharman, R. D. (2008). Some influences of background flow conditions on the generation of turbulence due to gravity wave breaking above deep convection. Journal of Applied Meteorology and Climatology, 47(11), 2777–2796.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR23">
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <author>T. P. Lane</author>
+              <volume>93</volume>
+              <first_page>499</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-11-00062.1</doi>
+              <unstructured_citation>Lane, T. P., Sharman, R. D., Trier, S. B., Fovell, R. G., &amp; Williams, J. K. (2012). Recent advances in the understanding of near-cloud turbulence. Bulletin of the American Meteorological Society, 93, 499–515.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR24">
+              <author>T. Lindholm</author>
+              <cYear>2010</cYear>
+              <volume_title>AMS 14th conference on aviation, range, and aerospace meteorology</volume_title>
+              <unstructured_citation>Lindholm, T., Sharman, R., Krozel, J., Klimenko, V., Krishna, S., Downs, N., &amp; Mitchell, J. S. B. (2010). Translating weather into traffic flow management impacts for NextGen. In AMS 14th conference on aviation, range, and aerospace meteorology, Atlanta, GA (paper J12.4).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR25">
+              <journal_title>Journal of Applied Meteorology and Climatology</journal_title>
+              <author>D. W. Martin</author>
+              <volume>47</volume>
+              <issue>2</issue>
+              <first_page>525</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1175/2007JAMC1525.1</doi>
+              <unstructured_citation>Martin, D. W., Kohrs, R. A., Mosher, F. R., Medaglia, C. M., &amp; Adamo, C. (2008). Over-ocean validation of the global convective diagnostic. Journal of Applied Meteorology and Climatology, 47(2), 525–543.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR26">
+              <journal_title>Machine Learning</journal_title>
+              <author>A. McGovern</author>
+              <cYear>2013</cYear>
+              <unstructured_citation>McGovern, A., Gagne, D. J. II, Williams, J. K., Brown, R. A., &amp; Basara, J. B. (2013). Enhancing understanding and improving prediction of severe weather through spatiotemporal relational learning. Machine Learning. doi: 10.1007/s10994-013-5343-x .</unstructured_citation>
+            </citation>
+            <citation key="5346_CR27">
+              <author>B. Menze</author>
+              <first_page>453</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1007/978-3-642-23783-6_29</doi>
+              <series_title>Lecture notes in computer science</series_title>
+              <volume_title>Machine learning and knowledge discovery in databases</volume_title>
+              <unstructured_citation>Menze, B., Kelm, B. M., Splitthoff, D., Koethe, U., &amp; Hamprecht, F. (2011). On oblique random forests. In D. Gunopulos, T. Hofmann, D. Malerba, &amp; M. Vazirgiannis (Eds.), Lecture notes in computer science: Machine learning and knowledge discovery in databases (pp. 453–469). Berlin: Springer.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR28">
+              <journal_title>International Journal of Remote Sensing</journal_title>
+              <author>M. Pal</author>
+              <volume>26</volume>
+              <issue>1</issue>
+              <first_page>217</first_page>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1080/01431160412331269698</doi>
+              <unstructured_citation>Pal, M. (2005). Random forest classifier for remote sensing classification. International Journal of Remote Sensing, 26(1), 217–222.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR29">
+              <journal_title>Weather and Forecasting</journal_title>
+              <author>J. T. Schaefer</author>
+              <volume>5</volume>
+              <first_page>570</first_page>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1175/1520-0434(1990)005&lt;0570:TCSIAA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Schaefer, J. T. (1990). The critical success index as an indicator of warning skill. Weather and Forecasting, 5, 570–575.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR30">
+              <journal_title>Weather and Forecasting</journal_title>
+              <author>B. Schwartz</author>
+              <volume>11</volume>
+              <first_page>372</first_page>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1175/1520-0434(1996)011&lt;0372:TQUOPI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Schwartz, B. (1996). The quantitative use of PIREPs in developing aviation weather guidance products. Weather and Forecasting, 11, 372–384.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR31">
+              <author>R. D. Sharman</author>
+              <cYear>2006</cYear>
+              <volume_title>AMS 12th conference on aviation, range, and aerospace meteorology</volume_title>
+              <unstructured_citation>Sharman, R. D., Cornman, L., Williams, J. K., Koch, S. E., &amp; Moninger, W. R. (2006a). The AWRP turbulence PDT. In AMS 12th conference on aviation, range, and aerospace meteorology (paper 3.3).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR32">
+              <journal_title>Weather and Forecasting</journal_title>
+              <author>R. Sharman</author>
+              <volume>21</volume>
+              <first_page>268</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/WAF924.1</doi>
+              <unstructured_citation>Sharman, R., Tebaldi, C., Wiener, G., &amp; Wolff, J. (2006b). An integrated approach to mid-and upper-level turbulence forecasting. Weather and Forecasting, 21, 268–287.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR33">
+              <author>R. Sharman</author>
+              <cYear>2009</cYear>
+              <volume_title>AMS aviation, range and aerospace meteorology special symposium on weather-air traffic management integration</volume_title>
+              <unstructured_citation>Sharman, R., &amp; Williams, J. K. (2009). The complexities of thunderstorm avoidance due to turbulence and implications for traffic flow management. In AMS aviation, range and aerospace meteorology special symposium on weather-air traffic management integration, Phoenix, AZ (paper 2.4).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR34">
+              <journal_title>BMC Bioinformatics</journal_title>
+              <author>C. Strobl</author>
+              <volume>8</volume>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1186/1471-2105-8-25</doi>
+              <unstructured_citation>Strobl, C., Boulesteix, A.-L., Zeileis, A., &amp; Hothorn, T. (2007). Bias in random forest variable importance measures: illustrations, sources and a solution. BMC Bioinformatics, 8, 25.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR35">
+              <journal_title>Monthly Weather Review</journal_title>
+              <author>S. B. Trier</author>
+              <volume>137</volume>
+              <first_page>1972</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1175/2008MWR2770.1</doi>
+              <unstructured_citation>Trier, S. B., &amp; Sharman, R. D. (2009). Convection-permitting simulations of the environment supporting widespread turbulence within the upper-level outflow of a mesoscale convective system. Monthly Weather Review, 137, 1972–1990.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR36">
+              <journal_title>Monthly Weather Review</journal_title>
+              <author>S. B. Trier</author>
+              <volume>140</volume>
+              <first_page>2477</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/MWR-D-11-00353.1</doi>
+              <unstructured_citation>Trier, S. B., Sharman, R. D., &amp; Lane, T. P. (2012). Influences of moist convection on a cold-season outbreak of clear-air turbulence (CAT). Monthly Weather Review, 140, 2477–2496.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR37">
+              <unstructured_citation>Wandishin, M. S., Pettegrew, B. P., Petty, M. A., &amp; Mahoney, J. L. (2011). Quality assessment report for Graphical Turbulence Guidance, version 2.5. United States National Oceanic and Atmospheric Administration, Earth System Research Laboratory, Global Systems Division. http://purl.fdlp.gov/GPO/gpo15528 .</unstructured_citation>
+            </citation>
+            <citation key="5346_CR38">
+              <author>J. K. Williams</author>
+              <cYear>2006</cYear>
+              <volume_title>Proceedings of 44th AIAA aerospace sciences meeting and exhibit</volume_title>
+              <unstructured_citation>Williams, J. K., Cornman, L. B., Yee, J., Carson, S. G., Blackburn, G., &amp; Craig, J. (2006). NEXRAD detection of hazardous turbulence. In Proceedings of 44th AIAA aerospace sciences meeting and exhibit (paper AIAA 2006-0076).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR39">
+              <author>J. K. Williams</author>
+              <cYear>2008</cYear>
+              <series_title>Proceedings of SPIE</series_title>
+              <volume_title>Remote sensing applications for aviation weather hazard detection and decision support</volume_title>
+              <unstructured_citation>Williams, J. K., Ahijevych, D., Dettling, S., &amp; Steiner, M. (2008a). Combining observations and model data for short-term storm forecasting. In W. Feltz &amp; J. Murray (Eds.), Proceedings of SPIE: Vol. 7088. Remote sensing applications for aviation weather hazard detection and decision support (paper 708805).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR40">
+              <author>J. K. Williams</author>
+              <cYear>2008</cYear>
+              <series_title>Proceedings of SPIE</series_title>
+              <volume_title>Remote sensing applications for aviation weather hazard detection and decision support</volume_title>
+              <unstructured_citation>Williams, J. K., Sharman, R., Craig, J., &amp; Blackburn, G. (2008b). Remote detection and diagnosis of thunderstorm turbulence. In W. Feltz &amp; J. Murray (Eds.), Proceedings of SPIE: Vol. 7088. Remote sensing applications for aviation weather hazard detection and decision support (paper 708804).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR41">
+              <author>J. K. Williams</author>
+              <first_page>297</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1007/978-1-4020-9119-3_15</doi>
+              <volume_title>Artificial intelligence methods in the environmental sciences</volume_title>
+              <unstructured_citation>Williams, J. K. (2009). Reinforcement learning of optimal controls. In S. E. Haupt, A. Pasini, &amp; C. Marzban (Eds.), Artificial intelligence methods in the environmental sciences (pp. 297–327).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR42">
+              <author>J. K. Williams</author>
+              <first_page>168</first_page>
+              <cYear>2012</cYear>
+              <volume_title>Proc. 2012 conference on intelligent data understanding</volume_title>
+              <unstructured_citation>Williams, J. K., Blackburn, G., Craig, J. A., &amp; Meymaris, G. (2012). A data mining approach to data fusion for turbulence diagnosis. In K. Das, N. V. Chawla, &amp; A. N. Srivastava (Eds.), Proc. 2012 conference on intelligent data understanding (pp. 168–169).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR43">
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <author>A. J. Wimmers</author>
+              <volume>109</volume>
+              <cYear>2004</cYear>
+              <unstructured_citation>Wimmers, A. J., &amp; Moody, J. L. (2004). Tropopause folding at satellite-observed spatial gradients: 2. development of an empirical model. Journal of Geophysical Research, 109, D19307.</unstructured_citation>
+            </citation>
+            <citation key="5346_CR44">
+              <author>A. Wimmers</author>
+              <cYear>2012</cYear>
+              <volume_title>AMS 18th conference on satellite meteorology, oceanography and climatology and 1st joint AMS-Asia satellite meteorology conference</volume_title>
+              <unstructured_citation>Wimmers, A., &amp; Feltz, W. (2012). The GOES-R tropopause folding turbulence product: finding clear-air turbulence in GOES water vapor imagery. In AMS 18th conference on satellite meteorology, oceanography and climatology and 1st joint AMS-Asia satellite meteorology conference, New Orleans, LA (paper 471).</unstructured_citation>
+            </citation>
+            <citation key="5346_CR45">
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <author>J. Zhang</author>
+              <volume>92</volume>
+              <first_page>1321</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1175/2011BAMS-D-11-00047.1</doi>
+              <unstructured_citation>Zhang, J., Howard, K., Langston, C., Vasiloff, S., Kaney, B., Arthur, A., Cooten, S. V., Kellehe, K., Kitzmiller, D., Ding, F., Seo, D.-J., Wells, E., &amp; Dempsey, C. (2011). National mosaic and multi-sensor QPE (NMQ) system: description, results, and future plans. Bulletin of the American Meteorological Society, 92, 1321–1338.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

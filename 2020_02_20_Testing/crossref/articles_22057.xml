@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1007" timestamp="2019-05-24 19:22:14">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Sankhya A</full_title>
+          <abbrev_title>Sankhya A</abbrev_title>
+          <issn media_type="print">0976-836X</issn>
+          <issn media_type="electronic">0976-8378</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>8</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>80</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Reduced Basis Kriging for Big Spatial Fields</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Karl</given_name>
+              <surname>Pazdernik</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ranjan</given_name>
+              <surname>Maitra</surname>
+              <ORCID>http://orcid.org/0000-0002-3515-8532</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Douglas</given_name>
+              <surname>Nychka</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Stephan</given_name>
+              <surname>Sain</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>5</month>
+            <day>25</day>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>8</month>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>280</first_page>
+            <last_page>300</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">129</identifier>
+          </publisher_item>
+          <crossmark>
+            <crossmark_version>1</crossmark_version>
+            <crossmark_policy>10.1007/springer_crossmark_policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>link.springer.com</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <crossmark_domain_exclusive>false</crossmark_domain_exclusive>
+            <custom_metadata>
+              <assertion group_label="Article History" group_name="ArticleHistory" label="Received" name="received" order="1">20 May 2017</assertion>
+              <assertion group_label="Article History" group_name="ArticleHistory" label="First Online" name="first_online" order="2">25 May 2018</assertion>
+              <program name="fundref">
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Science Foundation
+                    <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/501100008982</assertion>
+                  </assertion>
+                  <assertion name="award_number">DMS-CAREER-0437555</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">NSF</assertion>
+                  <assertion name="award_number">DMS-0707069</assertion>
+                </assertion>
+              </program>
+              <program name="AccessIndicators">
+                <license_ref applies_to="tdm">http://www.springer.com/tdm</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.1007/s13171-018-0129-7</doi>
+            <timestamp>20190525010319519</timestamp>
+            <resource content_version="vor">http://link.springer.com/10.1007/s13171-018-0129-7</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/s13171-018-0129-7.pdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="text/html">http://link.springer.com/article/10.1007/s13171-018-0129-7/fulltext.html</resource>
+              </item>
+              <item>
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/s13171-018-0129-7.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="129_CR1">
+              <doi provider="crossref">10.1137/1.9780898719604</doi>
+              <unstructured_citation>Anderson, E., Bai, Z., Bischof, C., Blackford, S., Demmel, J., Dongarra, J., Du Croz, J., Greenbaum, A., Hammarling, S., McKenney, A. and Sorensen, D. (1999). LAPACK Users’ Guide. Society for Industrial and Applied Mathematics, 3rd edn. Philadelphia.</unstructured_citation>
+            </citation>
+            <citation key="129_CR2">
+              <journal_title>J. R. Statist. Soc. Series B</journal_title>
+              <author>S Banerjee</author>
+              <volume>70</volume>
+              <issue>4</issue>
+              <first_page>825</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1111/j.1467-9868.2008.00663.x</doi>
+              <unstructured_citation>Banerjee, S., Gelfand, A., Finley, A. and Sang, H. (2008). Gaussian predictive process models for large spatial data sets. J. R. Statist. Soc. Series B 70, 4, 825–848.</unstructured_citation>
+            </citation>
+            <citation key="129_CR3">
+              <journal_title>R Pack. Vers.</journal_title>
+              <author>D Bates</author>
+              <volume>1</volume>
+              <first_page>2</first_page>
+              <cYear>2015</cYear>
+              <unstructured_citation>Bates, D. and Maechler, M. (2015). Matrix: Sparse and dense matrix classes and methods. R Pack. Vers. 1, 2–3.</unstructured_citation>
+            </citation>
+            <citation key="129_CR4">
+              <journal_title>SERRA</journal_title>
+              <author>H Bayraktar</author>
+              <volume>19</volume>
+              <issue>4</issue>
+              <first_page>301</first_page>
+              <cYear>2005</cYear>
+              <unstructured_citation>Bayraktar, H. and Turalioglu, F. (2005). A kriging-based approach for locating a sampling site in the assessment of air quality. SERRA 19, 4, 301–305.</unstructured_citation>
+            </citation>
+            <citation key="129_CR5">
+              <journal_title>Geophysics</journal_title>
+              <author>SD Billings</author>
+              <volume>67</volume>
+              <issue>6</issue>
+              <first_page>1810</first_page>
+              <cYear>2002</cYear>
+              <doi>10.1190/1.1527081</doi>
+              <unstructured_citation>Billings, S. D., Beatson, R. K. and Newsam, G. N. (2002a). Interpolation of geophysical data using continuous global surfaces. Geophysics 67, 6, 1810–1822.</unstructured_citation>
+            </citation>
+            <citation key="129_CR6">
+              <journal_title>Geophysics</journal_title>
+              <author>SD Billings</author>
+              <volume>67</volume>
+              <issue>6</issue>
+              <first_page>1823</first_page>
+              <cYear>2002</cYear>
+              <doi>10.1190/1.1527082</doi>
+              <unstructured_citation>Billings, S. D., Beatson, R. K. and Newsam, G. N. (2002b). Smooth fitting of geophysical data using continuous global surfaces. Geophysics 67, 6, 1823–1834.</unstructured_citation>
+            </citation>
+            <citation key="129_CR7">
+              <unstructured_citation>Brown, R. and Hwang, P. (1992). Introduction to Random Signals and Applied Kalman Filtering, 2nd edn. Wiley Series in Probability and Statistics.</unstructured_citation>
+            </citation>
+            <citation key="129_CR8">
+              <doi provider="crossref">10.1002/9780470316993</doi>
+              <unstructured_citation>Chiles, J. and Delfiner, P. (1999). Geostatistics, Modeling Spatial Uncertainty. Wiley Series in Probability and statistics.</unstructured_citation>
+            </citation>
+            <citation key="129_CR9">
+              <doi provider="crossref">10.1002/9781119115151</doi>
+              <unstructured_citation>Cressie, N. (1993). Statistics for Spatial Data, revised edn. Wiley Series in Probability and Mathematical Statistics.</unstructured_citation>
+            </citation>
+            <citation key="129_CR10">
+              <journal_title>J. R. Statist. Soc. B</journal_title>
+              <author>N Cressie</author>
+              <volume>70</volume>
+              <issue>1</issue>
+              <first_page>209</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1111/j.1467-9868.2007.00633.x</doi>
+              <unstructured_citation>Cressie, N. and Johannesson, G. (2008). Fixed rank kriging for very large spatial data sets. J. R. Statist. Soc. B 70, 1, 209–226.</unstructured_citation>
+            </citation>
+            <citation key="129_CR11">
+              <doi provider="crossref">10.1137/1.9780898718881</doi>
+              <unstructured_citation>Davis, T. (2006). Direct Methods for Sparse Linear Systems. Fundamentals of Algorithms. Society for Industrial and Applied Mathematics.</unstructured_citation>
+            </citation>
+            <citation key="129_CR12">
+              <journal_title>J. R. Statist. Soc. Series B</journal_title>
+              <author>AP Dempster</author>
+              <volume>39</volume>
+              <first_page>1</first_page>
+              <cYear>1977</cYear>
+              <unstructured_citation>Dempster, A. P., Laird, N. M. and Rubin, D. B. (1977). Maximum likelihood for incomplete data via the em algorithm. J. R. Statist. Soc. Series B 39, 1–38.</unstructured_citation>
+            </citation>
+            <citation key="129_CR13">
+              <journal_title>Comput. Statist. Data Anal.</journal_title>
+              <author>A Finley</author>
+              <volume>53</volume>
+              <issue>8</issue>
+              <first_page>2873</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1016/j.csda.2008.09.008</doi>
+              <unstructured_citation>Finley, A., Sang, H., Banerjee, S. and Gelfand, A. (2008). Improving the performance of predictive process modeling for large datasets. Comput. Statist. Data Anal.
+                           53, 8, 2873–2884.</unstructured_citation>
+            </citation>
+            <citation key="129_CR14">
+              <journal_title>Biometrika</journal_title>
+              <author>M Fuentes</author>
+              <volume>89</volume>
+              <issue>1</issue>
+              <first_page>197</first_page>
+              <cYear>2002</cYear>
+              <doi>10.1093/biomet/89.1.197</doi>
+              <unstructured_citation>Fuentes, M. (2002). Spectral methods for nonstationary spatial processes. Biometrika
+                           89, 1, 197–210.</unstructured_citation>
+            </citation>
+            <citation key="129_CR15">
+              <journal_title>J. Comput. Graph. Stat.</journal_title>
+              <author>R Furrer</author>
+              <volume>15</volume>
+              <issue>3</issue>
+              <first_page>502</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1198/106186006X132178</doi>
+              <unstructured_citation>Furrer, R., Genton, M. and Nychka, D. (2006). Covariance tapering for interpolation of large spatial datasets. J. Comput. Graph. Stat. 15, 3, 502–523.</unstructured_citation>
+            </citation>
+            <citation key="129_CR16">
+              <unstructured_citation>Golub, G. and Van Loan, C. (1996). Matrix Computations, 3rd edn. Johns Hopkins.</unstructured_citation>
+            </citation>
+            <citation key="129_CR17">
+              <unstructured_citation>Goovaerts, P. (1997). Geostatistics for Natural Resource Evaluation. Springer.</unstructured_citation>
+            </citation>
+            <citation key="129_CR18">
+              <journal_title>Soc. Indus. Appl. Math. Rev.</journal_title>
+              <author>H Henderson</author>
+              <volume>23</volume>
+              <issue>1</issue>
+              <first_page>53</first_page>
+              <cYear>1981</cYear>
+              <unstructured_citation>Henderson, H. and Searle, S. (1981). On deriving the inverse of a sum of matrices. Soc. Indus. Appl. Math. Rev. 23, 1, 53–60.</unstructured_citation>
+            </citation>
+            <citation key="129_CR19">
+              <journal_title>Environ. Ecol. Stat.</journal_title>
+              <author>D Higdon</author>
+              <volume>5</volume>
+              <issue>2</issue>
+              <first_page>173</first_page>
+              <cYear>1998</cYear>
+              <doi>10.1023/A:1009666805688</doi>
+              <unstructured_citation>Higdon, D. (1998). A process-convolution approach to modelling temperatures in the North Atlantic ocean. Environ. Ecol. Stat. 5, 2, 173–190.</unstructured_citation>
+            </citation>
+            <citation key="129_CR20">
+              <doi provider="crossref">10.1137/1.9780898718027</doi>
+              <unstructured_citation>Higham, N. (2002). Accuracy and Stability of Numerical Algorithms. Society for Industrial and Applied Mathematics, 2 edn.</unstructured_citation>
+            </citation>
+            <citation key="129_CR21">
+              <unstructured_citation>Hoaglin, D., Mosteller, F. and Tukey, J (1983). Understanding Robust and Exploratory Data Analysis. Wiley Series in Probability and Statistics.</unstructured_citation>
+            </citation>
+            <citation key="129_CR22">
+              <journal_title>Journal of Computational Graphical Statistics</journal_title>
+              <author>HC Huang</author>
+              <volume>11</volume>
+              <first_page>63</first_page>
+              <cYear>2002</cYear>
+              <doi>10.1198/106186002317375622</doi>
+              <unstructured_citation>Huang, H. C., Cressie, N. and Gabrosek, J. (2002). Fast, resolution-consistent spatial prediction of global processes from satellite data. Journal of Computational Graphical Statistics 11, 63–88.</unstructured_citation>
+            </citation>
+            <citation key="129_CR23">
+              <doi provider="crossref">10.1007/1-4020-2115-1_27</doi>
+              <unstructured_citation>Johannesson, G. and Cressie, N. (2004). Variance-covariance modeling and estimation for multi-resolution spatial models. Kluwer, Dordrecht, Sanchez-Vila, X., Carrera, J. and Gomez-Hernandez, J. (eds.), p. 319–330.</unstructured_citation>
+            </citation>
+            <citation key="129_CR24">
+              <journal_title>Environ. Ecol. Stat.</journal_title>
+              <author>G Johannesson</author>
+              <volume>14</volume>
+              <first_page>5</first_page>
+              <cYear>2007</cYear>
+              <doi>10.1007/s10651-006-0005-9</doi>
+              <unstructured_citation>Johannesson, G., Cressie, N. and Huang, H. C. (2007). Dynamic multi-resolution spatial models. Environ. Ecol. Stat. 14, 5–25.</unstructured_citation>
+            </citation>
+            <citation key="129_CR25">
+              <journal_title>J. Am. Stat. Assoc.</journal_title>
+              <author>C Johns</author>
+              <volume>98</volume>
+              <issue>464</issue>
+              <first_page>796</first_page>
+              <cYear>2003</cYear>
+              <doi>10.1198/016214503000000729</doi>
+              <unstructured_citation>Johns, C., Nychka, D. and Kittel, T.C.D. (2003). Infilling sparse records of spatial fields. J. Am. Stat. Assoc. 98, 464, 796–806.</unstructured_citation>
+            </citation>
+            <citation key="129_CR26">
+              <journal_title>J. Am. Stat. Assoc.</journal_title>
+              <author>M Katzfuss</author>
+              <volume>0</volume>
+              <first_page>ja</first_page>
+              <cYear>2016</cYear>
+              <unstructured_citation>Katzfuss, M. (2016). A multi-resolution approximation for massive spatial datasets. J. Am. Stat. Assoc. 0, ja.</unstructured_citation>
+            </citation>
+            <citation key="129_CR27">
+              <journal_title>J. Time Ser. Anal.</journal_title>
+              <author>M Katzfuss</author>
+              <volume>32</volume>
+              <first_page>430</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1111/j.1467-9892.2011.00732.x</doi>
+              <unstructured_citation>Katzfuss, M. and Cressie, N. (2011). Spatio-temporal smoothing and em estimation for massive remote-sensing data sets. J. Time Ser. Anal. 32, 430–446.</unstructured_citation>
+            </citation>
+            <citation key="129_CR28">
+              <journal_title>J. Am. Stat. Assoc.</journal_title>
+              <author>C Kaufman</author>
+              <volume>103</volume>
+              <issue>484</issue>
+              <first_page>1545</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1198/016214508000000959</doi>
+              <unstructured_citation>Kaufman, C., Schervish, M. and Nychka, D. (2008). Covariance tapering for likelihood-based estimation in large spatial data sets. J. Am. Stat. Assoc. 103, 484, 1545–1555.</unstructured_citation>
+            </citation>
+            <citation key="129_CR29">
+              <journal_title>J. Chem. Metallur. Mining Soc. South Africa</journal_title>
+              <author>D Krige</author>
+              <volume>52</volume>
+              <issue>6</issue>
+              <first_page>119</first_page>
+              <cYear>1951</cYear>
+              <unstructured_citation>Krige, D. (1951). A statistical approach to some basic mine valuation problems on the witwatersrand. J. Chem. Metallur. Mining Soc. South Africa 52, 6, 119–139.</unstructured_citation>
+            </citation>
+            <citation key="129_CR30">
+              <journal_title>J. R. Statist. Soc. Series B (Statist. Methodol.)</journal_title>
+              <author>F Lindgren</author>
+              <volume>73</volume>
+              <issue>4</issue>
+              <first_page>423</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1111/j.1467-9868.2011.00777.x</doi>
+              <unstructured_citation>Lindgren, F., Rue, H. and Lindström, J. (2011). An explicit link between Gaussian fields and Gaussian Markov random fields: the stochastic partial differential equation approach. J. R. Statist. Soc. Series B (Statist. Methodol.) 73, 4, 423–498.</unstructured_citation>
+            </citation>
+            <citation key="129_CR31">
+              <unstructured_citation>Matheron, G. (1962). Traite de Geostatistique Applique, vol. 1. Technip.</unstructured_citation>
+            </citation>
+            <citation key="129_CR32">
+              <unstructured_citation>National Weather Service (2000). Cooperative Observer Program (COOP).</unstructured_citation>
+            </citation>
+            <citation key="129_CR33">
+              <doi provider="crossref">10.1002/9781118150658.ch13</doi>
+              <unstructured_citation>Nychka, D. (2000). Spatial-process estimates as smoothers. Wiley, New York, Schimek, M. G. (ed.), p. 393–424.</unstructured_citation>
+            </citation>
+            <citation key="129_CR34">
+              <author>D Nychka</author>
+              <cYear>1996</cYear>
+              <volume_title>FUNFITS: Data Analysis and Statistical Tools for Estimating Functions</volume_title>
+              <unstructured_citation>Nychka, D., Bailey, B., Ellner, S., Haaland, P. and O’Connell, M. (1996). FUNFITS: Data Analysis and Statistical Tools for Estimating Functions. North Carolina State University, Raleigh.</unstructured_citation>
+            </citation>
+            <citation key="129_CR35">
+              <journal_title>J. Comput. Graph. Stat.</journal_title>
+              <author>D Nychka</author>
+              <volume>24</volume>
+              <issue>2</issue>
+              <first_page>579</first_page>
+              <cYear>2015</cYear>
+              <doi>10.1080/10618600.2014.914946</doi>
+              <unstructured_citation>Nychka, D., Bandyopadhyay, S., Hammerling, D., Lindgren, F. and Sain, S. (2015a). A multiresolution Gaussian process model for the analysis of large spatial datasets. J. Comput. Graph. Stat. 24, 2, 579–599.</unstructured_citation>
+            </citation>
+            <citation key="129_CR36">
+              <unstructured_citation>Nychka, D., Furrer, R., Paige, J. and Sain, S. (2015b). Fields: Tools for Spatial Data. R package version 8.3-5.</unstructured_citation>
+            </citation>
+            <citation key="129_CR37">
+              <journal_title>Stat. Model.</journal_title>
+              <author>D Nychka</author>
+              <volume>2</volume>
+              <issue>4</issue>
+              <first_page>315</first_page>
+              <cYear>2002</cYear>
+              <doi>10.1191/1471082x02st037oa</doi>
+              <unstructured_citation>Nychka, D., Wikle, C. and Royle, J. A. (2002). Multiresolution models for nonstationary spatial covariance functions. Stat. Model. 2, 4, 315–331.</unstructured_citation>
+            </citation>
+            <citation key="129_CR38">
+              <unstructured_citation>Peterson, K. and Pedersen, M. (2008). The Matrix Cookbook.</unstructured_citation>
+            </citation>
+            <citation key="129_CR39">
+              <journal_title>J. Mach. Learn. Res.</journal_title>
+              <author>J Quiñero Candela</author>
+              <volume>6</volume>
+              <first_page>1939</first_page>
+              <cYear>2005</cYear>
+              <unstructured_citation>Quiñero Candela, J. and Rasmussen, C. (2005). A unifying view of sparse approximate Gaussian process regression. J. Mach. Learn. Res. 6, 1939–1959.</unstructured_citation>
+            </citation>
+            <citation key="129_CR40">
+              <author>C Rasmussen</author>
+              <first_page>715</first_page>
+              <cYear>2006</cYear>
+              <volume_title>Gaussian Processes for Machine Learning, 38</volume_title>
+              <unstructured_citation>Rasmussen, C. and Williams, C. (2006). Gaussian Processes for Machine Learning, 38. The MIT Press, Cambridge, p. 715–719.</unstructured_citation>
+            </citation>
+            <citation key="129_CR41">
+              <journal_title>Math. Geol.</journal_title>
+              <author>A Richmond</author>
+              <volume>35</volume>
+              <issue>2</issue>
+              <first_page>195</first_page>
+              <cYear>2003</cYear>
+              <doi>10.1023/A:1023239606028</doi>
+              <unstructured_citation>Richmond, A. (2003). Financially efficient ore selection incorporating grade uncertainty. Math. Geol. 35, 2, 195–215.</unstructured_citation>
+            </citation>
+            <citation key="129_CR42">
+              <journal_title>Stat. Sci.</journal_title>
+              <author>J Sacks</author>
+              <volume>4</volume>
+              <issue>4</issue>
+              <first_page>409</first_page>
+              <cYear>1989</cYear>
+              <doi>10.1214/ss/1177012413</doi>
+              <unstructured_citation>Sacks, J., Welch, W., Mitchell, T. and Wynn, H. (1989). Design and analysis of computer experiments. Stat. Sci. 4, 4, 409–435.</unstructured_citation>
+            </citation>
+            <citation key="129_CR43">
+              <unstructured_citation>Searle, S. (2006). Matrix Algebra Useful for Statistics. Wiley Series in Probability and Statistics.</unstructured_citation>
+            </citation>
+            <citation key="129_CR44">
+              <doi provider="crossref">10.1007/0-306-47647-9</doi>
+              <unstructured_citation>Stein, A., van der Meer, F. and Gorte, B (2002). Spatial Statistics for Remote Sensing. Kluwer Academic Publishers.</unstructured_citation>
+            </citation>
+            <citation key="129_CR45">
+              <doi provider="crossref">10.1007/978-1-4612-1494-6</doi>
+              <unstructured_citation>Stein, M. (1999). Interpolation of Spatial Data. Springer.</unstructured_citation>
+            </citation>
+            <citation key="129_CR46">
+              <journal_title>J. R. Statist. Soc. Series B (Statist. Methodol.)</journal_title>
+              <author>M Stein</author>
+              <volume>66</volume>
+              <issue>2</issue>
+              <first_page>275</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1046/j.1369-7412.2003.05512.x</doi>
+              <unstructured_citation>Stein, M., Chi, Z. and Welty, L. (2004). Approximating likelihoods for large spatial data sets. J. R. Statist. Soc. Series B (Statist. Methodol.) 66, 2, 275–296.</unstructured_citation>
+            </citation>
+            <citation key="129_CR47">
+              <unstructured_citation>Vecchia, A. (1988). Estimation and model identification for continuous spatial processes. J. R. Statist. Soc. Series B (Methodol.)</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

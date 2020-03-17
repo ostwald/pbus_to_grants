@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-10-24 12:46:12">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>20</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Water vapour adjustments and responses differ between climate drivers</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Øivind</given_name>
+              <surname>Hodnebrog</surname>
+              <ORCID>https://orcid.org/0000-0001-5233-8992</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gunnar</given_name>
+              <surname>Myhre</surname>
+              <ORCID>https://orcid.org/0000-0002-4309-476X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bjørn H.</given_name>
+              <surname>Samset</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kari</given_name>
+              <surname>Alterskjær</surname>
+              <ORCID>https://orcid.org/0000-0003-4650-1102</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Timothy</given_name>
+              <surname>Andrews</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Olivier</given_name>
+              <surname>Boucher</surname>
+              <ORCID>https://orcid.org/0000-0003-2328-5769</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gregory</given_name>
+              <surname>Faluvegi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dagmar</given_name>
+              <surname>Fläschner</surname>
+              <ORCID>https://orcid.org/0000-0001-6426-1857</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Piers M.</given_name>
+              <surname>Forster</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthew</given_name>
+              <surname>Kasoar</surname>
+              <ORCID>https://orcid.org/0000-0001-5571-8843</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alf</given_name>
+              <surname>Kirkevåg</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jean-Francois</given_name>
+              <surname>Lamarque</surname>
+              <ORCID>https://orcid.org/0000-0002-4225-5074</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dirk</given_name>
+              <surname>Olivié</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas B.</given_name>
+              <surname>Richardson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dilshad</given_name>
+              <surname>Shawki</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Drew</given_name>
+              <surname>Shindell</surname>
+              <ORCID>https://orcid.org/0000-0003-1552-4715</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Keith P.</given_name>
+              <surname>Shine</surname>
+              <ORCID>https://orcid.org/0000-0003-2672-9978</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Philip</given_name>
+              <surname>Stier</surname>
+              <ORCID>https://orcid.org/0000-0002-1191-0128</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Toshihiko</given_name>
+              <surname>Takemura</surname>
+              <ORCID>https://orcid.org/0000-0002-2859-6067</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Apostolos</given_name>
+              <surname>Voulgarakis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Duncan</given_name>
+              <surname>Watson-Parris</surname>
+              <ORCID>https://orcid.org/0000-0002-5312-4950</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[Abstract. Water vapour in the atmosphere is the source of a major climate feedback
+mechanism and potential increases in the availability of water vapour could
+have important consequences for mean and extreme precipitation. Future
+precipitation changes further depend on how the hydrological cycle responds
+to different drivers of climate change, such as greenhouse gases and
+aerosols. Currently, neither the total anthropogenic influence on the
+hydrological cycle nor that from individual drivers is constrained
+sufficiently to make solid projections. We investigate how integrated water
+vapour (IWV) responds to different drivers of climate change. Results from
+11 global climate models have been used, based on simulations where
+CO2, methane, solar irradiance, black carbon (BC), and sulfate have
+been perturbed separately. While the global-mean IWV is usually assumed to
+increase by ∼7 % per kelvin of surface temperature change, we find that the feedback response of IWV differs somewhat between drivers. Fast responses, which include the initial radiative effect and rapid adjustments to an external forcing, amplify these differences. The resulting net changes in IWV range from 6.4±0.9 % K−1 for sulfate to 9.8±2 % K−1 for BC. We further calculate the relationship between global changes in IWV and precipitation, which can be characterized by quantifying changes in atmospheric water vapour lifetime. Global climate models simulate a substantial increase in the lifetime, from 8.2±0.5
+to 9.9±0.7 d between 1986–2005 and 2081–2100 under a high-emission
+scenario, and we discuss to what extent the water vapour lifetime provides
+additional information compared to analysis of IWV and precipitation
+separately. We conclude that water vapour lifetime changes are an important
+indicator of changes in precipitation patterns and that BC is particularly
+efficient in prolonging the mean time, and therefore likely the distance,
+between evaporation and precipitation.]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>17</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>12887</first_page>
+            <last_page>12899</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Natural Environment Research Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000270</assertion>
+              </assertion>
+              <assertion name="award_number">NE/K500872/1</assertion>
+              <assertion name="award_number">NE/K007483/1</assertion>
+              <assertion name="award_number">NE/L01355X/1</assertion>
+              <assertion name="award_number">NE/J022624/1</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Horizon 2020
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100007601</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.1175/bams-d-16-0019.1</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.1175/BAMS-D-11-00094.1</inter_work_relation>
+            </related_item>
+            <related_item>
+              <intra_work_relation relationship-type="hasPreprint" identifier-type="doi">10.5194/acp-2019-121</intra_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-19-12887-2019</doi>
+            <resource>https://www.atmos-chem-phys.net/19/12887/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/19/12887/2019/acp-19-12887-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2012GL051937</doi>
+              <unstructured_citation>Aggarwal, P. K., Alduchov, O. A., Froehlich, K. O., Araguas-Araguas, L. J.,
+Sturchio, N. C., and Kurita, N.: Stable isotopes in global precipitation: A
+unified interpretation based on atmospheric moisture residence time,
+Geophys. Res. Lett., 39, L11705, https://doi.org/10.1029/2012gl051937, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1038/ngeo2739</doi>
+              <unstructured_citation>Aggarwal, P. K., Romatschke, U., Araguas-Araguas, L., Belachew, D.,
+Longstaffe, F. J., Berg, P., Schumacher, C., and Funk, A.: Proportions of
+convective and stratiform precipitation revealed in water isotope ratios,
+Nat. Geosci., 9, 624–629, https://doi.org/10.1038/ngeo2739, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1038/nature01092</doi>
+              <unstructured_citation>Allen, M. R. and Ingram, W. J.: Constraints on future changes in climate
+and the hydrologic cycle, Nature, 419, 224–232, https://doi.org/10.1038/nature01092,
+2002. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2010GL043991</doi>
+              <unstructured_citation>Andrews, T., Forster, P. M., Boucher, O., Bellouin, N., and Jones, A.:
+Precipitation, radiative forcing and global temperature change, Geophys.
+Res. Lett., 37, L14701, https://doi.org/10.1029/2010gl043991, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1007/s00382-009-0583-y</doi>
+              <unstructured_citation>Bala, G., Caldeira, K., and Nemani, R.: Fast versus slow response in climate
+change: implications for the global hydrological cycle, Clim. Dynam., 35,
+423–434, https://doi.org/10.1007/s00382-009-0583-y, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/jgrd.50171</doi>
+              <unstructured_citation>Bond, T. C., Doherty, S. J., Fahey, D. W., Forster, P. M., Berntsen, T.,
+DeAngelo, B. J., Flanner, M. G., Ghan, S., Kärcher, B., Koch, D., Kinne,
+S., Kondo, Y., Quinn, P. K., Sarofim, M. C., Schultz, M. G., Schulz, M.,
+Venkataraman, C., Zhang, H., Zhang, S., Bellouin, N., Guttikunda, S. K.,
+Hopke, P. K., Jacobson, M. Z., Kaiser, J. W., Klimont, Z., Lohmann, U.,
+Schwarz, J. P., Shindell, D., Storelvmo, T., Warren, S. G., and Zender, C.
+S.: Bounding the role of black carbon in the climate system: A scientific
+assessment, J. Geophys. Res.-Atmos., 118, 5380–5552,
+https://doi.org/10.1002/jgrd.50171, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1038/ngeo2398</doi>
+              <unstructured_citation>Bony, S., Stevens, B., Frierson, D. M. W., Jakob, C., Kageyama, M., Pincus,
+R., Shepherd, T. G., Sherwood, S. C., Siebesma, A. P., Sobel, A. H.,
+Watanabe, M., and Webb, M. J.: Clouds, circulation and climate sensitivity,
+Nat. Geosci., 8, 261–268, https://doi.org/10.1038/ngeo2398, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/JCLI3357.1</doi>
+              <unstructured_citation>Bosilovich, M. G., Schubert, S. D., and Walker, G. K.: Global changes of the
+water cycle intensity, J. Climate, 18, 1591–1608, https://doi.org/10.1175/jcli3357.1,
+2005. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G., Forster,
+P., Kerminen, V.-M., Kondo, Y., Liao, H., Lohmann, U., Rasch, P., Satheesh,
+S. K., Sherwood, S., Stevens, B., and Zhang, X. Y.: Clouds and Aerosols, in:
+Climate Change 2013: The Physical Science Basis. Contribution of Working
+Group I to the Fifth Assessment Report of the Intergovernmental Panel on
+Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor,
+M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley,
+P. M., Cambridge University Press, Cambridge, United Kingdom and New York,
+NY, USA, 571–658, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1175/JCLI-D-16-0351.1</doi>
+              <unstructured_citation>Byrne, M. P. and O'Gorman, P. A.: Understanding Decreases in Land Relative
+Humidity with Global Warming: Conceptual Model and GCM Simulations, J.
+Climate, 29, 9045–9061, https://doi.org/10.1175/jcli-d-16-0351.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1073/pnas.1409659111</doi>
+              <unstructured_citation>Chung, E. S., Soden, B., Sohn, B. J., and Shi, L.: Upper-tropospheric
+moistening in response to anthropogenic warming, P. Natl. Acad. Sci. USA, 111, 11636–11641, https://doi.org/10.1073/pnas.1409659111, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2017JD027915</doi>
+              <unstructured_citation>Dee, S. G., Nusbaumer, J., Bailey, A., Russell, J. M., Lee, J. E., Konecky,
+B., Buenning, N. H., and Noone, D. C.: Tracking the Strength of the Walker
+Circulation With Stable Isotopes in Water Vapor, J. Geophys. Res.-Atmos.,
+123, 7254–7270, https://doi.org/10.1029/2017jd027915, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1007/s00382-002-0259-3</doi>
+              <unstructured_citation>Douville, H., Chauvin, F., Planton, S., Royer, J. F., Salas-Mélia, D., and Tyteca, S.: Sensitivity of the hydrological cycle to increasing amounts of greenhouse gases and aerosols, Clim. Dynam., 20, 45–68,
+https://doi.org/10.1007/s00382-002-0259-3, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/JCLI-D-15-0351.1</doi>
+              <unstructured_citation>Fläschner, D., Mauritsen, T., and Stevens, B.: Understanding the Intermodel
+Spread in Global-Mean Hydrological Sensitivity, J. Climate, 29, 801–817,
+https://doi.org/10.1175/jcli-d-15-0351.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/JCLI3990.1</doi>
+              <unstructured_citation>Held, I. M. and Soden, B. J.: Robust responses of the hydrological cycle to
+global warming, J. Climate, 19, 5686–5699, https://doi.org/10.1175/jcli3990.1, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1038/ncomms6065</doi>
+              <unstructured_citation>Hodnebrog, Ø., Myhre, G., and Samset, B. H.: How shorter black carbon
+lifetime alters its climate effect, Nat. Commun., 5, 5065,
+https://doi.org/10.1038/ncomms6065, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/JCLI-D-17-0421.1</doi>
+              <unstructured_citation>Kao, A., Jiang, X., Li, L. M., Trammell, J. H., Zhang, G. J., Su, H., Jiang,
+J. H., and Yung, Y. L.: A Comparative Study of Atmospheric Moisture
+Recycling Rate between Observations and Models, J. Climate, 31, 2389–2398,
+https://doi.org/10.1175/jcli-d-17-0421.1, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1002/grl.50318</doi>
+              <unstructured_citation>Kvalevåg, M. M., Samset, B. H., and Myhre, G.: Hydrological sensitivity
+to greenhouse gases and aerosols in a global climate model, Geophys. Res.
+Lett., 40, 1432–1438, https://doi.org/10.1002/grl.50318, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1002/2015GL067449</doi>
+              <unstructured_citation>Läderach, A. and Sodemann, H.: A revised picture of the atmospheric
+moisture residence time, Geophys. Res. Lett., 43, 924–933,
+https://doi.org/10.1002/2015gl067449, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1088/1748-9326/6/3/034018</doi>
+              <unstructured_citation>Li, L. M., Jiang, X., Chahine, M. T., Olsen, E. T., Fetzer, E. J., Chen, L.
+K., and Yung, Y. L.: The recycling rate of atmospheric moisture over the
+past two decades (1988–2009), Environ. Res. Lett., 6, 034018,
+https://doi.org/10.1088/1748-9326/6/3/034018, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1038/s41561-018-0210-9</doi>
+              <unstructured_citation>Markle, B. R., Steig, E. J., Roe, G. H., Winckler, G., and McConnell, J. R.:
+Concomitant variability in high-latitude aerosols, water isotopes and the
+hydrologic cycle, Nat. Geosci., 11, 853–859, https://doi.org/10.1038/s41561-018-0210-9, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Myhre, G., Shindell, D., Breìon, F.-M., Collins, W., Fuglestvedt, J., Huang,
+J., Koch, D., Lamarque, J.-F., Lee, D., Mendoza, B., Nakajima, T., Robock,
+A., Stephens, G., Takemura, T., and Zhang, H.: Anthropogenic and Natural
+Radiative Forcing, in: Climate Change 2013: The Physical Science Basis.
+Contribution of Working Group I to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin,
+D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A.,
+Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge,
+United Kingdom and New York, NY, USA, 659–740, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/BAMS-D-16-0019.1</doi>
+              <unstructured_citation>Myhre, G., Forster, P. M., Samset, B. H., Hodnebrog, O., Sillmann, J.,
+Aalbergsjo, S. G., Andrews, T., Boucher, O., Faluvegi, G., Fläschner, D.,
+Iversen, T., Kasoar, M., Kharin, V., Kirkevag, A., Lamarque, J. F., Olivie,
+D., Richardson, T. B., Shindell, D., Shine, K. P., Stjern, C. W., Takemura,
+T., Voulgarakis, A., and Zwiers, F.: PDRMIP A Precipitation Driver and
+Response Model Intercomparison Project-Protocol and Preliminary Results,
+B. Am. Meteorol. Soc., 98, 1185–1198, https://doi.org/10.1175/bams-d-16-0019.1,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2018GL079474</doi>
+              <unstructured_citation>Myhre, G., Kramer, R. J., Smith, C. J., Hodnebrog, Ø., Forster, P.,
+Soden, B., Samset, B. H., Stjern, C. W., Andrews, T., Boucher, O., Faluvegi,
+G., Fläschner, D., Kasoar, M., Kirkevåg, A., Lamarque, J.-F.,
+Olivié, D., Richardson, T., Shindell, D., Stier, P., Takemura, T.,
+Voulgarakis, A., and Watson-Parris, D.: Quantifying the importance of rapid
+adjustments for global precipitation changes, Geophys. Res. Lett., 45, 11399–11405, https://doi.org/10.1029/2018GL079474, 2018a. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1038/s41467-018-04307-4</doi>
+              <unstructured_citation>Myhre, G., Samset, B. H., Hodnebrog, Ø., Andrews, T., Boucher, O.,
+Faluvegi, G., Fläschner, D., Forster, P. M., Kasoar, M., Kharin, V.,
+Kirkevåg, A., Lamarque, J. F., Olivié, D., Richardson, T. B.,
+Shawki, D., Shindell, D., Shine, K. P., Stjern, C. W., Takemura, T., and
+Voulgarakis, A.: Sensible heat has significantly affected the global
+hydrological cycle over the historical period, Nat. Commun., 9, 1922, https://doi.org/10.1038/s41467-018-04307-4, 2018b. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1007/s40641-015-0009-3</doi>
+              <unstructured_citation>O'Gorman, P. A.: Precipitation Extremes Under Climate Change, Current
+Climate Change Reports, 1, 49–59, https://doi.org/10.1007/s40641-015-0009-3, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1088/1748-9326/5/2/025207</doi>
+              <unstructured_citation>O'Gorman, P. A. and Muller, C. J.: How closely do changes in surface and
+column water vapor follow Clausius-Clapeyron scaling in climate change
+simulations?, Environ. Res. Lett., 5, 025207, https://doi.org/10.1088/1748-9326/5/2/025207, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1073/pnas.0907610106</doi>
+              <unstructured_citation>O'Gorman, P. A. and Schneider, T.: The physical basis for increases in
+precipitation extremes in simulations of 21st-century climate change, P.
+Natl. Acad. Sci. USA, 106, 14773–14777, https://doi.org/10.1073/pnas.0907610106,
+2009. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1007/s10712-011-9159-6</doi>
+              <unstructured_citation>O'Gorman, P. A., Allan, R. P., Byrne, M. P., and Previdi, M.: Energetic
+Constraints on Precipitation Under Climate Change, Surv. Geophys., 33, 585–608, https://doi.org/10.1007/s10712-011-9159-6, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1002/2017GL076520</doi>
+              <unstructured_citation>Richardson, T. B., Forster, P. M., Andrews, T., Boucher, O., Faluvegi, G.,
+Fläschner, D., Kasoar, M., Kirkevag, A., Lamarque, J. F., Myhre, G., Olivié, D., Samset, B. H., Shawki, D., Shindell, D., Takemura, T., and Voulgarakis, A.: Carbon Dioxide Physiological Forcing Dominates Projected Eastern Amazonian Drying, Geophys. Res. Lett., 45, 2815–2825,
+https://doi.org/10.1002/2017gl076520, 2018a. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/JCLI-D-17-0240.1</doi>
+              <unstructured_citation>Richardson, T. B., Forster, P. M., Andrews, T., Boucher, O., Faluvegi, G.,
+Fläschner, D., Hodnebrog, Ø., Kasoar, M., Kirkevåg, A., Lamarque,
+J.-F., Myhre, G., Olivié, D., Samset, B. H., Shawki, D., Shindell, D.,
+Takemura, T., and Voulgarakis, A.: Drivers of precipitation change: An
+energetic understanding, J. Climate, 31, 9641–9657,
+https://doi.org/10.1175/jcli-d-17-0240.1, 2018b. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1038/nclimate2178</doi>
+              <unstructured_citation>Rogelj, J., Rao, S., McCollum, D. L., Pachauri, S., Klimont, Z., Krey, V.,
+and Riahi, K.: Air-pollution emission ranges consistent with the
+representative concentration pathways, Nat. Clim. Change, 4, 446–450,
+https://doi.org/10.1038/nclimate2178, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/acp-14-12465-2014</doi>
+              <unstructured_citation>Samset, B. H., Myhre, G., Herber, A., Kondo, Y., Li, S.-M., Moteki, N., Koike, M., Oshima, N., Schwarz, J. P., Balkanski, Y., Bauer, S. E., Bellouin, N., Berntsen, T. K., Bian, H., Chin, M., Diehl, T., Easter, R. C., Ghan, S. J., Iversen, T., Kirkevåg, A., Lamarque, J.-F., Lin, G., Liu, X., Penner, J. E., Schulz, M., Seland, Ø., Skeie, R. B., Stier, P., Takemura, T., Tsigaridis, K., and Zhang, K.: Modelled black carbon radiative forcing and atmospheric lifetime in AeroCom Phase II constrained by aircraft observations, Atmos. Chem. Phys., 14, 12465–12477, https://doi.org/10.5194/acp-14-12465-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1002/2016GL068064</doi>
+              <unstructured_citation>Samset, B. H., Myhre, G., Forster, P. M., Hodnebrog, O., Andrews, T.,
+Faluvegi, G., Fläschner, D., Kasoar, M., Kharin, V., Kirkevag, A., Lamarque, J. F., Olivié, D., Richardson, T., Shindell, D., Shine, K. P., Takemura, T., and Voulgarakis, A.: Fast and slow precipitation responses to individual climate forcers: A PDRMIP multimodel study, Geophys. Res. Lett., 43, 2782–2791, https://doi.org/10.1002/2016gl068064, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1073/pnas.0702872104</doi>
+              <unstructured_citation>Santer, B. D., Mears, C., Wentz, F. J., Taylor, K. E., Gleckler, P. J.,
+Wigley, T. M. L., Barnett, T. P., Boyle, J. S., Brüggemann, W., Gillett, N. P., Klein, S. A., Meehl, G. A., Nozawa, T., Pierce, D. W., Stott, P. A.,
+Washington, W. M., and Wehner, M. F.: Identification of human-induced
+changes in atmospheric moisture content, P. Natl. Acad. Sci. USA, 104, 15248–15253, https://doi.org/10.1073/pnas.0702872104, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2009RG000302</doi>
+              <unstructured_citation>Schneider, T., O'Gorman, P. A., and Levine, X. J.: Water vapor and the
+dynamics of climate changes, Rev. Geophys., 48, RG3001, https://doi.org/10.1029/2009rg000302, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/BAMS-D-13-00167.1</doi>
+              <unstructured_citation>Sherwood, S. C., Bony, S., Boucher, O., Bretherton, C., Forster, P. M.,
+Gregory, J. M., and Stevens, B.: Adjustments in the forcing-feedback
+framework for understanding climate change, B. Am. Meteorol. Soc., 96, 217–228, https://doi.org/10.1175/bams-d-13-00167.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/JCLI-D-16-0293.1</doi>
+              <unstructured_citation>Singh, H. K., Bitz, C. M., Donohoe, A., Nusbaumer, J., and Noone, D. C.:
+A Mathematical Framework for Analysis of Water Tracers. Part II:
+Understanding Large-Scale Perturbations in the Hydrological Cycle due to CO2 Doubling, J. Climate, 29, 6765—6782, https://doi.org/10.1175/jcli-d-16-0293.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2018GL079826</doi>
+              <unstructured_citation>Smith, C. J., Kramer, R. J., Myhre, G., Forster, P. M., Soden, B. J.,
+Andrews, T., Boucher, O., Faluvegi, G., Fläschner, D., Hodnebrog, O.,
+Kasoar, M., Kharin, V., Kirkevåg, A., Lamarque, J. F., Mülmenstädt, J., Olivié, D., Richardson, T., Samset, B. H., Shindell, D., Stier, P., Takemura, T., Voulgarakis, A., and Watson-Parris, D.: Understanding Rapid Adjustments to Diverse Forcing Agents, Geophys. Res. Lett., 45, 12023–12031, https://doi.org/10.1029/2018gl079826, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1002/2017JD027326</doi>
+              <unstructured_citation>Stjern, C. W., Samset, B. H., Myhre, G., Forster, P. M., Hodnebrog, O.,
+Andrews, T., Boucher, O., Faluvegi, G., Iversen, T., Kasoar, M., Kharin, V.,
+Kirkevåg, A., Lamarque, J. F., Olivié, D., Richardson, T., Shawki, D., Shindell, D., Smith, C. J., Takemura, T., and Voulgarakis, A.: Rapid
+Adjustments Cause Weak Surface Temperature Response to Increased Black
+Carbon Concentrations, J. Geophys. Res.-Atmos., 122, 11462–11481,
+https://doi.org/10.1002/2017jd027326, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An Overview of CMIP5 and
+the Experiment Design, B. Am. Meteorol. Soc., 93, 485–498,
+https://doi.org/10.1175/BAMS-D-11-00094.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1023/A:1005319109110</doi>
+              <unstructured_citation>Trenberth, K. E.: Atmospheric moisture residence times and cycling:
+Implications for rainfall rates and climate change, Climatic Change, 39,
+667–694, https://doi.org/10.1023/a:1005319109110, 1998.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/BAMS-84-9-1205</doi>
+              <unstructured_citation>Trenberth, K. E., Dai, A., Rasmussen, R. M., and Parsons, D. B.: The
+changing character of precipitation, B. Am. Meteorol. Soc., 84,
+1205–1217, https://doi.org/10.1175/bams-84-9-1205, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/2011JCLI4171.1</doi>
+              <unstructured_citation>Trenberth, K. E., Fasullo, J. T., and Mackaro, J.: Atmospheric Moisture
+Transports from Ocean to Land and Global Energy Flows in Reanalyses, J.
+Climate, 24, 4907–4924, https://doi.org/10.1175/2011jcli4171.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/hess-21-779-2017</doi>
+              <unstructured_citation>van der Ent, R. J. and Tuinenburg, O. A.: The residence time of water in the atmosphere revisited, Hydrol. Earth Syst. Sci., 21, 779–790, https://doi.org/10.5194/hess-21-779-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1007/s10584-011-0148-z</doi>
+              <unstructured_citation>van Vuuren, D. P., Edmonds, J., Kainuma, M., Riahi, K., Thomson, A.,
+Hibbard, K., Hurtt, G. C., Kram, T., Krey, V., Lamarque, J. F., Masui, T.,
+Meinshausen, M., Nakicenovic, N., Smith, S. J., and Rose, S. K.: The
+representative concentration pathways: an overview, Climatic Change, 109,
+5–31, https://doi.org/10.1007/s10584-011-0148-z, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1126/science.1140746</doi>
+              <unstructured_citation>Wentz, F. J., Ricciardulli, L., Hilburn, K., and Mears, C.: How much more
+rain will global warming bring?, Science, 317, 233–235,
+https://doi.org/10.1126/science.1140746, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1038/nclimate1932</doi>
+              <unstructured_citation>Wu, P. L., Christidis, N., and Stott, P.: Anthropogenic impact on Earth's
+hydrological cycle, Nat. Clim. Change, 3, 807–810, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1038/ngeo1931</doi>
+              <unstructured_citation>Xie, S. P., Lu, B., and Xiang, B. Q.: Similar spatial patterns of climate
+responses to aerosol and greenhouse gas changes, Nat. Geosci., 6,
+828–832, https://doi.org/10.1038/ngeo1931, 2013. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-19-12887-2019-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/19/12887/2019/acp-19-12887-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

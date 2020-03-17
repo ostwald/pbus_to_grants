@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2019-05-23 13:38:28">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Water Resources Research</full_title>
+          <abbrev_title>Water Resour. Res.</abbrev_title>
+          <issn media_type="print">0043-1397</issn>
+          <issn media_type="electronic">1944-7973</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>26</day>
+            <year>2015</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>04</month>
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>51</volume>
+          </journal_volume>
+          <issue>4</issue>
+          <doi_data>
+            <doi>10.1002/wrcr.v51.4</doi>
+            <resource>https://onlinelibrary.wiley.com/toc/19447973/51/4</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A unified approach for process‐based hydrologic modeling: 2. Model implementation and case studies</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Martyn P.</given_name>
+              <surname>Clark</surname>
+              <affiliation>Hydrometeorological Applications Program, Research Applications LaboratoryNational Center for Atmospheric ResearchBoulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Bart</given_name>
+              <surname>Nijssen</surname>
+              <affiliation>Department of Civil and Environmental EngineeringUniversity of WashingtonSeattle Washington USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jessica D.</given_name>
+              <surname>Lundquist</surname>
+              <affiliation>Department of Civil and Environmental EngineeringUniversity of WashingtonSeattle Washington USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Dmitri</given_name>
+              <surname>Kavetski</surname>
+              <affiliation>School of Civil, Environmental and Mining Engineering, University of AdelaideAdelaide South Australia Australia</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David E.</given_name>
+              <surname>Rupp</surname>
+              <affiliation>Oregon Climate Change Research Institute, College of Earth, Ocean, and Atmospheric Sciences, Oregon State UniversityCorvallis Oregon USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ross A.</given_name>
+              <surname>Woods</surname>
+              <affiliation>Faculty of EngineeringUniversity of BristolBristolUK</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jim E.</given_name>
+              <surname>Freer</surname>
+              <affiliation>School of Geographical SciencesUniversity of BristolBristolUK</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ethan D.</given_name>
+              <surname>Gutmann</surname>
+              <affiliation>Hydrometeorological Applications Program, Research Applications LaboratoryNational Center for Atmospheric ResearchBoulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew W.</given_name>
+              <surname>Wood</surname>
+              <affiliation>Hydrometeorological Applications Program, Research Applications LaboratoryNational Center for Atmospheric ResearchBoulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David J.</given_name>
+              <surname>Gochis</surname>
+              <affiliation>Hydrometeorological Applications Program, Research Applications LaboratoryNational Center for Atmospheric ResearchBoulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Roy M.</given_name>
+              <surname>Rasmussen</surname>
+              <affiliation>Hydrometeorological Applications Program, Research Applications LaboratoryNational Center for Atmospheric ResearchBoulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David G.</given_name>
+              <surname>Tarboton</surname>
+              <affiliation>Department of Civil and Environmental Engineering, Utah Water Research LaboratoryUtah State UniversityLogan Utah USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Vinod</given_name>
+              <surname>Mahat</surname>
+              <affiliation>Department of Civil and Environmental EngineeringColorado State UniversityFort Collins Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Gerald N.</given_name>
+              <surname>Flerchinger</surname>
+              <affiliation>Northwest Watershed Research Center, USDA‐Agricultural Research ServiceBoise Idaho USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Danny G.</given_name>
+              <surname>Marks</surname>
+              <affiliation>Northwest Watershed Research Center, USDA‐Agricultural Research ServiceBoise Idaho USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>20</day>
+            <year>2015</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>04</month>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>2515</first_page>
+            <last_page>2542</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1002/2015WR017200</identifier>
+          </publisher_item>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">National Oceanic and Atmospheric Administration (NOAA) Modeling Analysis Predictions and Projections (MAPP) program</assertion>
+              <assertion name="award_number">(R4310142)</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/501100008982</assertion>
+              </assertion>
+              <assertion name="award_number">(EAR-1215809)</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2015-04-20">http://onlinelibrary.wiley.com/termsAndConditions#vor</license_ref>
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2015WR017200</doi>
+            <resource>https://onlinelibrary.wiley.com/doi/abs/10.1002/2015WR017200</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://onlinelibrary.wiley.com/doi/pdf/10.1002/2015WR017200</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015WR017200</resource>
+              </item>
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015WR017200</resource>
+              </item>
+              <item>
+                <resource mime_type="application/pdf">https://onlinelibrary.wiley.com/doi/pdf/10.1002/2015WR017200</resource>
+              </item>
+              <item>
+                <resource mime_type="application/xml">https://onlinelibrary.wiley.com/doi/full-xml/10.1002/2015WR017200</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="e_1_2_8_2_1">
+              <doi>10.1137/1.9780898719604</doi>
+            </citation>
+            <citation key="e_1_2_8_3_1">
+              <unstructured_citation>Anderson E. A.(1976) A point energy and mass balance model of a snow cover NOAA Tech. Rep. NWS 19 150 pp. U.S. Natl. Weather Serv. Silver Spring Maryland USA.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_8_4_1">
+              <doi>10.1029/2008WR007042</doi>
+            </citation>
+            <citation key="e_1_2_8_5_1">
+              <unstructured_citation>1987 Martinus Nijhoff Publishers Dordrecht the Netherlands J. T. Ball I. E. Woodrow J. A. Berry J Biggens A model predicting stomatal conductance and its contribution to the control of photosynthesis under different environmental conditions 221 224</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_8_6_1">
+              <doi>10.1016/s0165-232x(02)00074-5</doi>
+            </citation>
+            <citation key="e_1_2_8_7_1">
+              <doi>10.5194/gmd-4-677-2011</doi>
+            </citation>
+            <citation key="e_1_2_8_8_1">
+              <doi>10.1016/0309-1708(93)90028-e</doi>
+            </citation>
+            <citation key="e_1_2_8_9_1">
+              <doi>10.1016/j.jhydrol.2005.07.007</doi>
+            </citation>
+            <citation key="e_1_2_8_10_1">
+              <doi>10.1002/hyp.252</doi>
+            </citation>
+            <citation key="e_1_2_8_11_1">
+              <doi>10.1029/2000GB001360</doi>
+            </citation>
+            <citation key="e_1_2_8_12_1">
+              <doi>10.1029/2010JG001593</doi>
+            </citation>
+            <citation key="e_1_2_8_13_1">
+              <doi>10.1016/0022-1694(95)02907-9</doi>
+            </citation>
+            <citation key="e_1_2_8_14_1">
+              <doi>10.1029/90WR00196</doi>
+            </citation>
+            <citation key="e_1_2_8_15_1">
+              <doi>10.1016/s0304-3800(97)00050-1</doi>
+            </citation>
+            <citation key="e_1_2_8_16_1">
+              <doi>10.1175/1520-0493(2001)129&lt;0569:caalsh&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_8_17_1">
+              <doi>10.1002/qj.49711448006</doi>
+            </citation>
+            <citation key="e_1_2_8_18_1">
+              <doi>10.1029/2009WR008894</doi>
+            </citation>
+            <citation key="e_1_2_8_19_1">
+              <doi>10.1029/2007WR006735</doi>
+            </citation>
+            <citation key="e_1_2_8_20_1">
+              <doi>10.1002/hyp.7154</doi>
+            </citation>
+            <citation key="e_1_2_8_21_1">
+              <doi>10.1029/2010WR009827</doi>
+            </citation>
+            <citation key="e_1_2_8_22_1">
+              <unstructured_citation>Clark M. P. et al. (2015a) The Structure for Unifying Multiple Modeling Alternatives (SUMMA) version 1: Technical description NCAR Technical Note NCAR/TN-514+STR 54pp. National Center for Atmospheric Research Boulder Colo. doi:10.5065/D6WQ01TD.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_8_23_1">
+              <doi>10.1002/2015WR017198</doi>
+            </citation>
+            <citation key="e_1_2_8_24_1">
+              <doi>10.1029/WR012i003p00523</doi>
+            </citation>
+            <citation key="e_1_2_8_25_1">
+              <doi>10.1029/WR018i004p00904</doi>
+            </citation>
+            <citation key="e_1_2_8_26_1">
+              <doi>10.1007/s003820050276</doi>
+            </citation>
+            <citation key="e_1_2_8_27_1">
+              <doi>10.5194/tc-5-469-2011</doi>
+            </citation>
+            <citation key="e_1_2_8_28_1">
+              <doi>10.1016/S0065-2687(08)60176-4</doi>
+            </citation>
+            <citation key="e_1_2_8_29_1">
+              <doi>10.1175/2007jhm870.1</doi>
+            </citation>
+            <citation key="e_1_2_8_30_1">
+              <doi>10.1016/j.advwatres.2012.07.013</doi>
+            </citation>
+            <citation key="e_1_2_8_31_1">
+              <doi>10.1029/2010WR010174</doi>
+            </citation>
+            <citation key="e_1_2_8_32_1">
+              <doi>10.1029/2006JD008003</doi>
+            </citation>
+            <citation key="e_1_2_8_33_1">
+              <doi>10.1006/jare.1995.0167</doi>
+            </citation>
+            <citation key="e_1_2_8_34_1">
+              <doi>10.13031/2013.31040</doi>
+            </citation>
+            <citation key="e_1_2_8_35_1">
+              <doi>10.1002/(sici)1099-1085(199610)10:10&lt;1359::aid-hyp466&gt;3.0.CO;2-n</doi>
+            </citation>
+            <citation key="e_1_2_8_36_1">
+              <doi>10.1029/96WR01240</doi>
+            </citation>
+            <citation key="e_1_2_8_37_1">
+              <doi>10.1175/jhm-d-11-093.1</doi>
+            </citation>
+            <citation key="e_1_2_8_38_1">
+              <doi>10.1016/0022-1694(69)90020-1</doi>
+            </citation>
+            <citation key="e_1_2_8_39_1">
+              <doi>10.2136/sssaj1978.03615995004200030001x</doi>
+            </citation>
+            <citation key="e_1_2_8_40_1">
+              <journal_title>J. Agric. Sci</journal_title>
+              <author>Green W. H.</author>
+              <first_page>1</first_page>
+              <volume>4</volume>
+              <issue>1</issue>
+              <cYear>1911</cYear>
+              <doi provider="crossref">10.1017/S0021859600001751</doi>
+              <article_title>Studies on soil physics. 1. The flow of air and water through soils</article_title>
+            </citation>
+            <citation key="e_1_2_8_41_1">
+              <doi>10.1029/2007gl029804</doi>
+            </citation>
+            <citation key="e_1_2_8_42_1">
+              <doi>10.1002/1099-1085(20001230)14:18&lt;3227::aid-hyp198&gt;3.0.CO;2-4</doi>
+            </citation>
+            <citation key="e_1_2_8_43_1">
+              <doi>10.1029/WR009i005p01314</doi>
+            </citation>
+            <citation key="e_1_2_8_44_1">
+              <doi>10.1175/jhm512.1</doi>
+            </citation>
+            <citation key="e_1_2_8_45_1">
+              <doi>10.1002/(sici)1099-1085(199808/09)12:10/11</doi>
+            </citation>
+            <citation key="e_1_2_8_46_1">
+              <doi>10.1098/rstb.1976.0035</doi>
+            </citation>
+            <citation key="e_1_2_8_47_1">
+              <unstructured_citation>Jordan R.(1991) A onedimensional temperature model for a snow cover Tech. Doc. for SNTHERM.89 49 pp. U.S. Army Corps of Eng. Cold Reg. Res. and Eng. Lab Hanover New Hampshire USA.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_8_48_1">
+              <doi>10.1029/2009WR008896</doi>
+            </citation>
+            <citation key="e_1_2_8_49_1">
+              <doi>10.1029/2001WR000720</doi>
+            </citation>
+            <citation key="e_1_2_8_50_1">
+              <doi>10.1029/1999JD900232</doi>
+            </citation>
+            <citation key="e_1_2_8_51_1">
+              <doi>10.1029/91JD01696</doi>
+            </citation>
+            <citation key="e_1_2_8_52_1">
+              <doi>10.1093/treephys/19.11.695</doi>
+            </citation>
+            <citation key="e_1_2_8_53_1">
+              <doi>10.1029/WR019i005p01151</doi>
+            </citation>
+            <citation key="e_1_2_8_54_1">
+              <doi>10.1002/2013WR013711</doi>
+            </citation>
+            <citation key="e_1_2_8_55_1">
+              <doi>10.1029/2011MS000045</doi>
+            </citation>
+            <citation key="e_1_2_8_56_1">
+              <doi>10.1002/hyp.344</doi>
+            </citation>
+            <citation key="e_1_2_8_57_1">
+              <doi>10.1029/94JD00483</doi>
+            </citation>
+            <citation key="e_1_2_8_58_1">
+              <doi>10.1007/bf00117978</doi>
+            </citation>
+            <citation key="e_1_2_8_59_1">
+              <doi>10.1002/(sici)1099-1085(199808/09)12:10/11</doi>
+            </citation>
+            <citation key="e_1_2_8_60_1">
+              <doi>10.1029/2011WR010438</doi>
+            </citation>
+            <citation key="e_1_2_8_61_1">
+              <doi>10.1002/hyp.10116</doi>
+            </citation>
+            <citation key="e_1_2_8_62_1">
+              <doi>10.1002/wrcr.20073</doi>
+            </citation>
+            <citation key="e_1_2_8_63_1">
+              <doi>10.1175/1520-0493(1987)115</doi>
+            </citation>
+            <citation key="e_1_2_8_64_1">
+              <doi>10.1016/j.advwatres.2012.11.012</doi>
+            </citation>
+            <citation key="e_1_2_8_65_1">
+              <doi>10.1016/j.advwatres.2008.01.020</doi>
+            </citation>
+            <citation key="e_1_2_8_66_1">
+              <doi>10.1002/hyp.1043</doi>
+            </citation>
+            <citation key="e_1_2_8_67_1">
+              <doi>10.1017/S002214300002921X</doi>
+            </citation>
+            <citation key="e_1_2_8_68_1">
+              <doi>10.1029/2011WR011412</doi>
+            </citation>
+            <citation key="e_1_2_8_69_1">
+              <doi>10.1029/WR017i005p01367</doi>
+            </citation>
+            <citation key="e_1_2_8_70_1">
+              <doi>10.1029/1999JD900377</doi>
+            </citation>
+            <citation key="e_1_2_8_71_1">
+              <doi>10.1029/2004JD004884</doi>
+            </citation>
+            <citation key="e_1_2_8_72_1">
+              <doi>10.1175/jhm538.1</doi>
+            </citation>
+            <citation key="e_1_2_8_73_1">
+              <doi>10.1029/2010JD015139</doi>
+            </citation>
+            <citation key="e_1_2_8_74_1">
+              <doi>10.1061/(asce)gm.1943-5622.0000134</doi>
+            </citation>
+            <citation key="e_1_2_8_75_1">
+              <doi>10.1016/0168-1923(95)02265-y</doi>
+            </citation>
+            <citation key="e_1_2_8_76_1">
+              <unstructured_citation>Oleson K. W. et al. (2010) Technical description of version 4.0 of the Community Land Model NCAR Tech. Note NCAR/TN‐478+STR p.257 National Center for Atmospheric Research Boulder Colo.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_8_77_1">
+              <doi>10.1022/hyp.6186</doi>
+            </citation>
+            <citation key="e_1_2_8_78_1">
+              <doi>10.2136/vzj2013.04.0071</doi>
+            </citation>
+            <citation key="e_1_2_8_79_1">
+              <doi>10.1029/2007GL030284</doi>
+            </citation>
+            <citation key="e_1_2_8_80_1">
+              <doi>10.1029/2012WR011985</doi>
+            </citation>
+            <citation key="e_1_2_8_81_1">
+              <doi>10.1002/hyp.1128</doi>
+            </citation>
+            <citation key="e_1_2_8_82_1">
+              <doi>10.1002/hyp.6787</doi>
+            </citation>
+            <citation key="e_1_2_8_83_1">
+              <doi>10.1007/bf00709229</doi>
+            </citation>
+            <citation key="e_1_2_8_84_1">
+              <doi>10.1029/2008WR007045</doi>
+            </citation>
+            <citation key="e_1_2_8_85_1">
+              <doi>10.1029/2010WR010030</doi>
+            </citation>
+            <citation key="e_1_2_8_86_1">
+              <doi>10.1002/hyp.8372</doi>
+            </citation>
+            <citation key="e_1_2_8_87_1">
+              <doi>10.1002/hyp.9619</doi>
+            </citation>
+            <citation key="e_1_2_8_88_1">
+              <doi>10.1016/s0309-1708(98)00012-8</doi>
+            </citation>
+            <citation key="e_1_2_8_89_1">
+              <doi>10.1029/2009WRr008328</doi>
+            </citation>
+            <citation key="e_1_2_8_90_1">
+              <doi>10.1029/2008WR007327</doi>
+            </citation>
+            <citation key="e_1_2_8_91_1">
+              <doi>10.1029/2009WR008648</doi>
+            </citation>
+            <citation key="e_1_2_8_92_1">
+              <doi>10.1080/01431168508948283</doi>
+            </citation>
+            <citation key="e_1_2_8_93_1">
+              <doi>10.1016/s0022-1694(02)00252-4</doi>
+            </citation>
+            <citation key="e_1_2_8_94_1">
+              <doi>10.2136/sssaj1996.03615995006000010005x</doi>
+            </citation>
+            <citation key="e_1_2_8_95_1">
+              <volume_title>Reactive Transport in Porous Media</volume_title>
+              <author>Steefel C. I.</author>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="e_1_2_8_96_1">
+              <doi>10.1029/2002WR001281</doi>
+            </citation>
+            <citation key="e_1_2_8_97_1">
+              <doi>10.1017/S0022143000002781</doi>
+            </citation>
+            <citation key="e_1_2_8_98_1">
+              <doi>10.1175/jhm528.1</doi>
+            </citation>
+            <citation key="e_1_2_8_99_1">
+              <doi>10.1029/2002WR001728</doi>
+            </citation>
+            <citation key="e_1_2_8_100_1">
+              <doi>10.2136/sssaj1980.03615995004400050002x</doi>
+            </citation>
+            <citation key="e_1_2_8_101_1">
+              <doi>10.1002/joc.3370110202</doi>
+            </citation>
+            <citation key="e_1_2_8_102_1">
+              <doi>10.1007/s00704-004-0103-2</doi>
+            </citation>
+            <citation key="e_1_2_8_103_1">
+              <doi>10.1175/1520-0469(1980)037</doi>
+            </citation>
+            <citation key="e_1_2_8_104_1">
+              <doi>10.1029/94WR00436</doi>
+            </citation>
+            <citation key="e_1_2_8_105_1">
+              <doi>10.1029/1998WR900017</doi>
+            </citation>
+            <citation key="e_1_2_8_106_1">
+              <doi>10.1175/1520-0469(1980)037</doi>
+            </citation>
+            <citation key="e_1_2_8_107_1">
+              <doi>10.1016/j.advwatres.2012.08.011</doi>
+            </citation>
+            <citation key="e_1_2_8_108_1">
+              <doi>10.1029/91jd01786</doi>
+            </citation>
+            <citation key="e_1_2_8_109_1">
+              <doi>10.1029/2010WR010090</doi>
+            </citation>
+            <citation key="e_1_2_8_110_1">
+              <doi>10.1175/1520-0442(1997)010</doi>
+            </citation>
+            <citation key="e_1_2_8_111_1">
+              <doi>10.1029/2010JD015140</doi>
+            </citation>
+            <citation key="e_1_2_8_112_1">
+              <doi>10.1029/JZ070i008p01821</doi>
+            </citation>
+            <citation key="e_1_2_8_113_1">
+              <doi>10.1029/2007WR006716</doi>
+            </citation>
+            <citation key="e_1_2_8_114_1">
+              <doi>10.5194/hess-10-981-2006</doi>
+            </citation>
+            <citation key="e_1_2_8_115_1">
+              <doi>10.1016/s0022-1694(97)00028-0</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>8</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A unified parameterization of clouds and turbulence using CLUBB and subcolumns in the Community Atmosphere Model</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>K.</given_name>
+              <surname>Thayer-Calder</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Gettelman</surname>
+              <ORCID>https://orcid.org/0000-0002-8284-2599</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>C.</given_name>
+              <surname>Craig</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Goldhaber</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>P. A.</given_name>
+              <surname>Bogenschutz</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>C.-C.</given_name>
+              <surname>Chen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>H.</given_name>
+              <surname>Morrison</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Höft</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>E.</given_name>
+              <surname>Raut</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>B. M.</given_name>
+              <surname>Griffin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J. K.</given_name>
+              <surname>Weber</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>V. E.</given_name>
+              <surname>Larson</surname>
+              <ORCID>https://orcid.org/0000-0002-0586-8525</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M. C.</given_name>
+              <surname>Wyant</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M.</given_name>
+              <surname>Wang</surname>
+              <ORCID>https://orcid.org/0000-0002-9179-228X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Z.</given_name>
+              <surname>Guo</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S. J.</given_name>
+              <surname>Ghan</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Most global climate models parameterize separate cloud types using separate parameterizations. This approach has several disadvantages, including obscure interactions between parameterizations and inaccurate triggering of cumulus parameterizations. <br><br> Alternatively, a unified cloud parameterization uses one equation set to represent all cloud types. Such cloud types include stratiform liquid and ice cloud, shallow convective cloud, and deep convective cloud. Vital to the success of a unified parameterization is a general interface between clouds and microphysics. One such interface involves drawing Monte Carlo samples of subgrid variability of temperature, water vapor, cloud liquid, and cloud ice, and feeding the sample points into a microphysics scheme. <br><br> This study evaluates a unified cloud parameterization and a Monte Carlo microphysics interface that has been implemented in the Community Atmosphere Model (CAM) version 5.3. Model computational expense is estimated, and sensitivity to the number of subcolumns is investigated. Results describing the mean climate and tropical variability from global simulations are presented. The new model shows a degradation in precipitation skill but improvements in shortwave cloud forcing, liquid water path, long-wave cloud forcing, precipitable water, and tropical wave simulation.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>01</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>3801</first_page>
+            <last_page>3821</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Science
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006132</assertion>
+              </assertion>
+              <assertion name="award_number">DE-SC0008668</assertion>
+              <assertion name="award_number">DE-SC0008323</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Division of Atmospheric and Geospace Sciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000159</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-0968640</assertion>
+              <assertion name="award_number">AGS-0968657</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Laboratory Directed Research and Development
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100007000</assertion>
+              </assertion>
+              <assertion name="award_number">DE-AC06-76RLO 1830</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-8-3801-2015</doi>
+            <resource>https://www.geosci-model-dev.net/8/3801/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/8/3801/2015/gmd-8-3801-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Barker, H. W., Pincus, R., and Morcrette, J.-J.: The M}onte Carlo Independent Column Approximation: Application within large-scale models, in: Proceedings of the {GCSS workshop, Kananaskis, Alberta, Canada, Am. Meteorol. Soc., 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Barker, H. W., Cole, J. N. S., Morcrette, J.-J., Pincus, R., Räisänen, P., von Salzen, K., and Vaillancourt, P. A.: The Monte Carlo Independent Column Approximation: An Assessment using Several Global Atmospheric Models, Q. J. Roy. Meteor. Soc., 134, 1463–1478, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Benedict, J. J. and Randall, D. A.: Observed characteristics of the MJO relative to maximum rainfall, J. Atmos. Sci., 64, 2332–2354, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Benedict, J. J. and Randall, D. A.: Structure of the Madden-J}ulian oscillation in the superparameterized {CAM, J. Atmos. Sci., 66, 3277–3296, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Bladé, I. and Hartmann, D. L.: Tropical intraseasonal oscillations in a simple nonlinear model, J. Atmos. Sci., 50, 2922–2939, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Bogenschutz, P. A. and Krueger, S. K.: A simplified PDF parameterization of subgrid-scale clouds and turbulence for cloud-resolving models, J. Adv. Model. Earth Syst., 5, 195–211, https://doi.org/10.1002/jame.20018, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Bogenschutz, P. A., Krueger, S. K., and Khairoutdinov, M.: Assumed Probability Density Functions for Shallow and Deep Convection, J. Adv. Model. Earth Syst., 2, 10, https://doi.org/10.3894/JAMES.2010.2.10, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Bogenschutz, P. A., Gettelman, A., Morrison, H., Larson, V. E., Craig, C., and Schanen, D. P.: Higher-Order Turbulence Closure and Its Impact on Climate Simulations in the Community Atmosphere Model, J. Climate, 26, 9655–9676, https://doi.org/10.1175/JCLI-D-13-00075.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Bougeault, P.: Modeling the trade-wind cumulus boundary layer. Part I: Testing the ensemble cloud relations against numerical data, J. Atmos. Sci., 38, 2414–2428, 1981a.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Bougeault, P.: Modeling the trade-wind cumulus boundary layer. P}art II: {A higher-order one-dimensional model, J. Atmos. Sci., 38, 2429–2439, 1981b.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Boyle, J. S., Klein, S. A., Lucas, D. D., Ma, H.-Y., Tannahill, J., and Xie, S.: The parametric sensitivity of CAM5's MJO, J. Geophys. Res.-Atmos., 120, 1424–1444, https://doi.org/10.1002/2014JD022507, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Bretherton, C., Peters, M. E., and Back, L. E.: Relationships between water vapor path and precipitation over the tropical oceans, J. Climate, 17, 1517–1528, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Bretherton, C. S.: Challenges in Numerical Modeling of Tropical Circulations, in: The Global Circulation of the Atmosphere, edited by: Schneider, T. and Sobel, A. H., 302–330, Princeton University Press, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Bretherton, C. S. and Park, S.: A New Moist Turbulence Parameterization in the Community Atmosphere Model, J. Climate, 22, 3422–3448, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Cheng, A. and Xu, K.-M.: Simulation of shallow cumuli and their transition to deep convective clouds by cloud-resolving models with different third-order turbulence closures, Q. J. Roy. Meteor. Soc., 132, 359–382, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Cheng, A. and Xu, K.-M.: Simulation of Boundary-Layer Cumulus and Stratocumulus Clouds Using a Cloud-Resolving Model with Low- and Third-order Turbulence Closures, J. Meteorol. Soc. Jpn., 86A, 67–86, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Chowdhary, K., Salloum, M., Debusschere, B., and Larson, V. E.: Quadrature methods for the calculation of subgrid microphysical moments, Mon. Weather Rev., 143, 2955–2972, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Computational and Information Systems Laboratory: Yellowstone: IBM iDataPlex System (University Community Computing), Boulder, CO: National Center for Atmospheric Research, available at: https://www2.cisl.ucar.edu/resources/yellowstone (last access: 20 November 2015), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Del Genio, A. D., Chen, Y., Kim, D., and Yao, M.-S.: The MJO transition from shallow to deep convection in CloudSat/CALIPSO data and GISS GCM simulations, J. Climate, 25, 3755–3770, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Donner, L. J.: A cumulus parameterization including mass fluxes, vertical momentum dynamics, and mesoscale effects, J. Atmos. Sci., 50, 889–906, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Donner, L.J., Wyman, B. L, Hemler, R.S., Horowitz, L. W., Ming, Y., Zhao, M., Golaz, J.-C., Ginoux, P., Lin, S.-J., Schwarzkopf, M. D., Austin, J., Alaka, G., Cooke, W. F., Delworth, T. L., Freidenreich, S. M., Gordon, C. T., Griffies, S. M., Held, I. M., Hurlin, W. J., Klein S. A., Knutson, T. R., Langenhorst, A. R., Lee, H.-C., Lin, Y., Magi, B. I., Malyshev, S. L., Milly, P. C. D., Naik, V., Nath, M. J., Pincus, R., Ploshay, J. J., Ramaswamy, V., Seman, C. J., Shevliakova, E., Sirutis, J. J., Stern, W. F., Stouffer R. J., Wilson, R. J., Winton, M., Wittenberg, A. T., and Zenga, F.: The Dynamical Core, Physical Parameterizations, and Basic Simulation Characteristics of the Atmospheric Component AM3 of the GFDL Global Coupled Model CM3, J. Climate, 24, 3484–3519, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Eaton, B., Goldhaber, S., and Craig, C.: CAM Reference Manual, available at: http://www.cesm.ucar.edu/models/cesm1.2/cam/docs/rm5_3/rm.html (last access: 24 November 2015), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Emanuel, K. A.: A scheme for representing cumulus convection in large-scale models, J. Atmos. Sci., 48, 2313–2329, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Firl, G.: Development of a Second-Order Closure Turbulence Model with Subgrid-Scale Condensation and Microphysics, MS Thesis, Colorado State University, Fort Collins, CO, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Frierson, D. M., Kim, D., Kang, I.-S., Lee, M.-I., and Lin, J.: Structure of AGCM-simulated convectively coupled Kelvin waves and sensitivity to convective parameterization, J. Atmos. Sci., 68, 26–45, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Gettelman, A. and Morrison, H.: Advanced Two-Moment Bulk Microphysics for Global Models. Part I: Off-Line Tests and Comparison with Other Schemes, J. Climate, 28, 1268–1287, https://doi.org/10.1175/JCLI-D-14-00102.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Gettelman, A., Morrison, H., Santos, S., Bogenschutz, P., and Caldwell, P. M.: Advanced Two-Moment Bulk Microphysics for Global Models. Part II: Global model solutions and Aerosol-Cloud Interactions, J. Climate, 28, 1288–1307, https://doi.org/10.1175/JCLI-D-14-00103.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Golaz, J.-C., Larson, V. E., and Cotton, W. R.: A PDF-based model for boundary layer clouds. Part I: Method and model description, J. Atmos. Sci., 59, 3540–3551, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Golaz, J.-C., Salzmann, M., Donner, L. J., Horowitz, L. W., Ming, Y., and Zhao, M.: Sensitivity of the aerosol indirect effect to subgrid variability in the cloud parameterization of the GFDL Atmosphere G}eneral Circulation Model {AM3, J. Climate, 24, 3145–3160, https://doi.org/10.1175/2010JCLI3945.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Grabowski, W. W.: Coupling cloud processes with the large-scale dynamics using the cloud-resolving convection parameterization (CRCP), J. Atmos. Sci., 58, 978–997, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Grabowski, W. W., Bechtold, P., Cheng, A., Forbes, R., Halliwell, C., Khairoutdinov, M., Lang, S., Nasuno, T., Petch, J., Tao, W. K., Wong, R., Wu, X., and Xu, K. M.: Daytime convective development over land: A model intercomparison based on LBA observations, Q. J. Roy. Meteor. Soc., 132, 317–344, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Griffin, B. M. and Larson, V. E.: Analytic upscaling of local microphysics parameterizations, Part II: Simulations, Q. J. Roy. Meteor. Soc., 139, 58–69, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Guo, H., Golaz, J.-C., Donner, L. J., Ginoux, P., and Hemler, R. S.: Multivariate probability density functions with dynamics in the GFDL atmospheric general circulation model: Global tests, J. Climate, 27, 2087–2108, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Guo, H., Golaz, J.-C., Donner, L., Wyman, B., Zhao, M., and Ginoux, P.: CLUBB as a unified cloud parameterization: opportunities and challenges, Geophys. Res. Lett., 42, 4540–4547, https://doi.org/10.1002/2015GL063672, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Halloway, C. E. and Neelin, J. D.: Moisture vertical structure, column water vapor, and tropical deep convection, J. Atmos. Sci., 66, 1665–1683, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Hohenegger, C. and Bretherton, C. S.: Simulating deep convection with a shallow convection scheme, Atmos. Chem. Phys., 11, 10389–10406, https://doi.org/10.5194/acp-11-10389-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Iacono, M. J., Delamere, J. S., Mlawer, E. J., Shephard, M. W., Clough, S. A., and Collins, W. D.: Radiative forcing by long-lived greenhouse gases: C}alculations with the {AER radiative transfer models, J. Geophys. Res., 113, D13103, https://doi.org/10.1029/2008JD009944, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Jakob, C. and Klein, S. A.: The role of vertically varying cloud fraction in the parameterization of microphysical processes in the ECMWF model, Q. J. Roy. Meteor. Soc., 125, 941–965, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Jess, S., Spichtinger, P., and Lohmann, U.: A statistical subgrid-scale algorithm for precipitation formation in stratiform clouds in the ECHAM5 single column model, Atmos. Chem. Phys. Discuss., 11, 9335–9374, https://doi.org/10.5194/acpd-11-9335-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Kain, J. S.: The Kain}–Fritsch Convective Parameterization: {An Update, J. Appl. Meteorol., 43, 170–181, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Khairoutdinov, M. and Randall, D. A.: A cloud resolving model as a cloud parameterization in the NCAR Community Climate System Model: Preliminary results, Geophys. Res. Lett., 28, 3617–3620, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Khairoutdinov, M., DeMott, C., and Randall, D. A.: Evaluation of the Simulated Interannual and Subseasonal Variability in an AMIP-Style Simulation Using the CSU Multiscale Modeling Framework, J. Climate, 21, 413–431, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Kim, D., Sperber, K., Stern, W., Waliser, D., Kang, I.-S., Maloney, E., Wang, W., Weickmann, K., Benedict, J., Khairoutdinov, M., Lee, M.-I., Neale, R., Suarez, M., Thayer-Calder, K., and Zhang, G.: Application of MJO simulation diagnostics to climate models, J. Climate, 22, 6413–6436, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Kim, D., Xavier, P., Maloney, E., Wheeler, M., Waliser, D., Sperber, K., Hendon, H., Zhang, C., Neale, R., Hwang, Y.-T., and Liu, H.: Process-Oriented MJO Simulation Diagnostic: Moisture Sensitivity of Simulated Convection, J. Climate, 27, 5379–5395, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Lappen, C.-L. and Randall, D. A.: Towards a unified parameterization of the boundary layer and moist convection. P}art I: {A new type of mass-flux model, J. Atmos. Sci., 58, 2021–2036, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Larson, V. E. and Golaz, J.-C.: Using probability density functions to derive consistent closure relationships among higher-order moments, Mon. Weather Rev., 133, 1023–1042, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Larson, V. E. and Griffin, B. M.: Analytic upscaling of local microphysics parameterizations, Part I: Derivation, Q. J. Roy. Meteor. Soc., 139, 46–57, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Larson, V. E. and Schanen, D. P.: The Subgrid Importance Latin Hypercube Sampler (SILHS): a multivariate subcolumn generator, Geosci. Model Dev., 6, 1813–1829, https://doi.org/10.5194/gmd-6-1813-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Larson, V. E., Wood, R., Field, P. R., Golaz, J.-C., Vonder Haar, T. H., and Cotton, W. R.: Systematic biases in the microphysics and thermodynamics of numerical models that ignore subgrid-scale variability, J. Atmos. Sci., 58, 1117–1128, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Larson, V. E., Golaz, J.-C., and Cotton, W. R.: Small-scale and mesoscale variability in cloudy boundary layers: Joint probability density functions, J. Atmos. Sci., 59, 3519–3539, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Larson, V. E., Golaz, J.-C., Jiang, H., and Cotton, W. R.: Supplying Local Microphysics Parameterizations with Information about Subgrid Variability: Latin Hypercube Sampling, J. Atmos. Sci., 62, 4010–4026, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Larson, V. E., Schanen, D. P., Wang, M., Ovchinnikov, M., and Ghan, S.: PDF parameterization of boundary layer clouds in models with horizontal grid spacings from 2 to 16 km, Mon. Weather Rev., 140, 285–306, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Lebo, Z. J., Williams, C. R., Feingold, G., and Larson, V. E.: Parameterization of the Spatial Variability of Rain for Large-Scale Models and Remote Sensing. J. Appl. Meteor. Climatol., 54, 2027–2046. https://doi.org/10.1175/JAMC-D-15-0066.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Lewellen, W. S. and Yoh, S.: Binormal model of ensemble partial cloudiness, J. Atmos. Sci., 50, 1228–1237, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Lin, J.-L., Lee, M.-I., Kim, D., Kang, I.-S., and Frierson, D. M.: The impacts of convective parameterization and moisture triggering on AGCM-simulated convectively coupled equatorial waves, J. Climate, 21, 883–909, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Liu, X., Easter, R. C., Ghan, S. J., Zaveri, R., Rasch, P., Shi, X., Lamarque, J.-F., Gettelman, A., Morrison, H., Vitt, F., Conley, A., Park, S., Neale, R., Hannay, C., Ekman, A. M. L., Hess, P., Mahowald, N., Collins, W., Iacono, M. J., Bretherton, C. S., Flanner, M. G., and Mitchell, D.: Toward a minimal representation of aerosols in climate models: description and evaluation in the Community Atmosphere Model CAM5, Geosci. Model Dev., 5, 709–739, https://doi.org/10.5194/gmd-5-709-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Manton, M. J. and Cotton, W. R.: Formulation of approximate equations for modeling moist deep convection on the mesoscale, Atmospheric science paper no. 266, Colorado State University, Fort Collins, CO, 1977.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Mellor, G. L.: The Gaussian cloud model relations, J. Atmos. Sci., 34, 356–358, 1977.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Moncrieff, M. W.: Organized convective systems: Archetypal dynamical models, mass and momentum flux theory, and parametrization, Q. J. Roy. Meteor. Soc., 118, 819–850, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Moncrieff, M. W. and Liu, C.: Representing convective organization in prediction models by a hybrid strategy, J. Atmos. Sci., 63, 3404–3420, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Morrison, H. and Gettelman, A.: A new two-moment bulk stratiform cloud microphysics scheme in the Community Atmosphere Model, Version 3 (CAM3). Part I: Description and numerical tests, J. Climate., 21, 3642–3659, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Nakanishi, M. and Niino, H.: An improved Mellor–Yamada level-3 model with condensation physics: Its design and verification, Bound.-Lay. Meteorol., 112, 1–31, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Neale, R. B., Gettelman, A., Park, S., Chen, C.-C., Lauritzen, P. H., Williamson, D. L., Conley, A. J., Kinnison, D., Marsh, D., Smith, A. K., Vitt, F., Garcia, R., Lamarque, J.-F., Mills, M., Tilmes, S., Morrison, H., Cameron-Smith, P., Collins, W. D., Iacono, M. J., Easter, R. C., Ghan, S. J., Liu, X., Rasch, P. J., and Taylor, M. A.: Description of the NCAR Community Atmosphere Model (CAM5.0), Tech. Rep. NCAR/TN-486+STR, National Center for Atmospheric Research, Boulder, CO, USA, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Neggers, R. A. J.: A Dual Mass Flux Framework for Boundary Layer Convection. Part II: Clouds, J. Atmos. Sci., 66, 1489–1506, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Neggers, R. A. J., Köhler, M., and Beljaars, A. C. M.: A Dual Mass Flux Framework for Boundary Layer Convection. Part I: Transport, J. Atmos. Sci., 66, 1465–1488, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Park, S.: A unified convection scheme (UNICON). Part I: Formulation, J. Atmos. Sci., 71, 3902–3930, 2014a.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Park, S.: A unified convection scheme (UNICON). Part II: Simulation, J. Atmos. Sci., 71, 3931–3973, 2014b.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Park, S. and Bretherton, C. S.: The University of Washington Shallow Convection and Moist Turbulence Schemes and Their Impact on Climate Simulations with the Community Atmosphere Model, J. Climate, 22, 3449–3469, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Pincus, R. and Klein, S. A.: Unresolved spatial variability and microphysical process rates in large-scale models, J. Geophys. Res., 105, 27059–27065, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Pincus, R., Barker, H. W., and Morcrette, J.-J.: A fast, flexible, approximate technique for computing radiative transfer in inhomogeneous cloud fields, J. Geophys. Res., 108, 4376, https://doi.org/10.1029/2002JD003322, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Pincus, R., Hemler, R., and Klein, S. A.: Using stochastically-generated subcolumns to represent cloud structure in a large-scale model, Mon. Weather Rev., 134, 3644–3656, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <unstructured_citation>Räisänen, P. and Barker, H. W.: Evaluation and optimization of sampling errors for the Monte Carlo Independent Column Approximation, Q. J. Roy. Meteor. Soc., 130, 2069–2085, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Räisänen, P., Barker, H. W., Khairoutdinov, M. F., Li, J., and Randall, D. A.: Stochastic generation of subgrid-scale cloudy columns for large-scale models, Q. J. Roy. Meteor. Soc., 130, 2047–2067, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Räisänen, P., Barker, H. W., and Cole, J. N. S.: The Monte Carlo Independent Column Approximation's conditional random noise: Impact on simulated climate, J. Climate, 18, 4715–4730, https://doi.org/10.1175/JCLI3556.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Räisänen, P., Järvenoja, S., Järvinen, H., Giorgetta, M., Roeckner, E., Jylhä, K., and Ruosteenoja, K.: Tests of M}onte Carlo Independent Column Approximation in the {ECHAM5 Atmospheric GCM, J. Climate, 20, 4995–5011, https://doi.org/10.1175/JCLI4290.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <unstructured_citation>Räisänen, P., Järvenoja, S., and Järvinen, H.: Noise due to the M}onte Carlo independent-column approximation: short-term and long-term impacts in {ECHAM5, Q. J. Roy. Meteor. Soc., 134, 481–495, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Raut, E. K. and Larson, V. E.: A flexible importance sampling method for integrating subgrid processes, Geosci. Model Dev. Discuss., 8, 9147–9191, https://doi.org/10.5194/gmdd-8-9147-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Siebesma, A. P., Soares, P. M. M., and Teixeira, J.: A Combined Eddy-Diffusivity Mass-Flux Approach for the Convective Boundary Layer, J. Atmos. Sci., 64, 1230–1248, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Smith, R. N. B.: A scheme for predicting layer clouds and their water content in a general circulation model, Q. J. Roy. Meteor. Soc., 116, 435–460, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Soares, P. M. M., Miranda, P. M. A., Siebesma, A. P., and Teixeira, J.: An eddy-diffusivity/mass-flux parametrization for dry and shallow cumulus convection, Q. J. Roy. Meteor. Soc., 130, 3365–3383, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Sommeria, G. and Deardorff, J. W.: Subgrid-scale condensation in models of nonprecipitating clouds, J. Atmos. Sci., 34, 344–355, 1977.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Stephens, G. L., Li, J., Wild, M., Clayson, C. A., Loeb, N., Kato, S., L'Ecuyer, T., Stackhouse, P. W. Jr., Lebsock, M., and Andrews, T.: An update on Earth's energy balance in light of the latest global observations, Nat. Geosci., 5, 691–696, https://doi.org/10.1038/NGEO1580, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Storer, R. L., Griffin, B. M., Höft, J., Weber, J. K., Raut, E., Larson, V. E., Wang, M., and Rasch, P. J.: Parameterizing deep convection using the assumed probability density function method, Geosci. Model Dev., 8, 1–19, https://doi.org/10.5194/gmd-8-1-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Sušelj, K., Teixeira, J., and Matheou, G.: Eddy diffusivity/mass flux and shallow cumulus boundary layer: An updraft PDF multiple mass flux scheme, J. Atmos. Sci., 69, 1513–1533, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Sušelj, K., Teixeira, J., and Chung, D.: A unified model for moist convective boundary layers based on a stochastic eddy-diffusivity/mass-flux parameterization, J. Atmos. Sci., 70, 1929–1953, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Sušelj, K., Hogan, T. F., and Teixeira, J.: Implementation of a stochastic eddy-diffusivity/mass-flux parameterization into the Navy Global Environmental Model, Weather Forecast., 29, 1374–1390, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Taylor, K. E.: Summarizing multiple aspects of model performance in a single diagram, J. Geophys. Res.-Atmos., 106, 7183–7192, https://doi.org/10.1029/2000JD900719, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Thayer-Calder, K. and Randall, D.: The Role of Convective Moistening in the Madden-Julian Oscillation, J. Atmos. Sci., 66, 3297–3312, https://doi.org/10.1175/2009JAS3081.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Tompkins, A. M.: A prognostic parameterization for the subgrid-scale variability of water vapor and clouds in large-scale models and its use to diagnose cloud cover, J. Atmos. Sci., 59, 1917–1942, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <unstructured_citation>Tonttila, J., Räisänen, P., and Järvinen, H.: Monte Carlo-based subgrid parameterization of vertical velocity and stratiform cloud microphysics in ECHAM5.5-HAM2, Atmos. Chem. Phys., 13, 7551–7565, https://doi.org/10.5194/acp-13-7551-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Tonttila, J., Järvinen, H., and Räisänen, P.: Explicit representation of subgrid variability in cloud microphysics yields weaker aerosol indirect effect in the ECHAM5-HAM2 climate model, Atmos. Chem. Phys., 15, 703–714, https://doi.org/10.5194/acp-15-703-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <unstructured_citation>Wheeler, M. and Kiladis, G. N.: Convectively Coupled Equatorial Waves: Analysis of Clouds and Temperature in the Wavenumber-Frequency Domain, J. Atmos. Sci., 56, 374–399, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <unstructured_citation>Wu, C.-M., Stevens, B., and Arakawa, A.: What controls the transition from shallow to deep convection?, J. Atmos. Sci., 66, 1793–1806, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>Xavier, P. K.: Intraseasonal convective moistening in CMIP3 models, J. Climate, 25, 2569–2577, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <unstructured_citation>Yano, J.-i., Redelsperger, J.-l., Bechtold, P., and Guichard, F.: Mode decomposition as a methodology for developing convective-scale representations in global models, Q. J. Roy. Meteor. Soc., 131, 2313–2336, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Zhang, G. J. and McFarlane, N. A.: Sensitivity of climate simulations to the parameterization of cumulus convection in the Canadian Climate Centre general circulation model, Atmos. Ocean, 33, 407–446, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <unstructured_citation>Zhang, M. and Bretherton, C.: Mechanisms of Low Cloud–Climate Feedback in Idealized Single-Column Simulations with the Community Atmospheric Model, Version 3 (CAM3), J. Climate, 21, 4859–4878, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

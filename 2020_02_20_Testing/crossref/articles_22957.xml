@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-11-08 11:53:11">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>21</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>New constraints on biogenic emissions using satellite-based estimates of carbon monoxide fluxes</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Helen M.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A. Anthony</given_name>
+              <surname>Bloom</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John R.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zhe</given_name>
+              <surname>Jiang</surname>
+              <ORCID>https://orcid.org/0000-0002-0086-7486</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eloise A.</given_name>
+              <surname>Marais</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Trissevgeni</given_name>
+              <surname>Stavrakou</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Benjamin</given_name>
+              <surname>Gaubert</surname>
+              <ORCID>https://orcid.org/0000-0002-6595-0686</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Forrest</given_name>
+              <surname>Lacey</surname>
+              <ORCID>https://orcid.org/0000-0003-4578-8375</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[Abstract. Biogenic non-methane volatile organic compounds (NMVOCs) emitted
+from vegetation are a primary source for the chemical production of carbon
+monoxide (CO) in the atmosphere, and these biogenic emissions account for
+about 18 % of the global CO burden. Partitioning CO fluxes to different
+source types in top-down inversion methods is challenging; typically a
+simple scaling of the posterior flux to prior flux values for fossil fuel,
+biogenic and biomass burning sources is used. Here we show top-down
+estimates of biogenic CO fluxes using a Bayesian inference approach, which
+explicitly accounts for both posterior and a priori CO flux uncertainties.
+This approach re-partitions CO fluxes following inversion of Measurements Of
+Pollution In The Troposphere (MOPITT) CO observations with the GEOS-Chem
+model, a global chemical transport model driven by assimilated meteorology
+from the NASA Goddard Earth Observing System (GEOS). We compare these
+results to the prior information for CO used to represent biogenic NMVOCs
+from GEOS-Chem, which uses the Model of Emissions of Gases and Aerosols from
+Nature (MEGAN) for biogenic emissions. We evaluate the a posteriori biogenic
+CO fluxes against top-down estimates of isoprene fluxes using Ozone
+Monitoring Instrument (OMI) formaldehyde observations. We find similar
+seasonality and spatial consistency in the posterior CO and top-down
+isoprene estimates globally. For the African savanna region, both top-down
+CO and isoprene seasonality vary significantly from the MEGAN a priori
+inventory. This method for estimating biogenic sources of CO will provide an
+independent constraint on modeled biogenic emissions and has the potential
+for diagnosing decadal-scale changes in emissions due to land-use change and
+climate variability.]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>08</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>13569</first_page>
+            <last_page>13579</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.26024/r1r2-6620</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5194/amt-7-3623-2014</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5194/acp-16-10133-2016</inter_work_relation>
+            </related_item>
+            <related_item>
+              <intra_work_relation relationship-type="hasPreprint" identifier-type="doi">10.5194/acp-2019-377</intra_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-19-13569-2019</doi>
+            <resource>https://www.atmos-chem-phys.net/19/13569/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/19/13569/2019/acp-19-13569-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/acp-11-4039-2011</doi>
+              <unstructured_citation>Akagi, S. K., Yokelson, R. J., Wiedinmyer, C., Alvarado, M. J., Reid, J. S., Karl, T., Crounse, J. D., and Wennberg, P. O.: Emission factors for open and domestic biomass burning for use in atmospheric models, Atmos. Chem. Phys., 11, 4039–4072, https://doi.org/10.5194/acp-11-4039-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1038/nclimate2313</doi>
+              <unstructured_citation>Andela, N. and van der Werf, G.: Recent trends in African fires driven by
+cropland expansion and El Niño to La Niña transition, Nat. Clim.
+Change 4, 791–795, https://doi.org/10.1038/nclimate2313, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1126/science.aal4108</doi>
+              <unstructured_citation>Andela, N., Morton, D. C., Giglio, L., Chen, Y., van der Werf, G. R.,
+Kasibhatla, P. S., DeFries, R. S., Collatz, G. J., Hantson, S., Kloster, S.,
+Bachelet, D., Forrest, M., Lasslop, G., Li, F., Mangeon, S., Melton, J. R.,
+Yue, C., and Randerson, J. T.: A human-driven decline in global burned area,
+Science, 356, 1356–1362, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1002/2016JD026121</doi>
+              <unstructured_citation>Anderson, D. C., Nicely, J. M., Wolfe, G. M., Hanisco, T. F., Salawitch, R.
+J., Canty, T. P., Dickerson, R. R., Apel, E. C., Baidar, S., Bannan, T. J.,
+Blake, N. J., Chen D., Dix, B., Fernandez, R. P., Hall, S. R., Hornbrook, R.
+S., Huey, L. G., Josse, B., Jöckel, P., Kinnison, D. E., Koenig, T. K.,
+Le Breton, M. Marécal, V., Morgenstern, O., Oman, L. D., Pan, L. L.,
+Percival, C., Plummer, D., Revell, L. E., Rozanov, E., Saiz-Lopez, A.,
+Stenke, A., Sudo, K., Tilmes., S., Ullmann, K., Volkamer, R., Weinheimer, A.
+J., and Zeng, G.: Formaldehyde in the tropical western Pacific: Chemical
+sources and sinks, convective transport, and representation in CAM-Chem and
+the CCMI models, J. Geophys. Res.-Atmos., 122, 11201–11226,
+https://doi.org/10.1002/2016JD026121, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2008JD009863</doi>
+              <unstructured_citation>Barkley, M. P., Palmer, P. I., Kuhn, U., Kesselmeier, J., Chance, K.,
+Kurosu, T. P., Martin, R. V., Helmig, D., and Guenther, A.: Net ecosystem fluxes of
+isoprene over tropical South America inferred from Global Ozone Monitoring
+Experiment (GOME) observations of HCHO columns, J. Geophys. Res.-Atmos.,
+113, D20304, https://doi.org/10.1029/2008JD009863, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/acp-16-10133-2016</doi>
+              <unstructured_citation>Bauwens, M., Stavrakou, T., Müller, J.-F., De Smedt, I., Van Roozendael, M., van der Werf, G. R., Wiedinmyer, C., Kaiser, J. W., Sindelarova, K., and Guenther, A.: Nine years of global hydrocarbon emissions based on source inversion of OMI formaldehyde observations, Atmos. Chem. Phys., 16, 10133–10158, https://doi.org/10.5194/acp-16-10133-2016, 2016 (data available at: http://emissions.aeronomie.be/index.php/omi-based/biogenic, last access: 4 November 2019). </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/bg-12-1299-2015</doi>
+              <unstructured_citation>Bloom, A. A. and Williams, M.: Constraining ecosystem carbon dynamics in a data-limited world: integrating ecological “common sense” in a model–data fusion framework, Biogeosciences, 12, 1299–1315, https://doi.org/10.5194/bg-12-1299-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/2014GL062584</doi>
+              <unstructured_citation>Bloom, A. A., Worden, J., Jiang, Z., Worden, H., Kurosu, T., Frankenberg, C., and Schimel, D.: Remote sensing constraints on South America fire traits by
+Bayesian fusion of atmospheric and surface data, Geophys. Res. Lett., 42, 1268–1274, https://doi.org/10.1002/2014GL062584, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1073/pnas.1515160113</doi>
+              <unstructured_citation>Bloom, A. A., Exbrayat, J.-F., van der Velde, I. R., Feng, L., and Williams, M.:
+The decadal state of the terrestrial carbon cycle: global retrievals
+of terrestrial carbon allocation, pools, and residence times, P. Natl Acad. Sci. USA, 113,
+1285–1290, https://doi.org/10.1073/pnas.1515160113, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Bloom, A. A., Jiang, Z., and Worden, H.: Global Carbon Monoxide (CO) Flux Estimates for 2001–2015, UCAR/NCAR – DASH Repository, https://doi.org/10.26024/r1r2-6620, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/acp-10-11501-2010</doi>
+              <unstructured_citation>Curci, G., Palmer, P. I., Kurosu, T. P., Chance, K., and Visconti, G.: Estimating European volatile organic compound emissions using satellite observations of formaldehyde from the Ozone Monitoring Instrument, Atmos. Chem. Phys., 10, 11501–11517, https://doi.org/10.5194/acp-10-11501-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/amt-7-3623-2014</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Sweeney, C., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: The MOPITT Version 6 product: algorithm enhancements and validation, Atmos. Meas. Tech., 7, 3623–3632, https://doi.org/10.5194/amt-7-3623-2014, 2014 (data available at: https://eosweb.larc.nasa.gov/datapool, last access: 22 October 2019). </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-15-12519-2015</doi>
+              <unstructured_citation>De Smedt, I., Stavrakou, T., Hendrick, F., Danckaert, T., Vlemmix, T., Pinardi, G., Theys, N., Lerot, C., Gielen, C., Vigouroux, C., Hermans, C., Fayt, C., Veefkind, P., Müller, J.-F., and Van Roozendael, M.: Diurnal, seasonal and long-term variations of global formaldehyde columns inferred from combined OMI and GOME-2 observations, Atmos. Chem. Phys., 15, 12519–12545, https://doi.org/10.5194/acp-15-12519-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-9-1647-2009</doi>
+              <unstructured_citation>Dufour, G., Wittrock, F., Camredon, M., Beekmann, M., Richter, A., Aumont, B., and Burrows, J. P.: SCIAMACHY formaldehyde observations: constraint for isoprene emission estimates over Europe?, Atmos. Chem. Phys., 9, 1647–1664, https://doi.org/10.5194/acp-9-1647-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2007JD008459</doi>
+              <unstructured_citation>Duncan, B. N., Logan, J. A., Bey, I., Megretskaia, I. A., Yantosca, R. M.,
+Novelli, P. C., Jones, N. B., and Rinsland, C. P.: Global budget of CO, 1988–1997:
+Source estimates and validation with a global model, J. Geophys. Res., 112,
+D22301, https://doi.org/10.1029/2007JD008459, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/acp-6-2273-2006</doi>
+              <unstructured_citation>Folberth, G. A., Hauglustaine, D. A., Lathière, J., and Brocheton, F.: Interactive chemistry in the Laboratoire de Météorologie Dynamique general circulation model: model description and impact analysis of biogenic hydrocarbons on tropospheric chemistry, Atmos. Chem. Phys., 6, 2273–2319, https://doi.org/10.5194/acp-6-2273-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2010JD014416</doi>
+              <unstructured_citation>Fortems-Cheiney, A., Chevallier, F., Pison, I., Bousquet, P., Szopa, S.,
+Deeter, M. N., and Clerbaux, C.: Ten years of CO emissions as seen from
+Measurements of Pollution in the Troposphere (MOPITT), J. Geophys. Res.-Atmos., 116, 5304,
+https://doi.org/10.1029/2010JD014416, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/2006JD007853</doi>
+              <unstructured_citation>Fu, T.-M., Jacob, D. J., Palmer, P. I., Chance, K., Wang, Y. X., Barletta,
+B., Blake, D. R., Stanton, J. C., and Pilling, M. J.: Space-based
+formaldehyde measurements as constraints on volatile organic compound
+emissions in east and south Asia and implications for ozone, J. Geophys.
+Res., 112, D06312, https://doi.org/10.1029/2006JD007853, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1002/2016JD024863</doi>
+              <unstructured_citation>Gaubert, B., Arellano, A. F., Barré, J., Worden, H. M., Emmons, L. K.,
+Tilmes, S., Buchholz, R. R., Vitt, F., Raeder, K., Collins, N., and Anderson,
+J. L.: Toward a chemical reanalysis in a coupled chemistry-climate model: An
+evaluation of MOPITT CO assimilation and its impact on tropospheric
+composition, J. Geophys. Res.-Atmos., 121,
+7310–7343, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1002/2017GL074987</doi>
+              <unstructured_citation>Gaubert, B., Worden, H. M., Arellano, A. F. J., Emmons, L. K., Tilmes, S.,
+Barre, J., Alonso, S. M., Vitt, F., Anderson, J. L., Alkemade, F., Houweling, S., and
+Edwards, D. P.: Chemical Feedback From Decreasing Carbon Monoxide
+Emissions, Geophys. Res. Lett., 44, 9985–9995, https://doi.org/10.1002/2017GL074987, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1007/s10584-011-0154-1</doi>
+              <unstructured_citation>Granier, C., Bessagnet, B., Bond, T., D'Angiola, A., van der Gon, H. D., Frost, G. J., Heil, A., Kaiser, J. W., and Kinne, S., Klimont, Z., Lamarque, J.-F., Liousse, C, Masui, T., Meleux, F., Mieville, A., Ohara, T., Raut, J.-C., Riahi, K., Schultz, M. G., Smith, S. J., Thompson, A., van Aardenne, J., van der Werf, G., and van Vuuren, D. P.: Evolution of anthropogenic and biomass burning emissions of air pollutants at global and regional scales during the 1980–2010 period, Climatic Change, 109, 163–190,
+https://doi.org/10.1007/s10584-011-0154-1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1073/pnas.1710465114</doi>
+              <unstructured_citation>Griscom, B. W., Adams, J., Ellis, P. W., Houghton, R. A., Lomax, G.,
+Miteva, D. A., Schlesinger, W. H., Shoch, D., Siikamäki, J. V., Smith, P.,
+Woodbury, P., Zganjar, C., Blackman, A., Campari, J., Conant, R. T., Delgado, C.,
+Elias, P., Gopalakrishna, T., Hamsik, M. R., Herrero, M., Kiesecker, J., Landis, E.,
+Laestadius, L., Leavitt, S. M., Minnemeyer, S., Polasky, S., Potapov, P.,
+Putz, F. E., Sanderman, J., Silvius, M., Wollenberg, E., and Fargione, J.:
+Natural climate solutions, P. Natl. Acad. Sci. USA,
+114, 11645–11650, https://doi.org/10.1073/pnas.1710465114, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/acp-6-3181-2006</doi>
+              <unstructured_citation>Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I., and Geron, C.: Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature), Atmos. Chem. Phys., 6, 3181–3210, https://doi.org/10.5194/acp-6-3181-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/gmd-5-1471-2012</doi>
+              <unstructured_citation>Guenther, A. B., Jiang, X., Heald, C. L., Sakulyanontvittaya, T., Duhl, T., Emmons, L. K., and Wang, X.: The Model of Emissions of Gases and Aerosols from Nature version 2.1 (MEGAN2.1): an extended and updated framework for modeling biogenic emissions, Geosci. Model Dev., 5, 1471–1492, https://doi.org/10.5194/gmd-5-1471-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-18-16931-2018</doi>
+              <unstructured_citation>Harper, K. L. and Unger, N.: Global climate forcing driven by altered BVOC fluxes from 1990 to 2010 land cover change in maritime Southeast Asia, Atmos. Chem. Phys., 18, 16931–16952, https://doi.org/10.5194/acp-18-16931-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/acp-7-2413-2007</doi>
+              <unstructured_citation>Henze, D. K., Hakami, A., and Seinfeld, J. H.: Development of the adjoint of GEOS-Chem, Atmos. Chem. Phys., 7, 2413–2433, https://doi.org/10.5194/acp-7-2413-2007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>IPCC, 2014: Climate Change 2014: Synthesis Report, Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Core Writing Team, Pachauri, R. K. and Meyer, L. A., IPCC, Geneva, Switzerland, 151 pp., available at: https://www.ipcc.ch/report/ar5/syr/, last access: 22 October 2019, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/acp-11-4705-2011</doi>
+              <unstructured_citation>Hooghiemstra, P. B., Krol, M. C., Meirink, J. F., Bergamaschi, P., van der Werf, G. R., Novelli, P. C., Aben, I., and Röckmann, T.: Optimizing global CO emission estimates using a four-dimensional variational data assimilation system and surface network observations, Atmos. Chem. Phys., 11, 4705–4723, https://doi.org/10.5194/acp-11-4705-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2011JD017043</doi>
+              <unstructured_citation>Hooghiemstra, P. B., Krol, M. C., Bergamaschi, P., de Laat, A. T. J., van
+der Werf, G. R., Novelli, P. C., Deeter, M. N., Aben, I., and Röckmann, T.: Comparing optimized CO emission estimates using MOPITT or
+NOAA surface network observations, J. Geophys. Res., 117, D06309,
+https://doi.org/10.1029/2011JD017043, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/angeo-26-2569-2008</doi>
+              <unstructured_citation>Janicot, S., Thorncroft, C. D., Ali, A., Asencio, N., Berry, G., Bock, O., Bourles, B., Caniaux, G., Chauvin, F., Deme, A., Kergoat, L., Lafore, J.-P., Lavaysse, C., Lebel, T., Marticorena, B., Mounier, F., Nedelec, P., Redelsperger, J.-L., Ravegnani, F., Reeves, C. E., Roca, R., de Rosnay, P., Schlager, H., Sultan, B., Tomasini, M., Ulanovsky, A., and ACMAD forecasters team: Large-scale overview of the summer monsoon over West Africa during the AMMA field experiment in 2006, Ann. Geophys., 26, 2569–2595, https://doi.org/10.5194/angeo-26-2569-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1002/jgrd.50216</doi>
+              <unstructured_citation>Jiang, Z., Jones, D. B. A., Worden, H. M., Deeter, M. N., Henze, D. K., Worden, J., Bowman, K. W., Brenninkmeijer, C. A. M., and Schuck, T. J.: Impact of model errors in convective transport on CO source
+estimates inferred from MOPITT CO retrievals, J. Geophys. Res.-Atmos., 118,
+2073–2083, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/acp-15-6801-2015</doi>
+              <unstructured_citation>Jiang, Z., Jones, D. B. A., Worden, J., Worden, H. M., Henze, D. K., and Wang, Y. X.: Regional data assimilation of multi-spectral MOPITT observations of CO over North America, Atmos. Chem. Phys., 15, 6801–6814, https://doi.org/10.5194/acp-15-6801-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/acp-17-4565-2017</doi>
+              <unstructured_citation>Jiang, Z., Worden, J. R., Worden, H., Deeter, M., Jones, D. B. A., Arellano, A. F., and Henze, D. K.: A 15-year record of CO emissions constrained by MOPITT CO observations, Atmos. Chem. Phys., 17, 4565–4583, https://doi.org/10.5194/acp-17-4565-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2003JD003702</doi>
+              <unstructured_citation>Jones, D. B. A., Bowman, K. W., Palmer, P. I., Worden, J. R., Jacob, D. J., Hoffman, R. N., Bey, I., and Yantosca, R. M.: Potential of observations from the tropospheric
+emission spectrometer to constrain continental sources of carbon monoxide,
+J. Geophys. Res., 108, 4789, https://doi.org/10.1029/2003JD003702, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-18-5483-2018</doi>
+              <unstructured_citation>Kaiser, J., Jacob, D. J., Zhu, L., Travis, K. R., Fisher, J. A., González Abad, G., Zhang, L., Zhang, X., Fried, A., Crounse, J. D., St. Clair, J. M., and Wisthaler, A.: High-resolution inversion of OMI formaldehyde columns to quantify isoprene emission on ecosystem-relevant scales: application to the southeast US, Atmos. Chem. Phys., 18, 5483–5497, https://doi.org/10.5194/acp-18-5483-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/acp-10-855-2010</doi>
+              <unstructured_citation>Kopacz, M., Jacob, D. J., Fisher, J. A., Logan, J. A., Zhang, L., Megretskaia, I. A., Yantosca, R. M., Singh, K., Henze, D. K., Burrows, J. P., Buchwitz, M., Khlystova, I., McMillan, W. W., Gille, J. C., Edwards, D. P., Eldering, A., Thouret, V., and Nedelec, P.: Global estimates of CO sources with high resolution by adjoint inversion of multiple satellite datasets (MOPITT, AIRS, SCIAMACHY, TES), Atmos. Chem. Phys., 10, 855–876, https://doi.org/10.5194/acp-10-855-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2003GB002199</doi>
+              <unstructured_citation>Krinner, G., Viovy, N., de Noblet-Ducoudré, N., Ogee, J., Polcher, J.,
+Friedlingstein, P., Ciais, P., Sitch, A., and Prentice, I.: A dynamical
+global vegetation model for studies of the coupled atmosphere-biosphere
+system, Global Biogeochem. Cy., 19, GB1015, https://doi.org/10.1029/2003GB002199, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1038/s41586-018-0577-1</doi>
+              <unstructured_citation>Luyssaert, S., Marie, G., Valade, A., Chen, Y. Y., Njakou Djomo, S., Ryder, J. Otto, J., Naudts, K., Lanso, A. S., Ghattas, J., and McGrath, M. J.: Trade-offs in using European forests to meet
+climate objectives, Nature, 562, 259–262, https://doi.org/10.1038/s41586-018-0577-1, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acp-12-6219-2012</doi>
+              <unstructured_citation>Marais, E. A., Jacob, D. J., Kurosu, T. P., Chance, K., Murphy, J. G., Reeves, C., Mills, G., Casadio, S., Millet, D. B., Barkley, M. P., Paulot, F., and Mao, J.: Isoprene emissions in Africa inferred from OMI observations of formaldehyde columns, Atmos. Chem. Phys., 12, 6219–6235, https://doi.org/10.5194/acp-12-6219-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-14-7693-2014</doi>
+              <unstructured_citation>Marais, E. A., Jacob, D. J., Guenther, A., Chance, K., Kurosu, T. P., Murphy, J. G., Reeves, C. E., and Pye, H. O. T.: Improved model of isoprene emissions in Africa using Ozone Monitoring Instrument (OMI) satellite observations of formaldehyde: implications for oxidants and particulate matter, Atmos. Chem. Phys., 14, 7693–7703, https://doi.org/10.5194/acp-14-7693-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-8-7673-2008</doi>
+              <unstructured_citation>Miller, S. M., Matross, D. M., Andrews, A. E., Millet, D. B., Longo, M., Gottlieb, E. W., Hirsch, A. I., Gerbig, C., Lin, J. C., Daube, B. C., Hudman, R. C., Dias, P. L. S., Chow, V. Y., and Wofsy, S. C.: Sources of carbon monoxide and formaldehyde in North America determined from high-resolution atmospheric data, Atmos. Chem. Phys., 8, 7673–7696, https://doi.org/10.5194/acp-8-7673-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2007JD008950</doi>
+              <unstructured_citation>Millet, D. B., Jacob, D. J., Boersma, K. F., Fu, T.-M., Kurosu, T. P.,
+Chance, K., Heald, C. L., and Guenther, A.: Spatial distribution of isoprene
+emissions from North America derived from formaldehyde column measurements
+by the OMI satellite sensor, J. Geophys. Res., 113, D02307,
+https://doi.org/10.1029/2007JD008950, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1002/2017GL076697</doi>
+              <unstructured_citation>Müller, J.‐F., Stavrakou, T., Bauwens, M., George, M., Hurtmans, D., Coheur, P.‐F., Clerbaux, C., and Sweeney, C.: Top‐down CO emissions based on IASI observations and hemispheric constraints on OH levels, Geophys. Res. Lett., 45, 1621–1629, https://doi.org/10.1002/2017GL076697, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Olivier, J. G. J. and Berdowski, J. J. M.: Global emissions sources and
+sinks, in: The Climate System, edited by: Berdowski, J., Guicherit, R., and
+Heij, B. J., A. A. Balkema Publishers/Swets &amp;amp;amp; Zeitlinger Publishers,
+Lisse, the Netherlands, 33–78, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2002JD002153</doi>
+              <unstructured_citation>Palmer, P. I., Jacob, D. J., Fiore, A. M., Martin, R. V., Chance, K., and
+Kurosu, T. P.: Mapping isoprene emissions over North America using formaldehyde
+column observations from space, J. Geophys. Res., 108, 4180,
+https://doi.org/10.1029/2002JD002153, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2005JD006689</doi>
+              <unstructured_citation>Palmer, P. I., Abbot, D. S., Fu, T.-M., Jacob, D. J., Chance, K., Kurosu, T.
+P., Guenther, A., Wiedinmyer, C., Stanton, J. C., Pilling, M. J., Pressley,
+S. N., Lamb, B., and Sumner, A. L.: Quantifying the seasonal and interannual
+variability of North American isoprene emissions using satellite
+observations of the formaldehyde column, J. Geophys. Res., 111, D12315,
+https://doi.org/10.1029/2005JD006689, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/2007JD008948</doi>
+              <unstructured_citation>Pfister, G. G., Emmons, L. K., Hess, P. G., Lamarque, J.-F., Orlando, J. J.,
+Walters, S., Guenther, A., Palmer, P. I., and Lawrence, P. J.: Contribution of
+isoprene to chemical budgets: A model tracer study with the NCAR CTM
+MOZART-4, J. Geophys. Res., 113, D05308, https://doi.org/10.1029/2007JD008948, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1175/JCLI-D-11-00015.1</doi>
+              <unstructured_citation>Rienecker, M. M., Suarez, M. J., Gelaro, R., Todling, R., Bacmeister, J., Liu, E.,
+Bosilovich, M. G., Schubert, S. D., Takacs, L., Kim, G., Bloom, S., Chen, J.,
+Collins, D., Conaty, A., da Silva, A., Gu, W., Joiner, J., Koster, R. D., Lucchesi, R.,
+Molod, A., Owens, T., Pawson, S., Pegion, P., Redder, C. R., Reichle, R.,
+Robertson, F. R., Ruddick, A. G., Sienkiewicz, M., and Woollen, J.: MERRA:
+NASA's Modern-Era Retrospective Analysis for Research and Applications, J. Climate, 24, 3624–3648, https://doi.org/10.1175/JCLI-D-11-00015.1, 2011 </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1038/s41467-017-02412-4</doi>
+              <unstructured_citation>Scott, C. E., Monks, S. A., Spracklen, D. V., Arnold, S. R., Forster, P. M.,
+Rap, A., Äijälä, M., Artaxo, P., Carslaw, K. S., Chipperfield,
+M. P., Ehn, M., Gilardoni, S., Heikkinen, L., Kulmala, M., Petäjä,
+T., Reddington, C. L. S., Rizzo, L. V., Swietlicki, E., Vignati, E., and
+Wilson, C.: Impact on short-lived climate forcers increases projected
+warming due to deforestation, Nat. Commun., 9, 1–9, https://doi.org/10.1038/s41467-017-02412-4, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/2004JD005629</doi>
+              <unstructured_citation>Shim, C., Wang, Y., Choi, Y., Palmer, P. I., Abbot, D. S., and Chance, K.:
+Constraining global isoprene emissions with Global Ozone Monitoring
+Experiment (GOME) formalde- hyde column measurements, J. Geophys. Res., 110,
+D24301, https://doi.org/10.1029/2004JD005629, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2005JD006896</doi>
+              <unstructured_citation>Stavrakou, T. and Müller, J.-F.: Grid-based vs. big-region approach for
+inverting CO emissions using Measurement of Pollution in the Troposphere
+(MOPITT) data, J. Geophys. Res., 111, D15304,
+https://doi.org/10.1029/2005JD006896, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/acp-9-1037-2009</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., De Smedt, I., Van Roozendael, M., van der Werf, G. R., Giglio, L., and Guenther, A.: Evaluating the performance of pyrogenic and biogenic emission inventories against one decade of space-based formaldehyde columns, Atmos. Chem. Phys., 9, 1037–1060, https://doi.org/10.5194/acp-9-1037-2009, 2009a. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/acp-9-3663-2009</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., De Smedt, I., Van Roozendael, M., van der Werf, G. R., Giglio, L., and Guenther, A.: Global emissions of non-methane hydrocarbons deduced from SCIAMACHY formaldehyde columns through 2003–2006, Atmos. Chem. Phys., 9, 3663–3679, https://doi.org/10.5194/acp-9-3663-2009, 2009b. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/acp-14-4587-2014</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., Bauwens, M., De Smedt, I., Van Roozendael, M., Guenther, A., Wild, M., and Xia, X.: Isoprene emissions over Asia 1979–2012: impact of climate and land-use changes, Atmos. Chem. Phys., 14, 4587–4605, https://doi.org/10.5194/acp-14-4587-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-15-11861-2015</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., Bauwens, M., De Smedt, I., Van Roozendael, M., De Mazière, M., Vigouroux, C., Hendrick, F., George, M., Clerbaux, C., Coheur, P.-F., and Guenther, A.: How consistent are top-down hydrocarbon emissions based on formaldehyde observations from GOME-2 and OMI?, Atmos. Chem. Phys., 15, 11861–11884, https://doi.org/10.5194/acp-15-11861-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/acp-16-7285-2016</doi>
+              <unstructured_citation>Strode, S. A., Worden, H. M., Damon, M., Douglass, A. R., Duncan, B. N., Emmons, L. K., Lamarque, J.-F., Manyin, M., Oman, L. D., Rodriguez, J. M., Strahan, S. E., and Tilmes, S.: Interpreting space-based trends in carbon monoxide with multiple models, Atmos. Chem. Phys., 16, 7285–7294, https://doi.org/10.5194/acp-16-7285-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1038/nclimate2347</doi>
+              <unstructured_citation>Unger, N.: Human land-use-driven reduction of forest volatiles cools global
+climate, Nat. Clim. Change, 4, 907–910, https://doi.org/10.1038/nclimate2347,
+2014a. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1002/2014GL061616</doi>
+              <unstructured_citation>Unger, N.: On the role of plant volatiles in anthropogenic global climate
+change, Geophys. Res. Lett., 41, 8563–8569,
+https://doi.org/10.1002/2014GL061616, 2014b. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/acp-10-11707-2010</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., Collatz, G. J., Mu, M., Kasibhatla, P. S., Morton, D. C., DeFries, R. S., Jin, Y., and van Leeuwen, T. T.: Global fire emissions and the contribution of deforestation, savanna, forest, agricultural, and peat fires (1997–2009), Atmos. Chem. Phys., 10, 11707–11735, https://doi.org/10.5194/acp-10-11707-2010, 2010.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/essd-9-697-2017</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., van Leeuwen, T. T., Chen, Y., Rogers, B. M., Mu, M., van Marle, M. J. E., Morton, D. C., Collatz, G. J., Yokelson, R. J., and Kasibhatla, P. S.: Global fire emissions estimates during 1997–2016, Earth Syst. Sci. Data, 9, 697–720, https://doi.org/10.5194/essd-9-697-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1029/2009JD012445</doi>
+              <unstructured_citation>Warneke, C., de Gouw, J. A., Del Negro, L., Brioude, J., McKeen, S., Stark, H., Kuster, W. C., Goldan, P. D., Trainer, M., Fehsenfeld, F. C., Wiedinmyer, C., Guenther, A. B., Hansel, A., Wisthaler, A., Atlas, E., Holloway, J. S., Ryerson, T. B., Peischl, J., Huey, L. G., and Case Hanks, A. T.: Biogenic emission measurement and inventories determination
+of biogenic emissions in the eastern United States and Texas and comparison
+with biogenic emission inventories, J. Geophys. Res., 115, D00F18,
+https://doi.org/10.1029/2009JD012445, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1002/grl.50937</doi>
+              <unstructured_citation>Worden, J., Jiang, Z., Jones, D. B. A., Alvarado, M., Bowman K., Frankenberg, C., Kort, E. A., Kulawik, S. S., Lee, M., Liu, J., Payne, V., Wecht, K., and Worden, H.: El Niño, the 2006 Indonesian peat fires, and the
+distribution of atmospheric methane, Geophys. Res. Lett., 40, 4938–4943, https://doi.org/10.1002/grl.50937, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1038/s41467-017-02246-0</doi>
+              <unstructured_citation>Worden, J. R., Bloom, A. A., Pandey, S., Jiang, Z., Worden, H. M., Walker, T. W., Houweling, S., and Röckmann, T.: Reduced biomass burning emissions
+reconcile conflicting estimates of the post-2006 atmospheric methane budget,
+Nat. Commun., 8, 2227, https://doi.org/10.1038/s41467-017-02246-0, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/acp-15-13433-2015</doi>
+              <unstructured_citation>Yin, Y., Chevallier, F., Ciais, P., Broquet, G., Fortems-Cheiney, A., Pison, I., and Saunois, M.: Decadal trends in global CO emissions as seen by MOPITT, Atmos. Chem. Phys., 15, 13433–13451, https://doi.org/10.5194/acp-15-13433-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1088/1748-9326/aab2b3</doi>
+              <unstructured_citation>Zheng, B., Chevallier, F., Ciais, P., Yin, Y., Deeter, M. N., Worden, H. M., Wang, Y., Zhang, Q., and He, K.: Rapid decline in carbon monoxide
+emissions and export from East Asia between years 2005 and 2016, Environ. Res. Lett., 13,
+044007, https://doi.org/10.1088/1748-9326/aab2b3, 2018. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-19-13569-2019-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/19/13569/2019/acp-19-13569-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

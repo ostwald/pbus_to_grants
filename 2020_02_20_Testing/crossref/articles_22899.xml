@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-10-21 04:07:58">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>19</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Historical (1700–2012) global multi-model estimates of the fire emissions from the Fire Modeling Intercomparison Project (FireMIP)</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Fang</given_name>
+              <surname>Li</surname>
+              <ORCID>https://orcid.org/0000-0002-3686-2257</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Maria</given_name>
+              <surname>Val Martin</surname>
+              <ORCID>https://orcid.org/0000-0001-9715-0504</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Meinrat O.</given_name>
+              <surname>Andreae</surname>
+              <ORCID>https://orcid.org/0000-0003-1968-7925</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Almut</given_name>
+              <surname>Arneth</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stijn</given_name>
+              <surname>Hantson</surname>
+              <ORCID>https://orcid.org/0000-0003-4607-9204</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Johannes W.</given_name>
+              <surname>Kaiser</surname>
+              <ORCID>https://orcid.org/0000-0003-3696-9123</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gitta</given_name>
+              <surname>Lasslop</surname>
+              <ORCID>https://orcid.org/0000-0001-9939-1459</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chao</given_name>
+              <surname>Yue</surname>
+              <ORCID>https://orcid.org/0000-0003-0026-237X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dominique</given_name>
+              <surname>Bachelet</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthew</given_name>
+              <surname>Forrest</surname>
+              <ORCID>https://orcid.org/0000-0003-1858-3489</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Erik</given_name>
+              <surname>Kluzek</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xiaohong</given_name>
+              <surname>Liu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephane</given_name>
+              <surname>Mangeon</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joe R.</given_name>
+              <surname>Melton</surname>
+              <ORCID>https://orcid.org/0000-0002-9414-064X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel S.</given_name>
+              <surname>Ward</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Anton</given_name>
+              <surname>Darmenov</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas</given_name>
+              <surname>Hickler</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Charles</given_name>
+              <surname>Ichoku</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian I.</given_name>
+              <surname>Magi</surname>
+              <ORCID>https://orcid.org/0000-0001-8131-0083</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephen</given_name>
+              <surname>Sitch</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Guido R.</given_name>
+              <surname>van der Werf</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christine</given_name>
+              <surname>Wiedinmyer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sam S.</given_name>
+              <surname>Rabin</surname>
+              <ORCID>https://orcid.org/0000-0003-4095-1129</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[Abstract. Fire emissions are a critical component of carbon and nutrient cycles and
+strongly affect climate and air quality. Dynamic global vegetation models
+(DGVMs) with interactive fire modeling provide important estimates for
+long-term and large-scale changes in fire emissions. Here we present the
+first multi-model estimates of global gridded historical fire emissions for
+1700–2012, including carbon and 33 species of trace gases and aerosols. The
+dataset is based on simulations of nine DGVMs with different
+state-of-the-art global fire models that participated in the Fire Modeling
+Intercomparison Project (FireMIP), using the same and standardized protocols
+and forcing data, and the most up-to-date fire emission factor table based
+on field and laboratory studies in various land cover types. We evaluate the
+simulations of present-day fire emissions by comparing them with
+satellite-based products. The evaluation results show that most DGVMs
+simulate present-day global fire emission totals within the range of
+satellite-based products. They can capture the high emissions over the
+tropical savannas and low emissions over the arid and sparsely vegetated
+regions, and the main features of seasonality. However, most models fail to
+simulate the interannual variability, partly due to a lack of modeling peat
+fires and tropical deforestation fires. Before the 1850s, all models show
+only a weak trend in global fire emissions, which is consistent with the
+multi-source merged historical reconstructions used as input data for CMIP6.
+On the other hand, the trends are quite different among DGVMs for the 20th
+century, with some models showing an increase and others a decrease in fire
+emissions, mainly as a result of the discrepancy in their simulated
+responses to human population density change and land use and land cover
+change (LULCC). Our study provides an important dataset for further
+development of regional and global multi-source merged historical
+reconstructions, analyses of the historical changes in fire emissions and
+their uncertainties, and quantification of the role of fire emissions in the
+Earth system. It also highlights the importance of accurately modeling the
+responses of fire emissions to LULCC and population density change in
+reducing uncertainties in historical reconstructions of fire emissions and
+providing more reliable future projections.]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>09</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>12545</first_page>
+            <last_page>12567</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">41475099</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5281/zenodo.3386620</inter_work_relation>
+            </related_item>
+            <related_item>
+              <intra_work_relation relationship-type="hasPreprint" identifier-type="doi">10.5194/acp-2019-37</intra_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-19-12545-2019</doi>
+            <resource>https://www.atmos-chem-phys.net/19/12545/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/19/12545/2019/acp-19-12545-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1088/1748-9326/7/4/044008</doi>
+              <unstructured_citation>Ahlström, A., Schurgers, G., Arneth, A., and Smith, B.: Robustness and uncertainty in terrestrial ecosystem carbon response to CMIP5 climate change projections, Environ. Res. Lett., 7, 044008, https://doi.org/10.1088/1748-9326/7/4/044008, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/acp-11-4039-2011</doi>
+              <unstructured_citation>Akagi, S. K., Yokelson, R. J., Wiedinmyer, C., Alvarado, M. J., Reid, J. S., Karl, T., Crounse, J. D., and Wennberg, P. O.: Emission factors for open and domestic biomass burning for use in atmospheric models, Atmos. Chem. Phys., 11, 4039–4072, https://doi.org/10.5194/acp-11-4039-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1126/science.aal4108</doi>
+              <unstructured_citation>Andela, N., Morton, D. C., Giglio, L., Chen, Y., van der Werf, G. R., Kasibhatla, P. S.,
+DeFries, R. S., Collatz, G. J., Hantson, S., Kloster, S., Bachelet, D., Forrest, M., Lasslop,
+G., Li, F., Mangeon, S., Melton, J. R., Yue, C., and Randerson, J. T.: A human-driven decline in global burned area, Science, 356,
+1356–1362, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/essd-11-529-2019</doi>
+              <unstructured_citation>Andela, N., Morton, D. C., Giglio, L., Paugam, R., Chen, Y., Hantson, S., van der Werf, G. R., and Randerson, J. T.: The Global Fire Atlas of individual fire size, duration, speed and direction, Earth Syst. Sci. Data, 11, 529–552, https://doi.org/10.5194/essd-11-529-2019, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/acp-19-8523-2019</doi>
+              <unstructured_citation>Andreae, M. O.: Emission of trace gases and aerosols from biomass burning – an updated assessment, Atmos. Chem. Phys., 19, 8523–8546, https://doi.org/10.5194/acp-19-8523-2019, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2000GB001382</doi>
+              <unstructured_citation>Andreae, M. O. and Merlet, P.: Emission of trace gases and aerosols from
+biomass burning, Global Biogeochem. Cy., 15, 955–966, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1016/j.earscirev.2008.03.001</doi>
+              <unstructured_citation>Andreae, M. O. and Rosenfeld, D.: Aerosol–cloud– precipitation
+interactions, Part 1, The nature and sources of cloud-active aerosols,
+Earth-Sci. Rev., 89, 13–41,
+https://doi.org/10.1016/j.earscirev.2008.03.001, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1098/rstb.2015.0346</doi>
+              <unstructured_citation>Archibald, S.: Managing the human component of fire regimes: lessons from
+Africa, Philos. T. R. Soc. B., 371, 20150346, https://doi.org/10.1098/rstb.2015.0346, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1029/2005JG000042</doi>
+              <unstructured_citation>Arora, V. K. and Boer, G.: Fire as an interactive component of dynamic
+vegetation models, J. Geophys. Res., 110, G02008, https://doi.org/10.1029/2005JG000042, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1111/gcb.13048</doi>
+              <unstructured_citation>Bachelet, K., Ferschweiler, T. J., Sheehan, B. M., Sleeter, and Zhu, Z.:
+Projected carbon stocks in the conterminous USA with land use and variable
+fire regimes, Glob. Change Biol., 21, 4548–4560, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/gmd-4-677-2011</doi>
+              <unstructured_citation>Best, M. J., Pryor, M., Clark, D. B., Rooney, G. G., Essery, R. L. H., Ménard, C. B., Edwards, J. M., Hendry, M. A., Porson, A., Gedney, N., Mercado, L. M., Sitch, S., Blyth, E., Boucher, O., Cox, P. M., Grimmond, C. S. B., and Harding, R. J.: The Joint UK Land Environment Simulator (JULES), model description – Part 1: Energy and water fluxes, Geosci. Model Dev., 4, 677–699, https://doi.org/10.5194/gmd-4-677-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/bg-11-5087-2014</doi>
+              <unstructured_citation>Bistinas, I., Harrison, S. P., Prentice, I. C., and Pereira, J. M. C.: Causal relationships versus emergent patterns in the global controls of fire frequency, Biogeosciences, 11, 5087–5101, https://doi.org/10.5194/bg-11-5087-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1038/nature06272</doi>
+              <unstructured_citation>Bond-Lamberty, B., Peckham, S. D., Ahl, D. E., and Gower, S. T.: The dominance
+of
+fire in determining carbon balance of the central Canadian boreal forest,
+Nature, 450, 89–92, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1126/science.1163886</doi>
+              <unstructured_citation>Bowman, D. M. J. S., Balch, J. K., Artaxo, P., Bond, W. J., Carlson, J. M., Cochrane, M. A., D'Antonio, C. M., DeFries, R. S., Doyle, J. C., Harrison, S. P., Johnston, F. H., Keeley, J. E., Krawchuk, M. A., Kull, C. A., Marston, J. B., Moritz, M. A., Prentice, I. C., Roos, C. I., Scott, A. C., Swetnam, T. W., van der Werf, G. R., and Pyne, S. J.: Fire in the Earth system, Science, 324,
+481–484, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/JCLI-D-12-00623.1</doi>
+              <unstructured_citation>Brovkin, V., Boysen, L., Arora, V. K., Boisier, J. P., Cadule, P., Chini, L., Claussen, M., Friedlingstein, P., Gayler, V., van den Hurk, B. J. J. M., Hurtt, G. C., Jones, C. D., Kato, E., de Noblet-Ducoudré, N., Pacifico, F., Pongratz, J., and Weiss, M.: Effect of anthropogenic land-use and land-cover changes
+on climate and land carbon storage in CMIP5 projections for the twenty-first
+century, J. Climate, 26, 6859–6881, https://doi.org/10.1175/JCLI-D-12-00623.1,
+2013. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1111/j.1365-2486.2009.02156.x</doi>
+              <unstructured_citation>Chen, Y., Randerson, J., van der Werf, G., Morton, D., Mu, M., and
+Kasibhatla, P.: Nitrogen deposition in tropical forests from savanna and
+deforestation fires, Glob. Change Biol., 16, 2024–2038, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Ciais, P., Sabine, C., Bala, G., Bopp, L., Brovkin, V., Canadell, J., Chhabra, A., DeFries, R., Galloway, J., Heimann, M., Jones, C., Le Quéré, C., Myneni, R. B., Piao, S., and Thornton, P.: Carbon and Other Biogeochemical Cycles, In: Climate
+Change 2013: The Physical Science Basis. Contribution of Working Group I to
+the Fifth Assessment Report of the Intergovernmental Panel on Climate
+Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M.,
+Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M.,
+Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA,
+467–544, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/gmd-4-701-2011</doi>
+              <unstructured_citation>Clark, D. B., Mercado, L. M., Sitch, S., Jones, C. D., Gedney, N., Best, M. J., Pryor, M., Rooney, G. G., Essery, R. L. H., Blyth, E., Boucher, O., Harding, R. J., Huntingford, C., and Cox, P. M.: The Joint UK Land Environment Simulator (JULES), model description – Part 2: Carbon fluxes and vegetation dynamics, Geosci. Model Dev., 4, 701–722, https://doi.org/10.5194/gmd-4-701-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/j.quascirev.2008.11.005</doi>
+              <unstructured_citation>Conedera, M., Tinner, W., Neff, C., Meurer, M., Dickens, A. F., and Krebs,
+P.: Reconstructing past fire regimes: methods, applications, and relevance
+to fire management and conservation, Quaternary Sci. Rev., 28, 555–576,
+https://doi.org/10.1016/j.quascirev.2008.11.005, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Darmenov, A. S. and da Silva, A.: The Quick Fire Emissions Dataset (QFED):
+Documentation of versions 2.1, 2.2 and 2.4, in: Technical Report Series on
+Global Modeling and Data Assimilation, edited by: Koster, R. D., NASA Goddard
+Space Flight Center; Greenbelt, MD, USA, 212 pp., 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1890/100052</doi>
+              <unstructured_citation>Falk, D. A., Heyerdahl, E. K., Brown, P. M., Farris, C., Fulé, P. Z.,
+McKenzie, D., Swetnam, T. W., Taylor, A. H., and Van Horne, M. L.:
+Multi-scale controls of historical forest-fire regimes: new insights from
+fire-scar networks, Front. Ecol. Environ., 9, 446–454, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1126/science.1115193</doi>
+              <unstructured_citation>Ferretti, D., Miller, J., White, J., Etheridge, D., Lassey, K., Lowe, D., Meure, C., Dreier, M., Trudinger, C., van Ommen, T., and Langenfelds, R.: Unexpected changes to the global methane budget
+over the past 2000 years, Science, 309, 1714–1717,
+https://doi.org/10.1126/science.1115193, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1038/ngeo443</doi>
+              <unstructured_citation>Field, R. D., van der Werf, G. R., and Shen, S. S. P.: Human amplification
+of drought-induced biomass burning in Indonesia since 1960, Nat. Geosci., 2,
+185–188, https://doi.org/10.1038/ngeo443, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-10-977-2010</doi>
+              <unstructured_citation>Fisher, J. A., Jacob, D. J., Purdy, M. T., Kopacz, M., Le Sager, P., Carouge, C., Holmes, C. D., Yantosca, R. M., Batchelor, R. L., Strong, K., Diskin, G. S., Fuelberg, H. E., Holloway, J. S., Hyer, E. J., McMillan, W. W., Warner, J., Streets, D. G., Zhang, Q., Wang, Y., and Wu, S.: Source attribution and interannual variability of Arctic pollution in spring constrained by aircraft (ARCTAS, ARCPAC) and satellite (AIRS) observations of carbon monoxide, Atmos. Chem. Phys., 10, 977–996, https://doi.org/10.5194/acp-10-977-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-16-14495-2016</doi>
+              <unstructured_citation>Grandey, B. S., Lee, H.-H., and Wang, C.: Radiative effects of interannually varying vs. interannually invariant aerosol emissions from fires, Atmos. Chem. Phys., 16, 14495–14513, https://doi.org/10.5194/acp-16-14495-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1038/s41467-018-05592-9</doi>
+              <unstructured_citation>Hamilton, D. S., Hantson, S., Scott, C. E., Kaplan, J. O., Pringle, K. J., Nieradzik, L. P., Rap, A., Folberth, G. A., Spracklen, D. V., and Carslaw, K. S.: Reassessment of pre-industrial fire emissions
+strongly affects anthropogenic aerosol forcing, Nat. Commun., 9, 3182, https://doi.org/10.1038/s41467-018-05592-9, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1111/geb.12246</doi>
+              <unstructured_citation>Hantson, S., Pueyo, S., and Chuvieco, E.: Global fire size distribution is
+driven by
+human impact and climate, Glob. Ecol. Biogeogr., 24, 77–86, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/bg-13-3359-2016</doi>
+              <unstructured_citation>Hantson, S., Arneth, A., Harrison, S. P., Kelley, D. I., Prentice, I. C., Rabin, S. S., Archibald, S., Mouillot, F., Arnold, S. R., Artaxo, P., Bachelet, D., Ciais, P., Forrest, M., Friedlingstein, P., Hickler, T., Kaplan, J. O., Kloster, S., Knorr, W., Lasslop, G., Li, F., Mangeon, S., Melton, J. R., Meyn, A., Sitch, S., Spessa, A., van der Werf, G. R., Voulgarakis, A., and Yue, C.: The status and challenge of global fire modelling, Biogeosciences, 13, 3359–3375, https://doi.org/10.5194/bg-13-3359-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/2016GL072042</doi>
+              <unstructured_citation>Heymann, J., Reuter, M., Buchwitz, M., Schneising, O., Bovensmann, H.,
+Burrows, J. P., Massart, S., Kaiser, J. W., and Crisp, D.: CO2 emission
+of Indonesian fires in 2015 estimated from satellite-derived atmospheric
+CO2 concentrations, Geophys. Res. Lett., 44, 1537–1544, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1007/s10584-011-0153-2</doi>
+              <unstructured_citation>Hurtt, G. C., Chini, L. P., Frolking, S., Betts, R. A., Feddema, J., Fischer, G., Fisk, J. P., Hibbard, K., Houghton, R. A., Janetos, A., Jones, C. D., Kindermann, G., Kinoshita, T., Klein Goldewijk, K., Riahi, K., Shevliakova, E., Smith, S., Stehfest, E., Thomson, A., Thornton, P., van Vuuren, D. P., and Wang, Y. P.: Harmonization of land-use scenarios for the period
+1500–2100: 600 years of global gridded annual land-use transitions, wood
+harvest, and resulting secondary lands, Climatic Change, 109, 117–161,
+https://doi.org/10.1007/s10584-011-0153-2, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-14-6643-2014</doi>
+              <unstructured_citation>Ichoku, C. and Ellison, L.: Global top-down smoke-aerosol emissions estimation using satellite fire radiative power measurements, Atmos. Chem. Phys., 14, 6643–6667, https://doi.org/10.5194/acp-14-6643-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/acp-16-14805-2016</doi>
+              <unstructured_citation>Jiang, Y., Lu, Z., Liu, X., Qian, Y., Zhang, K., Wang, Y., and Yang, X.-Q.: Impacts of global open-fire aerosols on direct radiative, cloud and surface-albedo effects simulated with CAM5, Atmos. Chem. Phys., 16, 14805–14824, https://doi.org/10.5194/acp-16-14805-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1289/ehp.1104422</doi>
+              <unstructured_citation>Johnston, F. H., Henderson, S. B., Chen, Y., Randerson, J. T., Marlier, M., DeFries, R. S., Kinney, P., Bowman, D. M. J. S., and Brauer, M.: Estimated global mortality attributable to smoke
+from landscape fires, Environ. Health Persp., 120, 695–701,
+https://doi.org/10.1289/ehp.1104422, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/bg-9-527-2012</doi>
+              <unstructured_citation>Kaiser, J. W., Heil, A., Andreae, M. O., Benedetti, A., Chubarova, N., Jones, L., Morcrette, J.-J., Razinger, M., Schultz, M. G., Suttie, M., and van der Werf, G. R.: Biomass burning emissions estimated with a global fire assimilation system based on observed fire radiative power, Biogeosciences, 9, 527–554, https://doi.org/10.5194/bg-9-527-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1038/nature12291</doi>
+              <unstructured_citation>Keenan, T. F., Hollinger, D. Y., Bohrer, G., Dragoni, D., Munger, J. W.,
+Schmid, H. P., and Richardson, A. D.: Increase in forest water-use
+efficiency as atmospheric carbon dioxide concentrations rise, Nature, 499,
+324–327, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1177/0959683609356587</doi>
+              <unstructured_citation>Klein Goldewijk, K., Beusen, A., and Janssen, P.: Long-term dynamic modeling
+of global population and built-up area in a spatially explicit way: HYDE
+3.1, Holocene, 20, 565–573, https://doi.org/10.1177/0959683609356587, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1016/j.gloplacha.2016.12.017</doi>
+              <unstructured_citation>Kloster, S. and Lasslop, G.: Historical and future fire occurrence (1850 to
+2100) simulated in CMIP5 Earth System Models, Global Planet. Change, 150,
+58–69, https://doi.org/10.1016/j.gloplacha.2016.12.017,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/bg-7-1877-2010</doi>
+              <unstructured_citation>Kloster, S., Mahowald, N. M., Randerson, J. T., Thornton, P. E., Hoffman, F. M., Levis, S., Lawrence, P. J., Feddema, J. J., Oleson, K. W., and Lawrence, D. M.: Fire dynamics during the 20th century simulated by the Community Land Model, Biogeosciences, 7, 1877–1902, https://doi.org/10.5194/bg-7-1877-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/bg-13-267-2016</doi>
+              <unstructured_citation>Knorr, W., Jiang, L., and Arneth, A.: Climate, CO2 and human population impacts on global wildfire emissions, Biogeosciences, 13, 267–282, https://doi.org/10.5194/bg-13-267-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-17-9223-2017</doi>
+              <unstructured_citation>Knorr, W., Dentener, F., Lamarque, J.-F., Jiang, L., and Arneth, A.: Wildfire air pollution hazard during the 21st century, Atmos. Chem. Phys., 17, 9223–9236, https://doi.org/10.5194/acp-17-9223-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1038/s41467-018-03374-x</doi>
+              <unstructured_citation>Kondo, M., Ichii, K., Patra, P. K., Canadell, J. G., Poulter, B., Sitch, S., Calle, L., Liu, Y. Y., van Dijk, A. I. J. M., Saeki, T., Saigusa, N., Friedlingstein, P., Arneth, A., Harper, A., Jain, A. K., Kato, E., Koven, C., Li, F., Pugh, T. A. M., Zaehle, S., Wiltshire, A., Chevallier, F., Maki, T., Nakamura, T., Niwa, Y., and Rödenbeck, C.: Land use change and El Niño-Southern Oscillation
+drive decadal carbon balance shifts in Southeast Asia, Nat. Commun., 9, 1154,
+https://doi.org/10.1038/s41467-018-03374-x, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/acp-14-10383-2014</doi>
+              <unstructured_citation>Konovalov, I. B., Berezin, E. V., Ciais, P., Broquet, G., Beekmann, M., Hadji-Lazaro, J., Clerbaux, C., Andreae, M. O., Kaiser, J. W., and Schulze, E.-D.: Constraining CO2 emissions from open biomass burning by satellite observations of co-emitted species: a method and its application to wildfires in Siberia, Atmos. Chem. Phys., 14, 10383–10410, https://doi.org/10.5194/acp-14-10383-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/acp-18-14889-2018</doi>
+              <unstructured_citation>Konovalov, I. B., Lvova, D. A., Beekmann, M., Jethva, H., Mikhailov, E. F., Paris, J.-D., Belan, B. D., Kozlov, V. S., Ciais, P., and Andreae, M. O.: Estimation of black carbon emissions from Siberian fires using satellite observations of absorption and extinction optical depths, Atmos. Chem. Phys., 18, 14889–14924, https://doi.org/10.5194/acp-18-14889-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2005GB002529</doi>
+              <unstructured_citation>Korontzi, S., McCarty, J., Loboda, T., Kumar, S., and Justice, C.: Global
+distribution of agricultural fire in croplands from 3 years of Moderate
+Resolution Imaging Spectroradiometer (MODIS) data, Global Biogeochem. Cy.,
+20, GB2021,
+https://doi.org/10.1029/2005GB002529, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2003GB002199</doi>
+              <unstructured_citation>Krinner, G., Viovy, N., de Noblet-Ducoudré, N., Ogée, J., Polcher,
+J., Friedlingstein, P., Ciais, P., Sitch, S., and Prentice, I. C.: A dynamic
+global vegetation model for studies of the coupled atmosphere-biosphere
+system, Global Biogeochem. Cy., 19, 1–33,
+https://doi.org/10.1029/2003GB002199, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-13-4737-2013</doi>
+              <unstructured_citation>Krol, M., Peters, W., Hooghiemstra, P., George, M., Clerbaux, C., Hurtmans, D., McInerney, D., Sedano, F., Bergamaschi, P., El Hajj, M., Kaiser, J. W., Fisher, D., Yershov, V., and Muller, J.-P.: How much CO was emitted by the 2010 fires around Moscow?, Atmos. Chem. Phys., 13, 4737–4747, https://doi.org/10.5194/acp-13-4737-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-10-7017-2010</doi>
+              <unstructured_citation>Lamarque, J.-F., Bond, T. C., Eyring, V., Granier, C., Heil, A., Klimont, Z., Lee, D., Liousse, C., Mieville, A., Owen, B., Schultz, M. G., Shindell, D., Smith, S. J., Stehfest, E., Van Aardenne, J., Cooper, O. R., Kainuma, M., Mahowald, N., McConnell, J. R., Naik, V., Riahi, K., and van Vuuren, D. P.: Historical (1850–2000) gridded anthropogenic and biomass burning emissions of reactive gases and aerosols: methodology and application, Atmos. Chem. Phys., 10, 7017–7039, https://doi.org/10.5194/acp-10-7017-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1002/2013MS000284</doi>
+              <unstructured_citation>Lasslop, G., Thonicke, K., and Kloster, S.: SPITFIRE within the MPI Earth
+system model: Model development and evaluation, J. Adv. Model Earth Sy., 6,
+740–755, https://doi.org/10.1002/2013MS000284, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/gmd-9-2973-2016</doi>
+              <unstructured_citation>Lawrence, D. M., Hurtt, G. C., Arneth, A., Brovkin, V., Calvin, K. V., Jones, A. D., Jones, C. D., Lawrence, P. J., de Noblet-Ducoudré, N., Pongratz, J., Seneviratne, S. I., and Shevliakova, E.: The Land Use Model Intercomparison Project (LUMIP) contribution to CMIP6: rationale and experimental design, Geosci. Model Dev., 9, 2973–2998, https://doi.org/10.5194/gmd-9-2973-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/2006JG000168</doi>
+              <unstructured_citation>Lawrence, P. J. and Chase, T. N. : Representing a new MODIS consistent land surface in the Community Land Model (CLM 3.0), J. Geophys. Res., 112, G01023, https://doi.org/10.1029/2006JG000168, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/cp-12-2033-2016</doi>
+              <unstructured_citation>Legrand, M., McConnell, J., Fischer, H., Wolff, E. W., Preunkert, S., Arienzo, M., Chellman, N., Leuenberger, D., Maselli, O., Place, P., Sigl, M., Schüpbach, S., and Flannigan, M.: Boreal fire records in Northern Hemisphere ice cores: a review, Clim. Past, 12, 2033–2059, https://doi.org/10.5194/cp-12-2033-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/bg-6-349-2009</doi>
+              <unstructured_citation>Lehsten, V., Tansey, K., Balzter, H., Thonicke, K., Spessa, A., Weber, U., Smith, B., and Arneth, A.: Estimating carbon emissions from African wildfires, Biogeosciences, 6, 349–360, https://doi.org/10.5194/bg-6-349-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1038/nature15371</doi>
+              <unstructured_citation>Lelieveld, J., Evans, J. S., Fnais, M., Giannadaki, D., and Pozzer, A.: The
+con- tribution of outdoor air pollution sources to premature mortality on a
+global scale, Nature, 525, 367–371, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/bg-12-887-2015</doi>
+              <unstructured_citation>Le Page, Y., Morton, D., Bond-Lamberty, B., Pereira, J. M. C., and Hurtt, G.: HESFIRE: a global fire model to explore the role of anthropogenic and weather drivers, Biogeosciences, 12, 887–903, https://doi.org/10.5194/bg-12-887-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/esd-8-1237-2017</doi>
+              <unstructured_citation>Le Page, Y., Morton, D., Hartin, C., Bond-Lamberty, B., Pereira, J. M. C., Hurtt, G., and Asrar, G.: Synergy between land use and climate change increases future fire risk in Amazon forests, Earth Syst. Dynam., 8, 1237–1246, https://doi.org/10.5194/esd-8-1237-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/essd-6-235-2014</doi>
+              <unstructured_citation>Le Quéré, C., Peters, G. P., Andres, R. J., Andrew, R. M., Boden, T. A., Ciais, P., Friedlingstein, P., Houghton, R. A., Marland, G., Moriarty, R., Sitch, S., Tans, P., Arneth, A., Arvanitis, A., Bakker, D. C. E., Bopp, L., Canadell, J. G., Chini, L. P., Doney, S. C., Harper, A., Harris, I., House, J. I., Jain, A. K., Jones, S. D., Kato, E., Keeling, R. F., Klein Goldewijk, K., Körtzinger, A., Koven, C., Lefèvre, N., Maignan, F., Omar, A., Ono, T., Park, G.-H., Pfeil, B., Poulter, B., Raupach, M. R., Regnier, P., Rödenbeck, C., Saito, S., Schwinger, J., Segschneider, J., Stocker, B. D., Takahashi, T., Tilbrook, B., van Heuven, S., Viovy, N., Wanninkhof, R., Wiltshire, A., and Zaehle, S.: Global carbon budget 2013, Earth Syst. Sci. Data, 6, 235–263, https://doi.org/10.5194/essd-6-235-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Levis, S., Bonan, G. B., Vertenstein, M., and Oleson, K. W.: The Community
+Land Model's dynamic global vegetation model (CLM-DGVM): Technical
+description and user's guide, NCAR Tech. Note TN-459 IA, Terrestrial
+Sciences Section, Boulder, Colorado, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1175/JCLI-D-16-0460.1</doi>
+              <unstructured_citation>Li, F. and Lawrence, D. M.: Role of fire in the global land water budget
+during the 20th century through changing ecosystems, J. Climate, 30,
+1893–908, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/bg-9-2761-2012</doi>
+              <unstructured_citation>Li, F., Zeng, X. D., and Levis, S.: A process-based fire parameterization of intermediate complexity in a Dynamic Global Vegetation Model, Biogeosciences, 9, 2761–2780, https://doi.org/10.5194/bg-9-2761-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/bg-10-2293-2013</doi>
+              <unstructured_citation>Li, F., Levis, S., and Ward, D. S.: Quantifying the role of fire in the Earth system – Part 1: Improved global fire modeling in the Community Earth System Model (CESM1), Biogeosciences, 10, 2293–2314, https://doi.org/10.5194/bg-10-2293-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1016/j.gloplacha.2018.01.002</doi>
+              <unstructured_citation>Li, F., Lawrence, D. M., and Bond-Lamberty, B.: Human impacts on 20th century
+fire dynamics and implications for global carbon and water trajectories,
+Global Planet. Change, 162, 18–27, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Li, F., Rabin, S. S., Val Martin, M., Hantson, S., Andreae, M. O.&amp;lt;span id=&amp;quot;page12565&amp;quot;/&amp;gt;, Arneth,
+A., Lasslop, G., Yue, C., Bachelet, D., Forrest, M., Kaiser, J. W., Kluzek,
+E., Liu, X., Melton, J. R., Ward, D. S., Darmenov, A., Hickler, T., Ichoku,
+C., Magi, B. I., Sitch, S., van der Werf, G. R., and Wiedinmyer, C.: Model
+outputs: Historical (1700–2012) Global Multi-model Estimates of the Fire
+Emissions from the Fire Modeling Intercomparison Project (FireMIP) (Version
+1.0.1), Zenodo, https://doi.org/10.5281/zenodo.3386620, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/esd-4-385-2013</doi>
+              <unstructured_citation>Lindeskog, M., Arneth, A., Bondeau, A., Waha, K., Seaquist, J., Olin, S., and Smith, B.: Implications of accounting for land use in simulations of ecosystem carbon cycling in Africa, Earth Syst. Dynam., 4, 385–407, https://doi.org/10.5194/esd-4-385-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/bg-9-3003-2012</doi>
+              <unstructured_citation>Magi, B. I., Rabin, S., Shevliakova, E., and Pacala, S.: Separating agricultural and non-agricultural fire seasonality at regional scales, Biogeosciences, 9, 3003–3012, https://doi.org/10.5194/bg-9-3003-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1029/2008GB003240</doi>
+              <unstructured_citation>Mahowald, N., Jickells, T. D., Baker, A. R., Artaxo, P., BenitezNelson, C. R., Bergametti, G., Bond, T. C., Chen, Y., Cohen, D. D., Herut, B., Kubilay, N., Losno, R., Luo, C., Maenhaut, W., McGee, K. A., Okin, G. S., Siefert, R. L., and Tsukuda, S.: Global distribution of atmospheric phosphorus sources,
+concentrations and deposition rates, and anthropogenic impacts, Global
+Biogeochem. Cy., 22, GB4026, https://doi.org/10.1029/2008GB003240, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.5194/gmd-9-2685-2016</doi>
+              <unstructured_citation>Mangeon, S., Voulgarakis, A., Gilham, R., Harper, A., Sitch, S., and Folberth, G.: INFERNO: a fire and emissions scheme for the UK Met Office's Unified Model, Geosci. Model Dev., 9, 2685–2700, https://doi.org/10.5194/gmd-9-2685-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1007/s00376-009-0087-z</doi>
+              <unstructured_citation>Mao, J. F., Wang, B., and Dai, Y. J.: Sensitivity of the carbon storage of
+potential vegetation to historical climate variability and CO2 in
+continental China, Adv. Atmos. Sci., 26, 87–100, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1038/nclimate1658</doi>
+              <unstructured_citation>Marlier, M. E., DeFries, R. S., Voulgarakis, A., Kinney, P. L., Randerson,
+J. T., Shindell, D. T., Chen, Y., and Faluvegi, G.: El Niño and health
+risks from landscape fire emissions in southeast Asia, Nat. Clim. Change, 3,
+131–136, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1038/ngeo313</doi>
+              <unstructured_citation>Marlon, J. R., Bartlein, P. J., Carcaillet, C., Gavin, D. G., Harrison, S. P., Higuera, P. E., Joos, F., Power, M. J., and Prentice, I. C.: Climate and human influences on global biomass
+burning over the past two millennia, Nat. Geosci., 1, 697–702,
+https://doi.org/10.1038/ngeo313, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.5194/bg-13-3225-2016</doi>
+              <unstructured_citation>Marlon, J. R., Kelly, R., Daniau, A.-L., Vannière, B., Power, M. J., Bartlein, P., Higuera, P., Blarquez, O., Brewer, S., Brücher, T., Feurdean, A., Romera, G. G., Iglesias, V., Maezumi, S. Y., Magi, B., Courtney Mustaphi, C. J., and Zhihai, T.: Reconstructions of biomass burning from sediment-charcoal records to improve data-model comparisons, Biogeosciences, 13, 3225–3244, https://doi.org/10.5194/bg-13-3225-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/acp-19-835-2019</doi>
+              <unstructured_citation>McKendry, I. G., Christen, A., Lee, S.-C., Ferrara, M., Strawbridge, K. B., O'Neill, N., and Black, A.: Impacts of an intense wildfire smoke episode on surface radiation, energy and carbon fluxes in southwestern British Columbia, Canada, Atmos. Chem. Phys., 19, 835–846, https://doi.org/10.5194/acp-19-835-2019, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1126/science.1144856</doi>
+              <unstructured_citation>McConnell, J. R., Edwards, R.,
+Kok, G. L., Flanner, M. G., Zender, C. S., Saltzman, E. S., Banta, J. R.,
+Pasteris, D. R., Carter, M. M., and Kahl, J. D. W.: 20th-century industrial
+black carbon emissions altered arctic climate forcing, Science, 317,
+1381–1384, https://doi.org/10.1126/science.1144856, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.5194/gmd-9-323-2016</doi>
+              <unstructured_citation>Melton, J. R. and Arora, V. K.: Competition between plant functional types in the Canadian Terrestrial Ecosystem Model (CTEM) v. 2.0, Geosci. Model Dev., 9, 323–361, https://doi.org/10.5194/gmd-9-323-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1016/j.atmosenv.2010.01.011</doi>
+              <unstructured_citation>Mieville, A., Granier, C., Liousse, C., Guillaume, B., Mouillot, F.,
+Lamarque, J.-F., Grégoire, J.-M., and Pétron, G.: Emissions of gases
+and particles from biomass burning during the 20th century using satellite
+data and an historical reconstruction, Atmos. Environ., 44, 1469–1477,
+https://doi.org/10.1016/j.atmosenv.2010.01.011, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1111/j.1365-2486.2005.00920.x</doi>
+              <unstructured_citation>Mouillot, F. and Field, C. B.: Fire history and the global carbon budget: a
+1∘×1∘ fire history reconstruction
+for the 20th century, Glob. Change Biol., 11, 398–420,
+https://doi.org/10.1111/j.1365-2486.2005.00920.x, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.2307/3236277</doi>
+              <unstructured_citation>Nemani, R. R. and Running, S. W.: Implementation of a hierarchical global
+vegetation classification in ecosystem function models, J. Veg. Sci., 7,
+337–346, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Oleson, K., Lawrence, D. M., Bonan, G. B., Drewniak, B., Huang, M., Koven, C. D., Levis, S., Li, F., Riley, W. J., Subin, Z. M., Swenson, S. C., Thornton, P. E., Bozbiyik, A., Fisher, R. A., Heald, C. L., Kluzek, E., Lamarque, J.-F., Lawrence, P. J., Leung, L. R., Lipscomb, W., Muszala, S., Ricciuto, D. M., Sacks, W. J., Sun, Y., Tang, J., and Yang, Z.-L.: Technical Description of version 4.5 of the Community
+Land Model (CLM), Tech. Rep. NCAR/TN-503+STR NCAR, Boulder, CO, USA,
+434 pp., 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1088/1748-9326/11/7/075005</doi>
+              <unstructured_citation>Parisien, M., Miller, C., Parks, S. A., DeLancey, E. R., Robinne, F., and
+Flannigan, M. D.: The spatially varying influence of humans on fire
+probability in North America, Environ. Res. Lett., 11, 075005, https://doi.org/10.1088/1748-9326/11/7/075005, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1073/pnas.1003669107</doi>
+              <unstructured_citation>Pechony, O. and Shindell, D. T.: Driving forces of global wildfires over the
+past
+millennium and the forthcoming century, P. Natl. Acad. Sci. USA, 107,
+19167–19170, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.5194/gmd-6-643-2013</doi>
+              <unstructured_citation>Pfeiffer, M., Spessa, A., and Kaplan, J. O.: A model for global biomass burning in preindustrial time: LPJ-LMfire (v1.0), Geosci. Model Dev., 6, 643–685, https://doi.org/10.5194/gmd-6-643-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.5194/gmd-10-1175-2017</doi>
+              <unstructured_citation>Rabin, S. S., Melton, J. R., Lasslop, G., Bachelet, D., Forrest, M., Hantson, S., Kaplan, J. O., Li, F., Mangeon, S., Ward, D. S., Yue, C., Arora, V. K., Hickler, T., Kloster, S., Knorr, W., Nieradzik, L., Spessa, A., Folberth, G. A., Sheehan, T., Voulgarakis, A., Kelley, D. I., Prentice, I. C., Sitch, S., Harrison, S., and Arneth, A.: The Fire Modeling Intercomparison Project (FireMIP), phase 1: experimental and analytical protocols with detailed model descriptions, Geosci. Model Dev., 10, 1175–1197, https://doi.org/10.5194/gmd-10-1175-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.5194/gmd-11-815-2018</doi>
+              <unstructured_citation>Rabin, S. S., Ward, D. S., Malyshev, S. L., Magi, B. I., Shevliakova, E., and Pacala, S. W.: A fire model with distinct crop, pasture, and non-agricultural burning: use of new data and a model-fitting algorithm for FINAL.1, Geosci. Model Dev., 11, 815–842, https://doi.org/10.5194/gmd-11-815-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.5194/acp-19-9125-2019</doi>
+              <unstructured_citation>Reddington, C. L., Morgan, W. T., Darbyshire, E., Brito, J., Coe, H., Artaxo, P., Scott, C. E., Marsham, J., and Spracklen, D. V.: Biomass burning aerosol over the Amazon: analysis of aircraft, surface and satellite observations using a global aerosol model, Atmos. Chem. Phys., 19, 9125–9152, https://doi.org/10.5194/acp-19-9125-2019, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1029/2012JG002128</doi>
+              <unstructured_citation>Randerson, J. T., Chen, Y., van der Werf, G. R., Rogers, B. M., and Morton,
+D. C.: Global burned area and biomass burning emissions from small fires, J.
+Geophys. Res., 117, G04012, https://doi.org/10.1029/2012JG002128,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Rothermel, R. C.: A mathematical model for predicting fire spread in
+wildland fuels, Res. Pap. INT-115, US Department of Agriculture, Ogden, UT,
+USA, 40 pp., 1972. </unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1029/2007GB003031</doi>
+              <unstructured_citation>Schultz, M. G., Heil, A., Hoelzemann, J. J., Spessa, A., Thonicke, K.,
+Goldammer, J. G., Held, A. C., Pereira, J. M. C., and van het Bolscher, M.:
+Global wildland fire emissions from 1960 to 2000, Global Biogeochem. Cy.,
+22, GB2002,
+https://doi.org/10.1029/2007GB003031, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1073/pnas.0604090103</doi>
+              <unstructured_citation>Scott, A. C. and Glasspool, I. J.: The diversification of Palaeozoic fire
+systems and fluctuations in atmospheric oxygen concentration, P. Natl.
+Acad. Sci. USA, 103, 10861–10865, https://doi.org/10.1073/pnas.0604090103, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1016/j.ecolmodel.2015.08.023</doi>
+              <unstructured_citation>Sheehan, T., Bachelet, D., and Ferschweiler, K.: Projected major fire and
+vegetation changes in the Pacific Northwest of the conterminous United
+States under selected CMIP5 climate futures, Ecol. Model., 317, 16–29,
+https://doi.org/10.1016/j.ecolmodel.2015.08.023, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.5194/bg-11-2027-2014</doi>
+              <unstructured_citation>Smith, B., Wårlind, D., Arneth, A., Hickler, T., Leadley, P., Siltberg, J., and Zaehle, S.: Implications of incorporating N cycling and N limitations on primary production in an individual-based dynamic vegetation model, Biogeosciences, 11, 2027–2054, https://doi.org/10.5194/bg-11-2027-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.5194/acp-16-11043-2016</doi>
+              <unstructured_citation>Stockwell, C. E., Christian, T. J., Goetz, J. D., Jayarathne, T., Bhave, P. V., Praveen, P. S., Adhikari, S., Maharjan, R., DeCarlo, P. F., Stone, E. A., Saikawa, E., Blake, D. R., Simpson, I. J., Yokelson, R. J., and Panday, A. K.: Nepal Ambient Monitoring and Source Testing Experiment (NAMaSTE): emissions of trace gases and light-absorbing carbon from wood and dung cooking fires, garbage and crop residue burning, brick kilns, and other sources, Atmos. Chem. Phys., 16, 11043–11081, https://doi.org/10.5194/acp-16-11043-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1046/j.1466-822X.2001.00175.x</doi>
+              <unstructured_citation>Thonicke, K., Venevsky, S., Sitch, S., and Cramer, W.: The role of fire
+disturbance for global vegetation dynamics: Coupling fire into a Dynamic
+Global Vegetation Model, Global Ecol. Biogeogr., 10, 661–677, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.5194/bg-7-1991-2010</doi>
+              <unstructured_citation>Thonicke, K., Spessa, A., Prentice, I. C., Harrison, S. P., Dong, L., and Carmona-Moreno, C.: The influence of vegetation, fire spread and fire behaviour on biomass burning and trace gas emissions: results from a process-based model, Biogeosciences, 7, 1991–2011, https://doi.org/10.5194/bg-7-1991-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.5194/acp-18-5321-2018</doi>
+              <unstructured_citation>Thornhill, G. D., Ryder, C. L., Highwood, E. J., Shaffrey, L. C., and Johnson, B. T.: The effect of South American biomass burning aerosol emissions on the regional climate, Atmos. Chem. Phys., 18, 5321–5342, https://doi.org/10.5194/acp-18-5321-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.5194/bg-2019-42</doi>
+              <unstructured_citation>Teckentrup, L., Harrison, S. P., Hantson, S., Heil, A., Melton, J. R., Forrest, M., Li, F., Yue, C., Arneth, A., Hickler, T., Sitch, S., and Lasslop, G.: Sensitivity of simulated historical burned area to environmental andanthropogenic controls: A comparison of seven fire models, Biogeosciences Discuss., https://doi.org/10.5194/bg-2019-42, in review, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1038/nature16946</doi>
+              <unstructured_citation>Tian, H., Lu, C., Ciais, P., Michalak, A. M., Canadell, J. G., Saikawa, E., Huntzinger, D. N., Gurney, K., Sitch, S., Zhang, B., Yang, J., Bousquet, P., Bruhwiler, L., Chen, G., Dlugokencky, E., Friedlingstein, P., Melillo, J., Pan, S., Poulter, B., Prinn, R., Saunois, M., Schwalm, C. R., and Wofsy, S. C.: The terrestrial biosphere as a net source of greenhouse
+gases to the atmosphere, Nature, 531, 225–228, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.5194/acp-13-5227-2013</doi>
+              <unstructured_citation>Tosca, M. G., Randerson, J. T., and Zender, C. S.: Global impact of smoke aerosols from landscape fires on climate and the Hadley circulation, Atmos. Chem. Phys., 13, 5227–5241, https://doi.org/10.5194/acp-13-5227-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.5194/acp-15-2805-2015</doi>
+              <unstructured_citation>Val Martin, M., Heald, C. L., Lamarque, J.-F., Tilmes, S., Emmons, L. K., and Schichtel, B. A.: How emissions, climate, and land use change will impact mid-century air quality over the United States: a focus on effects at national parks, Atmos. Chem. Phys., 15, 2805–2823, https://doi.org/10.5194/acp-15-2805-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.5194/acp-6-3423-2006</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., Collatz, G. J., Kasibhatla, P. S., and Arellano Jr., A. F.: Interannual variability in global biomass burning emissions from 1997 to 2004, Atmos. Chem. Phys., 6, 3423–3441, https://doi.org/10.5194/acp-6-3423-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.5194/acp-10-11707-2010</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., Collatz, G. J., Mu, M., Kasibhatla, P. S., Morton, D. C., DeFries, R. S., Jin, Y., and van Leeuwen, T. T.: Global fire emissions and the contribution of deforestation, savanna, forest, agricultural, and peat fires (1997–2009), Atmos. Chem. Phys., 10, 11707–11735, https://doi.org/10.5194/acp-10-11707-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.5194/cp-9-289-2013</doi>
+              <unstructured_citation>van der Werf, G. R., Peters, W., van Leeuwen, T. T., and Giglio, L.: What could have caused pre-industrial biomass burning emissions to exceed current rates?, Clim. Past, 9, 289–306, https://doi.org/10.5194/cp-9-289-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.5194/essd-9-697-2017</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., van Leeuwen, T. T., Chen, Y., Rogers, B. M., Mu, M., van Marle, M. J. E., Morton, D. C., Collatz, G. J., Yokelson, R. J., and Kasibhatla, P. S.: Global fire emissions estimates during 1997–2016, Earth Syst. Sci. Data, 9, 697–720, https://doi.org/10.5194/essd-9-697-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1002/2016GB005445</doi>
+              <unstructured_citation>van Marle, M. J. E., Field, R. D., van der Werf, G. R., Estrada de Wagt, I.
+A., Houghton, R. A., Rizzo, L. V., Artaxo, P., and Tsigaridis, K.: Fire and
+deforestation dynamics in Amazonia (1973–2014), Global Biogeochem. Cy., 31,
+24–38, https://doi.org/10.1002/2016GB005445, 2017a. </unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.5194/gmd-10-3329-2017</doi>
+              <unstructured_citation>van Marle, M. J. E., Kloster, S., Magi, B. I., Marlon, J. R., Daniau, A.-L., Field, R. D., Arneth, A., Forrest, M., Hantson, S., Kehrwald, N. M., Knorr, W., Lasslop, G., Li, F., Mangeon, S., Yue, C., Kaiser, J. W., and van der Werf, G. R.: Historic global biomass burning emissions for CMIP6 (BB4CMIP) based on merging satellite observations with proxies and fire models (1750–2015), Geosci. Model Dev., 10, 3329–3357, https://doi.org/10.5194/gmd-10-3329-2017, 2017b. </unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <doi provider="crossref">10.1126/science.1197257</doi>
+              <unstructured_citation>Wang, Z., Chappellaz, J., Park, K., and Mak, J. E.: Large variations in southern hemisphere biomass burning during the Last 650 years, Science, 330, 1663–1666, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.5194/acp-12-4365-2012</doi>
+              <unstructured_citation>Wang, Z., Chappellaz, J., Martinerie, P., Park, K., Petrenko, V., Witrant, E., Emmons, L. K., Blunier, T., Brenninkmeijer, C. A. M., and Mak, J. E.: The isotopic record of Northern Hemisphere atmospheric carbon monoxide since 1950: implications for the CO budget, Atmos. Chem. Phys., 12, 4365–4377, https://doi.org/10.5194/acp-12-4365-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.5194/acp-12-10857-2012</doi>
+              <unstructured_citation>Ward, D. S., Kloster, S., Mahowald, N. M., Rogers, B. M., Randerson, J. T., and Hess, P. G.: The changing radiative forcing of fires: global model estimates for past, present and future, Atmos. Chem. Phys., 12, 10857–10886, https://doi.org/10.5194/acp-12-10857-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1002/2017GB005787</doi>
+              <unstructured_citation>Ward, D. S., Shevliakova, E., Malyshev, S., and Rabin, S.: Trends and
+variability
+of global fire emissions due to historical anthropogenic activities, Global
+Biogeochem. Cy., 32, 122–142, https://doi.org/10.1002/2017GB005787,
+2018. </unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.5194/gmd-7-2875-2014</doi>
+              <unstructured_citation>Wei, Y., Liu, S., Huntzinger, D. N., Michalak, A. M., Viovy, N., Post, W. M., Schwalm, C. R., Schaefer, K., Jacobson, A. R., Lu, C., Tian, H., Ricciuto, D. M., Cook, R. B., Mao, J., and Shi, X.: The North American Carbon Program Multi-scale Synthesis and Terrestrial Model Intercomparison Project – Part 2: Environmental driver data, Geosci. Model Dev., 7, 2875–2893, https://doi.org/10.5194/gmd-7-2875-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.5194/gmd-4-625-2011</doi>
+              <unstructured_citation>Wiedinmyer, C., Akagi, S. K., Yokelson, R. J., Emmons, L. K., Al-Saadi, J. A., Orlando, J. J., and Soja, A. J.: The Fire INventory from NCAR (FINN): a high resolution global model to estimate the emissions from open burning, Geosci. Model Dev., 4, 625–641, https://doi.org/10.5194/gmd-4-625-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <doi provider="crossref">10.1002/2016JD025319</doi>
+              <unstructured_citation>Wu, Y., Han, Y., Voulgarakis, A., Wang, T., Li, M., Wang, Y., Xie, M.,
+Zhuang, B., and Li, S.: An agricultural biomass burning episode in eastern
+China: Transport, optical properties, and impacts on regional air quality,
+J. Geophys. Res.-Atmos.,
+122, 2304–2324, https://doi.org/10.1002/2016JD025319, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.1002/2013JG002532</doi>
+              <unstructured_citation>Yang, J., Tian, H., Tao, B., Ren, W., Kush, J., Liu, Y., and Wang, Y.:
+Spatial and temporal patterns of global burned area in response to
+anthropogenic and environmental factors: Reconstructing global fire history
+for the 20th and early 21st centuries, J. Geophys. Res.-Biogeo., 119,
+249–263, https://doi.org/10.1002/2013JG002532, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <doi provider="crossref">10.5194/acp-13-89-2013</doi>
+              <unstructured_citation>Yokelson, R. J., Burling, I. R., Gilman, J. B., Warneke, C., Stockwell, C. E., de Gouw, J., Akagi, S. K., Urbanski, S. P., Veres, P., Roberts, J. M., Kuster, W. C., Reardon, J., Griffith, D. W. T., Johnson, T. J., Hosseini, S., Miller, J. W., Cocker III, D. R., Jung, H., and Weise, D. R.: Coupling field and laboratory measurements to estimate the emission factors of identified and unidentified trace gases for prescribed fires, Atmos. Chem. Phys., 13, 89–116, https://doi.org/10.5194/acp-13-89-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <doi provider="crossref">10.5194/gmd-7-2747-2014</doi>
+              <unstructured_citation>Yue, C., Ciais, P., Cadule, P., Thonicke, K., Archibald, S., Poulter, B., Hao, W. M., Hantson, S., Mouillot, F., Friedlingstein, P., Maignan, F., and Viovy, N.: Modelling the role of fires in the terrestrial carbon balance by incorporating SPITFIRE into the global vegetation model ORCHIDEE – Part 1: simulating historical global burned area and fire regimes, Geosci. Model Dev., 7, 2747–2767, https://doi.org/10.5194/gmd-7-2747-2014, 2014.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <doi provider="crossref">10.5194/gmd-8-1321-2015</doi>
+              <unstructured_citation>Yue, C., Ciais, P., Cadule, P., Thonicke, K., and van Leeuwen, T. T.: Modelling the role of fires in the terrestrial carbon balance by incorporating SPITFIRE into the global vegetation model ORCHIDEE – Part 2: Carbon emissions and the role of fires in the global carbon balance, Geosci. Model Dev., 8, 1321–1338, https://doi.org/10.5194/gmd-8-1321-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <doi provider="crossref">10.1038/s41467-018-07921-4</doi>
+              <unstructured_citation>Yue, X. and Unger, N.: Fire air pollution reduces global terrestrial
+productivity,
+Nat. Commun., 9, 5413, https://doi.org/10.1038/s41467-018-07921-4, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <doi provider="crossref">10.5194/cp-10-1905-2014</doi>
+              <unstructured_citation>Zennaro, P., Kehrwald, N., McConnell, J. R., Schüpbach, S., Maselli, O. J., Marlon, J., Vallelonga, P., Leuenberger, D., Zangrando, R., Spolaor, A., Borrotti, M., Barbaro, E., Gambaro, A., and Barbante, C.: Fire in ice: two millennia of boreal forest fire history from the Greenland NEEM ice core, Clim. Past, 10, 1905–1924, https://doi.org/10.5194/cp-10-1905-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <doi provider="crossref">10.1088/1748-9326/9/7/075002</doi>
+              <unstructured_citation>Zhang, F., Wang, J., Ichoku, C., Hyer, E. J., Yang, Z., Ge, C., Su, S.,
+Zhang, X., Kondragunta, S., Kaiser, J. W., Wiedinmyer, C., and da Silva, A.:
+Sensitivity of mesoscale modeling of smoke direct radiative effect to the
+emission inventory: a case study in northern sub-Saharan African region,
+Environ. Res. Lett., 9, 075002, https://doi.org/10.1088/1748-9326/9/7/075002, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <doi provider="crossref">10.3390/rs10060823</doi>
+              <unstructured_citation>Zhang, T. R., Wooster, M. J., de Jong, M. C., and Xu, W. D.: How well does
+the “Small Fire Boost” methodology used within the GFED4.1s fire emissions
+database represent the timing, location and magnitude of agricultural
+burning?, Remote. Sens., 10, 823, https://doi.org/10.3390/rs10060823, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <doi provider="crossref">10.1038/nclimate3004</doi>
+              <unstructured_citation>Zhu, Z., Piao, S., Myneni, R. B., Huang, M., Zeng, Z., Canadell, J. G., Ciais, P., Sitch, S., Friedlingstein, P., Arneth, A., Cao, C., Cheng, L., Kato, E., Koven, C., Li, Y., Lian, X., Liu, Y., Liu, R., Mao, J., Pan, Y., Peng, S., Peñuelas, J., Poulter, B., Pugh, T. A. M., Stocker, B. D., Viovy, N., Wang, X., Wang, Y., Xiao, Z., Yang, H., Zaehle, S., and Zeng, N.: Greening of the Earth and its drivers, Nat. Clim. Change, 6,
+791–795, 2016. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-19-12545-2019-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/19/12545/2019/acp-19-12545-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

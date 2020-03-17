@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-05-23 12:14:12">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Geophysical Research: Space Physics</full_title>
+          <abbrev_title>J. Geophys. Res. Space Physics</abbrev_title>
+          <issn>21699380</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>07</month>
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>122</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>ULF wave analysis and radial diffusion calculation using a global MHD model for the 17 March 2013 and 2015 storms</title>
+            <subtitle>RADIAL DIFFUSION CALCULATION</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Zhao</given_name>
+              <surname>Li</surname>
+              <affiliation>Department of Physics and Astronomy; Dartmouth College; Hanover New Hampshire USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Mary</given_name>
+              <surname>Hudson</surname>
+              <affiliation>Department of Physics and Astronomy; Dartmouth College; Hanover New Hampshire USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Maulik</given_name>
+              <surname>Patel</surname>
+              <affiliation>Department of Physics and Astronomy; Dartmouth College; Hanover New Hampshire USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Michael</given_name>
+              <surname>Wiltberger</surname>
+              <affiliation>High Altitude Observatory; National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-4844-3148</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Alex</given_name>
+              <surname>Boyd</surname>
+              <affiliation>New Mexico Consortium; Los Alamos New Mexico USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-9725-508X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Drew</given_name>
+              <surname>Turner</surname>
+              <affiliation>Aerospace Corporation; El Segundo California USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-2425-7818</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>07</month>
+            <year>2017</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>17</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>7353</first_page>
+            <last_page>7363</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">JHU/APL</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNN16AA09T</assertion>
+              <assertion name="award_number">NNN06AA01C</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="am" start_date="2018-07-17">http://onlinelibrary.wiley.com/termsAndConditions#am</license_ref>
+            <license_ref applies_to="vor" start_date="2017-07-17">http://onlinelibrary.wiley.com/termsAndConditions#vor</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2016JA023846</doi>
+            <resource>http://doi.wiley.com/10.1002/2016JA023846</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2016JA023846/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="am" mime_type="application/pdf">http://api.wiley.com/onlinelibrary/chorus/v1/articles/10.1002%2F2016JA023846</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2016JA023846</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2016JA023846-BIB0002|jgra53582-cit-0002">
+              <author>Ali</author>
+              <cYear>2016</cYear>
+              <article_title>Electric and magnetic radial diffusion coefficients using the Van Allen probes data</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>9586</first_page>
+              <doi>10.1002/2016JA023002</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0003|jgra53582-cit-0003">
+              <author>Angelopoulos</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1007/978-0-387-89820-9_2</doi>
+              <volume_title>The THEMIS Mission</volume_title>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0004|jgra53582-cit-0004">
+              <author>Baker, D. N.</author>
+              <cYear>2014</cYear>
+              <article_title>Gradual diffusion and punctuated phase space density enhancements of highly relativistic electrons: Van Allen Probes observations</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>1351</first_page>
+              <doi>10.1002/2013GL058942</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0005|jgra53582-cit-0005">
+              <author>Brautigam</author>
+              <cYear>2000</cYear>
+              <article_title>Radial diffusion analysis of outer radiation belt electrons during the October 9, 1990, magnetic storm</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>105</volume>
+              <issue>A1</issue>
+              <first_page>291</first_page>
+              <doi>10.1029/1999JA900344</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0006|jgra53582-cit-0006">
+              <author>Brizard</author>
+              <cYear>2001</cYear>
+              <article_title>Relativistic bounce-averaged quasilineaer diffusion equation for low-frequency electrmagnetic fluctuations</article_title>
+              <journal_title>Phys. Plasmas</journal_title>
+              <volume>8</volume>
+              <first_page>4762</first_page>
+              <doi>10.1063/1.1408623</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0007|jgra53582-cit-0007">
+              <author>Blake, J. B.</author>
+              <cYear>2013</cYear>
+              <article_title>The Magnetic Electron Ion Spectrometer (MagEIS) instruments aboard the Radiation Belt Storm Probes (RBSP) spacecraft</article_title>
+              <journal_title>Space Sci. Rev.</journal_title>
+              <volume>179</volume>
+              <first_page>383</first_page>
+              <doi>10.1007/s11214-013-9991-8</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0008|jgra53582-cit-0008">
+              <author>Carpenter</author>
+              <cYear>1992</cYear>
+              <article_title>An ISEE/Whistler model of equatorial electron density in the magnetosphere</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>97</volume>
+              <issue>A2</issue>
+              <first_page>1097</first_page>
+              <doi>10.1029/91JA01548</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0012|jgra53582-cit-0012">
+              <author>Claudepierre</author>
+              <cYear>2010</cYear>
+              <article_title>Solar wind driving of magnetospheric ULF waves: Field line resonances driven by dynamic pressure fluctuations</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <first_page>A11202</first_page>
+              <doi>10.1029/2010JA015399</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0010|jgra53582-cit-0010">
+              <author>Claudepierre</author>
+              <cYear>2008</cYear>
+              <article_title>Solar wind driving of magnetospheric ULF waves: Pulsations driven by velocity shear at the magnetopause</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>113</volume>
+              <first_page>A05218</first_page>
+              <doi>10.1029/2007JA012890</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0013|jgra53582-cit-0013">
+              <author>Claudepierre</author>
+              <cYear>2016</cYear>
+              <article_title>Global MHD modeling of resonant ULF waves: Simulation with and without a plasmasphere</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>227</first_page>
+              <doi>10.1002/2015JA022048</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0014|jgra53582-cit-0014">
+              <author>Cornwall</author>
+              <cYear>1968</cYear>
+              <doi provider="crossref">10.1002/rds196837740</doi>
+              <article_title>Diffusion processes influenced by conjugate-point wave phenomena</article_title>
+              <journal_title>Radio Sci.</journal_title>
+              <volume>3</volume>
+              <first_page>740</first_page>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0015|jgra53582-cit-0015">
+              <author>Elkington</author>
+              <cYear>2003</cYear>
+              <article_title>Resonant acceleration and diffusion of outer zone electrons in an asymmetric geomagnetic field</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>108</volume>
+              <issue>A3</issue>
+              <first_page>1116</first_page>
+              <doi>10.1029/2001JA009202</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0016|jgra53582-cit-0016">
+              <author>Elkington</author>
+              <cYear>2012</cYear>
+              <volume_title>Dynamics of the Earth's Radiation Belts and Inner Magnetosphere, Geographys. Monogr. Ser.</volume_title>
+              <first_page>127</first_page>
+              <doi>10.1029/2012GM001348</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0017|jgra53582-cit-0017">
+              <author>Fälthammar</author>
+              <cYear>1965</cYear>
+              <article_title>Effects of time-dependent electric fields on geomagnetically trapped radiation</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>70</volume>
+              <issue>11</issue>
+              <first_page>2503</first_page>
+              <doi>10.1029/JZ070i011p02503</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0018|jgra53582-cit-0018">
+              <author>Fälthammar</author>
+              <cYear>1968</cYear>
+              <volume_title>Earth's Particles and Fields, NATO Advanced Study Institute</volume_title>
+              <first_page>157</first_page>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0019|jgra53582-cit-0019">
+              <author>Fei</author>
+              <cYear>2006</cYear>
+              <article_title>Radial diffusion and MHD particle simulations of relativistic electron transport by ULF waves in the September 1998 storm</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>111</volume>
+              <first_page>A12209</first_page>
+              <doi>10.1029/2005JA011211</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0020|jgra53582-cit-0020">
+              <author>Fok</author>
+              <cYear>2014</cYear>
+              <article_title>The comprehensive inner magnetosphere-ionosphere model</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>7522</first_page>
+              <doi>10.1002/2014JA020239</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0021|jgra53582-cit-0021">
+              <author>Gabrielse</author>
+              <cYear>2016</cYear>
+              <article_title>The role of localized inductive electric fields in electron injections around dipolarizing flux bundles</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>9560</first_page>
+              <doi>10.1002/2016JA023061</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0022|jgra53582-cit-0022">
+              <author>Huang</author>
+              <cYear>2010</cYear>
+              <article_title>Modeling radiation belt radial diffusion in ULF wave fields: 2. Estimating rates of radial diffusion using combined MHD and particle codes</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <first_page>A06216</first_page>
+              <doi>10.1029/2009JA014918</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0025|jgra53582-cit-0025">
+              <author>Hudson</author>
+              <cYear>2014</cYear>
+              <article_title>Simulated magnetopause losses and Van Allen Probe flux dropouts</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>1113</first_page>
+              <doi>10.1002/2014GL059222</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0026|jgra53582-cit-0026">
+              <author>Hudson</author>
+              <cYear>2015</cYear>
+              <article_title>Modeling CME-shock driven storms in 2012-2013: MHD-test particle simulation</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>1168</first_page>
+              <doi>10.1002/2014JA020833</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0023|jgra53582-cit-0023">
+              <author>Hudson</author>
+              <cYear>2008</cYear>
+              <article_title>Relationship of the Van Allen radiation belts to solar wind drivers</article_title>
+              <journal_title>J. Atmos. Sol. Terr. Phys.</journal_title>
+              <volume>70</volume>
+              <first_page>708</first_page>
+              <doi>10.1016/j.jastp.2007.11.003</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0024|jgra53582-cit-0024">
+              <author>Hudson</author>
+              <cYear>2012</cYear>
+              <article_title>Radiation belt 2D and 3D simulations for CIR-driven storms during Carrington Rotation 2068</article_title>
+              <journal_title>J. Atmos. Sol. Terr. Phys.</journal_title>
+              <volume>83</volume>
+              <first_page>51</first_page>
+              <doi>10.1016/j.jastp.2012.03.017</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0027|jgra53582-cit-0027">
+              <author>Jordanova</author>
+              <cYear>2014</cYear>
+              <article_title>Simulations of inner magnetosphere dynamics with an expanded RAM-SCB model and comparisons with Van Allen Probes observations</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>2687</first_page>
+              <doi>10.1002/2014GL059533</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0028|jgra53582-cit-0028">
+              <author>Kanekal, S. G.</author>
+              <cYear>2016</cYear>
+              <article_title>Prompt acceleration of magnetospheric electrons to ultrarelativistic energies by the 17 March 2015 interplanetary shock</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>7622</first_page>
+              <doi>10.1002/2016JA022596</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0029|jgra53582-cit-0029">
+              <author>Kim</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1029/97JA01814</doi>
+              <article_title>Fully adiabatic changes in storm time relativistic electron fluxes</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>102</volume>
+              <issue>A10</issue>
+              <first_page>22,107</first_page>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0031|jgra53582-cit-0031">
+              <author>Kress</author>
+              <cYear>2014</cYear>
+              <article_title>Rebuilding of the Earth's outer electron belt during 8-10 October 2012</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>749</first_page>
+              <doi>10.1002/2013GL058588</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0032|jgra53582-cit-0032">
+              <author>Lanzerotti</author>
+              <cYear>1973</cYear>
+              <article_title>ULF geomagnetic power near L = 4.2. Temporal variation of radial diffusion-coefficient for relativistic electrons</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>78</volume>
+              <issue>22</issue>
+              <first_page>4600</first_page>
+              <doi>10.1029/JA078i022p04600</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0033|jgra53582-cit-0033">
+              <author>Lanzerotti</author>
+              <cYear>1978</cYear>
+              <doi provider="crossref">10.1029/JA083iA08p03866</doi>
+              <article_title>Geomagnetic field fluctuations at synchronous orbit, 2, Radial diffusion</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>83</volume>
+              <first_page>3866</first_page>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0034|jgra53582-cit-0034">
+              <author>Le, G.</author>
+              <cYear>2016</cYear>
+              <article_title>Magnetopause erosion during the 17 March 2015 magnetic storm: Combined field-aligned currents, auroral oval, and magnetopause observations</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>43</volume>
+              <first_page>2396</first_page>
+              <doi>10.1002/2016GL068257</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0035|jgra53582-cit-0035">
+              <author>Li, W.</author>
+              <cYear>2014</cYear>
+              <article_title>Radiation belt electron acceleration by chorus waves during the 17 March 2013 storm</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>4681</first_page>
+              <doi>10.1002/2014JA019945</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0037|jgra53582-cit-0037">
+              <author>Li</author>
+              <cYear>2014a</cYear>
+              <article_title>Radial diffusion comparing a THEMIS statistical model with geosynchronous measurements as input</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>1863</first_page>
+              <doi>10.1002/2013JA019320</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0038|jgra53582-cit-0038">
+              <author>Li</author>
+              <cYear>2014b</cYear>
+              <article_title>Modeling gradual diffusion changes in radiation belt electron phase space density for the March 2013 Van Allen Probes case study</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>8396</first_page>
+              <doi>10.1002/2014JA020359</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0039|jgra53582-cit-0039">
+              <author>Li</author>
+              <cYear>2015</cYear>
+              <article_title>Three-dimensional test particle simulation of the 17-18 March 2013 CME shock-driven storm</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>42</volume>
+              <first_page>5679</first_page>
+              <doi>10.1002/2015GL064627</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0040|jgra53582-cit-0040">
+              <author>Li</author>
+              <cYear>2016</cYear>
+              <article_title>Global ULF wave analysis of radial diffusion coefficients using a global MHD model for the 17 March 2015 storm</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>6196</first_page>
+              <doi>10.1002/2016JA022508</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0041|jgra53582-cit-0041">
+              <author>Liu</author>
+              <cYear>2016</cYear>
+              <article_title>On the calculation of electric diffusion coefficient of radiation belt electrons with in situ electric field measurements by THEMIS</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>43</volume>
+              <first_page>1023</first_page>
+              <doi>10.1002/2015GL067398</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0042|jgra53582-cit-0042">
+              <author>Lyon</author>
+              <cYear>2004</cYear>
+              <article_title>The Lyon-Fedder-Mobarry (LFM) global MHD magnetospheric simulation code</article_title>
+              <journal_title>J. Atmos. Sol. Terr. Phys.</journal_title>
+              <volume>66</volume>
+              <issue>15</issue>
+              <first_page>1333</first_page>
+              <doi>10.1016/j.jastp.2004.03.020</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0043|jgra53582-cit-0043">
+              <author>Mauk</author>
+              <cYear>2013</cYear>
+              <article_title>Science objectives and rationale for the radiation belt storm probes mission</article_title>
+              <journal_title>Space Sci. Rev.</journal_title>
+              <volume>179</volume>
+              <first_page>3</first_page>
+              <doi>10.1007/s11214-012-9908-y</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0044|jgra53582-cit-0044">
+              <author>Merkin</author>
+              <cYear>2010</cYear>
+              <article_title>Effects of the low-latitude ionospheric boundary condition on the global magnetosphere</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <first_page>A10202</first_page>
+              <doi>10.1029/2010JA015461</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0045|jgra53582-cit-0045">
+              <author>Orlova</author>
+              <cYear>2014</cYear>
+              <article_title>Model of lifetimes of the outer radiation belt electrons in a realistic magnetic field using realistic chorus wave parameters</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>770</first_page>
+              <doi>10.1002/2013JA019596</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0046|jgra53582-cit-0046">
+              <author>Orlova</author>
+              <cYear>2014</cYear>
+              <article_title>Activity dependent global model of electron loss inside the plasmasphere</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>3744</first_page>
+              <doi>10.1002/2014GL060100</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0047|jgra53582-cit-0047">
+              <author>Ozeke</author>
+              <cYear>2004</cYear>
+              <article_title>Modeling the properties of guided poloidal Alfvén waves with finite asymmetric ionospheric conductivities in a dipole field</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>109</volume>
+              <first_page>A05205</first_page>
+              <doi>10.1029/2003JA010151</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0048|jgra53582-cit-0048">
+              <author>Ozeke</author>
+              <cYear>2014</cYear>
+              <article_title>Analytic expressions for ULF wave radiation belt radial diffusion coefficients</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>1587</first_page>
+              <doi>10.1002/2013JA019204</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0049|jgra53582-cit-0049">
+              <author>Pembroke</author>
+              <cYear>2012</cYear>
+              <article_title>Initial results from a dynamic coupled magnetosphere-ionosphere-ring current model</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>117</volume>
+              <first_page>A02211</first_page>
+              <doi>10.1029/2011JA016979</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0050|jgra53582-cit-0050">
+              <author>Perry</author>
+              <cYear>2005</cYear>
+              <article_title>Incorporating spectral characteristics of Pc5 waves into three-dimensional radiation belt modeling and the diffusion of relativistic electrons</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>110</volume>
+              <first_page>A03215</first_page>
+              <doi>10.1029/2004JA010760</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0051|jgra53582-cit-0051">
+              <author>Reeves, G. D.</author>
+              <cYear>2013</cYear>
+              <article_title>Electron acceleration in the heart of the Van Allen radiation belts</article_title>
+              <journal_title>Science</journal_title>
+              <volume>341</volume>
+              <first_page>991</first_page>
+              <doi>10.1126/science.1237743</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0052|jgra53582-cit-0052">
+              <author>Roederer</author>
+              <cYear>1970</cYear>
+              <doi provider="crossref">10.1007/978-3-642-49300-3</doi>
+              <volume_title>Dynamics of Geomagnetically Trapped Radiation, Phys. and Chem. in Space</volume_title>
+              <volume>2</volume>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0055|jgra53582-cit-0055">
+              <author>Shprits</author>
+              <cYear>2006</cYear>
+              <article_title>Outward radial diffusion driven by losses at magnetopause</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>111</volume>
+              <first_page>A11214</first_page>
+              <doi>10.1029/2006JA011657</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0056|jgra53582-cit-0056">
+              <author>Shprits</author>
+              <cYear>2008a</cYear>
+              <article_title>Review of modeling of losses and sources of relativistic electrons in the outer radiation belt I: Radial transport</article_title>
+              <journal_title>J. Atmos. Sol. Terr. Phys.</journal_title>
+              <volume>70</volume>
+              <issue>14</issue>
+              <first_page>1679</first_page>
+              <doi>10.1016/j.jastp.2008.06.008</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0057|jgra53582-cit-0057">
+              <author>Shprits</author>
+              <cYear>2008b</cYear>
+              <article_title>Review of modeling of losses and sources of relativistic electrons in the outer radiation belt II: Local acceleration and loss</article_title>
+              <journal_title>J. Atmos. Sol. Terr. Phys.</journal_title>
+              <volume>70</volume>
+              <issue>14</issue>
+              <first_page>1694</first_page>
+              <doi>10.1016/j.jastp.2008.06.014</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0058|jgra53582-cit-0058">
+              <author>Spence, H. E.</author>
+              <cYear>2014</cYear>
+              <article_title>Science goals and overview of the Energetic Particle, Composition, and Thermal Plasma (ECT) Suite on NASA's Radiation Belt Storm Probes (RBSP) mission</article_title>
+              <journal_title>Space Sci. Rev.</journal_title>
+              <volume>179</volume>
+              <first_page>311</first_page>
+              <doi>10.1007/s11214-013-0007-5</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0059|jgra53582-cit-0059">
+              <author>Southwood</author>
+              <cYear>1981</cYear>
+              <article_title>Charged particle behavior in low-frequency geomagnetic pulsations 1. Transverse waves</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>86</volume>
+              <first_page>5643</first_page>
+              <doi>10.1029/JA086iA07p05643</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0060|jgra53582-cit-0060">
+              <author>Subbotin</author>
+              <cYear>2011</cYear>
+              <article_title>Long-term radiation belt simulation with the VERB 3-D code: Comparison with CRRES observations</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>116</volume>
+              <first_page>A12210</first_page>
+              <doi>10.1029/2011JA017019</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0061|jgra53582-cit-0061">
+              <author>Thorne</author>
+              <cYear>2010</cYear>
+              <article_title>Radiation belt dynamics: The importance of wave-particle interactions</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>37</volume>
+              <first_page>L22107</first_page>
+              <doi>10.1029/2010GL044990</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0062|jgra53582-cit-0062">
+              <author>Tsurutani</author>
+              <cYear>1997</cYear>
+              <volume_title>Magnetic Storms, Geophys. Monogr. Ser.</volume_title>
+              <first_page>77</first_page>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0063|jgra53582-cit-0063">
+              <author>Tsurutani, B. T.</author>
+              <cYear>2006</cYear>
+              <article_title>Corotating solar wind streams and recurrent geomagnetic activity: A review</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>111</volume>
+              <first_page>A07S01</first_page>
+              <doi>10.1029/2005JA011273</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0064|jgra53582-cit-0064">
+              <author>Tu</author>
+              <cYear>2012</cYear>
+              <article_title>Quantifying radial diffusion coefficients of radiation belt electrons based on global MHD simulation and spacecraft measurements</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>117</volume>
+              <first_page>A10210</first_page>
+              <doi>10.1029/2012JA017901</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0065|jgra53582-cit-0065">
+              <author>Tu</author>
+              <cYear>2013</cYear>
+              <article_title>Modeling radiation belt electron dynamics during GEM challenge intervals with the dream3d diffusion model</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>6197</first_page>
+              <doi>10.1002/jgra.50560</doi>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0066|jgra53582-cit-0066">
+              <author>Vampola</author>
+              <cYear>1996</cYear>
+              <volume_title>Environment Modeling for Spaced-Based Applications, Space Sci. Rev.</volume_title>
+              <first_page>151</first_page>
+            </citation>
+            <citation key="10.1002/2016JA023846-BIB0067|jgra53582-cit-0067">
+              <author>Wygant, J.</author>
+              <cYear>2014</cYear>
+              <article_title>The electric field and waves instruments on the radiation belt storm probes mission</article_title>
+              <journal_title>Space Sci. Rev.</journal_title>
+              <volume>179</volume>
+              <first_page>183</first_page>
+              <doi>10.1007/s11214-013-0013-7</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

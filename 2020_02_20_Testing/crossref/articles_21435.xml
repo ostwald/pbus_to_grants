@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1371" timestamp="2018-10-23 07:49:42">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>PLOS Computational Biology</full_title>
+          <abbrev_title>PLoS Comput Biol</abbrev_title>
+          <issn media_type="electronic">1553-7358</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>16</day>
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>13</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The use of ambient humidity conditions to improve influenza forecast</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Jeffrey</given_name>
+              <surname>Shaman</surname>
+              <ORCID authenticated="true">http://orcid.org/0000-0002-7216-7809</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Sasikiran</given_name>
+              <surname>Kandula</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Wan</given_name>
+              <surname>Yang</surname>
+              <ORCID authenticated="true">http://orcid.org/0000-0002-7555-9728</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Alicia</given_name>
+              <surname>Karspeck</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="first">
+              <given_name>Mercedes</given_name>
+              <surname>Pascual</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>16</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>e1005844</first_page>
+          </pages>
+          <publisher_item>
+            <item_number>10.1371/journal.pcbi.1005844</item_number>
+          </publisher_item>
+          <crossmark>
+            <crossmark_version>1</crossmark_version>
+            <crossmark_policy>10.1371/journal.pcbi.corrections_policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>www.ploscompbiol.org</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <crossmark_domain_exclusive>false</crossmark_domain_exclusive>
+            <updates>
+              <update type="new_version" date="2017-11-30">10.1371/journal.pcbi.1005844</update>
+            </updates>
+            <custom_metadata>
+              <program name="fundref">
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Institute of General Medical Sciences
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000057</assertion>
+                  </assertion>
+                  <assertion name="award_number">GM100467</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Institute of Environmental Health Sciences
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000066</assertion>
+                  </assertion>
+                  <assertion name="award_number">GM110748</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Institute of Environmental Health Sciences
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000066</assertion>
+                  </assertion>
+                  <assertion name="award_number">ES009089</assertion>
+                </assertion>
+              </program>
+              <program name="AccessIndicators">
+                <license_ref applies_to="vor">http://creativecommons.org/licenses/by/4.0/</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.1371/journal.pcbi.1005844</doi>
+            <timestamp>20171130153906</timestamp>
+            <resource>https://dx.plos.org/10.1371/journal.pcbi.1005844</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <journal_title>Proc Soc. Exper. Biol. Med.</journal_title>
+              <author>CG Loosli</author>
+              <volume>53</volume>
+              <first_page>205</first_page>
+              <cYear>1943</cYear>
+              <doi provider="crossref">10.3181/00379727-53-14251P</doi>
+              <article_title>Experimental air-borne influenza infection. I. Influence of humidity on survival of virus in air</article_title>
+            </citation>
+            <citation key="ref2">
+              <journal_title>J. Infect. Dis.</journal_title>
+              <author>IL Shechmeister</author>
+              <volume>87</volume>
+              <first_page>128</first_page>
+              <cYear>1950</cYear>
+              <doi provider="crossref">10.1093/infdis/87.2.128</doi>
+              <article_title>Studies on the experimental epidemiology of respiratory infections</article_title>
+            </citation>
+            <citation key="ref3">
+              <journal_title>Nature</journal_title>
+              <author>JH Hemmes</author>
+              <volume>188</volume>
+              <first_page>430</first_page>
+              <cYear>1960</cYear>
+              <doi provider="crossref">10.1038/188430a0</doi>
+              <article_title>Virus survival as a seasonal factor in influenza and poliomyelitis</article_title>
+            </citation>
+            <citation key="ref4">
+              <journal_title>J. Hygiene</journal_title>
+              <author>GJ Harper</author>
+              <volume>59</volume>
+              <first_page>479</first_page>
+              <cYear>1961</cYear>
+              <doi provider="crossref">10.1017/S0022172400039176</doi>
+              <article_title>Airborne micro-organisms: survival tests with four viruses</article_title>
+            </citation>
+            <citation key="ref5">
+              <journal_title>Antonie Van Leeuwenhoek</journal_title>
+              <author>JH Hemmes</author>
+              <volume>28</volume>
+              <first_page>221</first_page>
+              <cYear>1962</cYear>
+              <doi provider="crossref">10.1007/BF02538737</doi>
+              <article_title>Virus survival as a seasonal factor in influenza and poliomyelitis</article_title>
+            </citation>
+            <citation key="ref6">
+              <journal_title>J. Hygiene</journal_title>
+              <author>AM Hood</author>
+              <volume>61</volume>
+              <first_page>331</first_page>
+              <cYear>1963</cYear>
+              <doi provider="crossref">10.1017/S0022172400039619</doi>
+              <article_title>Infectivity of influenza virus aerosols</article_title>
+            </citation>
+            <citation key="ref7">
+              <journal_title>Canad. J. Comparative Medicine</journal_title>
+              <author>CA Mitchell</author>
+              <volume>32</volume>
+              <first_page>544</first_page>
+              <cYear>1968</cYear>
+              <article_title>Decay of influenza A viruses of human and avian origin</article_title>
+            </citation>
+            <citation key="ref8">
+              <journal_title>Canad. J. Comparative Medicine</journal_title>
+              <author>CA Mitchell</author>
+              <volume>36</volume>
+              <first_page>9</first_page>
+              <cYear>1972</cYear>
+              <article_title>Influenza A of human, swine, equine and avian origin: comparison of survival in aerosol form</article_title>
+            </citation>
+            <citation key="ref9">
+              <journal_title>Arch. Virology</journal_title>
+              <author>FL Schaffer</author>
+              <volume>51</volume>
+              <first_page>263</first_page>
+              <cYear>1976</cYear>
+              <doi provider="crossref">10.1007/BF01317930</doi>
+              <article_title>Survival of airborne influenza virus: effects of propagating host, relative humidity, and composition of spray fluids</article_title>
+            </citation>
+            <citation key="ref10">
+              <journal_title>PLoS ONE</journal_title>
+              <author>W Yang</author>
+              <volume>7</volume>
+              <first_page>e46789</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1371/journal.pone.0046789</doi>
+              <article_title>Relationship between humidity and influenza A viability in droplets and implications for influenza&amp;apos;s seasonality</article_title>
+            </citation>
+            <citation key="ref11">
+              <journal_title>PLoS Pathog.</journal_title>
+              <author>AC Lowen</author>
+              <volume>3</volume>
+              <first_page>e151</first_page>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1371/journal.ppat.0030151</doi>
+              <article_title>Influenza virus transmission is dependent on relative humidity and temperature</article_title>
+            </citation>
+            <citation key="ref12">
+              <journal_title>Proc. Nat. Acad. Sci. USA</journal_title>
+              <author>J Shaman</author>
+              <volume>106</volume>
+              <first_page>3243</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1073/pnas.0806852106</doi>
+              <article_title>Absolute Humidity Modulates Influenza Survival, Transmission and Seasonality</article_title>
+            </citation>
+            <citation key="ref13">
+              <journal_title>BMC Infectious Diseases</journal_title>
+              <author>TH Koep</author>
+              <volume>13</volume>
+              <first_page>71</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1186/1471-2334-13-71</doi>
+              <article_title>Predictors of Indoor Absolute Humidity and Estimated Effects on Influenza Virus Survival in Grade Schools</article_title>
+            </citation>
+            <citation key="ref14">
+              <journal_title>Weather, Climate and Society</journal_title>
+              <author>JD Tamerius</author>
+              <volume>5</volume>
+              <first_page>168</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/WCAS-D-12-00030.1</doi>
+              <article_title>Socioeconomic and Outdoor Meteorological Determinants of Indoor Temperature and Humidity in New York City Households</article_title>
+            </citation>
+            <citation key="ref15">
+              <journal_title>Indoor Air</journal_title>
+              <author>JL Nguyen</author>
+              <volume>24</volume>
+              <first_page>103</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1111/ina.12052</doi>
+              <article_title>The relationship between indoor and outdoor temperature, apparent temperature, relative humidity, and absolute humidity</article_title>
+            </citation>
+            <citation key="ref16">
+              <journal_title>Sci. Total Environ.</journal_title>
+              <author>A Quinn</author>
+              <volume>490</volume>
+              <first_page>686</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.scitotenv.2014.05.039</doi>
+              <article_title>Predicting indoor heat exposure risk during extreme heat events</article_title>
+            </citation>
+            <citation key="ref17">
+              <journal_title>J. Expo. Sci. Env. Epid.</journal_title>
+              <author>NE Klepeis</author>
+              <volume>11</volume>
+              <first_page>231</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1038/sj.jea.7500165</doi>
+              <article_title>The National Human Activity Pattern Survey (NHAPS): a resource for assessing exposure to environmental pollutants</article_title>
+            </citation>
+            <citation key="ref18">
+              <journal_title>PLoS Biol.</journal_title>
+              <author>J Shaman</author>
+              <volume>8</volume>
+              <first_page>e1000316</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1371/journal.pbio.1000316</doi>
+              <article_title>Absolute Humidity and the Seasonal Onset of Influenza in the Continental US</article_title>
+            </citation>
+            <citation key="ref19">
+              <journal_title>Am J Epidem.</journal_title>
+              <author>AI Barreca</author>
+              <volume>176</volume>
+              <first_page>S114</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1093/aje/kws259</doi>
+              <article_title>Absolute humidity, temperature, and influenza mortality: 30 years of county-level evidence from the United States</article_title>
+            </citation>
+            <citation key="ref20">
+              <journal_title>Am J Epidem.</journal_title>
+              <author>DE te Beest</author>
+              <volume>178</volume>
+              <first_page>1469</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1093/aje/kwt132</doi>
+              <article_title>Driving factors of influenza transmission in the Netherlands</article_title>
+            </citation>
+            <citation key="ref21">
+              <journal_title>PLoS Pathogens</journal_title>
+              <author>JD Tamerius</author>
+              <volume>9</volume>
+              <first_page>e1003194</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1371/journal.ppat.1003194</doi>
+              <article_title>Environmental Predictors of Seasonal Influenza Epidemics across Temperate and Tropical Climates</article_title>
+            </citation>
+            <citation key="ref22">
+              <journal_title>Am J Epidem.</journal_title>
+              <author>J Shaman</author>
+              <volume>173</volume>
+              <first_page>127</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1093/aje/kwq347</doi>
+              <article_title>Absolute humidity and pandemic versus epidemic influenza</article_title>
+            </citation>
+            <citation key="ref23">
+              <journal_title>BMC Infect. Dis</journal_title>
+              <author>G Chowell</author>
+              <volume>12</volume>
+              <first_page>298</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1186/1471-2334-12-298</doi>
+              <article_title>The influence of climatic conditions on the transmission dynamics of the 2009 A/H1N1 influenza pandemic in Chile</article_title>
+            </citation>
+            <citation key="ref24">
+              <journal_title>J. Royal Soc. Interface</journal_title>
+              <author>R Yaari</author>
+              <volume>10</volume>
+              <first_page>20130298</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1098/rsif.2013.0298</doi>
+              <article_title>Modelling seasonal influenza: the role of weather and punctuated antigenic drift</article_title>
+            </citation>
+            <citation key="ref25">
+              <journal_title>PLOS Comp. Biol.</journal_title>
+              <author>JD Tamerius</author>
+              <volume>11</volume>
+              <first_page>e1004337</first_page>
+              <cYear>2015</cYear>
+              <article_title>Regional variability of specific humidity and school vacation can explain multiple spatially-focused waves of 2009 pandemic influenza in Mexico</article_title>
+            </citation>
+            <citation key="ref26">
+              <journal_title>Proc. Nat. Acad. Sci. USA</journal_title>
+              <author>J Shaman</author>
+              <volume>109</volume>
+              <first_page>20425</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1073/pnas.1208772109</doi>
+              <article_title>Forecasting seasonal outbreaks of influenza</article_title>
+            </citation>
+            <citation key="ref27">
+              <journal_title>Nature Communications</journal_title>
+              <author>J Shaman</author>
+              <volume>4</volume>
+              <first_page>2837</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1038/ncomms3837</doi>
+              <article_title>Real-Time Influenza Forecasts during the 2012–2013 Season</article_title>
+            </citation>
+            <citation key="ref28">
+              <journal_title>PLOS Comp. Biol.</journal_title>
+              <author>W Yang</author>
+              <volume>10</volume>
+              <first_page>e1003583</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1371/journal.pcbi.1003583</doi>
+              <article_title>Comparison of filtering methods for the modeling and retrospective forecasting of influenza epidemics</article_title>
+            </citation>
+            <citation key="ref29">
+              <journal_title>PLOS Curr. Outbreaks</journal_title>
+              <author>J Shaman</author>
+              <cYear>2015</cYear>
+              <article_title>Improved Discrimination of Influenza Forecast Accuracy using Consecutive Predictions</article_title>
+            </citation>
+            <citation key="ref30">
+              <journal_title>PLOS Comp. Biol.</journal_title>
+              <author>W Yang</author>
+              <volume>11</volume>
+              <first_page>e1004383</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1371/journal.pcbi.1004383</doi>
+              <article_title>Forecasting influenza epidemics in Hong Kong</article_title>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>CPID–Columbia Prediction of Infectious Diseases. 2017 Available from: &lt;ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://cpid.iri.columbia.edu" xlink:type="simple"&gt;cpid.iri.columbia.edu&lt;/ext-link&gt;</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <journal_title>Bull. Amer. Meteor. Soc.</journal_title>
+              <author>F Mesinger</author>
+              <volume>87</volume>
+              <first_page>343</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/BAMS-87-3-343</doi>
+              <article_title>North American regional reanalysis</article_title>
+            </citation>
+            <citation key="ref33">
+              <journal_title>J. Geophys. Res.</journal_title>
+              <author>BA Cosgrove</author>
+              <volume>108</volume>
+              <first_page>D22</first_page>
+              <cYear>2003</cYear>
+              <article_title>Real-time and retrospective forcing in the North American Land Data Assimilation System (NLDAS) project</article_title>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Data Source: Google Flu Trends. 2015 Available from: &lt;ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.google.org/flutrends" xlink:type="simple"&gt;http://www.google.org/flutrends&lt;/ext-link&gt;.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Data Source: Centers for Disease Control and Prevention FluView. 2016 Available from: &lt;ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.cdc.gov/flu/weekly/" xlink:type="simple"&gt;http://www.cdc.gov/flu/weekly/&lt;/ext-link&gt;</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <journal_title>Epidemiology</journal_title>
+              <author>E Goldstein</author>
+              <volume>23</volume>
+              <first_page>829</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1097/EDE.0b013e31826c2dda</doi>
+              <article_title>Improving the Estimation of Influenza-related Mortality over a Seasonal Baseline</article_title>
+            </citation>
+            <citation key="ref37">
+              <journal_title>Mon. Wea. Rev.</journal_title>
+              <author>G Burgers</author>
+              <volume>126</volume>
+              <first_page>1719</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1998)126&lt;1719:ASITEK&gt;2.0.CO;2</doi>
+              <article_title>Analysis scheme in the ensemble Kalman filter</article_title>
+            </citation>
+            <citation key="ref38">
+              <journal_title>Mon. Wea. Rev.</journal_title>
+              <author>JL Anderson</author>
+              <volume>129</volume>
+              <first_page>2884</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;2884:AEAKFF&gt;2.0.CO;2</doi>
+              <article_title>An ensemble adjustment Kalman filter for data assimilation</article_title>
+            </citation>
+            <citation key="ref39">
+              <journal_title>Mon. Wea. Rev.</journal_title>
+              <author>JL Anderson</author>
+              <volume>138</volume>
+              <first_page>4186</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2010MWR3253.1</doi>
+              <article_title>A Non-Gaussian Ensemble Filter Update for Data Assimilation</article_title>
+            </citation>
+            <citation key="ref40">
+              <journal_title>IEEE Trans. Signal Proc.</journal_title>
+              <author>MS Arulampalam</author>
+              <volume>50</volume>
+              <first_page>174</first_page>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1109/78.978374</doi>
+              <article_title>A Tutorial on Particle Filters for Online Nonlinear/Non-Gaussian Bayesian Tracking</article_title>
+            </citation>
+            <citation key="ref41">
+              <author>G Evensen</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1007/978-3-642-03711-5</doi>
+              <article_title>Data Assimilation: The ensemble Kalman filter</article_title>
+            </citation>
+            <citation key="ref42">
+              <journal_title>Mon. Wea. Rev.</journal_title>
+              <author>PJ van Leeuwen</author>
+              <volume>137</volume>
+              <first_page>4089</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1175/2009MWR2835.1</doi>
+              <article_title>Particle filtering in geophysical systems</article_title>
+            </citation>
+            <citation key="ref43">
+              <journal_title>The Journal of infectious diseases</journal_title>
+              <author>M Biggerstaff</author>
+              <volume>210</volume>
+              <issue>4</issue>
+              <first_page>535</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1093/infdis/jiu224</doi>
+              <article_title>Influenza-like illness, the time to seek healthcare, and influenza antiviral receipt during the 2010–11 influenza season—United States</article_title>
+            </citation>
+            <citation key="ref44">
+              <journal_title>Nature</journal_title>
+              <author>J Ginsberg</author>
+              <volume>457</volume>
+              <first_page>1012</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1038/nature07634</doi>
+              <article_title>Detecting influenza epidemics using search engine query data</article_title>
+            </citation>
+            <citation key="ref45">
+              <journal_title>PLoS One</journal_title>
+              <author>S Cook</author>
+              <volume>6</volume>
+              <first_page>e23610</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1371/journal.pone.0023610</doi>
+              <article_title>Assessing Google Flu Trends performance in the United States during the 2009 influenza virus A (H1N1) pandemic</article_title>
+            </citation>
+            <citation key="ref46">
+              <journal_title>PLoS Comput Biol.</journal_title>
+              <author>DR Olson</author>
+              <volume>9</volume>
+              <issue>10</issue>
+              <first_page>e1003256</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1371/journal.pcbi.1003256</doi>
+              <article_title>Reassessing Google Flu Trends Data for Detection of Seasonal and Pandemic Influenza: A Comparative Epidemiological Study at Three Geographic Scales</article_title>
+            </citation>
+            <citation key="ref47">
+              <journal_title>Science</journal_title>
+              <author>D Lazer</author>
+              <volume>343</volume>
+              <issue>6176</issue>
+              <first_page>1203</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1126/science.1248506</doi>
+              <article_title>The parable of Google Flu: traps in big data analysis</article_title>
+            </citation>
+            <citation key="ref48">
+              <journal_title>BMC Infectious Diseases</journal_title>
+              <author>M Biggerstaff</author>
+              <volume>16</volume>
+              <issue>1</issue>
+              <first_page>357</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1186/s12879-016-1669-x</doi>
+              <article_title>Results from the centers for disease control and prevention’s predict the 2013–2014 Influenza Season Challenge</article_title>
+            </citation>
+            <citation key="ref49">
+              <journal_title>BMC medicine</journal_title>
+              <author>M Tizzoni</author>
+              <volume>10</volume>
+              <issue>1</issue>
+              <first_page>165</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1186/1741-7015-10-165</doi>
+              <article_title>Real-time numerical forecast of global epidemic spreading: case study of 2009 A/H1N1pdm</article_title>
+            </citation>
+            <citation key="ref50">
+              <journal_title>PLoS computational biology</journal_title>
+              <author>LC Brooks</author>
+              <volume>11</volume>
+              <issue>8</issue>
+              <first_page>e1004382</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1371/journal.pcbi.1004382</doi>
+              <article_title>Flexible modeling of epidemics with an empirical Bayes framework</article_title>
+            </citation>
+            <citation key="ref51">
+              <journal_title>The Annals of Applied Statistics</journal_title>
+              <author>D Osthus</author>
+              <volume>11</volume>
+              <issue>1</issue>
+              <first_page>202</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1214/16-AOAS1000</doi>
+              <article_title>Forecasting seasonal influenza with a state-space SIR model</article_title>
+            </citation>
+            <citation key="ref52">
+              <journal_title>Statistics in Medicine</journal_title>
+              <author>EL Ray</author>
+              <first_page>1</first_page>
+              <cYear>2017</cYear>
+              <article_title>Infectious disease prediction with kernel conditional density estimation</article_title>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description/>
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.g001</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.g001</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <description/>
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.g002</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.g002</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <description/>
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.g003</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.g003</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <description/>
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.g004</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.g004</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <description/>
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.g005</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.g005</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <description/>
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.t001</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.t001</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <description/>
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.t002</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.t002</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s001</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s001</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s002</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s002</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s003</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s003</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s004</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s004</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s005</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s005</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s006</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s006</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s007</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s007</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s008</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s008</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1371/journal.pcbi.1005844.s009</doi>
+                <resource>http://dx.plos.org/10.1371/journal.pcbi.1005844.s009</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

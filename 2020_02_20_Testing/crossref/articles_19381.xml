@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 19:45:43">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>20</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Evaluating the strength of the land&amp;amp;ndash;atmosphere moisture feedback in Earth system models using satellite observations</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Paul A.</given_name>
+              <surname>Levine</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James T.</given_name>
+              <surname>Randerson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sean C.</given_name>
+              <surname>Swenson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David M.</given_name>
+              <surname>Lawrence</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The relationship between terrestrial water storage (TWS) and atmospheric processes has important implications for predictability of climatic extremes and projection of future climate change. In places where moisture availability limits evapotranspiration (ET), variability in TWS has the potential to influence surface energy fluxes and atmospheric conditions. Where atmospheric conditions, in turn, influence moisture availability, a full feedback loop exists. Here we developed a novel approach for measuring the strength of both components of this feedback loop, i.e., the forcing of the atmosphere by variability in TWS and the response of TWS to atmospheric variability, using satellite observations of TWS, precipitation, solar radiation, and vapor pressure deficit during 2002&amp;ndash;2014. Our approach defines metrics to quantify the relationship between TWS anomalies and climate globally on a seasonal to interannual timescale. Metrics derived from the satellite data were used to evaluate the strength of the feedback loop in 38 members of the Community Earth System Model (CESM) Large Ensemble (LENS) and in six models that contributed simulations to phase 5 of the Coupled Model Intercomparison Project (CMIP5). We found that both forcing and response limbs of the feedback loop in LENS were stronger than in the satellite observations in tropical and temperate regions. Feedbacks in the selected CMIP5 models were not as strong as those found in LENS, but were still generally stronger than those estimated from the satellite measurements. Consistent with previous studies conducted across different spatial and temporal scales, our analysis suggests that models may overestimate the strength of the feedbacks between the land surface and the atmosphere. We describe several possible mechanisms that may contribute to this bias, and discuss pathways through which models may overestimate ET or overestimate the sensitivity of ET to TWS.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>09</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>4837</first_page>
+            <last_page>4856</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5067/TELND-NC005</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5067/AQUA/AIRS/DATA319</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-20-4837-2016</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/20/4837/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/20/4837/2016/hess-20-4837-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/2007JHM863.1</doi>
+              <unstructured_citation>Alfieri, L., Claps, P., D'Odorico, P., Laio, F., and Over, T. M.: An analysis of the soil moisture feedback on convective and stratiform precipitation, J. Hydrometeorol., 9, 280–291, https://doi.org/10.1175/2007JHM863.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/JCLI-D-14-00324.1</doi>
+              <unstructured_citation>Berg, A., Lintner, B. R., Findell, K., Seneviratne, S. I., van den Hurk, B., Ducharne, A., Chéruy, F., Hagemann, S., Lawrence, D. M., Malyshev, S., Meier, A., and Gentine, P.: Interannual Coupling between Summertime Surface Temperature and Precipitation over Land: Processes and Implications for Climate Change, J. Climate, 28, 1308–1328, https://doi.org/10.1175/JCLI-D-14-00324.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.3894/JAMES.2009.1.4</doi>
+              <unstructured_citation>Betts, A. K.: Land-surface–atmosphere coupling in observations and models, J. Adv. Model. Earth Syst., 1, 4, https://doi.org/10.3894/JAMES.2009.1.4, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1002/2014JD022511</doi>
+              <unstructured_citation>Betts, A. K., Desjardins, R., Worth, D., and Beckage, B.: Climate coupling between temperature, humidity, precipitation, and cloud cover over the Canadian Prairies, J. Geophys. Res.-Atmos., 119, 13305–13326, https://doi.org/10.1002/2014JD022511, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1002/jgrg.20046</doi>
+              <unstructured_citation>Chen, Y., Velicogna, I., Famiglietti, J. S., and Randerson, J. T.: Satellite observations of terrestrial water storage provide early warning information about drought and fire season severity in the Amazon, J. Geophys. Res.-Biogeo., 118, 495–504, https://doi.org/10.1002/jgrg.20046, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1088/1748-9326/11/4/045001</doi>
+              <unstructured_citation>Chen, Y., Morton, D. C., Andela, N., Giglio, L., and Randerson, J. T.: How much global burned area can be forecast on seasonal time scales using sea surface temperatures?, Environ. Res. Lett., 11, 45001, https://doi.org/10.1088/1748-9326/11/4/045001, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1007/s00382-012-1469-y</doi>
+              <unstructured_citation>Cheruy, F., Campoy, A., Dupont, J.-C., Ducharne, A., Hourdin, F., Haeffelin, M., Chiriaco, M., and Idelkadi, A.: Combined influence of atmospheric physics and soil hydrology on the simulated meteorology at the SIRTA atmospheric observatory, Clim. Dynam., 40, 2251–2269, https://doi.org/10.1007/s00382-012-1469-y, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/2014GL061145</doi>
+              <unstructured_citation>Cheruy, F., Dufresne, J. L., Hourdin, F., and Ducharne, A.: Role of clouds and land–atmosphere coupling in midlatitude continental summer warm biases and climate change amplification in CMIP5 simulations, Geophys. Res. Lett., 41, 6493–6500, https://doi.org/10.1002/2014GL061145, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/JCLI3530.1</doi>
+              <unstructured_citation>Cohen, J. and Barlow, M.: The NAO, the AO, and global warming: how closely related?, J. Climate, 18, 4498–4513, https://doi.org/10.1175/JCLI3530.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1175/JCLI3884.1</doi>
+              <unstructured_citation>Dai, A.: Precipitation characteristics in eighteen coupled climate models, J. Climate, 19, 4605–4630, https://doi.org/10.1175/JCLI3884.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P., Kobayashi, S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P., Bechtold, P., Beljaars, A. C. M., van de Berg, L., Bidlot, J., Bormann, N., Delsol, C., Dragani, R., Fuentes, M., Geer, A. J., Haimberger, L., Healy, S. B., Hersbach, H., Hólm, E. V., Isaksen, L., Kållberg, P., Köhler, M., Matricardi, M., McNally, A. P., Monge-Sanz, B. M., Morcrette, J.-J., Park, B.-K., Peubey, C., de Rosnay, P., Tavolato, C., Thépaut, J.-N., and Vitart, F.: The ERA-Interim reanalysis: configuration and performance of the data assimilation system, Q. J. Roy. Meteorol. Soc., 137, 553–597, https://doi.org/10.1002/qj.828, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/JHM532.1</doi>
+              <unstructured_citation>Dirmeyer, P. A., Koster, R. D., and Guo, Z.: Do global models properly represent the feedback between land and atmosphere?, J. Hydrometeorol., 7, 1177–1198, https://doi.org/10.1175/JHM532.1, 2006a.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/BAMS-87-10-1381</doi>
+              <unstructured_citation>Dirmeyer, P. A., Gao, X., Zhao, M., Guo, Z., Oki, T., and Hanasaki, N.: GSWP-2: Multimodel Analysis and Implications for Our Perception of the Land Surface, B. Am. Meteorol. Soc., 87, 1381–1397, https://doi.org/10.1175/BAMS-87-10-1381, 2006b.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/JHM-D-12-0107.1</doi>
+              <unstructured_citation>Dirmeyer, P. A., Jin, Y., Singh, B., and Yan, X.: Trends in Land–Atmosphere Interactions from CMIP5 Simulations, J. Hydrometeorol., 14, 829–849, https://doi.org/10.1175/JHM-D-12-0107.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1007/s00382-012-1636-1</doi>
+              <unstructured_citation>Dufresne, J.-L., Foujols, M.-A., Denvil, S., Caubel, A., Marti, O., Aumont, O., Balkanski, Y., Bekki, S., Bellenger, H., Benshila, R., Bony, S., Bopp, L., Braconnot, P., Brockmann, P., Cadule, P., Cheruy, F., Codron, F., Cozic, A., Cugnet, D., Noblet, N., Duvel, J.-P., Ethé, C., Fairhead, L., Fichefet, T., Flavoni, S., Friedlingstein, P., Grandpeix, J.-Y., Guez, L., Guilyardi, E., Hauglustaine, D., Hourdin, F., Idelkadi, A., Ghattas, J., Joussaume, S., Kageyama, M., Krinner, G., Labetoulle, S., Lahellec, A., Lefebvre, M.-P., Lefevre, F., Levy, C., Li, Z. X., Lloyd, J., Lott, F., Madec, G., Mancip, M., Marchand, M., Masson, S., Meurdesoif, Y., Mignot, J., Musat, I., Parouty, S., Polcher, J., Rio, C., Schulz, M., Swingedouw, D., Szopa, S., Talandier, C., Terray, P., Viovy, N., and Vuichard, N.: Climate change projections using the IPSL-CM5 Earth System Model: from CMIP3 to CMIP5, Clim. Dynam., 40, 2123–2165, https://doi.org/10.1007/s00382-012-1636-1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/JCLI-D-11-00560.1</doi>
+              <unstructured_citation>Dunne, J. P., John, J. G., Adcroft, A. J., Griffies, S. M., Hallberg, R. W., Shevliakova, E., Stouffer, R. J., Cooke, W., Dunne, K. A., Harrison, M. J., Krasting, J. P., Malyshev, S. L., Milly, P. C. D., Phillipps, P. J., Sentman, L. T., Samuels, B. L., Spelman, M. J., Winton, M., Wittenberg, A. T., and Zadeh, N.: GFDL's ESM2 global coupled climate–carbon earth system models. Part I: Physical formulation and baseline simulation characteristics, J. Climate, 25, 6646–6665, https://doi.org/10.1175/JCLI-D-11-00560.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/97WR03499</doi>
+              <unstructured_citation>Eltahir, E. A. B.: A soil moisture–rainfall feedback mechanism: 1. Theory and observations, Water Resour. Res., 34, 765–776, https://doi.org/10.1029/97WR03499, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/JHM-D-11-0119.1</doi>
+              <unstructured_citation>Ferguson, C. R., Wood, E. F., and Vinukollu, R. K.: A global intercomparison of modeled and observed land–atmosphere coupling, J. Hydrometeorol., 13, 749–784, https://doi.org/10.1175/JHM-D-11-0119.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/96WR03756</doi>
+              <unstructured_citation>Findell, K. L. and Eltahir, E. A. B.: An analysis of the soil moisture–rainfall feedback, based on direct observations from Illinois, Water Resour. Res., 33, 725–735, https://doi.org/10.1029/96WR03756, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Findell, K. L. and Eltahir, E. A. B.: Atmospheric controls on soil moisture–boundary layer interactions. Part I: Framework development, J. Hydrometeorol., 4, 552–569, https://doi.org/10.1175/1525-7541(2003)004&amp;amp;lt;0552:ACOSML&amp;amp;gt;2.0.CO;2, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1038/ngeo1174</doi>
+              <unstructured_citation>Findell, K. L., Gentine, P., Lintner, B. R., and Kerr, C.: Probability of afternoon precipitation in eastern United States and Mexico enhanced by high evaporation, Nat. Geosci., 4, 434–439, https://doi.org/10.1038/ngeo1174, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/JHM-D-14-0131.1</doi>
+              <unstructured_citation>Findell, K. L., Gentine, P., Lintner, B. R., and Guillod, B. P.: Data length requirements for observational estimates of land–atmosphere coupling strength, J. Hydrometeorol., 16, 1615–1635, https://doi.org/10.1175/JHM-D-14-0131.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1007/978-3-319-10837-7_15</doi>
+              <unstructured_citation>Flechtner, F., Morton, P., Watkins, M., and Webb, F.: Status of the GRACE Follow-On Mission, in: Gravity, Geoid and Height Systems, Proceedings of the IAG Symposium, edited by: Marti, U., Springer International Publishing, Switzerland, 117–121, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-14-8343-2014</doi>
+              <unstructured_citation>Guillod, B. P., Orlowsky, B., Miralles, D., Teuling, A. J., Blanken, P. D., Buchmann, N., Ciais, P., Ek, M., Findell, K. L., Gentine, P., Lintner, B. R., Scott, R. L., den Hurk, B., and Seneviratne, S.: Land-surface controls on afternoon precipitation diagnosed from observational data: uncertainties and confounding factors, Atmos. Chem. Phys., 14, 8343–8367, https://doi.org/10.5194/acp-14-8343-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1038/ncomms7443</doi>
+              <unstructured_citation>Guillod, B. P., Orlowsky, B., Miralles, D. G., Teuling, A. J., and Seneviratne, S. I.: Reconciling spatial and temporal soil moisture effects on afternoon rainfall, Nat. Commun., 6, 6443, https://doi.org/10.1038/ncomms7443, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/JHM-D-12-0171.1</doi>
+              <unstructured_citation>Guo, Z. and Dirmeyer, P. A.: Interannual variability of land–atmosphere coupling strength, J. Hydrometeorol., 14, 1636–1646, https://doi.org/10.1175/JHM-D-12-0171.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/JHM511.1</doi>
+              <unstructured_citation>Guo, Z., Dirmeyer, P. A., Koster, R. D., Sud, Y. C., Bonan, G., Oleson, K. W., Chan, E., Verseghy, D., Cox, P., Gordon, C. T., McGregor, J. L., Kanae, S., Kowalczyk, E., Lawrence, D., Liu, P., Mocko, D., Lu, C.-H., Mitchell, K., Malyshev, S., McAvaney, B., Oki, T., Yamada, T., Pitman, A., Taylor, C. M., Vasic, R., and Xue, Y.: GLACE: The Global Land–Atmosphere Coupling Experiment. Part II: Analysis, J. Hydrometeorol., 7, 611–625, https://doi.org/10.1175/JHM511.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/JCLI-D-13-00074.1</doi>
+              <unstructured_citation>Harper, A., Baker, I. T., Denning, A. S., Randall, D. A., Dazlich, D., and Branson, M.: Impact of evapotranspiration on dry season climate in the Amazon forest, J. Climate, 27, 574–591, https://doi.org/10.1175/JCLI-D-13-00074.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1073/pnas.1404870111</doi>
+              <unstructured_citation>Hilker, T., Lyapustin, A. I., Tucker, C. J., Hall, F. G., Myneni, R. B., Wang, Y., Bi, J., de Moura, Y., and Sellers, P. J.: Vegetation dynamics and rainfall sensitivity of the Amazon, P. Natl. Acad. Sci. USA, 111, 16041–16046, https://doi.org/10.1073/pnas.1404870111, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1038/ngeo1032</doi>
+              <unstructured_citation>Hirschi, M., Seneviratne, S. I., Alexandrov, V., Boberg, F., Boroneant, C., Christensen, O. B., Formayer, H., Orlowsky, B., and Stepanek, P.: Observational evidence for soil-moisture impact on hot extremes in southeastern Europe, Nat. Geosci., 4, 17–21, https://doi.org/10.1038/ngeo1032, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1016/j.rse.2014.08.030</doi>
+              <unstructured_citation>Hirschi, M., Mueller, B., Dorigo, W., and Seneviratne, S. I.: Using remotely sensed soil moisture for land–atmosphere coupling diagnostics: The role of surface vs. root-zone soil moisture variability, Remote Sens. Environ., 154, 246–252, https://doi.org/10.1016/j.rse.2014.08.030, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/2009JCLI2604.1</doi>
+              <unstructured_citation>Hohenegger, C., Brockhaus, P., Bretherton, C. S., and Schär, C.: The soil moisture–precipitation feedback in simulations with explicit and parameterized convection, J. Climate, 22, 5003–5020, https://doi.org/10.1175/2009JCLI2604.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1007/s00382-012-1411-3</doi>
+              <unstructured_citation>Hourdin, F., Foujols, M.-A., Codron, F., Guemas, V., Dufresne, J.-L., Bony, S., Denvil, S., Guez, L., Lott, F., Ghattas, J., Braconnot, P., Marti, O., Meurdesoif, Y., and Bopp, L.: Impact of the LMDZ atmospheric grid configuration on the climate and sensitivity of the IPSL-CM5A coupled model, Clim. Dynam., 40, 2167–2192, https://doi.org/10.1007/s00382-012-1411-3, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2009GL040000</doi>
+              <unstructured_citation>Huffman, G. J., Adler, R. F., Bolvin, D. T., and Gu, G.: Improving the global precipitation record: GPCP Version 2.1, Geophys. Res. Lett., 36, L17808, https://doi.org/10.1029/2009GL040000, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/JCLI-D-12-00541.1</doi>
+              <unstructured_citation>Hung, M.-P., Lin, J.-L., Wang, W., Kim, D., Shinoda, T., and Weaver, S. J..: MJO and convectively coupled equatorial waves simulated by CMIP5 climate models, J. Climate, 26, 6185–6214, https://doi.org/10.1175/JCLI-D-12-00541.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/BAMS-D-13-00255.1</doi>
+              <unstructured_citation>Kay, J. E., Deser, C., Phillips, A., Mai, A., Hannay, C., Strand, G., Arblaster, J. M., Bates, S. C., Danabasoglu, G., Edwards, J., Holland, M., Kushner, P., Lamarque, J.-F., Lawrence, D., Lindsay, K., Middleton, A., Munoz, E., Neale, R., Oleson, K., Polvani, L., and Vertenstein, M.: The Community Earth System Model (CESM) Large Ensemble project: A community resource for studying climate change in the presence of internal climate variability, B. Am. Meteorol. Soc., 96, 1333–1349, https://doi.org/10.1175/BAMS-D-13-00255.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2009GL039006</doi>
+              <unstructured_citation>Kim, H., Yeh, P. J.-F., Oki, T., and Kanae, S.: Role of rivers in the seasonal variations of terrestrial water storage over global basins, Geophys. Res. Lett., 36, L17402, https://doi.org/10.1029/2009GL039006, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/2015MS000574</doi>
+              <unstructured_citation>Kooperman, G. J., Pritchard, M. S., Burt, M. A., Branson, M. D., and Randall, D. A.: Robust effects of cloud superparameterization on simulated daily rainfall intensity statistics across multiple versions of the Community Earth System Model, J. Adv. Model. Earth Syst., 8, 140–165, https://doi.org/10.1002/2015MS000574, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1126/science.1100217</doi>
+              <unstructured_citation>Koster, R. D., Dirmeyer, P. A., Guo, Z., Bonan, G., Chan, E., Cox, P., Gordon, C. T., Kanae, S., Kowalczyk, E., Lawrence, D., Liu, P., Lu, C.-H., Malyshev, S., McAvaney, B., Mitchell, K., Mocko, D., Oki, T., Oleson, K., Pitman, A., Sud, Y. C., Taylor, C. M., Verseghy, D., Vasic, R., Xue, Y., and Yamada, T.: Regions of strong coupling between soil moisture and precipitation, Science, 305, 1138–1140, https://doi.org/10.1126/science.1100217, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/JHM510.1</doi>
+              <unstructured_citation>Koster, R. D., Sud, Y. C., Guo, Z., Dirmeyer, P. A., Bonan, G., Oleson, K. W., Chan, E., Verseghy, D., Cox, P., Davies, H., Kowalczyk, E., Gordon, C. T., Kanae, S., Lawrence, D., Liu, P., Mocko, D., Lu, C.-H., Mitchell, K., Malyshev, S., McAvaney, B., Oki, T., Yamada, T., Pitman, A., Taylor, C. M., Vasic, R., and Xue, Y.: GLACE: The Global Land–Atmosphere Coupling Experiment. Part I: Overview, J. Hydrometeorol., 7, 590–610, https://doi.org/10.1175/JHM510.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/2009GL041677</doi>
+              <unstructured_citation>Koster, R. D., Mahanama, S. P. P., Yamada, T. J., Balsamo, G., Berg, A. A., Boisserie, M., Dirmeyer, P. A., Doblas-Reyes, F. J., Drewitt, G., Gordon, C. T., Guo, Z., Jeong, J.-H., Lawrence, D. M., Lee, W.-S., Li, Z., Luo, L., Malyshev, S., Merryfield, W. J., Seneviratne, S. I., Stanelle, T., van den Hurk, B. J. J. M., Vitart, F., and Wood, E. F.: Contribution of land surface initialization to subseasonal forecast skill: First results from a multi-model experiment, Geophys. Res. Lett., 37, L02402, https://doi.org/10.1029/2009GL041677, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/2011JHM1365.1</doi>
+              <unstructured_citation>Koster, R. D., Mahanama, S. P. P., Yamada, T. J., Balsamo, G., Berg, A. A., Boisserie, M., Dirmeyer, P. A., Doblas-Reyes, F. J., Drewitt, G., Gordon, C. T., Guo, Z., Jeong, J.-H., Lee, W.-S., Li, Z., Luo, L., Malyshev, S., Merryfield, W. J., Seneviratne, S. I., Stanelle, T., van den Hurk, B. J. J. M., Vitart, F., and Wood, E. F.: The second phase of the Global Land–Atmosphere Coupling Experiment: Soil moisture contributions to subseasonal forecast skill, J. Hydrometeorol., 12, 805–822, https://doi.org/10.1175/2011JHM1365.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2011WR011453</doi>
+              <unstructured_citation>Landerer, F. W. and Swenson, S. C.: Accuracy of scaled GRACE terrestrial water storage estimates, Water Resour. Res., 48, W04531, https://doi.org/10.1029/2011WR011453, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Thornton, P. E., Swenson, S. C., Lawrence, P. J., Zeng, X., Yang, Z.-L., Levis, S., Sakaguchi, K., Bonan, G. B., and Slater, A. G.: Parameterization improvements and functional and structural advances in Version 4 of the Community Land Model, J. Adv. Model. Earth Syst., 3, M03001, https://doi.org/10.1029/2011MS00045, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/BAMS-86-2-225</doi>
+              <unstructured_citation>Lawrence, M. G.: The relationship between relative humidity and the dewpoint temperature in moist air: A simple conversion and applications, B. Am. Meteorol. Soc., 86, 225–233, https://doi.org/10.1175/BAMS-86-2-225, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1073/pnas.0508785102</doi>
+              <unstructured_citation>Lee, J. E., Oliveira, R. S., Dawson, T. E., and Fung, I.: Root functioning modifies seasonal climate, P. Natl. Acad. Sci. USA, 102, 17576–17581, https://doi.org/10.1073/pnas.0508785102, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/JCLI-D-12-00565.1</doi>
+              <unstructured_citation>Lindsay, K., Bonan, G. B., Doney, S. C., Hoffman, F. M., Lawrence, D. M., Long, M. C., Mahowald, N. M., Keith Moore, J., Randerson, J. T., and Thornton, P. E.: Preindustrial-control and twentieth-century carbon cycle experiments with the earth system model CESM1(BGC), J. Climate, 27, 8981–9005, https://doi.org/10.1175/JCLI-D-12-00565.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1175/2008JCLI2637.1</doi>
+              <unstructured_citation>Loeb, N. G., Wielicki, B. A., Doelling, D. R., Smith, G. L., Keyes, D. F., Kato, S., Manalo-Smith, N., and Wong, T.: Toward optimal closure of the Earth's top-of-atmosphere radiation budget, J. Climate, 22, 748–766, https://doi.org/10.1175/2008JCLI2637.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1002/2014GL061017</doi>
+              <unstructured_citation>Lorenz, R. and Pitman, A. J.: Effect of land–atmosphere coupling strength on impacts from Amazonian deforestation, Geophys. Res. Lett., 41, 5987–5995, https://doi.org/10.1002/2014GL061017, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1007/s00382-015-2538-9</doi>
+              <unstructured_citation>May, W., Meier, A., Rummukainen, M., Berg, A., Chéruy, F., and Hagemann, S.: Contributions of soil moisture interactions to climate change in the tropics in the GLACE–CMIP5 experiment, Clim. Dynam., 45, 1–23, https://doi.org/10.1007/s00382-015-2538-9, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1109/TGRS.2012.2187666</doi>
+              <unstructured_citation>Mecklenburg, S., Drusch, M., Kerr, Y. H., Font, J., Martin-Neira, M., Delwart, S., Buenadicha, G., Reul, N., Daganzo-Eusebio, E., Oliva, R., and Crapolicchio, R.: ESA's Soil Moisture and Ocean Salinity Mission: Mission performance and operations, IEEE T. Geosci. Remote, 50, 1354–1366, https://doi.org/10.1109/TGRS.2012.2187666, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1111/j.1365-2486.2010.02375.x</doi>
+              <unstructured_citation>Medlyn, B. E., Duursma, R. A., Eamus, D., Ellsworth, D. S., Prentice, I. C., Barton, C. V. M., Crous, K. Y., De Angelis, P., Freeman, M., and Wingate, L.: Reconciling the optimal and empirical approaches to modelling stomatal conductance, Global Change Biol., 17, 2134–2144, https://doi.org/10.1111/j.1365-2486.2010.02375.x, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1175/JCLI-D-12-00572.1</doi>
+              <unstructured_citation>Meehl, G. A., Washington, W. M., Arblaster, J. M., Hu, A., Teng, H., Kay, J. E., Gettelman, A., Lawrence, D. M., Sanderson, B. M., and Strand, W. G.: Climate change projections in CESM1(CAM5) compared to CCSM4, J. Climate, 26, 6287–6308, https://doi.org/10.1175/JCLI-D-12-00572.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1175/2011JHM1312.1</doi>
+              <unstructured_citation>Mei, R. and Wang, G.: Impact of sea surface temperature and soil moisture on summer precipitation in the United States based on observational data, J. Hydrometeorol., 12, 1086–1099, https://doi.org/10.1175/2011JHM1312.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1175/JHM-D-11-075.1</doi>
+              <unstructured_citation>Mei, R. and Wang, G.: Summer land–atmosphere coupling strength in the United States: Comparison among observations, reanalysis data, and numerical models, J. Hydrometeorol., 13, 1010–1022, https://doi.org/10.1175/JHM-D-11-075.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/2012GL053703</doi>
+              <unstructured_citation>Miralles, D. G., van den Berg, M. J., Teuling, A. J., and de Jeu, R. A. M.: Soil moisture–temperature coupling: A multiscale observational analysis, Geophys. Res. Lett., 39, L21707, https://doi.org/10.1029/2012GL053703, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1038/ngeo2141</doi>
+              <unstructured_citation>Miralles, D. G., Teuling, A. J., van Heerwaarden, C. C., and de Arellano, J.: Mega-heatwave temperatures due to combined soil desiccation and atmospheric heat accumulation, Nat. Geosci., 7, 345–349, https://doi.org/10.1038/ngeo2141, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1002/2013GL058055</doi>
+              <unstructured_citation>Mueller, B., and Seneviratne, S. I.: Systematic land climate and evapotranspiration biases in CMIP5 simulations, Geophys. Res. Lett., 41, 128–134, https://doi.org/10.1002/2013GL058055, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1175/JCLI-D-12-00236.1</doi>
+              <unstructured_citation>Neale, R. B., Richter, J., Park, S., Lauritzen, P. H., Vavrus, S. J., Rasch, P. J., and Zhang, M.: The mean climate of the Community Atmosphere Model (CAM4) in forced SST and fully coupled experiments, J. Climate, 26, 5150–5168, https://doi.org/10.1175/JCLI-D-12-00236.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2007JD009199</doi>
+              <unstructured_citation>Notaro, M.: Statistical identification of global hot spots in soil moisture feedbacks among IPCC AR4 models, J. Geophys. Res.-Atmos., 113, D09101, https://doi.org/10.1029/2007JD009199, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/2010JCLI3366.1</doi>
+              <unstructured_citation>Orlowsky, B. and Seneviratne, S. I.: Statistical analyses of land–atmosphere feedbacks and their possible pitfalls, J. Climate, 23, 3918–3932, https://doi.org/10.1175/2010JCLI3366.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1109/TGRS.2013.2241774</doi>
+              <unstructured_citation>Panciera, R., Walker, J. P., Jackson, T. J., Gray, D. A., Tanase, M. A., Ryu, D., Monerris, A., Yardley, H., Rudiger, C., Wu, X., Gao, Y., and Hacker, J. M.: The Soil Moisture Active Passive Experiments (SMAPEx): Toward soil moisture retrieval from the SMAP mission, IEEE T. Geosci. Remote, 52, 490–507, https://doi.org/10.1109/TGRS.2013.2241774, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1002/2013JD020492</doi>
+              <unstructured_citation>Phillips, T. J. and Klein, S. A.: Land–atmosphere coupling manifested in warm-season observations on the U.S. southern great plains, J. Geophys. Res.-Atmos., 119, 509–528, https://doi.org/10.1002/2013JD020492, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1175/BAMS-85-3-381</doi>
+              <unstructured_citation>Rodell, M., Houser, P. R., Jambor, U., Gottschalck, J., Mitchell, K., Meng, C.-J., Arsenault, K., Cosgrove, B., Radakovich, J., Bosilovich, M., Entin, J. K., Walker, J. P., Lohmann, D., and Toll, D.: The Global Land Data Assimilation System, B. Am. Meteorol. Soc., 85, 381–394, https://doi.org/10.1175/BAMS-85-3-381, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1175/2009JHM1066.1</doi>
+              <unstructured_citation>Santanello, J. A., Peters-Lidard, C. D., Kumar, S. V, Alonge, C., and Tao, W.-K.: A modeling and observational framework for diagnosing local land–atmosphere coupling on diurnal time scales, J. Hydrometeorol., 10, 577–599, https://doi.org/10.1175/2009JHM1066.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1038/nature05095</doi>
+              <unstructured_citation>Seneviratne, S. I., Luthi, D., Litschi, M., and Schar, C.: Land–atmosphere coupling and climate change in Europe, Nature, 443, 205–209, https://doi.org/10.1038/nature05095, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1016/j.earscirev.2010.02.004</doi>
+              <unstructured_citation>Seneviratne, S. I., Corti, T., Davin, E. L., Hirschi, M., Jaeger, E. B., Lehner, I., Orlowsky, B., and Teuling, A. J.: Investigating soil moisture–climate interactions in a changing climate: A review, Earth-Sci. Rev., 99, 125–161, https://doi.org/10.1016/j.earscirev.2010.02.004, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1002/grl.50956</doi>
+              <unstructured_citation>Seneviratne, S. I., Wilhelm, M., Stanelle, T., van den Hurk, B., Hagemann, S., Berg, A., Cheruy, F., Higgins, M. E., Meier, A., Brovkin, V., Claussen, M., Ducharne, A., Dufresne, J.-L., Findell, K. L., Ghattas, J., Lawrence, D. M., Malyshev, S., Rummukainen, M., and Smith, B.: Impact of soil moisture–climate feedbacks on CMIP5 projections: First results from the GLACE–CMIP5 experiment, Geophys. Res. Lett., 40, 5212–5217, https://doi.org/10.1002/grl.50956, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1029/2007GB003176</doi>
+              <unstructured_citation>Shevliakova, E., Pacala, S. W., Malyshev, S., Hurtt, G. C., Milly, P. C. D., Caspersen, J. P., Sentman, L. T., Fisk, J. P., Wirth, C., and Crevoisier, C.: Carbon cycling under 300 years of land use change: Importance of the secondary vegetation sink, Global Biogeochem. Cy., 23, GB2022, https://doi.org/10.1029/2007GB003176, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1117/1.JRS.8.084994</doi>
+              <unstructured_citation>Susskind, J., Blaisdell, J. M., and Iredell, L.: Improved methodology for surface and atmospheric soundings, error estimates, and quality control procedures: the atmospheric infrared sounder science team version-6 retrieval algorithm, J. Appl. Remote Sens., 8, 84994, https://doi.org/10.1117/1.JRS.8.084994, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1073/pnas.1604581113</doi>
+              <unstructured_citation>Swann, A. L., Hoffman, F. M., Koven, C. D., and Randerson, J. T.: Plant responses to increasing CO2 reduce estimates of climate impacts on drought severity, P. Natl. Acad. Sci. USA, 113, 10019–10024, https://doi.org/10.1073/pnas.1604581113, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <unstructured_citation>Swenson, S. C.: Grace monthly land water mass grids NETCDF release 5.0. Ver. 5.0, Datasets, PO.DAAC, CA, USA, https://doi.org/10.5067/TELND-NC005, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1002/2014JD022314</doi>
+              <unstructured_citation>Swenson, S. C. and Lawrence, D. M.: Assessing a dry surface layer-based soil resistance parameterization for the Community Land Model using GRACE and FLUXNET-MTE data, J. Geophys. Res.-Atmos., 119, 10299–10312, https://doi.org/10.1002/2014JD022314, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1002/2015WR017582</doi>
+              <unstructured_citation>Swenson, S. C. and Lawrence, D. M.: A GRACE-based assessment of interannual groundwater dynamics in the Community Land Model, Water Resour. Res., 51, 8817–8833, https://doi.org/10.1002/2015WR017582, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1038/nature11377</doi>
+              <unstructured_citation>Taylor, C. M., de Jeu, R. A. M., Guichard, F., Harris, P. P., and Dorigo, W. A.: Afternoon rain more likely over drier soils, Nature, 489, 423–426, https://doi.org/10.1038/nature11377, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1002/2013GL058511</doi>
+              <unstructured_citation>Taylor, C. M., Birch, C. E., Parker, D. J., Dixon, N., Guichard, F., Nikulin, G., and Lister, G. M. S.: Modeling soil moisture–precipitation feedback in the Sahel: Importance of spatial scale versus convective parameterization, Geophys. Res. Lett., 40, 6213–6218, https://doi.org/10.1002/2013GL058511, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1175/BAMS-D-12-00204.1</doi>
+              <unstructured_citation>Teixeira, J., Waliser, D., Ferraro, R., Gleckler, P., Lee, T., and Potter, G.: Satellite observations for CMIP5: The genesis of Obs4MIPs, B. Am. Meteorol. Soc., 95, 1329–1334, https://doi.org/10.1175/BAMS-D-12-00204.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1029/2004GL019779</doi>
+              <unstructured_citation>Wahr, J., Swenson, S., Zlotnicki, V., and Velicogna, I.: Time-variable gravity from GRACE: First results, Geophys. Res. Lett., 31, L11501, https://doi.org/10.1029/2004GL019779, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1175/2008JHM955.1</doi>
+              <unstructured_citation>Wei, J., Dickinson, R. E., and Chen, H.: A negative soil moisture–precipitation relationship and its causes, J. Hydrometeorol., 9, 1364–1376, https://doi.org/10.1175/2008JHM955.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1016/j.wace.2015.05.001</doi>
+              <unstructured_citation>Whan, K., Zscheischler, J., Orth, R., Shongwe, M., Rahimi, M., Asare, E. O., and Seneviratne, S. I.: Impact of soil moisture on extreme maximum temperatures in Europe, Weather Clim. Extrem., 9, 57–67, https://doi.org/10.1016/j.wace.2015.05.001, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1175/2010JHM1226.1</doi>
+              <unstructured_citation>Zeng, X., Barlage, M., Castro, C., and Fling, K.: Comparison of land–precipitation coupling strength using observations and models, J. Hydrometeorol., 11, 979–994, https://doi.org/10.1175/2010JHM1226.1, 2010.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/hess-20-4837-2016-supplement</doi>
+                <resource>https://www.hydrol-earth-syst-sci.net/20/4837/2016/hess-20-4837-2016-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

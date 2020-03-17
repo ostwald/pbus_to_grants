@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1002" timestamp="2018-04-20 11:04:50">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Ecological Applications</full_title>
+          <abbrev_title>Ecol Appl</abbrev_title>
+          <issn>10510761</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>04</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>28</volume>
+          </journal_volume>
+          <issue>3</issue>
+          <doi_data>
+            <doi>10.1002/eap.2018.28.issue-3</doi>
+            <resource>http://doi.wiley.com/10.1002/eap.2018.28.issue-3</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Satellite sensor requirements for monitoring essential biodiversity variables of coastal ecosystems</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Frank E.</given_name>
+              <surname>Muller-Karger</surname>
+              <affiliation>College of Marine Science; University of South Florida; 140 7th Avenue South Saint Petersburg Florida 33701 USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-3159-5011</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Erin</given_name>
+              <surname>Hestir</surname>
+              <affiliation>School of Engineering; University of California Merced; 5200 N. Lake Road Merced California 95340 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Christiana</given_name>
+              <surname>Ade</surname>
+              <affiliation>School of Engineering; University of California Merced; 5200 N. Lake Road Merced California 95340 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Kevin</given_name>
+              <surname>Turpie</surname>
+              <affiliation>Joint Center for Earth Systems Technology; University of Maryland; 5523 Research Park Drive Baltimore Maryland 21228 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Dar A.</given_name>
+              <surname>Roberts</surname>
+              <affiliation>Department of Geography; University of Southern California; Santa Barbara California 93106 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David</given_name>
+              <surname>Siegel</surname>
+              <affiliation>Department of Geography; University of Southern California; Santa Barbara California 93106 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Robert J.</given_name>
+              <surname>Miller</surname>
+              <affiliation>Department of Geography; University of Southern California; Santa Barbara California 93106 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David</given_name>
+              <surname>Humm</surname>
+              <affiliation>Applied Physics Lab; Johns Hopkins University; 11100 Johns Hopkins Road Laurel Maryland 20723 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Noam</given_name>
+              <surname>Izenberg</surname>
+              <affiliation>Applied Physics Lab; Johns Hopkins University; 11100 Johns Hopkins Road Laurel Maryland 20723 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Mary</given_name>
+              <surname>Keller</surname>
+              <affiliation>Applied Physics Lab; Johns Hopkins University; 11100 Johns Hopkins Road Laurel Maryland 20723 USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-0669-1298</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Frank</given_name>
+              <surname>Morgan</surname>
+              <affiliation>Applied Physics Lab; Johns Hopkins University; 11100 Johns Hopkins Road Laurel Maryland 20723 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Robert</given_name>
+              <surname>Frouin</surname>
+              <affiliation>Scripps Institution of Oceanography; University of California San Diego; La Jolla California 92093 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Arnold G.</given_name>
+              <surname>Dekker</surname>
+              <affiliation>Commonwealth Scientific and Industrial Research Organisation; Canberra Australian Capital Territory Australia</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Royal</given_name>
+              <surname>Gardner</surname>
+              <affiliation>Stetson University College of Law; 1401 61st Street South Gulfport Florida 33707 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>James</given_name>
+              <surname>Goodman</surname>
+              <affiliation>HySpeed Computing; Miami Florida 33143 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Blake</given_name>
+              <surname>Schaeffer</surname>
+              <affiliation>U.S. Environmental Protection Agency; National Exposure Research Laboratory; Research Triangle Park Raleigh North Carolina 27711 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Bryan A.</given_name>
+              <surname>Franz</surname>
+              <affiliation>Ocean Ecology Laboratory; Goddard Space Flight Center; National Aeronautics and Space Administration; Greenbelt Maryland 20770 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Nima</given_name>
+              <surname>Pahlevan</surname>
+              <affiliation>Ocean Ecology Laboratory; Goddard Space Flight Center; National Aeronautics and Space Administration; Greenbelt Maryland 20770 USA</affiliation>
+              <affiliation>Goddard Space Flight Center; Science Systems and Applications; Greenbelt Maryland 20770 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Antonio G.</given_name>
+              <surname>Mannino</surname>
+              <affiliation>Ocean Ecology Laboratory; Goddard Space Flight Center; National Aeronautics and Space Administration; Greenbelt Maryland 20770 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Javier A.</given_name>
+              <surname>Concha</surname>
+              <affiliation>Ocean Ecology Laboratory; Goddard Space Flight Center; National Aeronautics and Space Administration; Greenbelt Maryland 20770 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Steven G.</given_name>
+              <surname>Ackleson</surname>
+              <affiliation>Naval Research Laboratory; Washington D.C. 20375 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Kyle C.</given_name>
+              <surname>Cavanaugh</surname>
+              <affiliation>Department of Geography; University of California Los Angeles; Los Angeles California 90095 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Anastasia</given_name>
+              <surname>Romanou</surname>
+              <affiliation>Goddard Institute for Space Studies; Columbia University; New York New York 10025 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Maria</given_name>
+              <surname>Tzortziou</surname>
+              <affiliation>Ocean Ecology Laboratory; Goddard Space Flight Center; National Aeronautics and Space Administration; Greenbelt Maryland 20770 USA</affiliation>
+              <affiliation>City University of New York; New York New York 10031 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Emmanuel S.</given_name>
+              <surname>Boss</surname>
+              <affiliation>School of Marine Sciences; University of Maine; Orono Maine 04469 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ryan</given_name>
+              <surname>Pavlick</surname>
+              <affiliation>Jet Propulsion Laboratory; California Institute of Technology; Pasadena California 91109 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Anthony</given_name>
+              <surname>Freeman</surname>
+              <affiliation>Jet Propulsion Laboratory; California Institute of Technology; Pasadena California 91109 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Cecile S.</given_name>
+              <surname>Rousseaux</surname>
+              <affiliation>Universities Space Research Association; Goddard Space Flight Center; National Aeronautics and Space Administration; Greenbelt Maryland 20770 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>John</given_name>
+              <surname>Dunne</surname>
+              <affiliation>NOAA Geophysical Fluid Dynamics Laboratory; Princeton New Jersey 08540 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Matthew C.</given_name>
+              <surname>Long</surname>
+              <affiliation>Climate and Global Dynamics Laboratory; University Corporation for Atmospheric Research; Boulder Colorado 80301 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Eduardo</given_name>
+              <surname>Klein</surname>
+              <affiliation>Laboratorio de Sensores Remotos; Universidad Simon Bolívar; Sartenejas, Apartado Caracas 89000 Venezuela</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Galen A.</given_name>
+              <surname>McKinley</surname>
+              <affiliation>Lamont Doherty Earth Observatory; Columbia University; Palisades New York 10964 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Joachim</given_name>
+              <surname>Goes</surname>
+              <affiliation>Lamont Doherty Earth Observatory; Columbia University; Palisades New York 10964 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ricardo</given_name>
+              <surname>Letelier</surname>
+              <affiliation>College of Oceanic and Atmospheric Science; Oregon State University; Corvallis Oregon 97331 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Maria</given_name>
+              <surname>Kavanaugh</surname>
+              <affiliation>College of Oceanic and Atmospheric Science; Oregon State University; Corvallis Oregon 97331 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Mitchell</given_name>
+              <surname>Roffer</surname>
+              <affiliation>Roffer's Ocean Fishing Forecasting Service; 60 Westover Drive, West Melbourne Florida 32904 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Astrid</given_name>
+              <surname>Bracher</surname>
+              <affiliation>Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research; Bremerhaven Germany</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Kevin R.</given_name>
+              <surname>Arrigo</surname>
+              <affiliation>Stanford University; Stanford California 94305 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Heidi</given_name>
+              <surname>Dierssen</surname>
+              <affiliation>Department of Marine Sciences; University of Connecticut; Groton Connecticut 06340 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Xiaodong</given_name>
+              <surname>Zhang</surname>
+              <affiliation>Earth System Science and Policy; University of North Dakota; Grand Forks North Dakota 58202 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Frank W.</given_name>
+              <surname>Davis</surname>
+              <affiliation>Bren School of Environmental Science and Management; University of California; Santa Barbara California 93106 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ben</given_name>
+              <surname>Best</surname>
+              <affiliation>EcoQuants; 508 East Haley Street Santa Barbara California 93103 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Robert</given_name>
+              <surname>Guralnick</surname>
+              <affiliation>Florida Museum of Natural History; University of Florida; Cultural Plaza, 3215 Hull Road Gainesville Florida 32611 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>John</given_name>
+              <surname>Moisan</surname>
+              <affiliation>Wallops Flight Facility; NASA Goddard Space Flight Center; Wallops Island, Virginia 23337 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Heidi M.</given_name>
+              <surname>Sosik</surname>
+              <affiliation>Woods Hole Oceanographic Institution; Woods Hole Massachusetts 02543 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Raphael</given_name>
+              <surname>Kudela</surname>
+              <affiliation>University of California Santa Cruz; Santa Cruz California 95064 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Colleen B.</given_name>
+              <surname>Mouw</surname>
+              <affiliation>Graduate School of Oceanography; University of Rhode Island; Kingston Rhode Island 02881 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew H.</given_name>
+              <surname>Barnard</surname>
+              <affiliation>WET Labs/Sea-Bird Scientific; P.O. Box 518 Philomath Oregon 97370 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Sherry</given_name>
+              <surname>Palacios</surname>
+              <affiliation>Airborne Science Program; NASA Ames Research Center; Moffett Field California 94035 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Collin</given_name>
+              <surname>Roesler</surname>
+              <affiliation>Department of Earth and Oceanographic Science; Bowdoin College; Brunswick Maine 04011 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Evangelia G.</given_name>
+              <surname>Drakou</surname>
+              <affiliation>Geo-Information Science and Earth Observation (ITC); University of Twente; Enschede The Netherlands</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ward</given_name>
+              <surname>Appeltans</surname>
+              <affiliation>Intergovernmental Oceanographic Commission of UNESCO; Ocean Biogeographic Information System; Oostende Belgium</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Walter</given_name>
+              <surname>Jetz</surname>
+              <affiliation>Department of Ecology and Evolutionary Biology; Yale University; New Haven Connecticut 06511 USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>04</month>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>06</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>749</first_page>
+            <last_page>760</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">National Center for Ecological Analysis and Synthesis (NCEAS)</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX16AQ34G</assertion>
+              <assertion name="award_number">NNX14AR62A</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">National Ocean Partnership Program</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Oceanic and Atmospheric Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000192</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Bureau of Ocean Energy Management
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100012475</assertion>
+              </assertion>
+              <assertion name="award_number">MC15AC00006</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2018-03-06">http://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/eap.1682</doi>
+            <resource>http://doi.wiley.com/10.1002/eap.1682</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/eap.1682/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Feap.1682</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/eap.1682-BIB0001|eap1682-cit-0001">
+              <author>Adam</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1007/s11273-009-9169-z</doi>
+              <article_title>Multispectral and hyperspectral remote sensing for identification and mapping of wetland vegetation: a review</article_title>
+              <journal_title>Wetlands Ecology and Management</journal_title>
+              <volume>18</volume>
+              <first_page>281</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0002|eap1682-cit-0002">
+              <unstructured_citation>Agenda 2030 2015 UN Resolution A/RES/70/1 of 25 September 2015 https://sustainabledevelopment.un.org/post2015/transformingourworld</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0003|eap1682-cit-0003">
+              <author>Ahmad</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1364/AO.49.005545</doi>
+              <article_title>New aerosol models for the retrieval of aerosol optical thickness and normalized water-leaving radiances from the SeaWiFS and MODIS sensors over coastal regions and open oceans</article_title>
+              <journal_title>Applied Optics</journal_title>
+              <volume>49</volume>
+              <first_page>5545</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0004|eap1682-cit-0004">
+              <author>Andréfouët</author>
+              <cYear>2002</cYear>
+              <article_title>Choosing the appropriate spatial resolution for monitoring coral bleaching events using remote sensing</article_title>
+              <journal_title>Coral Reefs</journal_title>
+              <volume>21</volume>
+              <first_page>147</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0005|eap1682-cit-0005">
+              <unstructured_citation>Andréfouët , S. F. E. Muller-Karger J. A. Robinson C. J. Kranenburg D. Torres-Pulliza S. Spraggins B. Murch 2005 Global assessment of modern coral reef extent and diversity for regional science and management applications: A view from space</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0006|eap1682-cit-0006">
+              <author>Andrew</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1016/j.rse.2008.07.016</doi>
+              <article_title>The role of environmental context in mapping invasive plants with hyperspectral image data</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>112</volume>
+              <first_page>4301</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0007|eap1682-cit-0007">
+              <author>Appeltans</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.cub.2012.09.036</doi>
+              <article_title>The magnitude of global marine species diversity</article_title>
+              <journal_title>Current Biology</journal_title>
+              <volume>22</volume>
+              <first_page>2189</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0009|eap1682-cit-0009">
+              <author>Asner</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1126/science.aaj1987</doi>
+              <article_title>Airborne laser-guided imaging spectroscopy to map forest trait diversity and guide conservation</article_title>
+              <journal_title>Science</journal_title>
+              <volume>355</volume>
+              <first_page>385</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0010|eap1682-cit-0010">
+              <author>Barbier</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1007/s10640-015-9931-z</doi>
+              <article_title>The protective value of estuarine and coastal ecosystem services in a wealth accounting framework</article_title>
+              <journal_title>Environmental and Resource Economics</journal_title>
+              <volume>64</volume>
+              <first_page>37</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0012|eap1682-cit-0012">
+              <author>Bissett</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.5670/oceanog.2004.45</doi>
+              <article_title>From meters to kilometers: a look at ocean-color scales of variability, spatial coherence, and the need for fine-scale remote sensing in coastal ocean optics</article_title>
+              <journal_title>Oceanography</journal_title>
+              <volume>17</volume>
+              <first_page>32</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0013|eap1682-cit-0013">
+              <author>Bojinski</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-13-00047.1</doi>
+              <article_title>The concept of essential climate variables in support of climate research, applications, and policy</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>95</volume>
+              <first_page>1431</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0014|eap1682-cit-0014">
+              <author>Botha</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.3390/rs8060459</doi>
+              <article_title>Effects of per-pixel variability on uncertainties in bathymetric retrievals from high-resolution satellite images</article_title>
+              <journal_title>Remote Sensing</journal_title>
+              <volume>8</volume>
+              <first_page>459</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0015|eap1682-cit-0015">
+              <author>Botha</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.rse.2012.12.021</doi>
+              <article_title>Increased spectral resolution enhances coral detection under varying water conditions</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>131</volume>
+              <first_page>247</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0016|eap1682-cit-0016">
+              <author>Bracher</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.3389/fmars.2017.00055</doi>
+              <article_title>Obtaining phytoplankton diversity from ocean color: a scientific roadmap for future development</article_title>
+              <journal_title>Frontiers in Marine Science</journal_title>
+              <volume>4</volume>
+              <first_page>55</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0017|eap1682-cit-0017">
+              <author>Brando</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1109/TGRS.2003.812907</doi>
+              <article_title>Satellite hyperspectral remote sensing for estimating estuarine and coastal water quality</article_title>
+              <journal_title>IEEE Transactions on Geoscience and Remote Sensing</journal_title>
+              <volume>41</volume>
+              <first_page>1378</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0018|eap1682-cit-0018">
+              <author>Bromberg-Gedan</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1146/annurev.marine.010908.163930</doi>
+              <article_title>Centuries of human-driven change in salt marsh ecosystems</article_title>
+              <journal_title>Annual Review of Marine Science</journal_title>
+              <volume>1</volume>
+              <first_page>117</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0019|eap1682-cit-0019">
+              <author>Brotas</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.rse.2013.02.013</doi>
+              <article_title>Deriving phytoplankton size classes from satellite data: validation along a trophic gradient in the eastern Atlantic Ocean</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>134</volume>
+              <first_page>66</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0020|eap1682-cit-0020">
+              <author>Bruland</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.2495/978-1-84564-091-0/04</doi>
+              <first_page>85</first_page>
+              <volume_title>Coastal watershed management</volume_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0022|eap1682-cit-0022">
+              <author>Chase</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2017JC012859</doi>
+              <article_title>Estimation of phytoplankton accessory pigments from hyperspectral reflectance spectra: toward a global algorithm</article_title>
+              <journal_title>Journal of Geophysical Research-Oceans</journal_title>
+              <volume>122</volume>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0023|eap1682-cit-0023">
+              <author>Chen</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1016/j.ecss.2010.05.014</doi>
+              <article_title>Short-term variability of suspended sediment and phytoplankton in Tampa Bay, Florida: observations from a coastal oceanographic tower and ocean color satellites</article_title>
+              <journal_title>Estuarine, Coastal Shelf Science</journal_title>
+              <volume>89</volume>
+              <first_page>62</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0024|eap1682-cit-0024">
+              <unstructured_citation>Clark , D. K. M. Yarbrough M. Feinholz S. Flora W. Broenkow Y. Sung Kim B. Johnson S. Brown M. Yuen J. L. Mueller 2003 MOBY, a radiometric buoy for performance monitoring and vicarious calibration of satellite ocean color sensors: measurement and data analysis protocols. Ocean Optics protocols for satellite ocean color sensor validation</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0025|eap1682-cit-0025">
+              <author>Colgan</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.3390/rs4113462</doi>
+              <article_title>Mapping savanna tree species at ecosystem scales using support vector machine classification and BRDF correction on airborne hyperspectral and LiDAR data</article_title>
+              <journal_title>Remote Sensing</journal_title>
+              <volume>4</volume>
+              <first_page>3462</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0027|eap1682-cit-0027">
+              <unstructured_citation>Cowardin , L. M. V. Carter F. C. Golet E. T. LaRoe 1979 Classification of wetlands and deepwater habitats of the United States. Report FSW/OBS-79/31</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0028|eap1682-cit-0028">
+              <author>Davidson</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1071/MF14173</doi>
+              <article_title>How much wetland has the world lost? Long-term and recent trends in global wetland area</article_title>
+              <journal_title>Marine and Freshwater Research</journal_title>
+              <volume>65</volume>
+              <first_page>934</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0029|eap1682-cit-0029">
+              <doi provider="crossref">10.1117/2.1201307.005024</doi>
+              <unstructured_citation>Davis , C. N. Tufillaro 2013 Remote sensing remotely sensing the complexity of rivers and estuaries https://doi.org/10.1117/2.1201307.005024</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0030|eap1682-cit-0030">
+              <author>Devred</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.3390/rs5126812</doi>
+              <article_title>Future retrievals of water column bio-optical properties using the Hyperspectral Infrared Imager (HyspIRI)</article_title>
+              <journal_title>Remote Sensing</journal_title>
+              <volume>5</volume>
+              <first_page>6812</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0031|eap1682-cit-0031">
+              <unstructured_citation>CEOS 2017 A. G. Dekker N. Pinnel Feasibility study for an aquatic ecosystem Earth observing system. Report v. 1.1. Committee on Earth Observation Satellites (CEOS) and Commonwealth Scientific and Industrial Research Organization (CSIRO)</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0032|eap1682-cit-0032">
+              <author>Dierssen</author>
+              <cYear>2015a</cYear>
+              <doi provider="crossref">10.1016/j.rse.2015.01.027</doi>
+              <article_title>Hyperspectral discrimination of floating mats of seagrass wrack and the macroalgae Sargassum in coastal waters of Greater Florida Bay using airborne remote sensing</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0033|eap1682-cit-0033">
+              <author>Dierssen</author>
+              <cYear>2015b</cYear>
+              <doi provider="crossref">10.1073/pnas.1512538112</doi>
+              <article_title>Space station image captures a red tide ciliate bloom at high spectral and spatial resolution</article_title>
+              <journal_title>Proceedings of the National Academy of Sciences USA</journal_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0034|eap1682-cit-0034">
+              <author>Duan</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1080/01431161.2015.1026425</doi>
+              <article_title>Atmospheric correction of high-spatial-resolution satellite images with adjacency effects: application to EO-1 ALI data</article_title>
+              <journal_title>International Journal of Remote Sensing</journal_title>
+              <volume>36</volume>
+              <first_page>5061</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0035|eap1682-cit-0035">
+              <author>Duffy</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1525/bio.2013.63.5.8</doi>
+              <article_title>Envisioning a national marine biodiversity observation network</article_title>
+              <journal_title>BioScience</journal_title>
+              <volume>63</volume>
+              <first_page>350</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0036|eap1682-cit-0036">
+              <author>Duffy</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1038/nature23886</doi>
+              <article_title>Biodiversity effects in the wild are common and as strong as key drivers of productivity</article_title>
+              <journal_title>Nature</journal_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0037|eap1682-cit-0037">
+              <author>Dybas</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1641/0006-3568(2006)56[642:OACCOP]2.0.CO;2</doi>
+              <article_title>On a collision course: ocean plankton and climate change</article_title>
+              <journal_title>BioScience</journal_title>
+              <volume>56</volume>
+              <first_page>642</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0038|eap1682-cit-0038">
+              <author>Eklundh</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.3390/s110807678</doi>
+              <article_title>An optical sensor network for vegetation phenology monitoring and satellite data calibration</article_title>
+              <journal_title>Sensors</journal_title>
+              <volume>11</volume>
+              <first_page>7678</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0039|eap1682-cit-0039">
+              <author>Finlayson</author>
+              <cYear>2016</cYear>
+              <first_page>1</first_page>
+              <volume_title>The wetland book</volume_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0040|eap1682-cit-0040">
+              <doi provider="crossref">10.5270/OceanObs09-FOO</doi>
+              <unstructured_citation>FOO 2012 A framework for ocean observing https://doi.org/10.5270/oceanobs09-foo</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0042|eap1682-cit-0042">
+              <author>Frouin</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1016/j.rse.2014.12.001</doi>
+              <article_title>Bayesian methodology for inverting satellite ocean-color data</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>159</volume>
+              <first_page>332</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0043|eap1682-cit-0043">
+              <author>Gardner</author>
+              <cYear>2015</cYear>
+              <volume_title>State of the World's wetlands and their services to people: a compilation of recent analyses</volume_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0044|eap1682-cit-0044">
+              <author>Geijzendorffer</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1111/1365-2664.12417</doi>
+              <article_title>Bridging the gap between biodiversity data and policy reporting needs: an essential biodiversity variables perspective</article_title>
+              <journal_title>Journal of Applied Ecology</journal_title>
+              <volume>53</volume>
+              <first_page>1341</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0045|eap1682-cit-0045">
+              <author>Gilmore</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1016/j.rse.2008.05.020</doi>
+              <article_title>Integrating multi-temporal spectral and structural information to map wetland vegetation in a lower Connecticut River tidal marsh</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>112</volume>
+              <first_page>4048</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0046|eap1682-cit-0046">
+              <author>Gordon</author>
+              <cYear>1983</cYear>
+              <doi provider="crossref">10.1007/978-1-4684-6280-7_7</doi>
+              <first_page>84</first_page>
+              <volume_title>Remote assessment of ocean color for interpretation of satellite visible imagery</volume_title>
+              <volume>4</volume>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0047|eap1682-cit-0047">
+              <author>Guanter</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.3390/rs70708830</doi>
+              <article_title>The EnMAP spaceborne imaging spectroscopy mission for earth observation</article_title>
+              <journal_title>Remote Sensing</journal_title>
+              <volume>7</volume>
+              <first_page>8830</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0048|eap1682-cit-0048">
+              <author>Hay</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.5670/oceanog.1996.21</doi>
+              <article_title>Chemical ecology and marine biodiversity: insights and products from the sea</article_title>
+              <journal_title>Oceanography</journal_title>
+              <volume>9</volume>
+              <first_page>10</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0049|eap1682-cit-0049">
+              <author>Hays</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.tree.2005.03.004</doi>
+              <article_title>Climate change and marine plankton</article_title>
+              <journal_title>Trends in Ecology and Evolution</journal_title>
+              <volume>20</volume>
+              <first_page>337</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0050|eap1682-cit-0050">
+              <author>Hedley</author>
+              <cYear>2016a</cYear>
+              <doi provider="crossref">10.3390/rs8020118</doi>
+              <article_title>Remote sensing of coral reefs for monitoring and management: a review</article_title>
+              <journal_title>Remote Sensing</journal_title>
+              <volume>8</volume>
+              <first_page>118</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0051|eap1682-cit-0051">
+              <author>Hedley</author>
+              <cYear>2016b</cYear>
+              <doi provider="crossref">10.1016/j.rse.2015.12.001</doi>
+              <article_title>A physics-based method for the remote sensing of seagrasses</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>174</volume>
+              <first_page>134</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0053|eap1682-cit-0053">
+              <author>Hestir</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1016/j.rse.2015.05.023</doi>
+              <article_title>Measuring freshwater aquatic ecosystems: the need for a hyperspectral global mapping satellite mission</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>167</volume>
+              <first_page>181</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0054|eap1682-cit-0054">
+              <author>Hestir</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1109/JSTARS.2012.2200878</doi>
+              <article_title>Classification trees for aquatic vegetation community prediction from imaging spectroscopy</article_title>
+              <journal_title>IEEE Journal of Selected Topics in Applied Earth Observation and Remote Sensing</journal_title>
+              <volume>5</volume>
+              <first_page>1572</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0116|eap1682-cit-0116">
+              <author>Hu</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.rse.2005.05.013</doi>
+              <article_title>Red tide detection and tracing using MODIS fluorescence data: A regional example in SW Florida coastal waters</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>97</volume>
+              <first_page>311</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0055|eap1682-cit-0055">
+              <author>Hu</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1364/AO.51.006045</doi>
+              <article_title>Dynamic range and sensitivity requirements of satellite ocean color sensors: learning from the past</article_title>
+              <journal_title>Applied Optics</journal_title>
+              <volume>51</volume>
+              <first_page>6045</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0056|eap1682-cit-0056">
+              <author>Hu</author>
+              <cYear>2017</cYear>
+              <article_title>Global wetlands: potential distribution, wetland loss, and status</article_title>
+              <journal_title>Science of the Total Environment</journal_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0057|eap1682-cit-0057">
+              <author>Hunter-Cevera</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1126/science.aaf8536</doi>
+              <article_title>Physiological and ecological drivers of early spring blooms of a coastal phytoplankter</article_title>
+              <journal_title>Science</journal_title>
+              <volume>354</volume>
+              <first_page>326</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0058|eap1682-cit-0058">
+              <author>IOCCG</author>
+              <cYear>2014</cYear>
+              <first_page>1</first_page>
+              <volume_title>Reports of the international ocean-colour coordinating group, no. 15</volume_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0059|eap1682-cit-0059">
+              <author>Jetz</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.tree.2011.09.007</doi>
+              <article_title>Integrating biodiversity distribution knowledge: toward a global map of life</article_title>
+              <journal_title>Trends in Ecology and Evolution</journal_title>
+              <volume>27</volume>
+              <first_page>151</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0060|eap1682-cit-0060">
+              <doi provider="crossref">10.1038/nplants.2016.24</doi>
+              <unstructured_citation>Jetz , W. 2016 Monitoring plant functional diversity from space https://doi.org/10.1038/nplants.2016.24</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0061|eap1682-cit-0061">
+              <author>Ji</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1093/plankt/fbq062</doi>
+              <article_title>Marine plankton phenology and life history in a changing climate: current research and future directions</article_title>
+              <journal_title>Journal of Plankton Research</journal_title>
+              <volume>32</volume>
+              <first_page>1355</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0062|eap1682-cit-0062">
+              <author>Jiang</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1364/OE.22.021657</doi>
+              <article_title>Improved near-infrared ocean reflectance correction algorithm for satellite ocean color data processing</article_title>
+              <journal_title>Optics Express</journal_title>
+              <volume>22</volume>
+              <first_page>21657</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0063|eap1682-cit-0063">
+              <author>Kachelriess</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.ecolind.2013.07.003</doi>
+              <article_title>The application of remote sensing for marine protected area management</article_title>
+              <journal_title>Ecological Indicators</journal_title>
+              <volume>36</volume>
+              <first_page>169</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0064|eap1682-cit-0064">
+              <author>Kavanaugh</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1093/icesjms/fsw086</doi>
+              <article_title>Seascapes as a new vernacular for ocean monitoring, management and conservation</article_title>
+              <journal_title>ICES Journal of Marine Science</journal_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0065|eap1682-cit-0065">
+              <author>Kissling</author>
+              <cYear>2017</cYear>
+              <article_title>Building essential biodiversity variables (EBVs) of species distribution and abundance at a global scale</article_title>
+              <journal_title>Biological Reviews</journal_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0117|eap1682-cit-0117">
+              <author>Kudela</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1016/j.rse.2015.01.025</doi>
+              <article_title>Application of hyperspectral remote sensing to cyanobacterial blooms in inland waters</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>167</volume>
+              <first_page>196</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0066|eap1682-cit-0066">
+              <unstructured_citation>Lantz , N. J. 2012 Detection and Mapping of Phragmites australis using High Resolution Multispectral and Hyperspectral Satellite Imagery http://ir.lib.uwo.ca/etd/1012</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0067|eap1682-cit-0067">
+              <author>Malone</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.marpol.2013.06.008</doi>
+              <article_title>A global ocean observing system framework for sustainable development</article_title>
+              <journal_title>Marine Policy</journal_title>
+              <volume>43</volume>
+              <first_page>262</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0068|eap1682-cit-0068">
+              <author>Malve</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.4103/0975-7406.171700</doi>
+              <article_title>Exploring the ocean for new drug developments: marine pharmacology</article_title>
+              <journal_title>Journal of Pharmacy and Bioallied Sciences</journal_title>
+              <volume>8</volume>
+              <first_page>83</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0069|eap1682-cit-0069">
+              <author>McCombs</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.14358/PERS.82.9.711</doi>
+              <article_title>Accuracy assessment of NOAA coastal change analysis program 2006-2010 land cover and land cover change data</article_title>
+              <journal_title>Photogrammetric Engineering and Remote Sensing</journal_title>
+              <volume>82</volume>
+              <first_page>711</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0070|eap1682-cit-0070">
+              <author>MEA</author>
+              <cYear>2005a</cYear>
+              <volume_title>Current state and trends assessment</volume_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0071|eap1682-cit-0071">
+              <author>MEA</author>
+              <cYear>2005b</cYear>
+              <first_page>1</first_page>
+              <volume_title>Ecosystems and human well-being: wetlands and water. Synthesis</volume_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0072|eap1682-cit-0072">
+              <author>Mercury</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.rse.2012.08.007</doi>
+              <article_title>Global cloud cover for assessment of optical satellite observation opportunities: a HyspIRI case study</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>126</volume>
+              <first_page>62</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0074|eap1682-cit-0074">
+              <author>Mimouni</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.2174/138920112804724828</doi>
+              <article_title>The potential of microalgae for the production of bioactive molecules of pharmaceutical interest</article_title>
+              <journal_title>Current Pharmaceutical Biotechnology</journal_title>
+              <volume>13</volume>
+              <first_page>2733</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0075|eap1682-cit-0075">
+              <author>Moreno Madriñán</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1007/s11270-011-1007-2</doi>
+              <article_title>Relationship between watershed land-cover/land-use change and water turbidity status of Tampa Bay major tributaries, Florida, USA</article_title>
+              <journal_title>Water, Air, and Soil pollution</journal_title>
+              <volume>223</volume>
+              <first_page>2093</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0076|eap1682-cit-0076">
+              <author>Moses</author>
+              <cYear>2016</cYear>
+              <article_title>Spatial scales of optical variability in the coastal ocean: implications for remote sensing and in situ sampling</article_title>
+              <journal_title>Journal of Geophysical Research: Oceans</journal_title>
+              <volume>121</volume>
+              <first_page>4194</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0077|eap1682-cit-0077">
+              <author>Mouw</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.jmarsys.2011.08.002</doi>
+              <article_title>Impact of phytoplankton community size on a linked global ocean optical and ecosystem model</article_title>
+              <journal_title>Journal of Marine Systems</journal_title>
+              <volume>89</volume>
+              <first_page>61</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0078|eap1682-cit-0078">
+              <author>Muller-Karger</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1109/MGRS.2013.2289656</doi>
+              <article_title>Satellite remote sensing in support of an integrated ocean observing system</article_title>
+              <journal_title>Geoscience and Remote Sensing Magazine, IEEE</journal_title>
+              <volume>1</volume>
+              <first_page>8</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0079|eap1682-cit-0079">
+              <author>Muller-Karger</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.5670/oceanog.2014.56</doi>
+              <article_title>A framework for a marine biodiversity observing network within changing continental shelf seascapes</article_title>
+              <journal_title>Oceanography</journal_title>
+              <volume>27</volume>
+              <first_page>18</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0080|eap1682-cit-0080">
+              <author>Narayan</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1038/s41598-017-09269-z</doi>
+              <article_title>The value of coastal wetlands for flood damage reduction in the Northeastern USA</article_title>
+              <journal_title>Scientific Reports</journal_title>
+              <volume>7</volume>
+              <first_page>9463</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0081|eap1682-cit-0081">
+              <author>Nicholls</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1016/j.gloenvcha.2003.10.007</doi>
+              <article_title>Coastal flooding and wetland loss in the 21st century: changes under the SRES climate and socio-economic scenarios</article_title>
+              <journal_title>Global Environmental Change</journal_title>
+              <volume>14</volume>
+              <first_page>69</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0082|eap1682-cit-0082">
+              <unstructured_citation>OBIS 2017 Ocean biogeographic information system www.iobis.org</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0083|eap1682-cit-0083">
+              <unstructured_citation>Osterman , S. N. 2016 A space-borne visible-NIR hyperspectral imager for coastal phenology</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0084|eap1682-cit-0084">
+              <author>Ouyang</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1371/journal.pone.0067315</doi>
+              <article_title>Spectral discrimination of the invasive plant Spartina alterniflora at multiple phenological stages in a saltmarsh wetland</article_title>
+              <journal_title>PLoS ONE</journal_title>
+              <volume>8</volume>
+              <first_page>e67315</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0085|eap1682-cit-0085">
+              <unstructured_citation>PACE SDT 2012 Pre-Aerosol, Clouds, and ocean Ecosystem (PACE) Mission Science Definition Team Report http://decadal.gsfc.nasa.gov/PACE/PACE_SDT_Report_final.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0086|eap1682-cit-0086">
+              <author>Pace</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1016/S0169-5347(99)01723-1</doi>
+              <article_title>Trophic cascades revealed in diverse ecosystems</article_title>
+              <journal_title>Trends in Ecology and Evolution</journal_title>
+              <volume>14</volume>
+              <first_page>483</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0088|eap1682-cit-0088">
+              <author>Pahlevan</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.rse.2014.08.001</doi>
+              <article_title>On-orbit radiometric characterization of OLI (Landsat-8) for applications in aquatic remote sensing</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>154</volume>
+              <first_page>272</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0089|eap1682-cit-0089">
+              <author>Pahlevan</author>
+              <cYear>2017a</cYear>
+              <doi provider="crossref">10.1016/j.rse.2017.08.033</doi>
+              <article_title>Sentinel-2 MultiSpectral Instrument (MSI) data processing for aquatic science applications: demonstrations and validations</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>201</volume>
+              <first_page>47</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0090|eap1682-cit-0090">
+              <author>Pahlevan</author>
+              <cYear>2017b</cYear>
+              <doi provider="crossref">10.1364/OE.25.006015</doi>
+              <article_title>Revisiting short-wave-infrared (SWIR) bands for atmospheric correction in coastal waters</article_title>
+              <journal_title>Optics Express</journal_title>
+              <volume>25</volume>
+              <first_page>6015</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0091|eap1682-cit-0091">
+              <author>Pahlevan</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1109/JSTARS.2012.2235174</doi>
+              <article_title>Leveraging EO-1 to evaluate capability of new generation of Landsat sensors for coastal/inland water studies</article_title>
+              <journal_title>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</journal_title>
+              <volume>6</volume>
+              <first_page>360</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0092|eap1682-cit-0092">
+              <author>Pengra</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1016/j.rse.2006.11.002</doi>
+              <article_title>Mapping an invasive plant, Phragmites australis, in coastal wetlands using the EO-1 Hyperion hyperspectral sensor</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>108</volume>
+              <first_page>74</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0093|eap1682-cit-0093">
+              <author>Pereira</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1126/science.1229931</doi>
+              <article_title>Essential biodiversity variables</article_title>
+              <journal_title>Science</journal_title>
+              <volume>339</volume>
+              <first_page>277</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0094|eap1682-cit-0094">
+              <author>Pettorelli</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/rse2.15</doi>
+              <article_title>Framing the concept of satellite remote sensing essential biodiversity variables: challenges and future directions</article_title>
+              <journal_title>Remote Sensing in Ecology and Conservation</journal_title>
+              <volume>2</volume>
+              <first_page>122</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0095|eap1682-cit-0095">
+              <author>Platt</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1038/423398b</doi>
+              <article_title>Spring algal bloom and larval fish survival</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>423</volume>
+              <first_page>398</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0096|eap1682-cit-0096">
+              <author>Racault</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.ecolind.2011.07.010</doi>
+              <article_title>Phytoplankton phenology in the global ocean</article_title>
+              <journal_title>Ecological Indicators</journal_title>
+              <volume>14</volume>
+              <first_page>152</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0097|eap1682-cit-0097">
+              <author>Ryan</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.3390/rs6021007</doi>
+              <article_title>Application of the hyperspectral imager for the coastal ocean to phytoplankton ecology studies in Monterey Bay, CA, USA</article_title>
+              <journal_title>Remote Sensing</journal_title>
+              <volume>6</volume>
+              <first_page>1007</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0098|eap1682-cit-0098">
+              <author>Salisbury</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1029/2016EO062707</doi>
+              <article_title>Coastal observations from a new vantage point</article_title>
+              <journal_title>Eos</journal_title>
+              <volume>97</volume>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0099|eap1682-cit-0099">
+              <author>Santora</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.3354/meps12278</doi>
+              <article_title>Impacts of ocean climate variability on biodiversity of pelagic forage species in an upwelling ecosystem</article_title>
+              <journal_title>Marine Ecology Progress Series</journal_title>
+              <volume>580</volume>
+              <first_page>205</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0100|eap1682-cit-0100">
+              <author>Schimel</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1111/gcb.12822</doi>
+              <article_title>Observing terrestrial ecosystems and the carbon cycle from space</article_title>
+              <journal_title>Global Change Biology</journal_title>
+              <volume>21</volume>
+              <first_page>1762</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0101|eap1682-cit-0101">
+              <author>Scott</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1007/BF00045186</doi>
+              <article_title>Classification and inventory of wetlands: a global overview</article_title>
+              <journal_title>Plant Ecology</journal_title>
+              <volume>118</volume>
+              <first_page>3</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0102|eap1682-cit-0102">
+              <author>Soppa</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.3390/rs8050420</doi>
+              <article_title>Diatom phenology in the southern ocean: mean patterns, trends and the role of climate oscillations</article_title>
+              <journal_title>Remote Sensing</journal_title>
+              <volume>8</volume>
+              <first_page>420</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0118|eap1682-cit-0118">
+              <author>Skidmore</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1038/523403a</doi>
+              <article_title>Environmental science : agree on biodiversity metrics to track from space : comment</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>523</volume>
+              <first_page>403</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0103|eap1682-cit-0103">
+              <author>Soto</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1117/1.JRS.11.012002</doi>
+              <article_title>Characterization of Karenia brevis blooms on the West Florida Shelf using ocean color satellite imagery: implications for bloom maintenance and evolution</article_title>
+              <journal_title>Journal of Applied Remote Sensing</journal_title>
+              <volume>11</volume>
+              <first_page>012002</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0104|eap1682-cit-0104">
+              <author>Steinmetz</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1364/OE.19.009783</doi>
+              <article_title>Atmospheric correction in presence of sun glint: application to MERIS</article_title>
+              <journal_title>Optics Express</journal_title>
+              <volume>19</volume>
+              <first_page>9783</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0105|eap1682-cit-0105">
+              <author>Tiner</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1201/b18210</doi>
+              <volume_title>Remote sensing of wetlands: applications and advances</volume_title>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0106|eap1682-cit-0106">
+              <author>Turpie</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1016/j.rse.2015.05.008</doi>
+              <article_title>Prospective HyspIRI global observations of tidal wetlands</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>167</volume>
+              <first_page>206</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0107|eap1682-cit-0107">
+              <author>Tzortziou</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.3354/meps09017</doi>
+              <article_title>Spatial gradients in dissolved carbon due to tidal marsh outwelling into a Chesapeake Bay estuary</article_title>
+              <journal_title>Marine Ecology Progress Series</journal_title>
+              <volume>426</volume>
+              <first_page>41</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0108|eap1682-cit-0108">
+              <author>Uitz</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2009GB003680</doi>
+              <article_title>Phytoplankton class-specific primary production in the world's oceans: seasonal and interannual variability from satellite observations</article_title>
+              <journal_title>Global Biogeochemical Cycles</journal_title>
+              <volume>24</volume>
+              <first_page>GB3016</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0109|eap1682-cit-0109">
+              <unstructured_citation>United Nations 2015 Agenda 2030. Transforming our world: The 2030 agenda for sustainable development https://sustainabledevelopment.un.org/post2015/transformingourworld/publication</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0110|eap1682-cit-0110">
+              <author>Vaiphasa</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.ecss.2005.06.014</doi>
+              <article_title>Tropical mangrove species discrimination using hyperspectral data: a laboratory study</article_title>
+              <journal_title>Estuarine, Coastal and Shelf Science</journal_title>
+              <volume>65</volume>
+              <first_page>371</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0111|eap1682-cit-0111">
+              <author>Vanhellemont</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1016/j.rse.2015.02.007</doi>
+              <article_title>Advantages of high quality SWIR bands for ocean colour processing: examples from Landsat-8</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>161</volume>
+              <first_page>89</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0112|eap1682-cit-0112">
+              <author>Wabnitz</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1890/080109</doi>
+              <article_title>Measuring progress towards global marine conservation targets</article_title>
+              <journal_title>Frontiers in Ecology and the Environment</journal_title>
+              <volume>8</volume>
+              <first_page>124</first_page>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0113|eap1682-cit-0113">
+              <unstructured_citation>WOA 2016 First Global Integrated Marine Assessment (World Ocean Assessment) http://www.un.org/depts/los/global_reporting/WOA_RegProcess.htm</unstructured_citation>
+            </citation>
+            <citation key="10.1002/eap.1682-BIB0114|eap1682-cit-0114">
+              <unstructured_citation>Wood , E. M. J. L. Kellermann 2015 Phenological synchrony and bird migration: changing climate and seasonal resources in North America</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

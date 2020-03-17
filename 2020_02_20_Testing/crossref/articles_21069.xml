@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-03-18 03:31:49">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Comparison of the GOSAT TANSO-FTS TIR CH&amp;lt;sub&amp;gt;4&amp;lt;/sub&amp;gt; volume mixing ratio vertical profiles with those measured by ACE-FTS, ESA MIPAS, IMK-IAA MIPAS, and 16 NDACC stations</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Kevin S.</given_name>
+              <surname>Olsen</surname>
+              <ORCID>https://orcid.org/0000-0002-2173-9889</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kimberly</given_name>
+              <surname>Strong</surname>
+              <ORCID>https://orcid.org/0000-0001-9947-1053</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kaley A.</given_name>
+              <surname>Walker</surname>
+              <ORCID>https://orcid.org/0000-0003-3420-9454</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chris D.</given_name>
+              <surname>Boone</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Piera</given_name>
+              <surname>Raspollini</surname>
+              <ORCID>https://orcid.org/0000-0002-5408-1809</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Johannes</given_name>
+              <surname>Plieninger</surname>
+              <ORCID>https://orcid.org/0000-0001-9096-5962</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Whitney</given_name>
+              <surname>Bader</surname>
+              <ORCID>https://orcid.org/0000-0003-0766-8460</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephanie</given_name>
+              <surname>Conway</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michel</given_name>
+              <surname>Grutter</surname>
+              <ORCID>https://orcid.org/0000-0001-9800-5878</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James W.</given_name>
+              <surname>Hannigan</surname>
+              <ORCID>https://orcid.org/0000-0002-4269-1677</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frank</given_name>
+              <surname>Hase</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicholas</given_name>
+              <surname>Jones</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martine</given_name>
+              <surname>de Mazière</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justus</given_name>
+              <surname>Notholt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthias</given_name>
+              <surname>Schneider</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Smale</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ralf</given_name>
+              <surname>Sussmann</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Naoko</given_name>
+              <surname>Saitoh</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The primary instrument on the Greenhouse gases Observing SATellite (GOSAT) is the Thermal And Near infrared Sensor for carbon Observations (TANSO) Fourier transform spectrometer (FTS). TANSO-FTS uses three short-wave infrared (SWIR) bands to retrieve total columns of CO<sub>2</sub> and CH<sub>4</sub> along its optical line of sight and one thermal infrared (TIR) channel to retrieve vertical profiles of CO<sub>2</sub> and CH<sub>4</sub> volume mixing ratios (VMRs) in the troposphere. We examine version 1 of the TANSO-FTS TIR CH<sub>4</sub> product by comparing co-located CH<sub>4</sub> VMR vertical profiles from two other remote-sensing FTS systems: the Canadian Space Agency's Atmospheric Chemistry Experiment FTS (ACE-FTS) on SCISAT (version 3.5) and the European Space Agency's Michelson Interferometer for Passive Atmospheric Sounding (MIPAS) on Envisat (ESA ML2PP version 6 and IMK-IAA reduced-resolution version V5R_CH4_224/225), as well as 16 ground stations with the Network for the Detection of Atmospheric Composition Change (NDACC). This work follows an initial inter-comparison study over the Arctic, which incorporated a ground-based FTS at the Polar Environment Atmospheric Research Laboratory (PEARL) at Eureka, Canada, and focuses on tropospheric and lower-stratospheric measurements made at middle and tropical latitudes between 2009 and 2013 (mid-2012 for MIPAS). For comparison, vertical profiles from all instruments are interpolated onto a common pressure grid, and smoothing is applied to ACE-FTS, MIPAS, and NDACC vertical profiles. Smoothing is needed to account for differences between the vertical resolution of each instrument and differences in the dependence on a priori profiles. The smoothing operators use the TANSO-FTS a priori and averaging kernels in all cases. We present zonally averaged mean CH<sub>4</sub> differences between each instrument and TANSO-FTS with and without smoothing, and we examine their information content, their sensitive altitude range, their correlation, their a priori dependence, and the variability within each data set. Partial columns are calculated from the VMR vertical profiles, and their correlations are examined. We find that the TANSO-FTS vertical profiles agree with the ACE-FTS and both MIPAS retrievals' vertical profiles within 4 % (± ∼  40 ppbv) below 15 km when smoothing is applied to the profiles from instruments with finer vertical resolution but that the relative differences can increase to on the order of 25 % when no smoothing is applied. Computed partial columns are tightly correlated for each pair of data sets. We investigate whether the difference between TANSO-FTS and other CH<sub>4</sub> VMR data products varies with latitude. Our study reveals a small dependence of around 0.1 % per 10 degrees latitude, with smaller differences over the tropics and greater differences towards the poles.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>09</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>3697</first_page>
+            <last_page>3718</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-10-3697-2017</doi>
+            <resource>https://www.atmos-meas-tech.net/10/3697/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/10/3697/2017/amt-10-3697-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/acp-17-2255-2017</doi>
+              <unstructured_citation>Bader, W., Bovy, B., Conway, S., Strong, K., Smale, D., Turner, A. J., Blumenstock, T., Boone, C., Collaud Coen, M., Coulon, A., Garcia, O., Griffith, D. W. T., Hase, F., Hausmann, P., Jones, N., Krummel, P., Murata, I., Morino, I., Nakajima, H., O'Doherty, S., Paton-Walsh, C., Robinson, J., Sandrin, R., Schneider, M., Servais, C., Sussmann, R., and Mahieu, E.: The recent increase of atmospheric methane from 10 years of ground-based NDACC FTIR observations since 2005, Atmos. Chem. Phys., 17, 2255–2277, https://doi.org/10.5194/acp-17-2255-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/amt-6-2865-2013</doi>
+              <unstructured_citation>Baray, J. L., Courcoux, Y., Keckhut, P., Portafaix, T., Tulet, P., Cammas, J. P., Hauchecorne, A., Godin, S., Beekmann, S., de Mazière, Hermans, C., Desmet, F., Sellegri, K., Colomb, A., Ramonet, M., Sciare, J., Vuillemin, C., Hoareau, C., Dionisi, D., Duflot, V., Vérèmes, H., Porteneuve, J., Gabarrot, F., Gaudo, T., Metzger, J.-M., Payen, G., Leclair de Bellevue, J., Barthe, C., Posny, F., Ricaud, P., Abchiche, A., and Delmas, R.: Maïdo observatory: a new high-altitude station facility at Reunion Island (21° S, 55° E) for long-term atmospheric remote sensing and in situ measurements, Atmos. Meas. Tech., 6, 2865–2877, https://doi.org/10.5194/amt-6-2865-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/2009JTECHA1215.1</doi>
+              <unstructured_citation>Batchelor, R. L., Strong, K., Lindenmaier, R., Mittermeier, R. L., Fast, H., Drummond, J. R., and Fogal, P. F.: A new Bruker IFS 125HR FTIR spectrometer for the Polar Environment Atmospheric Research Laboratory at Eureka, Canada: measurements and comparison with the existing Bomem DA8 spectrometer, J. Atmos. Ocean. Tech., 26, 1328–1340, https://doi.org/10.1175/2009JTECHA1215.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Baylon, J. L., Stremme, W., Plaza, E., Bezanilla, A., Grutter, M., Hase, F., and Blumenstock, T.: CO2 total column variability from ground-based FTIR measurements over central Mexico, in: AGU Fall Meeting, AGU Fall Meeting, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1016/j.jqsrt.2016.04.006</doi>
+              <unstructured_citation>Bernath, P. F.: The Atmospheric Chemistry Experiment (ACE), J. Quant. Spectrosc. Ra., 186, 3–16, https://doi.org/10.1016/j.jqsrt.2016.04.006, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2005GL022386</doi>
+              <unstructured_citation>Bernath, P. F., McElroy, C. T., Abrams, M. C., Boone, C. D., Butler, M., Camy-Peyret, C., Carleer, M., Clerbaux, C., Coheur, P.-F., Colin, R., DeCola, P., de Mazière, M., Drummond, J. R., Dufour, D., Evans, W. F. J., Fast, H., Fussen, D., Gilbert, K., Jennings, D. E., Llewellyn, E. J., Lowe, R. P., Mahieu, E., McConnell, J. C., McHugh, M., McLeod, S. D., Michaud, R., Midwinter, C., Nassar, R., Nichitiu, F., Nowlan, C., Rinsland, C. P., Rochon, Y. J., Rowlands, N., Semeniuk, K., Simon, P., Skelton, R., Sloan, J. J., Soucy, M.-A., Strong, K., Tremblay, P., Turnbull, D., Walker, K. A., Walkty, I., Wardle, D. A., Wehrle, V., Zander, R., and Zou, J.: Atmospheric Chemistry Experiment (ACE): Mission overview, Geophys. Res. Lett., 32, L15S01, https://doi.org/10.1029/2005GL022386, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/acp-6-897-2006</doi>
+              <unstructured_citation>Blumenstock, T., Kopp, G., Hase, F., Hochschild, G., Mikuteit, S., Raffalski, U., and Ruhnke, R.: Observation of unusual chlorine activation by ground-based infrared and microwave spectroscopy in the late Arctic winter 2000/01, Atmos. Chem. Phys., 6, 897–905, https://doi.org/10.5194/acp-6-897-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1364/AO.44.007218</doi>
+              <unstructured_citation>Boone, C. D., Nassar, R., Walker, K. A., Rochon, Y., McLeod, S. D., Rinsland, C. P., and Bernath, P. F.: Retrievals for the atmospheric chemistry experiment Fourier-transform spectrometer, Appl. Opt., 44, 7218–7231, https://doi.org/10.1364/AO.44.007218, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Boone, C. D., Walker, K. A., and Bernath, P. F.: Version 3 Retrievals for the Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS), in: ACE at 10: Solar Occultation Anthology, edited by: Bernath, P. F., A. Deepak Publishing, Hampton, Virg., 103–127, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/acp-7-4249-2007</doi>
+              <unstructured_citation>Buchwitz, M., Schneising, O., Burrows, J. P., Bovensmann, H., Reuter, M., and Notholt, J.: First direct observation of the atmospheric CO2 year-to-year increase from space, Atmos. Chem. Phys., 7, 4249–4256, https://doi.org/10.5194/acp-7-4249-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Côté, J. S., Gravel, S., Méthot, A., Patoine, A., Roch, M., and Staniforth, A.: The operational CMC-MRB global environmental multiscale (GEM) model. Part I: Design considerations and formulation, Mon. Weather Rev., 126, 1373–1395, https://doi.org/10.1175/1520-0493(1998)126&amp;amp;lt;1373:TOCMGE&amp;amp;gt;2.0.CO;2, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/acp-8-2421-2008</doi>
+              <unstructured_citation>de Mazière, M., Vigouroux, C., Bernath, P. F., Baron, P., Blumenstock, T., Boone, C., Brogniez, C., Catoire, V., Coffey, M., Duchatelet, P., Griffith, D., Hannigan, J., Kasai, Y., Kramer, I., Jones, N., Mahieu, E., Manney, G. L., Piccolo, C., Randall, C., Robert, C., Senten, C., Strong, K., Taylor, J., Tétard, C., Walker, K. A., and Wood, S.: Validation of ACE-FTS v2.2 methane profiles from the upper troposphere to the lower mesosphere, Atmos. Chem. Phys., 8, 2421–2435, https://doi.org/10.5194/acp-8-2421-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-9-1051-2016</doi>
+              <unstructured_citation>Engel, A., Bönisch, H., Schwarzenberger, T., Haase, H.-P., Grunow, K., Abalichin, J., and Sala, S.: Long-term validation of ESA operational retrieval (version 6.0) of MIPAS Envisat vertical profiles of methane, nitrous oxide, CFC11, and CFC12 using balloon-borne observations and trajectory matching, Atmos. Meas. Tech., 9, 1051–1062, https://doi.org/10.5194/amt-9-1051-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/amt-9-5895-2016</doi>
+              <unstructured_citation>Errera, Q., Ceccherini, S., Christophe, Y., Chabrillat, S., Hegglin, M. I., Lambert, A., Ménard, R., Raspollini, P., Skachko, S., van Weele, M., and Walker, K. A.: Harmonisation and diagnostics of MIPAS ESA CH4 and N2O profiles using data assimilation, Atmos. Meas. Tech., 9, 5895–5909, https://doi.org/10.5194/amt-9-5895-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-8-2151-2008</doi>
+              <unstructured_citation>Fischer, H., Birk, M., Blom, C., Carli, B., Carlotti, M., von Clarmann, T., Delbouille, L., Dudhia, A., Ehhalt, D., Endemann, M., Flaud, J. M., Gessner, R., Kleinert, A., Koopman, R., Langen, J., López-Puertas, M., Mosner, P., Nett, H., Oelhaf, H., Perron, G., Remedios, J., Ridolfi, M., Stiller, G., and Zander, R.: MIPAS: an instrument for atmospheric and climate research, Atmos. Chem. Phys., 8, 2151–2188, https://doi.org/10.5194/acp-8-2151-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/1999JD900879</doi>
+              <unstructured_citation>Goldman, A., Paton-Walsh, C., Bell, W., Toon, G. C. andBlavier, J. F., Sen, B., Coffey, M. T., Hannigan, J. W., and Mankin, W. G.: Network for the detection of stratospheric change Fourier transform infrared intercomparison at Table Mountain Facility, November 1996, J. Geophys. Res., 104, 30481–30503, https://doi.org/10.1029/1999JD900879, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/2009JTECHA1230.1</doi>
+              <unstructured_citation>Hannigan, J. W., Coffey, M. T., and Goldman, A.: Semi-autonomous FTS observation system for stratospheric and tropospheric gases, J. Atmos. Ocean. Tech., 26, 1814–1828, https://doi.org/10.1175/2009JTECHA1230.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1016/j.jqsrt.2003.12.008</doi>
+              <unstructured_citation>Hase, F., Hannigan, J. W., Coffey, M. T., Goldman, A., Hopfner, M., Jones, N. B., Rinsland, C. P., and Wood, S. W.: Intercomparison of retrieval codes used for the analysis of high-resolution, ground-based FTIR measurements, J. Quant. Spectrosc. Ra., 87, 25–52, https://doi.org/10.1016/j.jqsrt.2003.12.008, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/amt-9-1961-2016</doi>
+              <unstructured_citation>Holl, G., Walker, K. A., Conway, S., Saitoh, N., Boone, C. D., Strong, K., and Drummond, J. R.: Methane cross-validation between three Fourier transform spectrometers: SCISAT ACE-FTS, GOSAT TANSO-FTS, and ground-based FTS measurements in the Canadian high Arctic, Atmos. Meas. Tech., 9, 1961–1980, https://doi.org/10.5194/amt-9-1961-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2008JD010710</doi>
+              <unstructured_citation>Ishida, H. and Nakajima, T. Y.: Development of an unbiased cloud detection algorithm for a spaceborne multispectral imager, J. Geophys. Res., 114, D07206, https://doi.org/10.1029/2008JD010710, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/2011JAMC2672.1</doi>
+              <unstructured_citation>Ishida, H., Nakjima, T. Y., Yokota, T., Kikuchi, N., and Watanabe, H.: Investigation of GOSAT TANSO-CAI cloud screening ability through an intersatellite comparison, J. Appl. Meteorol. Climatol., 50, 1571–1586, https://doi.org/10.1175/2011JAMC2672.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Jin, J. J., Semeniuk, K., Beagley, S. R., Fomichev, V. I., Jonsson, A. I., McConnell, J. C., Urban, J., Murtagh, D., Manney, G. L., Boone, C. D., Bernath, P. F., Walker, K. A., Barret, B., Ricaud, P., and Dupuy, E.: Comparison of CMAM simulations of carbon monoxide (CO), nitrous oxide (N2O), and methane (CH4) with observations from Odin/SMR, ACE-FTS, and Aura/MLS, Atmos. Chem. Phys., 9, 3233–3252, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/acp-12-3527-2012</doi>
+              <unstructured_citation>Kohlhepp, R., Ruhnke, R., Chipperfield, M. P., De Mazière, M., Notholt, J., Barthlott, S., Batchelor, R. L., Blatherwick, R. D., Blumenstock, T., Coffey, M. T., Demoulin, P., Fast, H., Feng, W., Goldman, A., Griffith, D. W. T., Hamann, K., Hannigan, J. W., Hase, F., Jones, N. B., Kagawa, A., Kaiser, I., Kasai, Y., Kirner, O., Kouker, W., Lindenmaier, R., Mahieu, E., Mittermeier, R. L., Monge-Sanz, B., Morino, I., Murata, I., Nakajima, H., Palm, M., Paton-Walsh, C., Raffalski, U., Reddmann, T., Rettinger, M., Rinsland, C. P., Rozanov, E., Schneider, M., Senten, C., Servais, C., Sinnhuber, B.-M., Smale, D., Strong, K., Sussmann, R., Taylor, J. R., Vanhaelewyn, G., Warneke, T., Whaley, C., Wiehle, M., and Wood, S. W.: Observed and simulated time evolution of HCl, ClONO2, and HF total column abundances, Atmos. Chem. Phys., 12, 3527–3556, https://doi.org/10.5194/acp-12-3527-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Kurylo, M. J. and Zander, R.: The NDSC–Its status after 10 years of operation, in: Proc. 19th Quadrennial Ozone Symp., 167–168, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1364/AO.48.006716</doi>
+              <unstructured_citation>Kuze, A., Suto, H., Nakajima, M., and Hamazaki, T.: Thermal and near infrared sensor for carbon observation Fourier-transform spectrometer on the Greenhouse Gases Observing Satellite for greenhouse gases monitoring, Appl. Opt., 48, 6716, https://doi.org/10.1364/AO.48.006716, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/amt-5-2447-2012</doi>
+              <unstructured_citation>Kuze, A., Suto, H., Shiomi, K., Urabe, T., Nakajima, M., Yoshida, J., Kawashima, T., Yamamoto, Y., Kataoka, F., and Buijs, H.: Level 1 algorithms for TANSO on GOSAT: processing and on-orbit calibrations, Atmos. Meas. Tech., 5, 2447–2467, https://doi.org/10.5194/amt-5-2447-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/amt-9-2445-2016</doi>
+              <unstructured_citation>Kuze, A., Suto, H., Shiomi, K., Kawakami, S., Tanaka, M., Ueda, Y., Deguchi, A., Yoshida, J., Yamamoto, Y., Kataoka, F., Taylor, T. E., and Buijs, H. L.: Update on GOSAT TANSO-FTS performance, operations, and data products after more than 6 years in space, Atmos. Meas. Tech., 9, 2445–2461, https://doi.org/10.5194/amt-9-2445-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/amt-8-5251-2015</doi>
+              <unstructured_citation>Laeng, A., Plieninger, J., von Clarmann, T., Grabowski, U., Stiller, G., Eckert, E., Glatthor, N., Haenel, F., Kellmann, S., Kiefer, M., Linden, A., Lossow, S., Deaver, L., Engel, A., Hervig, M., Levin, I., McHugh, M., Noël, S., Toon, G., and Walker, K.: Validation of MIPAS IMK/IAA methane profiles, Atmos. Meas. Tech., 8, 5251–5261, https://doi.org/10.5194/amt-8-5251-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Maksyutov, S., Patra, P. K., Onishi, R. A. S. T., and T., N.: NIES/FRCGC global atmospheric tracer transport model: Description, validation, and surface sources and sinks inversion, J. Earth Simul., 9, 3–18, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/97JD00337</doi>
+              <unstructured_citation>Notholt, J., Toon, G. C., Stordal, F., S., S., Schmidbauer, N., Becker, E., Meier, A., and Sen, B.: Seasonal variations of atmospheric trace gases in the high Arctic at 79° N, J. Geophys. Res., 102, 12855–12861, https://doi.org/10.1029/97JD00337, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-9-413-2009</doi>
+              <unstructured_citation>Payan, S., Camy-Peyret, C., Oelhaf, H., Wetzel, G., Maucher, G., Keim, C., Pirre, M., Huret, N., Engel, A., Volk, M. C., Kuellmann, H., Kuttippurath, J., Cortesi, U., Bianchini, G., Mencaraglia, F., Raspollini, P., Redaelli, G., Vigouroux, C., de Mazière, M., Mikuteit, S., Blumenstock, T., Velazco, V., Notholt, J., Mahieu, E., Duchatelet, P., Smale, D., Wood, S., Jones, N., Piccolo, C., Payne, V., Bracher, A., Glatthor, N., Stiller, G., Grunow, K., Jeseck, P., Te, Y., and Butz, A.: Validation of version-4.61 methane and nitrous oxide observed by MIPAS, Atmos. Chem. Phys., 9, 413–442, https://doi.org/10.5194/acp-9-413-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2002JA009430</doi>
+              <unstructured_citation>Picone, J. M., Hedin, A. E., Drob, D. P., and Aikin, A. C.: NRLMSISE-00 empirical model of the atmosphere: Statistical comparisons and scientific issues, J. Geophys. Res., 107, 1468, https://doi.org/10.1029/2002JA009430, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/amt-8-4657-2015</doi>
+              <unstructured_citation>Plieninger, J., von Clarmann, T., Stiller, G. P., Grabowski, U., Glatthor, N., Kellmann, S., Linden, A., Haenel, F., Kiefer, M., Höpfner, M., Laeng, A., and Lossow, S.: Methane and nitrous oxide retrievals from MIPAS-ENVISAT, Atmos. Meas. Tech., 8, 4657–4670, https://doi.org/10.5194/amt-8-4657-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/amt-9-765-2016</doi>
+              <unstructured_citation>Plieninger, J., Laeng, A., Lossow, S., von Clarmann, T., Stiller, G. P., Kellmann, S., Linden, A., Kiefer, M., Walker, K. A., Noël, S., Hervig, M. E., McHugh, M., Lambert, A., Urban, J., Elkins, J. W., and Murtagh, D.: Validation of revised methane and nitrous oxide profiles from MIPAS-ENVISAT, Atmos. Meas. Tech., 9, 765–779, https://doi.org/10.5194/amt-9-765-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/95JD01296</doi>
+              <unstructured_citation>Pougatchev, N. S., Connor, B. J., and Rinsland, C. P.: Infrared measurements of the ozone vertical distribution above Kitt Peak, J. Geophys. Res., 100, 16689–16697, https://doi.org/10.1029/95JD01296, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/acp-6-5605-2006</doi>
+              <unstructured_citation>Raspollini, P., Belotti, C., Burgess, A., Carli, B., Carlotti, M., Ceccherini, S., Dinelli, B. M., Dudhia, A., Flaud, J.-M., Funke, B., Höpfner, M., López-Puertas, M., Payne, V., Piccolo, C., Remedios, J. J., Ridolfi, M., and Spang, R.: MIPAS level 2 operational analysis, Atmos. Chem. Phys., 6, 5605–5630, https://doi.org/10.5194/acp-6-5605-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/amt-6-2419-2013</doi>
+              <unstructured_citation>Raspollini, P., Carli, B., Carlotti, M., Ceccherini, S., Dehn, A., Dinelli, B. M., Dudhia, A., Flaud, J.-M., López-Puertas, M., Niro, F., Remedios, J. J., Ridolfi, M., Sembhi, H., Sgheri, L., and von Clarmann, T.: Ten years of MIPAS measurements with ESA Level 2 processor V6 – Part 1: Retrieval algorithm and diagnostics of the products, Atmos. Meas. Tech., 6, 2419–2439, https://doi.org/10.5194/amt-6-2419-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Raspollini, P., Arnone, E., Barbara, F., Carli, B., Castelli, E., Ceccherini, S., Dinelli, B. M., Dudhia, A., Kiefer, M., Papandrea, E., and Ridolfi, M.: Comparison of the MIPAS products obtained by four different level 2 processors, Ann. Geophys., 56, https://doi.org/10.4401/ag-6338, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acpd-7-9973-2007</doi>
+              <unstructured_citation>Remedios, J. J., Leigh, R. J., Waterfall, A. M., Moore, D. P., Sembhi, H., Parkes, I., Greenhough, J., Chipperfield, M. P., and Hauglustaine, D.: MIPAS reference atmospheres and comparisons to V4.61/V4.62 MIPAS level 2 geophysical data sets, Atmos. Chem. Phys., 7, 9973–10017, https://doi.org/10.5194/acpd-7-9973-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/2002JD002299</doi>
+              <unstructured_citation>Rodgers, C. D. and Connor, B. J.: Intercomparison of remote sounding instruments, J. Geophys. Res., 108, 2156–2202, https://doi.org/10.1029/2002JD002299, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1016/S0022-4073(98)00078-8</doi>
+              <unstructured_citation>Rothman, L. S., Rinsland, C. P., Goldman, A., Massie, S. T., Edwards, D. P., Flaud, J.-M., Perrin, A., Camy-Peyret, C., Dana, V., Mandin, J.-Y., Schroeder, J., McCann, A., Gamache, R. R., Wattson, R. B., Yoshino, K., Chance, K., Jucks, K., Brown, L. R., Nemtchinov, V., and Varanasi, P.: The HITRAN Molecular Spectroscopic Database and HAWKS (HITRAN Atmospheric Workstation): 1996 Edition, J. Quant. Spectrosc. Ra., 60, 665–710, https://doi.org/10.1016/S0022-4073(98)00078-8, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1016/j.jqsrt.2004.10.008</doi>
+              <unstructured_citation>Rothman, L. S., Jacquemart, D., Barbe, A., Chris Benner, D., Birk, M., Brown, L. R., Carleer, M. R., Chackerian, C., Chance, K., Coudert, L. H., Dana, V., Devi, V. M., Flaud, J.-M., Gamache, R. R., Goldman, A., Hartmann, J.-M., Jucks, K. W., Maki, A. G., Mandin, J.-Y., Massie, S. T., Orphal, J., Perrin, A., Rinsland, C. P., Smith, M. A. H., Tennyson, J., Tolchenov, R. N., Toth, R. A., Vander Auwera, J., Varanasi, P., and Wagner, G.: The HITRAN 2004 molecular spectroscopic database, J. Quant. Spectrosc. Ra., 96, 139–204, https://doi.org/10.1016/j.jqsrt.2004.10.008, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1016/j.jqsrt.2009.02.013</doi>
+              <unstructured_citation>Rothman, L. S., Gordon, I. E., Barbe, A., Benner, D. C., Bernath, P. F., Birk, M., Boudon, V., Brown, L. R., Campargue, A., Champion, J.-P., Chance, K., Coudert, L. H., Dana, V., Devi, V. M., Fally, S., Flaud, J.-M., Gamache, R. R., Goldman, A., Jacquemart, D., Kleiner, I., Lacome, N., Lafferty, W. J., Mandin, J.-Y., Massie, S. T., Mikhailenko, S. N., Miller, C. E., Moazzen-Ahmadi, N., Naumenko, O. V., Nikitin, A. V., Orphal, J., Perevalov, V. I., Perrin, A., Predoi-Cross, A., Rinsland, C. P., Rotger, M., Šimečková, M., Smith, M. A. H., Sung, K., Tashkun, S. A., Tennyson, J., Toth, R. A., Vandaele, A. C., and Vander Auwera, J.: The HITRAN 2008 molecular spectroscopic database, J. Quant. Spectrosc. Ra., 110, 533–572, https://doi.org/10.1016/j.jqsrt.2009.02.013, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/j.jqsrt.2013.07.002</doi>
+              <unstructured_citation>Rothman, L. S., Gordon, I. E., Babikov, Y., Barbe, A., Chris Benner, D., Bernath, P. F., Birk, M., Bizzocchi, L., Boudon, V., Brown, L. R., Campargue, A., Chance, K., Cohen, E. A., Coudert, L. H., Devi, V. M., Drouin, B. J., Fayt, A., Flaud, J.-M., Gamache, R. R., Harrison, J. J., Hartmann, J.-M., Hill, C., Hodges, J. T., Jacquemart, D., Jolly, A., Lamouroux, J., Le Roy, R. J., Li, G., Long, D. A., Lyulin, O. M., Mackie, C. J., Massie, S. T., Mikhailenko, S., Müller, H. S. P., Naumenko, O. V., Nikitin, A. V., Orphal, J., Perevalov, V., Perrin, A., Polovtseva, E. R., Richard, C., Smith, M. A. H., Starikova, E., Sung, K., Tashkun, S., Tennyson, J., Toon, G. C., Tyuterev, V. G., and Wagner, G.: The HITRAN2012 molecular spectroscopic database, J. Quant. Spectrosc. Ra., 130, 4–50, https://doi.org/10.1016/j.jqsrt.2013.07.002, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/gmd-6-81-2013</doi>
+              <unstructured_citation>Saeki, T., Saito, R., Belikov, D., and Maksyutov, S.: Global high-resolution simulations of CO2 and CH4 using a NIES transport model to produce a priori concentrations for use in satellite data retrievals, Geosci. Model Dev., 6, 81–100, https://doi.org/10.5194/gmd-6-81-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2008JD011500</doi>
+              <unstructured_citation>Saitoh, N., Imasu, R., Ota, Y., and Niwa, Y.: CO2 retrieval algorithm for the thermal infrared spectra of the Greenhouse Gases Observing Satellite: Potential of retrieving CO2 vertical profile from high-resolution FTS sensor, J. Geophys. Res., 114, D17305, https://doi.org/10.1029/2008JD011500, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/amt-9-2119-2016</doi>
+              <unstructured_citation>Saitoh, N., Kimoto, S., Sugimura, R., Imasu, R., Kawakami, S., Shiomi, K., Kuze, A., Machida, T., Sawa, Y., and Matsueda, H.: Algorithm update of the GOSAT/TANSO-FTS thermal infrared CO2 product (version 1) and validation of the UTLS CO2 data using CONTRAIL measurements, Atmos. Meas. Tech., 9, 2119–2134, https://doi.org/10.5194/amt-9-2119-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-5-153-2005</doi>
+              <unstructured_citation>Schneider, M., Blumenstock, T., Chipperfield, M., Hase, F., Kouker, W., Reddmann, T., Ruhnke, R., Cuevas, E., and Fischer, H.: Subtropical trace gas profiles determined by ground-based FTIR spectroscopy at Izaña (28° N, 16° W): Five year record, error analysis, and comparison with 3-D CTMs, Atmos. Chem. Phys., 5, 153–167, https://doi.org/10.5194/acp-5-153-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-8-3483-2008</doi>
+              <unstructured_citation>Senten, C., de Mazière, M., Dils, B., Hermans, C., Kruglanski, M., Neefs, E., Scolas, F., Vandaele, A. C., Vanhaelewyn, G., Vigouroux, C., Carleer, M., Coheur, P. F., Fally, S., Barret, B., Baray, J. L., Delmas, R., Leveau, J., Metzger, J. M., Mahieu, E., Boone, C. D., Walker, K. A., Bernath, P. F., and Strong, K.: Technical Note: New ground-based FTIR measurements at Ile de La Réunion: observations, error analysis, and comparisons with independent data, Atmos. Chem. Phys., 8, 3483–3508, https://doi.org/10.5194/acp-8-3483-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/amt-5-1425-2012</doi>
+              <unstructured_citation>Sepúlveda, E., Schneider, M., Hase, F., García, O. E., Gomez-Pelaez, A., Dohe, S., Blumenstock, T., and Guerra, J. C.: Long-term validation of tropospheric column-averaged CH4 mole fractions obtained by mid-infrared ground-based FTIR spectrometry, Atmos. Meas. Tech., 5, 1425–1441, https://doi.org/10.5194/amt-5-1425-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/amt-7-2337-2014</doi>
+              <unstructured_citation>Sepúlveda, E., Schneider, M., Hase, F., Barthlott, S., Dubravica, D., García, O. E., Gomez-Pelaez, A., González, Y., Guerra, J. C., Gisi, M., Kohlhepp, R., Dohe, S., Blumenstock, T., Strong, K., Weaver, D., Palm, M., Sadeghi, A., Deutscher, N. M., Warneke, T., Notholt, J., Jones, N., Griffith, D. W. T., Smale, D., Brailsford, G. W., Robinson, J., Meinhardt, F., Steinbacher, M., Aalto, T., and Worthy, D.: Tropospheric CH4 signals as observed by NDACC FTIR at globally distributed sites and comparison to GAW surface in situ measurements, Atmos. Meas. Tech., 7, 2337–2360, https://doi.org/10.5194/amt-7-2337-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Sheese, P., Walker, K., and Boone, C.: Atmospheric pseudo-retrievals for averaging kernel and total uncertainty characterization for ACE-FTS level 2 (PRAKTICAL) data, in: EGU General Assembly, vol. 18 of EGU General Assembly, p. 17582, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/amt-8-741-2015</doi>
+              <unstructured_citation>Sheese, P. E., Boone, C. D., and Walker, K. A.: Detecting physically unrealistic outliers in ACE-FTS atmospheric measurements, Atmos. Meas. Tech., 8, 741–750, https://doi.org/10.5194/amt-8-741-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1364/AO.36.000735</doi>
+              <unstructured_citation>Sussmann, R. and Schäfer, K.: Infrared spectroscopy of tropospheric trace gases: combined analysis of horizontal and vertical column abundances, Appl. Opt., 36, 735–741, https://doi.org/10.1364/AO.36.000735, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/amt-4-1943-2011</doi>
+              <unstructured_citation>Sussmann, R., Forster, F., Rettinger, M., and Jones, N.: Strategy for high-accuracy-and-precision retrieval of atmospheric methane from the mid-infrared FTIR network, Atmos. Meas. Tech., 4, 1943–1964, https://doi.org/10.5194/amt-4-1943-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/amt-6-397-2013</doi>
+              <unstructured_citation>Sussmann, R., Ostler, A., Forster, F., Rettinger, M., Deutscher, N. M., Griffith, D. W. T., Hannigan, J. W., Jones, N., and Patra, P. K.: First intercalibration of column-averaged methane from the Total Carbon Column Observing Network and the Network for the Detection of Atmospheric Composition Change, Atmos. Meas. Tech., 6, 397–418, https://doi.org/10.5194/amt-6-397-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1016/j.jqsrt.2016.05.021</doi>
+              <unstructured_citation>Toon, G. C., Blavier, J.-F., Sung, K., Rothman, L. S., and E. Gordon, I.: HITRAN spectroscopy evaluation using solar occultation FTIR spectra, J. Quant. Spectrosc. Ra., 182, 324–336, https://doi.org/10.1016/j.jqsrt.2016.05.021, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1179/sre.1975.23.176.88</doi>
+              <unstructured_citation>Vincenty, T.: Direct and Inverse Solutions of Geodesics on the Ellipsoid with application of nested equations, Surv. Rev., 23, 88–93, https://doi.org/10.1179/sre.1975.23.176.88, 1975.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/amt-2-159-2009</doi>
+              <unstructured_citation>von Clarmann, T., Höpfner, M., Kellmann, S., Linden, A., Chauhan, S., Funke, B., Grabowski, U., Glatthor, N., Kiefer, M., Schieferdecker, T., Stiller, G. P., and Versick, S.: Retrieval of temperature, H2O, O3, HNO3, CH4, N2O, ClONO2 and ClO from MIPAS reduced resolution nominal mode limb emission measurements, Atmos. Meas. Tech., 2, 159–175, https://doi.org/10.5194/amt-2-159-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Waymark, C., Walker, K. A., Boone, C. D., and Bernath, P. F.: ACE-FTS version 3.0 data set: validation and data processing update, Ann. Geophys., 56, https://doi.org/10.4401/ag-6339, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/JTECH1962.1</doi>
+              <unstructured_citation>Wiacek, A., Taylor, J. R., Strong, K., Saari, R., Kerzenmacher, T., Jones, N. B., and Griffith, D. W. T.: Ground-Based solar absorption FTIR spectroscopy: characterization of retrievals and first results from a novel optical design instrument at a New NDACC Complementary Station, J. Atmos. Ocean. Tech., 24, 432–448, https://doi.org/10.1175/JTECH1962.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/2001JD000581</doi>
+              <unstructured_citation>Wood, S. W., Bodeker, G. E., Boyd, I. S., Jones, N. B., Connor, B. J., Johnston, P. V., Matthews, W. A., Nichol, S. E., Murcray, F. J., Nakajima, H., and Sasano, Y.: Validation of version 5.20 ILAS HNO3, CH4, N2O, O3, and NO2 using ground-based measurements at Arrival Heights and Kiruna, J. Geophys. Res., 107, 8208, https://doi.org/10.1029/2001JD000581, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.2151/sola.2009-041</doi>
+              <unstructured_citation>Yokota, T., Yoshida, Y., Eguchi, N., Ota, Y., Tanaka, T., Watanabe, H., and Maksyutov, S.: Global Concentrations of CO2 and CH4 Retrieved from GOSAT: First Preliminary Results, Sci. Online Lett. Atmos., 5, 160–163, https://doi.org/10.2151/sola.2009-041, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1016/j.scitotenv.2007.10.018</doi>
+              <unstructured_citation>Zander, R., Mahieu, E., Demoulin, P., Duchatelet, P., Roland, G., Servais, C., de Mazière, M., Reimann, S., and Rinsland, C. P.: Our changing atmosphere: evidence based on long-term infrared solar observations at the Jungfraujoch since 1950, Sci. Total Environ., 391, 184–195, https://doi.org/10.1016/j.scitotenv.2007.10.018, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/amt-9-3567-2016</doi>
+              <unstructured_citation>Zou, M., Xiong, X., Saitoh, N., Warner, J., Zhang, Y., Chen, L., Weng, F., and Fan, M.: Satellite observation of atmospheric methane: intercomparison between AIRS and GOSAT TANSO-FTS retrievals, Atmos. Meas. Tech., 9, 3567–3576, https://doi.org/10.5194/amt-9-3567-2016, 2016.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

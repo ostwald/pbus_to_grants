@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2019-07-23 12:18:53">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Geophysical Research Letters</full_title>
+          <abbrev_title>Geophys. Res. Lett.</abbrev_title>
+          <issn>00948276</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>01</month>
+            <day>28</day>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>46</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Efficient In-Cloud Removal of Aerosols by Deep Convection</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Pengfei</given_name>
+              <surname>Yu</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <affiliation>Institute for Environment and Climate Research, Jinan University; Guangzhou China</affiliation>
+              <ORCID>https://orcid.org/0000-0002-2774-1058</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Karl D.</given_name>
+              <surname>Froyd</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0797-6028</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Robert W.</given_name>
+              <surname>Portmann</surname>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0279-6087</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Owen B.</given_name>
+              <surname>Toon</surname>
+              <affiliation>Department of Atmospheric and Oceanic Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Laboratory for Atmospheric and Space Physics; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-1394-3062</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Saulo R.</given_name>
+              <surname>Freitas</surname>
+              <affiliation>Goddard Earth Sciences Technology and Research; Universities Space Research Association; Columbia MD USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-9879-646X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Charles G.</given_name>
+              <surname>Bardeen</surname>
+              <affiliation>Atmospheric Chemistry Division; National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-5330-2788</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Charles</given_name>
+              <surname>Brock</surname>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Tianyi</given_name>
+              <surname>Fan</surname>
+              <affiliation>College of Global Change and Earth System Science; Beijing Normal University; Beijing China</affiliation>
+              <ORCID>https://orcid.org/0000-0002-1026-5067</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ru-Shan</given_name>
+              <surname>Gao</surname>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-6985-1637</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Joseph M.</given_name>
+              <surname>Katich</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-5791-6576</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Agnieszka</given_name>
+              <surname>Kupc</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <affiliation>Now at the Faculty of Physics; University of Vienna; Vienna Austria</affiliation>
+              <ORCID>https://orcid.org/0000-0002-7996-2506</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Shang</given_name>
+              <surname>Liu</surname>
+              <affiliation>School of Earth and Space Sciences; University of Science and Technology of China; Hefei China</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Christopher</given_name>
+              <surname>Maloney</surname>
+              <affiliation>Department of Atmospheric and Oceanic Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Laboratory for Atmospheric and Space Physics; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-9741-5055</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Daniel M.</given_name>
+              <surname>Murphy</surname>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-8091-7235</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Karen H.</given_name>
+              <surname>Rosenlof</surname>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0903-8270</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Gregory</given_name>
+              <surname>Schill</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-4084-0317</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Joshua P.</given_name>
+              <surname>Schwarz</surname>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-9123-2223</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Christina</given_name>
+              <surname>Williamson</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Earth System Research Laboratory; National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>01</month>
+            <day>28</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>23</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>1061</first_page>
+            <last_page>1069</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Austrian Science Fund FWF's Erwin Schrodinger Fellowship</assertion>
+              <assertion name="award_number">J-3613</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/501100008982</assertion>
+              </assertion>
+              <assertion name="award_number">AGS1640903</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">NOAA's Climate Program Office</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Department of Energy
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000015</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">41805094</assertion>
+              <assertion name="award_number">91837311</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Key Research and development program of China
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/501100012166</assertion>
+              </assertion>
+              <assertion name="award_number">2018YFC1505703</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1029/2018GL080544</doi>
+            <resource>http://doi.wiley.com/10.1029/2018GL080544</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1029/2018GL080544/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="am" mime_type="application/pdf">https://onlinelibrary.wiley.com/doi/am-pdf/10.1029%2F2018GL080544</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2018GL080544</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1029/2018GL080544-BIB0001|grl58459-cit-0002">
+              <author>Abdul-Razzak</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1029/2001JD000483</doi>
+              <article_title>A parameterization of aerosol activation: 3. Sectional representation</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>107</volume>
+              <issue>D3</issue>
+              <first_page>4026</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0002|grl58459-cit-0003">
+              <author>Amann</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1016/j.envsoft.2011.07.012</doi>
+              <article_title>Cost effective control of air quality and greenhouse gases in Europe: Modeling and policy applications</article_title>
+              <journal_title>Environmental Modelling &amp; Software</journal_title>
+              <volume>26</volume>
+              <issue>12</issue>
+              <first_page>1489</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0003|grl58459-cit-0004">
+              <author>Berg</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.5194/gmd-8-409-2015</doi>
+              <article_title>A new WRF-Chem treatment for studying regional-scale impacts of cloud processes on aerosol and trace gases in parameterized cumuli</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>8</volume>
+              <issue>2</issue>
+              <first_page>409</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0004|grl58459-cit-0005">
+              <author>Boucher</author>
+              <cYear>2013</cYear>
+              <volume_title>Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</volume_title>
+              <first_page>571</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0005|grl58459-cit-0006">
+              <author>Ervens</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1021/cr5005887</doi>
+              <article_title>Modeling the processing of aerosol and trace gases in clouds and fogs</article_title>
+              <journal_title>Chemical Reviews</journal_title>
+              <volume>115</volume>
+              <issue>10</issue>
+              <first_page>4157</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0006|grl58459-cit-0007">
+              <author>Fan</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1126/science.aan8461</doi>
+              <article_title>Substantial convection and precipitation enhancements by ultrafine aerosol particles</article_title>
+              <journal_title>Science</journal_title>
+              <volume>359</volume>
+              <issue>6374</issue>
+              <first_page>411</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0007|grl58459-cit-0008">
+              <author>Forster</author>
+              <cYear>2016</cYear>
+              <article_title>Recommendations for diagnosing effective radiative forcing from climate models for CMIP6</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>121</volume>
+              <first_page>12,460</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0008|grl58459-cit-0009">
+              <author>Froyd</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.5194/acp-9-4363-2009</doi>
+              <article_title>Aerosol composition of the tropical upper troposphere</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>9</volume>
+              <issue>13</issue>
+              <first_page>4363</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0009|grl58459-cit-0010">
+              <author>Gao</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1080/02786826.2015.1131809</doi>
+              <article_title>A light-weight, high-sensitivity particle spectrometer for PM2.5 aerosol measurements</article_title>
+              <journal_title>Aerosol Science and Technology</journal_title>
+              <volume>50</volume>
+              <issue>1</issue>
+              <first_page>88</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0010|grl58459-cit-0011">
+              <author>Ghan</author>
+              <cYear>2011</cYear>
+              <article_title>Droplet nucleation: Physically-based parameterizations and comparative evaluation</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>3</volume>
+              <first_page>M10001</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0011|grl58459-cit-0012">
+              <author>Grell</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.5194/acp-14-5233-2014</doi>
+              <article_title>A scale and aerosol aware stochastic convective parameterization for weather and air quality modeling</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>14</volume>
+              <issue>10</issue>
+              <first_page>5233</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0012|grl58459-cit-0013">
+              <author>Grell</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.atmosenv.2005.04.027</doi>
+              <article_title>Fully coupled “online” chemistry within the WRF model</article_title>
+              <journal_title>Atmospheric Environment</journal_title>
+              <volume>39</volume>
+              <first_page>37,6957</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0013|grl58459-cit-0014">
+              <author>Koch</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.5194/acp-9-9001-2009</doi>
+              <article_title>Evaluation of black carbon estimations in global aerosol models</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>9</volume>
+              <issue>22</issue>
+              <first_page>9001</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0015|grl58459-cit-0016">
+              <author>Kupc</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/amt-11-369-2018</doi>
+              <article_title>Modification, calibration, and performance of the Ultra-High Sensitivity Aerosol Spectrometer for particle size distribution and volatility measurements during the Atmospheric Tomography Mission (ATom) airborne campaign</article_title>
+              <journal_title>Atmospheric Measurement Techniques</journal_title>
+              <volume>11</volume>
+              <issue>1</issue>
+              <first_page>369</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0017|grl58459-cit-0018">
+              <author>Liu</author>
+              <cYear>2016</cYear>
+              <article_title>Global distribution of deep convection reaching tropopause in 1 year GPM observations</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>121</volume>
+              <first_page>3824</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0018|grl58459-cit-0019">
+              <author>Liu</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.5194/gmd-5-709-2012</doi>
+              <article_title>Toward a minimal representation of aerosols in climate models: Description and evaluation in the Community Atmosphere Model CAM5</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>5</volume>
+              <issue>3</issue>
+              <first_page>709</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0019|grl58459-cit-0020">
+              <author>Murphy</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1029/2006JD007340</doi>
+              <article_title>Single-particle mass spectrometry of tropospheric aerosol particles</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>111</volume>
+              <first_page>D23S32</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0022|grl58459-cit-0023">
+              <author>Park</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1175/2008JCLI2557.1</doi>
+              <article_title>The University of Washington shallow convection and moist turbulence schemes and their impact on climate simulations with the Community Atmosphere Model</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>22</volume>
+              <issue>12</issue>
+              <first_page>3449</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0023|grl58459-cit-0024">
+              <author>Rienecker</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-11-00015.1</doi>
+              <article_title>MERRA: NASA's Modern-Era Retrospective Analysis for Research and Applications</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>24</volume>
+              <issue>14</issue>
+              <first_page>3624</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0024|grl58459-cit-0025">
+              <author>Rotman</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2002JD003155</doi>
+              <article_title>IMPACT, the LLNL 3-D global atmospheric chemical transport model for the combined troposphere and stratosphere: Model description and analysis of ozone and other trace gases</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>109</volume>
+              <first_page>D04303</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0025|grl58459-cit-0026">
+              <author>Samset</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.5194/acp-14-12465-2014</doi>
+              <article_title>Modelled black carbon radiative forcing and atmospheric lifetime in AeroCom Phase II constrained by aircraft observations</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>14</volume>
+              <issue>22</issue>
+              <first_page>12,465</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0026|grl58459-cit-0027">
+              <author>Schwarz</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/2013GL057775</doi>
+              <article_title>Global-scale seasonally resolved black carbon vertical profiles over the Pacific</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>40</volume>
+              <first_page>5542</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0027|grl58459-cit-0028">
+              <author>Schwarz</author>
+              <cYear>2010</cYear>
+              <article_title>Global-scale black carbon profiles observed in the remote atmosphere and compared to models</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>37</volume>
+              <first_page>L18812</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0029|grl58459-cit-0030">
+              <author>Toon</author>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1988)045&lt;2123:AMMFAD&gt;2.0.CO;2</doi>
+              <article_title>A multidimensional model for aerosols-Description of computational analogs</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>45</volume>
+              <issue>15</issue>
+              <first_page>2123</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0030|grl58459-cit-0031">
+              <author>Werf</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.5194/acp-10-11707-2010</doi>
+              <article_title>Global fire emissions and the contribution of deforestation, savanna, forest, agricultural, and peat fires (1997-2009)</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>10</volume>
+              <issue>23</issue>
+              <first_page>11,707</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0031|grl58459-cit-0032">
+              <author>Vernier</author>
+              <cYear>2015</cYear>
+              <article_title>Increase in upper tropospheric and lower stratospheric aerosol levels and its potential connection with Asian pollution</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>120</volume>
+              <first_page>1608</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0032|grl58459-cit-0033">
+              <author>Wang</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5194/gmd-6-765-2013</doi>
+              <article_title>Sensitivity of remote aerosol distributions to representation of cloud-aerosol interactions in a global climate model</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>6</volume>
+              <issue>3</issue>
+              <first_page>765</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0033|grl58459-cit-0034">
+              <author>Wang</author>
+              <cYear>2014</cYear>
+              <article_title>Global budget and radiative forcing of black carbon aerosol: Constraints from pole-to-pole (HIPPO) observations across the Pacific</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>119</volume>
+              <first_page>195</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0034|grl58459-cit-0035">
+              <author>Williamson</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.5194/amt-11-3491-2018</doi>
+              <article_title>Fast time response measurements of particle size distributions in the 3-60 nm size range with the nucleation mode aerosol size spectrometer</article_title>
+              <journal_title>Atmospheric Measurement Techniques</journal_title>
+              <volume>11</volume>
+              <issue>6</issue>
+              <first_page>3491</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0035|grl58459-cit-0036">
+              <unstructured_citation>Wofsy , S. C. Afshar , S. Allen , H. M. Apel , E. Asher , E. C. Barletta , B. Bent , J. Bian , H. Biggs , B. C. Blake , D. R. Blake , N. Bourgeois , I. Brock , C. A. Brune , W. H. Budney , J. W. Bui , T. P. Butler , A. Campuzano-Jost , P. Chang , C. S. Chin , M. Commane , R. Correa , G. Crounse , J. D. Cullis , P. D. Daube , B. C. Day , D. A. Dean-Day , J. M. Dibb , J. E. DiGangi , J. P. Diskin , G. S. Dollner , M. Elkins , J. W. Erdesz , F. Fiore , A. M. Flynn , C. M. Froyd , K. Gesler , D. W. Hall , S. R. Hanisco , T. F. Hannun , R. A. Hills , A. J. Hintsa , E. J. Hoffman , A. Hornbrook , R. S. Huey , L. G. Hughes , S. Jimenez , J. L. Johnson , B. J. Katich , J. M. Keeling , R. Kim , M. J. Kupc , A. Lait , L. R. Lamarque , J.-F. Liu , J. McKain , K. Mclaughlin , R. J. Meinardi , S. Miller , D. O. Montzka , S. A. Moore , F. L. Morgan , E. J. Murphy , D. M. Murray , L. T. Nault , B. A. Neuman , J. A. Newman , P. A. Nicely , J. M. Pan , X. Paplawsky , W. Peischl , J. Prather , M. J. Price , D. J. Ray , E. Reeves , J. M. Richardson , M. Rollins , A. W. Rosenlof , K. H. Ryerson , T. B. Scheuer , E. Schill , G. P. Schroder , J. C. Schwarz , J. P. St.Clair , J. M. Steenrod , S. D. Stephens , B. B. Strode , S. A. Sweeney , C. Tanner , D. Teng , A. P. Thames , A. B. Thompson , C. R. Ullmann , K. Veres , P. R. Vieznor , N. Wagner , N. L. Watt , A. Weber , R. Weinzierl , B. Wennberg , P. Williamson , C. J. Wilson , J. C. Wolfe , G. M. Woods , C. T. Zeng , C. T. 2018 ATom: Merged atmospheric chemistry, trace gases, and aerosols https://doi.org/10.3334/ORNLDAAC/1581</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0036|grl58459-cit-0037">
+              <doi provider="crossref">10.3334/CDIAC/hippo_010</doi>
+              <unstructured_citation>Wofsy , S. C. Daube , B. C. Jimenez , R. Kort , E. Pittman , J. V. Park , S. Commane , R. Xiang , B. Santoni , G. Jacob , D. Fisher , J. Pickett-Heaps , C. Wang , H. Wecht , K. Wang , Q.-Q. Stephens , B. B. Shertz , S. Watt , A. S. Romashkin , P. Campos , T. Haggerty , J. Cooper , W. A. Rogers , D. Beaton , S. Hendershot , R. Elkins , J. W. Fahey , D. W. Gao , R. S. Moore , F. Montzka , S. A. Schwarz , J. P. Perring , A. E. Hurst , D. Miller , B. R. Sweeney , C. Oltmans , S. Nance , D. Hintsa , E. Dutton , G. Watts , L. A. Spackman , J. R. Rosenlof , K. H. Ray , E. A. Hall , B. Zondlo , M. A. Diao , M. Keeling , R. Bent , J. Atlas , E. L. Lueb , R. Mahoney , M. J. 2012 HIPPO merged 10-second meteorology, atmospheric chemistry, aerosol data (R_20121129) https://doi.org/10.3334/CDIAC/hippo_010</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0037|grl58459-cit-0038">
+              <author>Wofsy</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1098/rsta.2010.0313</doi>
+              <article_title>HIAPER pole-to-pole observations (HIPPO): Fine-grained, global-scale measurements of climatically important atmospheric gases and aerosols</article_title>
+              <journal_title>Philosophical Transactions of the Royal Society</journal_title>
+              <volume>369</volume>
+              <issue>1943</issue>
+              <first_page>2073</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0038|grl58459-cit-0039">
+              <author>Yang</author>
+              <cYear>2015</cYear>
+              <article_title>Aerosol transport and wet scavenging in deep convective clouds: A case study and model evaluation using a multiple passive tracer analysis approach</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>120</volume>
+              <first_page>8448</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0039|grl58459-cit-0040">
+              <author>Yu</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/2016GL070153</doi>
+              <article_title>Radiative forcing from anthropogenic sulfur and organic emissions reaching the stratosphere</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>43</volume>
+              <first_page>9361</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0040|grl58459-cit-0041">
+              <author>Yu</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1073/pnas.1701170114</doi>
+              <article_title>Efficient transport of tropospheric aerosol into the stratosphere via the Asian summer monsoon anticyclone</article_title>
+              <journal_title>Proceedings of the National Academy of Sciences</journal_title>
+              <volume>114</volume>
+              <issue>27</issue>
+              <first_page>6972</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0041|grl58459-cit-0042">
+              <author>Yu</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2014MS000421</doi>
+              <article_title>Evaluations of tropospheric aerosol properties simulated by the Community Earth System Model with a sectional aerosol microphysics scheme</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>7</volume>
+              <first_page>865</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0042|grl58459-cit-0043">
+              <author>Yu</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2015GL063181</doi>
+              <article_title>Composition and physical properties of the Asian tropopause aerosol layer and the North American tropospheric aerosol layer</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>42</volume>
+              <first_page>2540</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0043|grl58459-cit-0044">
+              <author>Zhang</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1080/07055900.1995.9649539</doi>
+              <article_title>Sensitivity of climate simulations to the parameterization of cumulus convection in the Canadian Climate Centre general circulation model</article_title>
+              <journal_title>Atmosphere-Ocean</journal_title>
+              <volume>33</volume>
+              <issue>3</issue>
+              <first_page>407</first_page>
+            </citation>
+            <citation key="10.1029/2018GL080544-BIB0044|grl58459-cit-0045">
+              <author>Zhao</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1016/0021-8502(95)00010-A</doi>
+              <article_title>Nucleation simulations in the wake of a jet aircraft in stratospheric flight</article_title>
+              <journal_title>Journal of Aerosol Science</journal_title>
+              <volume>26</volume>
+              <issue>5</issue>
+              <first_page>779</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

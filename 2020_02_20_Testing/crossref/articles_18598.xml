@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 18:47:44">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>16</volume>
+          </journal_volume>
+          <issue>15</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Nine years of global hydrocarbon emissions based on source inversion of OMI formaldehyde observations</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Maite</given_name>
+              <surname>Bauwens</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Trissevgeni</given_name>
+              <surname>Stavrakou</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jean-François</given_name>
+              <surname>Müller</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Isabelle</given_name>
+              <surname>De Smedt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michel</given_name>
+              <surname>Van Roozendael</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Guido R.</given_name>
+              <surname>van der Werf</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christine</given_name>
+              <surname>Wiedinmyer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Johannes W.</given_name>
+              <surname>Kaiser</surname>
+              <ORCID>https://orcid.org/0000-0003-3696-9123</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Katerina</given_name>
+              <surname>Sindelarova</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alex</given_name>
+              <surname>Guenther</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> As formaldehyde (HCHO) is a high-yield product in the oxidation of most volatile organic compounds (VOCs) emitted by fires, vegetation, and anthropogenic activities, satellite observations of HCHO are well-suited to inform us on the spatial and temporal variability of the underlying VOC sources. The long record of space-based HCHO column observations from the Ozone Monitoring Instrument (OMI) is used to infer emission flux estimates from pyrogenic and biogenic volatile organic compounds (VOCs) on the global scale over 2005–2013. This is realized through the method of source inverse modeling, which consists in the optimization of emissions in a chemistry-transport model (CTM) in order to minimize the discrepancy between the observed and modeled HCHO columns. The top–down fluxes are derived in the global CTM IMAGESv2 by an iterative minimization algorithm based on the full adjoint of IMAGESv2, starting from a priori emission estimates provided by the newly released GFED4s (Global Fire Emission Database, version 4s) inventory for fires, and by the MEGAN-MOHYCAN inventory for isoprene emissions. The top–down fluxes are compared to two independent inventories for fire (GFAS and FINNv1.5) and isoprene emissions (MEGAN-MACC and GUESS-ES). <br><br> The inversion indicates a moderate decrease (ca. 20<span class="thinspace"></span>%) in the average annual global fire and isoprene emissions, from 2028<span class="thinspace"></span>Tg C in the a priori to 1653<span class="thinspace"></span>Tg C for burned biomass, and from 343 to 272<span class="thinspace"></span>Tg for isoprene fluxes. Those estimates are acknowledged to depend on the accuracy of formaldehyde data, as well as on the assumed fire emission factors and the oxidation mechanisms leading to HCHO production. Strongly decreased top–down fire fluxes (30–50<span class="thinspace"></span>%) are inferred in the peak fire season in Africa and during years with strong a priori fluxes associated with forest fires in Amazonia (in 2005, 2007, and 2010), bushfires in Australia (in 2006 and 2011), and peat burning in Indonesia (in 2006 and 2009), whereas generally increased fluxes are suggested in Indochina and during the 2007 fires in southern Europe. Moreover, changes in fire seasonal patterns are suggested; e.g., the seasonal amplitude is reduced over southeast Asia. In Africa, the inversion indicates increased fluxes due to agricultural fires and decreased maxima when natural fires are dominant. The top–down fire emissions are much better correlated with MODIS fire counts than the a priori inventory in regions with small and agricultural fires, indicating that the OMI-based inversion is well-suited to assess the associated emissions. <br><br> Regarding biogenic sources, significant reductions in isoprene fluxes are inferred in tropical ecosystems (30–40<span class="thinspace"></span>%), suggesting overestimated basal emission rates in those areas in the bottom–up inventory, whereas strongly positive isoprene emission updates are derived over semiarid and desert areas, especially in southern Africa and Australia. This finding suggests that the parameterization of the soil moisture stress used in MEGAN greatly exaggerates the flux reduction due to drought in those regions. The isoprene emission trends over 2005–2013 are often enhanced after optimization, with positive top–down trends in Siberia (4.2<span class="thinspace"></span>%<span class="thinspace"></span>year<sup>−1</sup>) and eastern Europe (3.9<span class="thinspace"></span>%<span class="thinspace"></span>year<sup>−1</sup>), likely reflecting forest expansion and warming temperatures, and negative trends in Amazonia (−2.1<span class="thinspace"></span>%<span class="thinspace"></span>year<sup>−1</sup>), south China (−1<span class="thinspace"></span>%<span class="thinspace"></span>year<sup>−1</sup>), the United States (−3.7<span class="thinspace"></span>%<span class="thinspace"></span>year<sup>−1</sup>), and western Europe (−3.3<span class="thinspace"></span>%<span class="thinspace"></span>year<sup>−1</sup>), which are generally corroborated by independent studies, yet their interpretation warrants further investigation.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>11</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>10133</first_page>
+            <last_page>10158</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-16-10133-2016</doi>
+            <resource>https://www.atmos-chem-phys.net/16/10133/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/16/10133/2016/acp-16-10133-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/acp-11-4039-2011</doi>
+              <unstructured_citation>Akagi, S. K., Yokelson, R. J., Wiedinmyer, C., Alvarado, M. J., Reid, J. S., Karl, T., Crounse, J. D., and Wennberg, P. O.: Emission factors for open and domestic biomass burning for use in atmospheric models, Atmos. Chem. Phys., 11, 4039–4072, https://doi.org/10.5194/acp-11-4039-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1890/10-1168.1</doi>
+              <unstructured_citation>Alencar, A., Asner, G. P., Knapp, D. and Zarin, D.: Temporal variability of forest fires in eastern Amazonia, Ecol. Appl., 21, 2397–2412, https://doi.org/10.1890/10-1168.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-16-3903-2016</doi>
+              <unstructured_citation>Alves, E. G., Jardine, K., Tota, J., Jardine, A., Yãnez-Serrano, A. M., Karl, T., Tavares, J., Nelson, B., Gu, D., Stavrakou, T., Martin, S., Artaxo, P., Manzi, A., and Guenther, A.: Seasonality of isoprenoid emissions from a primary rainforest in central Amazonia, Atmos. Chem. Phys., 16, 3903–3925, https://doi.org/10.5194/acp-16-3903-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1038/nclimate2313</doi>
+              <unstructured_citation>Andela, N. and van der Werf, G. R.: Recent trends in African fires driven by cropland expansion and El Niño to La Niña transition, Nature Climate Change, 4, 791–795, https://doi.org/10.1038/nclimate2313, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Andela, N., Kaiser, J. W., Heil, A., van Leeuwen, T. T., van der Werf, G. R., Wooster, M. J., Remy, S., and Schultz, M. G.: Assessment of the Global Fire Assimilation System (GFASv1), MACC-II project (Monitoring Atmospheric Composition and Climate – Interim Implementation, deliverable D31.2, ECMWF Technical Memorandum, No. 702, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/2014GB005008</doi>
+              <unstructured_citation>Anderson, L. O., Aragão, L. E., Gloor, M., Arai, E., Adami, M., Saatchi, S., Malhi, Y., Shimabukuro, Y. E., Barlow, J., Berenguer, E., and Duarte, V.: Disentangling the contribution of multiple land covers to fires-mediated carbon emissions in Amazonia during the 2010 drought, Global Biogeochem. Cy., 29, 1739–1753, https://doi.org/10.1002/2014GB005008, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2001JD000524</doi>
+              <unstructured_citation>Andreae, M., Artaxo, P., Brandao, C., Carswell, F., Ciccioli, P., Da Costa, A., Culf, A., Esteves, J., Gash, J., Grace, J., Kabat, P., Lelieveld, J., Malhi, Y., Manzi, A. O., Meixner, F. X., Nobre, A. D., Nobre, C., Ruivo, M. d. L. P., Silva-Dias, M. A., Stefani, P., Valentini, R., von Jouanne, J., and Waterloo, M. J.: Biogeochemical cycling of carbon, water, energy, trace gases, and aerosols in Amazonia: The LBA-EUSTACH experiments, J. Geophys. Res., 107, 8066, https://doi.org/10.1029/2001JD000524, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2000GB001382</doi>
+              <unstructured_citation>Andreae, M. O. and Merlet, P.: Emission of trace gases and aerosols from biomass burning, Global Biogeochem. Cy., 15, 955–966, https://doi.org/10.1029/2000GB001382, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/acp-7-31-2007</doi>
+              <unstructured_citation>Arneth, A., Niinemets, Ü., Pressley, S., Bäck, J., Hari, P., Karl, T., Noe, S., Prentice, I. C., Serça, D., Hickler, T., Wolf, A., and Smith, B.: Process-based estimates of terrestrial ecosystem isoprene emissions: incorporating the effects of a direct CO2-isoprene interaction, Atmos. Chem. Phys., 7, 31–53, https://doi.org/10.5194/acp-7-31-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/acp-11-8037-2011</doi>
+              <unstructured_citation>Arneth, A., Schurgers, G., Lathiere, J., Duhl, T., Beerling, D. J., Hewitt, C. N., Martin, M., and Guenther, A.: Global terrestrial isoprene emission models: sensitivity to variability in climate and vegetation, Atmos. Chem. Phys., 11, 8037–8052, https://doi.org/10.5194/acp-11-8037-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1073/pnas.0906457106</doi>
+              <unstructured_citation>Ballhorn, U., Siegert, F., Mason, M., and Limin, S.: Derivation of burn scar depths and estimation of carbon emissions with LIDAR in Indonesian peatlands, P. Natl. Acad. Sci. USA, 106, 21213–21218, https://doi.org/10.1073/pnas.0906457106, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2008JD009863</doi>
+              <unstructured_citation>Barkley, M. P., Palmer, P. I., Kuhn, U., Kesselmeier, J., Chance, K., Kurosu, T. P., Martin, R. V., Helmig, D., and Guenther, A.: Net ecosystem fluxes of isoprene over tropical South America inferred from Global Ozone Monitoring Experiment (GOME) observations of HCHO columns, J. Geophys. Res., 113, D20304, https://doi.org/10.1029/2008JD009863, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2008GL036843</doi>
+              <unstructured_citation>Barkley, M. P., Palmer, P. I., De Smedt, I., Karl, T., Guenther, A., and Van Roozendael, M.: Regulated large-scale annual shutdown of Amazonian isoprene emissions?, Geophys. Res. Lett., 36, L04803, https://doi.org/10.1029/2008GL036843, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1002/jgrd.50552</doi>
+              <unstructured_citation>Barkley, M. P., De Smedt, I., Van Roozendael, M., Kurosu, T. P., Chance, K., Arneth, A., Hagberg, D., Guenther, A., Paulot, F., Marais, E., and Mao, J.: Top-down isoprene emissions over tropical South America inferred from SCIAMACHY and OMI formaldehyde columns, J. Geophys. Res., 118, 6849–6868, https://doi.org/10.1002/jgrd.50552, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1126/science.1201224</doi>
+              <unstructured_citation>Barriopedro, D., Fischer, E. M.,Luterbacher, J., Trigo, R. M., and García-Herrera, R.: The hot summer of 2010: Redrawing the temperature record map of Europe, Science, 332, 220–224, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1021/acs.jpca.5b10335</doi>
+              <unstructured_citation>Bates, K. H., Nguyen, T. B., Teng, A. P., Crounse, J. D., Kjaergaard, H. G., Stoltz, B. M., Seinfeld, J. H., and Wennberg, P. O.: Production and fate of C4 dihydroxycarbonyl compounds from isoprene oxidation, J. Phys. Chem. A, 120, 106–117, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Bauwens, M., Stavrakou, T., Müller, J.-F., De Smedt, I., and Van Roozendael, M.: Satellite-based isoprene emission estimates (2007–2012) from the GlobEmission project, Proccedings of ACCENT-Plus Symposium, Urbino, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1002/2014GL062584</doi>
+              <unstructured_citation>Bloom, A. A., Worden, J., Jiang, Z., Worden, H., Kurosu, T., Frankenberg, C., and Schimel, D.: Remote-sensing constraints on South America fire traits by Bayesian fusion of atmospheric and surface data, Geophys. Res. Lett., 42, 1268–1274, https://doi.org/10.1002/2014GL062584, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/amt-4-1905-2011</doi>
+              <unstructured_citation>Boersma, K. F., Eskes, H. J., Dirksen, R. J., van der A, R. J., Veefkind, J. P., Stammes, P., Huijnen, V., Kleipool, Q. L., Sneep, M., Claas, J., Leitão, J., Richter, A., Zhou, Y., and Brunner, D.: An improved tropospheric NO2 column retrieval algorithm for the Ozone Monitoring Instrument, Atmos. Meas. Tech., 4, 1905–1928, https://doi.org/10.5194/amt-4-1905-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2000GL011857</doi>
+              <unstructured_citation>Chance, K., Palmer, P. I., Spurr, R. J. D., Martin, R. V., Kurosu, T., and Jacob, D. J.: Satellite observations of formaldehyde over North America from GOME, Geophys. Res. Lett., 27, 3461–3464, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-10-2335-2010</doi>
+              <unstructured_citation>Chang, D. and Song, Y.: Estimates of biomass burning emissions in tropical Asia based on satellite-derived data, Atmos. Chem. Phys., 10, 2335–2351, https://doi.org/10.5194/acp-10-2335-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.4155/cmt.13.61</doi>
+              <unstructured_citation>Chen, Y., Morton, D. C., Jin, Y., Collatz, G. J., Kasibhatla, P. S., Werf, G. R. van der, DeFries, R. S., and Randerson, J. T.: Long-term trends and interannual variability of forest, savanna and agricultural fires in South America, Carbon Manag., 4, 617–638, https://doi.org/10.4155/cmt.13.61, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/bg-6-103-2009</doi>
+              <unstructured_citation>Chevallier, F., Fortems, A., Bousquet, P., Pison, I., Szopa, S., Devaux, M., and Hauglustaine, D. A.: African CO emissions between years 2000 and 2006 as estimated from MOPITT observations, Biogeosciences, 6, 103–111, https://doi.org/10.5194/bg-6-103-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Ciccioli, P., Brancaleoni, E., Frattoni, M., Kuhn, U., Kesselmeier, J., Dindorf, T., de Araújo, A., Nobre, A., Stefani, P., and Valentini, R.: Fluxes of isoprenoid compounds over the tropical rainforest near Manaus during the dry season and their implications in the ecosystem carbon budget and in the atmospheric chemistry processes, in: Integrated Land Ecosystem-Atmosphere Processes Study (ILEAPS) International Open Science Conference 2003, 48–53, Finnish Association for Aerosol Research, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1038/nclimate1452</doi>
+              <unstructured_citation>Coumou, D. and Rahmstorf, S.: A decade of weather extremes, Nature Climate Change, 2, 491–496, https://doi.org/10.1038/nclimate1452, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>De Smedt, I. and Van Roozendael, M.: Tropospheric Formaldehyde, Royal Belgian Institute for Space Aeronomy (BIRA-IASB), available at: http://h2co.aeronomie.be, last access: 8 August 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/acp-15-12519-2015</doi>
+              <unstructured_citation>De Smedt, I., Stavrakou, T., Hendrick, F., Danckaert, T., Vlemmix, T., Pinardi, G., Theys, N., Lerot, C., Gielen, C., Vigouroux, C., Hermans, C., Fayt, C., Veefkind, P., Müller, J.-F., and Van Roozendael, M.: Diurnal, seasonal and long-term variations of global formaldehyde columns inferred from combined OMI and GOME-2 observations, Atmos. Chem. Phys., 15, 12519–12545, https://doi.org/10.5194/acp-15-12519-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/acp-15-9399-2015</doi>
+              <unstructured_citation>Ding, J., van der A, R. J., Mijling, B., Levelt, P. F., and Hao, N.: NOx emission estimates during the 2014 Youth Olympic Games in Nanjing, Atmos. Chem. Phys., 15, 9399–9412, https://doi.org/10.5194/acp-15-9399-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/bg-12-6033-2015</doi>
+              <unstructured_citation>Fanin, T. and van der Werf, G. R.: Relationships between burned area, forest cover loss, and land cover change in the Brazilian Amazon based on satellite data, Biogeosciences, 12, 6033–6043, https://doi.org/10.5194/bg-12-6033-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1016/j.gloplacha.2009.03.013</doi>
+              <unstructured_citation>Founda, D. and Giannakopoulos, C.: The exceptionally hot summer of 2007 in Athens, Greece – A typical summer in the future climate?, Global Planet. Change, 67, 227–236, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Friedl, M. A., Sulla-Menashe, D., Tan, B., Schneider, A., Ramankutty, N., Sibley, A., and Huang, X.: MODIS Collection 5 global land cover: Algorithm refinements and characterization of new datasets, 2001–2012, Collection 5.1 IGBP Land Cover, Boston University, Boston, MA, USA, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1002/jgrg.20042</doi>
+              <unstructured_citation>Giglio, L., Randerson, J. T., and Werf, G. R.: Analysis of daily, monthly, and annual burned area using the fourth-generation global fire emissions database (GFED4), J. Geophys. Res., 118, 317–328, https://doi.org/10.1002/jgrg.20042, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1111/j.1365-2486.2004.00758.x</doi>
+              <unstructured_citation>Greenberg, J. P., Guenther, A. B., Pétron, G., Wiedinmyer, C., Vega, O., Gatti, L. V., Tota, J., and Fisch, G.: Biogenic VOC emissions from forested Amazonian landscapes, Glob. Change Biol., 10, 651–662, https://doi.org/10.1111/j.1365-2486.2004.00758.x, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/94JD02950</doi>
+              <unstructured_citation>Guenther, A., Hewitt, C. N., Erickson, D., Fall, R., Geron, C., Graedel, T., Harley, P., Klinger, L., Lerdau, M., McKay, W. A., Pierce, T., Scholes, B., Steinbrecher, R., Tallamraju, R., Taylor, J., and Zimmerman, P.: A global model of natural volatile organic compound emissions, J. Geophys. Res., 100, 8873–8892, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-6-3181-2006</doi>
+              <unstructured_citation>Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I., and Geron, C.: Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature), Atmos. Chem. Phys., 6, 3181–3210, https://doi.org/10.5194/acp-6-3181-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/gmd-5-1471-2012</doi>
+              <unstructured_citation>Guenther, A. B., Jiang, X., Heald, C. L., Sakulyanontvittaya, T., Duhl, T., Emmons, L. K., and Wang, X.: The Model of Emissions of Gases and Aerosols from Nature version 2.1 (MEGAN2.1): an extended and updated framework for modeling biogenic emissions, Geosci. Model Dev., 5, 1471–1492, https://doi.org/10.5194/gmd-5-1471-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Hartmann, D. L., Klein Tank, A .M. G., Rusticucci, M., Alexander, L. V., Brönnimann, S., Charabi, Y., Dentener, F. J., Dlugokencky, E. J., Easterling, D. R., Kaplan, A., Soden, B. J., Thorne, P. W., Wild, M., and Zhai, P. M.: Observations: Atmosphere and Surface, in: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley P. M., Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/98JD01023</doi>
+              <unstructured_citation>Helmig, D., Balsley, B., Davis, K., Kuck, L. R., Jensen, M., Bognar, J., Smith, T., Arrieta, R. V., Rodriguez, R., and Birks, J. W.: Vertical profiling and determination of landscape fluxes of biogenic nonmethane hydrocarbons within the planetary boundary layer in the Peruvian Amazon, J. Geophys. Res., 103, 25519–25532, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1073/pnas.1404870111</doi>
+              <unstructured_citation>Hilker, T., Lyapustin, A. I., Tucker, C. J., Hall,F. G., Myneni, R. B., Wang, Y., Bid, J., Mendes, Y., de Mourae, and Sellers, P. J.: Vegetation dynamics and rainfall sensitivity of the Amazon, P. Natl. Acad. Sci., 111, 16041–16046, https://doi.org/10.1073/pnas.1404870111, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1088/1748-9326/7/4/044033</doi>
+              <unstructured_citation>Huang, X., Song, Y., Li, M., Li, J., and Zhu, T.: Harvest season, high polluted season in East China, Environ. Res. Lett., 7, 044033, https://doi.org/10.1088/1748-9326/7/4/044033, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1007/s10584-011-0153-2</doi>
+              <unstructured_citation>Hurtt, G. C., Chini, L. P., Frolking, S., Betts, R. A., Feddema, J., Fischer, G., Fisk, J. P., Hibbard, K., Houghton, R. A., Janetos, A., Jones, C. D., Kindermann, T., Kinoshita, T., Goldewijk, K. K., Riahi, K., Shevliakova, E., Smith, S., Stehfest, E., Thomson, A., Thornton, P., van Vuuren, D. P., and Wang, Y. P.: Harmonization of land-use scenarios for the period 1500–2100: 600 years of global annual land-use transitions, wood harvest, and resulting secondary lands, Climatic Change, 109, 117–161, https://doi.org/10.1007/s10584-011-0153-2, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2008GL036767</doi>
+              <unstructured_citation>Hyer, E. J. and Reid, J. S.: Baseline uncertainties in biomass burning emission models resulting from spatial error in satellite active fire location data, Geophys. Res. Lett., 36, L05802, https://doi.org/10.1029/2008GL036767, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1039/b502128f</doi>
+              <unstructured_citation>Jaeglé, L., Steinberger, L., Randall, M., and Chance, L.: Global Partitioning of NOx Sources Using Satellite Observations: Relative Roles of Fossil Fuel Combustion, Biomass Burning and Soil Emissions, Faraday Discuss., 130, 407–423, https://doi.org/10.1039/B502128F, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Jha, M. K.: Natural and Anthropogenic Disasters: Vulnerability, Preparedness and Mitigation, ISBN: 978-90-481-2497-8, Springer, P.O. Box 17, 3300 AA Dordrecht, the Netherlands, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/amt-2015-387</doi>
+              <unstructured_citation>Joiner, J., Yoshida, Y., Guanter, L., and Middleton, E. M.: New methods for retrieval of chlorophyll red fluorescence from hyper-spectral satellite instruments: simulations and application to GOME-2 and SCIAMACHY, Atmos. Meas. Tech. Discuss., https://doi.org/10.5194/amt-2015-387, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1016/S0034-4257(02)00084-6</doi>
+              <unstructured_citation>Justice, C., Townshend, J., Vermote, E., Masuoka, E., Wolfe, R., Saleous, N., Roy, D., and Morisette, J.: An overview of MODIS Land data processing and product status, Remote Sens. Environ., 83, 3–15, https://doi.org/10.1016/S0034-4257(02)00084-6, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/bg-9-527-2012</doi>
+              <unstructured_citation>Kaiser, J. W., Heil, A., Andreae, M. O., Benedetti, A., Chubarova, N., Jones, L., Morcrette, J.-J., Razinger, M., Schultz, M. G., Suttie, M., and van der Werf, G. R.: Biomass burning emissions estimated with a global fire assimilation system based on observed fire radiative power, Biogeosciences, 9, 527–554, https://doi.org/10.5194/bg-9-527-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Karki, S.: Community involvement in and management of forest fires in South East Asia, Project FireFight South East Asia, P.O. 6596 JKPWB, Jakarta, Indonesia, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2007JD008539</doi>
+              <unstructured_citation>Karl, T., Guenther, A., Yokelson, R. J., Greenberg, J., Potosnak, M., Blake, D. R., and Artaxo, P.: The tropical forest and fire emissions experiment: Emission, chemistry, and transport of biogenic volatile organic compounds in the lower atmosphere over Amazonia, J. Geophys. Res.-Atmos., 112, D18302, https://doi.org/10.1029/2007JD008539, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-9-7753-2009</doi>
+              <unstructured_citation>Karl, T., Guenther, A., Turnipseed, A., Tyndall, G., Artaxo, P., and Martin, S.: Rapid formation of isoprene photo-oxidation products observed in Amazonia, Atmos. Chem. Phys., 9, 7753–7767, https://doi.org/10.5194/acp-9-7753-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1016/j.atmosenv.2015.08.011</doi>
+              <unstructured_citation>Kharol, S. K., Martin, R. V., Philip, S., Boys, B., Lamsal, L. N., Jerrett, M., Brauer, M., Crounse, D. L., McLinden, C., and Burnett, R. T.: Assessment of the magnitude and recent trends in satellite-derived ground-level nitrogen dioxide over North America, Atmos. Environ., 118, 236–245, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/acp-11-10031-2011</doi>
+              <unstructured_citation>Konovalov, I. B., Beekmann, M., Kuznetsova, I. N., Yurova, A., and Zvyagintsev, A. M.: Atmospheric impacts of the 2010 Russian wildfires: integrating modelling and measurements of an extreme air pollution episode in the Moscow region, Atmos. Chem. Phys., 11, 10031–10056, https://doi.org/10.5194/acp-11-10031-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/acp-10-855-2010</doi>
+              <unstructured_citation>Kopacz, M., Jacob, D. J., Fisher, J. A., Logan, J. A., Zhang, L., Megretskaia, I. A., Yantosca, R. M., Singh, K., Henze, D. K., Burrows, J. P., Buchwitz, M., Khlystova, I., McMillan, W. W., Gille, J. C., Edwards, D. P., Eldering, A., Thouret, V., and Nedelec, P.: Global estimates of CO sources with high resolution by adjoint inversion of multiple satellite datasets (MOPITT, AIRS, SCIAMACHY, TES), Atmos. Chem. Phys., 10, 855–876, https://doi.org/10.5194/acp-10-855-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1038/ngeo2692</doi>
+              <unstructured_citation>Kramshøj, M., Vedel-Petersen, I., Schollert, M., Rinna, Å., Nymand, J., Ro-Poulsen, H., and Rinna, R.: Large increases in Arctic biogenic volatile emissions are a direct effect of warming, Nat. Geosci., 9, 349–352, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-13-4737-2013</doi>
+              <unstructured_citation>Krol, M., Peters, W., Hooghiemstra, P., George, M., Clerbaux, C., Hurtmans, D., McInerney, D., Sedano, F., Bergamaschi, P., El Hajj, M., Kaiser, J. W., Fisher, D., Yershov, V., and Muller, J.-P.: How much CO was emitted by the 2010 fires around Moscow?, Atmos. Chem. Phys., 13, 4737–4747, https://doi.org/10.5194/acp-13-4737-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/acp-7-2855-2007</doi>
+              <unstructured_citation>Kuhn, U., Andreae, M. O., Ammann, C., Araújo, A. C., Brancaleoni, E., Ciccioli, P., Dindorf, T., Frattoni, M., Gatti, L. V., Ganzeveld, L., Kruijt, B., Lelieveld, J., Lloyd, J., Meixner, F. X., Nobre, A. D., Pöschl, U., Spirig, C., Stefani, P., Thielmann, A., Valentini, R., and Kesselmeier, J.: Isoprene and monoterpene fluxes from Central Amazonian rainforest inferred from tower-based and airborne measurements, and implications on the atmospheric chemistry and the local carbon budget, Atmos. Chem. Phys., 7, 2855–2879, https://doi.org/10.5194/acp-7-2855-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/acp-13-11019-2013</doi>
+              <unstructured_citation>Kurokawa, J., Ohara, T., Morikawa, T., Hanayama, S., Janssens-Maenhout, G., Fukui, T., Kawashima, K., and Akimoto, H.: Emissions of air pollutants and greenhouse gases over Asian regions during 2000–2008: Regional Emission inventory in ASia (REAS) version 2, Atmos. Chem. Phys., 13, 11019–11058, https://doi.org/10.5194/acp-13-11019-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-10-8391-2010</doi>
+              <unstructured_citation>Langford, B., Misztal, P. K., Nemitz, E., Davison, B., Helfter, C., Pugh, T. A. M., MacKenzie, A. R., Lim, S. F., and Hewitt, C. N.: Fluxes and concentrations of volatile organic compounds from a South-East Asian tropical rainforest, Atmos. Chem. Phys., 10, 8391–8412, https://doi.org/10.5194/acp-10-8391-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/bg-9-3003-2012</doi>
+              <unstructured_citation>Magi, B. I., Rabin, S., Shevliakova, E., and Pacala, S.: Separating agricultural and non-agricultural fire seasonality at regional scales, Biogeosciences, 9, 3003–3012, https://doi.org/10.5194/bg-9-3003-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/acp-12-6219-2012</doi>
+              <unstructured_citation>Marais, E. A., Jacob, D. J., Kurosu, T. P., Chance, K., Murphy, J. G., Reeves, C., Mills, G., Casadio, S., Millet, D. B., Barkley, M. P., Paulot, F., and Mao, J.: Isoprene emissions in Africa inferred from OMI observations of formaldehyde columns, Atmos. Chem. Phys., 12, 6219–6235, https://doi.org/10.5194/acp-12-6219-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.5194/acp-14-7693-2014</doi>
+              <unstructured_citation>Marais, E. A., Jacob, D. J., Guenther, A., Chance, K., Kurosu, T. P., Murphy, J. G., Reeves, C. E., and Pye, H. O. T.: Improved model of isoprene emissions in Africa using Ozone Monitoring Instrument (OMI) satellite observations of formaldehyde: implications for oxidants and particulate matter, Atmos. Chem. Phys., 14, 7693–7703, https://doi.org/10.5194/acp-14-7693-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/2012JD017817</doi>
+              <unstructured_citation>Mijling, B., and van der A, R. J.: Using daily satellite observations to estimate emissions of short-lived air pollutants on a mesoscopic scale, 117, D17302, https://doi.org/10.1029/2012JD017817, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1029/2007JD008950</doi>
+              <unstructured_citation>Millet, D. B., Jacob, D. J., Boersma, K. F., Fu, T.-M., Kurosu, T. P., Chance, K., Heald, C. L. and Guenther, A.: Spatial distribution of isoprene emissions from North America derived from formaldehyde column measurements by the OMI satellite sensor, J. Geophys. Res.-Atmos., 113, D02307, https://doi.org/10.1029/2007JD008950, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1002/joc.1181</doi>
+              <unstructured_citation>Mitchell, T. D. and Jones, P. D.: An improved method of constructing a database of monthly climate observations and associated high-resolution grids, Int. J. Climatol., 25, 693–712, https://doi.org/10.1002/joc.1181, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/acp-5-1157-2005</doi>
+              <unstructured_citation>Müller, J.-F. and Stavrakou, T.: Inversion of CO and NOx emissions using the adjoint of the IMAGES model, Atmos. Chem. Phys., 5, 1157–1186, https://doi.org/10.5194/acp-5-1157-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.5194/acp-8-1329-2008</doi>
+              <unstructured_citation>Müller, J.-F., Stavrakou, T., Wallens, S., De Smedt, I., Van Roozendael, M., Potosnak, M. J., Rinne, J., Munger, B., Goldstein, A., and Guenther, A. B.: Global isoprene emissions estimated using MEGAN, ECMWF analyses and a detailed canopy environment model, Atmos. Chem. Phys., 8, 1329–1341, https://doi.org/10.5194/acp-8-1329-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1126/science.1248525</doi>
+              <unstructured_citation>Nepstad, D., McGrath, D., Stickler, C., Alencar, A., Azevedo, A., Swette, B., Bezerra, T., DiGiano, M., Shimada, J., da Motta R. S., Armijo, E., Castello, L., Brando, P., Hansen, M. C., McGrath-Horn, M., Carvalho, O., and Hess, L.: Slowing Amazon deforestation through public policy and interventions in beef and soy supply chains, Science, 344, 1118–1123, https://doi.org/10.1126/science.1248525, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1046/j.1365-3040.1999.00505.x</doi>
+              <unstructured_citation>Niinemets, Ü., Tenhunen, J., Harley, P., and Steinbrecher, R.: A model of isoprene emission based on energetic requirements for isoprene synthesis and leaf photosynthetic properties for Liquidambar and Quercus, Plant Cell Environ., 22, 1319–1335, https://doi.org/10.1046/j.1365-3040.1999.00505.x, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1029/2002JD002153</doi>
+              <unstructured_citation>Palmer, P. I., Jacob, D. J., Fiore, A., Chance, K. V., Martin, R. V., Kurosu, T. P., Bey, I., Yantosca, R., Fiore, A., and Li, Q.: Mapping isoprene emissions over North America using formaldehyde column observations from space, J. Geophys. Res., 108, 4180, https://doi.org/10.1029/2002JD002153, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2005JD006689</doi>
+              <unstructured_citation>Palmer, P. I., Abbot, D. S., Fu, T.-M., Jacob, D. J., Chance, K., Kurosu, T. P., Guenther, A., Wiedinmyer, C., Stanton, J. C., Pilling, M. J., Pressley, S. N., Lamb, B., and Sumner, A. L.: Quantifying the seasonal and interannual variability of North American isoprene emissions using satellite observations of the formaldehyde column, J. Geophys. Res., 111, D12315, https://doi.org/10.1029/2005JD006689, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1021/jp5033146</doi>
+              <unstructured_citation>Peeters, J., Müller, J.-F., Stavrakou, T., and Nguyen, S. V.: Hydroxyl radical recycling in isoprene oxidation driven by hydrogen bonding and hydrogen tunneling: the upgraded LIM1 mechanism, J. Phys. Chem. A, 118, 8625–8643, https://doi.org/10.1021/jp5033146, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1029/2004GL020560</doi>
+              <unstructured_citation>Pétron, G., Granier, G., Khattotov, B., Yudin, V., Lamarque, J.-F., Emmons, L., Gille, J., and Edwards, D. P.: Monthly CO surface sources inventory based on the 2000–2001 MOPITT satellite data, Geophys. Res. Lett., 31, L21107, https://doi.org/10.1029/2004GL020560, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.5194/bg-10-871-2013</doi>
+              <unstructured_citation>Potosnak, M. J., Baker, B. M., LeStourgeon, L., Disher, S. M., Griffin, K. L., Bret-Harte, M. S., and Starr, G.: Isoprene emissions from a tundra ecosystem, Biogeosciences, 10, 871–889, https://doi.org/10.5194/bg-10-871-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1029/1999GB900046</doi>
+              <unstructured_citation>Ramankutty, N. and Foley, J. A.: Estimating historical changes in global land cover : croplands from 1700 to 1992, Global Biogeochem. Cy., 13, 997–1027, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1029/2012JG002128</doi>
+              <unstructured_citation>Randerson, J. T., Chen, Y., van der Werf, G. R., Rogers, B. M., and Morton, D. C.: Global burned area and biomass burning emissions from small fires, J. Geophys. Res., 117, G04012, https://doi.org/10.1029/2012JG002128, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1088/1748-9326/9/9/094006</doi>
+              <unstructured_citation>Reddington, C., Yoshioka, M., Balasubramanian, R., Ridley, D., Toh, Y., Arnold, S., and Spracklen, D.: Contribution of vegetation and peat fires to particulate air pollution in Southeast Asia, Environ. Res. Lett., 9, 094006, https://doi.org/10.1088/1748-9326/9/9/094006, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1038/ngeo2257</doi>
+              <unstructured_citation>Reuter, M., Buchwitz, M., Hilboll, A., Richter, A., Schneising, O., Hilker, M., Heymann, J. Bovensmann, H., and Burrows, J. P.: Decreasing emissions of NOx relative to CO2 in East Asia inferred from satellite observations, Nature Geosci., 7, 792–795, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.5194/amt-4-1147-2011</doi>
+              <unstructured_citation>Richter, A., Begoin, M., Hilboll, A., and Burrows, J. P.: An improved NO2 retrieval for the GOME-2 satellite instrument, Atmos. Meas. Tech., 4, 1147–1159, https://doi.org/10.5194/amt-4-1147-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1175/JCLI-D-11-00015.1</doi>
+              <unstructured_citation>Rienecker, M. M., Suarez, M. J., Gelaro, R., Todling, R., Bacmeister, J., Liu, E., Bosilovich, M. G., Schubert, S. D., Takacs, L., Kim, G.-K., Bloom, S., Junye, C., Collins, D., Conaty, A., da Silva, A., Gu, W., Joiner, J., Koster, R. D., Lucchesi, R., Molod, A., Owens, T., Pawson, S., Pegion, P., Redder, C. R., Reichle, R., Robertson, F. R., Ruddick, A. G., Sienkiewicz, M., and Woollen, J.: MERRA: NASA modern-era retrospective analysis for research and applications, J. Climate, 24, 3624–3648, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1016/S1352-2310(01)00523-4</doi>
+              <unstructured_citation>Rinne, H., Guenther, A., Greenberg, J., and Harley, P.: Isoprene and monoterpene fluxes measured above Amazonian rainforest and their dependence on light and temperature, Atmos. Environ., 36, 2421–2426, https://doi.org/10.1016/S1352-2310(01)00523-4, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1016/j.atmosenv.2009.11.002</doi>
+              <unstructured_citation>Rizzo, L. V., Artaxo, P., Karl, T., Guenther, A. B., and Greenberg, J.: Aerosol properties, in-canopy gradients, turbulent fluxes and VOC concentrations at a pristine forest site in Amazonia, Atmos. Environ., 44, 503–511, https://doi.org/10.1016/j.atmosenv.2009.11.002, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1111/j.1365-2486.2009.02081.x</doi>
+              <unstructured_citation>Romero-Ruiz, M., Etter, A., Sarmiento, A., and Tansey, K.: Spatial and temporal variability of fires in relation to ecosystems, land tenure and rainfall in savannas of northern South America, Glob. Change Biol., 16, 2013–2023, https://doi.org/10.1111/j.1365-2486.2009.02081.x, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.5194/acp-12-12197-2012</doi>
+              <unstructured_citation>Russell, A. R., Valin, L. C., and Cohen, R. C.: Trends in OMI NO2 observations over the United States: effects of emission control technology and the economic recession, Atmos. Chem. Phys., 12, 12197–12209, https://doi.org/10.5194/acp-12-12197-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Schultz, M. G., Backman, L., Balkanski, Y., et al.: REanalysis of the TROpospheric chemical composition over the past 40 years (RETRO): A long-term global modeling study of tropospheric chemistry, Jülich/Hamburg, Germany, 48/2007 report on Earth System Science of the Max Planck Institute for Meteorology, Hamburg, Germany, ISSN 1614-1199, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1029/2007GB003031</doi>
+              <unstructured_citation>Schultz, M. G., Heil, A., Hoelzemann, J. J., Spessa, A., Thonicke, K., Goldammer, J. G., Held, A. C., Pereira, J., and van het Bolscher, M.: Global wildland fire emissions from 1960 to 2000, Global Biogeochem. Cy., 22, GB2002, https://doi.org/10.1029/2007GB003031, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1111/gcb.12980</doi>
+              <unstructured_citation>Seco, R., Karl, T., Guenther, A., Hosman, K. P., Pallardy, S. G., Gu, L., Geron, C., Harley, P., and Kim, S.: Ecosystem-scale volatile organic compound fluxes during an extreme drought in a broadleaf temperate forest of the Missouri Ozarks (central USA), Glob. Change Biol., 21, 3657–3674, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.5194/bg-2-255-2005</doi>
+              <unstructured_citation>Simon, E., Meixner, F. X., Rummel, U., Ganzeveld, L., Ammann, C., and Kesselmeier, J.: Coupled carbon-water exchange of the Amazon rain forest, II. Comparison of predicted and observed seasonal exchange of energy, CO2, isoprene and ozone at a remote site in Rondônia, Biogeosciences, 2, 255–275, https://doi.org/10.5194/bg-2-255-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.5194/acp-14-9317-2014</doi>
+              <unstructured_citation>Sindelarova, K., Granier, C., Bouarar, I., Guenther, A., Tilmes, S., Stavrakou, T., Müller, J.-F., Kuhn, U., Stefani, P., and Knorr, W.: Global data set of biogenic VOC emissions calculated by the MEGAN model over the last 30 years, Atmos. Chem. Phys., 14, 9317–9341, https://doi.org/10.5194/acp-14-9317-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.1046/j.1365-2486.2003.00569.x</doi>
+              <unstructured_citation>Sitch, S., Smith, B., Prentice, I. C., Arneth, A., Bondeau, A., Cramer, W., Kaplan, J., Levis, S., Lucht, W., Sykes, M. T., Thonicke, K., and Venevsky, S.: Evaluation of ecosystem dynamics, plant geography and terrestrial carbon cycling in the LPJ dynamic global vegetation model, Glob. Change Biol., 9, 161–185, https://doi.org/10.1046/j.1365-2486.2003.00569.x, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1016/j.atmosenv.2015.01.068</doi>
+              <unstructured_citation>Soares, J., Sofiev, M., and Hakkalainen, J.: Uncertainties in wild-land fire emissions in AQMEII phase 2 case study, Atmos. Environ., 115, 361–370, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.5194/acp-13-7039-2013</doi>
+              <unstructured_citation>Sofiev, M., Vankevich, R., Ermakova, T., and Hakkarainen, J.: Global mapping of maximum emission heights and resulting vertical profiles of wildfire emissions, Atmos. Chem. Phys., 13, 7039–7052, https://doi.org/10.5194/acp-13-7039-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1029/2008GL033521</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., Boersma, K. F., De Smedt, I., and van der A, R. J. : Assessing the distribution and growth rates of NOx emission sources by inverting a 10-year record of NO2 satellite columns, Geophys. Res. Lett., 35, L10801, https://doi.org/10.1029/2008GL033521, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.5194/acp-9-1037-2009</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., De Smedt, I., Van Roozendael, M., van der Werf, G. R., Giglio, L., and Guenther, A.: Evaluating the performance of pyrogenic and biogenic emission inventories against one decade of space-based formaldehyde columns, Atmos. Chem. Phys., 9, 1037–1060, https://doi.org/10.5194/acp-9-1037-2009, 2009a.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.5194/acp-9-3663-2009</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., De Smedt, I., Van Roozendael, M., van der Werf, G. R., Giglio, L., and Guenther, A.: Global emissions of non-methane hydrocarbons deduced from SCIAMACHY formaldehyde columns through 2003–2006, Atmos. Chem. Phys., 9, 3663–3679, https://doi.org/10.5194/acp-9-3663-2009, 2009b.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.5194/acp-10-9863-2010</doi>
+              <unstructured_citation>Stavrakou, T., Peeters, J., and Müller, J.-F.: Improved global modelling of HOx recycling in isoprene oxidation: evaluation against the GABRIEL and INTEX-A aircraft campaign measurements, Atmos. Chem. Phys., 10, 9863–9878, https://doi.org/10.5194/acp-10-9863-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.5194/acp-13-9057-2013</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., Boersma, K. F., van der A, R. J., Kurokawa, J., Ohara, T., and Zhang, Q.: Key chemical NOx sink uncertainties and how they influence top-down emissions of nitrogen oxides, Atmos. Chem. Phys., 13, 9057–9082, https://doi.org/10.5194/acp-13-9057-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.5194/acp-14-4587-2014</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., Bauwens, M., De Smedt, I., Van Roozendael, M., Guenther, A., Wild, M., and Xia, X.: Isoprene emissions over Asia 1979–2012: impact of climate and land-use changes, Atmos. Chem. Phys., 14, 4587–4605, https://doi.org/10.5194/acp-14-4587-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.5194/acp-15-11861-2015</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., Bauwens, M., De Smedt, I., Van Roozendael, M., De Mazière, M., Vigouroux, C., Hendrick, F., George, M., Clerbaux, C., Coheur, P.-F., and Guenther, A.: How consistent are top-down hydrocarbon emissions based on formaldehyde observations from GOME-2 and OMI?, Atmos. Chem. Phys., 15, 11861–11884, https://doi.org/10.5194/acp-15-11861-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1038/srep32307</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., Bauwens, M., De Smedt, Lerot, C., Van Roozendael, M., Coheur, P.-F., Clerbaux, C., Boersma, K. F., van der A, R., and Song, Y.: Substantial underestimation of post-harvest burning emissions in the North China Plain revealed by multi-species space observations, Sci. Rep., accepted, 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <unstructured_citation>Stavrakou, T., Bauwens, M., and Müller, J.-F.: Satellite-derived isoprene and fire emissions based on OMI HCHO observations, Royal Belgian Institute for Space Aeronomy (BIRA-IASB), available at: http://www.globemission.eu, last access: 8 August 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <unstructured_citation>Stavrakou, T., Bauwens, M., and Müller, J.-F.: Bottom-up and satellite-derived inventories, Royal Belgian Institute for Space Aeronomy (BIRA-IASB), available at: http://emissions.aeronomie.be, last access: 8 August 2016c.</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <unstructured_citation>Steffen, W., Hughes, L., and Pearce, A.: The heat is on: climate change, extreme heat and bushfires in Western Australia, Climate Council of Australia Ltd, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.5194/acp-7-511-2007</doi>
+              <unstructured_citation>Stohl, A., Berg, T., Burkhart, J. F., Fjǽraa, A. M., Forster, C., Herber, A., Hov, Ø., Lunder, C., McMillan, W. W., Oltmans, S., Shiobara, M., Simpson, D., Solberg, S., Stebel, K., Ström, J., Tørseth, K., Treffeisen, R., Virkkunen, K., and Yttri, K. E.: Arctic smoke – record high air pollution levels in the European Arctic due to agricultural fires in Eastern Europe in spring 2006, Atmos. Chem. Phys., 7, 511–534, https://doi.org/10.5194/acp-7-511-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <doi provider="crossref">10.5194/acp-13-11005-2013</doi>
+              <unstructured_citation>Tang, W., Cohan, D. S., Lamsal, L. N., Xiao, X., and Zhou, W.: Inverse modeling of Texas NOx emissions using space-based and ground-based NO2 observations, Atmos. Chem. Phys., 13, 11005–11018, https://doi.org/10.5194/acp-13-11005-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.5194/acp-9-4897-2009</doi>
+              <unstructured_citation>Turquety, S., Hurtmans, D., Hadji-Lazaro, J., Coheur, P.-F., Clerbaux, C., Josset, D., and Tsamalis, C.: Tracking the emission and transport of pollution from wildfires using the IASI CO retrievals: analysis of the summer 2007 Greek fires, Atmos. Chem. Phys., 9, 4897–4913, https://doi.org/10.5194/acp-9-4897-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.5194/hess-20-605-2016</doi>
+              <unstructured_citation>van der Molen, M. K., de Jeu, R. A. M., Wagner, W., van der Velde, I. R., Kolari, P., Kurbatova, J., Varlagin, A., Maximov, T. C., Kononov, A. V., Ohta, T., Kotani, A., Krol, M. C., and Peters, W.: The effect of assimilating satellite-derived soil moisture data in SiBCASA on simulated carbon fluxes in Boreal Eurasia, Hydrol. Earth Syst. Sci., 20, 605–624, https://doi.org/10.5194/hess-20-605-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.5194/acp-10-11707-2010</doi>
+              <unstructured_citation>van der Werf, G. R., Randerson, J. T., Giglio, L., Collatz, G. J., Mu, M., Kasibhatla, P. S., Morton, D. C., DeFries, R. S., Jin, Y., and van Leeuwen, T. T.: Global fire emissions and the contribution of deforestation, savanna, forest, agricultural, and peat fires (1997–2009), Atmos. Chem. Phys., 10, 11707–11735, https://doi.org/10.5194/acp-10-11707-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.5194/acp-11-3611-2011</doi>
+              <unstructured_citation>van Leeuwen, T. T. and van der Werf, G. R.: Spatial and temporal variability in the ratio of trace gases emitted from biomass burning, Atmos. Chem. Phys., 11, 3611–3629, https://doi.org/10.5194/acp-11-3611-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.1002/jgrd.50478</doi>
+              <unstructured_citation>van Leeuwen, T. T., Peters, W., Krol, M. C., and van der Werf, G. R.: Dynamic biomass burning emission factors and their impact on atmospheric CO mixing ratios, J. Geophys. Res., 118, 6797–6815, https://doi.org/10.1002/jgrd.50478, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <doi provider="crossref">10.5194/bg-11-7305-2014</doi>
+              <unstructured_citation>van Leeuwen, T. T., van der Werf, G. R., Hoffmann, A. A., Detmers, R. G., Rücker, G., French, N. H. F., Archibald, S., Carvalho Jr., J. A., Cook, G. D., de Groot, W. J., Hély, C., Kasischke, E. S., Kloster, S., McCarty, J. L., Pettinari, M. L., Savadogo, P., Alvarado, E. C., Boschetti, L., Manuri, S., Meyer, C. P., Siegert, F., Trollope, L. A., and Trollope, W. S. W.: Biomass burning fuel consumption rates: a field measurement database, Biogeosciences, 11, 7305–7329, https://doi.org/10.5194/bg-11-7305-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.1002/2014WR015638</doi>
+              <unstructured_citation>Weedon, G. P., Balsano, G., Bellouin, N., Gomes, S., Best, M. J., and Viterbo, P.: The WFDEI meteorological forcing data set: WATCH Forcing Data methodology applied to ERA-Interim reanalysis data, Water Resour. Res., 50, 7505–7514, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <doi provider="crossref">10.5194/gmd-4-625-2011</doi>
+              <unstructured_citation>Wiedinmyer, C., Akagi, S. K., Yokelson, R. J., Emmons, L. K., Al-Saadi, J. A., Orlando, J. J., and Soja, A. J.: The Fire INventory from NCAR (FINN): a high resolution global model to estimate the emissions from open burning, Geosci. Model Dev., 4, 625–641, https://doi.org/10.5194/gmd-4-625-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <doi provider="crossref">10.5194/acp-16-2597-2016</doi>
+              <unstructured_citation>Wolfe, G. M., Kaiser, J., Hanisco, T. F., Keutsch, F. N., de Gouw, J. A., Gilman, J. B., Graus, M., Hatch, C. D., Holloway, J., Horowitz, L. W., Lee, B. H., Lerner, B. M., Lopez-Hilifiker, F., Mao, J., Marvin, M. R., Peischl, J., Pollack, I. B., Roberts, J. M., Ryerson, T. B., Thornton, J. A., Veres, P. R., and Warneke, C.: Formaldehyde production from isoprene oxidation across NOx regimes, Atmos. Chem. Phys., 16, 2597–2610, https://doi.org/10.5194/acp-16-2597-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <doi provider="crossref">10.1029/2012GL052395</doi>
+              <unstructured_citation>Worden, H. M., Cheng, Y., Pfister, G., Carmichael, G. R., Zhang, Q., Streets, D. G., Deeter, M., Edwards, D. P., Gille, J. C., and Worden, J. R.: Satellite-based estimates of reduced CO and CO2 emissions due to traffic restrictions during the 2008 Beijing Olympics, Geophys. Res. Lett., 39, L14802, https://doi.org/10.1029/2012GL052395, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <doi provider="crossref">10.1002/grl.50937</doi>
+              <unstructured_citation>Worden, J., Jiang, Z., Jones, D., Alvarado, M., Bowman, K., Frankenberg, C., Kort, E. A., Kulawik, S. S., Lee, M., Liu, J., Payne, V., Wecht, K., and Worden, H.: El Niño, the 2006 Indonesian peat fires, and the distribution of atmospheric methane, Geophys. Res. Lett., 40, 4938–4943, https://doi.org/10.1002/grl.50937, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <doi provider="crossref">10.5194/acp-15-11931-2015</doi>
+              <unstructured_citation>Yue, X., Unger, N., and Zheng, Y.: Distinguishing the drivers of trends in land carbon fluxes and plant volatile emissions over the past 3 decades, Atmos. Chem. Phys., 15, 11931–11948, https://doi.org/10.5194/acp-15-11931-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <doi provider="crossref">10.5194/acp-10-3479-2010</doi>
+              <unstructured_citation>Yurganov, L., McMillan, W., Grechko, E., and Dzhola, A.: Analysis of global and regional CO burdens measured from space between 2000 and 2009 and validated by ground-based solar tracking spectrometers, Atmos. Chem. Phys., 10, 3479–3494, https://doi.org/10.5194/acp-10-3479-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <doi provider="crossref">10.1029/JD093iD02p01407</doi>
+              <unstructured_citation>Zimmerman, P., Greenberg, J., and Westberg, C.: Measurements of atmospheric hydrocarbons and biogenic emission fluxes in the Amazon boundary layer, J. Geophys. Res.-Atmos., 93, 1407–1416, https://doi.org/10.1029/JD093iD02p01407, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <doi provider="crossref">10.1088/1748-9326/9/11/114004</doi>
+              <unstructured_citation>Zhu, L., Jacob, D. J., Mickley, L. J., Marais, E. A., Cohan, D. S., Yoshida, Y., Duncan, B. N., González Abad, G., and Chance, K. V.: Anthropogenic emissions of highly reactive volatile organic compounds in eastern Texas inferred from oversampling of satellite (OMI) measurements of HCHO columns, Environ. Res. Lett., 9, 114004, https://doi.org/10.1088/1748-9326/9/11/114004, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-16-10133-2016-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/16/10133/2016/acp-16-10133-2016-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

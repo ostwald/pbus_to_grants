@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>High Resolution Model Intercomparison Project (HighResMIP v1.0) for CMIP6</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Reindert J.</given_name>
+              <surname>Haarsma</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Malcolm J.</given_name>
+              <surname>Roberts</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pier Luigi</given_name>
+              <surname>Vidale</surname>
+              <ORCID>https://orcid.org/0000-0002-1800-8460</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Catherine A.</given_name>
+              <surname>Senior</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alessio</given_name>
+              <surname>Bellucci</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Qing</given_name>
+              <surname>Bao</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ping</given_name>
+              <surname>Chang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Susanna</given_name>
+              <surname>Corti</surname>
+              <ORCID>https://orcid.org/0000-0003-4456-6682</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Neven S.</given_name>
+              <surname>Fučkar</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Virginie</given_name>
+              <surname>Guemas</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jost</given_name>
+              <surname>von Hardenberg</surname>
+              <ORCID>https://orcid.org/0000-0002-5312-8070</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Wilco</given_name>
+              <surname>Hazeleger</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chihiro</given_name>
+              <surname>Kodama</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Torben</given_name>
+              <surname>Koenigk</surname>
+              <ORCID>https://orcid.org/0000-0003-2051-743X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>L. Ruby</given_name>
+              <surname>Leung</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jian</given_name>
+              <surname>Lu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jing-Jia</given_name>
+              <surname>Luo</surname>
+              <ORCID>https://orcid.org/0000-0003-2181-0638</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jiafu</given_name>
+              <surname>Mao</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthew S.</given_name>
+              <surname>Mizielinski</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ryo</given_name>
+              <surname>Mizuta</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Paulo</given_name>
+              <surname>Nobre</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Masaki</given_name>
+              <surname>Satoh</surname>
+              <ORCID>https://orcid.org/0000-0003-3580-8897</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Enrico</given_name>
+              <surname>Scoccimarro</surname>
+              <ORCID>https://orcid.org/0000-0001-7987-4744</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tido</given_name>
+              <surname>Semmler</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justin</given_name>
+              <surname>Small</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jin-Song</given_name>
+              <surname>von Storch</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Robust projections and predictions of climate variability and change, particularly at regional scales, rely on the driving processes being represented with fidelity in model simulations. The role of enhanced horizontal resolution in improved process representation in all components of the climate system is of growing interest, particularly as some recent simulations suggest both the possibility of significant changes in large-scale aspects of circulation as well as improvements in small-scale processes and extremes. <br><br> However, such high-resolution global simulations at climate timescales, with resolutions of at least 50<span class="thinspace"></span>km in the atmosphere and 0.25° in the ocean, have been performed at relatively few research centres and generally without overall coordination, primarily due to their computational cost. Assessing the robustness of the response of simulated climate to model resolution requires a large multi-model ensemble using a coordinated set of experiments. The Coupled Model Intercomparison Project 6 (CMIP6) is the ideal framework within which to conduct such a study, due to the strong link to models being developed for the CMIP DECK experiments and other model intercomparison projects (MIPs). <br><br> Increases in high-performance computing (HPC) resources, as well as the revised experimental design for CMIP6, now enable a detailed investigation of the impact of increased resolution up to synoptic weather scales on the simulated mean climate and its variability. <br><br> The High Resolution Model Intercomparison Project (HighResMIP) presented in this paper applies, for the first time, a multi-model approach to the systematic investigation of the impact of horizontal resolution. A coordinated set of experiments has been designed to assess both a standard and an enhanced horizontal-resolution simulation in the atmosphere and ocean. The set of HighResMIP experiments is divided into three tiers consisting of atmosphere-only and coupled runs and spanning the period 1950–2050, with the possibility of extending to 2100, together with some additional targeted experiments. This paper describes the experimental set-up of HighResMIP, the analysis plan, the connection with the other CMIP6 endorsed MIPs, as well as the DECK and CMIP6 historical simulations. HighResMIP thereby focuses on one of the CMIP6 broad questions, “what are the origins and consequences of systematic model biases?”, but we also discuss how it addresses the World Climate Research Program (WCRP) grand challenges.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>22</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>4185</first_page>
+            <last_page>4208</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-4185-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/4185/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/4185/2016/gmd-9-4185-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1007/s00382-014-2329-8</doi>
+              <unstructured_citation>Baatsen, M., Haarsma, R. J., Van Delden, A. J., and De Vries, H.: Severe autumn storms in future western Europe with a warmer Atlantic ocean, Clim. Dynam., 45, 949–964, https://doi.org/10.1007/s00382-014-2329-8, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/JCLI-D-13-00387.1</doi>
+              <unstructured_citation>Bacmeister, J. T., Wehner, M. F., Neale, R. B., Gettelman, A., Hannay, C. E., Lauritzen, P. H., Caron, J. M., and Truesdale, J. E.: Exploratory high-resolution climate simulations using the Community Atmosphere Model (CAM), J. Climate, 27, 3073–3099, https://doi.org/10.1175/JCLI-D-13-00387.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/JCLI-D-12-00536.1</doi>
+              <unstructured_citation>Barnes, E. A. and Polvani, L.: Response of the midlatitude jets, and of their variability, to increased greenhosuse gases in the CMIP5 models, J. Climate, 26, 7117–7135, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/1520-0469(1998)055&lt;0477:TBEOAO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Barsugli, J. and Battisti, D. S.: The basic effects of atmosphere-ocean thermal coupling on midlatitude variability, J. Climate, 55, 477–493, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/JCLI-D-12-00749.1</doi>
+              <unstructured_citation>Bell, R. J., Strachan, J., Vidale, P. L., Hodges, K. I., and Roberts, M.: Response of tropical cyclones to idealized climate change experiments in a global high resolution coupled general circulation model, J. Climate, 26, 7966–7980, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/2009JCLI3002.1</doi>
+              <unstructured_citation>Bellucci, A., Gualdi, S., and Navarra, A.: The double-ITCZ syndrome in coupled general circulation models: the role of large-scale vertical circulation regimes, J. Climate, 23, 1127–1145, https://doi.org/10.1175/2009JCLI3002.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1007/s00382-014-2164-y</doi>
+              <unstructured_citation>Bellucci, A., Haarsma, R., Gualdi, S., Athanasiadis, P., Caian, M., Cassou, C., Fernandez, E., Germe, A., Jungclaus, J., Kröger, J., Matei, D., Müller, W., Pohlmann, H., Salas y Melia, D., Sanchez, E., Smith, D., Terray, L., Wyser, K., and Yang, S.: An assessment of a multi-model ensemble of decadal climate predictions, Clim. Dynam., 44, 2787–2806, https://doi.org/10.1007/s00382-014-2164-y, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1111/j.1600-0870.2007.00251.x</doi>
+              <unstructured_citation>Bengtsson, L., Hodges, K. I., Esch, M., Keenlyside, N., Kornblueh, L., Luo, J.-J., and Yamagata, T.: How may tropical cyclones change in a warmer climate?, Tellus, 59A, 539–561, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1002/2014GL060493</doi>
+              <unstructured_citation>Birch, C. E., Marsham, J. H., Parker, D. J., and Taylor, C. M.: The scale dependence and structure of convergence fields preceding the initiation of deep convection, Geophys. Res. Lett., 41, 4769–4776, https://doi.org/10.1002/2014GL060493, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1175/2010JCLI3665.1</doi>
+              <unstructured_citation>Bryan, F. O., Tomas, R., Dennis, J. M., Chelton, D. B., Loeb, N. G., and McClean, J. L.: Frontal scale air-sea interaction in high-resolution coupled climate models, J. Climate, 23, 6277–6291, https://doi.org/10.1175/2010JCLI3665.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Cassou, C.: Some critical technical choices for pacemaker experiments, Aspen DCPP Workshop, 7–12 June 2015, Aspen, Colorado, USA, availalbe at: https://www.agci.org/lib/15s1/some-critical-technical-choices-pacemaker-experiments, last access: 9 June 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/177GM05</doi>
+              <unstructured_citation>Chassignet, E. P. and Marshall, D. P.: Gulf stream separation in numerical ocean models, in: Ocean Modeling in an Eddying Regime, edited by: Hecht, M. W. and Hasumi, H., American Geophysical Union, Washington, D. C., USA, https://doi.org/10.1029/177GM05, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5670/oceanog.2010.05</doi>
+              <unstructured_citation>Chelton, D. B. and Xie, S.-P.: Coupled ocean-atmosphere interaction at oceanic mesoscales, Oceanography, 23, 52–69, https://doi.org/10.5670/oceanog.2010.05, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1111/j.1365-3040.1992.tb00992.x</doi>
+              <unstructured_citation>Chen, J. M. and Black, T.: Defining leaf-area index for non-flat leaves, Plant Cell Environ., 15, 421–429, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1007/s10584-015-1525-9</doi>
+              <unstructured_citation>Chuwah, C., van Noije, T., van Vuuren, D. P., Le Sager, P., and Hazeleger, W.: Climate impacts of future aerosol mitigation in an RCP6.0-like scenario, Climatic Change, 134, 1–14, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/gmd-2016-115</doi>
+              <unstructured_citation>Davini, P., von Hardenberg, J., Corti, S., Christensen, H. M., Juricke, S., Subramanian, A., Watson, P. A. G., Weisheimer, A., and Palmer, T. N.: Climate SPHINX: evaluating the impact of resolution and stochastic physics parameterisations in climate simulations, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-115, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2012GL053284</doi>
+              <unstructured_citation>Dawson, A., Palmer, T. N., and Corti, S.: Simulating regime structures in weather and climate prediction models, Geophys. Res. Lett., 39, L21805, https://doi.org/10.1029/2012GL053284, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/os-8-1071-2012</doi>
+              <unstructured_citation>de Boisséson, E., Balmaseda, M. A., Vitart, F., and Mogensen, K.: Impact of the sea surface temperature forcing on hindcasts of Madden–Julian Oscillation events using the ECMWF model, Ocean Sci., 8, 1071–1084, https://doi.org/10.5194/os-8-1071-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/JCLI-D-11-00316.1</doi>
+              <unstructured_citation>Delworth, T. L., Rosati, A., Anderson, W., Adcroft, A. J., Balaji, V., Benson, R., Dixon, K., Griffies, S. M., Lee, H.-C., Pacanowski, R. C., Vecchi, G. A., Wittenberg, A. T., Zeng, F., and Zhang, R.: Simulated climate and climate change in the GFDL CM2.5 high-resolution coupled climate model, J. Climate, 25, 2755–2781, https://doi.org/10.1175/JCLI-D-11-00316.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1007/s00382-013-1924-4</doi>
+              <unstructured_citation>Demory, M.-E., Vidale, P. L., Roberts, M. J., Berrisford, P., Strachan, J., Schiemann, R., and Mizielinski, M.: The role of horizontal resolution in simulating drivers of the global hydrological cycle, Clim. Dynam., 42, 2201–2225, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1002/2014RG000478</doi>
+              <unstructured_citation>DeMott, C. A., Klingaman, N. P., and Woolnough, S. J.: Atmosphere-ocean coupled processes in the Madden–Julian oscillation, Rev. Geophys., 53, 1099–1154, https://doi.org/10.1002/2014RG000478, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1007/s00382-011-1068-3</doi>
+              <unstructured_citation>Di Luca, A., de Elía, R., and Laprise, R.: Potential for added value in precipitation simulated by high-resolution nested Regional Climate Models and observations, Clim. Dynam., 38, 1229–1247, https://doi.org/10.1007/s00382-011-1068-3, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/JCLI-D-11-00360.1</doi>
+              <unstructured_citation>Doi, T., Vecchi, G. A., Rosati, A. J., and Delworth, T. L.: Biases in the Atlantic ITCZ in seasonal–interannual variations for a coarse- and a high-resolution coupled climate model, J. Climate, 25, 5494–5511, https://doi.org/10.1175/JCLI-D-11-00360.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JCLI-D-15-0401.1</doi>
+              <unstructured_citation>Emanuel, K.: Effect of upper-ocean evolution on projected trends in tropical cyclone activity, J. Climate, 28, 8165–8170, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/gmd-9-1937-2016</doi>
+              <unstructured_citation>Eyring, V., Bony, S., Meehl, G. A., Senior, C. A., Stevens, B., Stouffer, R. J., and Taylor, K. E.: Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization, Geosci. Model Dev., 9, 1937-1958, https://doi.org/10.5194/gmd-9-1937-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1002/jgrg.20051</doi>
+              <unstructured_citation>Fang, H., Jiang, C., Li, W., Wei, S., Baret, F., Chen, J. M., Garcia-Haro, J., Liang, S., Liu, R., Myneni, R. B., Pinty, B., Xiao, Z., and Zhu, Z.: Characterization and intercomparison of global moderate resolution leaf area index (LAI) products: Analysis of climatologies and theoretical uncertainties, J. Geophys. Res.-Biogeo., 118, 529–548, https://doi.org/10.1002/jgrg.20051, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1038/ngeo1863</doi>
+              <unstructured_citation>Frenger, I., Gruber, N., Knutti, R., and Munnich, M.: Imprint of Southern Ocean eddies on winds, clouds and rainfall, Nat. Geosci., 6, 608–612, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1007/s00382-015-2917-2</doi>
+              <unstructured_citation>Fučkar, N. S., Guemas, V., Johnson, N. C., Massonnet, F., and Doblas-Reyes, F. J.: Clusters of interannual sea ice variability in the northern hemisphere, Clim. Dynam., 47, 1527–1543, https://doi.org/10.1007/s00382-015-2917-2, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/2015GL065435</doi>
+              <unstructured_citation>Gao, Y., Lu, J., Leung, L. R., Yang, Q., Hagos, S., and Qian, Y.: Dynamical and thermodynamical modulations of future changes in landfalling atmospheric rivers over western North America, Geophys. Res. Lett., 42, 7179–7186, https://doi.org/10.1002/2015GL065435, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/JCLI-D-16-0088.1</doi>
+              <unstructured_citation>Gao, Y., Lu, J., and Leung, L. R.: Uncertainties in projecting future changes in atmospheric rivers and their impacts on heavy precipitation over Europe, J. Climate, 29, 6711–6726, https://doi.org/10.1175/JCLI-D-16-0088.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1007/s00382-009-0614-8</doi>
+              <unstructured_citation>Gent, P. R., Yeager, S. G., Neale, R. B., Levis, S., and Bailey, D. A.: Improvements in a half degree atmosphere/land version of the CCSM, Clim. Dynam., 34, 819–833, https://doi.org/10.1007/s00382-009-0614-8, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1002/2013JC009067</doi>
+              <unstructured_citation>Good, S. A., Martin, M. J., and Rayner, N. A.: EN4: Quality controlled ocean temperature and salinity profiles and monthly objective analyses with uncertainty estimates, J. Geophys. Res., 118, 6704–6716, https://doi.org/10.1002/2013JC009067, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/JCLI-D-14-00113.1</doi>
+              <unstructured_citation>Grise, K. M. and Polvani, L. M.: Southern hemisphere cloud-dynamics biases in CMIP5 models and their implications for climate project ions, J. Climate, 27, 6074–6092, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1002/grl.50360</doi>
+              <unstructured_citation>Haarsma, R. J., Hazeleger, W., Severijns, C., de Vries, H., Sterl, A., Bintanja, R., van Oldenborgh, G. J., and van den Brink, H. W.: More hurricanes to hit Western Europe due to global warming, Geophys. Res. Lett., 40, 1783–1788, https://doi.org/10.1002/grl.50360, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Hagedorn, R., Doblas-Reyes, F. J., and Palmer, T. N.: The rationale behind the success of multi-model ensembles in seasonal forecasting I. Basic concept, Tellus, 57, 219–233, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/JCLI-D-14-00567.1</doi>
+              <unstructured_citation>Hagos, S., Leung, L. R., Yang, Q., Zhao, C., and Lu, J.: Resolution and dynamical core dependence of atmospheric river frequency in global model simulations, J. Climate, 28, 2764–2776, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1002/2015GL067392</doi>
+              <unstructured_citation>Hagos, S., Leung, L. R., Yoon, J.-H., Lu, J., and Gao, Y.: A projection of changes in landfalling atmospheric river frequency and extreme precipitation over western North American from the Large Ensemble CESM simulations, Geophys. Res. Lett., 43, 1357–1363, https://doi.org/10.1002/2015GL067392, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/jgrd.50564</doi>
+              <unstructured_citation>Hashino, T., Satoh, M., Hagihara, Y., Kubota, T., Matsui, T., Nasuno, T., and Okamoto, H.: Evaluating cloud microphysics from NICAM against CloudSat and CALIPSO, J. Geophys. Res., 118, 7273–7292, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1007/s00382-010-0810-6</doi>
+              <unstructured_citation>Hawkins, E. and Sutton, R.: The potential to narrow uncertainty in projections of regional precipitation change, Clim. Dynam., 37, 407–418, https://doi.org/10.1007/s00382-010-0810-6, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/2011GL050087</doi>
+              <unstructured_citation>Hawkins, E. and Sutton, R.: Time of emergence of climate signals, Geophys. Res. Lett., 39, L01702, https://doi.org/10.1029/2011GL050087, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1038/nclimate2450</doi>
+              <unstructured_citation>Hazeleger, W., van den Hurk, B. J. J. M., Min, E., van Oldenborgh, G. J., Petersen, A. C., Stainforth, D. A., Vasileiadou, E., and Smith, L. A.: Tales of Future Weather, Nature Climate Change, 5, 107–114, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1007/s00382-014-2396-x</doi>
+              <unstructured_citation>Hertwig, E., von Storch, J.-S., Handorf, D., Dethloff, K., Fast, I., and Krismer, T.: Effect of horizontal resolution on ECHAM6-AMIP  performance, Clim. Dynam., 45, 185–211, https://doi.org/10.1007/s00382-014-2396-x, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/2011JCLI4097.1</doi>
+              <unstructured_citation>Hodges, K. I., Lee, R. W., and Bengtsson, L.: A comparison of extratropical cyclones in recent re-analyses ERA-Interim, NASA MERRA, NCEP CFSR, JRA-25, J. Climate, 24, 4888–4906, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/2011JCLI4137.1</doi>
+              <unstructured_citation>Hoerling, M., Hurrell, J., Kumar, A., Terray, L., Eischeid, J., Pegion, P., Zhang, T., Quan, X.-W., and Xu, T. Y.: On North American Decadal Climate for 2011–2020, J. Climate, 24, 4519–4528, https://doi.org/10.1175/2011JCLI4137.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/BAMS-D-12-00227.1</doi>
+              <unstructured_citation>Illingworth, A. J., Barker, H. W., Beljaars, A., Ceccaldi, M., Chepfer, H., Cierbaux, N., Cole, J., Delanoë, J., Domenech, C., Donovan, D. P., Fukuda, S., Hirakata, M., Hogan, R. J., Huenerbein, A., Kolias, P., Kubota, T., Nakajima, T. Y., Nishizawa, T., Ohno, Y., Okamoto, H., Oki, R., Sato, K., Satoh, M., Shepherd, M. W., Velazques-Blazquez, A., Wandinger, U., Wehr, T., and van Zadelhoff, G.-J.: The EarthCARE satellite: The next step forward in global measurements of clouds, aerosols, precipitation, and radiation, B. Am. Meteorol. Soc., 96, 1311–1332, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1007/s10113-013-0499-2</doi>
+              <unstructured_citation>Jacob, D., Petersen, J., Eggert, B., Alias, A., Christensen, O. B., Bouwer, L., Braun, A., Colette, A., Déqué, M., Georgievski, G., Georgopoulou, E., Gobiet, A., Menut, L., Nikulin, G., Haensler, A., Hempelmann, N., Jones, C., Keuler, K., Kovats, S., Kröner, N., Kotlarski, S., Kriegsmann, A., Martin, E., Meijgaard, E., Moseley, C., Pfeifer, S., Preuschmann, S., Radermacher, C., Radtke, K., Rechid, D., Rounsevell, M., Samuelsson, P., Somot, S., Soussana, J.-F., Teichmann, C., Valentini, R., Vautard, R., Weber, B., and Yiou, P.: EURO-CORDEX: new high-resolution climate change projections for European impact research, Reg. Environ. Change, 14, 563–578, https://doi.org/10.1007/s10113-013-0499-2, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Juckes, M., Eyering, V., Taylor, K., Balaji, V., and Stouffer, R.: The CMIP6 data request, in preparation for GMD, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1175/JCLI-D-11-00265.1</doi>
+              <unstructured_citation>Jung, T., Miller, M. J., Palmer, T. N., Towers, P., Wedi, N., Achuthavarier, D., Adams, J. M., Altshuler, E. L., Cash, B. A., Kinter, J. L., Marx, L., Stan, C., and Hodges, K. I.: High-resolution global climate simulation with the ECMWF model in project Athena: Experimental design, model climate, and seasonal forecast skill, J. Climate, 25, 3155–3172, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/JCLI-D-12-00528.1</doi>
+              <unstructured_citation>Kapnick, S. B. and Delworth, T. L.: Controls of Global Snow under a Changed Climate, J. Climate, 26, 5537–5562, https://doi.org/10.1175/JCLI-D-12-00528.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Kennedy, J. J., et al.: Technical Note on HadISST2, in preparation, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2010GL042873</doi>
+              <unstructured_citation>Kidston, J. and Gerber, E. P.: Intermodel variability of the poleward shift of the austral jetstream in the CMIP3 integrations linked to biases in 20th century climatology, Geophys. Res. Lett., 37, L09708, https://doi.org/10.1029/2010GL042873, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1175/BAMS-D-11-00043.1</doi>
+              <unstructured_citation>Kinter III, J. L., Cash, B., Achuthavarier, D., Adams, J., Altshuler, E., Dirmeyer, P., Doty, B., Huang, B., Jin, E. K., Marx, L., Manganello, J., Stan, C., Wakefield, T., Palmer, T., Hamrud, M., Jung, T., Miller, M., Towers, P., Wedi, N., Satoh, M., Tomita, H., Kodama, C., Nasuno, T., Oouchi, K., Yamada, Y., Taniguchi, H., Andrews, P., Baer, T., Ezell, M., Halloy, C., John, D., Loftis, B., Mohr, R., and Wong, K.: Revolutionizing Climate Modeling with Project Athena: A Multi-Institutional, International Collaboration, B. Am. Meteorol. Soc., 94, 231–245, https://doi.org/10.1175/BAMS-D-11-00043.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1007/s00382-012-1500-3</doi>
+              <unstructured_citation>Kirtman, B. P., Bitz, C., Bryan, F., Collins, W., Dennis, J., Hearn, N., Kinter III, J. L., Loft, R., Rousset, C., Siqueira, L., Stan, C., Tomas, R., and Vertenstein, M.: Impact of ocean model resolution on CCSM climate simulations, Clim. Dynam., 39, 1303–1328, https://doi.org/10.1007/s00382-012-1500-3, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1007/s00704-014-1352-3</doi>
+              <unstructured_citation>Klutse, N. A. B., Sylla, M. B., Diallo, I., Sarr, A., Dosio, A., Diedhiou, A., Kamga, A., Lamptey, B., Ali, A., Gbobaniyi, E. O., Owusu, K., Lennard, C., Hewitson, B., Nikulin, G., Panitz, H.-J., and Büchner, M.: Daily characteristics of West African summer monsoon precipitation in CORDEX simulations, Theor. Appl. Climatol., 123, 369–386, https://doi.org/10.1007/s00704-014-1352-3, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.3402/polar.v34.24603</doi>
+              <unstructured_citation>Koenigk, T., Berg, P., and Döscher, R.: Arctic climate change in an ensemble of regional CORDEX simulations, Polar Res., 34, 24603, https://doi.org/10.3402/polar.v34.24603, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1007/s00704-014-1244-6</doi>
+              <unstructured_citation>Krichak, S. O., Barkan, J., Breitgand, J. S., Gualdi, S., and Feldstein, S. B.: The role of the export of tropical moisture into mid-latitudes for estreme precipitation events in the Mediterranean region, Theor. Appl. Climatol., 121, 499–515, https://doi.org/10.1007/s00704-014-1244-6, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1175/2010JCLI3261.1</doi>
+              <unstructured_citation>Kuwano-Yoshida, A., Minobe, S., and Xie, S.-P.: Precipitation response to the Gulf Stream in an Atmospheric GCM, J. Climate, 23, 3676–3698, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1002/(SICI)1097-0088(19970630)17:8&lt;847::AID-JOC165&gt;3.0.CO;2-6</doi>
+              <unstructured_citation>Lal, M., Cubasch, U., Perlwitz, J. P., and Waszkewitz, J.: Simulation of the Indian monsoon climatology in ECHAM3 climate model: Sensitivity to horizontal resolution, Int. J. Climatol., 17, 847–858, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1002/grl.50636</doi>
+              <unstructured_citation>Lavers, D. A. and Villarini, G.: The nexus between atmospheric rivers and extreme precipitation across Europe, Geophys. Res. Lett., 40, 3259–3264, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2008GL036445</doi>
+              <unstructured_citation>Leung, L. R. and Qian, Y.: Atmospheric rivers induced heavy precipitation and flooding in the western U.S. simulated by the WRF regional climate model, Geophys. Res. Lett., 36, L03820, https://doi.org/10.1029/2008GL036445, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/JCLI-D-14-00761.1</doi>
+              <unstructured_citation>Lu, J., Chen, G., Leung, L. R., Burrows, A., Yang, Q., Sakaguchi, K., and Hagos, S.: Towards the dynamical convergence on the jet stream in aquaplanet AGCMs, J. Climate, 28, 6763–6782, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1038/srep17785</doi>
+              <unstructured_citation>Ma, X., Chang, P., Saravanan, R. Montuoro, R., Hsieh, J.-S., Wu, D., Lin, X., Wu, L., and Jing, Z.: Distant Influence of Kuroshio Eddies on North Pacific Weather Patterns?, Sci. Rep., 5, 17785, https://doi.org/10.1038/srep17785, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1038/nature18640</doi>
+              <unstructured_citation>Ma, X., Jing, Z., Chang, P., Liu, X., Montuoro, R., Small, R. J., Bryan, F. O., Greatbatch, R. J., Brandt, P., Wu, D., Lin, X., and Wu, L.: Western boundary currents regulated by interaction between ocean eddies and the atmosphere, Nature, 535, 533–537, https://doi.org/10.1038/nature18640, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/esd-7-211-2016</doi>
+              <unstructured_citation>Mahowald, N., Lo, F., Zheng, Y., Harrison, L., Funk, C., Lombardozzi, D., and Goodale, C.: Projections of leaf area index in earth system models, Earth Syst. Dynam., 7, 211–229, https://doi.org/10.5194/esd-7-211-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.3390/rs5031484</doi>
+              <unstructured_citation>Mao, J., Shi, X., Thornton, P. E., Hoffman, F. M., Zhu, Z., and Myneni, R. B.: Global latitudinal-asymmetric vegetation growth trends and their driving mechanisms: 1982–2009, Remote Sens., 5, 1484–1497, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1175/JCLI-D-15-0145.1</doi>
+              <unstructured_citation>Martin, E. R. and Thorncroft, C.: Representation of African Easterly Waves in CMIP5 models, J. Climate, 28, 7702–7715, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1002/qj.49712555703</doi>
+              <unstructured_citation>Martin, G. M.: The simulation of the Asian summer monsoon, and its sensitivity to horizontal resolution, in the UK meteorological office unified model, Q. J. Roy. Meteor. Soc., 125, 1499–1525, https://doi.org/10.1002/qj.49712555703, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1016/j.jmarsys.2014.10.007</doi>
+              <unstructured_citation>Marzocchi, A., Hirschi, J. J.-M., Holliday, N. P., Cunningham, S. A., Blaker, A. T., and Coward, A. C.: The North Atlantic subpolar circulation in an eddy-resolving global ocean model, J. Marine Syst., 142, 126–143, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1007/s00382-011-1247-2</doi>
+              <unstructured_citation>Masson, S., Terray, P., Madec, G., Luo, J.-J., Yamagata, T., and Takahashi, K.: Impact of intra-daily SST variability on ENSO characteristics in a coupled model, Clim. Dynam., 39, 681–707, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Masumoto, Y., Sasaki, H., Kagimoto, T., Komori, N., Ishida, A., Sasai, Y., Miyama, T., Motoi, T., Mitsudera, H., Takahashi, K., Sakuma, H., and Yamagata, T.: A fifty-year eddy-resolving simulation of the world ocean – Preliminary outcomes of OFES (OGCM for the Earth Simulator), J. Earth Sim., 1, 35–56, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1007/s10584-013-0831-3</doi>
+              <unstructured_citation>Mearns, L. O., Sain, S., Leung, L. R., Bukovsky, M. S., McGinnis, S., Biner, S., Caya, D., Arritt, R. W., Gutowski, W., Takle, E., Synder, M., Jones, R. G., Nunes, A. M. B., Tucker, S., Herzmann, D., McDaniel, L., and Sloan, L.: Climate change projections of the North American Regional Climate Change Assessment Program (NARCCAP), Clim. Change Lett., 120, 965–975, https://doi.org/10.1007/s10584-013-0831-3, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1007/s00382-016-2975-0</doi>
+              <unstructured_citation>Mecking, J. V., Drijfhout, S. S., Jackson, L. C., and Graham, T.: Stable AMOC off state in an eddy-permitting coupled climate model, Clim. Dynam., 47, 2455–2470, https://doi.org/10.1007/s00382-016-2975-0, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1038/nature06690</doi>
+              <unstructured_citation>Minobe, S., Kuwano-Yoshida, A., Komori, N., Xie, S.-P., and Small, R. J.: Influence of the Gulf Stream on the troposphere, Nature, 452, 206–209, https://doi.org/10.1038/nature06690, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.5194/gmd-7-1629-2014</doi>
+              <unstructured_citation>Mizielinski, M. S., Roberts, M. J., Vidale, P. L., Schiemann, R., Demory, M.-E., Strachan, J., Edwards, T., Stephens, A., Lawrence, B. N., Pritchard, M., Chiu, P., Iwi, A., Churchill, J., del Cano Novales, C., Kettleborough, J., Roseblade, W., Selwood, P., Foster, M., Glover, M., and Malcolm, A.: High-resolution global climate modelling: the UPSCALE project, a large-simulation campaign, Geosci. Model Dev., 7, 1629–1640, https://doi.org/10.5194/gmd-7-1629-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Mizuta, R., Adachi, Y., Yukimoto, S., and Kusunoki, S.: Estimation of the future distribution of sea surface temperature and sea ice using the CMIP3 multi-model ensemble mean, Tech. Rep. 56, 28 pp., Meteorol. Res. Inst., Tsukuba, Japan, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1175/JCLI-D-15-0216.1</doi>
+              <unstructured_citation>Murakami, H., Vecchi, G. A., Underwood, S., Delworth, T. L., Wittenberg, A. T., Anderson, W. G., Chen, J.-H., Gudgel, R. G., Harris, L. M., Lin, S.-J., and Zeng, F.: Simulation and Prediction of Category 4 and 5 Hurricanes in the High-Resolution GFDL HiFLOR Coupled Climate Model, J. Climate, 28, 9058–9079, https://doi.org/10.1175/JCLI-D-15-0216.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1175/2009BAMS2712.1</doi>
+              <unstructured_citation>Navarra, A., Kinter, J. L., and Tribbia, J.: Crucial experiments in climate science, B. Am. Meteorol. Soc., 91, 343–352, https://doi.org/10.1175/2009BAMS2712.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1175/2011JHM1358.1</doi>
+              <unstructured_citation>Neiman, P. J., Schick, L. J., Ralph, F. M., Hughes, M., and Wick, G. A.: Flooding in western Washington: The connection to atmospheric rivers, J. Hydrometeor., 12, 1337–1358, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1175/JCLI-D-11-00444.1</doi>
+              <unstructured_citation>Nobre, P., De Almeida, R. A., Malagutti, M., and Giarolla, E.: Coupled Ocean–Atmosphere Variations over the South Atlantic Ocean, J. Climate, 25, 6349–6358, https://doi.org/10.1175/JCLI-D-11-00444.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1175/JAS-D-14-0082.1</doi>
+              <unstructured_citation>Novak, L., Ambaum, M. H. P., and Tailleux, R.: The life cycle of the North Atlantic storm track, J. Atmos. Sci., 72, 821–833, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Ohfuchi, W., Nakamura, H., Yoshioka, M. K., Enomoto, T., Takaya, K., Peng, X., Yamane, S., Nishimura, T., Kurihara, Y., and Ninomiya, K.: 10 km Mesh Meso-scale Resolving Simulations of the Global Atmosphere on the Earth Simulator – Preliminary Outcomes of AFES (AGCM for the Earth Simulator), J. Earth Sim., 1, 8–34, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1007/s00382-015-2919-0</doi>
+              <unstructured_citation>O'Reilly, C. H., Minobe, S., and Kuwano-Yoshida, A.: The influence of the Gulf Stream on wintertime European blocking, Clim. Dynam., 47, 1545–1567, https://doi.org/10.1007/s00382-015-2919-0, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1002/2016GL067723</doi>
+              <unstructured_citation>Parfitt, R., Czaja, A., Minobe, S., and Kuwano-Yoshida, A.: The atmospheric frontal response to SST perturbations in the Gulf Stream region, Geophys. Res. Lett., 43, 2299–2306, https://doi.org/10.1002/2016GL067723, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Patricola, C. M. and Chang, P.: The Benguela Low-Level Coastal Jet: Structure, Dynamics, and Biases in Models and Reanalyses, Clim. Dynam., in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1007/s00382-015-2513-5</doi>
+              <unstructured_citation>Peatman, S. C., Matthews, A. J., and Stevens, D. P.: Propagation of the Madden–Julian Oscillation and scale interaction with the diurnal cycle in a high-resolution GCM, Clim. Dynam., 45, 2901–2918, https://doi.org/10.1007/s00382-015-2513-5, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Rackow, T., Goessling, H. F., Jung, T., Sidorenko, D., Semmler, T., Barbi, D., and Handorf, D.: Towards multi-resolution global climate modeling with ECHAM6-FESOM, Part II: climate variability, Clim. Dynam., 1–26, https://doi.org/10.1007/s00382-016-3192-6, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1029/2006GL026689</doi>
+              <unstructured_citation>Ralph, F. M., Neiman, P. J., Wick, G. A., Gutman, S. I., Dettinger, M. D., Cayan, D. R., and White, A. B.: Flooding on California's Russian River: role of atmospheric rivers, Geophys. Res. Lett., 33, L13801, https://doi.org/10.1029/2006GL026689, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1007/s00382-013-1818-5</doi>
+              <unstructured_citation>Rathmann, N. M., Yang, S., and Kaas, E.: Tropical cyclones in enhanced resolution CMIP5 experiments, Clim. Dynam., 42, 665–681, https://doi.org/10.1007/s00382-013-1818-5, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Rayner, N. A., Kennedy, J. J., Smith, R. O., and Titchner, H. A.: The Met Office Hadley Centre Sea Ice and Sea Surface Temperature data set, version 2, part 3: the combined analysis, in preparation, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1175/1520-0442(2002)015&lt;1609:AIISAS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Reynolds, R., Rayner, N., Smith, T., Stokes, D., and Wang, W.: An improved in situ and satellite SST analysis for climate, J. Climate, 15, 1609–1625, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1175/2008JCLI2537.1</doi>
+              <unstructured_citation>Roberts, M. J., Clayton, A., Demory, M.-E., Donners, J., Vidale, P. L., Shaffrey, L., Stevens, D. P., Stevens, I., Wood, R. A., and Slingo, J.: Impact of Resolution on the Tropical Pacific Circulation in a Matrix of Coupled Models, J. Climate, 22, 2541–2556, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1175/JCLI-D-14-00131.1</doi>
+              <unstructured_citation>Roberts, M. J., Vidale, P. L., Mizielinski, M., Demory, M.-E., Schiemann, R., Strachan, J., Hodges, K., Camp, J., and Bell, R.: Tropical cyclones in the UPSCALE ensemble of high resolution global climate models, J. Climate, 28, 574–596, https://doi.org/10.1175/JCLI-D-14-00131.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.1175/1520-0493(2000)128&lt;2947:IAIVOT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Robertson, A. W. and Mechoso, C. R.: Interannual and Interdecadal Variability of the South Atlantic Convergence Zone, Mon. Weather Rev., 128, 2947–2957, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.1175/1520-0442(2003)016&lt;2540:SOTART&gt;2.0.CO;2</doi>
+              <unstructured_citation>Robertson, A. W., Ferrara, J. D., and Mechoso, C. R.: Simulations of the atmospheric response to South Atlantic sea surface temperature anomalies, J. Climate, 16, 2540–2551, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1175/JCLI-D-12-00761.1</doi>
+              <unstructured_citation>Rowell, D. P.: Simulating SST Teleconnections to Africa: What is the State of the Art?, J. Climate, 26, 5397–5418, https://doi.org/10.1175/JCLI-D-12-00761.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Rummukainen, M.: Added value in regional climate modeling, WIREs Clim. Change, 7, 145–159, https://doi.org/10.1002/wcc.378, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.1175/JCLI-D-14-00729.1</doi>
+              <unstructured_citation>Sakaguchi, K., Leung, L. R., Zhao, C., Yang, Q., Lu, J., Hagos, S., Ringler, T. D., Rauscher, S. A., and Dong, L.: Exploring a multi-resolution approach using AMIP simulations, J. Climate, 28, 5549–5574, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.2151/jmsj.2012-301</doi>
+              <unstructured_citation>Sakamoto, T. T., Komuro, Y., Nishimura, T., Ishi, M., Tatebe, H., Shiogama, H., Hasegawa, A., Toyoda, T., Mori, M., Suzuki, T., Imada, Y., Nozawa, T., Takata, K., Mochizuki, T., Ogochi, K., Emori, S., Hasumi, H., and Kimoto, M.: MIROC4h – A New High-Resolution Atmosphere-Ocean Coupled General Circulation Model, J. Meteorol. Soc. Jpn., 90, 325–359, https://doi.org/10.2151/jmsj.2012-301, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1175/JCLI-D-14-00361.1</doi>
+              <unstructured_citation>Sanderson, B. M., Knutti, R., and Caldwell, P.: Addressing Interdependency in a Multimodel Ensemble by Interpolation of Model Properties, J. Climate, 28, 5150–5170, https://doi.org/10.1175/JCLI-D-14-00361.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.1175/2009JCLI2890.1</doi>
+              <unstructured_citation>Sato, T., Miura, H., Satoh, M., Takayabu, Y. N., and Wang, Y. Q.: Diurnal cycle of precipitation in the tropics simulated in a global cloud-resolving model, J. Climate, 22, 4809–4826, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.1186/s40645-014-0018-1</doi>
+              <unstructured_citation>Satoh, M., Tomita, H., Yashiro, H., Miura, H., Kodama, C., Seiki, T., Noda, A. T., Yamada, Y., Goto, D., Sawada, M., Miyoshi, T., Niwa, Y., Hara, M., Ohno, Y., Iga, S., Arakawa, T., Inoue, T., and Kubokawa, H.: The Non-hydrostatic Icosahedral Atmospheric Model: Description and development, Progress in Earth and Planetary Science, 1, 1, https://doi.org/10.1186/s40645-014-0018-1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1029/2011GL049573</doi>
+              <unstructured_citation>Scaife, A. A., Copsey, D., Gordon, C., Harris, C., Hinton, T., Keeley, S. J., O'Neill, A., Roberts, M., and Williams, K.: Improved atlantic blocking in a climate model, Geophys. Res. Lett., 38, L23703, https://doi.org/10.1029/2011GL049573, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <unstructured_citation>Schiemann, R., Demory, M.-E., Shaffrey, L. C., Strachan, J., Vidale, P. L., Mizielinski, M. S., Roberts, M. J., Matsueda, M., Wehner, M. F., and Jung, T.: The resolution sensitivity of northern hemisphere blocking in four 25 km atmospheric global circulation models, J. Climate, https://doi.org/10.1175/JCLI-D-16-0100.1, in press, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <doi provider="crossref">10.1029/2012GL052987</doi>
+              <unstructured_citation>Scoccimarro, E., Gualdi, S., and Navarra, A.: Tropical cyclone effects on arctic sea ice variability, Geophys. Res. Lett., 39, L17704, https://doi.org/10.1029/2012GL052987, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.1175/JCLI-D-14-00065.1</doi>
+              <unstructured_citation>Scoccimarro, E., Gualdi, S., Villarini, G., Vecchi, G., Zhao, M., Walsh, K., and Navarra, A.: Intense precipitation events associated with landfalling tropical cyclones in response to a warmer climate and increased CO2, J. Climate, 27, 4642–4654, https://doi.org/10.1175/JCLI-D-14-00065.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.1002/2016MS000650</doi>
+              <unstructured_citation>Sein, D. V., Danilov, S., Biastoch, A., Durgadoo, J., Sidorenko, D., Harig, S., and Wang, Q.: Designing variable ocean model resolution based on the observed ocean variability, J. Adv. Model. Earth Syst., 8, 904–916, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1002/2014MS000372</doi>
+              <unstructured_citation>Shaevitz, D., Camargo, S. J., Sobel, A. H., Jonas, J. A., Kim, D., Kumar, A., LaRow, T. E., Lim, Y.-K., Murakami, H., Reed, K., Roberts, M. J., Scoccimarro, E., Vidale, P. L., Wang, H., Wehner, M. F., Zhao, M., and Henderson, N.: Characteristics of tropical cyclones in high-resolution models in the present climate, J. Adv. Model. Earth Syst., 6, 1154–1172, https://doi.org/10.1002/2014MS000372, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.1175/2008JCLI2508.1</doi>
+              <unstructured_citation>Shaffrey, L. C., Stevens, I., Norton, W. A., Roberts, M. J., Vidale, P. L., Harle, J. D., Jrrar, A., Stevens, D. P., Woodage, M. J., Demory, M. E., Donners, J., Clark, D. B., Clayton, A., Cole, J. W., Wilson, S. S., Connolley, W. M., Davies, T. M., Iwi, A., M., John, T., C., King, J. C., New, A. L., Slingo, J. M., Slingo, A., Steenman-Clark, L., and Martin, M.: U.K. HiGEM: the new U.K. High-Resolution Global Environment Model-model description and basic evaluation, J. Climate, 22, 1861–1896, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.1002/2014MS000363</doi>
+              <unstructured_citation>Small, R. J., Bacmeister, J., Bailey, D. A., Baker, A., Bishop, S., Bryan, F. O., Caron, J., Dennis, J., Gent, P. R., Hsu, H.-M., Jochum, M., Lawrence, D. M., Munoz Acevedo, E., diNezio, P., Scheitlin, T., Tomas, R., Tribbia, J., Tseng, Y., and Vertenstein, M.: A new synoptic-scale resolving global climate simulation using the Community Earth System Model, J. Adv. Model. Earth Syst., 6, 1065–1094, https://doi.org/10.1002/2014MS000363, 2014a.</unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <doi provider="crossref">10.1007/s00382-013-1980-9</doi>
+              <unstructured_citation>Small, R. J., Tomas, R. A., and Bryan, F. O.: Storm track response to ocean fronts in a global high-resolution climate model, Clim. Dynam., 43, 805–828, 2014b.</unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.1175/JCLI-D-15-0192.1</doi>
+              <unstructured_citation>Small, R. J., Curchitser, E., Hedstrom, K., Kauffman, B., and Large, W. G.: The Benguela upwelling system: Quantifying the sensitivity to resolution and coastal wind representation in a global climate model, J. Climate, 28, 9409–9432, https://doi.org/10.1175/JCLI-D-15-0192.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <doi provider="crossref">10.1175/1520-0485(2000)030&lt;1532:NSOTNA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Smith, R. D., Maltrud, M. E., Bryan, F. O., and Hecht, M. W.: Numerical Simulation of the North Atlantic Ocean at 1/10°, J. Phys. Oceanogr., 30, 1532–1561, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <doi provider="crossref">10.1175/1520-0493(1994)122&lt;2461:SOTNSM&gt;2.0.CO;2</doi>
+              <unstructured_citation>Sperber, K. R., Sultan, H., Potter, G. L., and Boyle, J. S.: Simulation of the Northern summer monsoon in the ECMWF model: sensitivity to horizontal resolution, Mon. Weather Rev., 122, 2461–2481, https://doi.org/10.1175/1520-0493(1994)122&amp;amp;lt;2461:SOTNSM&amp;amp;gt;2.0.CO;2, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <doi provider="crossref">10.1007/s00382-007-0251-z</doi>
+              <unstructured_citation>Sterl, A., van Oldenborgh, G. J., Hazeleger, W., and Burgers, G.: On the Robustness of ENSO teleconnenctions, Clim. Dynam., 29, 469–485, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <doi provider="crossref">10.5194/gmd-2016-189</doi>
+              <unstructured_citation>Stevens, B., Fiedler, S., Kinne, S., Peters, K., Rast, S., Müsse, J., Smith, S. J., and Mauritsen, T.: Simple Plumes: A parameterization of anthropogenic aerosol optical properties and an associated Twomey effect for climate studies, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-189, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <doi provider="crossref">10.1175/JCLI-D-12-00012.1</doi>
+              <unstructured_citation>Strachan, P., Vidale, P. L., Hodges, K., Roberts, M., and Demory, M. E.: Investigating global tropical cyclone activity with a hierarchy of agcms: the role of model resolution, J. Climate, 26, 133–152. https://doi.org/10.1175/JCLI-D-12-00012.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <doi provider="crossref">10.1256/003590002320373283</doi>
+              <unstructured_citation>Sutton, R. and Mathieu, P.-P.: Response of the atmosphere–ocean mixed-layer system to anomalous ocean heat-flux convergence, Q. J. Roy. Meteor. Soc., 128, 1259–1275, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An overview of CMIP5 and the experiment design, B. Am. Meteorol. Soc., 93, 485–498, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <doi provider="crossref">10.1098/rsta.2007.2076</doi>
+              <unstructured_citation>Tebaldi, C. and Knutti, R.: The use of the multi-model ensemble in probabilistic climate projections, Philos. T. Roy. Soc., 365, 2053–2075, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref120">
+              <doi provider="crossref">10.1002/2013JD020316</doi>
+              <unstructured_citation>Titchner, H. A. and Rayner, N. A.: The Met Office Hadley Centre sea ice and sea surface temperature data set, version 2: 1. Sea ice concentrations, J. Geophys. Res.-Atmos., 119, 2864–2889, https://doi.org/10.1002/2013JD020316, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref121">
+              <doi provider="crossref">10.1175/JCLI-D-14-00279.1</doi>
+              <unstructured_citation>Van Haren, R., Haarsma, R. J., van Oldenborgh, G. J., and Hazeleger, W.: Resolution dependence of European precipitation in a state-of-the-art atmospheric general circulation model, J. Climate, 28, 5134–5149, https://doi.org/10.1175/JCLI-D-14-00279.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref122">
+              <doi provider="crossref">10.1088/1748-9326/10/5/055002</doi>
+              <unstructured_citation>Van Haren, R., Haarsma, R. J., de Vries, H., van Oldenborgh, G. J., and Hazeleger, W.: Resolution dependence of circulation forced future central European summer drying, Environ. Res. Lett., 10, 055002, https://doi.org/10.1088/1748-9326/10/5/055002, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref123">
+              <doi provider="crossref">10.1002/2015GL066690</doi>
+              <unstructured_citation>Vellinga, M., Roberts, M., Vidale, P. L., Mizielinski, M., Demory, M.-E., Schiemann, R., Strachan, J., Bain, C., Kettleborough, J., Good, P., Edmond, I., and Hibling, E.: Organised convection as the main carrier of Sahel rainfall variability at multi-annual timescales, Geophys. Res. Lett., 43, 326–333, https://doi.org/10.1002/2015GL066690, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref124">
+              <doi provider="crossref">10.1175/JCLI-D-13-00780.1</doi>
+              <unstructured_citation>Villarini, G., Lavers, D. A., Scoccimarro, E., Zhao, M., Wehner, M. F., Vecchi, G., and Knutson, T.: Sensitivity of tropical cyclone rainfall to idealized global scale forcings, J. Climate, 27, 4622–4641, https://doi.org/10.1175/JCLI-D-13-00780.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref125">
+              <doi provider="crossref">10.1007/s00382-012-1298-z</doi>
+              <unstructured_citation>Walsh, K., Lavender, S., Scoccimarro, E., and Murakami, H.: Resolution dependence of tropical cyclone formation in CMIP3 and finer resolution models, Clim. Dynam., 40, 585–599, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref126">
+              <doi provider="crossref">10.1175/BAMS-D-13-00242.1</doi>
+              <unstructured_citation>Walsh, K., Camargo, S. J., Vecchi, G. A., Daloz, A. S., Elsner, J., Emanuel, K., Horn, J. M., Lim, Y.-K., Roberts, M., Patricola, C., Scoccimarro, E., Sobel, A., Strazzo, S., Villarini, G., Wehner, M., Zhao, M., Kossin, J. P., LaRow, T., Oouchi, K., Schubert, S., Wang, H., Bacmeister, J., Chang, P., Chauvin, F., Jablonowski, C., Kumar, A., Murakami, H., Ose, T., Reed, K. A., Saravanan, R., Yamada, Y., Zarzycki, C. M., Vidale, P. L., Jonas, J. A., and Henderson, N.: Hurricanes and climate: the U.S. CLIVAR working group on hurricanes, B. Am. Meterol. Soc., 96, 997–1017, https://doi.org/10.1175/BAMS-D-13-00242.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref127">
+              <doi provider="crossref">10.1029/2005GL022734</doi>
+              <unstructured_citation>Wang, B., Ding, Q., Fu, X., Kang, I.-S., Jin, K., Shukla, J., and Doblas-Reyes, F.: Fundamental challenge in simulation and prediction of summer monsoon rainfall, Geophys. Res. Lett., 32, L15711, https://doi.org/10.1029/2005GL022734, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref128">
+              <doi provider="crossref">10.1175/BAMS-D-12-00136.1</doi>
+              <unstructured_citation>Watterson, I. G., Bathols, J., and Heady, C.: What influences the skill of climate models over the continents?, B. Am. Meteorol. Soc., 95, 689–700, https://doi.org/10.1175/BAMS-D-12-00136.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref129">
+              <doi provider="crossref">10.1007/s00382-009-0656-y</doi>
+              <unstructured_citation>Wehner, M. F., Smith, R., Duffy, P., and Bala, G.: The effect of horizontal resolution on simulation of very extreme US precipitation events in a global atmosphere model, Clim. Dynam., 32, 241–247, https://doi.org/10.1007/s00382-009-0656-y, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref130">
+              <doi provider="crossref">10.1007/s00382-009-0554-3</doi>
+              <unstructured_citation>Woollings, T., Hoskins, B., Blackburn, M., Hassell, D., and Hodges K.: Storm track sensitivity to sea surface temperature resolution in a regional atmosphere model, Clim. Dynam., 35, 341–353, https://doi.org/10.1007/s00382-009-0554-3, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref131">
+              <doi provider="crossref">10.1007/s00382-007-0246-9</doi>
+              <unstructured_citation>Wu, R. and Kirtman, B. P.: Regimes of seasonal air-sea interaction and implications for performance of forced simulations, Clim. Dynam, 29, 393–410, https://doi.org/10.1007/s00382-007-0246-9, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref132">
+              <doi provider="crossref">10.1175/MWR-D-11-00309.1</doi>
+              <unstructured_citation>Yoshida, R. and Ishikawa, H.: Environmental factors contributing to tropical cyclone genesis over the western North Pacific, Mon. Weather Rev., 141, 451–467, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref133">
+              <doi provider="crossref">10.1175/MWR-D-14-00064.1</doi>
+              <unstructured_citation>Zappa, G., Shaffrey, L., and Hodges, K.: Can polar lows be objectively identified and tracked in the ECMWF operational analysis and the ERA-Interim reanalysis?, Mon. Weather Rev., 142, 2596–2608, https://doi.org/10.1175/MWR-D-14-00064.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref134">
+              <doi provider="crossref">10.1029/1999JC900158</doi>
+              <unstructured_citation>Zhang, Y., Maslowski, W., and Semtner, A. J.: Impact of mesoscale ocean currents on sea ice in high-resolution Arctic ice and ocean simulations, J. Geophys. Res., 104, 18409–18429, https://doi.org/10.1029/1999JC900158, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref135">
+              <doi provider="crossref">10.1175/2009JCLI3049.1</doi>
+              <unstructured_citation>Zhao, M., Held, I. M., Lin, S. J., and Vecchi, G. A.: Simulations of Global Hurricane Climatology, Interannual Variability, and Response to Global Warming Using a 50 km Resolution GCM, J. Climate, 33, 6653–6678, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref136">
+              <doi provider="crossref">10.1175/1520-0493(1998)126&lt;0725:APAFMF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Zhu, Y. and Newell, R. E.: A proposed algorithm for moisture fluxes from atmospheric rivers, Mon. Weather Rev., 126, 725–735, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref137">
+              <doi provider="crossref">10.3390/rs5020927</doi>
+              <unstructured_citation>Zhu, Z., Bi, J., Pan, Y., Ganguly, S., Anav, A., Xu, L., Samanta, A., Piao, S., Nemani, R. R., and Myneni, R. B.: Global data sets of vegetation leaf area index (LAI) 3g and fraction of photosynthetically active radiation (FPAR) 3g derived from global inventory modeling and mapping studies (GIMMS) normalized difference vegetation index (NDVI3g) for the period 1981 to 2011, Remote Sens, 5, 927–948, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref138">
+              <doi provider="crossref">10.1175/BAMS-D-15-00274.1</doi>
+              <unstructured_citation>Zuidema, P., Chang, P., Medeiros, B., Kirtman, B. P., Mechoso, R., Schneider, E. K., Toniazzo, T., Richter, I., Small, R. J., Bellomo, K., Brandt, P., de Szoeke, S., Farrar, J. T., Jung, E., Kato, S., Li, M., Patricola, C. M., Wang, Z., Wood, R., and Xu, Z.: Challenges and Prospects for Reducing Coupled Climate Model SST Biases in the eastern tropical Atlantic and Pacific Oceans: The US CLIVAR Eastern Tropical Oceans Synthesis Working Group, B. Am. Meterol. Soc., https://doi.org/10.1175/BAMS-D-15-00274.1, in press, 2016.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

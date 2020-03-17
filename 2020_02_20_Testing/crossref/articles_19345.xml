@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Linking hydraulic traits to tropical forest function in a size-structured and trait-driven model (TFS v.1-Hydro)</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Bradley O.</given_name>
+              <surname>Christoffersen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Manuel</given_name>
+              <surname>Gloor</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sophie</given_name>
+              <surname>Fauset</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nikolaos M.</given_name>
+              <surname>Fyllas</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David R.</given_name>
+              <surname>Galbraith</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Timothy R.</given_name>
+              <surname>Baker</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bart</given_name>
+              <surname>Kruijt</surname>
+              <ORCID>https://orcid.org/0000-0002-6186-1731</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lucy</given_name>
+              <surname>Rowland</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rosie A.</given_name>
+              <surname>Fisher</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Oliver J.</given_name>
+              <surname>Binks</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sanna</given_name>
+              <surname>Sevanto</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chonggang</given_name>
+              <surname>Xu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Steven</given_name>
+              <surname>Jansen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brendan</given_name>
+              <surname>Choat</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Maurizio</given_name>
+              <surname>Mencuccini</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nate G.</given_name>
+              <surname>McDowell</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Patrick</given_name>
+              <surname>Meir</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Forest ecosystem models based on heuristic water stress functions poorly predict tropical forest response to drought partly because they do not capture the diversity of hydraulic traits (including variation in tree size) observed in tropical forests. We developed a continuous porous media approach to modeling plant hydraulics in which all parameters of the constitutive equations are biologically interpretable and measurable plant hydraulic traits (e.g., turgor loss point <i>π</i><sub>tlp</sub>, bulk elastic modulus <i>ε</i>, hydraulic capacitance <i>C</i><sub>ft</sub>, xylem hydraulic conductivity <i>k</i><sub>s,max</sub>, water potential at 50<span class="thinspace"></span>% loss of conductivity for both xylem (<i>P</i><sub>50,x</sub>) and stomata (<i>P</i><sub>50,gs</sub>), and the leaf<span class="thinspace"></span>:<span class="thinspace"></span>sapwood area ratio <i>A</i><sub>l</sub> : <i>A</i><sub>s</sub>). We embedded this plant hydraulics model within a trait forest simulator (TFS) that models light environments of individual trees and their upper boundary conditions (transpiration), as well as providing a means for parameterizing variation in hydraulic traits among individuals. We synthesized literature and existing databases to parameterize all hydraulic traits as a function of stem and leaf traits, including wood density (WD), leaf mass per area (LMA), and photosynthetic capacity (<i>A</i><sub><mo>max</mo></sub>), and evaluated the coupled model (called TFS v.1-Hydro) predictions, against observed diurnal and seasonal variability in stem and leaf water potential as well as stand-scaled sap flux. <br><br> Our hydraulic trait synthesis revealed coordination among leaf and xylem hydraulic traits and statistically significant relationships of most hydraulic traits with more easily measured plant traits. Using the most informative empirical trait–trait relationships derived from this synthesis, TFS v.1-Hydro successfully captured individual variation in leaf and stem water potential due to increasing tree size and light environment, with model representation of hydraulic architecture and plant traits exerting primary and secondary controls, respectively, on the fidelity of model predictions. The plant hydraulics model made substantial improvements to simulations of total ecosystem transpiration. Remaining uncertainties and limitations of the trait paradigm for plant hydraulics modeling are highlighted.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>24</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>4227</first_page>
+            <last_page>4255</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Seventh Framework Programme
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100004963</assertion>
+              </assertion>
+              <assertion name="award_number">282664</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Biological and Environmental Research
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006206</assertion>
+              </assertion>
+              <assertion name="award_number">NGEE-Tropics</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.15486/NGT/1256473</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.15486/NGT/1256474</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-4227-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/4227/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/4227/2016/gmd-9-4227-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Alton, P., Fisher, R., Los, S., and Williams, M.: Simulations of global evapotranspiration using semiempirical and mechanistic schemes of plant hydrology, Global Biogeochem. Cy., 23, GB4023, https://doi.org/10.1029/2009GB003540, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Anderegg, W. R. L.: Spatial and temporal variation in plant hydraulic traits and their relevance for climate change impacts on vegetation, New Phytol., 205, 1008–1014, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Arbogast, T., Obeyesekere, M., and Wheeler, M.: Numerical Methods for the Simulation of Flow in Root-Soil Systems, SIAM J. Numer. Anal., 30, 1677–1702, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Baker, T. R., Phillips, O. L., Malhi, Y., Almeida, S., Arroyo, L., Di Fiore, A., Erwin, T., Killeen, T., Laurance, S., Laurance, W. F., Lewis, S. L., Lloyd, J., Monteagudo, A., Neill, D., Patino, S., Pitman, N. C. A., Silva, J. N. M., and Vasquez Martinez, R.: Variation in wood density determines spatial patterns in Amazonian forest biomass, Glob. Change Biol., 10, 545–562, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Baltzer, J. L., Davies, S. J., Bunyavejchewin, S., and Noor, N. S. M.: The role of desiccation tolerance in determining tree species distributions along the Malay-Thai Peninsula, Funct. Ecol., 22, 221–231, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Baraloto, C., Timothy Paine, C. E., Poorter, L., Beauchene, J., Bonal, D., Domenach, A.-M., Hérault, B., Patiño, S., Roggy, J.-C., and Chave, J.: Decoupled leaf and stem economics in rain forest trees, Ecol. Lett., 13, 1338–1347, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Bartlett, M. K., Scoffoni, C., and Sack, L.: The determinants of leaf turgor loss point and prediction of drought tolerance of species and biomes: a global meta-analysis, Ecol. Lett., 15, 393–405, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Bennett, A. C., McDowell, N. G., Allen, C. D., and Anderson-Teixeira, K. J.: Larger trees suffer most during drought in forests worldwide, Nat. Plants, 1, 15139, https://doi.org/10.1038/nplants.2015.139, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Bentley, L. P., Stegen, J. C., Savage, V. M., Smith, D. D., von Allmen, E. I., Sperry, J. S., Reich, P. B., and Enquist, B. J.: An empirical assessment of tree branching networks and implications for plant allometric scaling models, Ecol. Lett., 16, 1069–1078, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Binks, O., Meir, P., Rowland, L., da Costa, A. C. L., Vasconcelos, S. S., de Oliveira, A. A. R., Ferreira, L., Christoffersen, B., Nardini, A., and Mencuccini, M.: Plasticity in leaf-level water relations of tropical rainforest trees in response to experimental drought, New Phytol., 211, 477–488, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Bohlman, S. and Pacala, S.: A forest structure model that determines crown layers and partitions growth and mortality rates for landscape-scale applications of tropical forests, J. Ecol., 100, 508–518, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Bohrer, G., Mourad, H., Laursen, T. A., Drewry, D., Avissar, R., Poggi, D., Oren, R., and Katul, G. G.: Finite element tree crown hydrodynamics model (FETCH) using porous media flow within branching elements: A new representation of tree hydrodynamics, Water Resour. Res., 41, W11404, https://doi.org/10.1029/2005WR004181, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Boisier, J. P., Ciais, P., Ducharne, A., and Guimberteau, M.: Projected strengthening of Amazonian dry season by constrained climate model simulations, Nature Clim. Change, 5, 656–660, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Bonan, G. B., Williams, M., Fisher, R. A., and Oleson, K. W.: Modeling stomatal conductance in the earth system: linking leaf water-use efficiency and water transport along the soil–plant–atmosphere continuum, Geosci. Model Dev., 7, 2193–2222, https://doi.org/10.5194/gmd-7-2193-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Borchert, R.: Soil and Stem Water Storage Determine Phenology and Distribution of Tropical Dry Forest Trees, Ecology, 75, 1437–1449, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Bouche, P. S., Delzon, S., Choat, B., Badel, E., Brodribb, T. J., Burlett, R., Cochard, H., Charra-Vaskou, K., Lavigne, B., Li, S., Mayr, S., Morris, H., Torres Ruiz, J. M., Zufferey, V., and Jansen, S.: Are needles of Pinus pinaster more vulnerable to xylem embolism than branches? New insights from X-ray computed tomography, Plant Cell Environ., 39, 860–870, https://doi.org/10.1111/pce.12680, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Brodribb, T. J., Holbrook, N. M., and Gutierrez, M. V.: Hydraulic and photosynthetic co-ordination in seasonally dry tropical forest trees, Plant Cell Environ., 25, 1435–1444, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Brodribb, T. J., Holbrook, N. M., Edwards, E. J., and Gutierrez, M. V.: Relations between stomatal closure, leaf turgor and xylem vulnerability in eight tropical dry forest trees, Plant Cell Environ., 26, 443–450, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Brodribb, T. J., Skelton, R. P., McAdam, S. A. M., Bienaimé, D., Lucani, C. J., and Marmottant, P.: Visual quantification of embolism reveals leaf vulnerability to hydraulic failure, New Phytol., 209, 1403–1409, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Buckley, T. N.: The control of stomata by water balance, New Phytol., 168, 275–292, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Buckley, T. N.: The contributions of apoplastic, symplastic and gas phase pathways for water transport outside the bundle sheath in leaves, Plant Cell Environ., 38, 7–22, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Cai, W., Borlace, S., Lengaigne, M., van Rensch, P., Collins, M., Vecchi, G., Timmermann, A., Santoso, A., McPhaden, M. J., Wu, L., England, M. H., Wang, G., Guilyardi, E., and Jin, F.-F.: Increasing frequency of extreme El Nino events due to greenhouse warming, Nature Clim. Change, 4, 111–116, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Calvo-Alvarado, J. C., McDowell, N. G., and Waring, R. H.: Allometric relationships predicting foliar biomass and leaf area:sapwood area ratio from tree height in five Costa Rican rain forest species, Tree Physiol., 28, 1601–1608, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Carswell, F. E.: Seasonality in CO2 and H2O flux at an eastern Amazonian rain forest, J. Geophys. Res., 107, 8076, https://doi.org/10.1029/2000JD000284, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Chapotin, S. M., Razanameharizaka, J. H., and Holbrook, N. M.: Water relations of baobab trees (Adansonia spp. L.) during the rainy season: does stem water buffer daily water deficits?, Plant Cell Environ., 29, 1021–1032, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Chave, J., Coomes, D., Jansen, S., Lewis, S. L., Swenson, N. G., and Zanne, A. E.: Towards a worldwide wood economics spectrum, Ecol. Lett., 12, 351–366, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Choat, B., Sack, L., and Holbrook, N. M.: Diversity of hydraulic traits in nine Cordia species growing in tropical forests with contrasting precipitation, New Phytol., 175, 686–698, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Choat, B., Cobb, A. R., and Jansen, S.: Structure and function of bordered pits: new discoveries and impacts on whole-plant hydraulic function, New Phytol., 177, 608–626, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Choat, B., Drayton, W. M., Brodersen, C., Matthews, M. A., Shackel, K. A., Wada, H., and McElrone, A. J.: Measurement of vulnerability to water stress-induced cavitation in grapevine: a comparison of four techniques applied to a long-vesseled species, Plant Cell Environ., 33, 1502–1512, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Choat, B., Jansen, S., Brodribb, T. J., Cochard, H., Delzon, S., Bhaskar, R., Bucci, S. J., Feild, T. S., Gleason, S. M., Hacke, U. G., Jacobsen, A. L., Lens, F., Maherali, H., Martínez-Vilalta, J., Mayr, S., Mencuccini, M., Mitchell, P. J., Nardini, A., Pittermann, J., Pratt, R. B., Sperry, J. S., Westoby, M., Wright, I. J., and Zanne, A. E.: Global convergence in the vulnerability of forests to drought, Nature, 491, 752–755, https://doi.org/10.1038/nature11688, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Christoffersen, B.: Pantropical Tree Sapwood Area Data, 1977–2015, NGEE Tropics Data Collection, https://doi.org/10.15486/NGT/1256473, 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Christoffersen, B.: Pantropical Tree Sapwood Hydraulic Properties, 1991–2014, NGEE Tropics Data Collection, https://doi.org/10.15486/NGT/1256474, 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Christoffersen, B. O., Restrepo-Coupe, N., Arain, M. A., Baker, I. T., Cestaro, B. P., Ciais, P., Fisher, J. B., Galbraith, D., Guan, X., Gulden, L., van den Hurk, B., Ichii, K., Imbuzeiro, H., Jain, A., Levine, N., Miguez-Macho, G., Poulter, B., Roberti, D. R., Sakaguchi, K., Sahoo, A., Schaefer, K., Shi, M., Verbeeck, H., Yang, Z.-L., Araújo, A. C., Kruijt, B., Manzi, A. O., da Rocha, H. R., von Randow, C., Muza, M. N., Borak, J., Costa, M. H., Gonçalves de Gonçalves, L. G., Zeng, X., and Saleska, S. R.: Mechanisms of water supply and vegetation demand govern the seasonality and magnitude of evapotranspiration in Amazonia and Cerrado, Agr. Forest Meteorol., 191, 33–50, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Clapp, R. B. and Hornberger, G. M.: Empirical equations for some soil hydraulic properties, Water Resour. Res., 14, 601–604, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Cochard, H., Herbette, S., Barigah, T., Badel, E., Ennajeh, M., and Vilagrosa, A.: Does sample length influence the shape of xylem embolism vulnerability curves? A test with the Cavitron spinning technique, Plant Cell Environ., 33, 1543–1552, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Condit, R., Engelbrecht, B. M. J., Pino, D., Pérez, R., and Turner, B. L.: Species distributions in response to individual soil nutrients and seasonal drought across a community of tropical trees, P. Natl. Acad. Sci., 110, 5064–5068, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Corner, E. J. H.: The Durian Theory or the Origin of the Modern Tree, Ann. Bot.-London, 13, 367–414, 1949.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Cosby, B. J., Hornberger, G. M., Clapp, R. B., and Ginn, T. R.: A statistical exploration of the relationships of soil moisture characteristics to the physical properties of soils, Water Resour. Res., 20, 682–690, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>da Costa, A. C. L., Galbraith, D., Almeida, S., Portela, B. T. T., da Costa, M., de Athaydes Silva Junior, J., Braga, A. P., de Gonçalves, P. H. L., de Oliveira, A. A. R., Fisher, R., Phillips, O. L., Metcalfe, D. B., Levy, P., and Meir, P.: Effect of 7 yr of experimental drought on vegetation dynamics and biomass storage of an eastern Amazonian rainforest, New Phytol., 187, 579–591, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Darcy, H.: Les fontaines publiques de la ville de Dijon: exposition et application, Victor Dalmont, Paris, France, 1856.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>da Rocha, H. R., Manzi, A. O., Cabral, O. M., Miller, S. D., Goulden, M. L., Saleska, S. R., Coupe, N. R., Wofsy, S. C., Borma, L. S., Artaxo, P., Vourlitis, G., Nogueira, J. S., Cardoso, F. L., Nobre, A. D., Kruijt, B., Freitas, H. C., von Randow, C., Aguiar, R. G., and Maia, J. F.: Patterns of water and heat flux across a biome gradient from tropical forest to savanna in Brazil, J. Geophys. Res.-Biogeo., 114, G00B12, https://doi.org/10.1029/2007JG000640, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Ding, Y., Zhang, Y., Zheng, Q.-S., and Tyree, M. T.: Pressure–volume curves: revisiting the impact of negative turgor during cell collapse by literature review and simulations of cell micromechanics, New Phytol., 203, 378–387, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Domec, J.-C., Ogée, J., Noormets, A., Jouangy, J., Gavazzi, M., Treasure, E., Sun, G., McNulty, S. G., and King, J. S.: Interactive effects of nocturnal transpiration and climate change on the root hydraulic redistribution and carbon and water budgets of southern United States pine plantations, Tree Physiol., 32, 707–723, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Domingues, T. F., Meir, P., Feldpausch, T. R., Saiz, G., Veenendaal, E. M., Schrodt, F., Bird, M., Djagbletey, G., Hien, F., Compaore, H., Diallo, A., Grace, J., and Lloyd, J.: Co-limitation of photosynthetic capacity by nitrogen and phosphorus in West Africa woodlands, Plant Cell Environ., 33, 959–980, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Duursma, R. A. and Medlyn, B. E.: MAESPA: a model to study interactions between water limitation, environmental drivers and vegetation function at tree and stand levels, with an example application to [CO2]  ×  drought interactions, Geosci. Model Dev., 5, 919–940, https://doi.org/10.5194/gmd-5-919-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Edwards, W. R. N., Jarvis, P. G., Landsberg, J. J., and Talbot, H.: A dynamic model for studying flow of water in single trees, Tree Physiol., 1, 309–324, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Egea, G., Verhoef, A., and Vidale, P. L.: Towards an improved and more flexible representation of water stress in coupled photosynthesis–stomatal conductance models, Agr. Forest Meteorol., 151, 1370–1384, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Engelbrecht, B. J. and Kursar, T.: Comparative drought-resistance of seedlings of 28 species of co-occurring tropical woody plants, Oecologia, 136, 383–393, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Engelbrecht, B. M. J., Comita, L. S., Condit, R., Kursar, T. A., Tyree, M. T., Turner, B. L., and Hubbell, S. P.: Drought sensitivity shapes species distribution patterns in tropical forests, Nature, 447, 80–82, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Enquist, B. J. and Enquist, C. A. F.: Long-term change within a Neotropical forest: assessing differential functional and floristic responses to disturbance and drought, Glob. Change Biol., 17, 1408–1424, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Fauset, S., Baker, T. R., Lewis, S. L., Feldpausch, T. R., Affum-Baffoe, K., Foli, E. G., Hamer, K. C., Swaine, M. D., and Etienne, R.: Drought-induced shifts in the floristic and functional composition of tropical forests in Ghana, Ecol. Lett., 15, 1120–1129, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Feddes, R. A., Kowalik, P. J., and Zaradny, H.: Simulation of Field Water Use and Crop Yield, John Wiley, New York, USA, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Feng, X., Porporato, A., and Rodriguez-Iturbe, I.: Changes in rainfall seasonality in the tropics, Nature Clim. Change, 3, 811–815, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Fichtler, E. and Worbes, M.: Wood anatomical variables in tropical trees and their relation to site conditions and individual tree morphology, IAWA J., 33, 119–140, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Fisher, R. A., Williams, M., Do Vale, R. L., Da Costa, A. L., and Meir, P.: Evidence from Amazonian forests is consistent with isohydric control of leaf water potential, Plant Cell Environ., 29, 151–165, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Fisher, R. A., Williams, M., da Costa, A. L., Malhi, Y., da Costa, R. F., Almeida, S., and Meir, P.: The response of an Eastern Amazonian rain forest to drought stress: results and modelling analyses from a throughfall exclusion experiment, Glob. Change Biol., 13, 2361–2378, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Fisher, R. A., Muszala, S., Verteinstein, M., Lawrence, P., Xu, C., McDowell, N. G., Knox, R. G., Koven, C., Holm, J., Rogers, B. M., Spessa, A., Lawrence, D., and Bonan, G.: Taking off the training wheels: the properties of a dynamic vegetation model without climate envelopes, CLM4.5(ED), Geosci. Model Dev., 8, 3593–3619, https://doi.org/10.5194/gmd-8-3593-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Fu, R., Yin, L., Li, W., Arias, P. A., Dickinson, R. E., Huang, L., Chakraborty, S., Fernandes, K., Liebmann, B., Fisher, R., and Myneni, R. B.: Increased dry-season length over southern Amazonia in recent decades and its implication for future climate projection, P. Natl. Acad. Sci., 110, 18110–18115, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Fyllas, N. M., Patiño, S., Baker, T. R., Bielefeld Nardoto, G., Martinelli, L. A., Quesada, C. A., Paiva, R., Schwarz, M., Horna, V., Mercado, L. M., Santos, A., Arroyo, L., Jiménez, E. M., Luizão, F. J., Neill, D. A., Silva, N., Prieto, A., Rudas, A., Silviera, M., Vieira, I. C. G., Lopez-Gonzalez, G., Malhi, Y., Phillips, O. L., and Lloyd, J.: Basin-wide variations in foliar properties of Amazonian forest: phylogeny, soils and climate, Biogeosciences, 6, 2677-2708, https://doi.org/10.5194/bg-6-2677-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Fyllas, N. M., Gloor, E., Mercado, L. M., Sitch, S., Quesada, C. A., Domingues, T. F., Galbraith, D. R., Torre-Lezama, A., Vilanova, E., Ramírez-Angulo, H., Higuchi, N., Neill, D. A., Silveira, M., Ferreira, L., Aymard C., G. A., Malhi, Y., Phillips, O. L., and Lloyd, J.: Analysing Amazonian forest productivity using a new individual and trait-based model (TFS v.1), Geosci. Model Dev., 7, 1251–1269, https://doi.org/10.5194/gmd-7-1251-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Galbraith, D., Levy, P. E., Sitch, S., Huntingford, C., Cox, P., Williams, M., and Meir, P.: Multiple mechanisms of Amazonian forest biomass losses in three dynamic global vegetation models under climate change, New Phytol., 187, 647–665, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Gash, J. H. C. and Nobre, C. A.: Climatic effects of Amazonian deforestation: Some results from ABRACOS, B. Am. Meteorol. Soc., 78, 823–830, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Gleason, S. M., Westoby, M., Jansen, S., Choat, B., Hacke, U. G., Pratt, R. B., Bhaskar, R., Brodribb, T. J., Bucci, S. J., Cao, K.-F., Cochard, H., Delzon, S., Domec, J.-C., Fan, Z.-X., Feild, T. S., Jacobsen, A. L., Johnson, D. M., Lens, F., Maherali, H., Martínez-Vilalta, J., Mayr, S., McCulloh, K. A., Mencuccini, M., Mitchell, P. J., Morris, H., Nardini, A., Pittermann, J., Plavcová, L., Schreiber, S. G., Sperry, J. S., Wright, I. J., and Zanne, A. E.: Weak tradeoff between xylem safety and xylem-specific hydraulic efficiency across the world's woody plant species, New Phytol., 209, 123–136, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Gloor, M., Brienen, R. J. W., Galbraith, D., Feldpausch, T. R., Schöngart, J., Guyot, J. L., Espinoza, J. C., Lloyd, J., and Phillips, O. L.: Intensification of the Amazon hydrological cycle over the last two decades, Geophys. Res. Lett., 40, 1729–1733, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Hallé, F., Oldeman, R., and Tomlinson, P.: Tropical Trees and Forests: An Architectural Analysis, Springer-Verlag, New York, USA, 441, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Hasler, N. and Avissar, R.: What controls evapotranspiration in the amazon basin?, J. Hydrometeorol., 8, 380–395, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Hickler, T., Prentice, I. C., Smith, B., Sykes, M. T., and Zaehle, S.: Implementing plant hydraulic architecture within the LPJ Dynamic Global Vegetation Model, Global Ecol. Biogeogr., 15, 567–577, https://doi.org/10.1111/j.1466-8238.2006.00254.x, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Holtta, T., Cochard, H., Nikinmaa, E., and Mencuccini, M.: Capacitive effect of cavitation in xylem conduits: results from a dynamic model, Plant Cell Environ., 32, 10–21, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Horna, V., Schuldt, B., Brix, S., and Leuschner, C.: Environment and tree size controlling stem sap flux in a perhumid tropical forest of Central Sulawesi, Indonesia, Ann. For. Sci., 68, 1027–1038, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Jansen, S. and Schenk, H. J.: On the ascent of sap in the presence of bubbles, Am. J. Bot., 102, 1561–1563, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Jansen, S., Choat, B., and Pletsers, A.: Morphological variation of intervessel pit membranes and implications to xylem function in angiosperms, Am. J. Bot., 96, 409–419, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <unstructured_citation>Jansen, S., Schuldt, B., and Choat, B.: Current controversies and challenges in applying plant hydraulic techniques: International Workshop on Plant Hydraulic Techniques, Ulm University, Germany, September 2014, New Phytol., 205, 961–964, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Jarvis, P. G.: The interpretation of the variations in leaf water potential and stomatal conductance found in canopies in the field, Philos. T. Roy. Soc. B, 273, 593–610, 1976.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Jarvis, P. G., Edwards, W. R. N., and Talbot, H.: Models of plant and crop water use, in: Mathematics and Plant Physiology, edited by: Rose, E. D. and Charles-Edwards, D. A., Academic Press, London, UK, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Joetzjer, E., Douville, H., Delire, C., and Ciais, P.: Present-day and future Amazonian precipitation in global climate models: CMIP5 versus CMIP3, Clim. Dynam., 41, 2921–2936, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <unstructured_citation>Joetzjer, E., Delire, C., Douville, H., Ciais, P., Decharme, B., Fisher, R., Christoffersen, B., Calvet, J. C., da Costa, A. C. L., Ferreira, L. V., and Meir, P.: Predicting the response of the Amazon rainforest to persistent drought conditions under current and future climates: a major challenge for global land surface models, Geosci. Model Dev., 7, 2933–2950, https://doi.org/10.5194/gmd-7-2933-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Johnson, M. O., Galbraith, D., Gloor, E., De Deurwaerder, H., Guimberteau, M., Rammig, A., Thonicke, K., Verbeeck, H., von Randow, C., Monteagudo, A., Phillips, O. L., Brienen, R. J. W., Feldpausch, T. R., Lopez Gonzalez, G., Fauset, S., Quesada, C. A., Christoffersen, B., Ciais, P., Gilvan, S., Kruijt, B., Meir, P., Moorcroft, P., Zhang, K., Alvarez, E. A., Alves de Oliveira, A., Amaral, I., Andrade, A., Aragao, L. E. O. C., Araujo-Murakami, A., Arets, E. J. M. M., Arroyo, L., Aymard, G. A., Baraloto, C., Barroso, J., Bonal, D., Boot, R., Camargo, J., Chave, J., Cogollo, A., Cornejo, F. V., Costa, L. D., di Fiore, A., Ferreira, L., Higuchi, N., Honorio, E., Killeen, T. J., Laurance, S. G., Laurance, W. F., Licona, J., Lovejoy, T., Malhi, Y., Marimon, B., Marimon, B. H. J., Matos, D. C. L., Mendoza, C., Neill, D. A., Pardo, G., Peña-Claros, M., Pitman, N. C. A., Poorter, L., Prieto, A., Ramirez-Angulo, H., Roopsind, A., Rudas, A., Salomao, R. P., Silveira, M., Stropp, J., ter Steege, H., Terborgh, J., Thomas, R., Toledo, M., Torres-Lezama, A., van der Heijden, G. M. F., Vasquez, R., Vieira, I., Vilanova, E., Vos, V. A., and Baker, T. R.: Variation in stem mortality rates determines patterns of aboveground biomass in Amazonian forests: implications for dynamic global vegetation models, Glob. Change Biol., 22, 3996–4013, https://doi.org/10.1111/gcb.13315, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Klein, T.: The variability of stomatal sensitivity to leaf water potential across tree species indicates a continuum between isohydric and anisohydric behaviours, Funct. Ecol., 28, 1313–1320, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Kumagai, T. O.: Modeling water transportation and storage in sapwood – model development and validation, Agr. Forest Meteorol., 109, 105–115, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Kumagai, T. O. and Porporato, A.: Drought-induced mortality of a Bornean tropical rain forest amplified by climate change, J. Geophys. Res.-Biogeo., 117, G02032, https://doi.org/10.1029/2011JG001835, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Kursar, T. A., Engelbrecht, B. M. J., Burke, A., Tyree, M. T., Ei Omari, B., and Giraldo, J. P.: Tolerance to low leaf water status of tropical tree seedlings is related to drought performance and distribution, Funct. Ecol., 23, 93–102, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Leigh Jr., E. G.: Tropical Forest Ecology: A View from Barro Colorado Island: A View from Barro Colorado Island, Oxford University Press, New York, USA, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Lescure, J.-P., Puig, H., Riera, B., Leclerc, D., Beekman, A., and Beneteau, A.: La phytomasse épigée d'une forêt dense en Guyane française, Acta Oecol., 4, 237–251, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Levine, N. M., Zhang, K., Longo, M., Baccini, A., Phillips, O. L., Lewis, S. L., Alvarez-Dávila, E., Segalin de Andrade, A. C., Brienen, R. J. W., Erwin, T. L., Feldpausch, T. R., Monteagudo Mendoza, A. L., Nuñez Vargas, P., Prieto, A., Silva-Espejo, J. E., Malhi, Y., and Moorcroft, P. R.: Ecosystem heterogeneity determines the ecological resilience of the Amazon to climate change, P. Natl. Acad. Sci., 113, 793–797, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Li, S., Lens, F., Espino, S., Karimi, Z., Klepsch, M., Schenk, H. J., Schmitt, M., Schuldt, B., and Jansen, S.: Intervessel pit membrane thickness as a key determinant of embolism resistance in angiosperm xylem, IAWA J., 37, 152–171, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Lopez, O. R., Kursar, T. A., Chochard, H., and Tyree, M. T.: Interspecfic variation in xylem vulnerability to cavitation among tropical tree and shurb species, Tree Physiol., 25, 1553–1562, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Mackay, D. S., Roberts, D. E., Ewers, B. E., Sperry, J. S., McDowell, N. G., and Pockman, W. T.: Interdependence of chronic hydraulic dysfunction and canopy processes can improve integrated models of tree response to drought, Water Resour. Res., 51, 6156–6176, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Manzoni, S., Vico, G., Katul, G., Palmroth, S., Jackson, R. B., and Porporato, A.: Hydraulic limits on maximum plant transpiration and the emergence of the safety-efficiency trade-off, New Phytol., 198, 169–178, 2013a.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Manzoni, S., Vico, G., Porporato, A., and Katul, G.: Biological constraints on water transport in the soil–plant–atmosphere system, Adv. Water Resour., 51, 292–304, 2013b.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <unstructured_citation>Markesteijn, L., Poorter, L., Bongers, F., Paz, H., and Sack, L.: Hydraulics and life history of tropical dry forest tree species: coordination of species' drought and shade tolerance, New Phytol., 191, 480–495, 2011a.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Markesteijn, L., Poorter, L., Paz, H., Sack, L., and Bongers, F.: Ecological differentiation in xylem cavitation resistance is associated with stem and leaf structural traits, Plant Cell Environ., 34, 137–148, 2011b.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <unstructured_citation>Martinez-Vilalta, J., Poyatos, R., Aguade, D., Retana, J., and Mencuccini, M.: A new look at water transport regulation in plants, New Phytol., 204, 105–115, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <unstructured_citation>McDowell, N. G. and Allen, C. D.: Darcy's law predicts widespread forest mortality under climate warming, Nature Clim. Change, 5, 669–672, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>McDowell, N. G., Barnard, H., Bond, B. J., Hinckley, T., Hubbard, R. M., Ishii, H., Kostner, B., Magnani, F., Marshall, J. D., Meinzer, F. C., Phillips, N., Ryan, M. G., and Whitehead, D.: The relationship between tree height and leaf area: sapwood area ratio, Oecologia, 132, 12–20, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <unstructured_citation>McDowell, N. G., Licata, J., and Bond, B. J.: Environmental sensitivity of gas exchange in different-sized trees, Oecologia, 145, https://doi.org/10.1007/s00442-005-0104-6, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Medlyn, B. E., Duursma, R. A., Eamus, D., Ellsworth, D. S., Prentice, I. C., Barton, C. V. M., Crous, K. Y., De Angelis, P., Freeman, M., and Wingate, L.: Reconciling the optimal and empirical approaches to modelling stomatal conductance, Glob. Change Biol., 17, 2134–2144, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <unstructured_citation>Meinzer, F. C., Campanello, P. I., Domec, J. C., Gatti, M. G., Goldstein, G., Villalobos-Vega, R., and Woodruff, D. R.: Constraints on physiological function associated with branch architecture and wood density in tropical forest trees, Tree Physiol., 28, 1609–1617, 2008a.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <unstructured_citation>Meinzer, F. C., Woodruff, D. R., Domec, J. C., Goldstein, G., Campanello, P. I., Gatti, M. G., and Villalobos-Vega, R.: Coordination of leaf and stem water transport properties in tropical forest trees, Oecologia, 156, 31–41, 2008b.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <unstructured_citation>Meinzer, F. C., McCulloh, K. A., Lachenbruch, B., Woodruff, D. R., and Johnson, D. M.: The blind men and the elephant: the impact of context and scale in evaluating conflicts between plant hydraulic safety and efficiency, Oecologia, 164, 287–296, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <unstructured_citation>Meir, P., Metcalfe, D. B., Costa, A. C. L., and Fisher, R. A.: The fate of assimilated carbon during drought: impacts on respiration in Amazon rainforests, Philos. T. Roy. Soc. B, 363, 1849–1855, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <unstructured_citation>Meir, P., Wood, T. E., Galbraith, D. R., Brando, P. M., Da Costa, A. C. L., Rowland, L., and Ferreira, L. V.: Threshold Responses to Soil Moisture Deficit by Trees and Soil in Tropical Rain Forests: Insights from Field Experiments, Bioscience, 65, 882–892, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <unstructured_citation>Mencuccini, M.: Hydraulic constraints in the functional scaling of trees, Tree Physiol., 22, 553–565, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <unstructured_citation>Mencuccini, M., Hoeltttae, T., Petit, G., and Magnani, F.: Sanio's laws revisited. Size-dependent changes in the xylem architecture of trees, Ecol. Lett., 10, 1084–1093, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <unstructured_citation>Mencuccini, M., Minunno, F., Salmon, Y., Martinez-Vilalta, J., and Holtta, T.: Coordination of physiological traits involved in drought-induced mortality of woody plants, New Phytol., 208, 396–409, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <unstructured_citation>Mendez-Alonzo, R., Paz, H., Zuluaga, R. C., Rosell, J. A., and Olson, M. E.: Coordinated evolution of leaf and stem economics in tropical dry forest trees, Ecology, 93, 2397–2406, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <unstructured_citation>Mirfenderesgi, G., Bohrer, G., Matheny, A. M., Fatichi, S., de Moraes Frasson, R. P., and Schäfer, K. V. R.: Tree level hydrodynamic approach for resolving aboveground water storage and stomatal conductance and modeling the effects of tree hydraulic strategy, J. Geophys. Res.-Biogeo., 121, 1792–1813, https://doi.org/10.1002/2016jg003467, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <unstructured_citation>Moser, G., Schuldt, B., Hertel, D., Horna, V., Coners, H., Barus, H., and Leuschner, C.: Replicated throughfall exclusion experiment in an Indonesian perhumid rainforest: wood production, litter fall and fine root growth under simulated drought, Glob. Change Biol., 20, 1481–1497, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <unstructured_citation>Mualem, Y.: A new model for predicting the hydraulic conductivity of unsaturated porous media, Water Resour. Res., 12, 513–522, 1976.</unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <unstructured_citation>Myers, N., Mittermeier, R. A., Mittermeier, C. G., da Fonseca, G. A. B., and Kent, J.: Biodiversity hotspots for conservation priorities, Nature, 403, 853–858, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <unstructured_citation>Nakagawa, M., Tanaka, K., Nakashizuka, T., Ohkubo, T., Kato, T., Maeda, T., Sato, K., Miguchi, H., Nagamasu, H., Ogino, K., Teo, S., Hamid, A. A., and Seng, L. H.: Impact of severe drought associated with the 1997–1998 El Nino in a tropical forest in Sarawak, J. Trop. Ecol., 16, 355–367, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <unstructured_citation>Nardini, A., Luglio, J., and Thompson, K.: Leaf hydraulic capacity and drought vulnerability: possible trade-offs and correlations with climate across three major biomes, Funct. Ecol., 28, 810–818, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <unstructured_citation>Nepstad, D. C., Tohver, I. M., Ray, D., Moutinho, P., and Cardinot, G.: Mortality of large trees and lianas following experimental drought in an amazon forest, Ecology, 88, 2259–2269, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <unstructured_citation>Nikinmaa, E., Hölttä, T., Hari, P., Kolari, P., Mäkelä, A., Sevanto, S., and Vesala, T.: Assimilate transport in phloem sets conditions for leaf gas exchange, Plant Cell Environ., 36, 655–669, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <unstructured_citation>North, G. B. and Nobel, P. S.: Root-soil contact for the desert succulent Agave deserti in wet and drying soil, New Phytol., 135, 21–29, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <unstructured_citation>Ogée, J., Brunet, Y., Loustau, D., Berbigier, P., and Delzon, S.: MuSICA, a CO2, water and energy multilayer, multileaf pine forest model: evaluation from hourly to yearly time scales and sensitivity analysis, Glob. Change Biol., 9, 697–717, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <unstructured_citation>Oliveira, R. S., Dawson, T. E., Burgess, S. S. O., and Nepstad, D. C.: Hydraulic redistribution in three Amazonian trees, Oecologia, 145, 354–363, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <unstructured_citation>Oliveira, R. S., Christoffersen, B. O., Barros, F. V., Teodoro, G. S., Bittencourt, P., Brum, M. M. J., and Viani, R. A. G.: Changing precipitation regimes and the water and carbon economies of trees, Theoretical and Experimental Plant Physiology, 26, 65–82, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <unstructured_citation>Olson, M. E. and Rosell, J. A.: Vessel diameter-stem diameter scaling across woody angiosperms and the ecological causes of xylem vessel diameter variation, New Phytol., 197, 1204–1213, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <unstructured_citation>Olson, M. E., Anfodillo, T., Rosell, J. A., Petit, G., Crivellaro, A., Isnard, S., Leon-Gomez, C., Alvarado-Cardenas, L. O., and Castorena, M.: Universal hydraulics of the flowering plants: vessel diameter scales with stem length across angiosperm lineages, habits and climates, Ecol. Lett., 17, 988–997, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref120">
+              <unstructured_citation>Patiño, S., Fyllas, N. M., Baker, T. R., Paiva, R., Quesada, C. A., Santos, A. J. B., Schwarz, M., ter Steege, H., Phillips, O. L., and Lloyd, J.: Coordination of physiological and structural traits in Amazon forest trees, Biogeosciences, 9, 775–801, https://doi.org/10.5194/bg-9-775-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref121">
+              <unstructured_citation>Peak, D. and Mott, K. A.: A new, vapour-phase mechanism for stomatal responses to humidity and temperature, Plant Cell Environ., 34, 162–178, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref122">
+              <unstructured_citation>Petit, G. and Anfodillo, T.: Comment on “The blind men and the elephant: the impact of context and scale in evaluating conflicts between plant hydraulic safety and efficiency” by Meinzer et al. (2010), Oecologia, 165, 271–274, discussion 275, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref123">
+              <unstructured_citation>Phillips, O. L., Van Der Heijden, G., Lewis, S. L., López-González, G., Aragão, L. E. O. C., Lloyd, J., Malhi, Y., Monteagudo, A., Almeida, S., Dávila, E. A., Amaral, I., Andelman, S., Andrade, A., Arroyo, L., Aymard, G., Baker, T. R., Blanc, L., Bonal, D., De Oliveira, Á. C. A., Chao, K. J., Cardozo, N. D., Da Costa, L., Feldpausch, T. R., Fisher, J. B., Fyllas, N. M., Freitas, M. A., Galbraith, D., Gloor, E., Higuchi, N., Honorio, E., Jiménez, E., Keeling, H., Killeen, T. J., Lovett, J. C., Meir, P., Mendoza, C., Morel, A., Vargas, P. N., Patiño, S., Peh, K. S. H., Cruz, A. P., Prieto, A., Quesada, C. A., Ramírez, F., Ramírez, H., Rudas, A., Salamão, R., Schwarz, M., Silva, J., Silveira, M., Ferry Slik, J. W., Sonké, B., Thomas, A. S., Stropp, J., Taplin, J. R. D., Vásquez, R., and Vilanova, E.: Drought–mortality relationships for tropical forests, New Phytol., 187, 631–646, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref124">
+              <unstructured_citation>Poorter, L., McDonald, I., Alarcón, A., Fichtler, E., Licona, J.-C., Peña-Claros, M., Sterck, F., Villegas, Z., and Sass-Klaassen, U.: The importance of wood traits and hydraulic conductance for the performance and life history strategies of 42 rainforest tree species, New Phytol., 185, 481–492, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref125">
+              <unstructured_citation>Powell, T. L., Galbraith, D. R., Christoffersen, B. O., Harper, A., Imbuzeiro, H. M. A., Rowland, L., Almeida, S., Brando, P. M., da Costa, A. C. L., Costa, M. H., Levine, N. M., Malhi, Y., Saleska, S. R., Sotta, E., Williams, M., Meir, P., and Moorcroft, P. R.: Confronting model predictions of carbon fluxes with measurements of Amazon forests subjected to experimental drought, New Phytol., 200, 350–365, https://doi.org/10.1111/nph.12390, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref126">
+              <unstructured_citation>Purves, D. W., Lichstein, J. W., and Pacala, S. W.: Crown plasticity and competition for canopy space: a new spatially implicit model parameterized for 250 North American tree species, PLoS One, 2, e870, https://doi.org/10.1371/journal.pone.0000870, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref127">
+              <unstructured_citation>Quesada, C. A., Phillips, O. L., Schwarz, M., Czimczik, C. I., Baker, T. R., Patiño, S., Fyllas, N. M., Hodnett, M. G., Herrera, R., Almeida, S., Alvarez Dávila, E., Arneth, A., Arroyo, L., Chao, K. J., Dezzeo, N., Erwin, T., di Fiore, A., Higuchi, N., Honorio Coronado, E., Jimenez, E. M., Killeen, T., Lezama, A. T., Lloyd, G., López-González, G., Luizão, F. J., Malhi, Y., Monteagudo, A., Neill, D. A., Núñez Vargas, P., Paiva, R., Peacock, J., Peñuela, M. C., Peña Cruz, A., Pitman, N., Priante Filho, N., Prieto, A., Ramírez, H., Rudas, A., Salomão, R., Santos, A. J. B., Schmerler, J., Silva, N., Silveira, M., Vásquez, R., Vieira, I., Terborgh, J., and Lloyd, J.: Basin-wide variations in Amazon forest structure and function are mediated by both soils and climate, Biogeosciences, 9, 2203–2246, https://doi.org/10.5194/bg-9-2203-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref128">
+              <unstructured_citation>R Core Team: R: a language and environment for statistical computing, R Foundation for Statistical Computing, Vienna, Austria, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref129">
+              <unstructured_citation>Reich, P. B.: The world-wide “fast–slow” plant economics spectrum: a traits manifesto, J. Ecol., 102, 275–301, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref130">
+              <unstructured_citation>Roderick, M. L. and Berry, S. L.: Linking wood density with tree growth and environment: a theoretical analysis based on the motion of water, New Phytol., 149, 473–485, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref131">
+              <unstructured_citation>Roderick, M. L., Berry, S. L., Noble, I. R., and Farquhar, G. D.: A theoretical approach to linking the composition and morphology with the function of leaves, Funct. Ecol., 13, 683–695, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref132">
+              <unstructured_citation>Rohatgi, A.: WebPlotDigitizer, available at: http://arohatgi.info/WebPlotDigitizer, last access: 15 May 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref133">
+              <unstructured_citation>Rowland, L., da Costa, A. C., Galbraith, D. R., Oliveira, R. S., Binks, O. J., Oliveira, A. A., Pullen, A. M., Doughty, C. E., Metcalfe, D. B., Vasconcelos, S. S., Ferreira, L. V., Malhi, Y., Grace, J., Mencuccini, M., and Meir, P.: Death from drought in tropical forests is triggered by hydraulics not carbon starvation, Nature, 528, 119–122, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref134">
+              <unstructured_citation>Rowland, L., Harper, A., Christoffersen, B. O., Galbraith, D. R., Imbuzeiro, H. M. A., Powell, T. L., Doughty, C., Levine, N. M., Malhi, Y., Saleska, S. R., Moorcroft, P. R., Meir, P., and Williams, M.: Modelling climate change responses in tropical forests: similar productivity estimates across five models, but different mechanisms and responses, Geosci. Model Dev., 8, 1097–1110, https://doi.org/10.5194/gmd-8-1097-2015, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref135">
+              <unstructured_citation>Rowland, L., Lobo-do-Vale, R. L., Christoffersen, B. O., Melém, E. A., Kruijt, B., Vasconcelos, S. S., Domingues, T., Binks, O. J., Oliveira, A. A. R., Metcalfe, D., da Costa, A. C. L., Mencuccini, M., and Meir, P.: After more than a decade of soil moisture deficit, tropical rainforest trees maintain photosynthetic capacity, despite increased leaf respiration, Glob. Change Biol., 21, 4662–4672, https://doi.org/10.1111/gcb.13035, 2015c.</unstructured_citation>
+            </citation>
+            <citation key="ref136">
+              <unstructured_citation>Sack, L. and Pasquet-Kok, J.: Leaf pressure-volume curve parameters, available at: http://prometheuswiki.publish.csiro.au/tiki-citation.php?page=Leaf pressure-volume curve parameters (last access: 15 February 2015), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref137">
+              <unstructured_citation>Sack, L., Cowan, P. D., Jaikumar, N., and Holbrook, N. M.: The “hydrology” of leaves: co-ordination of structure and function in temperate woody species, Plant Cell Environ., 26, 1343–1356, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref138">
+              <unstructured_citation>Sakschewski, B., von Bloh, W., Boit, A., Rammig, A., Kattge, J., Poorter, L., Penuelas, J., and Thonicke, K.: Leaf and stem economics spectra drive diversity of functional plant traits in a dynamic global vegetation model, Glob. Change Biol., 21, 2711–2725, https://doi.org/10.1111/gcb.12870, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref139">
+              <unstructured_citation>Sakschewski, B., von Bloh, W., Boit, A., Poorter, L., Pena-Claros, M., Heinke, J., Joshi, J., and Thonicke, K.: Resilience of Amazon forests emerges from plant trait diversity, Nature Clim. Change, 6, 1032–1036, https://doi.org/10.1038/nclimate3109, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref140">
+              <unstructured_citation>Santiago, L. S., Goldstein, G., Meinzer, F. C., Fisher, J. B., Machado, K., Woodruff, D., and Jones, T.: Leaf photosynthetic traits scale with hydraulic conductivity and wood density in Panamanian forest canopy trees, Oecologia, 140, 543–550, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref141">
+              <unstructured_citation>Savage, V. M., Bentley, L. P., Enquist, B. J., Sperry, J. S., Smith, D. D., Reich, P. B., and von Allmen, E. I.: Hydraulic trade-offs and space filling enable better predictions of vascular structure and function in plants, P. Natl. Acad. Sci., 107, 22722–22727, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref142">
+              <unstructured_citation>Schenk, H. J., Steppe, K., and Jansen, S.: Nanobubbles: a new paradigm for air-seeding in xylem, Trends Plant Sci., 20, 199–205, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref143">
+              <unstructured_citation>Scholz, F. G., Bucci, S. J., Goldstein, G., Meinzer, F. C., Franco, A. C., and Miralles-Wilhelm, F.: Biophysical properties and functional significance of stem water storage tissues in Neotropical savanna trees, Plant Cell Environ., 30, 236–248, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref144">
+              <unstructured_citation>Schuldt, B., Leuschner, C., Horna, V., Moser, G., Köhler, M., van Straaten, O., and Barus, H.: Change in hydraulic properties and leaf traits in a tall rainforest tree species subjected to long-term throughfall exclusion in the perhumid tropics, Biogeosciences, 8, 2179–2194, https://doi.org/10.5194/bg-8-2179-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref145">
+              <unstructured_citation>Scoffoni, C.: Modelling the outside-xylem hydraulic conductance: towards a new understanding of leaf water relations, Plant Cell Environ., 38, 4–6, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref146">
+              <unstructured_citation>Sheffield, J., Goteti, G., and Wood, E. F.: Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling, J. Climate, 19, 3088–3111, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref147">
+              <unstructured_citation>Siau, J. F.: Transport processes in wood, Springer Verlag, Berlin, Germany, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref148">
+              <unstructured_citation>Silva Dias, M. A. F., Rutledge, S., Kabat, P., Silva Dias, P. L., Nobre, C., Fisch, G., Dolman, A. J., Zipser, E., Garstang, M., Manzi, A. O., Fuentes, J. D., Rocha, H. R., Marengo, J., Plana-Fattori, A., Sá, L. D. A., Alvalá, R. C. S., Andreae, M. O., Artaxo, P., Gielow, R., and Gatti, L.: Cloud and rain processes in a biosphere-atmosphere interaction context in the Amazon Region, J. Geophys. Res.-Atmos., 107, 8072, https://doi.org/10.1029/2001JD000335, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref149">
+              <unstructured_citation>Siqueira, M., Katul, G., and Porporato, A.: Onset of water stress, hysteresis in plant conductance, and hydraulic lift: Scaling soil water dynamics from millimeters to meters, Water Resour. Res., 44, W01432, https://doi.org/10.1029/2007WR006094, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref150">
+              <unstructured_citation>Skelton, R. P., West, A. G., and Dawson, T. E.: Predicting plant vulnerability to drought in biodiverse regions using functional traits, P. Natl. Acad. Sci. USA, 112, 5744–5749, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref151">
+              <unstructured_citation>Smith, D. D., Sperry, J. S., Enquist, B. J., Savage, V. M., McCulloh, K. A., and Bentley, L. P.: Deviation from symmetrically self-similar branching in trees predicts altered hydraulics, mechanics, light interception and metabolic scaling, New Phytol., 201, 217–229, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref152">
+              <unstructured_citation>Solomon, S.: Climate change 2007 – the physical science basis: Working group I contribution to the fourth assessment report of the IPCC, Cambridge University Press, Cambridge, UK and New York, NY, USA, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref153">
+              <unstructured_citation>Sperry, J. S. and Love, D. M.: What plant hydraulics can tell us about responses to climate-change droughts, New Phytol., 207, 14–27, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref154">
+              <unstructured_citation>Sperry, J. S., Adler, F. R., Campbell, G. S., and Comstock, J. P.: Limitation of plant water use by rhizosphere and xylem conductance: results from a model, Plant Cell Environ., 21, 347–359, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref155">
+              <unstructured_citation>Sperry, J. S., Meinzer, F. C., and McCulloh, K. A.: Safety and efficiency conflicts in hydraulic architecture: scaling from tissues to trees, Plant Cell Environ., 31, 632–645, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref156">
+              <unstructured_citation>Sperry, J. S., Christman, M. A., Torres-Ruiz, J. M., Taneda, H., and Smith, D. D.: Vulnerability curves by centrifugation: is there an open vessel artefact, and are “r” shaped curves necessarily invalid?, Plant Cell Environ., 35, 601–610, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref157">
+              <unstructured_citation>Stark, S. C., Leitold, V., Wu, J. L., Hunter, M. O., de Castilho, C. V., Costa, F. R. C., McMahon, S. M., Parker, G. G., Shimabukuro, M. T., Lefsky, M. A., Keller, M., Alves, L. F., Schietti, J., Shimabukuro, Y. E., Brandão, D. O., Woodcock, T. K., Higuchi, N., de Camargo, P. B., de Oliveira, R. C., and Saleska, S. R.: Amazon forest carbon dynamics predicted by profiles of canopy leaf area and light environment, Ecol. Lett., 15, 1406–1414, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref158">
+              <unstructured_citation>Stewart, G. R., Gracia, C. A., Hegarty, E. E., and Specht, R. L.: Reductase Activity and Chlorophyll Content in Sun Leaves of Subtropical Australian Closed-Forest (Rainforest) and Open-Forest Communities, Oecologia, 82, 544–551, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref159">
+              <unstructured_citation>Strigul, N., Pristinski, D., Purves, D., Dushoff, J., and Pacala, S.: Scaling from trees to forests: tractable macroscopic equations for forest dynamics, Ecol. Monogr., 78, 523–545, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref160">
+              <unstructured_citation>Taylor, M. S. and Thompson, J. R.: A data based algorithm for the generation of random vectors, Comput. Stat. Data An., 4, 93–101, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref161">
+              <unstructured_citation>ter Steege, H., Pitman, N. C. A., Sabatier, D., Baraloto, C., Salomão, R. P., Guevara, J. E., Phillips, O. L., Castilho, C. V., Magnusson, W. E., Molino, J.-F., Monteagudo, A., Núñez Vargas, P., Montero, J. C., Feldpausch, T. R., Coronado, E. N. H., Killeen, T. J., Mostacedo, B., Vasquez, R., Assis, R. L., Terborgh, J., Wittmann, F., Andrade, A., Laurance, W. F., Laurance, S. G. W., Marimon, B. S., Marimon, B.-H., Guimarães Vieira, I. C., Amaral, I. L., Brienen, R., Castellanos, H., Cárdenas López, D., Duivenvoorden, J. F., Mogollón, H. F., Matos, F. D. d. A. and Dávila, N., García-Villacorta, R., Stevenson Diaz, P. R., Costa, F., Emilio, T., Levis, C., Schietti, J., Souza, P., Alonso, A., Dallmeier, F. and Montoya, A. J. D., Fernandez Piedade, M. T., Araujo-Murakami, A., Arroyo, L., Gribel, R., Fine, P. V. A., Peres, C. A., Toledo, M., Aymard C, G. A., Baker, T. R., Cerón, C., Engel, J., Henkel, T. W., Maas, P., Petronelli, P., Stropp, J., Zartman, C. E., Daly, D., Neill, D., Silveira, M., Paredes, M. R., Chave, J., Lima Filho, D. d. A., Jørgensen, P. M., Fuentes, A., Schöngart, J., Cornejo Valverde, F., Di Fiore, A., Jimenez, E. M., Peñuela Mora, M. C., Phillips, J. F., Rivas, G., van Andel, T. R., von Hildebrand, P., Hoffman, B., Zent, E. L., Malhi, Y., Prieto, A., Rudas, A. and Ruschell, A. R., Silva, N., Vos, V., Zent, S., Oliveira, A. A., Schutz, A. C., Gonzales, T., Trindade Nascimento, M., Ramirez-Angulo, H., Sierra, R. and Tirado, M., Umaña Medina, M. N., van der Heijden, G., Vela, C. I. A. and Vilanova Torre, E., Vriesendorp, C., Wang, O., Young, K. R., Baider, C. and Balslev, H., Ferreira, C., Mesones, I., Torres-Lezama, A., Urrego Giraldo, L. E., Zagt, R., Alexiades, M. N., Hernandez, L., Huamantupa-Chuquimaco, I., Milliken, W., Palacios Cuenca, W., Pauletto, D. and Valderrama Sandoval, E., Valenzuela Gamarra, L., Dexter, K. G., Feeley, K., Lopez-Gonzalez, G., and Silman, M. R.: Hyperdominance in the Amazonian Tree Flora, Science, 342, 6156, https://doi.org/10.1126/science.1243092, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref162">
+              <unstructured_citation>Tobin, M. F., Lopez, O. R., and Kursar, T. A.: Responses of Tropical Understory Plants to a Severe Drought: Tolerance and Avoidance of Water Stress, Biotropica, 31, 570–578, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref163">
+              <unstructured_citation>Tomasella, J. and Hodnett, M. G.: Marked differences between van Genuchten soil water-retention parameters for temperate and tropical soils: a new water-retention pedo-transfer functions developed for tropical soils, Geoderma, 108, 155–180, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref164">
+              <unstructured_citation>Tyree, M. T. and Hammel, H. T.: Measurement of Turgor Pressure and Water Relations of Plants by Pressure-Bomb Technique, J. Exp. Bot., 23, 267–282, https://doi.org/10.1093/jxb/23.1.267, 1972.</unstructured_citation>
+            </citation>
+            <citation key="ref165">
+              <unstructured_citation>Tyree, M. T. and Yang, S.: Water-storage capacity of Thuja, Tsuga, and Acer stems measured by dehyration isotherms: The contribution of capillary water and cavitation, Planta, 182, 420–426, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref166">
+              <unstructured_citation>Tyree, M. T., Snyderman, D. A., Wilmot, T. R., and Machado, J.-L.: Water relations and hydraulic architecture of a tropical tree (Schefflera morototoni), Plant Physiol., 96, 1105–1113, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref167">
+              <unstructured_citation>van der Sande, M. T., Arets, E. J. M. M., Peña-Claros, M., de Avila, A. L., Roopsind, A., Mazzei, L., Ascarrunz, N., Finegan, B., Alarcón, A., Cáceres-Siani, Y., Licona, J. C., Ruschel, A., Toledo, M., and Poorter, L.: Old-growth Neotropical forests are shifting in species and trait composition, Ecol. Monogr., 86, 228–243, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref168">
+              <unstructured_citation>van Genuchten, M. T.: A closed-form equation for predicting the hydraulic conductivity of unsaturated soils, Soil Sci. Soc. Am. J., 44, 892–898, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref169">
+              <unstructured_citation>Verhoef, A. and Egea, G.: Modeling plant transpiration under limited soil water: Comparison of different plant and soil hydraulic parameterizations and preliminary implications for their use in land surface models, Agr. Forest Meteorol., 191, 22–32, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref170">
+              <unstructured_citation>Wang, R., Zhang, L., Zhang, S., Cai, J., and Tyree, M. T.: Water relations of Robinia pseudoacacia L.: do vessels cavitate and refill diurnally or are R-shaped curves invalid in Robinia?, Plant Cell Environ., 37, 2667–2678, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref171">
+              <unstructured_citation>West, G. B., Brown, J. H., and Enquist, B. J.: A general model for the structure and allometry of plant vascular systems, Nature, 400, 664–667, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref172">
+              <unstructured_citation>Whitehead, D., Edwards, W. R. N., and Jarvis, P. G.: Conducting sapwood area, foliage area, and permeability in mature trees of Picea sitchensis and Pinus contorta, Can. J. Forest Res., 14, 940–947, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref173">
+              <unstructured_citation>Williams, M., Rastetter, E. B., Fernandes, D. N., Goulden, M. L., Wofsy, S. C., Shaver, G. R., Melillo, J. M., Munger, J. W., Fan, S. M., and Nadelhoffer, K. J.: Modelling the soil-plant-atmosphere continuum in a Quercus-Acer stand at Harvard forest: The regulation of stomatal conductance by light, nitrogen and soil/plant hydraulic properties, Plant Cell Environ., 19, 911–927, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref174">
+              <unstructured_citation>Williams, M., Malhi, Y., Nobre, A. D., Rastetter, E. B., Grace, J., and Pereira, M. G. P.: Seasonal variation in net carbon exchange and evapotranspiration in a Brazilian rain forest: a modelling analysis, Plant Cell Environ., 21, 953–968, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref175">
+              <unstructured_citation>Williams, M., Bond, B. J., and Ryan, M. G.: Evaluating different soil and plant hydraulic constraints on tree function using a model and sap flow data from ponderosa pine, Plant Cell Environ., 24, 679–690, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref176">
+              <unstructured_citation>Wolfe, B. and Kursar, T.: Diverse patterns of stored water use among saplings in seasonally dry tropical forests, Oecologia, 179, 925–936, https://doi.org/10.1007/s00442-015-3329-z, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref177">
+              <unstructured_citation>Wright, I. J., Reich, P. B., Westoby, M., Ackerly, D. D., Baruch, Z., Bongers, F., Cavender-Bares, J., Chapin, T., Cornelissen, J. H. C., Diemer, M., Flexas, J., Garnier, E., Groom, P. K., Gulias, J., Hikosaka, K., Lamont, B. B., Lee, T., Lee, W., Lusk, C., Midgley, J. J., Navas, M.-L., Niinemets, U., Oleksyn, J., Osada, N., Poorter, H., Poot, P., Prior, L., Pyankov, V. I., Roumet, C., Thomas, S. C., Tjoelker, M. G., Veneklaas, E. J., and Villar, R.: The worldwide leaf economics spectrum, Nature, 428, 821–827, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref178">
+              <unstructured_citation>Xu, C., McDowell, N. G., Sevanto, S., and Fisher, R. A.: Our limited ability to predict vegetation dynamics under water stress, New Phytol., 200, 298–300, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref179">
+              <unstructured_citation>Xu, X., Medvigy, D., Powers, J. S., Becknell, J. M., and Guan, K.: Diversity in plant hydraulic traits explains seasonal and inter-annual variations of vegetation dynamics in seasonally dry tropical forests, New Phytol., 212, 80–95, https://doi.org/10.1111/nph.14009, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref180">
+              <unstructured_citation>Zach, A., Schuldt, B., Brix, S., Horna, V., Culmsee, H., and Leuschner, C.: Vessel diameter and xylem hydraulic conductivity increase with tree height in tropical rainforest trees in Sulawesi, Indonesia, Flora – Morphology, Distribution, Funct. Ecol. of Plants, 205, 506–512, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref181">
+              <unstructured_citation>Zanne, A. E. and Falster, D. S.: Plant functional traits - linkages among stem anatomy, plant performance and life history, New Phytol., 185, 348–351, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref182">
+              <unstructured_citation>Zanne, A. E., Lopez-Gonzalez, G., Coomes, D. A., Ilic, J., Jansen, S., Lewis, S. L., Miller, R. B., Swenson, N. G., Wiemann, M. C., and Chave, J.: Data from: Towards a worldwide wood economics spectrum, Dryad Digital Repository, https://doi.org/10.5061/dryad.234, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref183">
+              <unstructured_citation>Zanne, A. E., Westoby, M., Falster, D. S., Ackerly, D. D., Loarie, S. R., Arnold, S. E. J., and Coomes, D. A.: Angiosperm wood structure: Global patterns in vessel anatomy and their relation to wood density and potential conductivity, Am. J. Bot., 97, 207–215, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref184">
+              <unstructured_citation>Zhu, S. D., Song, J. J., Li, R. H., and Ye, Q.: Plant hydraulics and photosynthesis of 34 woody species from different successional stages of subtropical forests, Plant Cell Environ, 36, 879–891, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref185">
+              <unstructured_citation>Zieminska, K., Westoby, M., and Wright, I. J.: Broad Anatomical Variation within a Narrow Wood Density Range – A Study of Twig Wood across 69 Australian Angiosperms, PLoS One, 10, e0124892, https://doi.org/10.1371/journal.pone.0124892, 2015.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/gmd-9-4227-2016-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/9/4227/2016/gmd-9-4227-2016-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1175" timestamp="2019-12-23 16:24:20">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of the Atmospheric Sciences</full_title>
+          <abbrev_title>J. Atmos. Sci.</abbrev_title>
+          <issn media_type="print">0022-4928</issn>
+          <issn media_type="electronic">1520-0469</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>09</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>76</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Marine Boundary Layer Clouds Associated with Coastally Trapped Disturbances: Observations and Model Simulations</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Timothy W.</given_name>
+              <surname>Juliano</surname>
+              <affiliation>Research Applications Laboratory, National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthew M.</given_name>
+              <surname>Coggon</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences, University of Colorado Boulder, Boulder, Colorado</affiliation>
+              <affiliation>National Oceanic and Atmospheric Administration/Earth System Research Laboratory, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gregory</given_name>
+              <surname>Thompson</surname>
+              <affiliation>Research Applications Laboratory, National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David A.</given_name>
+              <surname>Rahn</surname>
+              <affiliation>Department of Geography and Atmospheric Science, University of Kansas, Lawrence, Kansas</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John H.</given_name>
+              <surname>Seinfeld</surname>
+              <affiliation>Department of Chemical Engineering, California Institute of Technology, Pasadena, California</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Armin</given_name>
+              <surname>Sorooshian</surname>
+              <affiliation>Department of Chemical and Environmental Engineering, The University of Arizona, Tucson, Arizona</affiliation>
+              <affiliation>Department of Hydrology and Atmospheric Sciences, The University of Arizona, Tucson, Arizona</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zachary J.</given_name>
+              <surname>Lebo</surname>
+              <affiliation>Department of Atmospheric Science, University of Wyoming, Laramie, Wyoming</affiliation>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>Modeling marine low clouds and fog in coastal environments remains an outstanding challenge due to the inherently complex ocean–land–atmosphere system. This is especially important in the context of global circulation models due to the profound radiative impact of these clouds. This study utilizes aircraft and satellite measurements, in addition to numerical simulations using the Weather Research and Forecasting (WRF) Model, to examine three well-observed coastally trapped disturbance (CTD) events from June 2006, July 2011, and July 2015. Cloud water-soluble ionic and elemental composition analyses conducted for two of the CTD cases indicate that anthropogenic aerosol sources may impact CTD cloud decks due to synoptic-scale patterns associated with CTD initiation. In general, the dynamics and thermodynamics of the CTD systems are well represented and are relatively insensitive to the choice of physics parameterizations; however, a set of WRF simulations suggests that the treatment of model physics strongly influences CTD cloud field evolution. Specifically, cloud liquid water path (LWP) is highly sensitive to the choice of the planetary boundary layer (PBL) scheme; in many instances, the PBL scheme affects cloud extent and LWP values as much as or more than the microphysics scheme. Results suggest that differences in the treatment of entrainment and vertical mixing in the Yonsei University (nonlocal) and Mellor–Yamada–Janjić (local) PBL schemes may play a significant role. The impact of using different driving models—namely, the North American Mesoscale Forecast System (NAM) 12-km analysis and the NCEP North American Regional Reanalysis (NARR) 32-km products—is also investigated.</p>
+          </abstract>
+          <publication_date media_type="print">
+            <month>09</month>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>2963</first_page>
+            <last_page>2993</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1175/JAS-D-18-0317.1</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Department of Energy
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000015</assertion>
+              </assertion>
+              <assertion name="award_number">DE-SC0016354</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100008982</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1439515</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Naval Research
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000006</assertion>
+              </assertion>
+              <assertion name="award_number">N00014-17-1-2719</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Naval Research
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000006</assertion>
+              </assertion>
+              <assertion name="award_number">N00014-10-1-0811</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Naval Research
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000006</assertion>
+              </assertion>
+              <assertion name="award_number">N00014-16-1-2567</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref start_date="2020-09-11" applies_to="vor">http://www.ametsoc.org/PUBSReuseLicenses</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1175/JAS-D-18-0317.1</doi>
+            <resource>http://journals.ametsoc.org/doi/10.1175/JAS-D-18-0317.1</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.ametsoc.org/doi/pdf/10.1175/JAS-D-18-0317.1</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">http://journals.ametsoc.org/doi/pdf/10.1175/JAS-D-18-0317.1</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

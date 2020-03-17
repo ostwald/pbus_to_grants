@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1145" timestamp="2017-06-23 09:16:18">
+    <crossref>
+      <conference>
+        <contributors>
+          <person_name sequence="first" contributor_role="chair">
+            <given_name>Laurie</given_name>
+            <surname>Hendren</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="chair">
+            <given_name>Hidehiko</given_name>
+            <surname>Masuhara</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="chair">
+            <given_name>Mary</given_name>
+            <surname>Sheeran</surname>
+          </person_name>
+          <person_name sequence="additional" contributor_role="chair">
+            <given_name>Jan</given_name>
+            <surname>Vitek</surname>
+          </person_name>
+        </contributors>
+        <event_metadata>
+          <conference_name>the 2nd ACM SIGPLAN International Workshop</conference_name>
+          <conference_acronym>ARRAY 2015</conference_acronym>
+          <conference_sponsor>SIGSOFT, ACM Special Interest Group on Software Engineering</conference_sponsor>
+          <conference_number>2015</conference_number>
+          <conference_location>Portland, OR, USA</conference_location>
+          <conference_date start_month="06" start_year="2015" start_day="13" end_year="2015" end_month="06" end_day="13"/>
+        </event_metadata>
+        <proceedings_metadata language="en">
+          <proceedings_title>Proceedings of the 2nd ACM SIGPLAN International Workshop on Libraries, Languages, and Compilers for Array Programming - ARRAY 2015</proceedings_title>
+          <proceedings_subject>Libraries, Languages, and Compilers for Array Programming</proceedings_subject>
+          <publisher>
+            <publisher_name>ACM Press</publisher_name>
+            <publisher_place>New York, New York, USA</publisher_place>
+          </publisher>
+          <publication_date media_type="print">
+            <year>2015</year>
+          </publication_date>
+          <isbn media_type="print">9781450335843</isbn>
+          <doi_data>
+            <doi>10.1145/2774959</doi>
+            <timestamp>20150608103956</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=2774959</resource>
+          </doi_data>
+        </proceedings_metadata>
+        <conference_paper publication_type="full_text">
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Youngsung</given_name>
+              <surname>Kim</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pavol</given_name>
+              <surname>Černý</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John</given_name>
+              <surname>Dennis</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Performance search engine driven by prior knowledge of optimization</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>25</first_page>
+            <last_page>30</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">01</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2015-06-13">http://www.acm.org/publications/policies/copyright_policy#Background</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1145/2774959.2774963</doi>
+            <timestamp>20150608103956</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=2774959.2774963</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://dl.acm.org/ft_gateway.cfm?id=2774963&amp;amp;ftid=1589044&amp;amp;dwn=1</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="key-10.1145/2774959.2774963-1">
+              <doi provider="crossref">10.1145/1168857.1168906</doi>
+              <unstructured_citation>S. Bansal and A. Aiken. Automatic generation of peephole superoptimizers. In ASPLOS, pages 394&amp;#8211;403, 2006.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-2">
+              <unstructured_citation>S. Bansal and A. Aiken. Binary translation using peephole superoptimizers. In OSDI, pages 177&amp;#8211;192, 2008.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-3">
+              <doi provider="crossref">10.1109/MICRO.2010.38</doi>
+              <unstructured_citation>R. Barik, J. Zhao, and V. Sarkar. Efficient selection of vector instructions using dynamic programming. In MICRO 2010, pages 201&amp;#8211;212, 2010.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-4">
+              <doi provider="crossref">10.1177/1094342011428142</doi>
+              <unstructured_citation>J. Dennis, J. Edwards, K. Evans, O. Guba, A. Mirin, M. Taylor, and P. Worley. Cam-se: A scalable spectral element dynamical core for the community atmosphere model. In The International Journal of High Performance Computing Applications, pages 26, 74&amp;#8211;89, 2012.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-5">
+              <unstructured_citation>S. Gulwani. Automating string processing in spreadsheets using inputoutput examples. In POPL, pages 317&amp;#8211;330, 2011.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-6">
+              <unstructured_citation>S. Gulwani, W. Harris, and R. Singh. Spreadsheet data manipulation using examples. CACM, 55(8):97&amp;#8211;105, Aug. 2012.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-7">
+              <doi provider="crossref">10.1145/2254064.2254114</doi>
+              <unstructured_citation>P. Hawkins, A. Aiken, K. Fisher, M. Rinard, and M. Sagiv. Concurrent data representation synthesis. In PLDI, pages 417&amp;#8211;428, 2012.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-8">
+              <doi provider="crossref">10.1145/2384616.2384628</doi>
+              <unstructured_citation>S. Kulkarni and J. Cavazos. Mitigating the compiler optimization phase-ordering problem using machine learning. In OOPSLA, pages 147&amp;#8211;162, 2012.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-9">
+              <doi provider="crossref">10.1007/3-540-57208-2_28</doi>
+              <unstructured_citation>C. Lengauer. Loop parallelization in the polytope model. In Proceedings of the 4th International Conference on Concurrency Theory, pages 398&amp;#8211;416, 1993.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-10">
+              <doi provider="crossref">10.1063/1.3187791</doi>
+              <unstructured_citation>T. Mytkowicz, A. Diwan, and E. Bradley. Computer systems are dynamical systems. In CHAOS, 2009.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-11">
+              <unstructured_citation>K. Naono, K. Teranishi, J. Cavazos, R. Suda, and Editors. Chapter 1. In Software Automatic Tuning, pages 3&amp;#8211;3, 2010.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-12">
+              <doi provider="crossref">10.1109/SC.2014.70</doi>
+              <unstructured_citation>C. Olschanowsky, M. Strout, S. Guzik, J. Loffeld, and J. Hittinger. A study on balancing parallelism, data locality, and recomputation in existing pde solvers. In SC14, pages 793&amp;#8211;804, 2014.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-13">
+              <doi provider="crossref">10.1002/jame.20027</doi>
+              <unstructured_citation>R. Pincus and B. Stevens. Paths to accuracy for radiation parameterizations in atmospheric models. In J. Adv. Model. Earth Syst., pages 5, 225&amp;#8211;233, 2013.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-14">
+              <doi provider="crossref">10.1145/1926385.1926449</doi>
+              <unstructured_citation>L. Pouchet, U. Bondhugula, C. Bastoul, A. Cohen, J. Ramanujam, P. Sadayappan, and N. Vasilache. Loop transformations: convexity, pruning and optimization. In POPL 2011, pages 549&amp;#8211;562, 2011.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-15">
+              <doi provider="crossref">10.1145/2451116.2451150</doi>
+              <unstructured_citation>E. Schkufza, R. Sharma, and A. Aiken. Stochastic superoptimization. In ASPLOS, pages 305&amp;#8211;316, 2013.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-16">
+              <unstructured_citation>A. Solar-Lezama, L. Tancau, R. Bod&amp;#180;&amp;#305;k, S. Seshia, and V. Saraswat. Combinatorial sketching for finite programs. In ASPLOS, pages 404&amp;#8211; 415, 2006.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-17">
+              <unstructured_citation>A. Solar-Lezama, G. Arnold, L. Tancau, R. Bod&amp;#180;&amp;#305;k, V. Saraswat, and S. Seshia. Sketching stencils. In PLDI, pages 167&amp;#8211;178, 2007.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-18">
+              <unstructured_citation>A. Solar-Lezama, C. Jones, and R. Bod&amp;#180;&amp;#305;k. Sketching concurrent data structures. In PLDI, pages 136&amp;#8211;148, 2008.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-19">
+              <unstructured_citation>R. Suda. Chapter 16: A bayesian method of online automatic tuning. In Software Automatic Tuning, pages 275&amp;#8211;293, 2010.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-20">
+              <doi provider="crossref">10.1145/1375581.1375598</doi>
+              <unstructured_citation>M. Vechev and E. Yahav. Deriving linearizable fine-grained concurrent objects. In PLDI, pages 125&amp;#8211;135, 2008.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-21">
+              <doi provider="crossref">10.1145/1706299.1706338</doi>
+              <unstructured_citation>M. Vechev, E. Yahav, and G. Yorsh. Abstraction-guided synthesis of synchronization. In POPL, pages 327&amp;#8211;338, 2010.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2774959.2774963-22">
+              <doi provider="crossref">10.1002/spe.626</doi>
+              <unstructured_citation>R. Whaley and A. Petitet. Minimizing development and maintenance costs in supporting persistently optimized BLAS. In Software: Practice and Experience, volume 35, pages 101&amp;#8211;121, February 2005.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </doi_record>
+</doi_records>

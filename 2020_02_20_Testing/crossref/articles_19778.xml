@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Representing winter wheat in the Community Land Model (version 4.5)</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Yaqiong</given_name>
+              <surname>Lu</surname>
+              <ORCID>https://orcid.org/0000-0002-3791-1727</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ian N.</given_name>
+              <surname>Williams</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justin E.</given_name>
+              <surname>Bagley</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Margaret S.</given_name>
+              <surname>Torn</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lara M.</given_name>
+              <surname>Kueppers</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Winter wheat is a staple crop for global food security, and is the dominant vegetation cover for a significant fraction of Earth's croplands. As such, it plays an important role in carbon cycling and land–atmosphere interactions in these key regions. Accurate simulation of winter wheat growth is not only crucial for future yield prediction under a changing climate, but also for accurately predicting the energy and water cycles for winter wheat dominated regions. We modified the winter wheat model in the Community Land Model (CLM) to better simulate winter wheat leaf area index, latent heat flux, net ecosystem exchange of CO<sub>2</sub>, and grain yield. These included schemes to represent vernalization as well as frost tolerance and damage. We calibrated three key parameters (minimum planting temperature, maximum crop growth days, and initial value of leaf carbon allocation coefficient) and modified the grain carbon allocation algorithm for simulations at the US Southern Great Plains ARM site (US-ARM), and validated the model performance at eight additional sites across North America. We found that the new winter wheat model improved the prediction of monthly variation in leaf area index, reduced latent heat flux, and net ecosystem exchange root mean square error (RMSE) by 41 and 35<span class="thinspace"></span>% during the spring growing season. The model accurately simulated the interannual variation in yield at the US-ARM site, but underestimated yield at sites and in regions (northwestern and southeastern US) with historically greater yields by 35<span class="thinspace"></span>%.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>05</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1873</first_page>
+            <last_page>1888</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Science
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006132</assertion>
+              </assertion>
+              <assertion name="award_number">DE-AC02-05CH11231</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-10-1873-2017</doi>
+            <resource>https://www.geosci-model-dev.net/10/1873/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/10/1873/2017/gmd-10-1873-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Aase, J. K. and Siddoway, F. H.: Crown-Depth Soil Temperatures and Winter Protection for Winter-Wheat Survival, Soil Sci. Soc. Am. J., 43, 1229–1233, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Anthoni, P. M., Freibauer, A., Kolle, O., and Schulze, E. D.: Winter wheat carbon exchange in Thuringia, Germany, Agr. Forest Meteorol., 121, 55–67, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Arora, V. K.: Simulating energy and carbon fluxes over winter wheat using coupled land surface and terrestrial ecosystem models, Agr. Forest Meteorol., 118, 21–47, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Barlow, K. M., Christy, B. P., O'Leary, G. J., Riffkin, P. A., and Nuttall, J. G.: Simulating the impact of extreme heat and frost events on wheat crop production: A review, Field Crop Res., 171, 109–119, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Bergjord, A. K., Bonesmo, H., and Skjelvag, A. O.: Modelling the course of frost tolerance in winter wheat I. Model development, Eur. J. Agron., 28, 321–330, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Bonan, G. B., Oleson, K. W., Fisher, R. A., Lasslop, G., and Reichstein, M.: Reconciling leaf physiological traits and canopy flux data: Use of the TRY and FLUXNET databases in the Community Land Model version 4, J. Geophys. Res.-Biogeo., 117, https://doi.org/10.1029/2011jg001913, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Bondeau, A., Smith, P. C., Zaehle, S., Schaphoff, S., Lucht, W., Cramer, W., Gerten, D., Lotze-Campen, H., Muller, C., Reichstein, M., and Smith, B.: Modelling the role of agriculture for the 20th century global terrestrial carbon balance, Glob. Change Biol., 13, 679–706, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Ceschia, E., Beziat, P., Dejoux, J. F., Aubinet, M., Bernhofer, C., Bodson, B., Buchmann, N., Carrara, A., Cellier, P., Di Tommasi, P., Elbers, J. A., Eugster, W., Grunwald, T., Jacobs, C. M. J., Jans, W. W. P., Jones, M., Kutsch, W., Lanigan, G., Magliulo, E., Marloie, O., Moors, E. J., Moureaux, C., Olioso, A., Osborne, B., Sanz, M. J., Saunders, M., Smith, P., Soegaard, H., and Wattenbach, M.: Management effects on net ecosystem carbon and GHG budgets at European crop sites, Agr. Ecosyst. Environ., 139, 363–383, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Chakraborty, S. and Newton, A. C.: Climate change, plant diseases and food security: an overview, Plant Pathol., 60, 2–14, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Chouard, P.: Vernalization and its relations to dormancy, Ann. Rev. Plant Physiol., 11, 191–238, 1960.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Chu, H. S., Chen, J. Q., Gottgens, J. F., Ouyang, Z. T., John, R., Czajkowski, K., and Becker, R.: Net ecosystem methane and carbon dioxide exchanges in a Lake Erie coastal marsh and a nearby cropland, J. Geophys. Res.-Biogeo., 119, 722–740, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Curtis, B. C., Rajaram, S., and Gómez Macpherson, H.: Bread Wheat Improvement and Production. FAO: Plant Production and Protection Series, Rome, Italy, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Drewniak, B., Song, J., Prell, J., Kotamarthi, V. R., and Jacob, R.: Modeling agriculture in the Community Land Model, Geosci. Model Dev., 6, 495–515, https://doi.org/10.5194/gmd-6-495-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Elliott, J., Müller, C., Deryng, D., Chryssanthacopoulos, J., Boote, K. J., Büchner, M., Foster, I., Glotter, M., Heinke, J., Iizumi, T., Izaurralde, R. C., Mueller, N. D., Ray, D. K., Rosenzweig, C., Ruane, A. C., and Sheffield, J.: The Global Gridded Crop Model Intercomparison: data and modeling protocols for Phase 1 (v1.0), Geosci. Model Dev., 8, 261–277, https://doi.org/10.5194/gmd-8-261-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Fischer, M. L., Billesbach, D. P., Berry, J. A., Riley, W. J., and Torn, M. S.: Spatiotemporal variations in growing season exchanges of CO2, H2O, and sensible heat in agricultural fields of the Southern Great Plains, Earth Interact., 11, 1–21, https://doi.org/10.1175/EI231.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Foken, T.: The energy balance closure problem: An overview, Ecol. Appl., 18, 1351–1367, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Fowler, D. B., Limin, A. E., and Ritchie, J. T.: Low-temperature tolerance in cereals: Model and genetic interpretation, Crop Sci., 39, 626–633, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Hanan, N. P., Burba, G., Verma, S. B., Berry, J. A., Suyker, A., and Walter-Shea, E. A.: Inversion of net ecosystem CO2 flux measurements for estimation of canopy PAR absorption, Glob. Change Biol., 8, 563–574, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Hanan, N. P., Berry, J. A., Verma, S. B., Walter-Shea, E. A., Suyker, A. E., Burba, G. G., and Denning, A. S.: Testing a model of CO2, water and energy exchange in Great Plains tallgrass prairie and wheat ecosystems, Agr. Forest Meteorol., 131, 162–179, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Hubbard, K. G., Blad, B. L., Verma, S. B., Bauer, A., Hatfield, J. L., Kanemasu, E. T., Major, D. J., and Reginato, R. J.: Monitoring the Weather at 5 Winter-Wheat Experimental Field Sites, Agr. Forest Meteorol., 44, 117–130, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Hurrell, J. W., Holland, M. M., Gent, P. R., Ghan, S., Kay, J. E., Kushner, P. J., Lamarque, J. F., Large, W. G., Lawrence, D., Lindsay, K., Lipscomb, W. H., Long, M. C., Mahowald, N., Marsh, D. R., Neale, R. B., Rasch, P., Vavrus, S., Vertenstein, M., Bader, D., Collins, W. D., Hack, J. J., Kiehl, J., and Marshall, S.: The Community Earth System Model A Framework for Collaborative Research, B. Am. Meteorol. Soc., 94, 1339–1360, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Jones, J. W., Hoogenboom, G., Porter, C. H., Boote, K. J., Batchelor, W. D., Hunt, L. A., Wilkens, P. W., Singh, U., Gijsman, A. J., and Ritchie, J. T.: The DSSAT cropping system model, Eur. J. Agron., 18, 235–265, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Keating, B. A., Meinke, H., Probert, M. E., Huth, N. I., and Hills, I. G.: NWheat: documentation and performance of a wheat module for APSIM 306 Carmody Rd, St. Lucia, Qld 4067, Australia, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Keating, B. A., Carberry, P. S., Hammer, G. L., Probert, M. E., Robertson, M. J., Holzworth, D., Huth, N. I., Hargreaves, J. N. G., Meinke, H., Hochman, Z., McLean, G., Verburg, K., Snow, V., Dimes, J. P., Silburn, M., Wang, E., Brown, S., Bristow, K. L., Asseng, S., Chapman, S., McCown, R. L., Freebairn, D. M., and Smith, C. J.: An overview of APSIM, a model designed for farming systems simulation, Eur. J. Agron., 18, 267–288, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Koven, C. D., Riley, W. J., Subin, Z. M., Tang, J. Y., Torn, M. S., Collins, W. D., Bonan, G. B., Lawrence, D. M., and Swenson, S. C.: The effect of vertically resolved soil biogeochemistry and alternate soil C and N models on C dynamics of CLM4, Biogeosciences, 10, 7109–7131, https://doi.org/10.5194/bg-10-7109-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Kucharik, C. J.: Evaluation of a Process-Based Agro-Ecosystem Model (Agro-IBIS) across the US Corn Belt: Simulations of the Interannual Variability in Maize Yield, Earth Interact., 7, 1–33, https://doi.org/10.1175/1087-3562(2003)007&amp;amp;lt;0001:EOAPAM&amp;amp;gt;2.0.CO;2, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Lawrence, D. M., Thornton, P. E., Oleson, K. W., and Bonan, G. B.: The partitioning of evapotranspiration into transpiration, soil evaporation, and canopy evaporation in a GCM: Impacts on land-atmosphere interaction, J. Hydrometeorol., 8, 862–880, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Levis, S., Bonan, G. B., Kluzek, E., Thornton, P. E., Jones, A., Sacks, W. J., and Kucharik, C. J.: Interactive Crop Management in the Community Earth System Model (CESM1): Seasonal Influences on Land-Atmosphere Fluxes, J. Climate, 25, 4839–4859, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Lombardozzi, D., Levis, S., Bonan, G., Hess, P. G., and Sparks, J. P.: The Influence of Chronic Ozone Exposure on Global Carbon and Water Cycles, J. Climate, 28, 292–305, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Lu, Y. Q. and Kueppers, L. M.: Surface energy partitioning over four dominant vegetation types across the United States in a coupled regional climate model (Weather Research and Forecasting Model 3-Community Land Model 3.5), J. Geophys. Res.-Atmos., 117, https://doi.org/10.1029/2011jd016991, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Major, D. J., Blad, B. L., Bauer, A., Hatfield, J. L., Hubbard, K. G., Kanemasu, E. T., and Reginato, R. J.: Winter-Wheat Grain-Yield Response to Water and Nitrogen on the North-American Great Plains, Agr. Forest Meteorol., 44, 141–149, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>McPherson, R. A., Stensrud, D. J., and Crawford, K. C.: The impact of Oklahoma's winter wheat belt on the mesoscale environment, Mon. Weather Rev., 132, 405–421, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Oleson, K., Lawrence, D., Bonan, G., Drewniak, B., Huang, M., Koven, C., Levis, S., Li, F., Riley, W., Subin, Z., Swenson, S., and Thornton, P.: Technical Description of version 4.5 of the Community Land Model (CLM), National Center for Atmospheric Rsearch, Boulder, CO, NCAR/TN-503+STR, 434 pp., 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Palosuo, T., Kersebaum, K. C., Angulo, C., Hlavinka, P., Moriondo, M., Olesen, J. E., Patil, R. H., Ruget, F., Rumbaur, C., Takac, J., Trnka, M., Bindi, M., Caldag, B., Ewert, F., Ferrise, R., Mirschel, W., Saylan, L., Siska, B., and Rotter, R.: Simulation of winter wheat yield and its variability in different climates of Europe: A comparison of eight crop growth models, Eur. J. Agron., 35, 103–114, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Porter, J. R.: A Model of Canopy Development in Winter-Wheat, J. Agr. Sci., 102, 383–392, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Raz-Yaseef, N., Billesbach, D. P., Fischer, M. L., Biraud, S. C., Gunter, S. A., Bradford, J. A., and Torn, M. S.: Vulnerability of crops and native grasses to summer drying in the US Southern Great Plains, Agr. Ecosyst. Environ., 213, 209–218, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Reginato, R. J., Hatfield, J. L., Bauer, A., Hubbard, K. G., Blad, B. L., Verma, S. B., and Kanemasu, E. T.: Winter-Wheat Response to Water and Nitrogen in the North-American Great Plains, Agr. Forest Meteorol., 44, 105–116, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Riley, W. J., Biraud, S. C., Torn, M. S., Fischer, M. L., Billesbach, D. P., and Berry, J. A.: Regional CO2 and latent heat surface fluxes in the Southern Great Plains: Measurements, modeling, and scaling, J. Geophys. Res.-Biogeo., 114, G04009, https://doi.org/10.1029/2009JG001003, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Riley, W. J., Subin, Z. M., Lawrence, D. M., Swenson, S. C., Torn, M. S., Meng, L., Mahowald, N. M., and Hess, P.: Barriers to predicting changes in global terrestrial methane fluxes: analyses using CLM4Me, a methane biogeochemistry model integrated in CESM, Biogeosciences, 8, 1925–1953, https://doi.org/10.5194/bg-8-1925-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Ritchie, J. R. and Otter, S.: Description and performance of CERES-Wheat: A User oriented Wheat Yield Model, ARS Wheat Yield Project ARS-38., Springfield, MO, 159–175, 1985.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Sakaguchi, K. and Zeng, X. B.: Effects of soil wetness, plant litter, and under-canopy atmospheric stability on ground evaporation in the Community Land Model (CLM3.5), J. Geophys. Res.-Atmos., 114, https://doi.org/10.1029/2008jd010834, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Shewry, P. R.: Wheat, J. Exp. Bot., 60, 1537–1553, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Shi, M. J., Yang, Z. L., Lawrence, D. M., Dickinson, R. E., and Subin, Z. M.: Spin-up processes in the Community Land Model version 4 with explicit carbon and nitrogen components, Ecol. Modell., 263, 308–325, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Stockli, R., Lawrence, D. M., Niu, G. Y., Oleson, K. W., Thornton, P. E., Yang, Z. L., Bonan, G. B., Denning, A. S., and Running, S. W.: Use of FLUXNET in the community land model development, J. Geophys. Res.-Biogeo., 113, https://doi.org/10.1029/2007jg000562, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Streck, N. A., Weiss, A., and Baenziger, P. S.: A generalized vernalization response function for winter wheat, Agron. J., 95, 155–159, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Sunde, M.: Effects of winter climate on growth potential, carbohydrate content and cold hardiness of timothy (Phleum pratense L.) and red clover Trifolium pratense L.), PhD thesis, Agricultural University of Norway, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Swenson, S. C. and Lawrence, D. M.: Assessing a dry surface layer-based soil resistance parameterization for the Community Land Model using GRACE and FLUXNET-MTE data, J. Geophys. Res.-Atmos., 119, https://doi.org/10.1002/2014JD022314, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Van den Hoof, C., Hanert, E., and Vidale, P. L.: Simulating dynamic crop growth with an adapted land surface model – JULES-SUCROS: Model development and validation, Agr. Forest Meteorol., 151, 137–153, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Vermeulen, S. J., Campbell, B. M., and Ingram, J. S. I.: Climate Change and Food Systems, Annu. Rev. Env. Resour., 37, https://doi.org/10.1146/annurev-environ-020411-130608, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Vico, G., Hurry, V., and Weih, M.: Snowed in for survival: Quantifying the risk of winter damage to overwintering field crops in northern temperate latitudes, Agr. Forest Meteorol., 197, 65–75, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Waldo, S., Chi, J. S., Pressley, S. N., O'Keeffe, P., Pan, W. L., Brooks, E. S., Huggins, D. R., Stockle, C. O., and Lamb, B. K.: Assessing carbon dynamics at high and low rainfall agricultural sites in the inland Pacific Northwest US using the eddy covariance method, Agr. Forest Meteorol., 218, 25–36, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Weir, A. H., Bragg, P. L., Porter, J. R., and Rayner, J. H.: A Winter-Wheat Crop Simulation-Model without Water or Nutrient Limitations, J. Agr. Sci., 102, 371–382, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Williams, I. N. and Torn, M. S.: Vegetation controls on surface heat flux partitioning, and land-atmosphere coupling, Geophys. Res. Lett., 42, 9416–9424, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Wilson, K., Goldstein, A., Falge, E., Aubinet, M., Baldocchi, D., Berbigier, P., Bernhofer, C., Ceulemans, R., Dolman, H., Field, C., Grelle, A., Ibrom, A., Law, B. E., Kowalski, A., Meyers, T., Moncrieff, J., Monson, R., Oechel, W., Tenhunen, J., Valentini, R., and Verma, S.: Energy balance closure at FLUXNET sites, Agr. Forest. Meteorol., 113, 223–243, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Wu, X., Vuichard, N., Ciais, P., Viovy, N., de Noblet-Ducoudré, N., Wang, X., Magliulo, V., Wattenbach, M., Vitale, L., Di Tommasi, P., Moors, E. J., Jans, W., Elbers, J., Ceschia, E., Tallec, T., Bernhofer, C., Grünwald, T., Moureaux, C., Manise, T., Ligne, A., Cellier, P., Loubet, B., Larmanou, E., and Ripoche, D.: ORCHIDEE-CROP (v0), a new process-based agro-land surface model: model description and evaluation over Europe, Geosci. Model Dev., 9, 857–873, https://doi.org/10.5194/gmd-9-857-2016, 2016.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/gmd-10-1873-2017-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/10/1873/2017/gmd-10-1873-2017-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

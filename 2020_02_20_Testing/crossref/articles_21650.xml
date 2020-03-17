@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-02-22 08:54:23">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>18</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Quantifying the effect of mixing on the mean age of air in CCMVal-2 and CCMI-1 models</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Simone</given_name>
+              <surname>Dietmüller</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roland</given_name>
+              <surname>Eichinger</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hella</given_name>
+              <surname>Garny</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas</given_name>
+              <surname>Birner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Harald</given_name>
+              <surname>Boenisch</surname>
+              <ORCID>https://orcid.org/0000-0002-1004-0861</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Giovanni</given_name>
+              <surname>Pitari</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eva</given_name>
+              <surname>Mancini</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniele</given_name>
+              <surname>Visioni</surname>
+              <ORCID>https://orcid.org/0000-0002-7342-2189</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrea</given_name>
+              <surname>Stenke</surname>
+              <ORCID>https://orcid.org/0000-0002-5916-4013</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Laura</given_name>
+              <surname>Revell</surname>
+              <ORCID>https://orcid.org/0000-0002-8974-7703</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eugene</given_name>
+              <surname>Rozanov</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David A.</given_name>
+              <surname>Plummer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John</given_name>
+              <surname>Scinocca</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Patrick</given_name>
+              <surname>Jöckel</surname>
+              <ORCID>https://orcid.org/0000-0002-8964-1394</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Luke</given_name>
+              <surname>Oman</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Makoto</given_name>
+              <surname>Deushi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Shibata</given_name>
+              <surname>Kiyotaka</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Douglas E.</given_name>
+              <surname>Kinnison</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rolando</given_name>
+              <surname>Garcia</surname>
+              <ORCID>https://orcid.org/0000-0002-6963-4592</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Olaf</given_name>
+              <surname>Morgenstern</surname>
+              <ORCID>https://orcid.org/0000-0002-9967-9740</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Guang</given_name>
+              <surname>Zeng</surname>
+              <ORCID>https://orcid.org/0000-0002-9356-5021</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kane Adam</given_name>
+              <surname>Stone</surname>
+              <ORCID>https://orcid.org/0000-0002-2721-8785</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Robyn</given_name>
+              <surname>Schofield</surname>
+              <ORCID>https://orcid.org/0000-0002-4230-717X</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The stratospheric age of air (AoA) is a useful measure of the overall
+capabilities of a general circulation model (GCM) to simulate stratospheric
+transport. Previous studies have reported a large spread in the simulation of
+AoA by GCMs and coupled chemistry–climate models (CCMs). Compared to
+observational estimates, simulated AoA is mostly too low. Here we attempt to
+untangle the processes that lead to the AoA differences between the models
+and between models and observations. AoA is influenced by both mean transport
+by the residual circulation and two-way mixing; we quantify the effects of
+these processes using data from the CCM inter-comparison projects CCMVal-2 (Chemistry–Climate
+Model Validation Activity 2) and CCMI-1 (Chemistry–Climate Model Initiative, phase 1).
+Transport along the residual circulation is measured by the
+residual circulation transit time (RCTT). We interpret the difference between
+AoA and RCTT as additional aging by mixing. Aging by mixing thus includes
+mixing on both the resolved and subgrid scale. We find that the spread in AoA
+between the models is primarily caused by differences in the effects of
+mixing and only to some extent by differences in residual circulation
+strength. These effects<span id="page6700"/> are quantified by the mixing efficiency, a measure of
+the relative increase in AoA by mixing. The mixing efficiency varies strongly
+between the models from 0.24 to 1.02. We show that the mixing efficiency is
+not only controlled by horizontal mixing, but by vertical mixing and vertical
+diffusion as well. Possible causes for the differences in the models' mixing
+efficiencies are discussed. Differences in subgrid-scale mixing (including
+differences in advection schemes and model resolutions) likely contribute to
+the differences in mixing efficiency. However, differences in the relative
+contribution of resolved versus parameterized wave forcing do not appear to be
+related to differences in mixing efficiency or AoA.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>14</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>6699</first_page>
+            <last_page>6720</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-18-6699-2018</doi>
+            <resource>https://www.atmos-chem-phys.net/18/6699/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/18/6699/2018/acp-18-6699-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2001JD000465</doi>
+              <unstructured_citation>Andrews, A. E., Boering, K. A., Daube, B. C., Wofsy, S. C., Loewenstein, M.,
+Jost, H., Podolske, J. R., Webster, C. R., Herman, R. L., Scott, D. C.,
+Flesch, G. J., Moyer, E. J., Elkins, J. W., Dutton, G. S., Hurst, D. F.,
+Moore, F. L., Ray, E. A., Romashkin, P. A., and Strahan, S. E.: Mean ages of
+stratospheric air derived from in situ observations of CO2, CH4, and N2O,
+J. Geophys. Res.-Atmos., 106, 32295–32314,
+https://doi.org/10.1029/2001JD000465, 2001. a, b, c, d, e, f, g, h, i, j, k, l</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2006GL026867</doi>
+              <unstructured_citation>Austin, J. and Li, F.: On the relationship between the strength of the
+Brewer-Dobson circulation and the age of stratospheric air, Geophys. Res.
+Lett., 33, L17807, https://doi.org/10.1029/2006GL026867, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-11-817-2011</doi>
+              <unstructured_citation>Birner, T. and Bönisch, H.: Residual circulation trajectories and transit
+times into the extratropical lowermost stratosphere, Atmos. Chem. Phys., 11,
+817–827, https://doi.org/10.5194/acp-11-817-2011, 2011. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1002/2013RG000448</doi>
+              <unstructured_citation>Butchart, N.: The Brewer-Dobson circulation, Rev. Geophys., 52,
+157–184, https://doi.org/10.1002/2013RG000448, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/2010JCLI3404.1</doi>
+              <unstructured_citation>Butchart, N., Cionni, I., Eyring, V., Shepherd, T., Waugh, D., Akiyoshi, H.,
+Austin, J., Brühl, C., Chipperfield, M., Cordero, E., Dameris, M.,
+Deckert, R., Dhomse, S., Frith, S., Garcia, R., Gettelman, A., Giorgetta, M.,
+Kinnison, D., Li, F., Mancini, E., McLandress, C., Pawson, S., Pitari, G.,
+Plummer, D., Rozanov, E., Sassi, F., Scinocca, J., Shibata, K., Steil, B.,
+and Tian, W.: Chemistry-climate model simulations of twenty-first century
+stratospheric climate and circulation changes, J. Climate, 23,
+5349–5374, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2010JD014995</doi>
+              <unstructured_citation>Butchart, N., Charlton-Perez, A. J., Cionni, I., Hardiman, S. C., Haynes,
+P. H., Krüger, K., Kushner, P. J., Newman, P. A., Osprey, S. M.,
+Perlwitz, J., Sigmond, M., Wang, L., Akiyoshi, H., Austin, J., Bekki, S.,
+Baumgaertner, A., Braesicke, P., Brühl, C., Chipperfield, M., Dameris,
+M., Dhomse, S., Eyring, V., Garcia, R., Garny, H., Jöckel, P., Lamarque,
+J.-F., Marchand, M., Michou, M., Morgenstern, O., Nakamura, T., Pawson, S.,
+Plummer, D., Pyle, J., Rozanov, E., Scinocca, J., Shepherd, T. G., Shibata,
+K., Smale, D., Teyssèdre, H., Tian, W., Waugh, D., and Yamashita, Y.:
+Multimodel climate and variability of the stratosphere, J. Geophys. Res.-Atmos., 116, 2156–2202,
+https://doi.org/10.1029/2010JD014995, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/JAS-D-12-0346.1</doi>
+              <unstructured_citation>Cohen, N. Y., Gerber, E. P., and Bühler, O.: Compensation between Resolved
+and Unresolved Wave Driving in the Stratosphere: Implications for Downward
+Control, J. Atmos. Sci., 70, 3780–2798,
+https://doi.org/10.1175/JAS-D-12-0346.1, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.2467/mripapers.62.1</doi>
+              <unstructured_citation>Deushi, M. and Shibata, K.: Development of a Meteorological Research Institute
+chemistry-climate model version 2 for the study of tropospheric and
+stratospheric chemistry, Pap. Meteorol. Geophys., 62, 1–46, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/acp-17-7703-2017</doi>
+              <unstructured_citation>Dietmüller, S., Garny, H., Plöger, F., Jöckel, P., and Cai, D.:
+Effects of mixing on resolved and unresolved scales on stratospheric age of
+air, Atmos. Chem. Phys., 17, 7703–7719,
+https://doi.org/10.5194/acp-17-7703-2017, 2017. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1175/1520-0469(2000)057&lt;3185:SOAOAC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Eluszkiewicz, J., Hemler, R. S., Mahlman, J. D., Bruhwiler, L., and Takacs,
+L. L.: Sensitivity of age-of-air calculations to the choice of advection
+scheme, J. Atmos. Sci., 57, 3185–3201, 2000. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1038/ngeo388</doi>
+              <unstructured_citation>Engel, A., Möbius, T., Bönisch, H., Schmidt, U., Heinz, R., Levin, I.,
+Atlas, E., Aoki, S., Nakazawa, T., Sugawara, S., Moore, F., Hurst, D.,
+Elkins, J., Schauffler, S., Andrews, A., and Boering, A.: Age of
+stratospheric air unchanged within uncertainties over the past 30 years,
+Nat. Geosci., 2, 28–31, 2009. a, b, c, d, e, f, g, h, i</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/acp-17-6825-2017</doi>
+              <unstructured_citation>Engel, A., Bönisch, H., Ullrich, M., Sitals, R., Membrive, O., Danis, F.,
+and Crevoisier, C.: Mean age of stratospheric air derived from AirCore
+observations, Atmos. Chem. Phys., 17, 6825–6838,
+https://doi.org/10.5194/acp-17-6825-2017, 2017. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Eyring, V., Butchart, N., Waugh, D. W., Akiyoshi, H., Austin, J., Bekki, S.,
+Bodeker, G. E., Boville, B. A., Brühl, C., Chipperfield, M. P., Cordero,
+E. andls Dameris, M., Deushi, M., Fioletov, V. E., Frith, S. M., Garcia,
+R. R., Gettelman, A., Giorgetta, M. A., Grewe, V., Jourdain, L., Kinnison,
+D. E., Mancini, E., Manzini, E., Marchand, M., Marsh, D. R., Nagashima, T.,
+Newman, P. A., Nielsen, J. E., Pawson, S., Pitari, G., Plummer, D. A.,
+Rozanov, E., Schraner, M., Shepherd, T. G., Shibata, K., Stolarski, R. S.,
+Struthers, H., Tian, W., and Yoshiki, M.: Assessment of temperature, trace
+species, and ozone in chemistry-climate model simulations of the recent past,
+J. Geophys. Res.-Atmos., 111, D22308,
+https://doi.org/10.1029/2006JD007327, 2006. a, b, c, d, e, f, g</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Eyring, V., Lamarque, J.-F., Hess, P., Arfeuille, F., Bowman, K., Chipperfield,
+M., Duncan, B., Fiore, A., Gettelman, A., Giorgetta, M., Granier, C.,
+Hegglin, M., Kinnison, D., Kunze, M., Langematz, U., Luo, B., Martin, R.,
+Matthes, K., Newman, P., Peter, T., Robock, A., Ryerson, A., Saiz-Lopez, A.,
+Salawitch, R., Schultz, M., Shepherd, T., Shindell, D., Stähelin, J.,
+Tegtmeier, S., Thomason, L., Tilmes, S., Vernier, J.-P., Waugh, D., and
+Young, P.: Overview of IGAC/SPARC Chemistry-Climate Model Initiative (CCMI)
+Community Simulations in Support of Upcoming Ozone and Climate Assessments,
+SPARC newsletter, 40, 48–66, 2013. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-15-10471-2015</doi>
+              <unstructured_citation>Froidevaux, L., Anderson, J., Wang, H.-J., Fuller, R. A., Schwartz, M. J.,
+Santee, M. L., Livesey, N. J., Pumphrey, H. C., Bernath, P. F., Russell III,
+J. M., and McCormick, M. P.: Global OZone Chemistry And Related trace gas
+Data records for the Stratosphere (GOZCARDS): methodology and sample results
+with a focus on HCl, H2O, and O3, Atmos. Chem. Phys., 15,
+10471–10507, https://doi.org/10.5194/acp-15-10471-2015, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2006JD007485</doi>
+              <unstructured_citation>Garcia, R., Marsh, D., Kinnison, D., Boville, B., and Sassi, F.: Simulation
+of secular trends in the middle atmosphere, 1950–2003, J. Geophys.
+Res.-Atmos., 112, D09301, https://doi.org/10.1029/2006JD007485, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/JAS-D-16-0104.1</doi>
+              <unstructured_citation>Garcia, R. R., Smith, A. K., Kinnison, D. E., Cámara, Á. D. L., and
+Murphy, D. J.: Modification of the Gravity Wave Parameterization in the Whole
+Atmosphere Community Climate Model: Motivation and Results, J.
+Atmos. Sci., 74, 275–291, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1002/2013JD021417</doi>
+              <unstructured_citation>Garny, H., Birner, T., Bönisch, H., and Bunzel, F.: The effects of mixing
+on age of air, J. Geophys. Res.-Atmos., 119, 7015–7034,
+2014. a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/0021-9991(85)90058-0</doi>
+              <unstructured_citation>Ghoniem, A. F. and Sherman, F. S.: Grid-free simulation of diffusion using
+random walk methods, J. Comput. Phys., 61, 1–37,
+https://doi.org/10.1016/0021-9991(85)90058-0, 1985. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-17-4337-2017</doi>
+              <unstructured_citation>Glanville, A. A. and Birner, T.: Role of vertical and horizontal mixing in
+the tape recorder signal near the tropical tropopause, Atmos. Chem. Phys.,
+17, 4337–4353, https://doi.org/10.5194/acp-17-4337-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-15-13161-2015</doi>
+              <unstructured_citation>Haenel, F. J., Stiller, G. P., von Clarmann, T., Funke, B., Eckert, E.,
+Glatthor, N., Grabowski, U., Kellmann, S., Kiefer, M., Linden, A., and
+Reddmann, T.: Reassessment of MIPAS age of air trends and variability, Atmos.
+Chem. Phys., 15, 13161–13176, https://doi.org/10.5194/acp-15-13161-2015,
+2015. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/93JD03192</doi>
+              <unstructured_citation>Hall, T. M. and Plumb, R. A.: Age as a diagnostic of stratospheric transport,
+J. Geophys. Res.-Atmos., 99, 1059–1070, 1994. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/1999JD900226</doi>
+              <unstructured_citation>Hall, T. M., Waugh, D. W., Boering, K. A., and Plumb, R. A.: Evaluation of
+transport in stratospheric models, J. Geophys. Res.-Atmos., 104, 18815–18839, 1999. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2000JD900093</doi>
+              <unstructured_citation>Haynes, P. and Shuckburgh, E.: Effective diffusivity as a diagnostic of
+atmospheric transport: 1. Stratosphere, J. Geophys. Res.-Atmos., 105, 22777–22794, https://doi.org/10.1029/2000JD900093, 2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/1520-0469(1991)048&lt;0651:OTCOED&gt;2.0.CO;2</doi>
+              <unstructured_citation>Haynes, P. H., McIntyre, M. E., Shepherd, T. G., Marks, C. J, and Shine K.
+P.: On the “Downward Control” of
+Extratropical Diabatic Circulations by Eddy-Induced Mean Zonal Forces,
+J. Atmos. Sci., 48, 651–678,
+https://doi.org/10.1175/1520-0469(1991)048&amp;amp;lt;0651:OTCOED&amp;amp;gt;2.0.CO;2, 1991. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/95RG02097</doi>
+              <unstructured_citation>Holton, J. R., Haynes, P. H., McIntyre, M. E., Douglass, A. R., Rood, R. B.,
+and Pfister, L.: Stratosphere-troposphere exchange, Rev. Geophys., 33,
+403–439, https://doi.org/10.1029/95RG02097, 1995. a</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/gmd-3-717-2010</doi>
+              <unstructured_citation>Jöckel, P., Kerkweg, A., Pozzer, A., Sander, R., Tost, H., Riede, H.,
+Baumgaertner, A., Gromov, S., and Kern, B.: Development cycle 2 of the
+Modular Earth Submodel System (MESSy2), Geosci. Model Dev., 3, 717–752,
+https://doi.org/10.5194/gmd-3-717-2010, 2010. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/gmd-9-1153-2016</doi>
+              <unstructured_citation>Jöckel, P., Tost, H., Pozzer, A., Kunze, M., Kirner, O., Brenninkmeijer,
+C. A. M., Brinkop, S., Cai, D. S., Dyroff, C., Eckstein, J., Frank, F.,
+G&amp;lt;span id=&amp;quot;page6719&amp;quot;/&amp;gt;arny, H., Gottschaldt, K.-D., Graf, P., Grewe, V., Kerkweg, A., Kern, B.,
+Matthes, S., Mertens, M., Meul, S., Neumaier, M., Nützel, M.,
+Oberländer-Hayn, S., Ruhnke, R., Runde, T., Sander, R., Scharffe, D., and
+Zahn, A.: Earth System Chemistry integrated Modelling (ESCiMo) with the
+Modular Earth Submodel System (MESSy) version 2.51, Geosci. Model Dev., 9,
+1153–1200, https://doi.org/10.5194/gmd-9-1153-2016, 2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2004JD005093</doi>
+              <unstructured_citation>Jonsson, A., De Grandpre, J., Fomichev, V., McConnell, J., and Beagley, S.:
+Doubled CO2-induced cooling in the middle atmosphere: Photochemical analysis
+of the ozone radiative feedback, J. Geophys. Res.-Atmos., 109, D24103,
+https://doi.org/10.1029/2004JD005093,
+2004. a</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/angeo-26-1391-2008</doi>
+              <unstructured_citation>Jourdain, L., Bekki, S., Lott, F., and Lefèvre, F.: The coupled
+chemistry-climate model LMDz-REPROBUS: description and evaluation of a
+transient simulation of the period 1980–1999, Ann. Geophys., 26, 1391–1413,
+https://doi.org/10.5194/angeo-26-1391-2008, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-17-883-2017</doi>
+              <unstructured_citation>Kovács, T., Feng, W., Totterdill, A., Plane, J. M. C., Dhomse, S.,
+Gómez-Martín, J. C., Stiller, G. P., Haenel, F. J., Smith, C.,
+Forster, P. M., García, R. R., Marsh, D. R., and Chipperfield, M. P.:
+Determination of the atmospheric lifetime and global warming potential of
+sulfur hexafluoride using a three-dimensional model, Atmos. Chem. Phys., 17,
+883–898, https://doi.org/10.5194/acp-17-883-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/JAS-D-16-0125.1</doi>
+              <unstructured_citation>Linz, M., Plumb, R. A., Gerber, E. P., and Sheshadri, A.: The Relationship
+between Age of Air and the Diabatic Circulation of the Stratosphere, J. Atmos. Sci., 73, 4507–4518, https://doi.org/10.1175/JAS-D-16-0125.1,
+2016. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1038/ngeo3013</doi>
+              <unstructured_citation>Linz, M., Plumb, R. A., Gerber, E. P., Haenel, F. J., Stiller, G., Kinnison,
+D. E., Ming, A., and Neu, J. L.: The strength of the meridional overturning
+circulation of the stratosphere, Nat. Geosci., 10, 663–667, https://doi.org/10.1038/ngeo3013, 2017. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/JCLI-D-12-00558.1</doi>
+              <unstructured_citation>Marsh, D. R., Mills, M. J., Kinnison, D. E., Lamarque, J.-F., Calvo, N., and
+Polvani, L. M.: Climate change from 1850 to 2005 simulated in CESM1 (WACCM),
+J. Climate, 26, 7372–7391, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Molod, A., Takacs, L., Suarez, M., Bacmeister, J., Song, I.-S., and Eichmann,
+A.: The GEOS-5 atmospheric general circulation model: Mean climate and
+development from MERRA to Fortuna, NASA Technical Report Series on Global Modeling Data Assimilation,
+NASA TM-2012-104606, 28, Greenbelt, MD, USA, 117 pp., 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/gmd-8-1339-2015</doi>
+              <unstructured_citation>Molod, A., Takacs, L., Suarez, M., and Bacmeister, J.: Development of the
+GEOS-5 atmospheric general circulation model: evolution from MERRA to MERRA2,
+Geosci. Model Dev., 8, 1339–1356, https://doi.org/10.5194/gmd-8-1339-2015,
+2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/gmd-2-43-2009</doi>
+              <unstructured_citation>Morgenstern, O., Braesicke, P., O'Connor, F. M., Bushell, A. C., Johnson, C.
+E., Osprey, S. M., and Pyle, J. A.: Evaluation of the new UKCA
+climate-composition model – Part 1: The stratosphere, Geosci. Model Dev., 2,
+43–57, https://doi.org/10.5194/gmd-2-43-2009, 2009. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2009JD013728</doi>
+              <unstructured_citation>Morgenstern, O., Giorgetta, M., Shibata, K., Eyring, V., Waugh, D., Shepherd,
+T., Akiyoshi, H., Austin, J., Baumgaertner, A., Bekki, S., et al.: Review of
+the formulation of present-generation stratospheric chemistry-climate models
+and associated external forcings, J. Geophys. Res., 115, D00M02,
+https://doi.org/10.1029/2009JD013728, 2010. a, b, c, d, e, f, g</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2012JD018382</doi>
+              <unstructured_citation>Morgenstern, O., Zeng, G., Luke Abraham, N., Telford, P. J., Braesicke, P.,
+Pyle, J. A., Hardiman, S. C., O'Connor, F. M., and Johnson, C. E.: Impacts of
+climate change, ozone recovery, and increasing methane on surface ozone and
+the tropospheric oxidizing capacity, J. Geophys. Res.-Atmos., 118, 1028–1041, 2013. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/gmd-10-639-2017</doi>
+              <unstructured_citation>Morgenstern, O., Hegglin, M. I., Rozanov, E., O'Connor, F. M., Abraham, N.
+L., Akiyoshi, H., Archibald, A. T., Bekki, S., Butchart, N., Chipperfield, M.
+P., Deushi, M., Dhomse, S. S., Garcia, R. R., Hardiman, S. C., Horowitz, L.
+W., Jöckel, P., Josse, B., Kinnison, D., Lin, M., Mancini, E., Manyin, M.
+E., Marchand, M., Marécal, V., Michou, M., Oman, L. D., Pitari, G.,
+Plummer, D. A., Revell, L. E., Saint-Martin, D., Schofield, R., Stenke, A.,
+Stone, K., Sudo, K., Tanaka, T. Y., Tilmes, S., Yamashita, Y., Yoshida, K.,
+and Zeng, G.: Review of the global models used within phase 1 of the
+Chemistry–Climate Model Initiative (CCMI), Geosci. Model Dev., 10, 639–671,
+https://doi.org/10.5194/gmd-10-639-2017, 2017. a, b, c, d, e, f</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/1520-0469(1996)053&lt;1524:TDMEFA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Nakamura, N.: Two-dimensional mixing, edge formation, and permeability
+diagnosed in an area coordinate, J. Atmos. Sci., 53,
+1524–1537, 1996. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/1999JD900251</doi>
+              <unstructured_citation>Neu, J. L. and Plumb, R. A.: Age of air in a leaky pipe model of stratospheric
+transport, J. Geophys. Res.-Atmos., 104,
+19243–19255, 1999. a, b, c, d, e, f</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/JD091iD07p07919</doi>
+              <unstructured_citation>Newman, P. A., Schoeberl, M. R., and Plumb, R. A.: Horizontal mixing
+coefficients for two-dimensional chemical models calculated from National
+Meteorological Center data, J. Geophys. Res.-Atmos., 91,
+7919–7924, https://doi.org/10.1029/JD091iD07p07919, 1986. a</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2011GL047865</doi>
+              <unstructured_citation>Oman, L., Ziemke, J., Douglass, A., Waugh, D., Lang, C., Rodriguez, J., and
+Nielsen, J.: The response of tropical tropospheric ozone to ENSO, Geophys.
+Res. Lett., 38, L13706, https://doi.org/10.1029/2011GL047865, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2012JD018546</doi>
+              <unstructured_citation>Oman, L. D., Douglass, A. R., Ziemke, J. R., Rodriguez, J. M., Waugh, D. W.,
+and Nielsen, J. E.: The ozone response to ENSO in Aura satellite measurements
+and a chemistry-climate simulation, J. Geophys. Res.-Atmos., 118, 965–976, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2007JD009511</doi>
+              <unstructured_citation>Pawson, S., Stolarski, R. S., Douglass, A. R., Newman, P. A., Nielsen, J. E.,
+Frith, S. M., and Gupta, M. L.: Goddard Earth Observing System
+chemistry-climate model simulations of stratospheric ozone-temperature
+coupling between 1950 and 2005, J. Geophys. Res.-Atmos.,
+113, D12103, https://doi.org/10.1029/2007JD009511, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;0414:IOFCAE&gt;2.0.CO;2</doi>
+              <unstructured_citation>Pitari, G., Mancini, E., Rizi, V., and Shindell, D.: Impact of future climate
+and emission changes on stratospheric aerosols and ozone, J.
+Atmos. Sci., 59, 414–440, 2002. a</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1002/2013JD020566</doi>
+              <unstructured_citation>Pitari, G., Aquila, V., Kravitz, B., Robock, A., Watanabe, S., Cionni, I.,
+Luca, N. D., Genova, G. D., Mancini, E., and Tilmes, S.: Stratospheric ozone
+response to sulfate geoengineering: Results from the Geoengineering Model
+Intercomparison Project (GeoMIP), J. Geophys. Res.-Atmos., 119, 2629–2653, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1002/2014GL062927</doi>
+              <unstructured_citation>Ploeger, F., Abalos, M., Birner, T., Konopka, P., Legras, B., Müller, R., and
+Riese, M.: Quantifying the effects of mixing and residual circulation on
+trends of stratospheric mean age of air, Geophys. Res. Lett., 42,
+2047–2054, https://doi.org/10.1002/2014GL062927, 2015a. a</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1002/2014JD022468</doi>
+              <unstructured_citation>Ploeger, F., Riese, M., Haenel, F., Konopka, P., Müller, R., and Stiller, G.:
+Variability of stratospheric mean age of air and of the local effects of
+residual circulation and eddy mixing, J. Geophys. Res.-Atmos., 120, 716–733, https://doi.org/10.1002/2014JD022468,
+2015b. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2010JD014206</doi>
+              <unstructured_citation>Ray, E. A., Moore, F. L., Rosenlof, K. H., Davis, S. M., Boenisch, H.,
+Morgenstern, O., Smale, D., Rozanov, E., Hegglin, M., Pitari, G., Mancini,
+E., Braesicke, P., Butchart, N., Hardiman, S., Li, F., Shibata, K., and
+Plummer, D. A.: Evidence for changes in stratospheric transport and mixing
+over the past three decades based on multiple data sets and tropical leaky
+pipe analysis, J. Geophys. Res.-Atmos., 115, D21304,
+https://doi.org/10.1029/2010JD014206, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1002/2014JD021802</doi>
+              <unstructured_citation>Ray, E. A., Moore, F. L., Rosenlof, K. H., Davis, S. M., Sweeney, C., Tans, P.,
+Wang, T., Elkins, J. W., Boenisch, H., Engel, A., Sugawara, S., Nakazawa, T.,
+and Aoki, S.: Improving stratospheric transport trend analysis based on SF6
+and CO2 measurements, J. Geophys. Res.-Atmos., 119,
+14110–14128, https://doi.org/10.1002/2014JD021802, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Ray, E. A., Moore, F., Elkins, J., W., Rosenlof, K., Laube, J., Röckmann,
+T., Marsh, D., and Andrews, A.: Quantification of the SF6 lifetime based
+on mesospheric loss measured in the stratospheric polar vortex, J. Geophys.
+Res., 122, 4626–4638, https://doi.org/10.1002/2016JD026198, 2017. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/acp-15-5887-2015</doi>
+              <unstructured_citation>Revell, L. E., Tummon, F., Stenke, A., Sukhodolov, T., Coulon, A., Rozanov,
+E., Garny, H., Grewe, V., and Peter, T.: Drivers of the tropospheric ozone
+budget throughout the 21st century under the medium-high climate scenario RCP
+6.0, Atmos. Chem. Phys., 15, 5887–5902,
+https://doi.org/10.5194/acp-15-5887-2015, 2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1029/2006JD007476</doi>
+              <unstructured_citation>Rind, D., Lerner, J., Jonas, J., and McLinden, C.: Effects of resolution and
+model physics on tracer transports in the NASA Goddard Institute for Space
+Studies general circulation models, J. Geophys. Res.-Atmos., 112, D09315,
+https://doi.org/10.1029/2006JD007476, 2007. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/acp-8-5957-2008</doi>
+              <unstructured_citation>Schraner, M., Rozanov, E., Schnadt Poberaj, C., Kenzelmann, P., Fischer, A.
+M., Zubov, V., Luo, B. P., Hoyle, C. R., Egorova, T., Fueglistaler, S.,
+Brönnimann, S., Schmutz, W., and Peter, T.: Technical Note:
+Chemistry-climate model SOCOL: version 2.0 with improved transport and
+chemistry/microphysics schemes, Atmos. Chem. Phys., 8, 5957–5974,
+https://doi.org/10.5194/acp-8-5957-2008, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/acp-8-7055-2008</doi>
+              <unstructured_citation>Scinocca, J. F., McFarlane, N. A., Lazare, M., Li, J., and Plummer, D.:
+Technical Note: The CCCma third generation AGCM and its extension into the
+middle atmosphere, Atmos. Chem. Phys., 8, 7055–7074,
+https://doi.org/10.5194/acp-8-7055-2008, 2008. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.2151/jmsj.85B.165</doi>
+              <unstructured_citation>Shepherd, T. G.: Transport in the middle atmosphere, J. Meteorol.
+Soc. Jpn., 85, 165–191, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/angeo-26-1299-2008</doi>
+              <unstructured_citation>Shibata, K. and Deushi, M.: Long-term variations and trends in the simulation
+of the middle atmosphere 1980–2004 by the chemistry-climate model of the
+Meteorological Research Institute, Ann. Geophys., 26, 1299–1326,
+https://doi.org/10.5194/angeo-26-1299-2008, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1002/2015JD023365</doi>
+              <unstructured_citation>Solomon, S., Kinnison, D., Bandoro, J., and Garcia, R.: Simulation of polar
+ozone depletion: An update, J. Geophys. Res.-Atmos.,
+120, 7958–7974, 2015.  a</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>SPARC: SPARC CCMVal Report on the Evaluation of Chemistry-Climate Models,
+edited by: Eyring, V., Shepherd, T., and Waugh, D., SPARC Report No. 5,
+WCRP-30/2010, WMO/TD – No. 40, available at:
+http://www.sparc-climate.org/publications/sparc-reports/ (last access:
+June 2016), 2010. a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/97JD01968</doi>
+              <unstructured_citation>Sparling, L. C., Kettleborough, J. A., Haynes, P. H., McIntyre, M. E.,
+Rosenfield, J. E., Schoeberl, M. R., and Newman, P. A.: Diabatic
+cross-isentropic dispersion in the lower stratosphere, J. Geophys.
+Res.-Atmos., 102, 25817–25829, https://doi.org/10.1029/97JD01968, 1997. a</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/gmd-6-1407-2013</doi>
+              <unstructured_citation>Stenke, A., Schraner, M., Rozanov, E., Egorova, T., Luo, B., and Peter, T.:
+The SOCOL version 3.0 chemistry–climate model: description, evaluation, and
+implications from an advanced transport algorithm, Geosci. Model Dev., 6,
+1407–1427, https://doi.org/10.5194/gmd-6-1407-2013, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/acp-12-3311-2012</doi>
+              <unstructured_citation>Stiller, G. P., von Clarmann, T., Haenel, F., Funke, B., Glatthor, N.,
+Grabowski, U., Kellmann, S., Kiefer, M., Linden, A., Lossow, S., and
+López-Puertas, M.: Observed temporal evolution of global mean age of
+stratospheric air for the 2002 to 2010 period, Atmos. Chem. Phys., 12,
+3311–3331, https://doi.org/10.5194/acp-12-3311-2012, 2012. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/acp-16-2401-2016</doi>
+              <unstructured_citation>Stone, K. A., Morgenstern, O., Karoly, D. J., Klekociuk, A. R., French, W.
+J., Abraham, N. L., and Schofield, R.: Evaluation of the ACCESS –
+chemistry–climate model for the Southern Hemisphere, Atmos. Chem. Phys., 16,
+2401–2415, https://doi.org/10.5194/acp-16-2401-2016, 2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/2000RG000101</doi>
+              <unstructured_citation>Waugh, D. and Hall, T.: Age of stratospheric air: Theory, observations, and
+models, Rev. Geophys., 40, 1010, https://doi.org/10.1029/2000RG000101, 2002. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Yukimoto, S., Yoshimura, H., Hosaka, M., Sakami, T., Tsujino, H., Hirabara,
+M., Tanaka, T. Y., Deushi, M., Obata, A., Nakano, H., Adachi, Y., Shindo, E.,
+Yabu, S., Ose, T., and Kitoh, A.: Meteorological Research Institute Earth
+System Model Version 1 (MRI-ESM1) – Model Description, Tech. Rep. of MRI,
+64, Tsukuba, Japan, 83 pp., 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.2151/jmsj.2012-A02</doi>
+              <unstructured_citation>Yukimoto, S., Adachi, Y., Hosaka, M., Sakami, T., Yoshimura, H., Hirabara,
+M., Tanaka, T. Y., Shindo, E., Tsujino, H., Deushi, M., Mizuta, R., Yabu, S.,
+Obata, A., Nakano, H., Koshiro, T., Ose, T., and Kitoh, A.: A new global
+climate model of the Meteorological Research Institute: MRI-CGCM3 model
+description and basic performance, J. Meteorol. Soc.
+Jpn. Ser. II, 90, 23–64, 2012. a</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-18-6699-2018-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/18/6699/2018/acp-18-6699-2018-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Evaluating statistical consistency in the ocean model component of the Community Earth System Model (pyCECT v2.0)</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Allison H.</given_name>
+              <surname>Baker</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yong</given_name>
+              <surname>Hu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dorit M.</given_name>
+              <surname>Hammerling</surname>
+              <ORCID>https://orcid.org/0000-0003-3583-3611</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yu-heng</given_name>
+              <surname>Tseng</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Haiying</given_name>
+              <surname>Xu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xiaomeng</given_name>
+              <surname>Huang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frank O.</given_name>
+              <surname>Bryan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Guangwen</given_name>
+              <surname>Yang</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Parallel Ocean Program (POP), the ocean model component of the Community Earth System Model (CESM), is widely used in climate research. Most current work in CESM-POP focuses on improving the model's efficiency or accuracy, such as improving numerical methods, advancing parameterization, porting to new architectures, or increasing parallelism. Since ocean dynamics are chaotic in nature, achieving bit-for-bit (BFB) identical results in ocean solutions cannot be guaranteed for even tiny code modifications, and determining whether modifications are admissible (i.e., statistically consistent with the original results) is non-trivial. In recent work, an ensemble-based statistical approach was shown to work well for software verification (i.e., quality assurance) on atmospheric model data. The general idea of the ensemble-based statistical consistency testing is to use a qualitative measurement of the variability of the ensemble of simulations as a metric with which to compare future simulations and make a determination of statistical distinguishability. The capability to determine consistency without BFB results boosts model confidence and provides the flexibility needed, for example, for more aggressive code optimizations and the use of heterogeneous execution environments. Since ocean and atmosphere models have differing characteristics in term of dynamics, spatial variability, and timescales, we present a new statistical method to evaluate ocean model simulation data that requires the evaluation of ensemble means and deviations in a spatial manner. In particular, the statistical distribution from an ensemble of CESM-POP simulations is used to determine the standard score of any new model solution at each grid point. Then the percentage of points that have scores greater than a specified threshold indicates whether the new model simulation is statistically distinguishable from the ensemble simulations. Both ensemble size and composition are important. Our experiments indicate that the new POP ensemble consistency test (POP-ECT) tool is capable of distinguishing cases that should be statistically consistent with the ensemble and those that should not, as well as providing a simple, subjective and systematic way to detect errors in CESM-POP due to the hardware or software stack, positively contributing to quality assurance for the CESM-POP code.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>12</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>2391</first_page>
+            <last_page>2406</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-2391-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/2391/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/2391/2016/gmd-9-2391-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Baker, A. H., Xu, H., Dennis, J. M., Levy, M. N., Nychka, D., Mickelson, S. A., Edwards, J., Vertenstein, M., and Wegener, A.: A Methodology for Evaluating the Impact of Data Compression on Climate Simulation Data, in: Proceedings of the 23rd International Symposium on High-performance Parallel and Distributed Computing, HPDC '14, 203–214, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/gmd-8-2829-2015</doi>
+              <unstructured_citation>Baker, A. H., Hammerling, D. M., Levy, M. N., Xu, H., Dennis, J. M., Eaton, B. E., Edwards, J., Hannay, C., Mickelson, S. A., Neale, R. B., Nychka, D., Shollenberger, J., Tribbia, J., Vertenstein, M., and Williamson, D.: A new ensemble-based consistency test for the Community Earth System Model (pyCECT v1.0), Geosci. Model Dev., 8, 2829–2840, https://doi.org/10.5194/gmd-8-2829-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1002/0470072768</doi>
+              <unstructured_citation>Box, G. E. P. and Draper, N. R.: Response Surfaces, Mixtures, and Ridge Analyses, Second Edition, John Wiley and Sons, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1109/WSC.2002.1172868</doi>
+              <unstructured_citation>Carson, II, J. S.: Model Verification and Validation, in: Proceedings of the 2002 Winter Simulation Conference, 52–58, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1109/MS.2011.117</doi>
+              <unstructured_citation>Clune, T. and Rood, R.: Software Testing and Verification in Climate Model Development, IEEE Software, 28, 49–55, https://doi.org/10.1109/MS.2011.117, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Easterbrook, S. M., Edwards, P. N., Balaji, V., and Budich, R.: Guest Editors' Introduction: Climate Change – Science and Software, IEEE Software, 28, 32–35, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1145/2807591.2807596</doi>
+              <unstructured_citation>Hu, Y., Huang, X., Baker, A. H., Tseng, Y., Bryan, F. O., Dennis, J. M., and Yang, G.: Improving the scalability of the ocean barotropic solver in the Community Earth System Model, in: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC '15, 42:1–42:12, https://doi.org/10.1145/2807591.2807596, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>Hurrell, J. W., Holland, M. M., Gent, P. R., Ghan, S., Kay, J. E., Kushner, P. J., Lamarque, J. F., Large, W. G., Lawrence, D., Lindsay, K., Lipscomb, W. H., Long, M. C., Mahowald, N., Marsh, D. R., Neale, R. B., Rasch, P., Vavrus, S., Vertenstein, M., Bader, D., Collins, W. D., Hack, J. J., Kiehl, J., and Marshall, S.: The Community Earth System Model: A Framework for Collaborative Research, B. Am. Meteorol. Soc., 94, 1339–1360, https://doi.org/10.1175/BAMS-D-12-00121.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Kay, J., Deser, C., Phillips, A., Mai, A., Hannay, C., Strand, G., Arblaster, J., Bates, S., Danabasoglu, G., Edwards, J., Holland, M., Kushner, P., Lamarque, J.-F., Lawrence, D., Lindsay, K., Middleton, A., Munoz, E., Neale, R., Oleson, K., Polvani, L., and Vertenstein, M.: The Community Earth System Model (CESM) Large Ensemble Project: A Community Resource for Studying Climate Change in the Presence of Internal Climate Variability, B. Am. Meteorol. Soc., 96, 1333–1349, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Legeckis, R.: Long waves in the eastern equatorial Pacific: A view from geostationary satellite, Science, 196, 1177–1181, 1977.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Oberkamf, W. and Roy, C.: Verification and Validation in Scientific Computing, Cambridge University Press, 13-51, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/gmd-5-1009-2012</doi>
+              <unstructured_citation>Pipitone, J. and Easterbrook, S.: Assessing climate model software quality: a defect density analysis of three models, Geosci. Model Dev., 5, 1009–1022, https://doi.org/10.5194/gmd-5-1009-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Smith, R., Jones, P., Briegleb, B., Bryan, F., Danabasoglu, G., Dennis, J., Dukowicz, J., Fox-Kemper, C. E. B., Gent, P., Hecht, M., Jayne, S., Jochum, M., Large, W., Lindsay, K., Maltrud, M., Norton, N., Peacock, S., Vertenstein, M., and Yeager, S.: The Parallel Ocean Program (POP) Reference Manual Ocean Component of the Community Climate System Model (CCSM), 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Steele, M., Morley, R., and Ermold, W.: PHC: A global ocean hydrography with a high-quality Arctic Ocean, J. Climate, 14, 2079–2087, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Stocker, T., Qin, D., Plattner, G., Tignor, M., Allen, S., Boschung, J., Nauels, A., Xia, Y., Bex, B., and Midgley, B.: IPCC, 2013: Climate Change 2013: the physical science basis, Contribution of working group I to the fifth assessment report of the Intergovernmental Panel on Climate Change, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/fld.1725</doi>
+              <unstructured_citation>Tseng, Y.-H.: High-order essentially local extremum diminishing schemes for environmental flows, Int. J. Numer. Meth. Fl., 58, 213–235, https://doi.org/10.1002/fld.1725, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Tseng, Y.-H. and Dietrich, D. E.: Entrainment and Transport in Idealized Three-Dimensional Gravity Current Simulation, J. Atmos. Ocean. Tech., 23, 1249–1269, 2006.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

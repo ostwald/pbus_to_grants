@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1007" timestamp="2019-06-01 06:17:34">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Statistics and Computing</full_title>
+          <abbrev_title>Stat Comput</abbrev_title>
+          <issn media_type="print">0960-3174</issn>
+          <issn media_type="electronic">1573-1375</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>3</month>
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>27</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Parallel inference for massive distributed spatial data using low-rank models</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Matthias</given_name>
+              <surname>Katzfuss</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Dorit</given_name>
+              <surname>Hammerling</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>2</month>
+            <day>9</day>
+            <year>2016</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>3</month>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>363</first_page>
+            <last_page>375</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">9627</identifier>
+          </publisher_item>
+          <crossmark>
+            <crossmark_version>1</crossmark_version>
+            <crossmark_policy>10.1007/springer_crossmark_policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>link.springer.com</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <crossmark_domain_exclusive>false</crossmark_domain_exclusive>
+            <custom_metadata>
+              <program name="fundref">
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    Directorate for Mathematical and Physical Sciences
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000086</assertion>
+                  </assertion>
+                  <assertion name="award_number">DMS-1127914</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Aeronautics and Space Administration
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+                  </assertion>
+                  <assertion name="award_number">AIST-14</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    Directorate for Mathematical and Physical Sciences
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000086</assertion>
+                  </assertion>
+                  <assertion name="award_number">DMS-1106862</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    Directorate for Mathematical and Physical Sciences
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000086</assertion>
+                  </assertion>
+                  <assertion name="award_number">DMS-1127914</assertion>
+                </assertion>
+              </program>
+              <program name="AccessIndicators">
+                <license_ref applies_to="tdm">http://www.springer.com/tdm</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.1007/s11222-016-9627-4</doi>
+            <timestamp>20170121165324482</timestamp>
+            <resource>http://link.springer.com/10.1007/s11222-016-9627-4</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/s11222-016-9627-4</resource>
+              </item>
+              <item crawler="iParadigms">
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/s11222-016-9627-4.pdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/s11222-016-9627-4.pdf</resource>
+              </item>
+              <item>
+                <resource mime_type="text/html">http://link.springer.com/article/10.1007/s11222-016-9627-4/fulltext.html</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="9627_CR1">
+              <journal_title>J. R. Stat. Soc. Ser. B</journal_title>
+              <author>S Banerjee</author>
+              <volume>70</volume>
+              <issue>4</issue>
+              <first_page>825</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1111/j.1467-9868.2008.00663.x</doi>
+              <unstructured_citation>Banerjee, S., Gelfand, A.E., Finley, A.O., Sang, H.: Gaussian predictive process models for large spatial data sets. J. R. Stat. Soc. Ser. B 70(4), 825–848 (2008). doi: 10.1111/j.1467-9868.2008.00663.x</unstructured_citation>
+            </citation>
+            <citation key="9627_CR2">
+              <journal_title>J. Am. Stat. Assoc.</journal_title>
+              <author>M Bevilacqua</author>
+              <volume>107</volume>
+              <issue>497</issue>
+              <first_page>268</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1080/01621459.2011.646928</doi>
+              <unstructured_citation>Bevilacqua, M., Gaetan, C., Mateu, J., Porcu, E.: Estimating space and space-time covariance functions for large data sets: a weighted composite likelihood approach. J. Am. Stat. Assoc. 107(497), 268–280 (2012). doi: 10.1080/01621459.2011.646928</unstructured_citation>
+            </citation>
+            <citation key="9627_CR3">
+              <unstructured_citation>Bradley, J.R., Cressie, N., Shi, T.: A comparison of spatial predictors when datasets could be very large. (2014) arXiv:1410.7748</unstructured_citation>
+            </citation>
+            <citation key="9627_CR4">
+              <journal_title>Environ. Ecol. Stat.</journal_title>
+              <author>CA Calder</author>
+              <volume>14</volume>
+              <issue>3</issue>
+              <first_page>229</first_page>
+              <cYear>2007</cYear>
+              <doi>10.1007/s10651-007-0019-y</doi>
+              <unstructured_citation>Calder, C.A.: Dynamic factor process convolution models for multivariate space-time data with application to air quality assessment. Environ. Ecol. Stat. 14(3), 229–247 (2007). doi: 10.1007/s10651-007-0019-y</unstructured_citation>
+            </citation>
+            <citation key="9627_CR5">
+              <journal_title>J. Multivar. Anal.</journal_title>
+              <author>PC Caragea</author>
+              <volume>98</volume>
+              <issue>7</issue>
+              <first_page>1417</first_page>
+              <cYear>2007</cYear>
+              <doi>10.1016/j.jmva.2006.08.010</doi>
+              <unstructured_citation>Caragea, P.C., Smith, R.L.: Asymptotic properties of computationally efficient alternative estimators for a class of multivariate normal models. J. Multivar. Anal. 98(7), 1417–1440 (2007). doi: 10.1016/j.jmva.2006.08.010</unstructured_citation>
+            </citation>
+            <citation key="9627_CR6">
+              <unstructured_citation>Caragea, P.C., Smith, R.L.: Approximate likelihoods for spatial processes. Technical Report, University of North Carolina, Chapel Hill, NC (2008)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR7">
+              <journal_title>IEEE Trans. Autom. Control</journal_title>
+              <author>J Cortés</author>
+              <volume>54</volume>
+              <issue>12</issue>
+              <first_page>2816</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1109/TAC.2009.2034192</doi>
+              <unstructured_citation>Cortés, J.: Distributed kriged Kalman filter for spatial estimation. IEEE Trans. Autom. Control 54(12), 2816–2827 (2009)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR8">
+              <journal_title>J. R. Stat. Soc. Ser. B</journal_title>
+              <author>N Cressie</author>
+              <volume>70</volume>
+              <issue>1</issue>
+              <first_page>209</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1111/j.1467-9868.2007.00633.x</doi>
+              <unstructured_citation>Cressie, N., Johannesson, G.: Fixed rank kriging for very large spatial data sets. J. R. Stat. Soc. Ser. B 70(1), 209–226 (2008)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR9">
+              <journal_title>J Comput. Graph. Stat.</journal_title>
+              <author>N Cressie</author>
+              <volume>19</volume>
+              <issue>3</issue>
+              <first_page>724</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1198/jcgs.2010.09051</doi>
+              <unstructured_citation>Cressie, N., Shi, T., Kang, E.L.: Fixed rank filtering for spatio-temporal data. J Comput. Graph. Stat. 19(3), 724–745 (2010)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR10">
+              <journal_title>J. Agric. Biol. Environ. Stat.</journal_title>
+              <author>F Curriero</author>
+              <volume>4</volume>
+              <issue>1</issue>
+              <first_page>9</first_page>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.2307/1400419</doi>
+              <unstructured_citation>Curriero, F., Lele, S.: A composite likelihood approach to semivariogram estimation. J. Agric. Biol. Environ. Stat. 4(1), 9–28 (1999)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR11">
+              <doi>10.1109/ISPA.2005.195385</doi>
+              <unstructured_citation>Douc R, Cappé O, Moulines E (2005) Comparison of resampling schemes for particle filtering. In: ISPA 2005 Proceedings of the 4th International Symposium on Image and Signal Processing and Analysis, 2005 pp 64–69. doi: 10.1109/ISPA.2005.195385</unstructured_citation>
+            </citation>
+            <citation key="9627_CR12">
+              <journal_title>J. Comput. Graph. Stat.</journal_title>
+              <author>J Eidsvik</author>
+              <volume>23</volume>
+              <issue>2</issue>
+              <first_page>295</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1080/10618600.2012.760460</doi>
+              <unstructured_citation>Eidsvik, J., Shaby, B.A., Reich, B.J., Wheeler, M., Niemi, J.: Estimation and prediction in spatial models with block composite likelihoods using parallel computing. J. Comput. Graph. Stat. 23(2), 295–315 (2014)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR13">
+              <journal_title>J. Geogr. Syst.</journal_title>
+              <author>A Finley</author>
+              <volume>14</volume>
+              <first_page>29</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1007/s10109-011-0154-8</doi>
+              <unstructured_citation>Finley, A., Banerjee, S., Gelfand, A.E.: Bayesian dynamic modeling for large space-time datasets using Gaussian predictive processes. J. Geogr. Syst. 14, 29–47 (2012)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR14">
+              <journal_title>Comput. Stat. Data Anal.</journal_title>
+              <author>AO Finley</author>
+              <volume>53</volume>
+              <issue>8</issue>
+              <first_page>2873</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1016/j.csda.2008.09.008</doi>
+              <unstructured_citation>Finley, A.O., Sang, H., Banerjee, S., Gelfand, A.E.: Improving the performance of predictive process modeling for large datasets. Comput. Stat. Data Anal. 53(8), 2873–2884 (2009). doi: 10.1016/j.csda.2008.09.008</unstructured_citation>
+            </citation>
+            <citation key="9627_CR15">
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <author>JM Forsythe</author>
+              <volume>13</volume>
+              <issue>2</issue>
+              <first_page>709</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/JHM-D-11-049.1</doi>
+              <unstructured_citation>Forsythe, J.M., Dodson, J.B., Partain, P.T., Kidder, S.Q., Haar, T.H.V.: How total precipitable water vapor anomalies relate to cloud vertical structure. J. Hydrometeorol. 13(2), 709–721 (2012)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR16">
+              <unstructured_citation>Fuller, S.H., Millett, L.I. (eds.): The Future of Computing Performance: Game Over or Next Level?. Committee on Sustaining Growth in Computing Performance; National Research Council, Washington, DC (2011)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR17">
+              <journal_title>IEE Proc. Radar Signal Process.</journal_title>
+              <author>N Gordon</author>
+              <volume>140</volume>
+              <issue>2</issue>
+              <first_page>107</first_page>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1049/ip-f-2.1993.0015</doi>
+              <unstructured_citation>Gordon, N., Salmond, D., Smith, A.: Novel approach to nonlinear/non-Gaussian Bayesian state estimation. IEE Proc. Radar Signal Process. 140(2), 107–113 (1993)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR18">
+              <journal_title>Int. J. Robust Nonlinear Control</journal_title>
+              <author>R Graham</author>
+              <volume>22</volume>
+              <issue>5</issue>
+              <first_page>504</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1002/rnc.1710</doi>
+              <unstructured_citation>Graham, R., Cortés, J.: Cooperative adaptive sampling of random fields with partially known covariance. Int. J. Robust Nonlinear Control 22(5), 504–534 (2012)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR19">
+              <author>DA Harville</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1007/b98818</doi>
+              <volume_title>Matrix Algebra from a Statistician’s Perspective</volume_title>
+              <unstructured_citation>Harville, D.A.: Matrix Algebra from a Statistician’s Perspective. Springer, New York (1997)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR20">
+              <journal_title>SIAM Rev.</journal_title>
+              <author>H Henderson</author>
+              <volume>23</volume>
+              <issue>1</issue>
+              <first_page>53</first_page>
+              <cYear>1981</cYear>
+              <doi provider="crossref">10.1137/1023004</doi>
+              <unstructured_citation>Henderson, H., Searle, S.: On deriving the inverse of a sum of matrices. SIAM Rev. 23(1), 53–60 (1981)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR21">
+              <journal_title>Environ. Ecol. Stat.</journal_title>
+              <author>D Higdon</author>
+              <volume>5</volume>
+              <issue>2</issue>
+              <first_page>173</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1023/A:1009666805688</doi>
+              <unstructured_citation>Higdon, D.: A process-convolution approach to modelling temperatures in the North Atlantic Ocean. Environ. Ecol. Stat. 5(2), 173–190 (1998)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR22">
+              <journal_title>J. Am. Stat. Assoc.</journal_title>
+              <author>EL Kang</author>
+              <volume>106</volume>
+              <issue>495</issue>
+              <first_page>972</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1198/jasa.2011.tm09680</doi>
+              <unstructured_citation>Kang, E.L., Cressie, N.: Bayesian inference for the spatial random effects model. J. Am. Stat. Assoc. 106(495), 972–983 (2011)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR23">
+              <journal_title>Comput. Stat. Data Anal.</journal_title>
+              <author>EL Kang</author>
+              <volume>53</volume>
+              <issue>8</issue>
+              <first_page>3016</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1016/j.csda.2008.07.033</doi>
+              <unstructured_citation>Kang, E.L., Liu, D., Cressie, N.: Statistical analysis of small-area data based on independence, spatial, non-hierarchical, and hierarchical models. Comput. Stat. Data Anal. 53(8), 3016–3032 (2009). doi: 10.1016/j.csda.2008.07.033</unstructured_citation>
+            </citation>
+            <citation key="9627_CR24">
+              <doi provider="crossref">10.1016/S0167-7152(96)00208-8</doi>
+              <unstructured_citation>Kanter, M.: Unimodal spectral windows. Stat. Probab. Lett. 34(4), 403–411 (1997). http://linkinghub.elsevier.com/retrieve/pii/S0167715296002088</unstructured_citation>
+            </citation>
+            <citation key="9627_CR25">
+              <journal_title>Environmetrics</journal_title>
+              <author>M Katzfuss</author>
+              <volume>24</volume>
+              <issue>3</issue>
+              <first_page>189</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/env.2200</doi>
+              <unstructured_citation>Katzfuss, M.: Bayesian nonstationary spatial modeling for very large datasets. Environmetrics 24(3), 189–200 (2013)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR26">
+              <doi>10.1080/01621459.2015.1123632</doi>
+              <unstructured_citation>Katzfuss, M.: A multi-resolution approximation for massive spatial datasets. J. Am. Stat. Assoc. (2015). doi: 10.1080/01621459.2015.1123632</unstructured_citation>
+            </citation>
+            <citation key="9627_CR27">
+              <unstructured_citation>Katzfuss, M., Cressie, N.: Maximum likelihood estimation of covariance parameters in the spatial-random-effects model. In: Proceedings of the Joint Statistical Meetings, American Statistical Association, Alexandria, VA, pp 3378–3390 (2009)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR28">
+              <journal_title>J. Time Ser. Anal.</journal_title>
+              <author>M Katzfuss</author>
+              <volume>32</volume>
+              <issue>4</issue>
+              <first_page>430</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1111/j.1467-9892.2011.00732.x</doi>
+              <unstructured_citation>Katzfuss, M., Cressie, N.: Spatio-temporal smoothing and EM estimation for massive remote-sensing data sets. J. Time Ser. Anal. 32(4), 430–446 (2011). doi: 10.1111/j.1467-9892.2011.00732.x</unstructured_citation>
+            </citation>
+            <citation key="9627_CR29">
+              <journal_title>Environmetrics</journal_title>
+              <author>M Katzfuss</author>
+              <volume>23</volume>
+              <issue>1</issue>
+              <first_page>94</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1002/env.1147</doi>
+              <unstructured_citation>Katzfuss, M., Cressie, N.: Bayesian hierarchical spatio-temporal smoothing for very large datasets. Environmetrics 23(1), 94–107 (2012)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR30">
+              <journal_title>J. Atmos. Ocean. Technol.</journal_title>
+              <author>SQ Kidder</author>
+              <volume>24</volume>
+              <issue>1</issue>
+              <first_page>74</first_page>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1175/JTECH1960.1</doi>
+              <unstructured_citation>Kidder, S.Q., Jones, A.S.: A blended satellite total precipitable water product for operational forecasting. J. Atmos. Ocean. Technol. 24(1), 74–81 (2007)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR31">
+              <journal_title>J. Am. Stat. Assoc.</journal_title>
+              <author>RT Lemos</author>
+              <volume>104</volume>
+              <issue>485</issue>
+              <first_page>5</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1198/jasa.2009.0018</doi>
+              <unstructured_citation>Lemos, R.T., Sansó, B.: A spatio-temporal model for mean, anomaly, and trend fields of North Atlantic sea surface temperature. J. Am. Stat. Assoc. 104(485), 5–18 (2009). doi: 10.1198/jasa.2009.0018</unstructured_citation>
+            </citation>
+            <citation key="9627_CR32">
+              <doi provider="crossref">10.1111/j.1467-9868.2011.00777.x</doi>
+              <unstructured_citation>Lindgren, F., Rue, H., Lindström, J.: An explicit link between Gaussian fields and Gaussian Markov random fields: the stochastic partial differential equation approach. J. R. Stat. Soc. Ser. B 73(4), 423–498 (2011)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR33">
+              <journal_title>Test</journal_title>
+              <author>K Mardia</author>
+              <volume>7</volume>
+              <issue>2</issue>
+              <first_page>217</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1007/BF02565111</doi>
+              <unstructured_citation>Mardia, K., Goodall, C., Redfern, E., Alonso, F.: The kriged Kalman filter. Test 7(2), 217–282 (1998)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR34">
+              <journal_title>J. Am. Stat. Assoc.</journal_title>
+              <author>H Nguyen</author>
+              <volume>107</volume>
+              <issue>499</issue>
+              <first_page>1004</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1080/01621459.2012.694717</doi>
+              <unstructured_citation>Nguyen, H., Cressie, N., Braverman, A.: Spatial statistical data fusion for remote sensing applications. J. Am. Stat. Assoc. 107(499), 1004–1018 (2012)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR35">
+              <journal_title>Technometrics</journal_title>
+              <author>H Nguyen</author>
+              <volume>56</volume>
+              <issue>2</issue>
+              <first_page>174</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1080/00401706.2013.831774</doi>
+              <unstructured_citation>Nguyen, H., Katzfuss, M., Cressie, N., Braverman, A.: Spatio-temporal data fusion for very large remote sensing datasets. Technometrics 56(2), 174–185 (2014)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR36">
+              <journal_title>J. Comput. Graph. Stat.</journal_title>
+              <author>DW Nychka</author>
+              <volume>24</volume>
+              <issue>2</issue>
+              <first_page>579</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1080/10618600.2014.914946</doi>
+              <unstructured_citation>Nychka, D.W., Bandyopadhyay, S., Hammerling, D., Lindgren, F., Sain, S.R.: A multi-resolution Gaussian process model for the analysis of large spatial data sets. J. Comput. Graph. Stat. 24(2), 579–599 (2015)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR37">
+              <journal_title>Int. J. Robot. Res.</journal_title>
+              <author>B Rao</author>
+              <volume>12</volume>
+              <issue>1</issue>
+              <first_page>20</first_page>
+              <cYear>1993</cYear>
+              <doi>10.1177/027836499301200102</doi>
+              <unstructured_citation>Rao, B., Durrant-Whyte, H., Sheen, J.: A fully decentralized multi-sensor system for tracking and surveillance. Int. J. Robot. Res. 12(1), 20–44 (1993). doi: 10.1177/027836499301200102</unstructured_citation>
+            </citation>
+            <citation key="9627_CR38">
+              <journal_title>Ann. Appl. Stat.</journal_title>
+              <author>H Sang</author>
+              <volume>5</volume>
+              <issue>4</issue>
+              <first_page>2519</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1214/11-AOAS478</doi>
+              <unstructured_citation>Sang, H., Jun, M., Huang, J.Z.: Covariance approximation for large multivariate spatial datasets with an application to multiple climate model errors. Ann. Appl. Stat. 5(4), 2519–2548 (2011)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR39">
+              <journal_title>Ann. Math. Stat.</journal_title>
+              <author>J Sherman</author>
+              <volume>21</volume>
+              <issue>1</issue>
+              <first_page>124</first_page>
+              <cYear>1950</cYear>
+              <doi provider="crossref">10.1214/aoms/1177729893</doi>
+              <unstructured_citation>Sherman, J., Morrison, W.: Adjustment of an inverse matrix corresponding to a change in one element of a given matrix. Ann. Math. Stat. 21(1), 124–127 (1950)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR40">
+              <journal_title>Environmetrics</journal_title>
+              <author>T Shi</author>
+              <volume>18</volume>
+              <first_page>665</first_page>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1002/env.864</doi>
+              <unstructured_citation>Shi, T., Cressie, N.: Global statistical analysis of MISR aerosol data: a massive data product from NASA’s Terra satellite. Environmetrics 18, 665–680 (2007)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR41">
+              <unstructured_citation>Shoshani, A., Klasky, S., Ross, R.: Scientific data management: Challenges and approaches in the extreme scale era. In: Proceedings of the 2010 Scientific Discovery through Advanced Computing (SciDAC) Conference, Chattanooga, TN, 1, pp 353–366 (2010)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR42">
+              <author>ML Stein</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1007/978-1-4612-1494-6</doi>
+              <volume_title>Interpolation of Spatial Data: Some Theory for Kriging</volume_title>
+              <unstructured_citation>Stein, M.L.: Interpolation of Spatial Data: Some Theory for Kriging. Springer, New York (1999)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR43">
+              <journal_title>Spat. Stat.</journal_title>
+              <author>ML Stein</author>
+              <volume>8</volume>
+              <first_page>1</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1016/j.spasta.2013.06.003</doi>
+              <unstructured_citation>Stein, M.L.: Limitations on low rank approximations for covariance matrices of spatial data. Spat. Stat. 8, 1–19 (2014). doi: 10.1016/j.spasta.2013.06.003</unstructured_citation>
+            </citation>
+            <citation key="9627_CR44">
+              <journal_title>J. Roy. Stat. Soc. B</journal_title>
+              <author>ML Stein</author>
+              <volume>66</volume>
+              <issue>2</issue>
+              <first_page>275</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1046/j.1369-7412.2003.05512.x</doi>
+              <unstructured_citation>Stein, M.L., Chi, Z., Welty, L.: Approximating likelihoods for large spatial data sets. J. Roy. Stat. Soc. B 66(2), 275–296 (2004)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR45">
+              <journal_title>J. R. Stat. Soc. Ser. B</journal_title>
+              <author>A Vecchia</author>
+              <volume>50</volume>
+              <issue>2</issue>
+              <first_page>297</first_page>
+              <cYear>1988</cYear>
+              <unstructured_citation>Vecchia, A.: Estimation and model identification for continuous spatial processes. J. R. Stat. Soc. Ser. B 50(2), 297–312 (1988)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR46">
+              <journal_title>Biometrika</journal_title>
+              <author>CK Wikle</author>
+              <volume>86</volume>
+              <issue>4</issue>
+              <first_page>815</first_page>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1093/biomet/86.4.815</doi>
+              <unstructured_citation>Wikle, C.K., Cressie, N.: A dimension-reduced approach to space-time Kalman filtering. Biometrika 86(4), 815–829 (1999)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR47">
+              <unstructured_citation>Woodbury, M.: Inverting modified matrices. Memorandum Report 42, Statistical Research Group, Princeton University (1950)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR48">
+              <journal_title>J. Am. Stat. Assoc.</journal_title>
+              <author>B Xu</author>
+              <volume>100</volume>
+              <issue>472</issue>
+              <first_page>1133</first_page>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1198/016214505000000682</doi>
+              <unstructured_citation>Xu, B., Wikle, C.K., Fox, N.: A kernel-based spatio-temporal dynamical model for nowcasting radar precipitation. J. Am. Stat. Assoc. 100(472), 1133–1144 (2005)</unstructured_citation>
+            </citation>
+            <citation key="9627_CR49">
+              <journal_title>Sensors</journal_title>
+              <author>Y Xu</author>
+              <volume>11</volume>
+              <issue>3</issue>
+              <first_page>3051</first_page>
+              <cYear>2011</cYear>
+              <doi>10.3390/s110303051</doi>
+              <unstructured_citation>Xu, Y., Choi, J.: Adaptive sampling for learning gaussian processes using mobile sensor networks. Sensors 11(3), 3051–3066 (2011). doi: 10.3390/s110303051</unstructured_citation>
+            </citation>
+            <citation key="9627_CR50">
+              <unstructured_citation>Zhang, K.: ISSCC 2013: Memory trends. http://www.electroiq.com/articles/sst/2013/02/isscc-2013-memory-trends.html (2013). Accessed 12 June 2013</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

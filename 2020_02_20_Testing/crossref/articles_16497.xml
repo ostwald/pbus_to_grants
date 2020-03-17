@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-19 14:05:59">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Development of a large-sample watershed-scale hydrometeorological data set for the contiguous USA: data set characteristics and assessment of regional variability in hydrologic model performance</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>A. J.</given_name>
+              <surname>Newman</surname>
+              <ORCID>https://orcid.org/0000-0001-8796-0861</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M. P.</given_name>
+              <surname>Clark</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>K.</given_name>
+              <surname>Sampson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Wood</surname>
+              <ORCID>https://orcid.org/0000-0002-6231-0085</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>L. E.</given_name>
+              <surname>Hay</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Bock</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R. J.</given_name>
+              <surname>Viger</surname>
+              <ORCID>https://orcid.org/0000-0003-2520-714X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D.</given_name>
+              <surname>Blodgett</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>L.</given_name>
+              <surname>Brekke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J. R.</given_name>
+              <surname>Arnold</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>T.</given_name>
+              <surname>Hopson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Q.</given_name>
+              <surname>Duan</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We present a community data set of daily forcing and hydrologic response data for 671 small- to medium-sized basins across the contiguous United States (median basin size of 336 km<sup>2</sup>) that spans a very wide range of hydroclimatic conditions. Area-averaged forcing data for the period 1980–2010 was generated for three basin spatial configurations – basin mean, hydrologic response units (HRUs) and elevation bands – by mapping daily, gridded meteorological data sets to the subbasin (Daymet) and basin polygons (Daymet, Maurer and NLDAS). Daily streamflow data was compiled from the United States Geological Survey National Water Information System. The focus of this paper is to (1) present the data set for community use and (2) provide a model performance benchmark using the coupled Snow-17 snow model and the Sacramento Soil Moisture Accounting Model, calibrated using the shuffled complex evolution global optimization routine. After optimization minimizing daily root mean squared error, 90% of the basins have Nash–Sutcliffe efficiency scores ≥0.55 for the calibration period and 34% ≥ 0.8. This benchmark provides a reference level of hydrologic model performance for a commonly used model and calibration system, and highlights some regional variations in model performance. For example, basins with a more pronounced seasonal cycle generally have a negative low flow bias, while basins with a smaller seasonal cycle have a positive low flow bias. Finally, we find that data points with extreme error (defined as individual days with a high fraction of total error) are more common in arid basins with limited snow and, for a given aridity, fewer extreme error days are present as the basin snow water equivalent increases.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>14</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>209</first_page>
+            <last_page>223</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Bureau of Reclamation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006450</assertion>
+              </assertion>
+              <assertion name="award_number">RIIAC80816</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-19-209-2015</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/19/209/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/19/209/2015/hess-19-209-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Allen, R. G., Pereira, L. S., Raes, D., and Smith, M.: Crop evapotranspiration: guidelines for computing crop water requirements. Food and Agriculture Organization of the United Nations, Rome, 15 pp., 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Anderson, E. A.: National Weather Service River Forecast System – Snow accumulation and ablation model. NOAA Technical Memorandum, NWS, HYDRO-17, US Department of Commerce, Silver Spring, MD, 217 pp., 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Anderson, E. A.: Calibration of conceptual hydrologic models for use in river forecasting. NOAA Technical Report, NWS 45, Hydrology Laboratory, Silver Spring, MD, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1016/j.jhydrol.2005.07.020</doi>
+              <unstructured_citation>Anderson, R. M., Koren, V. I., and Reed, S. M.: Using SSURGO data to improve Sacramento Model a priori parameter estimates, J. Hydrol., 320, 103–116, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2003WR002854</doi>
+              <unstructured_citation>Andreassian, V., Oddos, A., Michel, C., Anctil, F., Perrin, C., and Loumange, C.: Impact of spatial aggregation of inputs and parameters on the efficiency of rainfall-runoff models: A theoretical study using chimera watersheds, Water Resour. Res., 40, W05209, https://doi.org/10.1029/2003WR002854, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/hess-7-304-2003</doi>
+              <unstructured_citation>Beldring, S., Engeland, K., Roald, L. A., Sælthun, N. R., and Voksø, A.: Estimation of parameters in a distributed precipitation-runoff model for Norway, Hydrol. Earth Syst. Sci., 7, 304–316, https://doi.org/10.5194/hess-7-304-2003, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/hyp.7963</doi>
+              <unstructured_citation>Beven, K. and Westerberg, I.: On red herrings and real herrings: disinformation and information in hydrological inference, Hydrol. Process., 25, 1676–1680, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/hess-15-3123-2011</doi>
+              <unstructured_citation>Beven, K., Smith, P. J., and Wood, A.: On the colour and spin of epistemic error (and what we might do about it), Hydrol. Earth Syst. Sci., 15, 3123–3133, https://doi.org/10.5194/hess-15-3123-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.3133/ofr20111157</doi>
+              <unstructured_citation>Blodgett, D. L., Booth, N. L., Kunicki, T. C., Walker, J. L., and Viger, R. J.: Description and testing of the geo data portal: A data integration framework and web processing services for environmental science collaboration. US Geological Survey, Open-File Report 2011-1157, 9 pp., Middleton WI, USA, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Burnash, R. J. C.: The NWS River Forecast System – Catchment model, in: Computer Models of Watershed Hydrology, edited by: Singh, V. P., 311–366, Water Resources Publications, Highlands Ranch, Colo, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Burnash, R. J. C., Ferral, R. L., McGuire, R. A.: A generalized streamflow simulation system conceptual modeling for digital computers, US Department of Commerce National Weather Service and State of California Department of Water Resources, 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Clark, C. O.: Storage and the unit hydrograph. Proc. Am. Soc. Civ. Eng., 9, 1333–1360, 1945.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2007WR006735</doi>
+              <unstructured_citation>Clark, M. P., Slater, A. G., Rupp, D. E., Woods, R. A., Vrugt, J. A., Gupta, H. V., Wagener, T., and Hay, L. E.: Framework for Understanding Structural Errors (FUSE): A modular framework to diagnose differences between hydrologic models, Water Resour. Res., 44, W00B02, https://doi.org/10.1029/2007WR006735, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/JZ064i002p00241</doi>
+              <unstructured_citation>Dooge, J. C. I.: A general theory of the unit hydrograph, J. Geophys. Res., 64, 241–256, 1959.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/91WR02985</doi>
+              <unstructured_citation>Duan, Q., Sorooshian, S., and Gupta, V. K.: Effective and efficient global optimization for conceptual rainfall-runoff models, Water Resour. Res., 28, 1015–1031, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1007/BF00939380</doi>
+              <unstructured_citation>Duan, Q., Gupta, V. K., and Sorooshian, S.: A shuffled complex evolution approach for effective and efficient optimization, J. Optimiz. Theor. Appl., 76, 501–521, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1016/0022-1694(94)90057-4</doi>
+              <unstructured_citation>Duan, Q., Sorooshian, S., and Gupta, V. K.: Optimal use of the SCE-UA global optimization method for calibrating watershed models, J. Hydrol., 158, 265–284, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1016/j.jhydrol.2005.07.031</doi>
+              <unstructured_citation>Duan, Q., Schaake, J., Andreassian, V., Franks, S., Goteti, G., Gupta, H. V., Gusev, Y. M., Habets, F., Hall, A., Hay, L., Houge, T., Huang, M., Leavesley, G., Liang, X., Nasonova, O. N., Noilhan, J., Oudin, L., Sorooshian, S., Wagener, T., and Wood, E. F.: Model Parameter Estimation Experiment (MOPEX): An overview of science strategy and major results from the second and third workshops, J. Hydrol., 320, 3–17, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/2007JAMC1706.1</doi>
+              <unstructured_citation>Durre, I., Menne, M. J., and Vose, R. S.: Strategies for evaluating quality assurance procedures, J. Appl. Meteor. Climatol., 47, 1785–1791, https://doi.org/10.1175/2007JAMC1706.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/2010JAMC2375.1</doi>
+              <unstructured_citation>Durre, I., Menne, M. J., Gleason, B. E., Houston, T. G., and Vose, R. S.: Comprehensive Automated Quality Assurance of Daily Surface Observations, J. Appl. Meteor. Climatol., 49, 1615–1633, https://doi.org/10.1175/2010JAMC2375.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1002/2013WR014185</doi>
+              <unstructured_citation>Evin, G., Thyer, M., Kavetski, D., McInerney, D., and Kuczera, G.: Comparison of joint versus postprocessor approaches for hydrological uncertainty estimation accounting for error autocorrelation and heteroscedasticity, Water Resour. Res., 50, 2350–2375, https://doi.org/10.1002/2013WR014185, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Falcone, J. A.: GAGES-II: Geospatial Attributes of Gages for Evaluating Streamflow. Digital spatial data set 2011, available at: http://water.usgs.gov/GIS/metadata/usgswrd/XML/gagesII_Sept2011.xml (last access: 10 October 2013), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Falcone. J. A., Carlisle, D. M., Wolock, D. M., and Meador, M. R.: GAGES: A stream gage database for evaluating natural and altered flow conditions in the conterminous United States. Ecology, 91, p. 621, A data paper in Ecological Archives E091-045-D1, available at: http://esapubs.org/Archive/ecol/E091/045/metadata.htm (last access: 5 April 2014), 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/0022-1694(78)90155-5</doi>
+              <unstructured_citation>Garrick, M., Cunnane, C., and Nash, J. E.: A criterion of efficiency for rainfall-runoff models, J. Hydrology, 36, 375–381, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1016/j.jhydrol.2009.08.003</doi>
+              <unstructured_citation>Gupta, H. V., Kling, H., Yilmaz, K. K., and Martinez-Barquero, G. F.: Decomposition of the mean squared error and NSE performance criteria: Implications for improving hydrological modeling, J. Hydrol., 377, 80–91, https://doi.org/10.1016/j.jhydrol.2009.08.003, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/hess-18-463-2014</doi>
+              <unstructured_citation>Gupta, H. V., Perrin, C., Blöschl, G., Montanari, A., Kumar, R., Clark, M., and Andréassian, V.: Large-sample hydrology: a need to balance depth with breadth, Hydrol. Earth Syst. Sci., 18, 463–477, https://doi.org/10.5194/hess-18-463-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Jensen, M. E., Burman, R. D., and Allen, R. G.: Evapotranspiration and irrigation water requirements. American Society of Civil Engineers, ASCE Manual and Reports on Engineering Practice, 332 p., New York, NY, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1016/j.rse.2013.01.012</doi>
+              <unstructured_citation>Jin, S., Yang, L., Danielson, P., Homer, C., Fry, J., and Xian, G.: A comprehensive change detection method for updating the National Land Cover Database to circa 2011, Remote Sens. Environ., 132, 159–175, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/hess-17-2845-2013</doi>
+              <unstructured_citation>Kauffeldt, A., Halldin, S., Rodhe, A., Xu, C.-Y., and Westerberg, I. K.: Disinformative data in large-scale hydrological modelling, Hydrol. Earth Syst. Sci., 17, 2845–2857, https://doi.org/10.5194/hess-17-2845-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2011WR010748</doi>
+              <unstructured_citation>Kavetski, D. and Fenicia, F.: Elements of a flexible approach for conceptual hydrological modeling: 2. Application and experimental insights, Water Resour. Res., 47, W11511, https://doi.org/10.1029/2011WR010748, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/2005WR004376</doi>
+              <unstructured_citation>Kavetski, D., Kuczera, G., and Franks, S. W.: Bayesian analysis of input uncertainty in hydrological modeling: 2. Application, Water Resour. Res., 42, W03407, https://doi.org/10.1029/2005WR004376, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1080/02626668609491024</doi>
+              <unstructured_citation>Klemes, V.: Operational testing of hydrological simulation models, Hydrol. Sci. J., 31, 13–24, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Koren, V. I., Smith, M., Wang, D., and Zhang, Z.: Use of soil property data in the derivation of conceptual rainfall-runoff model parameters. American Meteorological Society 15th Conference on Hydrology, Long Beach, CA, 103–106, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2012WR012195</doi>
+              <unstructured_citation>Kumar, R., Samaniego, L., and Attinger, S.: Implications of distributed hydrologic model parameterization on water fluxes at multiple scales and locations, Water Resour. Res., 49, 360–379, https://doi.org/10.1029/2012WR012195, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.3133/fs20123047</doi>
+              <unstructured_citation>Lins, H. F.: USGS Hydro-Climatic Data Network 2009 (HCDN-2009), US Geological Survey, Fact Sheet 2012-3047, Reston VA, USA, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/hess-16-3029-2012</doi>
+              <unstructured_citation>Livneh, B. and Lettenmaier, D. P.: Multi-criteria parameter estimation for the Unified Land Model, Hydrol. Earth Syst. Sci., 16, 3029–3048, https://doi.org/10.5194/hess-16-3029-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2012WR012220</doi>
+              <unstructured_citation>Livneh, B. and Lettenmaier, D. P.: Regional parameter estimation for the Unified Land Model, Water Resour. Res., 49, 100–114, https://doi.org/10.1029/2012WR012220, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/JCLI-D-12-00508.1</doi>
+              <unstructured_citation>Livneh, B., Rosenberg, E. A., Lin, C., Nijssen, B., Mishra, V., Andreadis, K. M., Maurer, E. P., and Lettenmaier, D. P.: A Long-Term Hydrologically Based Dataset of Land Surface Fluxes and States for the Conterminous United States: Update and Extensions, J. Climate, 26, 9384–9392, https://doi.org/10.1175/JCLI-D-12-00508.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2003JD003517</doi>
+              <unstructured_citation>Lohmann, D., Mitchell, K. E., Houser, P. R., Wood, E. F., Schaake, J. C., Robock, A., Cosgrove, B. A., Sheffield, J., Duan, Q., Luo, L., Higgins, R. W., Pinker, R. T., and Tarpley, J. D.: Streamflow and water balance intercomparisons of four land surface models in the North American Land Data Assimilation System project, J. Geophys. Res., 109, D07S91, https://doi.org/10.1029/2003JD003517, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1111/j.1752-1688.1989.tb03079.x</doi>
+              <unstructured_citation>Martinec, J. and Rango, A.: Merits of statistical criteria for the performance of hydrological models, Water Resour. B., 25, 421–432, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/2009WR008294</doi>
+              <unstructured_citation>Martinez, G. and Gupta, H. V.: Toward improved identification of hydrologic models: A diagnostic evaluation of the &amp;quot;abcd&amp;quot; monthly water balance model for the conterminous United States, Water Resour. Res., 46, W08507, https://doi.org/10.1029/2009WR008294, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2011WR011229</doi>
+              <unstructured_citation>Martinez, G. and Gupta, H. V.: Hydrologic consistency as a basis for assessing complexity of monthly water balance models for the continental United States, Water Resour. Res., 47, W12540, https://doi.org/10.1029/2011WR011229, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/1520-0442(2002)015&lt;3237:ALTHBD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Maurer, E. P., Wood, A. W., Adam, J. C., Lettenmaier, D. P., and Nijssen, B.: A long-term hydrologically-based data set of land surface fluxes and states for the conterminous United States, J. Climate, 15, 3237–3251, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/2008BAMS2613.1</doi>
+              <unstructured_citation>Menne, M. J., Williams Jr., C. N., and Vose, R. S.: The U.S. Historical Climatology Network monthly temperature data, version 2, Bull. Am. Meteor. Soc., 90, 993–1007, https://doi.org/10.1175/2008BAMS2613.1, 2009</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2009JD013094</doi>
+              <unstructured_citation>Menne, M. J., Williams, C. N., and Palecki, M. A.: On the reliability of the U.S. surface temperature record, J. Geophys. Res., 115, D11108, https://doi.org/10.1029/2009JD013094, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1016/j.jhydrol.2003.09.028</doi>
+              <unstructured_citation>Merz, R. and Bloschl, G.: Regionalization of catchment model parameters, J. Hydrol., 287, 95–123, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/JHM-D-12-035.1</doi>
+              <unstructured_citation>Mizukami, N., Koren, V., Smith, M., Kingsmill, D., Zhang, Z., Cosgrove, B., and Cui, Z.: The impact of precipitation type discrimination on hydrologic simulation: Rain-snow partitioning derived from HMT-West radar-detected brightband height versus surface temperature data, J. Hydrometeorol., 14, 1139–1158, https://doi.org/10.1175/JHM-D-12-035.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1016/0022-1694(83)90177-4</doi>
+              <unstructured_citation>Morton, F. I.: Operational estimates of actual evapotranspiration and their significance to the science and practice of hydrology, J. Hydrol., 66, 1–76, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Nash, J. E.: The form of the instantaneous unit hydrograph, International Association of Scientific Hydrology Publication, 45, 114–121, Toronto ON, CA, 1957.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1016/0022-1694(70)90255-6</doi>
+              <unstructured_citation>Nash, J. E. and Sutcliffe, J. V.: River flow forecasting through conceptual models. Part I: A discussion of principles, J. Hydrol., 10, 282–290, https://doi.org/10.1016/0022-1694(70)90255-6, 1970.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Nathan, R. J. and McMahon, T. A.: The SFB model, Part I – Validation of fixed model parameters, Civil Eng. Trans., CE32, 157–161, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1016/j.jhydrol.2011.03.028</doi>
+              <unstructured_citation>Nester, T., Kirnbauer, R., Gutknecht, D., and Bloschl, G.: Climate and catchment controls on the performance of regional flood simulations, J. Hydrol., 402, 340–356, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.2166/nh.2012.041</doi>
+              <unstructured_citation>Nester, T., Kirnbauer, R., Parajka, J., and Bloschl, G.: Evaluating the snow component of a flood forecasting model, Hydrol. Res., 43, 762–779, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/hess-18-67-2014</doi>
+              <unstructured_citation>Oubeidillah, A. A., Kao, S.-C., Ashfaq, M., Naz, B. S., and Tootle, G.: A large-scale, high-resolution hydrological model parameter data set for climate change impact assessment for the conterminous US, Hydrol. Earth Syst. Sci., 18, 67–84, https://doi.org/10.5194/hess-18-67-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1029/2005WR004636</doi>
+              <unstructured_citation>Oudin, L., Andreassian, V., Mathevet, T., Perrin, C., and Michel, C.: Dynamic averaging of rainfall-runoff model simulations from complementary model parameterizations, Water Resour. Res., 42, W07410, https://doi.org/10.1029/2005WR004636, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/2009WR008887</doi>
+              <unstructured_citation>Oudin, L., Kay, A. L., Andreassian, V., and Perrin, C.: Are seemingly physically similar catchments truly hydrologically similar?, Water Resour. Res., 46, W11558, https://doi.org/10.1029/2009WR008887, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Perrin, C., Michel, C., and Andreassian, V.: Does a large number of parameters enhance model performance? Comparative assessment of common catchment model structures on 429 catchments, J. Hydrol., 242, 275–301, https://doi.org/210.1016/S0022-1694(1000)00393-00390, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1029/2009WR008066</doi>
+              <unstructured_citation>Pokhrel, P. and Gupta, H. V.: On the use of spatial regularization strategies to improve calibration of distributed watershed models, Water Resour. Res., 46, W01505, https://doi.org/10.1029/2009WR008066, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1175/1520-0493(1972)100&lt;0081:OTAOSH&gt;2.3.CO;2</doi>
+              <unstructured_citation>Priestly, C. H. B. and Taylor, R. J.: On the assessment of surface heat flux and evaporation using large-scale parameters, Mon. Weather Rev., 100, 81–82, 1972.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2008WR007695</doi>
+              <unstructured_citation>Samaniego, L., Bardossy, A., and Lumar, R.: Streamflow prediction in ungauged catchments using copula-based dissimilarity measures, Water Resour. Res., 46, W02506, https://doi.org/10.1029/2008WR007695, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Schaake, J., Cong, S., Duan, Q.: U.S. MOPEX data set. Report UCRL-JRNL-221228, Lawrence Livermore National Laboratory, Livermore CA, USA, available at: https://e-reports-ext.llnl.gov/pdf/333681.pdf (last access: 10 September 2014), 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/hess-9-95-2005</doi>
+              <unstructured_citation>Schaefli, B., Hingray, B., Niggli, M., and Musy, A.: A conceptual glacio-hydrological model for high mountainous catchments, Hydrol. Earth Syst. Sci., 9, 95–109, https://doi.org/10.5194/hess-9-95-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1002/hyp.6825</doi>
+              <unstructured_citation>Schaefli, B. and Gupta, H. V.: Do Nash values have value?, Hydrol. Process., 21, 2075–2080, https://doi.org/10.1002/hyp.6825, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1175/1520-0493(2000)128&lt;0301:SOABGH&gt;2.0.CO;2</doi>
+              <unstructured_citation>Schlosser, C. A., Slater, A. G., Robock, A., Pitman, A. J., Vinnikov, K. Y., Henderson-Sellers, A., Speranskaya, N. A., Mitchell, K., and the PILPS 2(d) contributors: Simulations of a boreal grassland hydrology at Valdai, Russia: PILPS phase 2(d), Mon. Weather Rev., 128, 301–321, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Sherman, L. K.: Streamflow from rainfall by the unit graph method, Eng. News Rec., 108, 501–505, 1932.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1175/2008JHM1001.1</doi>
+              <unstructured_citation>Shi, X., Wood, A. W., and Letenmaier, D. P.: How essential is hydrologic model calibration to seasonal streamflow forecasting?, J. Hydrometeorol., 9, 1350–1363, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1175/1520-0450(1979)018&lt;0639:HTPTEA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Shuttleworth, W. J. and Calder, I. R.: Has the Priestly-Taylor equation any relevance to forest evaporation?, J. Appl. Meteorol., 18, 639–646, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.3133/ofr92129</doi>
+              <unstructured_citation>Slack, J. R. and Landwehr, J. M.: Hydro-Climatic Data Network (HCDN): A US Geological Survey streamflow data set for the United States for the study of climate variations, 1874–1988, US Geological Survey, Open-File Report 92-129, Reston VA, USA, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1029/92WR02617</doi>
+              <unstructured_citation>Sorooshian, S., Duan, Q., and Gupta, V. K.: Calibration of conceptual rainfall-runoff models using global optimization: application to the Sacramento soil moisture accounting model, Water Resour. Res., 29, 1185–1194, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1016/S0168-1923(98)00126-9</doi>
+              <unstructured_citation>Thornton, P. E. and Running, S. W.: An improved algorithm for estimating incident daily solar radiation from measurements of temperature, humidity and precipitation, Agr. Forest Meteorol., 93, 211–228, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1016/S0022-1694(96)03128-9</doi>
+              <unstructured_citation>Thornton, P. E., Running, S. W., and White, M. A.: Generating surfaces of daily meteorological variables over large regions of complex terrain, J. Hydrol., 190, 214–251, https://doi.org/10.1016/S0022-1694(96)03128-9, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1016/S0168-1923(00)00170-2</doi>
+              <unstructured_citation>Thornton, P. E., Hasenauer, H., and White, M. A.: Simultaneous estimation of daily solar radiation and humidity from observed temperature and precipitation: An application over complex terrain in Austria, Agr. Forest Meteorol., 104, 255–271, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Thornton, P. E., Thornton, M. M., Mayer, B. W., Wilhelmi, N., Wei, Y., and Cook, R. B.: Daymet: Daily surface weather on a 1 km grid for North America, 1980–2012, available at: http://daymet.ornl.gov/ (last access: 15 July 2013) from Oak Ridge National Laboratory Distributed Active Archive Center, Oak Ridge, Tennessee, USA, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Viger, R. J.: Preliminary spatial parameters for PRMS based on the Geospatial Fabric, NLCD2001 and SSURGO, US Geological Survey, https://doi.org/10.5066/F7WM1BF7, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Viger, R. J. and Bock, A.: GIS Features of the Geospatial Fabric for National Hydrologic Modeling, US Geological Survey, https://doi.org/10.5066/F7542KMD, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/2007WR006720</doi>
+              <unstructured_citation>Vrugt, J. A., ter Braak, C. J. F., Clark, M. P., Hyman, J. M., and Robinson, B. A.: Treatment of input uncertainty in hydrologic modeling: Doing hydrology backward with Markov chain Monte Carlo simulation, Water Resour. Res., 44, W00B09, https://doi.org/10.1029/2007WR006720, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1029/2011JD016048</doi>
+              <unstructured_citation>Xia, Y., Mitchell, K., Ek, M., Sheffield, J., Cosgrove, B., Wood, E., Luo, L., Alonge, C., Wei, H., Meng, J., Livneh, B., Lettenmaier, D., Koren, V., Duan, Q., Mo, K., Fan, Y., and Mocko, D.: Continental-scale water and energy flux analysis and validation for the North American Land Data Assimilation System project phase 2 (NLDAS-2): 1. Intercomparison and application of model products, J. Geophys. Res., 117, D03109, https://doi.org/10.1029/2011JD016048, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1175/1520-0426(1998)015&lt;0054:AONSNP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Yang, D., Goodison, B. E., Metcalfe, J. R., Golubev, V. S., Bates, R., Pangburn, T., and Hanson, C. L.: Accuracy of NWS 8&amp;quot; standard nonrecording precipitation gauge: Results and application of WMO intercomparison, J. Atmos. Ocean. Technol., 15, 54–68, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1029/2007WR006716</doi>
+              <unstructured_citation>Yilmaz, K. K., Gupta, H. V., and Wagener, T.: A process-based diagnostic approach to model evaluation: Application to the NWS distributed hydrologic model, Water Resour. Res., 44, W09417, https://doi.org/10.1029/2007WR006716, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1016/j.jhydrol.2011.12.004</doi>
+              <unstructured_citation>Zhang, Z., Koren, V., Reed, S., Smith, M., Zhang, Y., Moreda, F., and Cosgrove, B.: SAC-SMA a priori parameter differences and their impact on distributed hydrologic model simulations, J. Hydrol., 420–421, 216–227, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Zotarelli, L., Dukes, M. D., Romero, C. C., Migliaccio, K. W., and Morgan, K. T.: Step by step calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method). University of Florida Extension, AE459, available at: http://edis.ifas.ufl.edu (last access: 1 April 2014), 10 pp., 2009.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

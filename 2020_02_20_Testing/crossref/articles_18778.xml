@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>8</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>LS3MIP (v1.0) contribution to CMIP6: the Land Surface, Snow and Soil
+moisture Model Intercomparison Project – aims, setup and expected outcome</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Bart</given_name>
+              <surname>van den Hurk</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hyungjun</given_name>
+              <surname>Kim</surname>
+              <ORCID>https://orcid.org/0000-0003-1083-8416</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gerhard</given_name>
+              <surname>Krinner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sonia I.</given_name>
+              <surname>Seneviratne</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chris</given_name>
+              <surname>Derksen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Taikan</given_name>
+              <surname>Oki</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hervé</given_name>
+              <surname>Douville</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeanne</given_name>
+              <surname>Colin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Agnès</given_name>
+              <surname>Ducharne</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frederique</given_name>
+              <surname>Cheruy</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicholas</given_name>
+              <surname>Viovy</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michael J.</given_name>
+              <surname>Puma</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yoshihide</given_name>
+              <surname>Wada</surname>
+              <ORCID>https://orcid.org/0000-0003-4770-2539</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Weiping</given_name>
+              <surname>Li</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Binghao</given_name>
+              <surname>Jia</surname>
+              <ORCID>https://orcid.org/0000-0002-9354-0457</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrea</given_name>
+              <surname>Alessandri</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dave M.</given_name>
+              <surname>Lawrence</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Graham P.</given_name>
+              <surname>Weedon</surname>
+              <ORCID>https://orcid.org/0000-0003-1262-9984</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Richard</given_name>
+              <surname>Ellis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stefan</given_name>
+              <surname>Hagemann</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jiafu</given_name>
+              <surname>Mao</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mark G.</given_name>
+              <surname>Flanner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matteo</given_name>
+              <surname>Zampieri</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stefano</given_name>
+              <surname>Materia</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rachel M.</given_name>
+              <surname>Law</surname>
+              <ORCID>https://orcid.org/0000-0002-7346-0927</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justin</given_name>
+              <surname>Sheffield</surname>
+              <ORCID>https://orcid.org/0000-0003-2400-0630</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Land Surface, Snow and Soil Moisture Model Intercomparison Project (LS3MIP) is designed to provide a comprehensive assessment of land surface, snow and soil moisture feedbacks on climate variability and climate change, and to diagnose systematic biases in the land modules of current Earth system models (ESMs). The solid and liquid water stored at the land surface has a large influence on the regional climate, its variability and predictability, including effects on the energy, water and carbon cycles. Notably, snow and soil moisture affect surface radiation and flux partitioning properties, moisture storage and land surface memory. They both strongly affect atmospheric conditions, in particular surface air temperature and precipitation, but also large-scale circulation patterns. However, models show divergent responses and representations of these feedbacks as well as systematic biases in the underlying processes. LS3MIP will provide the means to quantify the associated uncertainties and better constrain climate change projections, which is of particular interest for highly vulnerable regions (densely populated areas, agricultural regions, the Arctic, semi-arid and other sensitive terrestrial ecosystems). <br><br> The experiments are subdivided in two components, the first addressing systematic land biases in offline mode (“LMIP”, building upon the 3rd phase of Global Soil Wetness Project; GSWP3) and the second addressing land feedbacks attributed to soil moisture and snow in an integrated framework (“LFMIP”, building upon the GLACE-CMIP blueprint).</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>24</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>2809</first_page>
+            <last_page>2832</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-2809-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/2809/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/2809/2016/gmd-9-2809-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/JCLI-D-12-00417.1</doi>
+              <unstructured_citation>Anav, A., Friedlingstein, P., Kidston, M., Bopp, L., Ciais, P., Cox, P., Jones, C., Jung, M., Myneni, R., and Zhu, Z.: Evaluating the Land and Ocean Components of the Global Carbon Cycle in the CMIP5 Earth System Models, J. Climate, 26, 6801–6843, https://doi.org/10.1175/JCLI-D-12-00417.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Baldocchi, D., Falge, E., Gu, L., Olson, R., Hollinger, D., Running, S., Anthoni, P., Bernhofer, C., Davis, K., Evans, R., Fuentes, J., Goldstein, A., Katul, G., Law, B., Lee, X., Malhi, Y., Meyers, T., Munger, W., Oechel, W., Paw, K. T., Pilegaard, K., Schmid, H. P., Valentini, R., Verma, S., Vesala, T., Wilson, K., and Wofsy, S.: FLUXNET: A New Tool to Study the Temporal and Spatial Variability of Ecosystem–Scale Carbon Dioxide, Water Vapor, and Energy Flux Densities, B. Am. Meteorol. Soc., 82, 2415–2434, https://doi.org/10.1175/1520-0477(2001)082&amp;amp;lt;2415:FANTTS&amp;amp;gt;2.3.CO;2, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/JHM-D-14-0158.1</doi>
+              <unstructured_citation>Best, M. J., Abramowitz, G., Johnson, H. R., Pitman, A. J., Balsamo, G., Boone, A., Cuntz, M., Decharme, B., Dirmeyer, P. A., Dong, J., Ek, M., Guo, Z., Haverd, V., van den Hurk, B. J. J., Nearing, G. S., Pak, B., Peters-Lidard, C., Santanello, J. A., Stevens, L., and Vuichard, N.: The Plumbing of Land Surface Models: Benchmarking Model Performance, J. Hydrometeorol., 16, 1425–1442, https://doi.org/10.1175/JHM-D-14-0158.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/2009BAMS2786.1</doi>
+              <unstructured_citation>Boone, A., Decharme, B., Guichard, F., de Rosnay, P., Balsamo, G., Beljaars, A., Chopin, F., Orgeval, T., Polcher, J., Delire, C., Ducharne, A., Gascoin, S., Grippa, M., Jarlan, L., Kergoat, L., Mougin, E., Gusev, Y., Nasonova, O., Harris, P., Taylor, C., Norgaard, A., Sandholt, I., Ottlé, C., Poccard-Leclercq, I., Saux-Picart, S., and Xue, Y.: The AMMA Land Surface Model Intercomparison Project (ALMIP), B. Am. Meteorol. Soc., 90, 1865–1880, https://doi.org/10.1175/2009BAMS2786.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/2008JCLI2665.1</doi>
+              <unstructured_citation>Brown, R. D. and Mote, P. W.: The Response of Northern Hemisphere Snow Cover to a Changing Climate, J. Climate, 22, 2124–2145, https://doi.org/10.1175/2008JCLI2665.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/tc-7-67-2013</doi>
+              <unstructured_citation>Brutel-Vuilmet, C., Ménégoz, M., and Krinner, G.: An analysis of present and future seasonal Northern Hemisphere land snow cover simulated by CMIP5 coupled climate models, The Cryosphere, 7, 67–80, https://doi.org/10.5194/tc-7-67-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/jgrd.50627</doi>
+              <unstructured_citation>Campoy, A., Ducharne, A., Cheruy, F., Hourdin, F., Polcher, J., and Dupont, J. C.: Response of land surface fluxes and precipitation to different soil bottom hydrological conditions in a general circulation model, J. Geophys. Res.-Atmos., 118, 10725–10739, https://doi.org/10.1002/jgrd.50627, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/2015JG003140</doi>
+              <unstructured_citation>Carmack, E., Yamamoto-Kawai, M., Haine, T., Bacon, S., Bluhm, B., Lique, C., Melling, H., Polyakov, I., Straneo, F., Timmermans, M.-L., and Williams, W.: Fresh water and its role in the Arctic Marine System: sources, disposition, storage, export, and physical and biogeochemical consequences in the Arctic and global oceans, J. Geophys. Res.-Biogeo., 121, 675–717, https://doi.org/10.1002/2015JG003140, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1007/s00382-013-1731-y</doi>
+              <unstructured_citation>Cattiaux, J., Douville, H., and Peings, Y.: European temperatures in CMIP5: origins of present-day biases and future uncertainties, Clim. Dynam., 41, 2889–2907, https://doi.org/10.1007/s00382-013-1731-y, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/2014GL061145</doi>
+              <unstructured_citation>Cheruy, F., Dufresne, J. L., Hourdin, F., and Ducharne, A.: Role of clouds and land-atmosphere coupling in midlatitude continental summer warm biases and climate change amplification in CMIP5 simulations, Geophys. Res. Lett., 41, 6493–6500, https://doi.org/10.1002/2014GL061145, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/2015WR017096</doi>
+              <unstructured_citation>Clark, M. P., Fan, Y., Lawrence, D. M., Adam, J. C., Bolster, D., Gochis, D. J., Hooper, R. P., Kumar, M., Leung, L. R., Mackay, D. S., Maxwell, R. M., Shen, C., Swenson, S. C., and Zeng, X.: Improving the representation of hydrologic processes in Earth System Models, Water Resour. Res., 51, 5929–5956, https://doi.org/10.1002/2015WR017096, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1002/qj.776</doi>
+              <unstructured_citation>Compo, G. P., Whitaker, J. S., Sardeshmukh, P. D., Matsui, N., Allan, R. J., Yin, X., Gleason, B. E., Vose, R. S., Rutledge, G., Bessemoulin, P., Brönnimann, S., Brunet, M., Crouthamel, R. I., Grant, A. N., Groisman, P. Y., Jones, P. D., Kruk, M. C., Kruger, A. C., Marshall, G. J., Maugeri, M., Mok, H. Y., Nordli, Ø., Ross, T. F., Trigo, R. M., Wang, X. L., Woodruff, S. D., and Worley, S. J.: The Twentieth Century Reanalysis Project, Q. J. Roy. Meteor. Soc., 137, 1–28, https://doi.org/10.1002/qj.776, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1038/nature11882</doi>
+              <unstructured_citation>Cox, P. M., Pearson, D., Booth, B. B., Friedlingstein, P., Huntingford, C., Jones, C. D., and Luke, C. M.: Sensitivity of tropical carbon to climate change constrained by carbon dioxide variability, Nature, 494, 341–344, https://doi.org/10.1038/nature11882, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/1525-7541(2002)003&lt;0660:EOFDFC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Dai, A. and Trenberth, K. E.: Estimates of Freshwater Discharge from Continents: Latitudinal and Seasonal Variations, J. Hydrometeorol., 3, 660–687, https://doi.org/10.1175/1525-7541(2002)003&amp;amp;lt;0660:EOFDFC&amp;amp;gt;2.0.CO;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2012GL053387</doi>
+              <unstructured_citation>Derksen, C. and Brown, R.: Spring snow cover extent reductions in the 2008–2012 period exceeding climate model projections, Geophys. Res. Lett., 39, L19504, https://doi.org/10.1029/2012GL053387, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Dirmeyer, P. A., Dolman, A. J., and Sato, N.: The Pilot Phase of the Global Soil Wetness Project, B. Am. Meteorol. Soc., 80, 851–878, https://doi.org/10.1175/1520-0477(1999)080&amp;amp;lt;0851:TPPOTG&amp;amp;gt;2.0.CO;2, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/BAMS-87-10-1381</doi>
+              <unstructured_citation>Dirmeyer, P. A., Gao, X., Zhao, M., Guo, Z., Oki, T., and Hanasaki, N.: GSWP-2: Multimodel Analysis and Implications for Our Perception of the Land Surface, B. Am. Meteorol. Soc., 87, 1381–1397, https://doi.org/10.1175/BAMS-87-10-1381, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/JCLI-D-13-00029.1</doi>
+              <unstructured_citation>Dirmeyer, P. A., Kumar, S., Fennessy, M. J., Altshuler, E. L., DelSole, T., Guo, Z., Cash, B. A., and Straus, D.: Model Estimates of Land-Driven Predictability in a Changing Climate from CCSM4, J. Climate, 26, 8495–8512, https://doi.org/10.1175/JCLI-D-13-00029.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Dirmeyer, P. A., Peters-Lidard, C., and Balsamo, G.: Land-Atmosphere Interactions and the Water Cycle, Seamless prediction of the Earth system: from minutes to months, edited by: Brunet, G., Jones, S., and Ruti, P. M., Vol. 1156, chap. 15, WMO, Geneva, Switzerland, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2012GL052988</doi>
+              <unstructured_citation>Dorigo, W., de Jeu, R., Chung, D., Parinussa, R., Liu, Y., Wagner, W., and Fernández-Prieto, D.: Evaluating global trends (1988–2010) in harmonized multi-satellite surface soil moisture, Geophys. Res. Lett., 39, L18405, https://doi.org/10.1029/2012GL052988, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/1525-7541(2003)004&lt;1044:ATIOSM&gt;2.0.CO;2</doi>
+              <unstructured_citation>Douville, H.: Assessing the Influence of Soil Moisture on Seasonal Climate Variability with AGCMs, J. Hydrometeorol., 4, 1044–1066, https://doi.org/10.1175/1525-7541(2003)004&amp;amp;lt;1044:ATIOSM&amp;amp;gt;2.0.CO;2, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1007/s00382-006-0207-8</doi>
+              <unstructured_citation>Douville, H., Conil, S., Tyteca, S., and Voldoire, A.: Soil moisture memory and West African monsoon predictability: artefact or reality?, Clim. Dynam., 28, 723–742, https://doi.org/10.1007/s00382-006-0207-8, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1038/nclimate1632</doi>
+              <unstructured_citation>Douville, H., Ribes, A., Decharme, B., Alkama, R., and Sheffield, J.: Anthropogenic influence on multidecadal changes in reconstructed global evapotranspiration, Nat. Clim. Change, 3, 59–62, https://doi.org/10.1038/nclimate1632, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1002/2015GL066222</doi>
+              <unstructured_citation>Douville, H., Colin, J., Krug, E., Cattiaux, J., and Thao, S.: Midlatitude daily summer temperatures reshaped by soil moisture under climate change, Geophys. Res. Lett., 43, 812–818, https://doi.org/10.1002/2015GL066222, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/2009BAMS2629.1</doi>
+              <unstructured_citation>Essery, R., Rutter, N., Pomeroy, J., Baxter, R., Stähli, M., Gustafsson, D., Barr, A., Bartlett, P., and Elder, K.: SNOWMIP2: An Evaluation of Forest Snow Process Simulations, B. Am. Meteorol. Soc., 90, 1120–1135, https://doi.org/10.1175/2009BAMS2629.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.3189/172756404781814825</doi>
+              <unstructured_citation>Etchevers, P., Martin, E., Brown, R., Fierz, C., Lejeune, Y., Bazile, E., Boone, A., Dai, Y.-J., Essery, R., Fernandez, A., Gusev, Y., Jordan, R., Koren, V., Kowalczyk, E., Nasonova, N. O., Pyles, R. D., Schlosser, A., Shmakin, A. B., Smirnova, T. G., Strasser, U., Verseghy, D., Yamazaki, T., and Yang, Z.-L.: Validation of the energy budget of an alpine snowpack simulated by several snow models (SnowMIP project), Ann. Glaciol., 38, 150–158, https://doi.org/10.3189/172756404781814825, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1088/1748-9326/8/4/044050</doi>
+              <unstructured_citation>Evans, J., Ji, F., Abramowitz, G., and Ekström, M.: Optimally choosing small ensemble members to produce robust climate simulations, Environ. Res. Lett., 8, 044050, https://doi.org/10.1088/1748-9326/8/4/044050, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/gmd-9-1937-2016</doi>
+              <unstructured_citation>Eyring, V., Bony, S., Meehl, G. A., Senior, C. A., Stevens, B., Stouffer, R. J., and Taylor, K. E.: Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization, Geosci. Model Dev., 9, 1937–1958, https://doi.org/10.5194/gmd-9-1937-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1038/ngeo1062</doi>
+              <unstructured_citation>Flanner, M. G., Shell, K. M., Barlage, M., Perovich, D. K., and Tschudi, M. A.: Radiative forcing and albedo feedback from the Northern Hemisphere cryosphere between 1979 and 2008, Nat. Geosci., 4, 151–155, https://doi.org/10.1038/ngeo1062, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2012JD017724</doi>
+              <unstructured_citation>Fletcher, C. G., Zhao, H., Kushner, P. J., and Fernandes, R.: Using models and satellite observations to evaluate the strength of snow albedo feedback, J. Geophys. Res.-Atmos., 117, D11117, https://doi.org/10.1029/2012JD017724, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/JCLI-D-12-00579.1</doi>
+              <unstructured_citation>Friedlingstein, P., Meinshausen, M., Arora, V. K., Jones, C. D., Anav, A., Liddicoat, S. K., and Knutti, R.: Uncertainties in CMIP5 Climate Projections due to Carbon Cycle Feedbacks, J. Climate, 27, 511–526, https://doi.org/10.1175/JCLI-D-12-00579.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2010GL043870</doi>
+              <unstructured_citation>Gobron, N., Belward, A., Pinty, B., and Knorr, W.: Monitoring biosphere vegetation 1998–2009, Geophys. Res. Lett., 37, L15402, https://doi.org/10.1029/2010GL043870, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/2011JG001916</doi>
+              <unstructured_citation>Gouttevin, I., Menegoz, M., Dominé, F., Krinner, G., Koven, C., Ciais, P., Tarnocai, C., and Boike, J.: How the insulating properties of snow affect soil carbon distribution in the continental pan-Arctic area, J. Geophys. Res.-Biogeo., 117, G02020, https://doi.org/10.1029/2011JG001916, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/gmd-2016-122</doi>
+              <unstructured_citation>Gregory, J. M., Bouttes-Mauhourat, N., Griffies, S. M., Haak, H., Hurlin, W. J., Jungclaus, J., Kelley, M., Lee, W. G., Marshall, J., Romanou, A., Saenko, O. A., Stammer, D., and Winton, M.: The Flux-Anomaly-Forced Model Intercomparison Project (FAFMIP) contribution to CMIP6: Investigation of sea-level and ocean climate change in response to CO2 forcing, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-122, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1038/ngeo2247</doi>
+              <unstructured_citation>Greve, P., Orlowsky, B., Mueller, B., Sheffield, J., Reichstein, M., and Seneviratne, S. I.: Global assessment of trends in wetting and drying over land, Nat. Geosci., 7, 716–721, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/gmd-2016-77</doi>
+              <unstructured_citation>Griffies, S. M., Danabasoglu, G., Durack, P. J., Adcroft, A. J., Balaji, V., Böning, C. W., Chassignet, E. P., Curchitser, E., Deshayes, J., Drange, H., Fox-Kemper, B., Gleckler, P. J., Gregory, J. M., Haak, H., Hallberg, R. W., Hewitt, H. T., Holland, D. M., Ilyina, T., Jungclaus, J. H., Komuro, Y., Krasting, J. P., Large, W. G., Marsland, S. J., Masina, S., McDougall, T. J., Nurser, A. J. G., Orr, J. C., Pirani, A., Qiao, F., Stouffer, R. J., Taylor, K. E., Treguier, A. M., Tsujino, H., Uotila, P., Valdivieso, M., Winton, M., and Yeager, S. G.: Experimental and diagnostic protocol for the physical component of the CMIP6 Ocean Model Intercomparison Project (OMIP), Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-77, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/JHM-D-12-0171.1</doi>
+              <unstructured_citation>Guo, Z. and Dirmeyer, P. A.: Interannual Variability of Land–Atmosphere Coupling Strength, J. Hydrometeorol., 14, 1636–1646, https://doi.org/10.1175/JHM-D-12-0171.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/2011JHM1324.1</doi>
+              <unstructured_citation>Haddeland, I., Clark, D. B., Franssen, W., Ludwig, F., Voß, F., Arnell, N. W., Bertrand, N., Best, M., Folwell, S., Gerten, D., Gomes, S., Gosling, S. N., Hagemann, S., Hanasaki, N., Harding, R., Heinke, J., Kabat, P., Koirala, S., Oki, T., Polcher, J., Stacke, T., Viterbo, P., Weedon, G. P., and Yeh, P.: Multimodel Estimate of the Global Terrestrial Water Balance: Setup and First Results, J. Hydrometeorol., 12, 869–884, https://doi.org/10.1175/2011JHM1324.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2007GL032012</doi>
+              <unstructured_citation>Hall, A., Qu, X., and Neelin, J. D.: Improving predictions of summer climate change in the United States, Geophys. Res. Lett., 35, L01702, https://doi.org/10.1029/2007GL032012, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1002/2016GL068036</doi>
+              <unstructured_citation>Hauser, M., Orth, R., and Seneviratne, S. I.: Role of soil moisture vs recent climate change for heat waves in western Russia, Geophys. Res. Lett., 43, 2819–2826, https://doi.org/10.1002/2016GL068036, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/esd-4-219-2013</doi>
+              <unstructured_citation>Hempel, S., Frieler, K., Warszawski, L., Schewe, J., and Piontek, F.: A trend-preserving bias correction – the ISI-MIP approach, Earth Syst. Dynam., 4, 219–236, https://doi.org/10.5194/esd-4-219-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1002/2013JG002381</doi>
+              <unstructured_citation>Hoffman, F. M., Randerson, J. T., Arora, V. K., Bao, Q., Cadule, P., Ji, D., Jones, C. D., Kawamiya, M., Khatiwala, S., Lindsay, K., Obata, A., Shevliakova, E., Six, K. D., Tjiputra, J. F., Volodin, E. M., and Wu, T.: Causes and implications of persistent atmospheric carbon dioxide biases in Earth System Models, J. Geophys. Res.-Biogeo., 119, 141–162, https://doi.org/10.1002/2013JG002381, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1007/s00382-003-0332-6</doi>
+              <unstructured_citation>Holland, M. M. and Bitz, C. M.: Polar amplification of climate change in coupled models, Clim. Dynam., 21, 221–232, https://doi.org/10.1007/s00382-003-0332-6, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Hong, S.-Y. and Chang, E.-C.: Spectral nudging sensitivity experiments in a regional climate model, Asia-Pac. J. Atmos. Sci., 48, 345–355, https://doi.org/10.1007/s13143-012-0033-3, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1007/s00382-010-0780-8</doi>
+              <unstructured_citation>Jaeger, E. B. and Seneviratne, S. I.: Impact of soil moisture–atmosphere coupling on European climate extremes and trends in a regional climate model, Clim. Dynam., 36, 1919–1939, https://doi.org/10.1007/s00382-010-0780-8, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/gmd-2016-36</doi>
+              <unstructured_citation>Jones, C. D., Arora, V., Friedlingstein, P., Bopp, L., Brovkin, V., Dunne, J., Graven, H., Hoffman, F., Ilyina, T., John, J. G., Jung, M., Kawamiya, M., Koven, C., Pongratz, J., Raddatz, T., Randerson, J., and Zaehle, S.: The C4MIP experimental protocol for CMIP6, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-36, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1038/nature09396</doi>
+              <unstructured_citation>Jung, M., Reichstein, M., Ciais, P., Seneviratne, S. I., Sheffield, J., Goulden, M. L., Bonan, G., Cescatti, A., Chen, J., de Jeu, R., Dolman, A. J., Eugster, W., Gerten, D., Gianelle, D., Gobron, N., Heinke, J., Kimball, J., Law, B. E., Montagnani, L., Mu, Q., Mueller, B., Oleson, K., Papale, D., Richardson, A. D., Roupsard, O., Running, S., Tomelleri, E., Viovy, N., Weber, U., Williams, C., Wood, E., Zaehle, S., and Zhang, K.: Recent decline in the global land evapotranspiration trend due to limited moisture supply, Nature, 467, 951–954, https://doi.org/10.1038/nature09396, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Kim, H.: Role of rivers in the spatiotemporal variations of terrestrial hydrological circulations, University of Tokyo, Tokyo, Japan, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2009GL039006</doi>
+              <unstructured_citation>Kim, H., Yeh, P. J.-F., Oki, T., and Kanae, S.: Role of rivers in the seasonal variations of terrestrial water storage over global basins, Geophys. Res. Lett., 36, L17402, https://doi.org/10.1029/2009GL039006, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Kim, H., Watanabe, S., Chang, E-.C., Yoshimura, K., Compo, G. P., Hirabayashi, Y., Famiglietti, J., and Oki, T.: A century-long global surface meteorology for offline terrestrial simulations, in preparation, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1175/1525-7541(2000)001&lt;0026:VAPOPA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Koster, R. D., Suarez, M. J., and Heiser, M.: Variance and Predictability of Precipitation at Seasonal-to-Interannual Timescales, J. Hydrometeorol., 1, 26–46, https://doi.org/10.1175/1525-7541(2000)001&amp;amp;lt;0026:VAPOPA&amp;amp;gt;2.0.CO;2, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1126/science.1100217</doi>
+              <unstructured_citation>Koster, R. D., Guo, Z., Bonan, G., Chan, E., Cox, P., Gordon, C. T., Kanae, S., Kowalczyk, E., Lawrence, D., Liu, P., Lu, C.-H., Malyshev, S., McAvaney, B., Mitchell, K., Mocko, D., Oki, T., Oleson, K., Pitman, A., Sud, Y. C., Taylor, C. M., Verseghy, D., Vasic, R., Xue, Y., and Yamada, T.: Regions of Strong Coupling Between Soil Moisture and Precipitation, Science, 305, 1138–1140, https://doi.org/10.1126/science.1100217, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1175/JHM510.1</doi>
+              <unstructured_citation>Koster, R. D., Sud, Y. C., Guo, Z., Dirmeyer, P. A., Bonan, G., Oleson, K. W., Chan, E., Verseghy, D., Cox, P., Davies, H., Kowalczyk, E., Gordon, C. T., Kanae, S., Lawrence, D., Liu, P., Mocko, D., Lu, C.-H., Mitchell, K., Malyshev, S., McAvaney, B., Oki, T., Yamada, T., Pitman, A., Taylor, C. M., Vasic, R., and Xue, Y.: GLACE: The Global Land–Atmosphere Coupling Experiment. Part I: Overview, J. Hydrometeorol., 7, 590–610, https://doi.org/10.1175/JHM510.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1029/2009GL041677</doi>
+              <unstructured_citation>Koster, R. D., Mahanama, S. P. P., Yamada, T. J., Balsamo, G., Berg, A. A., Boisserie, M., Dirmeyer, P. A., Doblas-Reyes, F. J., Drewitt, G., Gordon, C. T., Guo, Z., Jeong, J.-H., Lawrence, D. M., Lee, W.-S., Li, Z., Luo, L., Malyshev, S., Merryfield, W. J., Seneviratne, S. I., Stanelle, T., van den Hurk, B. J. J. M., Vitart, F., and Wood, E. F.: Contribution of land surface initialization to subseasonal forecast skill: First results from a multi-model experiment, Geophys. Res. Lett., 37, L02402, https://doi.org/10.1029/2009GL041677, 2010a.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1038/ngeo944</doi>
+              <unstructured_citation>Koster, R. D., Mahanama, S. P. P., Livneh, B., Lettenmaier, D. P., and Reichle, R. H.: Skill in streamflow forecasts derived from large-scale estimates of soil moisture and snow, Nat. Geosci., 3, 613–616, https://doi.org/10.1038/ngeo944, 2010b.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1175/JCLI-D-12-00228.1</doi>
+              <unstructured_citation>Koven, C. D., Riley, W. J., and Stern, A.: Analysis of Permafrost Thermal Dynamics and Response to Climate Change in the CMIP5 Earth System Models, J. Climate, 26, 1877–1900, https://doi.org/10.1175/JCLI-D-12-00228.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/gmd-2016-76</doi>
+              <unstructured_citation>Lawrence, D. M., Hurtt, George C., Arneth, A., Brovkin, V., Calvin, K. V., Jones, Andrew D., Jones, C. D., Lawrence, P. J., de Noblet-Ducoudré, N., Pongratz, J., Seneviratne, S. I., and Shevliakova, E.: The Land Use Model Intercomparison Project (LUMIP): Rationale and experimental design, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-76, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1016/j.advwatres.2013.02.001</doi>
+              <unstructured_citation>Lehning, M.: Snow–atmosphere interactions and hydrological consequences, Adv. Water Resour., 55, 1–3, https://doi.org/10.1016/j.advwatres.2013.02.001, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1016/j.shpsb.2010.07.001</doi>
+              <unstructured_citation>Lenhard, J. and Winsberg, E.: Holism, entrenchment, and the future of climate model pluralism, Stud. Hist. Philos. Sci. Part B, 41, 253–262, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1038/ngeo689</doi>
+              <unstructured_citation>Le Quéré, C., Raupach, M. R., Canadell, J. G., Marland, G., Bopp, L., Ciais, P., Conway, T. J., Doney, S. C., Feely, R. A., Foster, P., Friedlingstein, P., Gurney, K., Houghton, R. A., House, J. I., Huntingford, C., Levy, P. E., Lomas, M. R., Majkut, J., Metzl, N., Ometto, J. P., Peters, G. P., Prentice, I. C., Randerson, J. T., Running, S. W., Sarmiento, J. L., Schuster, U., Sitch, S., Takahashi, T., Viovy, N., van der Werf, G. R., and Woodward, F. I.: Trends in the sources and sinks of carbon dioxide, Nat. Geosci., 2, 831–836, https://doi.org/10.1038/ngeo689, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1016/j.rse.2012.03.014</doi>
+              <unstructured_citation>Liu, Y. Y., Dorigo, W. A., Parinussa, R. M., de Jeu, R. A. M., Wagner, W., McCabe, M. F., Evans, J. P., and van Dijk, A. I. J. M.: Trend-preserving blending of passive and active microwave soil moisture retrievals, Remote Sens. Environ., 123, 280–297, https://doi.org/10.1016/j.rse.2012.03.014, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1088/1748-9326/10/9/094008</doi>
+              <unstructured_citation>Mao, J., Fu, W., Shi, X., Ricciuto, D. M., Fisher, J. B., Dickinson, R. E., Wei, Y., Shem, W., Piao, S., Wang, K., Schwalm, C. R., Tian, H., Mu, M., Arain, A., Ciais, P., Cook, R., Dai, Y., Hayes, D., Hoffman, F. M., Huang, M., Huang, S., Huntzinger, D. N., Ito, A., Jain, A., King, A. W., Lei, H., Lu, C., Michalak, A. M., Parazoo, N., Peng, C., Peng, S., Poulter, B., Schaefer, K., Jafarov, E., Thornton, P. E., Wang, W., Zeng, N., Zeng, Z., Zhao, F., Zhu, Q., and Zhu, Z.: Disentangling climatic and anthropogenic controls on global terrestrial evapotranspiration trends, Environ. Res. Lett., 10, 094008, https://doi.org/10.1088/1748-9326/10/9/094008, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1007/s00382-012-1514-x</doi>
+              <unstructured_citation>Materia, S., Gualdi, S., Navarra, A., and Terray, L.: The effect of Congo River freshwater discharge on Eastern Equatorial Atlantic climate variability, Clim. Dynam., 39, 2109–2125, https://doi.org/10.1007/s00382-012-1514-x, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/bg-12-4029-2015</doi>
+              <unstructured_citation>Meng, L., Paudel, R., Hess, P. G. M., and Mahowald, N. M.: Seasonal and interannual variability in wetland methane emissions simulated by CLM4Me' and CAM-chem and comparisons to observations of concentrations, Biogeosciences, 12, 4029–4049, https://doi.org/10.5194/bg-12-4029-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1175/JCLI-D-15-0229.1</doi>
+              <unstructured_citation>Mudryk, L. R., Derksen, C., Kushner, P. J., and Brown, R.: Characterization of Northern Hemisphere Snow Water Equivalent Datasets, 1981–2010, J. Climate, 28, 8037–8051, https://doi.org/10.1175/JCLI-D-15-0229.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1002/2013GL058055</doi>
+              <unstructured_citation>Mueller, B. and Seneviratne, S. I.: Systematic land climate and evapotranspiration biases in CMIP5 simulations, Geophys. Res. Lett., 41, 128–134, https://doi.org/10.1002/2013GL058055, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.5194/hess-17-3707-2013</doi>
+              <unstructured_citation>Mueller, B., Hirschi, M., Jimenez, C., Ciais, P., Dirmeyer, P. A., Dolman, A. J., Fisher, J. B., Jung, M., Ludwig, F., Maignan, F., Miralles, D. G., McCabe, M. F., Reichstein, M., Sheffield, J., Wang, K., Wood, E. F., Zhang, Y., and Seneviratne, S. I.: Benchmark products for land evapotranspiration: LandFlux-EVAL multi-data set synthesis, Hydrol. Earth Syst. Sci., 17, 3707–3720, https://doi.org/10.5194/hess-17-3707-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1111/gcb.13217</doi>
+              <unstructured_citation>Mystakidis, S., Davin, E. L., Gruber, N., and Seneviratne, S. I.: Constraining future terrestrial carbon cycle projections using observation-based water and carbon flux estimates, Glob. Change Biol., 22, 2198–2215, https://doi.org/10.1111/gcb.13217, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.5194/gmd-2016-84</doi>
+              <unstructured_citation>O'Neill, B. C., Tebaldi, C., van Vuuren, D., Eyring, V., Friedlingstein, P., Hurtt, G., Knutti, R., Kriegler, E., Lamarque, J.-F., Lowe, J., Meehl, J., Moss, R., Riahi, K., and Sanderson, B. M.: The Scenario Model Intercomparison Project (ScenarioMIP) for CMIP6, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-84, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Orth, R. and Seneviratne, S. I.: Soil moisture and sea surface temperatures similarly important for land climate in the warm season in the Community Earth System Model, J. Climate, submitted, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1175/JHM-D-12-099.1</doi>
+              <unstructured_citation>Orth, R., Koster, R. D., and Seneviratne, S. I.: Inferring Soil Moisture Memory from Streamflow Observations Using a Simple Water Balance Model, J. Hydrometeorol., 14, 1773–1790, https://doi.org/10.1175/JHM-D-12-099.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1007/s00382-010-0884-1</doi>
+              <unstructured_citation>Peings, Y., Douville, H., Alkama, R., and Decharme, B.: Snow contribution to springtime atmospheric predictability over the second half of the twentieth century, Clim. Dynam., 37, 985–1004, https://doi.org/10.1007/s00382-010-0884-1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1002/2013JD021139</doi>
+              <unstructured_citation>Perket, J., Flanner, M. G., and Kay, J. E.: Diagnosing shortwave cryosphere radiative effect and its 21st century evolution in CESM, J. Geophys. Res.-Atmos., 119, 1356–1362, https://doi.org/10.1002/2013JD021139, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1007/s00382-013-1774-0</doi>
+              <unstructured_citation>Qu, X. and Hall, A.: On the persistent spread in snow-albedo feedback, Clim. Dynam., 42, 69–81, https://doi.org/10.1007/s00382-013-1774-0, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1126/science.aad8386</doi>
+              <unstructured_citation>Reager, J. T., Gardner, A. S., Famiglietti, J. S., Wiese, D. N., Eicker, A., and Lo, M.-H.: A decade of sea level rise slowed by climate-driven hydrology, Science, 351, 699–703, https://doi.org/10.1126/science.aad8386, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1038/nature08238</doi>
+              <unstructured_citation>Rodell, M., Velicogna, I., and Famiglietti, J. S.: Satellite-based estimates of groundwater depletion in India, Nature, 460, 999–1002, https://doi.org/10.1038/nature08238, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1038/nature05095</doi>
+              <unstructured_citation>Seneviratne, S. I., Luthi, D., Litschi, M., and Schar, C.: Land-atmosphere coupling and climate change in Europe, Nature, 443, 205–209, https://doi.org/10.1038/nature05095, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1016/j.earscirev.2010.02.004</doi>
+              <unstructured_citation>Seneviratne, S. I., Corti, T., Davin, E. L., Hirschi, M., Jaeger, E. B., Lehner, I., Orlowsky, B., and Teuling, A. J.: Investigating soil moisture–climate interactions in a changing climate: A review, Earth-Sci. Rev., 99, 125–161, https://doi.org/10.1016/j.earscirev.2010.02.004, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1002/grl.50956</doi>
+              <unstructured_citation>Seneviratne, S. I., Wilhelm, M., Stanelle, T., van den Hurk, B., Hagemann, S., Berg, A., Cheruy, F., Higgins, M. E., Meier, A., Brovkin, V., Claussen, M., Ducharne, A., Dufresne, J.-L., Findell, K. L., Ghattas, J., Lawrence, D. M., Malyshev, S., Rummukainen, M., and Smith, B.: Impact of soil moisture-climate feedbacks on CMIP5 projections: First results from the GLACE-CMIP5 experiment, Geophys. Res. Lett., 40, 5212–5217, https://doi.org/10.1002/grl.50956, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Seneviratne, S. I., Van den Hurk, B., Lawrence, D. M., Krinner, G., Hurtt, G., Kim, H., Derksen, C., Oki, T., Boone, A., Ek, M., Brovkin, V., Dirmeyer, P. A., Douville, H., Friedlingstein, P., Hagemann, S., Koster, R. D., de Noblet-Ducoudre, N., and Pitman, A. J.: Land Processes, Forcings, and Feedbacks in Climate Change Simulations: The CMIP6 “LandMIPs.”, GEWEX Newsl., Columbia, MD, USA, 6–10, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1038/nature16542</doi>
+              <unstructured_citation>Seneviratne, S. I., Donat, M. G., Pitman, A. J., Knutti, R., and Wilby, R. L.: Allowable CO2 emissions based on regional and impact-related climate targets, Nature, 529, 477–483, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1175/JCLI3790.1</doi>
+              <unstructured_citation>Sheffield, J., Goteti, G., and Wood, E. F.: Development of a 50-Year High-Resolution Global Dataset of Meteorological Forcings for Land Surface Modeling, J. Climate, 19, 3088–3111, https://doi.org/10.1175/JCLI3790.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1038/nature11575</doi>
+              <unstructured_citation>Sheffield, J., Wood, E. F., and Roderick, M. L.: Little change in global drought over the past 60 years, Nature, 491, 435–438, https://doi.org/10.1038/nature11575, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.5194/tc-9-2057-2015</doi>
+              <unstructured_citation>Singh, D., Flanner, M. G., and Perket, J.: The global land shortwave cryosphere radiative effect during the MODIS era, The Cryosphere, 9, 2057–2070, https://doi.org/10.5194/tc-9-2057-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.5194/bg-12-653-2015</doi>
+              <unstructured_citation>Sitch, S., Friedlingstein, P., Gruber, N., Jones, S. D., Murray-Tortarolo, G., Ahlström, A., Doney, S. C., Graven, H., Heinze, C., Huntingford, C., Levis, S., Levy, P. E., Lomas, M., Poulter, B., Viovy, N., Zaehle, S., Zeng, N., Arneth, A., Bonan, G., Bopp, L., Canadell, J. G., Chevallier, F., Ciais, P., Ellis, R., Gloor, M., Peylin, P., Piao, S. L., Le Quéré, C., Smith, B., Zhu, Z., and Myneni, R.: Recent trends and drivers of regional sources and sinks of carbon dioxide, Biogeosciences, 12, 653–679, https://doi.org/10.5194/bg-12-653-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1002/2015JD023325</doi>
+              <unstructured_citation>Thackeray, C. W., Fletcher, C. G., and Derksen, C.: Quantifying the skill of CMIP5 models in simulating seasonal albedo and snow cover evolution, J. Geophys. Res.-Atmos., 120, 5831–5849, https://doi.org/10.1002/2015JD023325, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1007/s00382-015-2821-9</doi>
+              <unstructured_citation>Thomas, J., Berg, A., and Merryfield, W.: Influence of snow and soil moisture initialization on sub-seasonal predictability and forecast skill in boreal spring, Clim. Dynam., 47, 49–65, https://doi.org/10.1007/s00382-015-2821-9, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1038/nclimate2067</doi>
+              <unstructured_citation>Trenberth, K. E., Dai, A., van der Schrier, G., Jones, P. D., Barichivich, J., Briffa, K. R., and Sheffield, J.: Global warming and changes in drought, Nat. Clim. Change, 4, 17–22, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.1175/BAMS-D-11-00007.1</doi>
+              <unstructured_citation>van den Hurk, B., Best, M., Dirmeyer, P., Pitman, A., Polcher, J., and Santanello, J.: Acceleration of Land Surface Model Development over a Decade of Glass, B. Am. Meteorol. Soc., 92, 1593–1600, https://doi.org/10.1175/BAMS-D-11-00007.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1007/s00382-010-0956-2</doi>
+              <unstructured_citation>van den Hurk, B., Doblas-Reyes, F., Balsamo, G., Koster, R., Seneviratne, S., and Camargo Jr., H.: Soil moisture effects on seasonal temperature and precipitation forecast scores in Europe, Clim. Dynam., 38, 349–362, https://doi.org/10.1007/s00382-010-0956-2, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Viovy, N. and Ciais, P.: A combined dataset for ecosystem modelling, available at: http://esgf.extra.cea.fr/thredds/catalog/store/p529viov/cruncep/catalog.html (last access: 1 August 2016), 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1029/2012GL051230</doi>
+              <unstructured_citation>Wada, Y., Beek, L. P., Sperna Weiland, F. C., Chao, B. F., Wu, Y., and Bierkens, M. F.: Past and future contribution of global groundwater depletion to sea-level rise, Geophys. Res. Lett., 39, L09402, https://doi.org/10.1029/2012GL051230, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.1073/pnas.1312330110</doi>
+              <unstructured_citation>Warszawski, L., Frieler, K., Huber, V., Piontek, F., Serdeczny, O., and Schewe, J.: The Inter-Sectoral Impact Model Intercomparison Project (ISI–MIP): Project framework, P. Natl. Acad. Sci., 111, 3228–3232, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.3178/hrl.8.33</doi>
+              <unstructured_citation>Watanabe, S., Hirabayashi, Y., Kotsuki, S., Hanasaki, N., Tanaka, K., Mateo, C. M. R., Kiguchi, M., Ikoma, E., Kanae, S., and Oki, T.: Application of performance metrics to climate models for projecting future river discharge in the Chao Phraya River basin, Hydrol. Res. Lett., 8, 33–38, https://doi.org/10.3178/hrl.8.33, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1175/2011JHM1369.1</doi>
+              <unstructured_citation>Weedon, G. P., Gomes, S., Viterbo, P., Shuttleworth, W. J., Blyth, E., Österle, H., Adam, J. C., Bellouin, N., Boucher, O., and Best, M.: Creation of the WATCH Forcing Data and Its Use to Assess Global and Regional Reference Crop Evaporation over Land during the Twentieth Century, J. Hydrometeorol., 12, 823–848, https://doi.org/10.1175/2011JHM1369.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.1002/2014WR015638</doi>
+              <unstructured_citation>Weedon, G. P., Balsamo, G., Bellouin, N., Gomes, S., Best, M. J., and Viterbo, P.: The WFDEI meteorological forcing data set: WATCH Forcing Data methodology applied to ERA-Interim reanalysis data, Water Resour. Res., 50, 7505–7514, https://doi.org/10.1002/2014WR015638, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.5194/gmd-7-2875-2014</doi>
+              <unstructured_citation>Wei, Y., Liu, S., Huntzinger, D. N., Michalak, A. M., Viovy, N., Post, W. M., Schwalm, C. R., Schaefer, K., Jacobson, A. R., Lu, C., Tian, H., Ricciuto, D. M., Cook, R. B., Mao, J., and Shi, X.: The North American Carbon Program Multi-scale Synthesis and Terrestrial Model Intercomparison Project – Part 2: Environmental driver data, Geosci. Model Dev., 7, 2875–2893, https://doi.org/10.5194/gmd-7-2875-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.1029/2011GL048049</doi>
+              <unstructured_citation>Xu, L. and Dirmeyer, P.: Snow-atmosphere coupling strength in a global atmospheric model, Geophys. Res. Lett., 38, L13401, https://doi.org/10.1029/2011GL048049, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1175/JHM-D-11-0103.1</doi>
+              <unstructured_citation>Xu, L. and Dirmeyer, P.: Snow–Atmosphere Coupling Strength. Part II: Albedo Effect Versus Hydrological Effect, J. Hydrometeorol., 14, 404–418, https://doi.org/10.1175/JHM-D-11-0103.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.1038/nclimate1836</doi>
+              <unstructured_citation>Xu, L., Myneni, R. B., Chapin III, F. S., Callaghan, T. V., Pinzon, J. E., Tucker, C. J., Zhu, Z., Bi, J., Ciais, P., Tommervik, H., Euskirchen, E. S., Forbes, B. C., Piao, S. L., Anderson, B. T., Ganguly, S., Nemani, R. R., Goetz, S. J., Beck, P. S. A., Bunn, A. G., Cao, C., and Stroeve, J. C.: Temperature and vegetation seasonality diminishment over northern lands, Nat. Clim. Change, 3, 581–586, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.1175/2008MWR2281.1</doi>
+              <unstructured_citation>Yoshimura, K. and Kanamitsu, M.: Dynamical Global Downscaling of Global Reanalysis, Mon. Weather Rev., 136, 2983–2998, https://doi.org/10.1175/2008MWR2281.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1175/MWR-D-12-00271.1</doi>
+              <unstructured_citation>Yoshimura, K. and Kanamitsu, M.: Incremental Correction for the Dynamical Downscaling of Ensemble Mean Atmospheric Fields, Mon. Weather Rev., 141, 3087–3101, https://doi.org/10.1175/MWR-D-12-00271.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.3354/cr00981</doi>
+              <unstructured_citation>Zampieri, M. and Lionello, P.: Anthropic land use causes summer cooling in Central Europe, Clim. Res., 46, 255–268, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <doi provider="crossref">10.1016/j.jhydrol.2011.11.041</doi>
+              <unstructured_citation>Zampieri, M., Serpetzoglou, E., Anagnostou, E. N., Nikolopoulos, E. I., and Papadopoulos, A.: Improving the representation of river–groundwater interactions in land surface modeling at the regional scale: Observational evidence and parameterization applied in the Community Land Model, J. Hydrol., 420–421, 72–86, https://doi.org/10.1016/j.jhydrol.2011.11.041, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.1016/j.scitotenv.2014.06.036</doi>
+              <unstructured_citation>Zampieri, M., Scoccimarro, E., Gualdi, S., and Navarra, A.: Observed shift towards earlier spring discharge in the main Alpine rivers, Sci. Total Environ., 503–504, 222–232, https://doi.org/10.1016/j.scitotenv.2014.06.036, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <unstructured_citation>Zhang, Y., Wood, E. F., Pan, M., Sheffield, J., Siemann, A., Fisher, C., Liang, M., Beck, H., MacCracken, R., Houser, P., Zhou, T., Lettenmaier, D. P., Pinker, R. T., Bytheway, J., and Kummerow, C. D.: A Climate Data Record (CDR) for the global terrestrial water budget: 1984–2010, J. Climate, submitted, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1002/2015GL066563</doi>
+              <unstructured_citation>Zscheischler, J., Orth, R., and Seneviratne, S. I.: A submonthly database for detecting changes in vegetation-atmosphere coupling, Geophys. Res. Lett., 42, 9816–9824, https://doi.org/10.1002/2015GL066563, 2015.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article corrigendum</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/gmd-9-2809-2016-corrigendum</doi>
+                <resource>https://www.geosci-model-dev.net/9/2809/2016/gmd-9-2809-2016-corrigendum.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

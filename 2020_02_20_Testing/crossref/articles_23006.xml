@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2020-01-30 08:20:53">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" reference_distribution_opts="any">
+          <full_title>Earth System Science Data</full_title>
+          <abbrev_title>Earth Syst. Sci. Data</abbrev_title>
+          <issn media_type="electronic">1866-3516</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A comprehensive in situ and remote sensing data set from the Arctic CLoud Observations Using airborne measurements during polar Day (ACLOUD) campaign</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>André</given_name>
+              <surname>Ehrlich</surname>
+              <ORCID>https://orcid.org/0000-0003-0860-8216</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Manfred</given_name>
+              <surname>Wendisch</surname>
+              <ORCID>https://orcid.org/0000-0002-4652-5561</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christof</given_name>
+              <surname>Lüpkes</surname>
+              <ORCID>https://orcid.org/0000-0001-6518-0717</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthias</given_name>
+              <surname>Buschmann</surname>
+              <ORCID>https://orcid.org/0000-0001-5077-9524</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Heiko</given_name>
+              <surname>Bozem</surname>
+              <ORCID>https://orcid.org/0000-0003-2412-9864</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dmitri</given_name>
+              <surname>Chechin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hans-Christian</given_name>
+              <surname>Clemen</surname>
+              <ORCID>https://orcid.org/0000-0002-9518-5268</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Régis</given_name>
+              <surname>Dupuy</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Olliver</given_name>
+              <surname>Eppers</surname>
+              <ORCID>https://orcid.org/0000-0001-9487-4603</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jörg</given_name>
+              <surname>Hartmann</surname>
+              <ORCID>https://orcid.org/0000-0001-5204-4652</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andreas</given_name>
+              <surname>Herber</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Evelyn</given_name>
+              <surname>Jäkel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Emma</given_name>
+              <surname>Järvinen</surname>
+              <ORCID>https://orcid.org/0000-0001-5171-1759</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Olivier</given_name>
+              <surname>Jourdan</surname>
+              <ORCID>https://orcid.org/0000-0003-0890-3784</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Udo</given_name>
+              <surname>Kästner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Leif-Leonard</given_name>
+              <surname>Kliesch</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Franziska</given_name>
+              <surname>Köllner</surname>
+              <ORCID>https://orcid.org/0000-0002-4967-5514</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mario</given_name>
+              <surname>Mech</surname>
+              <ORCID>https://orcid.org/0000-0001-6229-9616</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephan</given_name>
+              <surname>Mertes</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roland</given_name>
+              <surname>Neuber</surname>
+              <ORCID>https://orcid.org/0000-0001-7382-7832</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Elena</given_name>
+              <surname>Ruiz-Donoso</surname>
+              <ORCID>https://orcid.org/0000-0001-6430-9734</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martin</given_name>
+              <surname>Schnaiter</surname>
+              <ORCID>https://orcid.org/0000-0002-9560-8072</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Johannes</given_name>
+              <surname>Schneider</surname>
+              <ORCID>https://orcid.org/0000-0001-7169-3973</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Johannes</given_name>
+              <surname>Stapf</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Marco</given_name>
+              <surname>Zanatta</surname>
+              <ORCID>https://orcid.org/0000-0002-7711-6808</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[Abstract. The Arctic CLoud Observations Using airborne measurements during polar Day (ACLOUD) campaign was carried out north-west of Svalbard (Norway) between 23 May and 6 June 2017. The objective of ACLOUD was to study Arctic boundary layer and mid-level clouds and their role in Arctic amplification. Two research aircraft (Polar 5 and 6) jointly performed 22 research flights over the transition zone between open ocean and closed sea ice. Both aircraft were equipped with identical instrumentation for measurements of basic meteorological parameters, as well as for turbulent and radiative energy fluxes. In addition, on Polar 5 active and passive remote sensing instruments were installed, while Polar 6 operated in situ instruments to characterize cloud and aerosol particles as well as trace gases. A detailed overview of the specifications, data processing, and data quality is provided here. It is shown that the scientific analysis of the ACLOUD data benefits from the coordinated operation of both aircraft. By combining the cloud remote sensing techniques operated on Polar 5, the synergy of multi-instrument cloud retrieval is illustrated. The remote sensing methods were validated using truly collocated in situ and remote sensing observations. The data of identical instruments operated on both aircraft were merged to extend the spatial coverage of mean atmospheric quantities and turbulent and radiative flux measurement. Therefore, the data set of the ACLOUD campaign provides comprehensive in situ and remote sensing observations characterizing the cloudy Arctic atmosphere. All processed, calibrated, and validated data are published in the World Data Center PANGAEA as instrument-separated data subsets (Ehrlich et al., 2019b, https://doi.org/10.1594/PANGAEA.902603).]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>29</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>1853</first_page>
+            <last_page>1881</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Deutsche Forschungsgemeinschaft
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001659</assertion>
+              </assertion>
+              <assertion name="award_number">268020496 – TRR 172</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.1594/PANGAEA.902603</inter_work_relation>
+            </related_item>
+            <related_item>
+              <intra_work_relation relationship-type="hasPreprint" identifier-type="doi">10.5194/essd-2019-96</intra_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/essd-11-1853-2019</doi>
+            <resource>https://www.earth-syst-sci-data.net/11/1853/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.earth-syst-sci-data.net/11/1853/2019/essd-11-1853-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/amt-9-3131-2016</doi>
+              <unstructured_citation>Abdelmonem, A., Järvinen, E., Duft, D., Hirst, E., Vogt, S., Leisner, T., and Schnaiter, M.: PHIPS–HALO: the airborne Particle Habit Imaging and Polar Scattering probe – Part 1: Design and operation, Atmos. Meas. Tech., 9, 3131–3144, https://doi.org/10.5194/amt-9-3131-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/JAM2398.1</doi>
+              <unstructured_citation>Baker, B. and Lawson, R. P.: Improvement in Determination of Ice Water Content
+from Two-Dimensional Particle Imagery. Part I: Image-to-Mass Relationships, J. Appl. Meteorol., 45, 1282–1290, https://doi.org/10.1175/JAM2398.1, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Bannehr, L. and Schwiesow, R.: A Technique to Account for the Misalignment of
+Pyranometers Installed on Aircraft, J. Atmos. Ocean. Tech., 10, 774–777,
+https://doi.org/10.1175/1520-0426(1993)010&amp;amp;lt;0774:ATTAFT&amp;amp;gt;2.0.CO;2, 1993. a</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1016/j.atmosres.2011.06.021</doi>
+              <unstructured_citation>Baumgardner, D., Brenguier, J.-L., Bucholtz, A., Coe, H., DeMott, P., Garrett, T., Gayet, J.-F., Hermann, M., Heymsfield, A., Korolev, A., Krämer, M.,
+Petzold, A., Strapp, W., Pilewskie, P., Taylor, J., Twohy, C., and Wendisch,
+M.: Airborne instruments to measure atmospheric aerosol particles, clouds
+and radiation: A cook's tour of mature and emerging technology, Atmos. Res.,
+102, 10–29, https://doi.org/10.1016/j.atmosres.2011.06.021, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/amt-5-1869-2012</doi>
+              <unstructured_citation>Baumgardner, D., Popovicheva, O., Allan, J., Bernardoni, V., Cao, J., Cavalli, F., Cozic, J., Diapouli, E., Eleftheriadis, K., Genberg, P. J., Gonzalez, C., Gysel, M., John, A., Kirchstetter, T. W., Kuhlbusch, T. A. J., Laborde, M., Lack, D., Müller, T., Niessner, R., Petzold, A., Piazzalunga, A., Putaud, J. P., Schwarz, J., Sheridan, P., Subramanian, R., Swietlicki, E., Valli, G., Vecchi, R., and Viana, M.: Soot reference materials for instrument calibration and intercomparisons: a workshop summary with recommendations, Atmos. Meas. Tech., 5, 1869–1887, https://doi.org/10.5194/amt-5-1869-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1111/j.1600-0889.2008.00395.x</doi>
+              <unstructured_citation>Bierwirth, E., Wendisch, M., Ehrlich, A., Heese, B., Tesche, M., Althausen, D., Schladitz, A., Müller, D., Otto, S., Trautmann, T., Dinter, T.,
+Hoyningen-Huene, W. V., and Kahn, R.: Spectral surface albedo over Morocco
+and its impact on radiative forcing of Saharan dust, Tellus B, 61, 252–269,
+https://doi.org/10.1111/j.1600-0889.2008.00395.x, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/amt-6-1189-2013</doi>
+              <unstructured_citation>Bierwirth, E., Ehrlich, A., Wendisch, M., Gayet, J.-F., Gourbeyre, C., Dupuy, R., Herber, A., Neuber, R., and Lampert, A.: Optical thickness and effective radius of Arctic boundary-layer clouds retrieved from airborne nadir and imaging spectrometry, Atmos. Meas. Tech., 6, 1189–1200, https://doi.org/10.5194/amt-6-1189-2013, 2013. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/98JD01431</doi>
+              <unstructured_citation>Boers, R., Mitchell, R., and Krummel, P.: Correction of aircraft pyranometer
+measurements for diffuse radiance and alignment errors, J. Geophys. Res.,
+103, 16753–16758, https://doi.org/10.1029/98JD01431, 1998. a</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1080/027868299304435</doi>
+              <unstructured_citation>Bond, T., Anderson, T., and Campbell, D.: Calibration and Intercomparison of
+Filter-Based Measurements of Visible Light Absorption by Aerosols, Aerosol
+Sci. Technol., 30, 582–600, https://doi.org/10.1080/027868299304435, 1999. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1080/02786826.2010.517813</doi>
+              <unstructured_citation>Brands, M., Kamphus, M., Böttger, T., Schneider, J., Drewnick, F., Roth,
+A., Curtius, J., Voigt, C., Borbon, A., Beekmann, M., Bourdon, A., Perrin,
+T., and Borrmann, S.: Characterization of a newly developed aircraft–based
+laser ablation aerosol mass spectrometer (ALABAMA) and first field
+deployment in urban pollution plumes over Paris during MEGAPOLI 2009,
+Aerosol Sci. Technol., 45, 46–64, https://doi.org/10.1080/02786826.2010.517813, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Brown, P. R. A. and Francis, P. N.: Improved measurements of the ice water
+content in cirrus using a total–water probe, J. Atmos. Ocean. Tech., 12,
+410–414, https://doi.org/10.1175/1520-0426(1995)012&amp;amp;lt;0410:IMOTIW&amp;amp;gt;2.0.CO;2, 1995. a</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/2008JTECHA1085.1</doi>
+              <unstructured_citation>Bucholtz, A., Bluth, R. T., Kelly, B., Taylor, S., Batson, K., Sarto, A. W.,
+Tooman, T. P., and McCoy, R. F.: The Stabilized Radiometer Platform
+(STRAP)—An Actively Stabilized Horizontally Level Platform for Improved
+Aircraft Irradiance Measurements, J. Atmos. Ocean. Tech., 25,
+2161–2175, https://doi.org/10.1175/2008JTECHA1085.1, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1111/j.1600-0889.2010.00468.x</doi>
+              <unstructured_citation>Burba, G. G., McDermitt, D. K., Anderson, D. J., Furtaw, M. D., and Eckles, R.: Novel design of an enclosed CO2/H2O gas analyser for eddy covariance flux measurements, Tellus B, 62, 743–748, https://doi.org/10.1111/j.1600-0889.2010.00468.x,
+2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1002/2017GL075671</doi>
+              <unstructured_citation>Burkart, J., Hodshire, A. L., Mungall, E. L., Pierce, J. R., Collins, D. B.,
+Ladino, L. A., Lee, A. K. Y., Irish, V., Wentzell, J. J. B., Liggio, J.,
+Papakyriakou, T., Murphy, J., and Abbatt, J.: Organic Condensation and
+Particle Growth to CCN Sizes in the Summertime Marine Arctic Is Driven by
+Materials More Semivolatile Than at Continental Sites, Geophys. Res. Lett.,
+44, 10725–10734, https://doi.org/10.1002/2017GL075671, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Busch, N. E.: On the Mechanics of Atmospheric Turbulence, in: Workshop on
+Micrometeorology, edited by: Hangen, D. A., 1–65, American Meteorological
+Society, 1973. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/j.jaerosci.2008.04.007</doi>
+              <unstructured_citation>Cai, Y., Montague, D. C., Mooiweer-Bryan, W., and Deshler, T.: Performance
+characteristics of the ultra high sensitivity aerosol spectrometer for
+particles between 55 and 800&amp;amp;thinsp;nm: Laboratory and field studies, J. Aerosol
+Sci., 39, 759–769, https://doi.org/10.1016/j.jaerosci.2008.04.007, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Chechin, D.: Liquid water content measured by the Nevzorov probe during the
+aircraft ACLOUD campaign in the Arctic, Alfred Wegener Institute, Helmholtz
+Centre for Polar and Marine Research, Bremerhaven, PANGAEA,
+https://doi.org/10.1594/PANGAEA.906658, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/acp-11-257-2011</doi>
+              <unstructured_citation>Crosier, J., Bower, K. N., Choularton, T. W., Westbrook, C. D., Connolly, P. J., Cui, Z. Q., Crawford, I. P., Capes, G. L., Coe, H., Dorsey, J. R., Williams, P. I., Illingworth, A. J., Gallagher, M. W., and Blyth, A. M.: Observations of ice multiplication in a weakly convective cell embedded in supercooled mid-level stratus, Atmos. Chem. Phys., 11, 257–273, https://doi.org/10.5194/acp-11-257-2011, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Dupuy, R., Jourdan, O., Mioche, G., Gourbeyre, C., Leroy, D., and
+Schwarzenböck, A.: CDP, CIP and PIP In-situ arctic cloud microphysical
+properties observed during ACLOUD-AC3 campaign in June 2017, LAMP/CNRS/UCA/OPGC, PANGAEA, https://doi.org/10.1594/PANGAEA.899074, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/amt-8-3671-2015</doi>
+              <unstructured_citation>Ehrlich, A. and Wendisch, M.: Reconstruction of high-resolution time series from slow-response broadband terrestrial irradiance measurements by deconvolution, Atmos. Meas. Tech., 8, 3671–3684, https://doi.org/10.5194/amt-8-3671-2015, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-8-7493-2008</doi>
+              <unstructured_citation>Ehrlich, A., Bierwirth, E., Wendisch, M., Gayet, J.-F., Mioche, G., Lampert, A., and Heintzenberg, J.: Cloud phase identification of Arctic boundary-layer clouds from airborne spectral reflection measurements: test of three approaches, Atmos. Chem. Phys., 8, 7493–7505, https://doi.org/10.5194/acp-8-7493-2008, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-12-3493-2012</doi>
+              <unstructured_citation>Ehrlich, A., Bierwirth, E., Wendisch, M., Herber, A., and Gayet, J.-F.: Airborne hyperspectral observations of surface and cloud directional reflectivity using a commercial digital camera, Atmos. Chem. Phys., 12, 3493–3510, https://doi.org/10.5194/acp-12-3493-2012, 2012. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Ehrlich, A., Wendisch, M., Lüpkes, C., Crewell, S., and Mech, M.: Master
+tracks in different resolutions during POLAR 5 campaign ACLOUD 2017, PANGAEA,
+https://doi.org/10.1594/PANGAEA.888173, 2018a. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Ehrlich, A., Wendisch, M., Lüpkes, C., Crewell, S., and Mech, M.: Master
+tracks in different resolutions during POLAR 6 campaign ACLOUD 2017, PANGAEA,
+https://doi.org/10.1594/PANGAEA.888365, 2018b. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Ehrlich, A., Stapf, J., Lüpkes, C., Mech, M., Crewell, S., and Wendisch, M.:
+Meteorological measurements by dropsondes released from POLAR 5 during ACLOUD
+2017, PANGAEA, https://doi.org/10.1594/PANGAEA.900204, 2019a. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Ehrlich, A., Wendisch, M., Lüpkes, C., Buschmann, M., Bozem, H., Chechin, D.,
+Clemen, H.-C., Dupuy, R., Eppers, O., Hartmann, J., Herber, A., Jäkel, E.,
+Järvinen, E., Jourdan, O., Kästner, U., Kliesch, L.-L., Köllner, F., Mech,
+M., Mertes, S., Neuber, R., Ruiz-Donoso, E., Schnaiter, M., Schneider, J.,
+Stapf, J., and Zanatta, M.: Collection of data sources for the Arctic CLoud
+Observations Using airborne measurements during polar Day (ACLOUD) campaign,
+North-West of Svalbard between 23 May–26 June 2017, PANGAEA,
+https://doi.org/10.1594/PANGAEA.902603, 2019b. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Eppers, O. and Schneider, J.: Airborne in-situ measurement of particle number
+concentration and size distribution using an optical particle counter during
+ACLOUD 2017, Institute for Atmospheric Physics, University of Mainz, PANGAEA,
+https://doi.org/10.1594/PANGAEA.901149, 2019a. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Eppers, O. and Schneider, J.: Aircraft-based measurement of particle size and
+chemical composition for individual aerosol particles during the ACLOUD
+campaign 2017, Institute for Atmospheric Physics, University of Mainz,
+PANGAEA, https://doi.org/10.1594/PANGAEA.901047, 2019b. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Eppers, O., Bozem, H., and Hoor, P.: Airborne in-situ measurement of carbon
+monoxide, carbon dioxide, water vapor and ozone during ACLOUD 2017, Institute
+for Atmospheric Physics, University of Mainz, PANGAEA,
+https://doi.org/10.1594/PANGAEA.901209, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/JTECH1922.1</doi>
+              <unstructured_citation>Field, P. R., Heymsfield, A. J., and Bansemer, A.: Shattering and Particle Interarrival Times Measured by Optical Array Probes in Ice Clouds, J. Atmos. Ocean. Tech., 23, 1357–1371, https://doi.org/10.1175/JTECH1922.1, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/1998JD100031</doi>
+              <unstructured_citation>Gerbig, C., Schmitgen, S., Kley, D., Volz-Thomas, A., Dewey, K., and Haaks, D.:
+An improved fast–response vacuum–UV resonance fluorescence CO instrument,
+J. Geophys Res., 104, 1699–1704, https://doi.org/10.1029/1998JD100031, 1999. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1002/2014JD021630</doi>
+              <unstructured_citation>Gröbner, J., Reda, I., Wacker, S., Nyeki, S., Behrens, K., and Gorman, J.:
+A new absolute reference for atmospheric longwave irradiance measurements
+with traceability to SI units, J. Geophys. Res., 119, 7083–7090,
+https://doi.org/10.1002/2014JD021630, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/amt-4-2851-2011</doi>
+              <unstructured_citation>Gysel, M., Laborde, M., Olfert, J. S., Subramanian, R., and Gröhn, A. J.: Effective density of Aquadag and fullerene soot black carbon reference materials used for SP2 calibration, Atmos. Meas. Tech., 4, 2851–2858, https://doi.org/10.5194/amt-4-2851-2011, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2000JC000560</doi>
+              <unstructured_citation>Haggerty, J. A., Maslanik, J. A., and Curry, J. A.: Heterogeneity of sea ice
+surface temperature at SHEBA from aircraft measurements, J. Geophys. Res.,
+108, 8052, https://doi.org/10.1029/2000JC000560, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/amt-11-4567-2018</doi>
+              <unstructured_citation>Hartmann, J., Gehrmann, M., Kohnert, K., Metzger, S., and Sachs, T.: New calibration procedures for airborne turbulence measurements and accuracy of the methane fluxes during the AirMeth campaigns, Atmos. Meas. Tech., 11, 4567–4581, https://doi.org/10.5194/amt-11-4567-2018, 2018. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Hartmann, J., Lüpkes, C., and Chechin, D.: High resolution aircraft
+measurements of wind and temperature during the ACLOUD campaign in 2017,
+Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research,
+Bremerhaven, PANGAEA, https://doi.org/10.1594/PANGAEA.900880, 2019a. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Hartmann, J., Lüpkes, C., and Chechin, D.: 1Hz resolution aircraft
+measurements of wind and temperature during the ACLOUD campaign in 2017,
+Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research,
+Bremerhaven, PANGAEA, https://doi.org/10.1594/PANGAEA.902849, 2019b. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Herber, A.: Aircraft measurements of AOD in the Arctic during the ACLOUD
+campaign 2017, Alfred Wegener Institute, Helmholtz Centre for Polar and
+Marine Research, Bremerhaven, PANGAEA, https://doi.org/10.1594/PANGAEA.907097, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2001JD000536</doi>
+              <unstructured_citation>Herber, A., Thomason, L. W., Gernandt, H., Leiterer, U., Nagel, D., Schulz,
+K.-H., Kaptur, J., Albrecht, T., and Notholt, J.: Continuous day and night
+aerosol optical depth observations in the Arctic between 1991 and 1999, J.
+Geophys. Res., 107, AAC 6-1–AAC 6-13, https://doi.org/10.1029/2001JD000536, 2002. a</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1016/S1352-2310(00)00377-0</doi>
+              <unstructured_citation>Hirst, E., Kaye, P. H., Greenaway, R. S., Field, P., and Johnson, D. W.:
+Discrimination of micrometre-sized ice and super-cooled droplets in
+mixed-phase cloud, Atmos. Environ., 35, 33–47,
+https://doi.org/10.1016/S1352-2310(00)00377-0, 2001. a</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1016/j.rse.2005.11.001</doi>
+              <unstructured_citation>Hori, M., Aoki, T., Tanikawa, T., Motoyoshi, H., Hachikubo, A., Sugiura, K.,
+Yasunari, T. J., Eide, H., Storvold, R., Nakajima, Y., and Takahashi, F.:
+In-situ measured spectral directional emissivity of snow and ice in the
+8–14&amp;amp;thinsp;µm atmospheric window, Remote Sens. Environ., 100, 486–502,
+https://doi.org/10.1016/j.rse.2005.11.001, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Ikonen, I., Demetriades, N. W. S., and Holle, R.: Vaisala dropsondes: History, status, and applications, paper presented at 29th Conference on Hurricanes and Tropical Meteorology, SPONSOR, Tucson, Ariz., 10–14 May, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Jäkel, E. and Ehrlich, A.: Radiance fields of clouds and the Arctic surface
+measured by a digital camera during ACLOUD 2017, Institute for Meteorology,
+Universität Leipzig, PANGAEA, https://doi.org/10.1594/PANGAEA.901024, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Jäkel, E., Ehrlich, A., Schäfer, M., and Wendisch, M.: Aircraft measurements
+of spectral solar up- and downward irradiances in the Arctic during the
+ACLOUD campaign 2017, Universität Leipzig, PANGAEA,
+https://doi.org/10.1594/PANGAEA.899177, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2010JD014016</doi>
+              <unstructured_citation>Jourdan, O., Mioche, G., Garrett, T. J., Schwarzenböck, A., Vidot, J., Xie, Y., Shcherbakov, V., Yang, P., and Gayet, J.-F.: Coupling of the
+microphysical and optical properties of an Arctic nimbostratus cloud during
+the ASTAR 2004 experiment: Implications for light-scattering modeling, J.
+Geophys. Res., 115, D23206, https://doi.org/10.1029/2010JD014016, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/BAMS-D-14-00246.1</doi>
+              <unstructured_citation>Jung, T., Gordon, N. D., Bauer, P., Bromwich, D. H., Chevallier, M., Day,
+J. J., Dawson, J., Doblas-Reyes, F., Fairall, C., Goessling, H. F., Holland,
+M., Inoue, J., Iversen, T., Klebe, S., Lemke, P., Losch, M., Makshtas, A.,
+Mills, B., Nurmi, P., Perovich, D., Reid, P., Renfrew, I. A., Smith, G.,
+Svensson, G., Tolstykh, M., and Yang, Q.: Advancing Polar Prediction
+Capabilities on Daily to Seasonal Time Scales, B. Am. Meteorol. Soc.,
+97, 1631–1647, https://doi.org/10.1175/BAMS-D-14-00246.1, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Kliesch, L.-L. and Mech, M.: Airborne radar reflectivity and brightness
+temperature measurements with POLAR 5 during ACLOUD in May and June 2017,
+PANGAEA, https://doi.org/10.1594/PANGAEA.899565, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Knollenberg, R. G.: Three new instruments for cloud physics measurements, in:
+Preprints Int. Conf. Cloud Physics, 545–561, Boulder, Amer. Meteor.
+Soc., 1976. a</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-18-17995-2018</doi>
+              <unstructured_citation>Knudsen, E. M., Heinold, B., Dahlke, S., Bozem, H., Crewell, S., Gorodetskaya, I. V., Heygster, G., Kunkel, D., Maturilli, M., Mech, M., Viceto, C., Rinke, A., Schmithüsen, H., Ehrlich, A., Macke, A., Lüpkes, C., and Wendisch, M.: Meteorological conditions during the ACLOUD/PASCAL field campaign near Svalbard in early summer 2017, Atmos. Chem. Phys., 18, 17995–18022, https://doi.org/10.5194/acp-18-17995-2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.17815/jlsrf-3-163</doi>
+              <unstructured_citation>Knust, R.: Polar Research and Supply Vessel POLARSTERN Operated by the
+Alfred-Wegener-Institute, J. Large-Scale Res. Facilities, 3, A119,
+https://doi.org/10.17815/jlsrf-3-163, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/acp-17-13747-2017</doi>
+              <unstructured_citation>Köllner, F., Schneider, J., Willis, M. D., Klimach, T., Helleis, F., Bozem, H., Kunkel, D., Hoor, P., Burkart, J., Leaitch, W. R., Aliabadi, A. A., Abbatt, J. P. D., Herber, A. B., and Borrmann, S.: Particulate trimethylamine in the summertime Canadian high Arctic lower troposphere, Atmos. Chem. Phys., 17, 13747–13766, https://doi.org/10.5194/acp-17-13747-2017, 2017. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1002/qj.49712656913</doi>
+              <unstructured_citation>Korolev, A., Isaac, G. A., and Hallett, J.: Ice particle habits in stratiform
+clouds, Q. J. Roy. Meteor. Soc., 126, 2873–2902,
+https://doi.org/10.1002/qj.49712656913, 2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Korolev, A. V., Strapp, J. W., Isaac, G. A., and Nevzorov, A. N.: The Nevzorov
+Airborne Hot-Wire LWC–TWC Probe: Principle of Operation and Performance
+Characteristics, J. Atmos. Ocean. Tech., 15, 1495–1510,
+https://doi.org/10.1175/1520-0426(1998)015&amp;amp;lt;1495:TNAHWL&amp;amp;gt;2.0.CO;2, 1998. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1175/2010BAMS3141.1</doi>
+              <unstructured_citation>Korolev, A. V., Emery, E. F., Strapp, J. W., Cober, S. G., Isaac, G. A., Wasey,
+M., and Marcotte, D.: Small Ice Particles in Tropospheric Clouds: Fact or
+Artifact? Airborne Icing Instrumentation Evaluation Experiment, B. Am.
+Meteorol. Soc., 92, 967–973, https://doi.org/10.1175/2010BAMS3141.1, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/amt-5-1031-2012</doi>
+              <unstructured_citation>Laborde, M., Mertes, P., Zieger, P., Dommen, J., Baltensperger, U., and Gysel, M.: Sensitivity of the Single Particle Soot Photometer to different black carbon types, Atmos. Meas. Tech., 5, 1031–1043, https://doi.org/10.5194/amt-5-1031-2012, 2012a. a</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/amt-5-3077-2012</doi>
+              <unstructured_citation>Laborde, M., Schnaiter, M., Linke, C., Saathoff, H., Naumann, K.-H., Möhler, O., Berlenz, S., Wagner, U., Taylor, J. W., Liu, D., Flynn, M., Allan, J. D., Coe, H., Heimerl, K., Dahlkötter, F., Weinzierl, B., Wollny, A. G., Zanatta, M., Cozic, J., Laj, P., Hitzenberger, R., Schwarz, J. P., and Gysel, M.: Single Particle Soot Photometer intercomparison at the AIDA chamber, Atmos. Meas. Tech., 5, 3077–3097, https://doi.org/10.5194/amt-5-3077-2012, 2012b. a</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/amt-11-2523-2018</doi>
+              <unstructured_citation>Lampert, A., Hartmann, J., Pätzold, F., Lobitz, L., Hecker, P., Kohnert, K., Larmanou, E., Serafimovich, A., and Sachs, T.: Comparison of Lyman-alpha and LI-COR infrared hygrometers for airborne measurement of turbulent fluctuations of water vapour, Atmos. Meas. Tech., 11, 2523–2536, https://doi.org/10.5194/amt-11-2523-2018, 2018. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/amt-3-1683-2010</doi>
+              <unstructured_citation>Lance, S., Brock, C. A., Rogers, D., and Gordon, J. A.: Water droplet calibration of the Cloud Droplet Probe (CDP) and in-flight performance in liquid, ice and mixed-phase clouds during ARCPAC, Atmos. Meas. Tech., 3, 1683–1706, https://doi.org/10.5194/amt-3-1683-2010, 2010. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/acp-16-11107-2016</doi>
+              <unstructured_citation>Leaitch, W. R., Korolev, A., Aliabadi, A. A., Burkart, J., Willis, M. D., Abbatt, J. P. D., Bozem, H., Hoor, P., Köllner, F., Schneider, J., Herber, A., Konrad, C., and Brauner, R.: Effects of 20–100&amp;amp;thinsp;nm particles on liquid clouds in the clean summertime Arctic, Atmos. Chem. Phys., 16, 11107–11124, https://doi.org/10.5194/acp-16-11107-2016, 2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Lee, M. F.: Dynamic response of pressure measuring systems, Technical Report
+32, Department of Defence, Defence Science and Technology Organisation,
+Aeronautical Research Laboratory, Melbourne, Vic. Australia, 1993. a</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/JTECH-D-15-0151.1</doi>
+              <unstructured_citation>Leroy, D., Fontaine, E., Schwarzenboeck, A., and Strapp, J. W.: Ice Crystal
+Sizes in High Ice Water Content Clouds. Part I: On the Computation of Median
+Mass Diameter from In Situ Measurements, J. Atmos. Ocean. Tech., 33,
+2461–2476, https://doi.org/10.1175/JTECH-D-15-0151.1, 2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Macke, A. and Flores, H.: The expeditions PS106/1 and 2 of the Research Vessel POLARSTERN to the Arctic Ocean in 2017, Reports on Polar and Marine
+Research, Bremerhaven, Alfred Wegener Institute for Polar and Marine
+Research, 719, 171 pp., ISSN 1866–3192, https://doi.org/10.2312/BzPM_0719_2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Maturilli, M.: High resolution radiosonde measurements from station
+Ny-Ålesund (2017-06), PANGAEA, https://doi.org/10.1594/PANGAEA.879822, 2017a. a</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Maturilli, M.: High resolution radiosonde measurements from station
+Ny-Ålesund (2017-05), PANGAEA, https://doi.org/10.1594/PANGAEA.879820, 2017b. a</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/amt-12-5019-2019</doi>
+              <unstructured_citation>Mech, M., Kliesch, L.-L., Anhäuser, A., Rose, T., Kollias, P., and Crewell, S.: Microwave Radar/radiometer for Arctic Clouds (MiRAC): first insights from the ACLOUD campaign, Atmos. Meas. Tech., 12, 5019–5037, https://doi.org/10.5194/amt-12-5019-2019, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1080/02786829508965310</doi>
+              <unstructured_citation>Mertes, S., Schröder, F., and Wiedensohler, A.: The Particle-detection
+Efficiency Curve of the Tsi-3010 Cpc As A Function of the Temperature
+Difference Between Saturator and Condenser, Aerosol. Sci. Technol., 23,
+257–261, https://doi.org/10.1080/02786829508965310, 1995. a</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1016/j.jaerosci.2003.10.002</doi>
+              <unstructured_citation>Mertes, S., Dippel, B., and Schwarzenböck, A.: Quantification of graphitic
+carbon in atmospheric aerosol particles by Raman spectroscopy and first
+application for the determination of mass absorption efficiencies, J. Aerosol
+Sci., 35, 347–361, https://doi.org/10.1016/j.jaerosci.2003.10.002, 2004. a</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.02.010</doi>
+              <unstructured_citation>Mertes, S., Lehmann, K., Nowak, A., Massling, A., and Wiedensohler, A.: Link
+between aerosol hygroscopic growth and droplet activation observed for
+hill-capped clouds at connected flow conditions during FEBUKO, Atmos.
+Environ., 39, 4247–4256, https://doi.org/10.1016/j.atmosenv.2005.02.010, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Mertes, S., Kästner, U., and Macke, A.: Airborne in-situ measurements of the
+aerosol absorption coefficient, aerosol particle number concentration and
+size distribution of cloud particle residuals and ambient aerosol particles
+during the ACLOUD campaign in May and June 2017, Leibniz-Institut für
+Troposphärenforschung e.V., Leipzig, PANGAEA, https://doi.org/10.1594/PANGAEA.900403,
+2019. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Miloshevich, L., Paukkunen, A., Vomel, H., and Oltmans, S.: Development and
+validation of a time-lag correction for Vaisala radiosonde humidity
+measurements, J. Atmos. Ocean. Tech., 21, 1305–1327,
+https://doi.org/10.1175/1520-0426(2004)021&amp;amp;lt;1305:DAVOAT&amp;amp;gt;2.0.CO;2, 2004. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/acp-17-12845-2017</doi>
+              <unstructured_citation>Mioche, G., Jourdan, O., Delanoë, J., Gourbeyre, C., Febvre, G., Dupuy, R., Monier, M., Szczap, F., Schwarzenboeck, A., and Gayet, J.-F.: Vertical distribution of microphysical properties of Arctic springtime low-level mixed-phase clouds over the Greenland and Norwegian seas, Atmos. Chem. Phys., 17, 12845–12869, https://doi.org/10.5194/acp-17-12845-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1080/02786826.2010.484450</doi>
+              <unstructured_citation>Moteki, N. and Kondo, Y.: Dependence of Laser-Induced Incandescence on Physical
+Properties of Black Carbon Aerosols: Measurements and Theoretical
+Interpretation, Aerosol. Sci. Technol., 44, 663–675,
+https://doi.org/10.1080/02786826.2010.484450, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1016/j.jaerosci.2010.02.013</doi>
+              <unstructured_citation>Moteki, N., Kondo, Y., and Nakamura, S.: Method to measure refractive
+indices of small nonspherical particles: Application to black carbon
+particles, J. Aerosol Sci., 41, 513–521,
+https://doi.org/10.1016/j.jaerosci.2010.02.013, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Neuber, R.: A multi-disciplinary Arctic research facility: From the Koldewey–Rabot–Corbel–Stations to the AWI-IPEV research base on Spitsbergen, Polarforschung, 23, 117–123, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Neuber, R., Schmidt, L. V., Ritter, C., and Mech, M.: Cloud top altitudes
+observed with airborne lidar during the ACLOUD campaign, Alfred Wegener
+Institute – Research Unit Potsdam, PANGAEA, https://doi.org/10.1594/PANGAEA.899962,
+2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/GL012i003p00121</doi>
+              <unstructured_citation>Ogren, J., Heintzenberg, J., and Charlson, R.: In situ sampling of clouds with a droplet to aerosol converter, Geophys. Res. Lett., 12, 121–124,
+https://doi.org/10.1029/GL012i003p00121, 1985. a</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1029/2009JD013150</doi>
+              <unstructured_citation>Pratt, K. A. and Prather, K. A.: Aircraft measurements of vertical profiles of aerosol mixing states, J. Geophys. Res., 115, D11305, https://doi.org/10.1029/2009JD013150,
+2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Ruiz-Donoso, E., Ehrlich, A., Schäfer, M., Jäkel, E., and Wendisch, M.:
+Spectral solar cloud top radiance measured by airborne spectral imaging
+during the ACLOUD campaign in 2017, Leipzig Institute for Meteorology,
+University of Leipzig, PANGAEA, https://doi.org/10.1594/PANGAEA.900880, 2019. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.5194/amt-6-1855-2013</doi>
+              <unstructured_citation>Schäfer, M., Bierwirth, E., Ehrlich, A., Heyner, F., and Wendisch, M.: Retrieval of cirrus optical thickness and assessment of ice crystal shape from ground-based imaging spectrometry, Atmos. Meas. Tech., 6, 1855–1868, https://doi.org/10.5194/amt-6-1855-2013, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.5194/acp-15-8147-2015</doi>
+              <unstructured_citation>Schäfer, M., Bierwirth, E., Ehrlich, A., Jäkel, E., and Wendisch, M.: Airborne observations and simulations of three-dimensional radiative interactions between Arctic boundary layer clouds and ice floes, Atmos. Chem. Phys., 15, 8147–8163, https://doi.org/10.5194/acp-15-8147-2015, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.5194/amt-5-1753-2012</doi>
+              <unstructured_citation>Scharffe, D., Slemr, F., Brenninkmeijer, C. A. M., and Zahn, A.: Carbon monoxide measurements onboard the CARIBIC passenger aircraft using UV resonance fluorescence, Atmos. Meas. Tech., 5, 1753–1760, https://doi.org/10.5194/amt-5-1753-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Schnaiter, M. and Järvinen, E.: SID-3 1Hz size distribution of cloud particles
+during the ACLOUD campaign in 2017, Karlsruher Institut für Technologie,
+Institut für Meteorologie und Klimaforschung, Karlsruhe, PANGAEA,
+https://doi.org/10.1594/PANGAEA.900261, 2019a. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Schnaiter, M. and Järvinen, E.: SID-3 analysis results for 2D scattering
+patterns during the ACLOUD campaign in 2017, Karlsruher Institut für
+Technologie, Institut für Meteorologie und Klimaforschung, Karlsruhe,
+PANGAEA, https://doi.org/10.1594/PANGAEA.900380, 2019b. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Schnaiter, M. and Järvinen, E.: PHIPS particle-by-particle data for the ACLOUD campaign in 2017, Karlsruher Institut für Technologie, Institut für
+Meteorologie und Klimaforschung, Karlsruhe, PANGAEA,
+https://doi.org/10.1594/PANGAEA.902611, 2019c. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.5194/acp-16-5091-2016</doi>
+              <unstructured_citation>Schnaiter, M., Järvinen, E., Vochezer, P., Abdelmonem, A., Wagner, R., Jourdan, O., Mioche, G., Shcherbakov, V. N., Schmitt, C. G., Tricoli, U., Ulanowski, Z., and Heymsfield, A. J.: Cloud chamber experiments on the origin of ice crystal complexity in cirrus clouds, Atmos. Chem. Phys., 16, 5091–5110, https://doi.org/10.5194/acp-16-5091-2016, 2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.5194/amt-11-341-2018</doi>
+              <unstructured_citation>Schnaiter, M., Järvinen, E., Abdelmonem, A., and Leisner, T.: PHIPS-HALO: the airborne particle habit imaging and polar scattering probe – Part 2: Characterization and first results, Atmos. Meas. Tech., 11, 341–357, https://doi.org/10.5194/amt-11-341-2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1175/2011JTECHA1445.1</doi>
+              <unstructured_citation>Schön, R., Schnaiter, M., Ulanowski, Z., Schmitt, C., Benz, S., Möhler,
+O., Vogt, S., Wagner, R., and Schurath, U.: Particle Habit Imaging Using
+Incoherent Light: A First Step toward a Novel Instrument for Cloud
+Microphysics, J. Atmos. Ocean. Tech., 28, 493–512,
+https://doi.org/10.1175/2011JTECHA1445.1, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1016/S0169-8095(99)00034-4</doi>
+              <unstructured_citation>Schwarzenboeck, A., Heintzenberg, J., and Mertes, S.: Incorporation of aerosol
+particles between 25 and 850 nm into cloud elements: measurements with a new
+complementary sampling system, Atmos. Res., 52, 241–260,
+https://doi.org/10.1016/S0169-8095(99)00034-4, 2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.5194/amt-2-779-2009</doi>
+              <unstructured_citation>Schwarzenboeck, A., Mioche, G., Armetta, A., Herber, A., and Gayet, J.-F.: Response of the Nevzorov hot wire probe in clouds dominated by droplet conditions in the drizzle size range, Atmos. Meas. Tech., 2, 779–788, https://doi.org/10.5194/amt-2-779-2009, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1016/j.gloplacha.2011.03.004</doi>
+              <unstructured_citation>Serreze, M. C. and Barry, R. G.: Processes and impacts of Arctic
+amplification: A research synthesis, Glob. Planet. Change, 77, 85–96,
+https://doi.org/10.1016/j.gloplacha.2011.03.004, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.2172/1246162</doi>
+              <unstructured_citation>Springston, S. R.: Radiance Research Particle Soot/Absorption Photometer
+Instrument Handbook, United States, DOE/SC-ARM-TR-176, https://doi.org/10.2172/1246162, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1117/12.629317</doi>
+              <unstructured_citation>Stachlewska, I. S., Ritter, C., and Neuber, R.: Application of the two-stream
+inversion algorithm for retrieval of extinction, backscatter, and lidar ratio
+for clean and polluted Arctic air, Proc. SPIE, 5984, https://doi.org/10.1117/12.629317,
+2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.5194/acp-10-2947-2010</doi>
+              <unstructured_citation>Stachlewska, I. S., Neuber, R., Lampert, A., Ritter, C., and Wehrle, G.: AMALi – the Airborne Mobile Aerosol Lidar for Arctic research, Atmos. Chem. Phys., 10, 2947–2963, https://doi.org/10.5194/acp-10-2947-2010, 2010. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>Stapf, J., Ehrlich, A., Jäkel, E., and Wendisch, M.: Aircraft measurements of
+broadband irradiance during the ACLOUD campaign in 2017, PANGAEA,
+https://doi.org/10.1594/PANGAEA.900442, 2019. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1175/BAMS-D-16-0324.1</doi>
+              <unstructured_citation>Stephens, G., Winker, D., Pelon, J., Trepte, C., Vane, D., Yuhas, C.,
+L’Ecuyer, T., and Lebsock, M.: CloudSat and CALIPSO within the A-Train: Ten
+Years of Actively Observing the Earth System, B. Am. Meteorol. Soc., 99,
+569–581, https://doi.org/10.1175/BAMS-D-16-0324.1, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.1364/AO.42.003726</doi>
+              <unstructured_citation>Stephens, M., Turner, N., and Sandberg, J.: Particle identification by
+laser-induced incandescence in a solid-state laser cavity, Appl. Opt., 42,
+3726–3736, https://doi.org/10.1364/AO.42.003726, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.1029/2009JD013605</doi>
+              <unstructured_citation>Stone, R. S., Herber, A., Vitale, V., Mazzola, M., Lupi, A., Schnell, R. C.,
+Dutton, E. G., Liu, P. S. K., Li, S.-M., Dethloff, K., Lampert, A., Ritter,
+C., Stock, M., Neuber, R., and Maturilli, M.: A three-dimensional
+characterization of Arctic aerosols from airborne Sun photometer
+observations: PAM-ARCMIP, April 2009, J. Geophys. Res., 115, D13203,
+https://doi.org/10.1029/2009JD013605, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <unstructured_citation>Twohy, C. H., Strapp, J. W., and Wendisch, M.: Performance of a Counterflow
+Virtual Impactor in the NASA Icing Research Tunnel, J. Atmos. Ocean.
+Tech., 20, 781–790,
+https://doi.org/10.1175/1520-0426(2003)020&amp;amp;lt;0781:POACVI&amp;amp;gt;2.0.CO;2, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1175/BAMS-D-14-00145.1</doi>
+              <unstructured_citation>Uttal, T., Starkweather, S., Drummond, J. R., Vihma, T., Makshtas, A. P.,
+Darby, L. S., Burkhart, J. F., Cox, C. J., Schmeisser, L. N., Haiden, T.,
+Maturilli, M., Shupe, M. D., De Boer, G., Saha, A., Grachev, A. A.,
+Crepinsek, S. M., Bruhwiler, L., Goodison, B., McArthur, B., Walden, V. P.,
+Dlugokenc&amp;lt;span id=&amp;quot;page1881&amp;quot;/&amp;gt;ky, E. J., Persson, P. O. G., Lesins, G., Laurila, T., Ogren, J. A.,
+Stone, R., Long, C. N., Sharma, S., Massling, A., Turner, D. D., Stanitski,
+D. M., Asmi, E., Aurela, M., Skov, H., Eleftheriadis, K., Virkkula, A.,
+Platt, A., Førland, E. J., Iijima, Y., Nielsen, I. E., Bergin, M. H.,
+Candlish, L., Zimov, N. S., Zimov, S. A., O’Neill, N. T., Fogal, P. F.,
+Kivi, R., Konopleva-Akish, E. A., Verlinde, J., Kustov, V. Y., Vasel, B.,
+Ivakhov, V. M., Viisanen, Y., and Intrieri, J. M.: International Arctic
+Systems for Observing the Atmosphere: An International Polar Year Legacy
+Consortium, B. Am. Meteorol. Soc., 97, 1033–1056,
+https://doi.org/10.1175/BAMS-D-14-00145.1, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.5194/amt-12-2513-2019</doi>
+              <unstructured_citation>Vaillant de Guélis, T., Schwarzenböck, A., Shcherbakov, V., Gourbeyre, C., Laurent, B., Dupuy, R., Coutris, P., and Duroure, C.: Study of the diffraction pattern of cloud particles and the respective responses of optical array probes, Atmos. Meas. Tech., 12, 2513–2529, https://doi.org/10.5194/amt-12-2513-2019, 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.5194/amt-9-159-2016</doi>
+              <unstructured_citation>Vochezer, P., Järvinen, E., Wagner, R., Kupiszewski, P., Leisner, T., and Schnaiter, M.: In situ characterization of mixed phase clouds using the Small Ice Detector and the Particle Phase Discriminator, Atmos. Meas. Tech., 9, 159–177, https://doi.org/10.5194/amt-9-159-2016, 2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <unstructured_citation>Voemel, H., Young, K., and Hock, T. F.: NCAR GPS Dropsonde Humidity Dry Bias,
+NCAR Technical Note NCAR/TN-531+STR, 8 pp., https://doi.org/10.5065/D6XS5SGX, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <unstructured_citation>Wendisch, M. and Brenguier, J.-L.: Airborne Measurements for Environmental
+Research – Methods and Instruments, Wiley–VCH Verlag GmbH &amp;amp;amp; Co. KGaA,
+Weinheim, Germany, Weinheim, Germany, ISBN: 978-3-527-40996-9, 2013. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <unstructured_citation>Wendisch, M., Keil, A., and Korolev, A.: FSSP characterization with
+monodisperse water droplets, J. Atmos. Ocean. Tech., 13, 1152–1165,
+https://doi.org/10.1175/1520-0426(1996)013&amp;amp;lt;1152:FCWMWD&amp;amp;gt;2.0.CO;2, 1996. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <unstructured_citation>Wendisch, M., Müller, D., Schell, D., and Heintzenberg, J.: An airborne
+spectral albedometer with active horizontal stabilization, J. Atmos. Ocean.
+Tech., 18, 1856–1866,
+https://doi.org/10.1175/1520-0426(2001)018&amp;amp;lt;1856:AASAWA&amp;amp;gt;2.0.CO;2, 2001.
+ a, b</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.1029/2017EO064803</doi>
+              <unstructured_citation>Wendisch, M., Brückner, M., Burrows, J. P., Crewell, S., Dethloff, K.,
+Ebell, K., Lüpkes, C., Macke, A., Notholt, J., Quaas, J., Rinke, A., ,
+and Tegen, I.: ArctiC Amplification: Climate Relevant Atmospheric
+and SurfaCe Processes, and Feedback Mechanisms: (AC)3, Eos,
+Trans. Amer. Geophys. Union, 98, https://doi.org/10.1029/2017EO064803, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1175/BAMS-D-18-0072.1</doi>
+              <unstructured_citation>Wendisch, M., Macke, A., Ehrlich, A., Lüpkes, C., Mech, M., Chechin, D.,
+Dethloff, K., Velasco, C. B., Bozem, H., Brückner, M., Clemen, H.-C.,
+Crewell, S., Donth, T., Dupuy, R., Ebell, K., Egerer, U., Engelmann, R.,
+Engler, C., Eppers, O., Gehrmann, M., Gong, X., Gottschalk, M., Gourbeyre,
+C., Griesche, H., Hartmann, J., Hartmann, M., Heinold, B., Herber, A.,
+Herrmann, H., Heygster, G., Hoor, P., Jafariserajehlou, S., Jäkel, E.,
+Järvinen, E., Jourdan, O., Kästner, U., Kecorius, S., Knudsen, E. M.,
+Köllner, F., Kretzschmar, J., Lelli, L., Leroy, D., Maturilli, M., Mei, L.,
+Mertes, S., Mioche, G., Neuber, R., Nicolaus, M., Nomokonova, T., Notholt,
+J., Palm, M., van Pinxteren, M., Quaas, J., Richter, P., Ruiz-Donoso, E.,
+Schäfer, M., Schmieder, K., Schnaiter, M., Schneider, J., Schwarzenböck,
+A., Seifert, P., Shupe, M. D., Siebert, H., Spreen, G., Stapf, J., Stratmann,
+F., Vogl, T., Welti, A., Wex, H., Wiedensohler, A., Zanatta, M., and
+Zeppenfeld, S.: The Arctic Cloud Puzzle: Using ACLOUD/PASCAL Multiplatform
+Observations to Unravel the Role of Clouds and Aerosol Particles in Arctic
+Amplification, B. Am. Meteorol. Soc., 100, 841–871,
+https://doi.org/10.1175/BAMS-D-18-0072.1, 2019. a, b, c, d, e, f</unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.17815/jlsrf-2-153</doi>
+              <unstructured_citation>Wesche, C., Steinhage, D., and Nixdorf, U.: Polar aircraft Polar5 and Polar6
+operated by the Alfred Wegener Institute, J. Large-Scale Res. Facilities, 2,
+A87, https://doi.org/10.17815/jlsrf-2-153, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <unstructured_citation>Zanatta, M. and Herber, A.: Aircraft measurements of aerosol size distribution
+in the Arctic during the ACLOUD campaign 2017, Alfred Wegener Institute,
+Helmholtz Centre for Polar and Marine Research, Bremerhaven, PANGAEA,
+https://doi.org/10.1594/PANGAEA.900341, 2019a. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <unstructured_citation>Zanatta, M. and Herber, A.: Aircraft measurements of refractory black carbon in
+the Arctic during the ACLOUD campaign 2017, Alfred Wegener Institute,
+Helmholtz Centre for Polar and Marine Research, Bremerhaven, PANGAEA,
+https://doi.org/10.1594/PANGAEA.899937, 2019b. a, b</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/essd-11-1853-2019-supplement</doi>
+                <resource>https://www.earth-syst-sci-data.net/11/1853/2019/essd-11-1853-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-09-18 00:39:35">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Advances in Modeling Earth Systems</full_title>
+          <abbrev_title>J. Adv. Model. Earth Syst.</abbrev_title>
+          <issn>19422466</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>08</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>8</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Forcing Single-Column Models Using High-Resolution Model Simulations</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Hannah M.</given_name>
+              <surname>Christensen</surname>
+              <affiliation>Atmospheric, Oceanic and Planetary Physics; University of Oxford; Oxford UK</affiliation>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-8244-0218</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew</given_name>
+              <surname>Dawson</surname>
+              <affiliation>Atmospheric, Oceanic and Planetary Physics; University of Oxford; Oxford UK</affiliation>
+              <ORCID>http://orcid.org/0000-0002-9312-9203</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Christopher E.</given_name>
+              <surname>Holloway</surname>
+              <affiliation>Department of Meteorology; University of Reading; Reading UK</affiliation>
+              <ORCID>http://orcid.org/0000-0001-9903-8989</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>08</month>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>06</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>1833</first_page>
+            <last_page>1857</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Research Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000781</assertion>
+              </assertion>
+              <assertion name="award_number">291406</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2018-08-06">http://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1029/2017MS001189</doi>
+            <resource>http://doi.wiley.com/10.1029/2017MS001189</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1029/2017MS001189/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2017MS001189</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1029/2017MS001189-BIB0001|jame20735-cit-0001">
+              <author>Ackerman</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1063/1.1554135</doi>
+              <article_title>The atmospheric radiation measurement program</article_title>
+              <journal_title>Physics Today</journal_title>
+              <volume>56</volume>
+              <issue>1</issue>
+              <first_page>38</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0002|jame20735-cit-0002">
+              <author>Baas</author>
+              <cYear>2010</cYear>
+              <article_title>How to design single-column model experiments for comparison with observed nocturnal low-level jets</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>136</volume>
+              <issue>648</issue>
+              <first_page>671</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0003|jame20735-cit-0003">
+              <author>Bechtold</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1002/qj.49712656405</doi>
+              <article_title>A GCSS model intercomparison for a tropical squall line observed during TOGA-COARE. II: Intercomparison of single-column models and a cloud-resolving model</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>126</volume>
+              <issue>564</issue>
+              <first_page>865</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0004|jame20735-cit-0004">
+              <unstructured_citation>Beljaars , A. C. M. 2005 Biases in the ECMWF model Proceedings, ECMWF/NWP-SAF Workshop on Bias estimation and correction in data assimilation 29 39 Shinfield Park</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0005|jame20735-cit-0005">
+              <author>Betts</author>
+              <cYear>1986</cYear>
+              <article_title>A new convective adjustment scheme. Part II: Single column tests using GATE wave, BOMEX, ATEX and arctic air-mass data sets</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>112</volume>
+              <issue>473</issue>
+              <first_page>693</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0006|jame20735-cit-0006">
+              <author>Brown</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1256/003590002320373210</doi>
+              <article_title>Large-eddy simulation of the diurnal cycle of shallow cumulus convection over land</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>128</volume>
+              <issue>582</issue>
+              <first_page>1075</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0007|jame20735-cit-0007">
+              <author>Buizza</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1002/qj.49712556006</doi>
+              <article_title>Stochastic representation of model uncertainties in the ECMWF ensemble prediction system</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>125</volume>
+              <issue>560</issue>
+              <first_page>2887</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0008|jame20735-cit-0008">
+              <author>Cavallo</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1175/MWR-D-15-0120.1</doi>
+              <article_title>Diagnosing model errors from time-averaged tendencies in the Weather Research and Forecasting (WRF) model</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>144</volume>
+              <issue>2</issue>
+              <first_page>759</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0009|jame20735-cit-0009">
+              <unstructured_citation>Christensen , H. M. Dawson , A. Holloway , C. 2018 http://catalogue.ceda.ac.uk/uuid/bf4fb57ac7f9461db27dab77c8c97cf2</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0010|jame20735-cit-0010">
+              <author>Craig</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/JAS3709.1</doi>
+              <article_title>Fluctuations in an equilibrium convective ensemble. Part i: Theoretical formulation</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>63</volume>
+              <issue>8</issue>
+              <first_page>1996</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0011|jame20735-cit-0011">
+              <author>Dai</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/JCLI3884.1</doi>
+              <article_title>Precipitation characteristics in eighteen coupled climate models</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>19</volume>
+              <issue>18</issue>
+              <first_page>4605</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0012|jame20735-cit-0012">
+              <author>Dal Gesso</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2014MS000377</doi>
+              <article_title>A single-column model intercomparison on the stratocumulus representation in present-day and future climate</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>7</volume>
+              <first_page>617</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0013|jame20735-cit-0013">
+              <author>Danard</author>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1993)121&lt;3173:OCTHPG&gt;2.0.CO;2</doi>
+              <article_title>On computing the horizontal pressure gradient force in sigma coordinates</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>121</volume>
+              <issue>11</issue>
+              <first_page>3173</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0014|jame20735-cit-0014">
+              <author>Davies</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1256/qj.04.101</doi>
+              <article_title>A new dynamical core for the Met Office's global and regional modelling of the atmosphere</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>131</volume>
+              <issue>608</issue>
+              <first_page>1759</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0015|jame20735-cit-0015">
+              <author>Emanuel</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2013MS000270</doi>
+              <article_title>Radiative-convective instability</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>6</volume>
+              <first_page>75</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0016|jame20735-cit-0016">
+              <author>Frank</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1996)053&lt;1761:RBADTT&gt;2.0.CO;2</doi>
+              <article_title>Rawinsonde budget analyses during TOGA COARE IOP</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>53</volume>
+              <issue>13</issue>
+              <first_page>1761</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0017|jame20735-cit-0017">
+              <author>Gregory</author>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1990)118&lt;1483:AMFCSW&gt;2.0.CO;2</doi>
+              <article_title>A mass flux convection scheme with representation of cloud ensemble characteristics and stability-dependent closure</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>118</volume>
+              <issue>7</issue>
+              <first_page>1483</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0018|jame20735-cit-0018">
+              <author>Haney</author>
+              <cYear>1991</cYear>
+              <doi provider="crossref">10.1175/1520-0485(1991)021&lt;0610:OTPGFO&gt;2.0.CO;2</doi>
+              <article_title>On the pressure gradient force over steep topography in sigma coordinate ocean models</article_title>
+              <journal_title>Journal of Physical Oceanography</journal_title>
+              <volume>21</volume>
+              <issue>4</issue>
+              <first_page>610</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0019|jame20735-cit-0019">
+              <author>Hannay</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1175/2008JCLI2479.1</doi>
+              <article_title>Evaluation of forecasted southeast Pacific stratocumulus in the NCAR, GFDL, and ECMWF models</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>22</volume>
+              <issue>11</issue>
+              <first_page>2871</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0020|jame20735-cit-0020">
+              <author>Heinze</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/qj.2947</doi>
+              <article_title>Large-eddy simulations over Germany using ICON: A comprehensive evaluation</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>143</volume>
+              <issue>702</issue>
+              <first_page>69</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0021|jame20735-cit-0021">
+              <author>Holloway</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1002/qj.1903</doi>
+              <article_title>Precipitation distributions for explicit versus parametrized convection in a large-domain high-resolution tropical case study</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>138</volume>
+              <issue>668</issue>
+              <first_page>1692</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0022|jame20735-cit-0022">
+              <author>Holloway</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/JAS-D-12-0227.1</doi>
+              <article_title>The effects of explicit versus parameterized convection on the MJO in a large-domain high-resolution tropical case study. Part I: Characterization of large-scale organization and propagation</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>70</volume>
+              <issue>5</issue>
+              <first_page>1342</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0023|jame20735-cit-0023">
+              <author>Holloway</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/JAS-D-14-0308.1</doi>
+              <article_title>The effects of explicit versus parameterized convection on the MJO in a large-domain high-resolution tropical case study. Part II: Processes leading to differences in MJO development</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>72</volume>
+              <issue>7</issue>
+              <first_page>2719</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0024|jame20735-cit-0024">
+              <author>Klocke</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/qj.2172</doi>
+              <article_title>A comparison of two numerical weather prediction methods for diagnosing fast-physics errors in climate models</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>140</volume>
+              <issue>679</issue>
+              <first_page>517</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0025|jame20735-cit-0025">
+              <unstructured_citation>Köhler , M. Teixeira , J. 2002</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0026|jame20735-cit-0026">
+              <author>Lin</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1996)053&lt;0695:KATCOT&gt;2.0.CO;2</doi>
+              <article_title>Kinematic and thermodynamic characteristics of the flow over the western Pacific warm pool during TOGA COARE</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>53</volume>
+              <first_page>695</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0027|jame20735-cit-0027">
+              <author>Lin</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/2000GL011964</doi>
+              <article_title>Influence of a stochastic moist convective parametrisation on tropical climate variability</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>27</volume>
+              <issue>22</issue>
+              <first_page>3691</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0028|jame20735-cit-0028">
+              <author>Love</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1002/qj.809</doi>
+              <article_title>The diurnal cycle of precipitation over the Maritime Continent in a high-resolution atmospheric model</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>137</volume>
+              <issue>657</issue>
+              <first_page>934</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0029|jame20735-cit-0029">
+              <author>Marsham</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2011GL048368</doi>
+              <article_title>The importance of the representation of deep convection for modeled dust-generating winds over West Africa during summer</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>38</volume>
+              <first_page>2</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0030|jame20735-cit-0030">
+              <author>Medeiros</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-11-00503.1</doi>
+              <article_title>Southeast Pacific stratocumulus in the community atmosphere model</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>25</volume>
+              <issue>18</issue>
+              <first_page>6175</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0031|jame20735-cit-0031">
+              <author>Moncrieff</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1175/JAS-D-16-0166.1</doi>
+              <article_title>Simulation, modeling, and dynamically based parameterization of organized tropical convection for global climate models</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>74</volume>
+              <issue>5</issue>
+              <first_page>1363</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0032|jame20735-cit-0032">
+              <author>Mori</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;2021:DLRPMO&gt;2.0.CO;2</doi>
+              <article_title>Diurnal land-sea rainfall peak migration over Sumatera Island, Indonesian Maritime Continent, observed by TRMM satellite and intensive Rawinsonde soundings</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>132</volume>
+              <issue>8</issue>
+              <first_page>2021</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0033|jame20735-cit-0033">
+              <author>Mulholland</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/MWR-D-15-0076.1</doi>
+              <article_title>Origin and impact of initialization shocks in coupled atmosphere-ocean forecasts</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>143</volume>
+              <first_page>4631</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0034|jame20735-cit-0034">
+              <author>Nagarajan</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;2275:POTEOA&gt;2.0.CO;2</doi>
+              <article_title>Performance of the ECMWF operational analyses over the Tropical Indian Ocean</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>132</volume>
+              <first_page>2275</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0035|jame20735-cit-0035">
+              <author>Noh</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/JAMC-D-11-0202.1</doi>
+              <article_title>In situ aircraft measurements of the vertical distribution of liquid and ice water content in midlatitude mixed-phase clouds</article_title>
+              <journal_title>Journal of Applied Meteorology and Climatology</journal_title>
+              <volume>52</volume>
+              <issue>1</issue>
+              <first_page>269</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0036|jame20735-cit-0036">
+              <author>Nuret</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1175/1520-0434(1996)011&lt;0053:MTPOTE&gt;2.0.CO;2</doi>
+              <article_title>Monitoring the performance of the ECMWF operational analysis using the enhanced TOGA COARE Observational Network</article_title>
+              <journal_title>Weather Forecast</journal_title>
+              <volume>11</volume>
+              <issue>3</issue>
+              <first_page>53</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0037|jame20735-cit-0037">
+              <author>Palmer</author>
+              <cYear>2001</cYear>
+              <article_title>A nonlinear dynamical perspective on model error: A proposal for nonlocal stochastic-dynamic parametrisation in weather and climate prediction models</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>127</volume>
+              <issue>572</issue>
+              <first_page>279</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0038|jame20735-cit-0038">
+              <unstructured_citation>Palmer , T. N. Buizza , R. Doblas-Reyes , F. Jung , T. Leutbecher , M. Shutts , G. J. 2009</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0039|jame20735-cit-0039">
+              <author>Pearson</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2010JD014265</doi>
+              <article_title>Evaluation of the model representation of the evolution of convective systems using satellite observations of outgoing longwave radiation</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>115</volume>
+              <first_page>D20206</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0040|jame20735-cit-0040">
+              <author>Petch</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1002/qj.109</doi>
+              <article_title>Modelling suppressed and active convection. Comparing a numerical weather prediction, cloud-resolving and single-column model</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>133</volume>
+              <issue>626</issue>
+              <first_page>1087</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0041|jame20735-cit-0041">
+              <author>Phillips</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/BAMS-85-12-1903</doi>
+              <article_title>Evaluating parameterizations in general circulation models: Climate simulation meets weather prediction</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>85</volume>
+              <issue>12</issue>
+              <first_page>1903</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0042|jame20735-cit-0042">
+              <author>Porta Mana</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.ocemod.2014.04.002</doi>
+              <article_title>Toward a stochastic parameterization of ocean mesoscale eddies</article_title>
+              <journal_title>Ocean Modelling</journal_title>
+              <volume>79</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0043|jame20735-cit-0043">
+              <author>Randall</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1029/1999JD900765</doi>
+              <article_title>Alternative methods for specification of observed forcing in single-column models and cloud system models</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>104</volume>
+              <issue>D20</issue>
+              <first_page>24,527</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0044|jame20735-cit-0044">
+              <author>Randall</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1175/1520-0442(1996)009&lt;1683:SCMACE&gt;2.0.CO;2</doi>
+              <article_title>Single-column models and cloud ensemble models as links between observations and climate models</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>9</volume>
+              <issue>8</issue>
+              <first_page>1683</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0045|jame20735-cit-0045">
+              <author>Rodwell</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1002/qj.23</doi>
+              <article_title>Using numerical weather prediction to assess climate models</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>133</volume>
+              <issue>622</issue>
+              <first_page>129</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0046|jame20735-cit-0046">
+              <author>Satoh</author>
+              <cYear>2017</cYear>
+              <article_title>Outcomes and challenges of global high-resolution non-hydrostatic atmospheric simulations using the K computer</article_title>
+              <journal_title>Progress in Earth and Planetary Science</journal_title>
+              <volume>4</volume>
+              <issue>13</issue>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0047|jame20735-cit-0047">
+              <author>Satoh</author>
+              <cYear>2014</cYear>
+              <article_title>The non-hydrostatic icosahedral atmospheric model: Description and development</article_title>
+              <journal_title>Progress in Earth and Planetary Science</journal_title>
+              <volume>1</volume>
+              <issue>18</issue>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0048|jame20735-cit-0048">
+              <author>Schalkwijk</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-14-00114.1</doi>
+              <article_title>Weather forecasting using GPU-based large-eddy simulations</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>96</volume>
+              <issue>5</issue>
+              <first_page>715</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0049|jame20735-cit-0049">
+              <author>Shutts</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1175/JCLI3954.1</doi>
+              <article_title>Convective forcing fluctuations in a cloud-resolving model: Relevance to the stochastic parameterization problem</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>20</volume>
+              <issue>2</issue>
+              <first_page>187</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0050|jame20735-cit-0050">
+              <author>Svensson</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1007/s10546-009-9395-1</doi>
+              <article_title>Analysis of model results for the turning of the wind and related momentum fluxes in the stable boundary layer</article_title>
+              <journal_title>Boundary-Layer Meteorology</journal_title>
+              <volume>132</volume>
+              <issue>2</issue>
+              <first_page>261</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0051|jame20735-cit-0051">
+              <author>Svensson</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1007/s10546-011-9611-7</doi>
+              <article_title>Evaluation of the diurnal cycle in the atmospheric boundary layer over land as represented by a variety of single-column models: The second GABLS experiment</article_title>
+              <journal_title>Boundary-Layer Meteorology</journal_title>
+              <volume>140</volume>
+              <issue>2</issue>
+              <first_page>177</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0052|jame20735-cit-0052">
+              <author>Tang</author>
+              <cYear>2015</cYear>
+              <article_title>Three-dimensional constrained variational analysis: Approach and application to analysis of atmospheric diabatic heating and derivative fields during an arm sgp intensive observational period</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>120</volume>
+              <first_page>7283</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0053|jame20735-cit-0053">
+              <author>Tang</author>
+              <cYear>2017</cYear>
+              <article_title>Investigating the dependence of SCM simulated precipitation and clouds on the spatial scale of large-scale forcing at SGP</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>122</volume>
+              <first_page>8724</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0054|jame20735-cit-0054">
+              <author>Turner</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1175/AMSMONOGRAPHS-D-16-0001.1</doi>
+              <article_title>Introduction</article_title>
+              <journal_title>Meteorological Monographs</journal_title>
+              <volume>57</volume>
+              <first_page>v</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0055|jame20735-cit-0055">
+              <author>Ulate</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2014MS000313</doi>
+              <article_title>Sensitivity of the water cycle over the Indian Ocean and Maritime Continent to parameterized physics in a regional model</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>6</volume>
+              <first_page>1095</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0056|jame20735-cit-0056">
+              <author>Williams</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-12-00429.1</doi>
+              <article_title>The transpose-AMIP II experiment and its application to the understanding of Southern Ocean cloud biases in climate models</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>26</volume>
+              <issue>10</issue>
+              <first_page>3258</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0057|jame20735-cit-0057">
+              <author>Williamson</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1029/2004JD005109</doi>
+              <article_title>Moisture and temperature balances at the Atmospheric Radiation Measurement Southern Great Plains site in forecasts with the Community Atmosphere Model (CAM2)</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>110</volume>
+              <first_page>D15S16</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0058|jame20735-cit-0058">
+              <author>Xie</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2003JD004045</doi>
+              <article_title>Developing long-term single-column model/cloud system-resolving model forcing data using numerical weather prediction products constrained by surface and top of the atmosphere observations</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>109</volume>
+              <first_page>D01104</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0059|jame20735-cit-0059">
+              <author>Xie</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1029/2003JD003541</doi>
+              <article_title>Comparison of SCM and CSRM forcing data derived from the ECMWF model and from objective analysis at the ARM SGP site</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>108</volume>
+              <issue>D16</issue>
+              <first_page>4499</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0060|jame20735-cit-0060">
+              <author>Zhang</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1997)054&lt;1503:CVAOSD&gt;2.0.CO;2</doi>
+              <article_title>Constrained variational analysis of sounding data based on column-integrated budgets of mass, heat, moisture, and momentum: Approach and application to ARM measurements</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>54</volume>
+              <first_page>1503</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0061|jame20735-cit-0061">
+              <author>Zhang</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;0295:OAOAID&gt;2.0.CO;2</doi>
+              <article_title>Objective analysis of ARM IOP data: Method and sensitivity</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>129</volume>
+              <issue>2</issue>
+              <first_page>295</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0062|jame20735-cit-0062">
+              <author>Zhang</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1175/AMSMONOGRAPHS-D-15-0040.1</doi>
+              <article_title>The SCM concept and creation of ARM forcing datasets</article_title>
+              <journal_title>Meteorological Monographs</journal_title>
+              <volume>57</volume>
+              <first_page>24.1</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001189-BIB0063|jame20735-cit-0063">
+              <author>Zhu</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1175/MWR2997.1</doi>
+              <article_title>Intercomparison and interpretation of single-column model simulations of a nocturnal stratocumulus-topped marine boundary layer</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>133</volume>
+              <issue>9</issue>
+              <first_page>2741</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

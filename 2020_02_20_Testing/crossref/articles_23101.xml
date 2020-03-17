@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1175" timestamp="2020-01-17 14:02:52">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Climate</full_title>
+          <abbrev_title>J. Climate</abbrev_title>
+          <issn media_type="print">0894-8755</issn>
+          <issn media_type="electronic">1520-0442</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>02</month>
+            <year>2020</year>
+          </publication_date>
+          <journal_volume>
+            <volume>33</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A Hindcast Approach to Diagnosing the Equatorial Pacific Cold Tongue SST Bias in CESM1</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Angela Cheska</given_name>
+              <surname>Siongco</surname>
+              <affiliation>Lawrence Livermore National Laboratory, Livermore, California</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hsi-Yen</given_name>
+              <surname>Ma</surname>
+              <affiliation>Lawrence Livermore National Laboratory, Livermore, California</affiliation>
+              <ORCID authenticated="true">http://orcid.org/0000-0002-9628-1278</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephen A.</given_name>
+              <surname>Klein</surname>
+              <affiliation>Lawrence Livermore National Laboratory, Livermore, California</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Shaocheng</given_name>
+              <surname>Xie</surname>
+              <affiliation>Lawrence Livermore National Laboratory, Livermore, California</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alicia R.</given_name>
+              <surname>Karspeck</surname>
+              <affiliation>Jupiter Intelligence, and National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kevin</given_name>
+              <surname>Raeder</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey L.</given_name>
+              <surname>Anderson</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>An ensemble seasonal hindcast approach is used to investigate the development of the equatorial Pacific Ocean cold sea surface temperature (SST) bias and its characteristic annual cycle in the Community Earth System Model, version 1 (CESM1). In observations, eastern equatorial Pacific SSTs exhibit a warm phase during boreal spring and a cold phase during late boreal summer–autumn. The CESM1 climatology shows a cold bias during both warm and cold phases. In our hindcasts, the cold bias during the cold phase develops in less than 6 months, whereas the cold bias during the warm phase takes longer to emerge. The fast-developing cold-phase cold bias is associated with too-strong vertical advection and easterly wind stress over the eastern equatorial region. The antecedent boreal summer easterly wind anomalies also appear in atmosphere-only simulations, indicating that the errors are intrinsic to the atmosphere component. For the slower-developing warm-phase cold bias, we find that the too-cold SSTs over the equatorial region are associated with a slowly evolving upward displacement of subsurface ocean zonal currents and isotherms that can be traced to the ocean component.</p>
+          </abstract>
+          <publication_date media_type="print">
+            <month>02</month>
+            <year>2020</year>
+          </publication_date>
+          <pages>
+            <first_page>1437</first_page>
+            <last_page>1453</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1175/JCLI-D-19-0513.1</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Biological and Environmental Research
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006206</assertion>
+              </assertion>
+              <assertion name="award_number">DE-AC52-07NA27344</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref start_date="2021-01-17" applies_to="vor">http://www.ametsoc.org/PUBSReuseLicenses</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1175/JCLI-D-19-0513.1</doi>
+            <resource>http://journals.ametsoc.org/doi/10.1175/JCLI-D-19-0513.1</resource>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">http://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-19-0513.1</resource>
+              </item>
+            </collection>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-19-0513.1</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

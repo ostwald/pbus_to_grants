@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-07 08:42:50">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>8</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Ground-based direct-sun DOAS and airborne MAX-DOAS measurements of the collision-induced oxygen complex, O&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;O&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;, absorption with significant pressure and temperature differences</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>E.</given_name>
+              <surname>Spinei</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Cede</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Herman</surname>
+              <ORCID>https://orcid.org/0000-0002-9146-1632</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>G. H.</given_name>
+              <surname>Mount</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>E.</given_name>
+              <surname>Eloranta</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>B.</given_name>
+              <surname>Morley</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Baidar</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>B.</given_name>
+              <surname>Dix</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>I.</given_name>
+              <surname>Ortega</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>T.</given_name>
+              <surname>Koenig</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R.</given_name>
+              <surname>Volkamer</surname>
+              <ORCID>https://orcid.org/0000-0002-0899-1369</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The collision-induced O<sub>2</sub> complex, O<sub>2</sub>O<sub>2</sub>, is a very important trace gas for understanding remote sensing measurements of aerosols, cloud properties and atmospheric trace gases. Many ground-based multi-axis differential optical absorption spectroscopy (MAX-DOAS) measurements of the O<sub>2</sub>O<sub>2</sub> optical depth require correction factors of 0.75 ± 0.1 to reproduce radiative transfer modeling (RTM) results for a nearly pure Rayleigh atmosphere. One of the potential causes of this discrepancy is uncertainty in laboratory-measured O<sub>2</sub>O<sub>2</sub> absorption cross section temperature and pressure dependencies due to difficulties in replicating atmospheric conditions in the laboratory environment. <br><br> This paper presents ground-based direct-sun (DS) and airborne multi-axis (AMAX) DOAS measurements of O<sub>2</sub>O<sub>2</sub> absorption optical depths under actual atmospheric conditions in two wavelength regions (335–390 and 435–490 nm). DS irradiance measurements were made by the Washington State University research-grade Multi-Function Differential Spectroscopy Instrument instrument from 2007 to 2014 at seven sites with significant pressure (778 to 1013 hPa) and O<sub>2</sub>O<sub>2</sub> profile-weighted temperature (247 to 275 K) differences. Aircraft MAX-DOAS measurements were conducted by the University of Colorado (CU) AMAX-DOAS instrument on 29 January 2012 over the Southern Hemispheric subtropical Pacific Ocean. Scattered solar radiance spectra were collected at altitudes between 9 and 13.2 km, with O<sub>2</sub>O<sub>2</sub> profile-weighted temperatures of 231 to 244 K and nearly pure Rayleigh scattering conditions. <br><br> Due to the well-defined DS air-mass factors during ground-based measurements and extensively characterized atmospheric conditions during the aircraft AMAX-DOAS measurements, O<sub>2</sub>O<sub>2</sub> "pseudo" absorption cross sections, σ, are derived from the observed optical depths and estimated O<sub>2</sub>O<sub>2</sub> column densities. Vertical O<sub>2</sub>O<sub>2</sub> columns are calculated from the atmospheric sounding temperature, pressure and specific humidity profiles. <br><br> Based on the ground-based atmospheric DS observations, there is no pressure dependence of the O<sub>2</sub>O<sub>2</sub> σ within the measurement errors (3%). Two data sets are combined to derive the peak σ temperature dependence of the 360 and 477 nm dimer absorption bands from 231 to 275 K. DS and AMAX-derived peak σ ( O<sub>2</sub>O<sub>2</sub>) as a function of <I>T</I> can be described by a quadratic function at 360 nm and linear function at 477 nm with about 9% ± 2.5% per 44 K rate. <br><br> Recent laboratory-measured O<sub>2</sub>O<sub>2</sub> cross sections by Thalman and Volkamer (2013) agree with these "DOAS apparent" peak σ( O<sub>2</sub>O<sub>2</sub>) at 233, 253 and 273 K within 3%. Changes in the O<sub>2</sub>O<sub>2</sub> spectral band shape at colder temperatures are observed for the first time in field data. Temperature effects on spectral band shapes can introduce errors in the retrieved O<sub>2</sub>O<sub>2</sub> column abundances if a single room temperature σ( O<sub>2</sub>O<sub>2</sub>) is used in the DOAS analysis. Simultaneous fitting of σ( O<sub>2</sub>O<sub>2</sub>) at temperatures that bracket the ambient temperature range can reduce such errors. <br><br> Our results show that laboratory-measured σ( O<sub>2</sub>O<sub>2</sub>) (Hermans, 2011, at 296 K and Thalman and Volkamer, 2013) are applicable for observations over a wide range of atmospheric conditions. Column densities derived using Hermans (2011) σ at 296 K require very small correction factors (0.94 ± 0.02 at 231 K and 0.99 ± 0.02 at 275 K) to reproduce theoretically calculated slant column densities for DS and AMAX-DOAS measurements. Simultaneous fitting of σ( O<sub>2</sub>O<sub>2</sub>) at 203 and 293 K further improved the results at UV and visible wavelengths for AMAX-DOAS.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>02</month>
+            <day>18</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>793</first_page>
+            <last_page>809</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-8-793-2015</doi>
+            <resource>https://www.atmos-meas-tech.net/8/793/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/8/793/2015/amt-8-793-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2003JD003915</doi>
+              <unstructured_citation>Acarreta, J. R., De Haan, J. F., and Stammes, P.: Cloud pressure retrieval using the O2-O2 absorption band at 477 nm, J. Geophys. Res., 109, D05204, https://doi.org/10.1029/2003JD003915, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/amt-6-719-2013</doi>
+              <unstructured_citation>Baidar, S., Oetjen, H., Coburn, S., Dix, B., Ortega, I., Sinreich, R., and Volkamer, R.: The CU Airborne MAX-DOAS instrument: vertical profiling of aerosol extinction and trace gases, Atmos. Meas. Tech., 6, 719–739, https://doi.org/10.5194/amt-6-719-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1016/S1010-6030(03)00062-5</doi>
+              <unstructured_citation>Bogumil, K.: Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: instrument characterization and reference data for atmospheric remote-sensing in the 230–2380 nm region, J. Photochem. Photobiol. A: Chemistry, 157, 167–184, https://doi.org/10.1016/S1010-6030(03)00062-5, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2005JD006585</doi>
+              <unstructured_citation>Cede, A., Herman, J., Richter, A., Krotkov, N., and Burrows, J.: Measurements of nitrogen dioxide total column amounts using a Brewer double spectrophotometer in direct Sun mode, J. Geophys. Res., 111, D05304, https://doi.org/10.1029/2005JD006585, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/amt-3-863-2010</doi>
+              <unstructured_citation>Clémer, K., Van Roozendael, M., Fayt, C., Hendrick, F., Hermans, C., Pinardi, G., Spurr, R., Wang, P., and De Mazière, M.: Multiple wavelength retrieval of tropospheric aerosol optical properties from MAXDOAS measurements in Beijing, Atmos. Meas. Tech., 3, 863–878, https://doi.org/10.5194/amt-3-863-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Danckaert, T., Fayt, C., Van Roozendael, M., De Smedt, I., Letocart, V., Merlaud, A., and Pinardi, G.: QDOAS Software User Manual, Belgian Institute for Space Aeronomy (BIRA-IASB), 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1007/BF00053756</doi>
+              <unstructured_citation>Daumont, D., Brion, J., Charbonnier, J., and Malicet, J.: Ozone UV spectroscopy I: Absorption cross-sections at room temperature, J. Atmos. Chem., 15, 145–155, https://doi.org/10.1007/BF00053756, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/JD094iD14p16757</doi>
+              <unstructured_citation>Denning, R. F., Guidero, S. L., Parks, G. S., and Gary, B. L.: Instrument description of the airborne microwave temperature profiler, J. Geophys. Res., 94, 16757, https://doi.org/10.1029/JD094iD14p16757, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1016/j.jqsrt.2010.12.009</doi>
+              <unstructured_citation>Deutschmann, T., Beirle, S., Frieß, U., Grzegorski, M., Kern, C., Kritten, L., Platt, U., Prados-Román, C., Puķīte, J., Wagner, T., Werner, B., and Pfeilsticker, K.: The Monte Carlo atmospheric radiative transfer model McArtim: Introduction and validation of Jacobians and 3D features, J. Q. Spectr. Radiat. T., 112, 1119–1137, https://doi.org/10.1016/j.jqsrt.2010.12.009, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1073/pnas.1212386110</doi>
+              <unstructured_citation>Dix, B., Baidar, S., Bresch, J. F., Hall, S. R., Schmidt, K. S., Wang, S., and Volkamer, R.: Detection of iodine monoxide in the tropical free troposphere, Proc. Natl. Acad. Sci., 110, 2035–2040, https://doi.org/10.1073/pnas.1212386110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1109/AERO.2008.4526390</doi>
+              <unstructured_citation>Eloranta, E. W., Razenkov, I. A., Hedrick, J., and Garcia, J. P.: The Design and Construction of an Airborne High Spectral Resolution Lidar, pp. 1–6, IEEE, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Fayt, C. and Van Roozendael, M.: WinDOAS 2.1 Software User Manual, BIRA-IASB, Uccle, Belgium, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1016/j.jphotochem.2004.03.026</doi>
+              <unstructured_citation>Fleischmann, O. C., Hartmann, M., Burrows, J. P., and Orphal, J.: New ultraviolet absorption cross-sections of BrO at atmospheric temperatures measured by time-windowing Fourier transform spectroscopy, J. Photochem. Photobiol. A: Chemistry, 168, 117–132, https://doi.org/10.1016/j.jphotochem.2004.03.026, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2005JD006618</doi>
+              <unstructured_citation>Frieß, U., Monks, P. S., Remedios, J. J., Rozanov, A., Sinreich, R., Wagner, T., and Platt, U.: MAX-DOAS O4 measurements: A new technique to derive information on atmospheric aerosols: 2. Modeling studies, J. Geophys. Res., 111, D17S90, https://doi.org/10.1029/2005JD006618, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/JD095iD11p18577</doi>
+              <unstructured_citation>Greenblatt, G. D., Orlando, J. J., Burkholder, J. B., and Ravishankara, A. R.: Absorption Measurements of Oxygen Between 330 and 1140 nm, J. Geophys. Res., 95, 18577–18582, https://doi.org/10.1029/JD095iD11p18577, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2009JD011848</doi>
+              <unstructured_citation>Herman, J., Cede, A., Spinei, E., Mount, G., Tzortziou, M., and Abuhassan, N.: NO2 column amounts from groundbased Pandora and MFDOAS spectrometers using the direct-sun DOAS technique: Intercomparisons and application to OMI validation, J. Geophys. Res., 114, D13307, https://doi.org/10.1029/2009JD011848, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Hermans, C.: O4 absorption cross-sections at 296 K (335.59–666.63 nm), online available from: http://spectrolab.aeronomie.be/index.htm (last accessed 15 January 2011), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1007/BF02987620</doi>
+              <unstructured_citation>Hermans, C., Vandaele, A., Carleer, M., Fally, S., Colin, R., Jenouvrier, A., Coquart, B., and Mérienne, M.-F.: Absorption cross-sections of atmospheric constituents: NO2, O2, and H2O, Environ. Sci. Pollut. Res., 6, 151–158, https://doi.org/10.1007/BF02987620, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-8-341-2008</doi>
+              <unstructured_citation>Irie, H., Kanaya, Y., Akimoto, H., Iwabuchi, H., Shimizu, A., and Aoki, K.: First retrieval of tropospheric aerosol profiles using MAX-DOAS and comparison with lidar and sky radiometer measurements, Atmos. Chem. Phys., 8, 341–350, https://doi.org/10.5194/acp-8-341-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-9-2741-2009</doi>
+              <unstructured_citation>Irie, H., Kanaya, Y., Akimoto, H., Iwabuchi, H., Shimizu, A., and Aoki, K.: Dual-wavelength aerosol vertical profile measurements by MAX-DOAS at Tsukuba, Japan, Atmos. Chem. Phys., 9, 2741–2749, https://doi.org/10.5194/acp-9-2741-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/amt-4-1027-2011</doi>
+              <unstructured_citation>Irie, H., Takashima, H., Kanaya, Y., Boersma, K. F., Gast, L., Wittrock, F., Brunner, D., Zhou, Y., and Van Roozendael, M.: Eight-component retrievals from ground-based MAX-DOAS observations, Atmos. Meas. Tech., 4, 1027–1044, https://doi.org/10.5194/amt-4-1027-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.2307/25138616</doi>
+              <unstructured_citation>Langley, S. P.: The bolometer and radiant energy, Proc. American Acad. Arts and Sciences, 16, 342–358, 1881.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1109/IGARSS.2013.6723549</doi>
+              <unstructured_citation>Lim, B., Mahoney, M., Haggerty, J., and Denning, R.: The Microwave Temperature Profiler performance in recent airborne campaigns, IEEE, pp. 3363–3366, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1007/BF00696758</doi>
+              <unstructured_citation>Malicet, J., Daumont, D., Charbonnier, J., Parisse, C., Chakir, A., and Brion, J.: Ozone UV spectroscopy. II. Absorption cross-sections and temperature dependence, J. Atmos. Chem., 21, 263–273, https://doi.org/10.1007/BF00696758, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1016/j.jqsrt.2013.06.022</doi>
+              <unstructured_citation>Massie, S. T. and Hervig, M.: HITRAN 2012 refractive indices, J. Q. Spectr. Radiat. T., 130, 373–380, https://doi.org/10.1016/j.jqsrt.2013.06.022, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/1999JD901074</doi>
+              <unstructured_citation>Meller, R. and Moortgat, G. K.: Temperature dependence of the absorption cross sections of formaldehyde between 223 and 323 K in the wavelength range 225–375 nm, J. Geophys. Res., 105, 7089–7101, https://doi.org/10.1029/1999JD901074, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/acp-11-9219-2011</doi>
+              <unstructured_citation>Merlaud, A., Van Roozendael, M., Theys, N., Fayt, C., Hermans, C., Quennehen, B., Schwarzenboeck, A., Ancellet, G., Pommier, M., Pelon, J., Burkhart, J., Stohl, A., and De Mazière, M.: Airborne DOAS measurements in Arctic: vertical distributions of aerosol extinction coefficient and NO2 concentration, Atmos. Chem. Phys., 11, 9219–9236, https://doi.org/10.5194/acp-11-9219-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/98JD02799</doi>
+              <unstructured_citation>Newnham, D. A. and Ballard, J.: Visible absorption cross sections and integrated absorption intensities of molecular oxygen (O2 and O4), J. Geophys. Res., 103, 28801–28815, https://doi.org/10.1029/98JD02799, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Osterkamp, H., Ferlemann, F., Harder, H., Perner, D., Platt, U., and Schneider, M.: First measurement of the atmospheric O4 profile, in: Proceedings of the 4th European Symposium on Polar stratosperic ozone 1997, Schliersee/Germany, pp. 478–481, Luxembourg: European Commission, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2001GL013734</doi>
+              <unstructured_citation>Pfeilsticker, K., Bösch, H., Camy-Peyret, C., Fitzenberger, R., Harder, H., and Osterkamp, H.: First atmospheric profile measurements of UV/visible O4 absorption band intensities: Implications for the spectroscopy, and the formation enthalpy of the O2O2 dimer, Geophys. Res. Lett., 28, 4595, https://doi.org/10.1029/2001GL013734, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/2006JD007722</doi>
+              <unstructured_citation>Pierce, R. B., Schaack, T., Al-Saadi, J. A., Fairlie, T. D., Kittaka, C., Lingenfelser, G., Natarajan, M., Olson, J., Soja, A., Zapotocny, T., Lenzen, A., Stobie, J., Johnson, D., Avery, M. A., Sachse, G. W., Thompson, A., Cohen, R., Dibb, J. E., Crawford, J., Rault, D., Martin, R., Szykman, J. and Fishman, J.: Chemical data assimilation estimates of continental U.S. ozone and nitrogen budgets during the Intercontinental Chemical Transport Experiment – North America, J. Geophys. Res., 112, https://doi.org/10.1029/2006JD007722, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Platt, U.: Differential Optical Absorption Spectroscopy (DOAS), in: Air monitoring by spectroscopic techniques, vol. 127, edited by: Sigrist, M. W., p. 531, Wiley-IEEE, New York, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1016/j.jqsrt.2010.05.001</doi>
+              <unstructured_citation>Rothman, L. S., Gordon, I. E., Barber, R. J., Dothe, H., Gamache, R. R., Goldman, A., Perevalov, V. I., Tashkun, S. A., and Tennyson, J.: HITEMP, the high-temperature molecular spectroscopic database, J. Q. Spectr. Radiat. T., 111, 2139–2150, https://doi.org/10.1016/j.jqsrt.2010.05.001, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1038/134463a0</doi>
+              <unstructured_citation>Salow, H. and Steiner, W.: Absorption Spectrum of Oxygen at High Pressures and the Existence of O4 Molecules, Nature, 134, 463–463, https://doi.org/10.1038/134463a0, 1934.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1016/S0022-4073(02)00190-5</doi>
+              <unstructured_citation>Sneep, M. and Ubachs, W.: Cavity ring-down measurement of the O2-O2 collision-induced absorption resonance at 477 nm at sub-atmospheric pressures, J. Q. Spectr. Radiat. T., 78, 171–178, https://doi.org/10.1016/S0022-4073(02)00190-5, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1016/j.jqsrt.2005.06.004</doi>
+              <unstructured_citation>Sneep, M., Ityaksov, D., Aben, I., Linnartz, H., and Ubachs, W.: Temperature-dependent cross sections of O2-O2 collision-induced absorption resonances at 477 and 577 nm, J. Q. Spectr. Radiat. T., 98, 405–424, https://doi.org/10.1016/j.jqsrt.2005.06.004, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2007JD008694</doi>
+              <unstructured_citation>Sneep, M., de Haan, J. F., Stammes, P., Wang, P., Vanbauce, C., Joiner, J., Vasilkov, A. P., and Levelt, P. F.: Three-way comparison between OMI and PARASOL cloud pressure products, J. Geophys. Res., 113, D15S23, https://doi.org/10.1029/2007JD008694, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/amt-3-1797-2010</doi>
+              <unstructured_citation>Thalman, R. and Volkamer, R.: Inherent calibration of a blue LED-CE-DOAS instrument to measure iodine oxide, glyoxal, methyl glyoxal, nitrogen dioxide, water vapour and aerosol extinction in open cavity mode, Atmos. Meas. Tech., 3, 1797–1814, https://doi.org/10.5194/amt-3-1797-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1039/c3cp50968k</doi>
+              <unstructured_citation>Thalman, R. and Volkamer, R.: Temperature dependent absorption cross-sections of O2–O2 collision pairs between 340 and 630 nm and at atmospherically relevant pressure, Phys. Chem. Chem. Phys., 15, 15371, https://doi.org/10.1039/c3cp50968k, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1016/j.jqsrt.2014.05.030</doi>
+              <unstructured_citation>Thalman, R., Zarzana, K. J., Tolbert, M. A., and Volkamer, R.: Rayleigh scattering cross-section measurements of nitrogen, argon, oxygen and air, J. Quant. Spectr. Radiat. T., 147, 171–177, https://doi.org/10.1016/j.jqsrt.2014.05.030, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1016/S0022-4073(97)00168-4</doi>
+              <unstructured_citation>Vandaele, A., Hermans, C., Simon, P., Carleer, M., Colin, R., Fally, S., Mérienne, M.-F., Jenouvrier, A., and Coquart, B.: Measurements of the NO2 absorption cross-section from 42 000 cm&amp;amp;minus;1&amp;gt; to 10 000 cm&amp;amp;minus;1 (238–1000 nm) at 220 K and 294 K, J. Q. Spectr. Radiat. T., 59, 171–184, https://doi.org/10.1016/S0022-4073(97)00168-4, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1016/S0022-4073(02)00064-X</doi>
+              <unstructured_citation>Vandaele, A. C., Hermans, C., Fally, S., Carleer, M., Mérienne, M.-F., Jenouvrier, A., Coquart, B., and Colin, R.: Absorption cross-sections of NO2: simulation of temperature and pressure effects, J. Q. Spectr. Radiat. T., 76, 373–391, https://doi.org/10.1016/S0022-4073(02)00064-X, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/amt-4-2659-2011</doi>
+              <unstructured_citation>Vlemmix, T., Piters, A. J. M., Berkhout, A. J. C., Gast, L. F. L., Wang, P., and Levelt, P. F.: Ability of the MAX-DOAS method to derive profile information for NO2: can the boundary layer and free troposphere be separated?, Atmos. Meas. Tech., 4, 2659–2684, https://doi.org/10.5194/amt-4-2659-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Volkamer, R.: Absorption von Sauerstoff im Herzberg I System und Anwendungen auf die Aromatenmessungen am EUropran PHOto REactor (EUPHORE), Diploma thesis, Univ. of Heidelberg, Germany., 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2001JD001026</doi>
+              <unstructured_citation>Wagner, T., Friedeburg, C. von, Wenig, M., Otten, C., and Platt, U.: UV-visible observations of atmospheric O4 absorptions using direct moonlight and zenith-scattered sunlight for clear-sky and cloudy sky conditions, J. Geophys. Res., 107, 4424, https://doi.org/10.1029/2001JD001026, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2004JD004904</doi>
+              <unstructured_citation>Wagner, T., Dix, B., Friedeburg, C. v., Frieß, U., Sanghavi, S., Sinreich, R., and Platt, U.: MAX-DOAS O4 measurements: A new technique to derive information on atmospheric aerosols-Principles and information content, J. Geophys. Res.-Atmos., 109, 22205, https://doi.org/10.1029/2004JD004904, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/amt-2-495-2009</doi>
+              <unstructured_citation>Wagner, T., Deutschmann, T., and Platt, U.: Determination of aerosol properties from MAX-DOAS observations of the Ring effect, Atmos. Meas. Tech., 2, 495–512, https://doi.org/10.5194/amt-2-495-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1021/jp991651o</doi>
+              <unstructured_citation>Wilmouth, D. M., Hanisco, T. F., Donahue, N. M., and Anderson, J. G.: Fourier Transform Ultraviolet Spectroscopy of the A 2&amp;amp;Pi; 3/2 &amp;amp;larr; X 2&amp;amp;Pi; 3/2 Transition of BrO&amp;amp;dagger;, J. Phys. Chem. A, 103, 8935–8945, https://doi.org/10.1021/jp991651o, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-11-2603-2011</doi>
+              <unstructured_citation>Zieger, P., Weingartner, E., Henzing, J., Moerman, M., de Leeuw, G., Mikkilä, J., Ehn, M., Petäjä, T., Clémer, K., van Roozendael, M., Yilmaz, S., Frieß, U., Irie, H., Wagner, T., Shaiganfar, R., Beirle, S., Apituley, A., Wilson, K., and Baltensperger, U.: Comparison of ambient aerosol extinction coefficients obtained from in-situ, MAX-DOAS and LIDAR measurements at Cabauw, Atmos. Chem. Phys., 11, 2603–2624, https://doi.org/10.5194/acp-11-2603-2011, 2011.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

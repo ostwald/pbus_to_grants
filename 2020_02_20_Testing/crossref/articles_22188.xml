@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-12-11 04:49:12">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>ESM-SnowMIP: assessing snow models and quantifying snow-related climate feedbacks</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Gerhard</given_name>
+              <surname>Krinner</surname>
+              <ORCID>https://orcid.org/0000-0002-2959-5920</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chris</given_name>
+              <surname>Derksen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Richard</given_name>
+              <surname>Essery</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mark</given_name>
+              <surname>Flanner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stefan</given_name>
+              <surname>Hagemann</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martyn</given_name>
+              <surname>Clark</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alex</given_name>
+              <surname>Hall</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Helmut</given_name>
+              <surname>Rott</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Claire</given_name>
+              <surname>Brutel-Vuilmet</surname>
+              <ORCID>https://orcid.org/0000-0003-2773-9377</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hyungjun</given_name>
+              <surname>Kim</surname>
+              <ORCID>https://orcid.org/0000-0003-1083-8416</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Cécile B.</given_name>
+              <surname>Ménard</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lawrence</given_name>
+              <surname>Mudryk</surname>
+              <ORCID>https://orcid.org/0000-0001-6381-4288</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chad</given_name>
+              <surname>Thackeray</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Libo</given_name>
+              <surname>Wang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gabriele</given_name>
+              <surname>Arduini</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gianpaolo</given_name>
+              <surname>Balsamo</surname>
+              <ORCID>https://orcid.org/0000-0002-1745-3634</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Paul</given_name>
+              <surname>Bartlett</surname>
+              <ORCID>https://orcid.org/0000-0001-9591-6617</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Julia</given_name>
+              <surname>Boike</surname>
+              <ORCID>https://orcid.org/0000-0002-5875-2112</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Aaron</given_name>
+              <surname>Boone</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frédérique</given_name>
+              <surname>Chéruy</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeanne</given_name>
+              <surname>Colin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthias</given_name>
+              <surname>Cuntz</surname>
+              <ORCID>https://orcid.org/0000-0002-5966-1829</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yongjiu</given_name>
+              <surname>Dai</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bertrand</given_name>
+              <surname>Decharme</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeff</given_name>
+              <surname>Derry</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Agnès</given_name>
+              <surname>Ducharne</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Emanuel</given_name>
+              <surname>Dutra</surname>
+              <ORCID>https://orcid.org/0000-0002-0643-2643</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xing</given_name>
+              <surname>Fang</surname>
+              <ORCID>https://orcid.org/0000-0002-4333-4815</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Charles</given_name>
+              <surname>Fierz</surname>
+              <ORCID>https://orcid.org/0000-0001-9490-6732</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Josephine</given_name>
+              <surname>Ghattas</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yeugeniy</given_name>
+              <surname>Gusev</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Vanessa</given_name>
+              <surname>Haverd</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Anna</given_name>
+              <surname>Kontu</surname>
+              <ORCID>https://orcid.org/0000-0001-6880-6260</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthieu</given_name>
+              <surname>Lafaysse</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rachel</given_name>
+              <surname>Law</surname>
+              <ORCID>https://orcid.org/0000-0002-7346-0927</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dave</given_name>
+              <surname>Lawrence</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Weiping</given_name>
+              <surname>Li</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas</given_name>
+              <surname>Marke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Danny</given_name>
+              <surname>Marks</surname>
+              <ORCID>https://orcid.org/0000-0003-3105-8427</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martin</given_name>
+              <surname>Ménégoz</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Olga</given_name>
+              <surname>Nasonova</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tomoko</given_name>
+              <surname>Nitta</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Masashi</given_name>
+              <surname>Niwano</surname>
+              <ORCID>https://orcid.org/0000-0003-3121-3802</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John</given_name>
+              <surname>Pomeroy</surname>
+              <ORCID>https://orcid.org/0000-0002-4782-7457</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mark S.</given_name>
+              <surname>Raleigh</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gerd</given_name>
+              <surname>Schaedler</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Vladimir</given_name>
+              <surname>Semenov</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tanya G.</given_name>
+              <surname>Smirnova</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tobias</given_name>
+              <surname>Stacke</surname>
+              <ORCID>https://orcid.org/0000-0003-4637-5337</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ulrich</given_name>
+              <surname>Strasser</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sean</given_name>
+              <surname>Svenson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dmitry</given_name>
+              <surname>Turkov</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tao</given_name>
+              <surname>Wang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nander</given_name>
+              <surname>Wever</surname>
+              <ORCID>https://orcid.org/0000-0002-4829-8585</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hua</given_name>
+              <surname>Yuan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Wenyan</given_name>
+              <surname>Zhou</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Zhu</surname>
+              <ORCID>https://orcid.org/0000-0002-5857-1899</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This paper describes ESM-SnowMIP, an international coordinated modelling
+effort to evaluate current snow schemes, including snow schemes that are
+included in Earth system models, in a wide variety of settings against local
+and global observations. The project aims to identify crucial processes and
+characteristics that need to be improved in snow models in the context of
+local- and global-scale modelling. A further objective of ESM-SnowMIP is to
+better quantify snow-related feedbacks in the Earth system. Although it is
+not part of the sixth phase of the Coupled Model Intercomparison Project
+(CMIP6), ESM-SnowMIP is tightly linked to the CMIP6-endorsed Land Surface,
+Snow and Soil Moisture Model Intercomparison (LS3MIP).</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>10</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>5027</first_page>
+            <last_page>5049</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.16904/16</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-11-5027-2018</doi>
+            <resource>https://www.geosci-model-dev.net/11/5027/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/11/5027/2018/gmd-11-5027-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/hess-19-389-2015</doi>
+              <unstructured_citation>Balsamo, G., Albergel, C., Beljaars, A., Boussetta, S., Brun, E., Cloke, H.,
+Dee, D., Dutra, E., Muñoz-Sabater, J., Pappenberger, F., de Rosnay, P.,
+Stockdale, T., and Vitart, F.: ERA-Interim/Land: a global land surface
+reanalysis data set, Hydrol. Earth Syst. Sci., 19, 389–407,
+https://doi.org/10.5194/hess-19-389-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1038/nature04141</doi>
+              <unstructured_citation>Barnett, T. P., Adam, J. C., and Lettenmaier, D. P.: Potential impacts of a
+warming climate on water availability in snow-dominated regions, Nature,
+438, 303–309, https://doi.org/10.1038/nature04141, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1002/2016GL069690</doi>
+              <unstructured_citation>Barnhart, T. B., Molotch, N. P., Livneh, B., Harpold, A. A., Knowles, J. F.,
+and Schneider, D.: Snowmelt rate dictates streamflow, Geophys. Res. Lett.,
+43, 8006–8016, https://doi.org/10.1002/2016GL069690, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.3137/ao.440301</doi>
+              <unstructured_citation>Bartlett, P. A., MacKay, M. D., and Verseghy, D. L.: Modified snow algorithms
+in the Canadian Land Surface Scheme: Model runs and sensitivity analysis at
+three boreal forest stands, Atmos.-Ocean, 44, 207–222,
+https://doi.org/10.3137/ao.440301, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1038/nclimate2246</doi>
+              <unstructured_citation>Berghuijs, W. R., Woods, R. A., and Hrachowitz, M.: A precipitation shift
+from snow towards rain leads to a decrease in streamflow, Nat. Clim. Change,
+4, 583–586, https://doi.org/10.1038/nclimate2246, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/gmd-4-677-2011</doi>
+              <unstructured_citation>Best, M. J., Pryor, M., Clark, D. B., Rooney, G. G., Essery, R. L. H.,
+Ménard, C. B., Edwards, J. M., Hendry, M. A., Porson, A., Gedney, N.,
+Mercado, L. M., Sitch, S., Blyth, E., Boucher, O., Cox, P. M., Grimmond, C.
+S. B., and Harding, R. J.: The Joint UK Land Environment Simulator (JULES),
+model description – Part 1: Energy and water fluxes, Geosci. Model Dev., 4,
+677–699, https://doi.org/10.5194/gmd-4-677-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/2013JD021168</doi>
+              <unstructured_citation>Betts, A. K., Desjardins, R., Worth, D., Wang, S., and Li, J.: Coupling of
+winter climate transitions to snow and clouds over the Prairies, J. Geophys.
+Res., 119, 1118–1139, https://doi.org/10.1002/2013JD021168, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/essd-7-245-2015</doi>
+              <unstructured_citation>Biskaborn, B. K., Lanckman, J.-P., Lantuit, H., Elger, K., Streletskiy, D.
+A., Cable, W. L., and Romanovsky, V. E.: The new database of the Global
+Terrestrial Network for Permafrost (GTN-P), Earth Syst. Sci. Data, 7,
+245–259, https://doi.org/10.5194/essd-7-245-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1002/2015GL066049</doi>
+              <unstructured_citation>Blanchard-Wrigglesworth, E., Farrell, S. L., Newman, T., and Bitz, C. M.:
+Snow cover on Arctic sea ice in observations and an Earth System Model,
+Geophys. Res. Lett., 42, 10342–10348, https://doi.org/10.1002/2015GL066049, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/essd-10-355-2018</doi>
+              <unstructured_citation>Boike, J., Juszak, I., Lange, S., Chadburn, S., Burke, E., Overduin, P. P.,
+Roth, K., Ippisch, O., Bornemann, N., Stern, L., Gouttevin, I., Hauber, E.,
+and Westermann, S.: A 20-year record (1998–2017) of permafrost, active layer
+and meteorological conditions at a high Arctic permafrost research site
+(Bayelva, Spitsbergen), Earth Syst. Sci. Data, 10, 355–390,
+https://doi.org/10.5194/essd-10-355-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2000GB001360</doi>
+              <unstructured_citation>Bonan, G. B., Levis, S., Kergoat, L., and Oleson, K. W.: Landscapes as
+patches of plant functional types: An integrating concept for climate and
+ecosystem models, Global Biogeochem. Cy., 16, 5-1–5-23,
+https://doi.org/10.1029/2000GB001360, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/bg-9-2145-2012</doi>
+              <unstructured_citation>Bontemps, S., Herold, M., Kooistra, L., van Groenestijn, A., Hartley, A.,
+Arino, O., Moreau, I., and Defourny, P.: Revisiting land cover observation to
+address the needs of the climate modeling community, Biogeosciences, 9,
+2145–2157, https://doi.org/10.5194/bg-9-2145-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/JCLI3819.1</doi>
+              <unstructured_citation>Bony, S., Colman, R., Kattsov, V. M., Allan, R. P., Bretherton, C. S.,
+Dufresne, J. L., Hall, A., Hallegatte, S., Holland, M. M., Ingram, W.,
+Randall, D. A., Soden, B. J., Tselioudis, G., and Webb, M. J.: How well do we
+understand and evaluate climate change feedback processes?, J. Climate, 19,
+3445–3482, https://doi.org/10.1175/JCLI3819.1, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Boone, A. and Etchevers, P.: An Intercomparison of Three Snow Schemes of
+Varying Complexity Coupled to the Same Land Surface Model: Local-Scale
+Evaluation at an Alpine Site, J. Hydrometeorol., 2, 374–394,
+https://doi.org/10.1175/1525-7541(2001)002&amp;amp;lt;0374:AIOTSS&amp;amp;gt;2.0.CO;2, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Boone, A., Habets, F., Noilhan, J., Clark, D., Dirmeyer, P., Fox, S., Gusev,
+Y., Haddeland, I., Koster, R., Lohmann, D., Mahanama, S., Mitchell, K.,
+Nasonova, O., Niu, G.-Y., Pitman, A., Polcher, J., Shmakin, A. B., Tanaka,
+K., van den Hurk, B., Vérant, S., Verseghy, D., Viterbo, P., and Yang,
+Z.-L.: The Rhône-Aggregation Land Surface Scheme intercomparison project:
+An overview, J. Climate, 17, 187–208,
+https://doi.org/10.1175/1520-0442(2004)017&amp;amp;lt;0187:TRLSSI&amp;amp;gt;2.0.CO;2, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/S0921-8181(03)00003-1</doi>
+              <unstructured_citation>Bowling, L. C., Lettenmaier, D. P., Nijssen, B., Graham, L. P., Clark, D. B.,
+El Maayar, M., Essery, R., Goers, S., Gusev, Y. M., Habets, F., Van Den Hurk,
+B., Jin, J., Kahan, D., Lohmann, D., Ma, X., Mahanama, S., Mocko, D.,
+Nasonova, O., Niu, G. Y., Samuelsson, P., Shmakin, A. B., Takata, K.,
+Verseghy, D., Viterbo, P., Xia, Y., Xue, Y., and Yang, Z. L.: Simulation of
+high-latitude hydrological processes in the Torne-Kalix basin: PILPS Phase
+2(e) 1: Experiment description and summary intercomparisons, Global Planet.
+Change, 38, 1–30, https://doi.org/10.1016/S0921-8181(03)00003-1, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/JAM2259.1</doi>
+              <unstructured_citation>Braun, F. J. and Schädler, G.: Comparison of Soil Hydraulic
+Parameterizations for Mesoscale Meteorological Models, J. Appl. Meteorol.,
+44, 1116–1132, https://doi.org/10.1175/JAM2259.1, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/2008JCLI2665.1</doi>
+              <unstructured_citation>Brown, R. D. and Mote, P. W.: The response of Northern Hemisphere snow cover
+to a changing climate, J. Climate, 22, 2124–2145,
+https://doi.org/10.1175/2008JCLI2665.1, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/JHM-D-12-012.1</doi>
+              <unstructured_citation>Brun, E., Vionnet, V., Boone, A., Decharme, B., Peings, Y., Valette, R.,
+Karbou, F., and Morin, S.: Simulation of Northern Eurasian Local Snow Depth,
+Mass, and Density Using a Detailed Snowpack Model and Meteorological
+Reanalyses, J. Hydrometeorol., 14, 203–219, https://doi.org/10.1175/JHM-D-12-012.1,
+2013. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/tc-7-67-2013</doi>
+              <unstructured_citation>Brutel-Vuilmet, C., Ménégoz, M., and Krinner, G.: An analysis of
+present and future seasonal Northern Hemisphere land snow cover simulated by
+CMIP5 coupled climate models, The Cryosphere, 7, 67–80,
+https://doi.org/10.5194/tc-7-67-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/tc-7-1139-2013</doi>
+              <unstructured_citation>Carmagnola, C. M., Domine, F., Dumont, M., Wright, P., Strellis, B., Bergin,
+M., Dibb, J., Picard, G., Libois, Q., Arnaud, L., and Morin, S.: Snow
+spectral albedo at Summit, Greenland: measurements and numerical simulations
+based on physical and chemical properties of the snowpack, The Cryosphere, 7,
+1139–1160, https://doi.org/10.5194/tc-7-1139-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Chapin III, F. S., Sturm, M., Serreze, M. C., Mcfadden, J. P., Key, J. R.,
+Lloyd, A. H., Mcguire, A. D., Rupp, T. S., and Lynch, A. H.: Role of
+Land-Surface Changes in Arctic Summer Warming, Science, 310, 657–660, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/2015WR017200</doi>
+              <unstructured_citation>Clark, M. P., Nijssen, B., Lundquist, J. D., Kavetski, D., Rupp, D. E.,
+Woods, R. A., Freer, J. E., Gutmann, E. D., Wood, A. W., Gochis, D. J.,
+Rasmussen, R. M., Tarboton, D. G., Mahat, V., Flerchinger, G. N., and Marks,
+D. G.: A unified approach for process-based hydrologic modeling: 2. Model
+implementation and case studies, Water Resour. Res., 51, 2515–2542,
+https://doi.org/10.1002/2015WR017200, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1088/1748-9326/7/1/014007</doi>
+              <unstructured_citation>Cohen, J. L., Furtado, J. C., Barlow, M. A., Alexeev, V. A., and Cherry, J.
+E.: Arctic warming, increasing snow cover and widespread boreal winter
+cooling, Environ. Res. Lett., 7, 011004, https://doi.org/10.1088/1748-9326/7/1/014007,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Collins, M., Knutti, R., Arblaster, J., Dufresne, J.-L., Fichefet, T.,
+Friedlingstein, P., Gao, X., Gutowski, W. J., Johns, T., Krinner, G.,
+Shongwe, M., Tebaldi, C., Weaver, A. J., and Wehner, M.: Long-term Climate
+Change: Projections, Commitments and Irreversibility, in: Climate Change
+2013: The Physical Science Basis, Contribution of Working Group I to the
+Fifth Assessment Report of the Intergovernmental Panel on Climate Change,
+1029–1136., 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1007/s00382-007-0341-y</doi>
+              <unstructured_citation>Cook, B. I., Bonan, G. B., Levis, S., and Epstein, H. E.: The
+thermoinsulation effect of snow cover within a climate model, Clim. Dynam.,
+31, 107–124, https://doi.org/10.1007/s00382-007-0341-y, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1007/s003820050276</doi>
+              <unstructured_citation>Cox, P. M., Betts, R. A., Bunton, C. B., Essery, R. L. H., Rowntree, P. R.,
+and Smith, J.: The impact of new land surface physics on the GCM simulation
+of climate and climate sensitivity, Clim. Dynam., 15, 183–203,
+https://doi.org/10.1007/s003820050276, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1002/2017MS001100</doi>
+              <unstructured_citation>Cuntz, M. and Haverd, V.: Physically Accurate Soil Freeze-Thaw Processes in a
+Global Land Surface Scheme, J. Adv. Model. Earth Sy., 10, 54–77,
+https://doi.org/10.1002/2017MS001100, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1175/BAMS-84-8-1013</doi>
+              <unstructured_citation>Dai, Y., Zeng, X., Dickinson, R. E., Baker, I., Bonan, G. B., Bosilovich, M.
+G., Denning, A. S., Dirmeyer, P. A., Houser, P. R., Niu, G., Oleson, K. W.,
+Schlosser, C. A., and Yang, Z. L.: The common land model, B. Am. Meteorol.
+Soc., 84, 1013–1023, https://doi.org/10.1175/BAMS-84-8-1013, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/tc-10-853-2016</doi>
+              <unstructured_citation>Decharme, B., Brun, E., Boone, A., Delire, C., Le Moigne, P., and Morin, S.:
+Impacts of snow and organic soils parameterization on northern Eurasian soil
+temperature profiles simulated by the ISBA land surface model, The
+Cryosphere, 10, 853–877, https://doi.org/10.5194/tc-10-853-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/2012GL053387</doi>
+              <unstructured_citation>Derksen, C. and Brown, R.: Spring snow cover extent reductions in the
+2008–2012 period exceeding climate model projections, Geophys. Res. Lett.,
+39, 1–6, https://doi.org/10.1029/2012GL053387, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/2008JHM1074.1</doi>
+              <unstructured_citation>Derksen, C., Silis, A., Sturm, M., Holmgren, J., Liston, G. E., Huntington,
+H., and Solie, D.: Northwest Territories and Nunavut Snow Characteristics
+from a Subarctic Traverse: Implications for Passive Microwave Remote Sensing,
+J. Hydrometeorol., 10, 448–463, https://doi.org/10.1175/2008JHM1074.1, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/2013JD021264</doi>
+              <unstructured_citation>Derksen, C., Lemmetyinen, J., Toose, P., Silis, A., Pulliainen, J., and
+Sturm, M.: Physical properties of arctic versus subarctic snow: Implications
+for high latitude passive microwave snow water equivalent retrievals, J.
+Geophys. Res., 119, 7254–7270, https://doi.org/10.1002/2013JD021264, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2007GL031474</doi>
+              <unstructured_citation>Déry, S. J. and Brown, R. D.: Recent Northern Hemisphere snow cover
+extent trends and implications for the snow-albedo feedback, Geophys. Res.
+Lett., 34, 2–7, https://doi.org/10.1029/2007GL031474, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/JCLI-D-13-00029.1</doi>
+              <unstructured_citation>Dirmeyer, P. A., Kumar, S., Fennessy, M. J., Altshuler, E. L., Delsole, T.,
+Guo, Z., Cash, B. A., and Straus, D.: Model estimates of land-driven
+predictability in a changing climate from CCSM4, J. Climate, 26, 8495–8512,
+https://doi.org/10.1175/JCLI-D-13-00029.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/tc-10-2573-2016</doi>
+              <unstructured_citation>Domine, F., Barrere, M., and Sarrazin, D.: Seasonal evolution of the
+effective thermal conductivity of the snow and the soil in high Arctic herb
+tundra at Bylot Island, Canada, The Cryosphere, 10, 2573–2588,
+https://doi.org/10.5194/tc-10-2573-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/2010JHM1249.1</doi>
+              <unstructured_citation>Dutra, E., Balsamo, G., Viterbo, P., Miranda, P. M. A., Beljaars, A.,
+Schär, C., and Elder, K.: An Improved Snow Scheme for the ECMWF Land
+Surface Model: Description and Offline Validation, J. Hydrometeorol., 11,
+899–916, https://doi.org/10.1175/2010JHM1249.1, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/JHM-D-11-072.1</doi>
+              <unstructured_citation>Dutra, E., Viterbo, P., Miranda, P. M. A., and Balsamo, G.: Complexity of
+Snow Schemes in a Climate Model and Its Impact on Surface Energy and
+Hydrology, J. Hydrometeorol., 13, 521–538, https://doi.org/10.1175/JHM-D-11-072.1,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/gmd-7-631-2014</doi>
+              <unstructured_citation>Ekici, A., Beer, C., Hagemann, S., Boike, J., Langer, M., and Hauck, C.:
+Simulating high-latitude permafrost regions by the JSBACH terrestrial
+ecosystem model, Geosci. Model Dev., 7, 631–647,
+https://doi.org/10.5194/gmd-7-631-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>ESA: Land Cover CCI Product User Guide Version 2, CCI-LC-PUGv2, available at:
+http://maps.elie.ucl.ac.be/CCI/viewer/download/ESACCI-LC-Ph2-PUGv2_2.0.pdf
+(last access: 4 December 2018), 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1002/grl.51008</doi>
+              <unstructured_citation>Essery, R.: Large-scale simulations of snow albedo masking by forests,
+Geophys. Res. Lett., 40, 5521–5525, https://doi.org/10.1002/grl.51008, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/gmd-8-3867-2015</doi>
+              <unstructured_citation>Essery, R.: A factorial snowpack model (FSM 1.0), Geosci. Model Dev., 8,
+3867–3876, https://doi.org/10.5194/gmd-8-3867-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/2009BAMS2629.1</doi>
+              <unstructured_citation>Essery, R., Rutter, N., Pomeroy, J., Baxter, R., Stähli, M., Gustafsson,
+D., Barr, A., Bartlett, P., and Elder, K.: SNOWMIP2: An Evaluation of Forest
+Snow Process Simulations, B. Am. Meteorol. Soc., 90, 1120–1135,
+https://doi.org/10.1175/2009BAMS2629.1, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/j.advwatres.2012.07.013</doi>
+              <unstructured_citation>Essery, R., Morin, S., Lejeune, Y., and B Ménard, C.: A comparison of
+1701 snow models using observations from an alpine site, Adv. Water Resour.,
+55, 131–148, https://doi.org/10.1016/j.advwatres.2012.07.013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/gi-5-219-2016</doi>
+              <unstructured_citation>Essery, R., Kontu, A., Lemmetyinen, J., Dumont, M., and Ménard, C. B.: A
+7-year dataset for driving and evaluating snow models at an Arctic site
+(Sodankylä, Finland), Geosci. Instrum. Method. Data Syst., 5, 219–227,
+https://doi.org/10.5194/gi-5-219-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.3189/172756404781814825</doi>
+              <unstructured_citation>Etchevers, P., Martin, E., Brown, R., Fierz, C., Lejeune, Y., Bazile, E.,
+Boone, A., Dai, Y.-J., Essery, R. L. H., Fernandez, A., Gusev, Y., Jordan,
+R., Koren, V., Kowalczyk, E., Nasonova, O., Pyles, R. D., Schlosser, A.,
+Shmakin, a B., Smirnova, T. G., Strosser, U., Verseghy, D., Yamazaki, T.,
+Yang, Z.-L., Nasonova, N. O., and Strasser, U.: Validation of the surface
+energy budget simulated by several snow models, Ann. Glaciol., 38, 150–158,
+https://doi.org/10.3189/172756404781814825, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/gmd-9-1937-2016</doi>
+              <unstructured_citation>Eyring, V., Bony, S., Meehl, G. A., Senior, C. A., Stevens, B., Stouffer, R.
+J., and Taylor, K. E.: Overview of the Coupled Model Intercomparison Project
+Phase 6 (CMIP6) experimental design and organization, Geosci. Model Dev., 9,
+1937–1958, https://doi.org/10.5194/gmd-9-1937-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/2006JD008003</doi>
+              <unstructured_citation>Flanner, M. G., Zender, C. S., Randerson, J. T., and Rasch, P. J.:
+Present-day climate forcing and response from black carbon in snow, J.
+Geophys. Res.-Atmos., 112, 1–17, https://doi.org/10.1029/2006JD008003, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1038/ngeo1062</doi>
+              <unstructured_citation>Flanner, M. G., Shell, K. M., Barlage, M., Perovich, D. K., and Tschudi, M.
+A.: Radiative forcing and albedo feedback from the Northern Hemisphere
+cryosphere between 1979 and 2008, Nat. Geosci., 4, 151–155,
+https://doi.org/10.1038/ngeo1062, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1088/1748-9326/6/4/044005</doi>
+              <unstructured_citation>Fritz, S., See, L., McCallum, I., Schill, C., Obersteiner, M., Van Der Velde,
+M., Boettcher, H., Havlík, P., and Achard, F.: Highlighting continued
+uncertainty in global land cover maps for the user community, Environ. Res.
+Lett., 6, 044005, https://doi.org/10.1088/1748-9326/6/4/044005, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1038/ncomms14996</doi>
+              <unstructured_citation>Fyfe, J. C., Derksen, C., Mudryk, L., Flato, G. M., Santer, B. D., Swart, N.
+C., Molotch, N. P., Zhang, X., Wan, H., Arora, V. K., Scinocca, J., and Jiao,
+Y.: Large near-Term projected snowpack loss over the western United States,
+Nat. Commun., 8, 1–7, https://doi.org/10.1038/ncomms14996, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Gates, W. L.: AMIP: The Atmospheric Model Intercomparison Project, B. Am.
+Meteorol. Soc., 73, 1962–1970,
+https://doi.org/10.1175/1520-0477(1992)073&amp;amp;lt;1962:ATAMIP&amp;amp;gt;2.0.CO;2, 1992. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1029/2011JG001916</doi>
+              <unstructured_citation>Gouttevin, I., Menegoz, M., Dominé, F., Krinner, G., Koven, C., Ciais,
+P., Tarnocai, C., and Boike, J.: How the insulating properties of snow affect
+soil carbon distribution in the continental pan-Arctic area, J. Geophys.
+Res.-Biogeo., 117, 1–11, https://doi.org/10.1029/2011JG001916, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/tc-12-3693-2018</doi>
+              <unstructured_citation>Gouttevin, I., Langer, M., Löwe, H., Boike, J., Proksch, M., and
+Schneebeli, M.: Observation and modelling of snow at a polygonal tundra
+permafrost site: spatial variability and thermal implications, The
+Cryosphere, 12, 3693–3717, https://doi.org/10.5194/tc-12-3693-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Groffman, P. M., Driscoll, C. T., Fahey, T. J., and Al, E.: Colder soils in a
+warmer world: A snowmanipulation study in a northern hardwood forest
+ecosystem, Biogeochemistry, 56, 135–150, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1016/S0022-1694(03)00221-X</doi>
+              <unstructured_citation>Gusev, Y. M. and Nasonova, O. N.: The simulation of heat and water exchange
+in the boreal spruce forest by the land-surf ace model SWAP, J. Hydrol.,
+280, 162–191, https://doi.org/10.1016/S0022-1694(03)00221-X, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Harding, R. J. and Pomeroy, J. W.: The energy balance of the winter boreal
+landscape, J. Climate, 9, 2778–2787,
+https://doi.org/10.1175/1520-0442(1996)009&amp;amp;lt;2778:TEBOTW&amp;amp;gt;2.0.CO;2, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1016/j.rse.2017.07.037</doi>
+              <unstructured_citation>Hartley, A. J., MacBean, N., Georgievski, G., and Bontemps, S.: Uncertainty
+in plant functional type distributions and its impact on land surface models,
+Remote Sens. Environ., 20, 71–89, https://doi.org/10.1016/j.rse.2017.07.037, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1016/j.rse.2007.11.013</doi>
+              <unstructured_citation>Herold, M., Mayaux, P., Woodcock, C. E., Baccini, A., and Schmullius, C.:
+Some challenges in global land cover mapping: An assessment of agreement and
+accuracy in existing 1 km datasets, Remote Sens. Environ., 112, 2538–2556,
+https://doi.org/10.1016/j.rse.2007.11.013, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2012GL052794</doi>
+              <unstructured_citation>Hezel, P. J., Zhang, X., Bitz, C. M., Kelly, B. P., and Massonnet, F.:
+Projected decline in spring snow depth on Arctic sea ice caused by
+progressively later autumn open ocean freeze-up this century, Geophys. Res.
+Lett., 39, 6–11, https://doi.org/10.1029/2012GL052794, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Kim, H.: Global Soil Wetness Project Phase 3 Atmospheric Boundary Conditions
+(Experiment 1) [Data set], Data Integration and Analysis System (DIAS),
+https://doi.org/10.20783/DIAS.501, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1175/JCLI-D-12-00228.1</doi>
+              <unstructured_citation>Koven, C. D., Riley, W. J., and Stern, A.: Analysis of permafrost thermal
+dynamics and response to climate change in the CMIP5 earth system models, J.
+Climate, 26, 1877–1900, https://doi.org/10.1175/JCLI-D-12-00228.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/tc-11-1173-2017</doi>
+              <unstructured_citation>Lafaysse, M., Cluzet, B., Dumont, M., Lejeune, Y., Vionnet, V., and Morin,
+S.: A multiphysical ensemble system of numerical snow modelling, The
+Cryosphere, 11, 1173–1198, https://doi.org/10.5194/tc-11-1173-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1002/2013WR013711</doi>
+              <unstructured_citation>Landry, C. C., Buck, K. A., Raleigh, M. S., and Clark, M. P.: Mountain system
+monitoring at Senator Beck Basin, San Juan Mountains, Colorado: A new
+integrative data source to develop and evaluate models of snow and hydrologic
+processes, Water Resour. Res., 50, 1773–1788, https://doi.org/10.1002/2013WR013711,
+2014. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Lawrence, D. M., Slater, A. G., Romanovsky, V. E., and Nicolsky, D. J.:
+Sensitivity of a model projection of near-surface permafrost degradation to
+soil column depth and representation of soil organic matter, J. Geophys.
+Res.-Earth, 113, F02011, https://doi.org/10.1029/2007JF000883, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Lawrence, D. M., Fisher, R. A., Koven, C. D., Oleson, K. W., Swenson, S. C.,
+Bonan, G., Collier, N., Ghimire, B., van Kampenhout, L., Kennedy, D.,
+Kluzek, E.,
+Lawrence, P. J., Li, F., Li, H., Lombardozzi, D., Riley, W. J., Sacks, W. J.,
+Shi, M.,
+Vertenstein, M., Wieder, W. R., Xu, C., Ali, A. A., Badger, A. M., Bisht, G.,
+Brunke, M. A., Burns, S. P., Buzan, J., Clark, M., Craig, A., Dahlin, K.,
+Drewniak, B., Fisher, J. B., Flanner, M., Fox, A. M., Gentine, P., Hoffman,
+F., Keppel-Aleks, G., Knox, R., Kumar, S., Lenaerts, J., Leung, L. R.,
+Lipscomb, W. H., Lu, Y., Pandey, A., Pelletier, J. D., Perket, J., Randerson,
+J. T., Ricciuto, D. M., Sanderson, B. M., Slater, A., Subin, Z. M., Tang, J.,
+Thomas, R. Q., Val Martin, M., and Zeng, X.: The Community Land Model
+version 5: Description of new features, benchmarking, and impact of forcing
+uncertainty. J. Adv. Model. Earth Sy., submitted, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1016/S0165-232X(99)00022-1</doi>
+              <unstructured_citation>Lehning, M., Bartelt, P., Brown, B., Russi, T., Stöckli, U., and
+Zimmerli, M.: SNOWPACK model calculations for avalanche warning based upon a
+new network of weather and snow stations, Cold Reg. Sci. Technol., 30,
+145–157, https://doi.org/10.1016/S0165-232X(99)00022-1, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.5194/essd-2018-84</doi>
+              <unstructured_citation>Lejeune, Y., Dumont, M., Panel, J.-M., Lafaysse, M., Lapalus, P., Le Gac, E.,
+Lesaffre, B., and Morin, S.: 57 years (1960–2017) of snow and meteorological
+observations from a mid-altitude mountain site (Col de Porte, France, 1325&amp;amp;thinsp;m
+alt.), Earth Syst. Sci. Data Discuss., https://doi.org/10.5194/essd-2018-84,
+in review, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Lewis, P., Guanter, L., Lopez Saldana, G., Muller, J. P., Watson, G., Shane,
+N., Kennedy, T., Fisher, J., Domenech, C., Preusker, R., North, P., Heckel,
+A., Danne, O., Kramer, U., Zuhlke, M., Fomferra, N., Brockmann, C., and
+Schaaf, C.: The ESA globAlbedo project: Algorithm, in International
+Geoscience and Remote Sensing Symposium (IGARSS), 5745–5748, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.5194/tc-9-2383-2015</doi>
+              <unstructured_citation>Libois, Q., Picard, G., Arnaud, L., Dumont, M., Lafaysse, M., Morin, S., and
+Lefebvre, E.: Summertime evolution of snow specific surface area close to the
+surface on the Antarctic Plateau, The Cryosphere, 9, 2383–2398,
+https://doi.org/10.5194/tc-9-2383-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1111/gcb.12391</doi>
+              <unstructured_citation>Loranty, M. M., Berner, L. T., Goetz, S. J., Jin, Y., and Randerson, J. T.:
+Vegetation controls on northern high latitude snow-albedo feedback:
+Observations and CMIP5 model simulations, Glob. Change Biol., 20, 594–606,
+https://doi.org/10.1111/gcb.12391, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1002/2014WR016498</doi>
+              <unstructured_citation>Magnusson, J., Wever, N., Essery, R., Helbig, N., Winstral, A., and Jonas,
+T.: Evaluating snow models with varying process representations for
+hydrological applications, Water Resour. Res., 51, 2707–2723,
+https://doi.org/10.1002/2014WR016498, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.5194/gmd-9-633-2016</doi>
+              <unstructured_citation>Marke, T., Mair, E., Förster, K., Hanzer, F., Garvelmann, J., Pohl, S.,
+Warscher, M., and Strasser, U.: ESCIMO.spread (v2): parameterization of a
+spreadsheet-based energy balance snow model for inside-canopy conditions,
+Geosci. Model Dev., 9, 633–646, https://doi.org/10.5194/gmd-9-633-2016,
+2016. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1002/hyp.1229</doi>
+              <unstructured_citation>Melloh, R. A., Hardy, J. P., Bailey, R. N., and Hall, T. J.: An efficient
+snow albedo model for the open and sub-canopy, Hydrol. Process., 16,
+3571–3584, https://doi.org/10.1002/hyp.1229, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1038/s41612-018-0012-1</doi>
+              <unstructured_citation>Mote, P. W., Li, S., Lettenmaier, D. P., Xiao, M., and Engel, R.: Dramatic
+declines in snowpack in the western US, npj Clim. Atmos. Sci., 1, 2,
+https://doi.org/10.1038/s41612-018-0012-1, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1175/JCLI-D-15-0229.1</doi>
+              <unstructured_citation>Mudryk, L. R., Derksen, C., Kushner, P. J., and Brown, R.: Characterization
+of Northern Hemisphere snow water equivalent datasets, 1981–2010, J.
+Climate, 28, 8037–8051, https://doi.org/10.1175/JCLI-D-15-0229.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1002/2016GL071789</doi>
+              <unstructured_citation>Mudryk, L. R., Kushner, P. J., Derksen, C., and Thackeray, C.: Snow cover
+response to temperature in observational and climate model ensembles,
+Geophys. Res. Lett., 44, 919–926, https://doi.org/10.1002/2016GL071789, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1016/S0921-8181(03)00004-3</doi>
+              <unstructured_citation>Nijssen, B., Bowling, L. C., Lettenmaier, D. P., Clark, D. B., Maayar, M. El,
+Essery, R., Goers, S., Gusev, Y. M., Habets, F., van den Hurk, B., Jin, J.
+M., Kahan, D., Lohmann, D., Ma, X. Y., Mahanama, S., Mocko, D., Nasonova, O.,
+Niu, G. Y., Samuelsson, P., Schmakin, A. B., Takata, K., Verseghy, D.,
+Viterbo, P., Xia, Y. L., Xue, Y. K., and Yang, Z. L.: Simulation of high
+latitude hydrological processes in the Torne-Kalix basin: PILPS phase 2(e) –
+2: Comparison of model results with observations, Global Planet. Change, 38,
+31–53, https://doi.org/10.1016/S0921-8181(03)00004-3, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1029/2011JF002239</doi>
+              <unstructured_citation>Niwano, M., Aoki, T., Kuchiki, K., Hosaka, M., and Kodama, Y.: Snow
+Metamorphism and Albedo Process (SMAP) model for climate studies: Model
+validation using meteorological and snow impurity data measured at Sapporo,
+Japan, J. Geophys. Res.-Earth, 117, 1–18, https://doi.org/10.1029/2011JF002239, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.5331/bgr.32.65</doi>
+              <unstructured_citation>Niwano, M., Aoki, T., Kuchiki, K., Hosaka, M., Kodama, Y., Yamaguchi, S.,
+Motoyoshi, H., and Iwata, Y.: Evaluation of updated physical snowpack model
+SMAP, Bull. Glaciol. Res., 32, 65–78, https://doi.org/10.5331/bgr.32.65, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1175/JHM543.1</doi>
+              <unstructured_citation>Nolin, A. W. and Daly, C.: Mapping “At Risk” Snow in the Pacific
+Northwest, J. Hydrometeorol., 7, 1164–1171, https://doi.org/10.1175/JHM543.1, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Oleson, K. W., Dai, Y., Bonan, G., Dickinson, R., Dirmeyer, P., Hoffmann, F.,
+Houser, P., Levis, S., Niu, G.-Y., Thornton, P., Vertenstein, M., Yang,
+Z.-L., and Zeng, X.: Technical Description of the Community Land Model (CLM),
+Boulder, CO, available at:
+http://opensky.ucar.edu/islandora/object/technotes:393 (last access:
+3 December 2018), 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1007/s00382-016-3316-z</doi>
+              <unstructured_citation>Palazzi, E., Filippi, L., and von Hardenberg, J.: Insights into
+elevation-dependent warming in the Tibetan Plateau-Himalayas from CMIP5 model
+simulations, Clim. Dynam., 48, 3991–4008, https://doi.org/10.1007/s00382-016-3316-z,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1007/s00382-014-2356-5</doi>
+              <unstructured_citation>Park, H., Fedorov, A. N., Zheleznyak, M. N., Konstantinov, P. Y., and Walsh,
+J. E.: Effect of snow cover on pan-Arctic permafrost thermal regimes, Clim.
+Dynam., 44, 2873–2895, https://doi.org/10.1007/s00382-014-2356-5, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1038/nclimate2563</doi>
+              <unstructured_citation>Pepin, N., Bradley, R. S., Diaz, H. F., Baraer, M., Caceres, E. B., Forsythe,
+N., Fowler, H., Greenwood, G., Hashmi, M. Z., Liu, X. D., Miller, J. R.,
+Ning, L., Ohmura, A., Palazzi, E., Rangwala, I., Schöner, W., Severskiy,
+I., Shahgedanova, M., Wang, M. B., Williamson, S. N., and Yang, D. Q.:
+Elevation-dependent warming in mountain regions of the world, Nat. Clim.
+Change, 5, 424–430, https://doi.org/10.1038/nclimate2563, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1002/2013JD021139</doi>
+              <unstructured_citation>Perket, J., Flanner, M. G., and Kay, J. E.: Diagnosing shortwave cryosphere
+radiative effect and its 21st century evolution in CESM, J. Geophys. Res.,
+119, 1356–1362, https://doi.org/10.1002/2013JD021139, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1038/ngeo2071</doi>
+              <unstructured_citation>Pithan, F. and Mauritsen, T.: Arctic amplification dominated by temperature
+feedbacks in contemporary climate models, Nat. Geosci., 7, 181–184,
+https://doi.org/10.1038/ngeo2071, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1002/hyp.9248</doi>
+              <unstructured_citation>Pomeroy, J., Fang, X., and Ellis, C.: Sensitivity of snowmelt hydrology in
+Marmot Creek, Alberta, to forest cover disturbance, Hydrol. Process., 26,
+1891–1904, https://doi.org/10.1002/hyp.9248, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Pomeroy, J. W. and Jones, H. G.: Wind-Blown Snow: Sublimation, transport and
+changes to polar snow, in: Chemical exchange between atmosphere and polar
+snow, in: NATO ASI Series, edited by: Wolff, E. and Bales, R. C.,
+Springer-Verlag, Berlin, Heidelberg, 43, 453–489, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.5194/gmd-4-993-2011</doi>
+              <unstructured_citation>Poulter, B., Ciais, P., Hodson, E., Lischke, H., Maignan, F., Plummer, S.,
+and Zimmermann, N. E.: Plant functional type mapping for earth system models,
+Geosci. Model Dev., 4, 993–1010, https://doi.org/10.5194/gmd-4-993-2011,
+2011. </unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.5194/gmd-8-2315-2015</doi>
+              <unstructured_citation>Poulter, B., MacBean, N., Hartley, A., Khlystova, I., Arino, O., Betts, R.,
+Bontemps, S., Boettcher, M., Brockmann, C., Defourny, P., Hagemann, S.,
+Herold, M., Kirches, G., Lamarche, C., Lederer, D., Ottlé, C., Peters, M.,
+and Peylin, P.: Plant functional type classification for earth system models:
+results from the European Space Agency's Land Cover Climate Change
+Initiative, Geosci. Model Dev., 8, 2315–2328,
+https://doi.org/10.5194/gmd-8-2315-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1073/pnas.1707889114</doi>
+              <unstructured_citation>Pulliainen, J., Aurela, M., Laurila, T., Aalto, T., Takala, M., Salminen, M.,
+Kulmala, M., Barr, A., Heimann, M., Lindroth, A., Laaksonen, A., Derksen, C.,
+Mäkelä, A., Markkanen, T., Lemmetyinen, J., Susiluoto, J., Dengel,
+S., Mammarella, I., Tuovinen, J.-P., and Vesala, T.: Early snowmelt
+significantly enhances boreal springtime carbon uptake, P. Natl. Acad. Sci.
+USA, 114, 11081–11086, https://doi.org/10.1073/pnas.1707889114, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.1007/s00382-013-1774-0</doi>
+              <unstructured_citation>Qu, X. and Hall, A.: On the persistent spread in snow-albedo feedback, Clim.
+Dynam., 42, 69–81, https://doi.org/10.1007/s00382-013-1774-0, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.1007/s00382-007-0289-y</doi>
+              <unstructured_citation>Räisänen, J.: Warmer climate: Less or more snow?, Clim. Dynam., 30,
+307–319, https://doi.org/10.1007/s00382-007-0289-y, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.5194/hess-19-3153-2015</doi>
+              <unstructured_citation>Raleigh, M. S., Lundquist, J. D., and Clark, M. P.: Exploring the impact of
+forcing error characteristics on physically based snow simulations within a
+global sensitivity analysis framework, Hydrol. Earth Syst. Sci., 19,
+3153–3179, https://doi.org/10.5194/hess-19-3153-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.1029/2010WR010030</doi>
+              <unstructured_citation>Reba, M. L., Marks, D., Seyfried, M., Winstral, A., Kumar, M., and
+Flerchinger, G.: A long-term data set for hydrologic modeling in a
+snow-dominated mountain catchment, Water Resour. Res., 47, 1–7,
+https://doi.org/10.1029/2010WR010030, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.1175/JCLI-D-11-00015.1</doi>
+              <unstructured_citation>Rienecker, M. M., Suarez, M. J., Gelaro, R., Todling, R., Bacmeister, J.,
+Liu, E., Bosilovich, M. G., Schubert, S. D., Takacs, L., Kim, G. K., Bloom,
+S., Chen, J., Collins, D., Conaty, A., Da&amp;lt;span id=&amp;quot;page5048&amp;quot;/&amp;gt; Silva, A., Gu, W., Joiner, J.,
+Koster, R. D., Lucchesi, R., Molod, A., Owens, T., Pawson, S., Pegion, P.,
+Redder, C. R., Reichle, R., Robertson, F. R., Ruddick, A. G., Sienkiewicz,
+M., and Woollen, J.: MERRA: NASA's modern-era retrospective analysis for
+research and applications, J. Climate, 24, 3624–3648,
+https://doi.org/10.1175/JCLI-D-11-00015.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <unstructured_citation>Robinson, D. A., Hall, D. K., and Mote, T. L.: MEaSUREs Northern Hemisphere
+Terrestrial Snow Cover Extent Daily 25&amp;amp;thinsp;km EASE-Grid 2.0, Version 1, Boulder,
+Colorado USA, NASA National Snow and Ice Data Center Distributed Active
+Archive Center, https://doi.org/10.5067/MEASURES/CRYOSPHERE/nsidc-0530.001, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1175/BAMS-85-3-381</doi>
+              <unstructured_citation>Rodell, M., Houser, P. R., Jambor, U., Gottschalck, J., Mitchell, K., Meng,
+C.-J., Arsenault, K., Cosgrove, B., Radakovich, J., Bosilovich, M., Entin*,
+J. K., Walker, J. P., Lohmann, D., and Toll, D.: The Global Land Data
+Assimilation System, B. Am. Meteorol. Soc., 85, 381–394,
+https://doi.org/10.1175/BAMS-85-3-381, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.1029/2010JD014036</doi>
+              <unstructured_citation>Roeckner, E., Bäuml, G., Bonaventura, L., Brokopft, R., Esch, M.,
+Giorgetta, M., Hagemann, S., Kirchner, I., Kornblueh, L., Manzini, E.,
+Rhodin, A., Schlese, U., Schulzweida, U., and Tompkins, A.: The atmospheric
+general circulation model ECHAM5 -Part I?: Model description, MIP Rep.,
+https://doi.org/10.1029/2010JD014036, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <unstructured_citation>Rutter, N., Essery, R., Pomeroy, J., Altimir, N., Andreadis, K., Baker, I.,
+Barr, A., Bartlett, P., Boone, A., Deng, H., Douville, H., Dutra, E., Elder,
+K., Ellis, C., Feng, X., Gelfan, A., Goodbody, A., Gusev, Y., Gustafsson, D.,
+Hellström, R., Hirabayashi, Y., Hirota, T., Jonas, T., Koren, V.,
+Kuragina, A., Lettenmaier, D., Li, W. P., Luce, C., Martin, E., Nasonova, O.,
+Pumpanen, J., Pyles, R. D., Samuelsson, P., Sandells, M., Schädler, G.,
+Shmakin, A., Smirnova, T. G., Stähli, M., Stöckli, R., Strasser, U.,
+Su, H., Suzuki, K., Takata, K., Tanaka, K., Thompson, E., Vesala, T.,
+Viterbo, P., Wiltshire, A., Xia, K., Xue, Y., and Yamazaki, T.: Evaluation of
+forest snow processes models (SnowMIP2), J. Geophys. Res.-Atmos., 114,
+D06111, https://doi.org/10.1029/2008JD011063, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1016/S0034-4257(02)00091-3</doi>
+              <unstructured_citation>Schaaf, C. B., Gao, F., Strahler, A. H., Lucht, W., Li, X., Tsang, T.,
+Strugnell, N. C., Zhang, X., Jin, Y., Muller, J. P., Lewis, P., Barnsley, M.,
+Hobson, P., Disney, M., Roberts, G., Dunderdale, M., Doll, C., D'Entremont,
+R. P., Hu, B., Liang, S., Privette, J. L., and Roy, D.: First operational
+BRDF, albedo nadir reflectance products from MODIS, Remote Sens. Environ.,
+83, 135–148, https://doi.org/10.1016/S0034-4257(02)00091-3, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.1016/j.envsoft.2016.02.017</doi>
+              <unstructured_citation>Schlögl, S., Marty, C., Bavay, M., and Lehning, M.: Sensitivity of
+Alpine3D modeled snow cover to modifications in DEM resolution, station
+coverage and meteorological input quantities, Environ. Modell. Softw., 83,
+387–396, https://doi.org/10.1016/j.envsoft.2016.02.017, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <doi provider="crossref">10.1007/s10546-017-0262-1</doi>
+              <unstructured_citation>Schlögl, S., Lehning, M., Nishimura, K., Huwald, H., Cullen, N. J., and
+Mott, R.: How do Stability Corrections Perform in the Stable Boundary Layer
+Over Snow?, Bound.-Lay. Meteorol., 165, 161–180,
+https://doi.org/10.1007/s10546-017-0262-1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <unstructured_citation>Schwaizer, G., Ripper, E., Nagler, T., Fernandes, R., Metsämäki, S.,
+Solberg, R., Luojus, K., Derksen, C., Mudryk, L., and Brown, R.: ESA QA4EO
+SnowPEx – The Satellite Snow Product Intercomparison and Evaluation
+Experiment: Final Snow Product Intercomparison and Validation Report (Del.
+13), ESA Contract No. 4000111278/14/I-LG (2014–2016), 123 pp., 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.1038/nature05095</doi>
+              <unstructured_citation>Seneviratne, S. I., Lüthi, D., Litschi, M., and Schär, C.:
+Land-atmosphere coupling and climate change in Europe, Nature, 443, 205–209,
+https://doi.org/10.1038/nature05095, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1002/grl.50956</doi>
+              <unstructured_citation>Seneviratne, S. I., Wilhelm, M., Stanelle, T., Van Den Hurk, B., Hagemann,
+S., Berg, A., Cheruy, F., Higgins, M. E., Meier, A., Brovkin, V., Claussen,
+M., Ducharne, A., Dufresne, J. L., Findell, K. L., Ghattas, J., Lawrence, D.
+M., Malyshev, S., Rummukainen, M., and Smith, B.: Impact of soil
+moisture-climate feedbacks on CMIP5 projections: First results from the
+GLACE-CMIP5 experiment, Geophys. Res. Lett., 40, 5212–5217,
+https://doi.org/10.1002/grl.50956, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.1016/j.gloplacha.2011.03.004</doi>
+              <unstructured_citation>Serreze, M. C. and Barry, R. G.: Processes and impacts of Arctic
+amplification: A research synthesis, Global Planet. Change, 77, 85–96,
+https://doi.org/10.1016/j.gloplacha.2011.03.004, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.5194/tc-9-2057-2015</doi>
+              <unstructured_citation>Singh, D., Flanner, M. G., and Perket, J.: The global land shortwave
+cryosphere radiative effect during the MODIS era, The Cryosphere, 9,
+2057–2070, https://doi.org/10.5194/tc-9-2057-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <unstructured_citation>Slater, A. G., Schlosser, C. A., Desborough, C. E., Pitman, A. J.,
+Henderson-Sellers, A., Robock, A., Vinnikov, K. Y., Entin, J., Mitchell, K.,
+Chen, F., Boone, A., Etchevers, P., Habets, F., Noilhan, J., Braden, H., Cox,
+P. M., de Rosnay, P., Dickinson, R. E., Yang, Z.-L., Dai, Y.-J., Zeng, Q.,
+Duan, Q., Koren, V., Schaake, S., Gedney, N., Gusev, Y. M., Nasonova, O. N.,
+Kim, J., Kowalczyk, E. A., Shmakin, A. B., Smirnova, T. G., Verseghy, D.,
+Wetzel, P., and Xue, Y.: The Representation of Snow in Land Surface Schemes:
+Results from PILPS 2(d), J. Hydrometeorol., 2, 7–25,
+https://doi.org/10.1175/1525-7541(2001)002&amp;amp;lt;0007:TROSIL&amp;amp;gt;2.0.CO;2, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.5194/tc-11-989-2017</doi>
+              <unstructured_citation>Slater, A. G., Lawrence, D. M., and Koven, C. D.: Process-level model
+evaluation: a snow and heat transfer metric, The Cryosphere, 11, 989–996,
+https://doi.org/10.5194/tc-11-989-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <doi provider="crossref">10.1175/MWR-D-15-0198.1</doi>
+              <unstructured_citation>Smirnova, T. G., Brown, J. M., Benjamin, S. G., and Kenyon, J. S.:
+Modifications to the Rapid Update Cycle Land Surface Model (RUC LSM)
+Available in the Weather Research and Forecasting (WRF) Model, Mon. Weather
+Rev., 144, 1851–1865, https://doi.org/10.1175/MWR-D-15-0198.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <doi provider="crossref">10.5194/gmd-2018-82</doi>
+              <unstructured_citation>Smith, D. M., Screen, J. A., Deser, C., Cohen, J., Fyfe, J. C.,
+García-Serrano, J., Jung, T., Kattsov, V., Matei, D., Msadek, R., Peings, Y.,
+Sigmond, M., Ukita, J., Yoon, J.-H., and Zhang, X.: The Polar Amplification
+Model Intercomparison Project (PAMIP) contribution to CMIP6: investigating
+the causes and consequences of polar amplification, Geosci. Model Dev.
+Discuss., https://doi.org/10.5194/gmd-2018-82, in review, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <doi provider="crossref">10.1175/JHM-D-16-0027.1</doi>
+              <unstructured_citation>Sospedra-Alfonso, R., Merryfield, W. J., and Kharin, V. V.: Representation of
+Snow in the Canadian Seasonal to Interannual Prediction System. Part II:
+Potential Predictability and Hindcast Skill, J. Hydrometeorol., 17,
+2511–2535, https://doi.org/10.1175/JHM-D-16-0027.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <unstructured_citation>Sturm, M., Holmgren, J., König, M., and Morris, K.: The thermal
+conductivity of seasonal snow, J. Glaciol., 43, 26–41, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <unstructured_citation>Sturm, M., McFadden, J. P., Liston, G. E., Stuart Chapin, F., Racine, C. H.,
+and Holmgren, J.: Snow-shrub interactions in Arctic Tundra: A hypothesis with
+climatic implications, J. Climate, 14, 336–344,
+https://doi.org/10.1175/1520-0442(2001)014&amp;amp;lt;0336:SSIIAT&amp;amp;gt;2.0.CO;2, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <doi provider="crossref">10.1002/2017WR020840</doi>
+              <unstructured_citation>Sturm, M., Goldstein, M. A., and Parr, C.: Water and life from snow: A
+trillion dollar science question, Water Resour. Res., 53, 3534–3544,
+https://doi.org/10.1002/2017WR020840, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <doi provider="crossref">10.1016/j.rse.2011.08.014</doi>
+              <unstructured_citation>Takala, M., Luojus, K., Pulliainen, J., Derksen, C., Lemmetyinen, J.,
+Kärnä, J. P., Koskinen, J., and Bojkov, B.: Estimating northern
+hemisphere snow water equivalent for climate research through assimilation of
+space-borne radiometer data and ground-based measurements, Remote Sens.
+Environ., 115, 3517–3529, https://doi.org/10.1016/j.rse.2011.08.014, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <doi provider="crossref">10.5194/gmd-2018-155</doi>
+              <unstructured_citation>Tatebe, H., Ogura, T., Nitta, T., Komuro, Y., Ogochi, K., Takemura, T., Sudo,
+K., Sekiguchi, M., Abe, M., Saito, F., Chikira, M., Watanabe, S., Mori, M.,
+Hirota, N., Kawatani, Y., Mochizuki, T., Yoshimura, K., Takata, K., O'ishi,
+R., Yamazaki, D., Suzuki, T., Kurogi, M., Kataoka, T., Watanabe, M., and
+Kimoto, M.: Description and basic evaluation of simulated mean state,
+internal variability, and climate sensitivity in MIROC6, Geosci. Model Dev.
+Discuss., https://doi.org/10.5194/gmd-2018-155, in review, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref120">
+              <doi provider="crossref">10.1002/2015JD023325</doi>
+              <unstructured_citation>Thackeray, C. W., Fletcher, C. G., and Derksen, C.: Quantifying the skill of
+CMIP5 models in simulating seasonal albedo and snow cover evolution, J.
+Geophys. Res., 120, 5831–5849, https://doi.org/10.1002/2015JD023325, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref121">
+              <doi provider="crossref">10.1175/JCLI-D-16-0341.1</doi>
+              <unstructured_citation>Thackeray, C. W., Fletcher, C. G., Mudryk, L. R., and Derksen, C.:
+Quantifying the uncertainty in historical and future simulations of Northern
+Hemisphere spring snow cover, J. Climate, 29, 8647–8663,
+https://doi.org/10.1175/JCLI-D-16-0341.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref122">
+              <unstructured_citation>Thackeray, C. W., Qu, X., and Hall, A.: Why do models produce spread in snow
+albedo feedback, Geophys. Res. Lett., 45, 6223–6231, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref123">
+              <doi provider="crossref">10.15356/2076-6734-2016-3-369-380</doi>
+              <unstructured_citation>Turkov, D. V. and Sokratov, V. S.: Calculating of snow cover characteristics
+on a plain territory using the model SPONSOR and data of reanalyses (by the
+example of Moscow region), Ice Snow, 56, 369–380,
+https://doi.org/10.15356/2076-6734-2016-3-369-380, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref124">
+              <doi provider="crossref">10.5194/gmd-9-2809-2016</doi>
+              <unstructured_citation>van den Hurk, B., Kim, H., Krinner, G., Seneviratne, S. I., Derksen, C., Oki,
+T., Douville, H., Colin, J., Ducharne, A., Cheruy, F., Viovy, N., Puma, M.
+J., Wada, Y., Li, W., Jia, B., Alessandri, A., Lawrence, D. M., Weedon, G.
+P., Ellis, R., Hagemann, S., Mao, J., Flanner, M. G., Zampieri, M., Materia,
+S., Law, R. M., and Sheffield, J.: LS3MIP (v1.0) contribution to CMIP6: the
+Land Surface, Snow and Soil moisture Model Intercomparison Project – aims,
+setup and expected outcome, Geosci. Model Dev., 9, 2809–2832,
+https://doi.org/10.5194/gmd-9-2809-2016, 2016.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref125">
+              <doi provider="crossref">10.1002/2017MS000988</doi>
+              <unstructured_citation>van Kampenhout, L., Lenaerts, J. T. M., Lipscomb, W. H., Sacks, W. J.,
+Lawrence, D. M., Slater, A. G., and van den Broeke, M. R.: Improving the
+Representation of Polar Snow and Firn in the Community Earth System Model, J.
+Adv. Model. Earth Sy., 9, 2583–2600, https://doi.org/10.1002/2017MS000988, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref126">
+              <doi provider="crossref">10.1007/s00382-007-0226-0</doi>
+              <unstructured_citation>Vavrus, S.: The role of terrestrial snow cover in the climate system, Clim.
+Dynam., 29, 73–88, https://doi.org/10.1007/s00382-007-0226-0, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref127">
+              <unstructured_citation>Vernekar, A. D., Zhou, J., and Shukla, J.: The Effect of Eurasian Snow Cover
+on the Indian Monsoon, J. Climate, 8, 248–266, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref128">
+              <doi provider="crossref">10.5194/gmd-5-773-2012</doi>
+              <unstructured_citation>Vionnet, V., Brun, E., Morin, S., Boone, A., Faroux, S., Le Moigne, P.,
+Martin, E., and Willemet, J.-M.: The detailed snowpack scheme Crocus and its
+implementation in SURFEX v7.2, Geosci. Model Dev., 5, 773–791,
+https://doi.org/10.5194/gmd-5-773-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref129">
+              <doi provider="crossref">10.1002/2015JD023824</doi>
+              <unstructured_citation>Wang, L., Cole, J. N. S., Bartlett, P., Verseghy, D., Derksen, C., Brown, R.,
+and Von Salzen, K.: Investigating the spread in surface albedo for
+snow-covered forests in CMIP5 models, J. Geophys. Res., 121, 1104–1119,
+https://doi.org/10.1002/2015JD023824, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref130">
+              <doi provider="crossref">10.1002/jgrd.50395</doi>
+              <unstructured_citation>Wang, T., Ottlé, C., Boone, A., Ciais, P., Brun, E., Morin, S., Krinner,
+G., Piao, S., and Peng, S.: Evaluation of an improved intermediate complexity
+snow scheme in the ORCHIDEE land surface model, J. Geophys. Res.-Atmos., 118,
+6064–6079, https://doi.org/10.1002/jgrd.50395, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref131">
+              <doi provider="crossref">10.1175/JCLI3439.1</doi>
+              <unstructured_citation>Wang, X. and Key, J. R.: Arctic surface, cloud, and radiation properties
+based on the AVHRR polar pathfinder dataset. Part II: Recent trends, J.
+Climate, 18, 2575–2593, https://doi.org/10.1175/JCLI3439.1, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref132">
+              <unstructured_citation>WSL: Weissfluhjoch dataset for ESM-SnowMIP, https://doi.org/10.16904/16, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref133">
+              <doi provider="crossref">10.1029/2011GL048049</doi>
+              <unstructured_citation>Xu, L. and Dirmeyer, P.: Snow-atmosphere coupling strength in a global
+atmospheric model, Geophys. Res. Lett., 38, 1–5, https://doi.org/10.1029/2011GL048049,
+2011. </unstructured_citation>
+            </citation>
+            <citation key="ref134">
+              <doi provider="crossref">10.1029/2004RG000157</doi>
+              <unstructured_citation>Zhang, T.: Influence of the seasonal snow cover on the ground thermal regime:
+An overview, Rev. Geophys., 43, RG4002, https://doi.org/10.1029/2004RG000157, 2005. </unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

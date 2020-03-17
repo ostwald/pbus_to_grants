@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-08-31 12:10:57">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Advances in Modeling Earth Systems</full_title>
+          <abbrev_title>J. Adv. Model. Earth Syst.</abbrev_title>
+          <issn>19422466</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>03</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>3</issue>
+          <doi_data>
+            <doi>10.1002/jame.v10.3</doi>
+            <resource>http://doi.wiley.com/10.1002/jame.v10.3</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The GFDL Global Atmosphere and Land Model AM4.0/LM4.0: 1. Simulation Characteristics With Prescribed SSTs</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>M.</given_name>
+              <surname>Zhao</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-4996-7821</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J.-C.</given_name>
+              <surname>Golaz</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <affiliation>Lawrence Livermore National Laboratory; Livermore CA USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-1616-5435</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>I. M.</given_name>
+              <surname>Held</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-6744-439X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>H.</given_name>
+              <surname>Guo</surname>
+              <affiliation>UCAR/GFDL; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>V.</given_name>
+              <surname>Balaji</surname>
+              <affiliation>Princeton University/GFDL; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-7561-5438</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>R.</given_name>
+              <surname>Benson</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J.-H.</given_name>
+              <surname>Chen</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-1181-8110</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>X.</given_name>
+              <surname>Chen</surname>
+              <affiliation>Princeton University/GFDL; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-9952-9048</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>L. J.</given_name>
+              <surname>Donner</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-1487-7300</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J. P.</given_name>
+              <surname>Dunne</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-8794-0489</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>K.</given_name>
+              <surname>Dunne</surname>
+              <affiliation>U.S. Geological Survey; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J.</given_name>
+              <surname>Durachta</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>S.-M.</given_name>
+              <surname>Fan</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-8352-8035</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>S. M.</given_name>
+              <surname>Freidenreich</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-9080-5192</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>S. T.</given_name>
+              <surname>Garner</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>P.</given_name>
+              <surname>Ginoux</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-3642-2988</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>L. M.</given_name>
+              <surname>Harris</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-6072-8624</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>L. W.</given_name>
+              <surname>Horowitz</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-5886-3314</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J. P.</given_name>
+              <surname>Krasting</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-4650-9844</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A. R.</given_name>
+              <surname>Langenhorst</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <affiliation>Deceased 31 March 2016</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Z.</given_name>
+              <surname>Liang</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>P.</given_name>
+              <surname>Lin</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-2577-6094</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>S.-J.</given_name>
+              <surname>Lin</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>S. L.</given_name>
+              <surname>Malyshev</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-6259-1043</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>E.</given_name>
+              <surname>Mason</surname>
+              <affiliation>Engility Corporation/GFDL; NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>P. C. D.</given_name>
+              <surname>Milly</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <affiliation>U.S. Geological Survey; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Y.</given_name>
+              <surname>Ming</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-5324-1305</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>V.</given_name>
+              <surname>Naik</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-2254-1700</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>F.</given_name>
+              <surname>Paulot</surname>
+              <affiliation>Princeton University/GFDL; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-7534-4922</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>D.</given_name>
+              <surname>Paynter</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-7092-241X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>P.</given_name>
+              <surname>Phillipps</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A.</given_name>
+              <surname>Radhakrishnan</surname>
+              <affiliation>Engility Corporation/GFDL; NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>V.</given_name>
+              <surname>Ramaswamy</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-1984-6423</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>T.</given_name>
+              <surname>Robinson</surname>
+              <affiliation>Engility Corporation/GFDL; NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-5553-0226</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>D.</given_name>
+              <surname>Schwarzkopf</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-1381-1219</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>C. J.</given_name>
+              <surname>Seman</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>E.</given_name>
+              <surname>Shevliakova</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Z.</given_name>
+              <surname>Shen</surname>
+              <affiliation>Princeton University/GFDL; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-0444-4720</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>H.</given_name>
+              <surname>Shin</surname>
+              <affiliation>Princeton University/GFDL; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-5781-1777</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>L. G.</given_name>
+              <surname>Silvers</surname>
+              <affiliation>Princeton University/GFDL; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-4304-2545</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J. R.</given_name>
+              <surname>Wilson</surname>
+              <affiliation>NASA Ames Research Center; Moffett Field CA USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>M.</given_name>
+              <surname>Winton</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-7982-0260</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A. T.</given_name>
+              <surname>Wittenberg</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-1680-8963</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>B.</given_name>
+              <surname>Wyman</surname>
+              <affiliation>GFDL/NOAA; Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>B.</given_name>
+              <surname>Xiang</surname>
+              <affiliation>UCAR/GFDL; Princeton NJ USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-5774-7437</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>03</month>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>15</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>691</first_page>
+            <last_page>734</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">NOAA's Climate Program Office (CPO) Climate Variability and Predictability (CVP) Program</assertion>
+              <assertion name="award_number">GC14-252</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2018-03-15">http://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2017MS001208</doi>
+            <resource>http://doi.wiley.com/10.1002/2017MS001208</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2017MS001208/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2017MS001208</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2017MS001208-BIB0001|jame20557-cit-0002">
+              <author>Adler</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/1525-7541(2003)004&lt;1147:TVGPCP&gt;2.0.CO;2</doi>
+              <article_title>The version 2 global precipitation climatology project (GPCP) monthly precipitation analysis (1979-present)</article_title>
+              <journal_title>Journal of Hydrometeorology</journal_title>
+              <volume>4</volume>
+              <first_page>1147</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0002|jame20557-cit-0003">
+              <author>Andrews</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-13-00336.1</doi>
+              <article_title>Using an agcm to diagnose historical effective radiative forcing and mechanisms of recent decadal climate change</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>27</volume>
+              <first_page>1193</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0003|jame20557-cit-0004">
+              <author>Baldwin</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1126/science.1063315</doi>
+              <article_title>Stratospheric harbingers of anomalous weather regimes</article_title>
+              <journal_title>Science</journal_title>
+              <volume>294</volume>
+              <first_page>581</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0004|jame20557-cit-0005">
+              <author>Bennartz</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-9815-2017</doi>
+              <article_title>Global and regional estimates of warm cloud droplet number concentration based on 13 years of AQUA-MODIS observations</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>9815</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0005|jame20557-cit-0006">
+              <author>Blackmon</author>
+              <cYear>1976</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1976)033&lt;1607:ACSSOT&gt;2.0.CO;2</doi>
+              <article_title>A climatological spectral study of the 500 mb geopotential height of the northern hemispher</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>33</volume>
+              <first_page>1607</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0006|jame20557-cit-0007">
+              <author>Bodas-Salcedo</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1175/2011BAMS2856.1</doi>
+              <article_title>Satellite simulation software for model assessment</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>92</volume>
+              <first_page>1023</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0007|jame20557-cit-0008">
+              <author>Capotondi</author>
+              <cYear>2015</cYear>
+              <article_title>Climate model biases and El Niño Southern Oscillation (ENSO) simulation</article_title>
+              <journal_title>U.S. CLIVAR Variations</journal_title>
+              <volume>13</volume>
+              <first_page>21</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0008|jame20557-cit-0009">
+              <author>Capotondi</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1016/j.ocemod.2006.02.004</doi>
+              <article_title>Spatial and temporal structure of tropical Pacific interannual variability in 20th century coupled simulations</article_title>
+              <journal_title>Ocean Modelling</journal_title>
+              <volume>15</volume>
+              <first_page>274</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0009|jame20557-cit-0010">
+              <author>Cess</author>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1029/JD095iD10p16601</doi>
+              <article_title>Intercomparison and interpretation of climate feedback processes in 19 atmospheric general circulation models</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>95</volume>
+              <first_page>16601</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0010|jame20557-cit-0011">
+              <author>Charlton</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1175/JCLI3996.1</doi>
+              <article_title>A new look at stratospheric sudden warmings. Part I: Climatology and modeling benchmarks</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>20</volume>
+              <first_page>449</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0011|jame20557-cit-0012">
+              <author>Charlton</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1175/JCLI3994.1</doi>
+              <article_title>A new look at stratospheric sudden warmings. Part II: Evaluation of numerical model simulations</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>20</volume>
+              <first_page>470</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0012|jame20557-cit-0013">
+              <author>Charlton-Perez</author>
+              <cYear>2013</cYear>
+              <article_title>On the lack of stratospheric dynamical variability in low-top versions of the CMIP5 models</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>118</volume>
+              <first_page>2494</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0013|jame20557-cit-0014">
+              <author>Chen</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-15-0901.1</doi>
+              <article_title>ENSO in the CMIP5 simulations: Life cycles, diversity, and responses to climate change</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>30</volume>
+              <first_page>775</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0014|jame20557-cit-0015">
+              <author>Chen</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-12-00061.1</doi>
+              <article_title>Seasonal predictions of tropical cyclones using a 25-km resolution general circulation model</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>26</volume>
+              <first_page>380</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0015|jame20557-cit-0016">
+              <author>Choi</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-15-0211.1</doi>
+              <article_title>Nonlinear zonal wind response to ENSO in the CMIP5 models: Roles of the zonal and meridional shift of the ITCZ/SPCZ and the simulated climatological precipitation</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>28</volume>
+              <first_page>8556</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0016|jame20557-cit-0017">
+              <author>Dai</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/JCLI3884.1</doi>
+              <article_title>Precipitation characteristics in 18 coupled climate models</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>9</volume>
+              <first_page>4605</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0017|jame20557-cit-0018">
+              <author>Dee</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <article_title>The ERA-Interim reanalysis: Configuration and performance of the data assimilation system</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>137</volume>
+              <first_page>553</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0018|jame20557-cit-0019">
+              <author>Delworth</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-11-00316.1</doi>
+              <article_title>Simulated climate and climate change in the GFDL CM2.5 high-resolution coupled climate model</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>25</volume>
+              <first_page>2755</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0019|jame20557-cit-0020">
+              <author>Dirmeyer</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1007/s00382-011-1127-9</doi>
+              <article_title>Simulating the diurnal cycle of rainfall in global climate models: Resolution versus parameterization</article_title>
+              <journal_title>Climate Dynamics</journal_title>
+              <volume>39</volume>
+              <first_page>399</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0020|jame20557-cit-0021">
+              <author>Donner</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1175/2011JCLI3955.1</doi>
+              <article_title>The dynamical core, physical parameterizations, and basic simulation characteristics of the atmospheric component AM3 of the GFDL global coupled model CM3</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>24</volume>
+              <first_page>3484</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0021|jame20557-cit-0022">
+              <author>Dunne</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-11-00560.1</doi>
+              <article_title>GFDL's ESM2 global coupled climate-carbon Earth System Models, Part I: Physical formulation and baseline simulation characteristics</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>25</volume>
+              <first_page>6646</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0022|jame20557-cit-0023">
+              <author>Eyring</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/gmd-9-1937-2016</doi>
+              <article_title>Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>9</volume>
+              <first_page>1937</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0023|jame20557-cit-0024">
+              <author>Garfinkel</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2015GL066942</doi>
+              <article_title>Recent Hadley cell expansion: The role of internal atmospheric variability in reconciling modeled and observed trends</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>42</volume>
+              <first_page>10824</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0024|jame20557-cit-0025">
+              <author>Gehne</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-15-0618.1</doi>
+              <article_title>Comparison of global precipitation estimates across a range of temporal and spatial scales</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>29</volume>
+              <first_page>7773</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0025|jame20557-cit-0026">
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/JCLI-3223.1</doi>
+              <article_title>The new GFDL global atmosphere and land model AM2/LM2: Evaluation with prescribed SST simulations</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>17</volume>
+              <first_page>4641</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0026|jame20557-cit-0027">
+              <author>Gleckler</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1029/2016EO051663</doi>
+              <article_title>A more powerful reality test for climate models</article_title>
+              <journal_title>Eos, Transactions, American Geophysical Union</journal_title>
+              <volume>97</volume>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0027|jame20557-cit-0028">
+              <author>Gleckler</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1029/2007JD008972</doi>
+              <article_title>Performance metrics for climate models</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>113</volume>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0028|jame20557-cit-0029">
+              <author>Hall</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1029/2005GL025127</doi>
+              <article_title>Using the current seasonal cycle to constrain snow albedo feedback in future climate change</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>33</volume>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0029|jame20557-cit-0030">
+              <author>Hardiman</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-11-00579.1</doi>
+              <article_title>The effect of a well-resolved stratosphere on surface climate: Differences between CMIP5 simulations with high and low top versions of the Met Office Climate Model</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>25</volume>
+              <first_page>7083</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0030|jame20557-cit-0031">
+              <author>Harris</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/joc.3711</doi>
+              <article_title>Updated high-resolution grids of monthly climatic observations-The CRU TS3.10 dataset</article_title>
+              <journal_title>International Journal of Climatology</journal_title>
+              <volume>34</volume>
+              <first_page>623</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0031|jame20557-cit-0032">
+              <author>Hoesly</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/gmd-11-369-2018</doi>
+              <article_title>Historical (1750-2014) anthropogenic emissions of reactive gases and aerosols from the community emissions data system (CEDS)</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>11</volume>
+              <first_page>369</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0032|jame20557-cit-0033">
+              <author>Holben</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1016/S0034-4257(98)00031-5</doi>
+              <article_title>AERONET-A federated instrument network and data archive for aerosol characterization</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>66</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0033|jame20557-cit-0034">
+              <author>Huang</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-14-00006.1</doi>
+              <article_title>Extended reconstructed sea surface temperature version 4 (ERSST.v4): Part I</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>28</volume>
+              <first_page>911</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0034|jame20557-cit-0035">
+              <author>Hurtt</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1007/s10584-011-0153-2</doi>
+              <article_title>Harmonization of land-use scenarios for the period 1500-2100: 600 years of global gridded annual land-use transitions, wood harvest, and resulting secondary lands</article_title>
+              <journal_title>Climatic Change</journal_title>
+              <volume>109</volume>
+              <first_page>117</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0035|jame20557-cit-0036">
+              <author>Hwang</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1073/pnas.1213302110</doi>
+              <article_title>Link between the double-intertropical convergence zone problem and cloud biases over the Southern Ocean</article_title>
+              <journal_title>Proceedings of the National Academy of Sciences of the United States of America</journal_title>
+              <volume>110</volume>
+              <first_page>4935</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0036|jame20557-cit-0037">
+              <author>Jia</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-14-00112.1</doi>
+              <article_title>Improved seasonal prediction of temperature and precipitation over land in a high-resolution GFDL climate model</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>28</volume>
+              <first_page>2044</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0037|jame20557-cit-0038">
+              <author>Kahn</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1109/TGRS.2009.2023115</doi>
+              <article_title>MISR aerosol product attributes and statistical comparisons with MODIS</article_title>
+              <journal_title>IEEE Transactions on Geoscience and Remote Sensing</journal_title>
+              <volume>47</volume>
+              <first_page>4095</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0038|jame20557-cit-0039">
+              <author>Kim</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1007/s00382-007-0348-4</doi>
+              <article_title>Tropical Pacific impacts of convective momentum transport in the SNU coupled GCM</article_title>
+              <journal_title>Climate Dynamics</journal_title>
+              <volume>31</volume>
+              <first_page>213</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0039|jame20557-cit-0040">
+              <author>Knapp</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2009BAMS2755.1</doi>
+              <article_title>The International Best Track Archive for Climate Stewardship (IBTrACS)-Unifying tropical cyclone best track data</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>91</volume>
+              <first_page>363</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0040|jame20557-cit-0041">
+              <author>Krishnamurthy</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-14-00590.1</doi>
+              <article_title>The seasonality of the Great Plains Low-Level Jet and ENSO relationship</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>28</volume>
+              <first_page>4525</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0041|jame20557-cit-0042">
+              <unstructured_citation>Levy , R. Hsu , C. 2015 MODIS Atmosphere L2 Aerosol Product. NASA MODIS Adaptive Processing System https://doi.org/10.5067/MODIS/MOD04_L2.006</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0042|jame20557-cit-0043">
+              <author>Levy</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1029/2006JD007811</doi>
+              <article_title>Second-generation operational algorithm: Retrieval of aerosol properties over land from inversion of moderate resolution imaging spectroradiometer spectral reflectance</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>112</volume>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0043|jame20557-cit-0044">
+              <author>Liebmann</author>
+              <cYear>1996</cYear>
+              <article_title>Description of a complete (interpolated) Outgoing Longwave Radiation dataset</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>77</volume>
+              <first_page>1275</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0044|jame20557-cit-0045">
+              <author>Loeb</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1175/2008JCLI2637.1</doi>
+              <article_title>Toward optimal closure of the Earth's top-of-atmosphere radiation budget</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>22</volume>
+              <first_page>748</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0045|jame20557-cit-0046">
+              <author>Madden</author>
+              <cYear>1971</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1971)028&lt;0702:DOADOI&gt;2.0.CO;2</doi>
+              <article_title>Detection of a 40-50 day oscillation in the zonal wind in the tropical pacific</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>28</volume>
+              <first_page>702</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0046|jame20557-cit-0047">
+              <author>Matthes</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/gmd-10-2247-2017</doi>
+              <article_title>Solar forcing for CMIP6 (v3.2)</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>10</volume>
+              <first_page>2247</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0047|jame20557-cit-0048">
+              <author>Meinshausen</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/gmd-10-2057-2017</doi>
+              <article_title>Historical greenhouse gas concentrations for climate modelling (CMIP6)</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>10</volume>
+              <first_page>2057</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0048|jame20557-cit-0049">
+              <author>Milly</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1029/2001WR000759</doi>
+              <article_title>Macroscale water fluxes: 1. Quantifying errors in the estimation of basin mean precipitation</article_title>
+              <journal_title>Water Resources Research</journal_title>
+              <volume>38</volume>
+              <issue>10</issue>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0049|jame20557-cit-0050">
+              <author>Milly</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/JHM-D-13-0162.1</doi>
+              <article_title>An enhanced model of land water and energy for global hydrologic and Earth-system studies</article_title>
+              <journal_title>Journal of Hydrometeorology</journal_title>
+              <volume>15</volume>
+              <first_page>1739</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0050|jame20557-cit-0051">
+              <author>Mizuta</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.2151/jmsj.2012-A12</doi>
+              <article_title>Climate simulations using MRI-AGCM3.2 with 20-km grid</article_title>
+              <journal_title>Journal of the Meteorological Society of Japan</journal_title>
+              <volume>90</volume>
+              <first_page>233</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0051|jame20557-cit-0052">
+              <author>Murakami</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-15-0216.1</doi>
+              <article_title>Simulation and prediction of category 4 and 5 hurricanes in the high-resolution GFDL HiFLOR coupled climate model</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>28</volume>
+              <first_page>9058</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0052|jame20557-cit-0053">
+              <author>Naik</author>
+              <cYear>2013</cYear>
+              <article_title>Impact of preindustrial to present-day changes in short-lived pollutant emissions on atmospheric composition and climate forcing</article_title>
+              <journal_title>Journal of Geophysical Research: Atomspheres</journal_title>
+              <volume>118</volume>
+              <first_page>8086</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0053|jame20557-cit-0054">
+              <author>Pincus</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/gmd-9-3447-2016</doi>
+              <article_title>The radiative forcing model intercomparison project (RFMIP): Experimental protocol for CMIP6</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>9</volume>
+              <first_page>3447</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0054|jame20557-cit-0055">
+              <author>Pincus</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-11-00267.1</doi>
+              <article_title>Reconciling simulated and observed views of clouds: MODIS, ISCCP, and the limits of instrument simulators</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>25</volume>
+              <first_page>4699</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0055|jame20557-cit-0056">
+              <author>Platnick</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1109/TGRS.2002.808301</doi>
+              <article_title>The MODIS cloud products: Algorithms and examples from Terra</article_title>
+              <journal_title>IEEE Transactions on Geoscience and Remote Sensing</journal_title>
+              <volume>41</volume>
+              <first_page>459</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0056|jame20557-cit-0057">
+              <author>Quinn</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/1999JD901034</doi>
+              <article_title>Surface submicron aerosol chemical composition: What fraction is not sulfate?</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>116</volume>
+              <first_page>6785</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0057|jame20557-cit-0058">
+              <author>Rienecker</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-11-00015.1</doi>
+              <article_title>MERRA: NASA's modern-era retrospective analysis for research and applications</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>24</volume>
+              <first_page>3624</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0058|jame20557-cit-0059">
+              <author>Rossow</author>
+              <cYear>1991</cYear>
+              <doi provider="crossref">10.1175/1520-0477(1991)072&lt;0002:ICDP&gt;2.0.CO;2</doi>
+              <article_title>ISCCP cloud data products</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>72</volume>
+              <first_page>2</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0059|jame20557-cit-0060">
+              <author>Scaife</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1029/2005GL023226</doi>
+              <article_title>A stratospheric influence on the winter NAO and North Atlantic surface climate</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>32</volume>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0060|jame20557-cit-0061">
+              <author>Seviour</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-16-0817.1</doi>
+              <article_title>Robustness of the simulated tropospheric response to ozone depletion</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>30</volume>
+              <first_page>2577</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0061|jame20557-cit-0062">
+              <author>Shaevitz</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2014MS000372</doi>
+              <article_title>Characteristics of tropical cyclones in high-resolution models in the present climate</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>6</volume>
+              <first_page>1154</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0062|jame20557-cit-0063">
+              <author>Shaw</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2010JCLI3438.1</doi>
+              <article_title>The impact of stratospheric model configuration on planetary-scale waves in Northern Hemisphere winter</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>23</volume>
+              <first_page>3369</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0063|jame20557-cit-0064">
+              <author>Sheffield</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/JCLI3790.1</doi>
+              <article_title>Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>19</volume>
+              <first_page>3088</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0064|jame20557-cit-0065">
+              <author>Shen</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-16-0580.1</doi>
+              <article_title>On the seasonality of Arctic black carbon</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>30</volume>
+              <first_page>4429</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0065|jame20557-cit-0066">
+              <author>Sherwood</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-13-00167.1</doi>
+              <article_title>Adjustments in the forcing-feedback framework for understanding climate change</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>96</volume>
+              <first_page>217</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0066|jame20557-cit-0067">
+              <author>Siongco</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1007/s00382-014-2366-3</doi>
+              <article_title>The Atlantic ITCZ bias in CMIP5 models</article_title>
+              <journal_title>Climate Dynamics</journal_title>
+              <volume>45</volume>
+              <first_page>1169</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0067|jame20557-cit-0068">
+              <author>Siorois</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1029/1999JD900077</doi>
+              <article_title>Arctic lower tropospheric aerosol trends and composition at Alert, Canada: 1980-1995</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>104</volume>
+              <first_page>11599</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0068|jame20557-cit-0069">
+              <author>Smirnov</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1016/S0034-4257(00)00109-7</doi>
+              <article_title>Cloud-screening and quality control algorithms for the AERONET database</article_title>
+              <journal_title>Remote Sensing of Environment</journal_title>
+              <volume>73</volume>
+              <first_page>337</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0069|jame20557-cit-0070">
+              <author>Smith</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1016/j.asr.2011.03.009</doi>
+              <article_title>Clouds and Earth Radiant Energy System (CERES), a review: Past, present and future</article_title>
+              <journal_title>Advances in Space Research</journal_title>
+              <volume>48</volume>
+              <first_page>254</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0070|jame20557-cit-0071">
+              <author>Stan</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.envsoft.2014.06.013</doi>
+              <article_title>Climate simulations and projections with a super-parameterized climate model</article_title>
+              <journal_title>Environmental Modelling and Software</journal_title>
+              <volume>60</volume>
+              <first_page>134</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0071|jame20557-cit-0072">
+              <unstructured_citation>Taylor , K. Williamson , D. Zwiers , F. 2000 The sea surface temperature and sea ice concentration boundary conditions for AMIP II simulations</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0072|jame20557-cit-0073">
+              <unstructured_citation>Theil , H. 1950a Nederlandse Akademie van Wetenschappen Proceedings 53 386 392</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0073|jame20557-cit-0074">
+              <unstructured_citation>Theil , H. 1950b Nederlandse Akademie van Wetenschappen Proceedings 53 521 525</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0074|jame20557-cit-0075">
+              <unstructured_citation>Theil , H. 1950c Nederlandse Akademie van Wetenschappen Proceedings 53 1397 1412</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0075|jame20557-cit-0076">
+              <author>Thompson</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1126/science.1069270</doi>
+              <article_title>Interpretation of recent Southern Hemisphere climate change</article_title>
+              <journal_title>Science</journal_title>
+              <volume>296</volume>
+              <first_page>895</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0076|jame20557-cit-0077">
+              <author>Tsushima</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1073/pnas.1216174110</doi>
+              <article_title>Assessment of radiative feedback in climate models using satellite observations of annual flux variation</article_title>
+              <journal_title>Proceedings of the National Academy of Sciences of the United States of America</journal_title>
+              <volume>110</volume>
+              <first_page>7568</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0077|jame20557-cit-0078">
+              <author>Udisti</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1007/s12210-016-0517-7</doi>
+              <article_title>Sulfate source apportionment in the Ny-Alesund (Svalbard Islands) Arctic aerosol</article_title>
+              <journal_title>Reniconti Lincei</journal_title>
+              <volume>27</volume>
+              <first_page>85</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0078|jame20557-cit-0079">
+              <author>Uppala</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1256/qj.04.176</doi>
+              <article_title>The ERA-40 re-analysis</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>131</volume>
+              <first_page>2961</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0079|jame20557-cit-0080">
+              <author>Marle</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/gmd-10-3329-2017</doi>
+              <article_title>Historic global biomass burning emissions for CMIP6 (BB4CMIP) based on merging satellite observations with proxies and fire models (1750-2015)</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>10</volume>
+              <first_page>3329</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0080|jame20557-cit-0081">
+              <author>Waliser</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1999)056&lt;0333:TIOCSS&gt;2.0.CO;2</doi>
+              <article_title>The influence of coupled sea surface temperatures on the Madden-Julian oscillation: A model perturbation experiment</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>56</volume>
+              <first_page>333</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0081|jame20557-cit-0082">
+              <author>Walsh</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-13-00242.1</doi>
+              <article_title>Hurricanes and climate: The U.S. CLIVAR Working Group on Hurricanes</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>96</volume>
+              <first_page>997</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0082|jame20557-cit-0083">
+              <author>Walsh</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1175/JCLI4074.1</doi>
+              <article_title>Objectively determined resolution-dependent threshold criteria for the detection of tropical cyclones in climate models and reanalyses</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>20</volume>
+              <first_page>2307</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0083|jame20557-cit-0084">
+              <author>Weller</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1111/j.1600-0889.2011.00542.x</doi>
+              <article_title>Continuous 25-yr aerosol records at coastal Antarctica-I: Inter-annual variability of ionic compounds and links to climate indices</article_title>
+              <journal_title>Tellus, Series B</journal_title>
+              <volume>63</volume>
+              <first_page>901</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0084|jame20557-cit-0085">
+              <author>Wheeler</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1999)056&lt;0374:CCEWAO&gt;2.0.CO;2</doi>
+              <article_title>Convectively coupled equatorial waves: Analysis of clouds and temperature in the wavenumber-frequency domain</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>56</volume>
+              <first_page>374</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0085|jame20557-cit-0086">
+              <author>Wittenberg</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1029/2009GL038710</doi>
+              <article_title>Are historical records sufficient to constrain ENSO simulations?</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>36</volume>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0086|jame20557-cit-0087">
+              <author>Wittenberg</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/JCLI3631.1</doi>
+              <article_title>GFDL's CM2 global coupled climate models. Part III: Tropical Pacific climate and ENSO</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>19</volume>
+              <first_page>698</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0087|jame20557-cit-0088">
+              <author>Xiang</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2016GL071992</doi>
+              <article_title>Predicting the severity of spurious “double ITCZ” problem in CMIP5 coupled models from AMIP simulations</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>44</volume>
+              <first_page>1520</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0088|jame20557-cit-0089">
+              <author>Zhao</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-13-00145.1</doi>
+              <article_title>An investigation of the connections among convection, clouds, and climate sensitivity in a global climate model</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>27</volume>
+              <first_page>1845</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0089|jame20557-cit-0090">
+              <author>Zhao</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-15-0191.1</doi>
+              <article_title>Uncertainty in model climate sensitivity traced to representations of cumulus precipitation microphysics</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>29</volume>
+              <first_page>543</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0090|jame20557-cit-0091">
+              <author>Zhao</author>
+              <cYear>2018</cYear>
+              <article_title>The GFDL global atmosphere and land model AM4.0/LM4.0: 2. Model description, sensitivity studies, and tuning strategies</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems.</journal_title>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0091|jame20557-cit-0092">
+              <author>Zhao</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2010JCLI3837.1</doi>
+              <article_title>An analysis of the effect of global warming on the intensity of Atlantic hurricanes using a GCM with statistical refinement</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>23</volume>
+              <first_page>6382</first_page>
+            </citation>
+            <citation key="10.1002/2017MS001208-BIB0092|jame20557-cit-0093">
+              <author>Zhao</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1175/2009JCLI3049.1</doi>
+              <article_title>Simulations of global hurricane climatology, interannual variability, and response to global warming using a 50 km resolution GCM</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>22</volume>
+              <first_page>6653</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

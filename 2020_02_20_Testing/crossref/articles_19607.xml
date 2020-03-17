@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 12:27:54">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>17</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Effects of ozone–vegetation coupling on surface ozone air quality via biogeochemical and meteorological feedbacks</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Mehliyar</given_name>
+              <surname>Sadiq</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Amos P. K.</given_name>
+              <surname>Tai</surname>
+              <ORCID>https://orcid.org/0000-0001-5189-6263</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Danica</given_name>
+              <surname>Lombardozzi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Maria</given_name>
+              <surname>Val Martin</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Tropospheric ozone is one of the most hazardous air pollutants as it harms both human health and plant productivity. Foliage uptake of ozone via dry deposition damages photosynthesis and causes stomatal closure. These foliage changes could lead to a cascade of biogeochemical and biogeophysical effects that not only modulate the carbon cycle, regional hydrometeorology and climate, but also cause feedbacks onto surface ozone concentration itself. In this study, we implement a semi-empirical parameterization of ozone damage on vegetation in the Community Earth System Model to enable online ozone–vegetation coupling, so that for the first time ecosystem structure and ozone concentration can coevolve in fully coupled land–atmosphere simulations. With ozone–vegetation coupling, present-day surface ozone is simulated to be higher by up to 4–6<span class="thinspace"></span>ppbv over Europe, North America and China. Reduced dry deposition velocity following ozone damage contributes to ∼ 40–100<span class="thinspace"></span>% of those increases, constituting a significant positive biogeochemical feedback on ozone air quality. Enhanced biogenic isoprene emission is found to contribute to most of the remaining increases, and is driven mainly by higher vegetation temperature that results from lower transpiration rate. This isoprene-driven pathway represents an indirect, positive meteorological feedback. The reduction in both dry deposition and transpiration is mostly associated with reduced stomatal conductance following ozone damage, whereas the modification of photosynthesis and further changes in ecosystem productivity are found to play a smaller role in contributing to the ozone–vegetation feedbacks. Our results highlight the need to consider two-way ozone–vegetation coupling in Earth system models to derive a more complete understanding and yield more reliable future predictions of ozone air quality.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>02</month>
+            <day>28</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>3055</first_page>
+            <last_page>3066</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-17-3055-2017</doi>
+            <resource>https://www.atmos-chem-phys.net/17/3055/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/17/3055/2017/acp-17-3055-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1146/annurev-arplant-042110-103829</doi>
+              <unstructured_citation>Ainsworth, E. A., Yendrek, C. R., Sitch, S., Collins, W. J., and Emberson, L. D.: The Effects of Tropospheric Ozone on Net Primary Productivity and Implications for Climate Change, Annu. Rev. Plant Biol., 63, 637–661, https://doi.org/10.1146/annurev-arplant-042110-103829, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1289/ehp.0901220</doi>
+              <unstructured_citation>Anenberg, S. C., Horowitz, L. W., Tong, D. Q., and West, J. J.: An Estimate of the Global Burden of Anthropogenic Ozone and Fine Particulate Matter on Premature Human Mortality Using Atmospheric Modeling, Environ. Health Persp., 118, 1189–1195, https://doi.org/10.1289/ehp.0901220, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1111/j.1365-3040.2005.01341.x</doi>
+              <unstructured_citation>Ashmore, M. R.: Assessing the future global impacts of ozone on vegetation, Plant Cell Environ., 28, 949–964, https://doi.org/10.1111/J.1365-3040.2005.01341.X, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Ball, J. T., Woodrow, I. E., and Berry, J. A.: A model predicting stomatal conductance and its contribution to the control of photosynthesis under different environmental conditions, Prog. Photosynthesis, 4, 221–224, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1016/j.envpol.2011.03.011</doi>
+              <unstructured_citation>Bernacchi, C. J., Leakey, A. D. B., Kimball, B. A., and Ort, D. R.: Growth of soybean at future tropospheric ozone concentrations decreases canopy evapotranspiration and soil water depletion, Environ. Pollut., 159, 1464–1472, https://doi.org/10.1016/j.envpol.2011.03.011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2010JG001593</doi>
+              <unstructured_citation>Bonan, G. B., Lawrence, P. J., Oleson, K. W., Levis, S., Jung, M., Reichstein, M., Lawrence, D. M., and Swenson, S. C.: Improving canopy processes in the Community Land Model version 4 (CLM4) using global flux fields empirically inferred from FLUXNET data, J. Geophys. Res.-Biogeo., 116, G02014, https://doi.org/10.1029/2010jg001593, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1111/j.1365-3040.2007.01646.x</doi>
+              <unstructured_citation>Calfapietra, C., Wiberley, A. E., Falbel, T. G., Linskey, A. R., Mugnozza, G. S., Karnosky, D. F., Loreto, F., and Sharkey, T. D.: Isoprene synthase expression and protein levels are reduced under elevated O3 but not under elevated CO2 (FACE) in field-grown aspen trees, Plant Cell Environ., 30, 654–661, https://doi.org/10.1111/j.1365-3040.2007.01646.x, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2010JD014187</doi>
+              <unstructured_citation>Collins, W. J., Sitch, S., and Boucher, O.: How vegetation impacts affect climate metrics for ozone precursors, J. Geophys. Res.-Atmos., 115, D23308, https://doi.org/10.1029/2010jd014187, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/gmd-3-43-2010</doi>
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G., Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando, J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.: Description and evaluation of the Model for Ozone and Related chemical Tracers, version 4 (MOZART-4), Geosci. Model Dev., 3, 43–67, https://doi.org/10.5194/gmd-3-43-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1111/j.1399-3054.2006.00750.x</doi>
+              <unstructured_citation>Fares, S., Barta, C., Brilli, F., Centritto, M., Ederli, L., Ferranti, F., Pasqualini, S., Reale, L., Tricoli, D., and Loreto, F.: Impact of high ozone on isoprene emission, photosynthesis and histology of developing Populus alba leaves directly or indirectly exposed to the pollutant, Physiol. Plantarum, 128, 456–465, https://doi.org/10.1111/j.1399-3054.2006.00750.x, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1007/BF00386231</doi>
+              <unstructured_citation>Farquhar, G. D., Caemmerer, S. V., and Berry, J. A.: A Biochemical-Model of Photosynthetic CO2 Assimilation in Leaves of C3 Species, Planta, 149, 78–90, https://doi.org/10.1007/Bf00386231, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/acp-11-1697-2011</doi>
+              <unstructured_citation>Fiore, A. M., Levy II, H., and Jaffe, D. A.: North American isoprene influence on intercontinental ozone pollution, Atmos. Chem. Phys., 11, 1697–1710, https://doi.org/10.5194/acp-11-1697-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2010JD014041</doi>
+              <unstructured_citation>Ganzeveld, L., Bouwman, L., Stehfest, E., van Vuuren, D. P., Eickhout, B., and Lelieveld, J.: Impact of future land use and land cover changes on atmospheric chemistry-climate interactions, J. Geophys. Res., 115, D23301, https://doi.org/10.1029/2010JD014041, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/gmd-5-1471-2012</doi>
+              <unstructured_citation>Guenther, A. B., Jiang, X., Heald, C. L., Sakulyanontvittaya, T., Duhl, T., Emmons, L. K., and Wang, X.: The Model of Emissions of Gases and Aerosols from Nature version 2.1 (MEGAN2.1): an extended and updated framework for modeling biogenic emissions, Geosci. Model Dev., 5, 1471–1492, https://doi.org/10.5194/gmd-5-1471-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1016/j.atmosenv.2008.09.051</doi>
+              <unstructured_citation>Jacob, D. J. and Winner, D. A.: Effect of climate change on air quality, Atmos. Environ., 43, 51–63, https://doi.org/10.1016/j.atmosenv.2008.09.051, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/j.envpol.2006.08.043</doi>
+              <unstructured_citation>Karnosky, D. F., Skelly, J. M., Percy, K. E., and Chappelka, A. H.: Perspectives regarding 50 years of research on effects of tropospheric ozone air pollution on US forests, Environ. Pollut., 147, 489–506, https://doi.org/10.1016/j.envpol.2006.08.043, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1073/pnas.1409785111</doi>
+              <unstructured_citation>Kroeger, T., Escobedo, F. J., Hernandez, J. L., Varela, S., Delphin, S., Fisher, J. R., and Waldron, J.: Reforestation as a novel abatement and compliance measure for ground-level ozone, P. Natl. Acad. Sci. USA, 111, E4204–E4213, https://doi.org/10.1073/pnas.1409785111, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/gmd-5-369-2012</doi>
+              <unstructured_citation>Lamarque, J.-F., Emmons, L. K., Hess, P. G., Kinnison, D. E., Tilmes, S., Vitt, F., Heald, C. L., Holland, E. A., Lauritzen, P. H., Neu, J., Orlando, J. J., Rasch, P. J., and Tyndall, G. K.: CAM-chem: description and evaluation of interactive atmospheric chemistry in the Community Earth System Model, Geosci. Model Dev., 5, 369–411, https://doi.org/10.5194/gmd-5-369-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1002/2013JD020905</doi>
+              <unstructured_citation>Lapina, K., Henze, D. K., Milford, J. B., Huang, M., Lin, M., Fiore, A. M., Carmichael, G., Pfister, G. G., and Bowman, K.: Assessment of source contributions to seasonal vegetative exposure to ozone in the US, J. Geophys. Res.-Atmos., 119, 324–340, https://doi.org/10.1002/2013JD020905, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2011MS000045</doi>
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Thornton, P. E., Swenson, S. C., Lawrence, P. J., Zeng, X. B., Yang, Z. L., Levis, S., Sakaguchi, K., Bonan, G. B., and Slater, A. G.: Parameterization Improvements and Functional and Structural Advances in Version 4 of the Community Land Model, J. Adv. Model Earth Sy., 3, M03001, https://doi.org/10.1029/2011MS000045, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1007/s00442-011-2242-3</doi>
+              <unstructured_citation>Lombardozzi, D., Sparks, J. P., Bonan, G., and Levis, S.: Ozone exposure causes a decoupling of conductance and photosynthesis: implications for the Ball-Berry stomatal conductance model, Oecologia, 169, 651–659, https://doi.org/10.1007/s00442-011-2242-3, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/bg-10-6815-2013</doi>
+              <unstructured_citation>Lombardozzi, D., Sparks, J. P., and Bonan, G.: Integrating O3 influences on terrestrial processes: photosynthetic and stomatal response data available for regional and global modeling, Biogeosciences, 10, 6815–6831, https://doi.org/10.5194/bg-10-6815-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/JCLI-D-14-00223.1</doi>
+              <unstructured_citation>Lombardozzi, D., Levis, S., Bonan, G., Hess, P. G., and Sparks, J. P.: The Influence of Chronic Ozone Exposure on Global Carbon and Water Cycles, J. Climate, 28, 292–305, https://doi.org/10.1175/JCLI-D-14-00223.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JCLI-D-12-00236.1</doi>
+              <unstructured_citation>Neale, R. B., Richter, J., Park, S., Lauritzen, P. H., Vavrus, S. J., Rasch, P. J., and Zhang, M. H.: The Mean Climate of the Community Atmosphere Model (CAM4) in Forced SST and Fully Coupled Experiments, J. Climate, 26, 5150–5168, https://doi.org/10.1175/JCLI-D-12-00236.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Oleson, K. W., Lawrence, D. M., Gordon, B., Flanner, M. G., Kluzek, E., Peter, J., Levis, S., Swenson, S. C., Thornton, E., and Feddema, J.: Technical description of version 4.0 of the Community Land Model (CLM), 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/acp-15-2791-2015</doi>
+              <unstructured_citation>Pacifico, F., Folberth, G. A., Sitch, S., Haywood, J. M., Rizzo, L. V., Malavelle, F. F., and Artaxo, P.: Biomass burning related ozone damage on vegetation over the Amazon forest: a model sensitivity study, Atmos. Chem. Phys., 15, 2791–2804, https://doi.org/10.5194/acp-15-2791-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1002/2013JD021435</doi>
+              <unstructured_citation>Parrish, D. D., Lamarque, J. F., Naik, V., Horowitz, L., Shindell, D. T., Staehelin, J., Derwent, R., Cooper, O. R., Tanimoto, H., Volz-Thomas, A., and Gilge, S.: Long-term changes in lower tropospheric baseline ozone concentrations: Comparing chemistry-climate models and observations at northern midlatitudes, J. Geophys. Res.-Atmos., 119, 5719–5736, https://doi.org/10.1002/2013JD021435, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1038/nature06059</doi>
+              <unstructured_citation>Sitch, S., Cox, P. M., Collins, W. J., and Huntingford, C.: Indirect radiative forcing of climate change through ozone effects on the land-carbon sink, Nature, 448, 791–794, https://doi.org/10.1038/nature06059, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2012JD018059</doi>
+              <unstructured_citation>Sun, Y., Gu, L. H., and Dickinson, R. E.: A numerical issue in calculating the coupled carbon and water fluxes in a climate model, J. Geophys. Res.-Atmos., 117, D22103, https://doi.org/10.1029/2012jd018059, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1002/2015JG002996</doi>
+              <unstructured_citation>Super, I., Vilà-Guerau de Arellano, J., and Krol, M. C.: Cumulative ozone effect on canopy stomatal resistance and the impact on boundary layer dynamics and CO2 assimilation at the diurnal scale: A case study for grassland in the Netherlands, J. Geophys. Res.-Biogeo., 120, 1348–1365, https://doi.org/10.1002/2015JG002996, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1002/grl.50650</doi>
+              <unstructured_citation>Tai, A. P. K., Mickley, L. J., Heald, C. L., and Wu, S. L.: Effect of CO2 inhibition on biogenic isoprene emission: Implications for air quality under 2000 to 2050 changes in climate, vegetation, and land use, Geophys. Res. Lett., 40, 3479–3483, https://doi.org/10.1002/grl.50650, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Tiwari, S., Grote, R., Churkina, G., and Butlet, T.: Ozone damage, detoxification and the role of isoprenoids – new impetus for integrated models, Funct. Plant Biol., 43, 324–336, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/2014GL059651</doi>
+              <unstructured_citation>Val Martin, M., Heald, C. L., and Arnold, S. R.: Coupling dry deposition to vegetation phenology in the Community Earth System Model: Implications for the simulation of surface O3, Geophys. Res. Lett., 41, 2988–2996, https://doi.org/10.1002/2014GL059651, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-15-2805-2015</doi>
+              <unstructured_citation>Val Martin, M., Heald, C. L., Lamarque, J.-F., Tilmes, S., Emmons, L. K., and Schichtel, B. A.: How emissions, climate, and land use change will impact mid-century air quality over the United States: a focus on effects at national parks, Atmos. Chem. Phys., 15, 2805–2823, https://doi.org/10.5194/acp-15-2805-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1111/j.1365-3040.2007.01717.x</doi>
+              <unstructured_citation>Wittig, V. E., Ainsworth, E. A., and Long, S. P.: To what extent do current and projected increases in surface ozone affect photosynthesis and stomatal conductance of trees? A meta-analytic review of the last 3 decades of experiments, Plant Cell Environ., 30, 115–1162, https://doi.org/10.1111/j.1365-3040.2007.01717.x, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/acp-12-1597-2012</doi>
+              <unstructured_citation>Wu, S., Mickley, L. J., Kaplan, J. O., and Jacob, D. J.: Impacts of changes in land use and land cover on atmospheric chemistry and air quality over the 21st century, Atmos. Chem. Phys., 12, 1597–1609, https://doi.org/10.5194/acp-12-1597-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/acp-14-9137-2014</doi>
+              <unstructured_citation>Yue, X. and Unger, N.: Ozone vegetation damage effects on gross primary productivity in the United States, Atmos. Chem. Phys., 14, 9137–9153, https://doi.org/10.5194/acp-14-9137-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/gmd-8-2399-2015</doi>
+              <unstructured_citation>Yue, X. and Unger, N.: The Yale Interactive terrestrial Biosphere model version 1.0: description, evaluation and implementation into NASA GISS ModelE2, Geosci. Model Dev., 8, 2399–2417, https://doi.org/10.5194/gmd-8-2399-2015, 2015.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-17-3055-2017-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/17/3055/2017/acp-17-3055-2017-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

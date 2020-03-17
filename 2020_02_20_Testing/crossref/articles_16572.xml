@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-07 13:55:52">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>15</volume>
+          </journal_volume>
+          <issue>6</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The impact of temperature vertical structure on trajectory modeling of stratospheric water vapor</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>T.</given_name>
+              <surname>Wang</surname>
+              <ORCID>https://orcid.org/0000-0003-3430-8508</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A. E.</given_name>
+              <surname>Dessler</surname>
+              <ORCID>https://orcid.org/0000-0003-3939-4820</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M. R.</given_name>
+              <surname>Schoeberl</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>W. J.</given_name>
+              <surname>Randel</surname>
+              <ORCID>https://orcid.org/0000-0002-5999-7162</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.-E.</given_name>
+              <surname>Kim</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Lagrangian trajectories driven by reanalysis meteorological fields are frequently used to study water vapor (H<sub>2</sub>O) in the stratosphere, in which the tropical cold-point temperatures regulate the amount of H<sub>2</sub>O entering the stratosphere. Therefore, the accuracy of temperatures in the tropical tropopause layer (TTL) is of great importance for understanding stratospheric H<sub>2</sub>O abundances. Currently, most reanalyses, such as the NASA MERRA (Modern Era Retrospective – analysis for Research and Applications), only provide temperatures with ~ 1.2 km vertical resolution in the TTL, which has been argued to miss finer vertical structure in the tropopause and therefore introduce uncertainties in our understanding of stratospheric H<sub>2</sub>O. In this paper, we quantify this uncertainty by comparing the Lagrangian trajectory prediction of H<sub>2</sub>O using MERRA temperatures on standard model levels (<i>traj.MER-T</i>) to those using GPS temperatures at finer vertical resolution (<i>traj.GPS-T</i>), and those using adjusted MERRA temperatures with finer vertical structures induced by waves (<i>traj.MER-Twave</i>). It turns out that by using temperatures with finer vertical structure in the tropopause, the trajectory model more realistically simulates the dehydration of air entering the stratosphere. But the effect on H<sub>2</sub>O abundances is relatively minor: compared with <i>traj.MER-T</i>, <i>traj.GPS-T</i> tends to dry air by ~ 0.1 ppmv, while <i>traj.MER-Twave</i> tends to dry air by 0.2–0.3 ppmv. Despite these differences in absolute values of predicted H<sub>2</sub>O and vertical dehydration patterns, there is virtually no difference in the interannual variability in different runs. Overall, we find that a tropopause temperature with finer vertical structure has limited impact on predicted stratospheric H<sub>2</sub>O.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>31</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>3517</first_page>
+            <last_page>3526</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Division of Atmospheric and Geospace Sciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000159</assertion>
+              </assertion>
+              <assertion name="award_number">NSF AGS-1261948</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX13AK25G</assertion>
+              <assertion name="award_number">NNX14AF15G</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-15-3517-2015</doi>
+            <resource>https://www.atmos-chem-phys.net/15/3517/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/15/3517/2015/acp-15-3517-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Andrews, D. G., Holton, J. R., and Leovy, C. B.: Middle Atmosphere Dynamics, Academic Press, Orlando, Florida, 489 pp., 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/BAMS-89-3-313</doi>
+              <unstructured_citation>Anthes, R. A., Ector, D., Hunt, D. C., Kuo, Y.-H., Rocken, C., Schreiner, W. S., Sokolovskiy, S. V., Syndergaard, S., Wee, T.-K., Zeng, Z., Bernhardt, P. A., Dymond, K. F., Chen, Y., Liu, H., Manning, K., Randel, W. J., Trenberth, K. E., Cucurull, L., Healy, S. B., Ho, S.-P., McCormick, C., Meehan, T. K., Thompson, D. C., and Yen, N. L.: The COSMIC/FORMOSAT-3 mission: Early results, B. Am. Meteorol. Soc., 89, 313–333, https://doi.org/10.1175/BAMS-89-3-313, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2005GL023109</doi>
+              <unstructured_citation>Beyerle, G., Schmidt, T., Michalak, G., Heise, S., Wickert, J., and Reigber, Ch.: GPS radio occultation with GRACE: Atmospheric profiling utilizing the zero difference technique, Geophys. Res. Lett., 32, L13806, https://doi.org/10.1029/2005GL023109, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/93JD02599</doi>
+              <unstructured_citation>Bowman, K. P.: Large-scale isentropic mixing properties of the Antarctic polar vortex from analyzed winds, J. Geophys. Res., 98, 23013–23027, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/BAMS-D-12-00076.1</doi>
+              <unstructured_citation>Bowman, K. P., Lin, J. C., Stohl, A., Draxler, R., Konopka, P., Andrews, A., and Brunner, D.: Input data requirements Lagrangian Trajectory Models, B. Am. Meteorol. Soc., 94, 1051–1058, https://doi.org/10.1175/BAMS-D-12-00076.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/qj.49707532603</doi>
+              <unstructured_citation>Brewer, A. W.: Evidence for a world circulation provided by the measurements of helium and water vapor distribution in the stratosphere, Q. J. Roy. Meteorol. Soc., 75, 351–363, 1949.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/amt-7-731-2014</doi>
+              <unstructured_citation>Das, U. and Pan, C. J.: Validation of FORMOSAT-3/COSMIC level 2 &amp;quot;atmPrf&amp;quot; global temperature data in the stratosphere, Atmos. Meas. Tech., 7, 731–742, https://doi.org/10.5194/amt-7-731-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/94GL02283</doi>
+              <unstructured_citation>Dessler, A. E., Weinstock, E. M., Hintsa, E. J., Anderson, J. G., Webster, C. R., May, R. D., Elkins, J. W., and Dutton, G. S.: An examination of the total hydrogen budget of the lower stratosphere, Geophys. Res. Lett., 21, 2563–2566, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1073/pnas.1310344110</doi>
+              <unstructured_citation>Dessler, A. E., Schoeberl, M. R., Wang, T., Davis, S. M., and Rosenlof, K. H.: Stratospheric water vapor feedback, P. Natl. Acad. Sci. USA, 110, 18087–18091, https://doi.org/10.1073/pnas.1310344110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/2014JD021712</doi>
+              <unstructured_citation>Dessler, A. E., Schoeberl, M. R., Wang, T., Davis, S. M., and Rosenlof, K. H., Vernier, J.-P.: Variations of Stratospheric Water Vapor Over the Past Three Decades, J. Geophys. Res., 119, 12588–12598, https://doi.org/10.1002/2014JD021712, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2006JD007953</doi>
+              <unstructured_citation>Fleming, E. L., Jackman, C. H., Weisenstein, D. K., and Ko, M. K. W.: The impact of interannual variability on multidecadal total ozone simulations, J. Geophys. Res., 112, D10310, https://doi.org/10.1029/2006JD007953, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2004JD005516</doi>
+              <unstructured_citation>Fueglistaler, S., Bonazzola, M., Haynes, P. H., and Peter, T.: Stratospheric water vapor predicted from the Lagrangian temperature history of air entering the stratosphere in the tropics, J. Geophys. Res., 110, D08107, https://doi.org/10.1029/2004JD005516, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2008RG000267</doi>
+              <unstructured_citation>Fueglistaler, S., Dessler, A. E., Dunkerton, T. J., Folkins, I., Fu, Q., and Mote, P. W.: The tropical tropopause layer, Rev. Geophys., 47, RG1004, https://doi.org/10.1029/2008RG000267, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.2151/jmsj.80.911</doi>
+              <unstructured_citation>Gettelman, A. and Forster, P. M. de F.: Definition and climatology of the tropical tropopause layer, J. Meteorol. Soc. Jpn., 80, 911–924, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1002/2014JD021846</doi>
+              <unstructured_citation>Gettelman, A. and Wang, T.: Structural diagnostics of the tropopause inversion layer and its evolution, J. Geophys. Res.-Atmos., 120, 46–62, https://doi.org/10.1002/2014JD021846, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2001GL013818</doi>
+              <unstructured_citation>Gettelman, A., Randel, W. J., Wu, F., and Massie, S. T.: Transport of water vapor in the tropical tropopause layer, Geophys. Res. Lett., 29, 9.1–9.4, https://doi.org/10.1029/2001GL013818, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2003JD003909</doi>
+              <unstructured_citation>Hajj, G. A., Ao, C. O., Iijima, B. A., Kuang, D., Kursinski, E. R., Mannucci, A. J., Meehan, T. K., Romans, L. J., de La Torre Juarez, M., and Yunck, T. P.: CHAMP and SAC-C atmospheric occultation results and intercomparisons, J. Geophys. Res., 109, D06109, https://doi.org/10.1029/2003JD003909, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.3319/TAO.2007.12.06.01(F3C)</doi>
+              <unstructured_citation>Ho, S.-P., Goldberg, M., Kuo, Y.-H., Zou, C.-Z., and Schreiner, W.: Calibration of temperature in the lower stratosphere from microwave measurements using COSMIC radio occultation data: Preliminary results, Terr. Atmos. Ocean. Sci., 20, 87–100, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2001GL013148</doi>
+              <unstructured_citation>Holton, J. R. and Gettelman, A.: Horizontal transport and the dehydration of the stratosphere, Geophys. Res. Lett., 28, 2799–2802, https://doi.org/10.1029/2001GL013148, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/95RG02097</doi>
+              <unstructured_citation>Holton, J. R., Haynes, P. H., McIntyre, M. E., Douglass, A. R., Rood, R. B., and Pfister, L.: Stratosphere-troposphere exchange, Rev. Geophys., 334, 405–439, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2003JD004022</doi>
+              <unstructured_citation>Jensen, E. and Pfister, L.: Transport and freeze-drying in the tropical tropopause layer, J. Geophys. Res., 109, D02207, https://doi.org/10.1029/2003JD004022, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/grl.50963</doi>
+              <unstructured_citation>Kim, J.-E. and Alexander, J. M.: A new wave scheme for trajectory simulations of stratospheric water vapor, Geophys. Res. Lett., 40, 5286–5290, https://doi.org/10.1002/grl.50963, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/2014GL062737</doi>
+              <unstructured_citation>Kim, J.-E. and Alexander, J. M.: Direct impacts of waves on tropical cold point tropopause temperature, Geophys. Res. Lett., online first, https://doi.org/10.1002/2014GL062737, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/97JD01569</doi>
+              <unstructured_citation>Kursinski, E. R., Hajj, G. A., Schofield, J. T., Linfield, R. P., and Hardy, K. R.: Observing Earth's atmosphere with radio occultation measurements using the Global Positioning System, J. Geophys. Res., 102, 23429–23465, https://doi.org/10.1029/97JD01569, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1029/2010JD014352</doi>
+              <unstructured_citation>Liu, Y. S., Fueglistaler, S., and Haynes, P. H.: Advection-condensation paradigm for stratospheric water vapor, J. Geophys. Res., 115, D24307, https://doi.org/10.1029/2010jd014352, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/95JD03422</doi>
+              <unstructured_citation>Mote, P. W., Rosenlof, K. H., McIntyre, M. E., Carr, E. S., Gille, J. C., Holton, J. R., Kinnersley, J. S., Pumphrey, H. C., Russell III, J. M., and Waters, J. W.: An atmospheric tape recorder: the imprint of tropical tropopause temperatures on stratospheric water vapor, J. Geophys. Res., 101, 3989–4006, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/2009JD012023</doi>
+              <unstructured_citation>Ploeger, F., Konopka, P., Günther, G., Grooß, J.-U., and Müller, R.: Impact of the vertical velocity scheme on modeling transport across the tropical tropopause layer, J. Geophys. Res., 115, D03301, https://doi.org/10.1029/2009JD012023, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/acp-11-407-2011</doi>
+              <unstructured_citation>Ploeger, F., Fueglistaler, S., Grooß, J.-U., Günther, G., Konopka, P., Liu, Y.S., Müller, R., Ravegnani, F., Schiller, C., Ulanovski, A., and Riese, M.: Insight from ozone and water vapour on transport in the tropical tropopause layer (TTL), Atmos. Chem. Phys., 11, 407–419, https://doi.org/10.5194/acp-11-407-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1038/ngeo1733</doi>
+              <unstructured_citation>Randel, W. J. and Jensen, E. J.: Physical processes in the tropical tropopause layer and their role in a changing climate, Nat. Geosci., 6, 169–176, https://doi.org/10.1038/ngeo1733, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/1520-0469(2004)061&lt;2133:ICOSWV&gt;2.0.CO;2</doi>
+              <unstructured_citation>Randel, W. J., Wu, F., Oltmans, S. J., Rosenlof, K. H., and Nedoluha, G. E.: Interannual Changes of Stratospheric Water Vapor and Correlations with Tropical Tropopause Temperatures, J. Atmos. Sci., 61, 2133–2148, https://doi.org/10.1175/1520-0469(2004)0612.0.CO;2, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/2005JD006744</doi>
+              <unstructured_citation>Randel, W. J., Wu, F., Vömel, H., Nedoluha, G. E., and Forster, P.: Decreases in stratospheric water vapor after 2001: Links to changes in the tropical tropopause and the Brewer-Dobson circulation, J. Geophys. Res., 111, D12312, https://doi.org/10.1029/2005JD006744, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Ray, E. A., Moore, F. L., Rosenlof, K. H., Davis, S. M., Sweeney, C., Tans, P., Wang, T., Elkins, J. W., Bönisch, H., Engel, A., Sugawara, S., Nakazawa, T., and Aoki, S.: Improving stratospheric transport trend analysis based on SF6 and CO2 measurements, J. Geophys. Res., 119, 14110–14128, https://doi.org/10.1002/2014JD021802, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/2007JD008752</doi>
+              <unstructured_citation>Read, W. G., Lambert, A., Backmeister, J., Cofield, R. E., Christensen, L. E., Cuddy, D. T., Daffer, W. H., Drouin, B. J., Fetzer, E., Froidevaux, L., Fuller, R., Herman, R., Jarnot, R. F., Jiang, J. H., Jiang, Y. B., Kelly, K., Knosp, B. W., Pumphrey, H. C., Rosenlof, K. H., Sabounchi, X., Santee, M. L., Schwartz, M. J., Snyder, W. V., Stek, P. C., Su, H., Takacs, L. L., Thurstans, R. P., Vomel, H., Wagner, P. A., Waters, J. W., Webster, C. R., Weinstock, E. M., and Wu, D. L.: Aura Microwave Limb Sounder upper tropospheric and lower stratospheric H2O and relative humidity with respect to ice validation, J. Geophys. Res., 112, D24S35, https://doi.org/10.1029/2007JD008752, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/JCLI-D-11-00015.1</doi>
+              <unstructured_citation>Rienecker, M. M., Suarez, M. J., Gelaro, R., Todling, R., Bacmeister, J., Liu, E., Bosilovich, M. G., Schubert, S. D., Takacs, L., Kim, G.-K., Bloom, S., Chen, J., Collins, D., Conaty, A., da Silva, A., Gu, W., Joiner, J., Koster, R. D., Lucchesi, R., Molod, A., Owens, T., Pawson, S., Pegion, P., Redder, C. R., Reichle, R., Robertson, F. R., Ruddick, A. G., Sienkiewicz, M., and Woollen, J.: MERRA – NASA's modern-era retrospective analysis for research and applications, J. Climate, 24, 3624–3648, https://doi.org/10.1175/JCLI-D-11-00015.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-11-8433-2011</doi>
+              <unstructured_citation>Schoeberl, M. R. and Dessler, A. E.: Dehydration of the stratosphere, Atmos. Chem. Phys., 11, 8433–8446, https://doi.org/10.5194/acp-11-8433-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2002JD002652</doi>
+              <unstructured_citation>Schoeberl, M. R., Douglass, A. R., Zhu, Z. X., and Pawson, S.: A comparison of the lower stratospheric age spectra derived from a general circulation model and two data assimilation systems, J. Geophys. Res., 108, 4113, https://doi.org/10.1029/2002JD002652, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/acp-12-6475-2012</doi>
+              <unstructured_citation>Schoeberl, M. R., Dessler, A. E., and Wang, T.: Simulation of stratospheric water vapor and trends using three reanalyses, Atmos. Chem. Phys., 12, 6475–6487, https://doi.org/10.5194/acp-12-6475-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/acp-13-7783-2013</doi>
+              <unstructured_citation>Schoeberl, M. R., Dessler, A. E., and Wang, T.: Modeling upper tropospheric and lower stratospheric water vapor anomalies, Atmos. Chem. Phys., 13, 7783–7793, https://doi.org/10.5194/acp-13-7783-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1002/2014EA000014</doi>
+              <unstructured_citation>Schoeberl, M. R., Dessler, A. E., Wang, T., Avery, M. A., and Jensen, E. J.: Cloud Formation, Convection, and Stratospheric Dehydration, Earth Space Sci., 1, 1–17, https://doi.org/10.1002/2014EA000014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1126/science.1182488</doi>
+              <unstructured_citation>Solomon, S., Rosenlof, K. H., Portmann, R. W., Daniel, J. S., Davis, S. M., Sanford, T. J., and Plattner, G.-K.: Contributions of stratospheric water vapor to decadal changes in the rate of global warming, Science, 327, 1219–1223, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-14-7135-2014</doi>
+              <unstructured_citation>Wang, T., Randel, W. J., Dessler, A. E., Schoeberl, M. R., and Kinnison, D. E.: Trajectory model simulations of ozone (O3) and carbon monoxide (CO) in the lower stratosphere, Atmos. Chem. Phys., 14, 7135–7147, https://doi.org/10.5194/acp-14-7135-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2001GL013117</doi>
+              <unstructured_citation>Wickert, J., Reigber, C., Beyerle, G., König, R., Marquardt, C., Schmidt, T., Grundwaldt, L., Galas, R., Meehan, T. K., Melbourne, W. G., and Hocke, K.: Atmosphere sounding by GPS radio occultation: First results from CHAMP, Geophys. Res. Lett., 28, 3263–3266, 2001.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

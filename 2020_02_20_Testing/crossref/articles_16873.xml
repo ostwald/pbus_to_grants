@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1155" timestamp="2017-06-23 13:08:43">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Advances in Meteorology</full_title>
+          <abbrev_title>Advances in Meteorology</abbrev_title>
+          <issn media_type="print">1687-9309</issn>
+          <issn media_type="electronic">1687-9317</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>2015</volume>
+          </journal_volume>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Using Adjoint-Based Forecast Sensitivity Method to Evaluate TAMDAR Data Impacts on Regional Forecasts</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Xiaoyan</given_name>
+              <surname>Zhang</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO 80301, USA</affiliation>
+              <affiliation>Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, MD 20740, USA</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hongli</given_name>
+              <surname>Wang</surname>
+              <affiliation>Cooperative Institutes for Research in the Atmosphere (CIRA), Colorado State University, Fort Collins, CO 80523, USA</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xiang-Yu</given_name>
+              <surname>Huang</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO 80301, USA</affiliation>
+              <affiliation>Centre for Climate Research Singapore, Meteorological Service Singapore, Singapore</affiliation>
+              <ORCID authenticated="true">http://orcid.org/0000-0003-2052-308X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Feng</given_name>
+              <surname>Gao</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO 80301, USA</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Neil A.</given_name>
+              <surname>Jacobs</surname>
+              <affiliation>Panasonic Avionics Corporation, Morrisville, NC 27560, USA</affiliation>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>This study evaluates the impact of Tropospheric Airborne Meteorological Data Reporting (TAMDAR) observations on regional 24-hour forecast error reduction over the Continental United States (CONUS) domain using adjoint-based forecast sensitivity to observation (FSO) method as the diagnostic tool. The relative impact of TAMDAR observations on reducing the forecast error was assessed by conducting the WRFDA FSO experiments for two two-week-long periods, one in January and one in June 2010. These experiments assimilated operational TAMDAR data and other conventional observations, as well as GPS refractivity (GPSREF). FSO results show that rawinsonde soundings (SOUND) and TAMDAR exhibit the largest observation impact on 24 h WRF forecast, followed by GeoAMV, aviation routine weather reports (METAR), GPSREF, and synoptic observations (SYNOP). At 0000 and 1200 UTC, TAMDAR has an equivalent impact to SOUND in reducing the 24-hour forecast error. However, at 1800 UTC, TAMDAR has a distinct advantage over SOUND, which has the sparse observation report at these times. In addition, TAMDAR humidity observations at lower levels of the atmosphere (700 and 850 hPa) have a significant impact on 24 h forecast error reductions. TAMDAR and SOUND observations present a qualitatively similar observation impact between FSO and Observation System Experiments (OSEs).</p>
+          </abstract>
+          <publication_date media_type="print">
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>1</first_page>
+            <last_page>13</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">427616</identifier>
+            <identifier id_type="other">427616</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="funder_name">
+              National Science Foundation
+              <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>http://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1155/2015/427616</doi>
+            <timestamp>20160727083423</timestamp>
+            <resource>http://www.hindawi.com/journals/amete/2015/427616/</resource>
+            <collection property="text-mining" setbyID="hindawi">
+              <item>
+                <resource mime_type="application/pdf">http://downloads.hindawi.com/journals/amete/2015/427616.pdf</resource>
+              </item>
+              <item>
+                <resource mime_type="application/xml">http://downloads.hindawi.com/journals/amete/2015/427616.xml</resource>
+              </item>
+            </collection>
+            <collection property="crawler-based" setbyID="hindawi">
+              <item crawler="google">
+                <resource>http://downloads.hindawi.com/journals/amete/2015/427616.pdf</resource>
+              </item>
+              <item crawler="msn">
+                <resource>http://downloads.hindawi.com/journals/amete/2015/427616.pdf</resource>
+              </item>
+              <item crawler="altavista">
+                <resource>http://downloads.hindawi.com/journals/amete/2015/427616.pdf</resource>
+              </item>
+              <item crawler="yahoo">
+                <resource>http://downloads.hindawi.com/journals/amete/2015/427616.pdf</resource>
+              </item>
+              <item crawler="scirus">
+                <resource>http://downloads.hindawi.com/journals/amete/2015/427616.pdf</resource>
+              </item>
+              <item crawler="iParadigms">
+                <resource>http://downloads.hindawi.com/journals/amete/2015/427616.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="12">
+              <doi>10.1175/waf-d-11-00120.1</doi>
+            </citation>
+            <citation key="22">
+              <doi>10.1175/2009WAF2222321.1</doi>
+            </citation>
+            <citation key="29">
+              <journal_title>Atmospheric and Oceanic Science Letters</journal_title>
+              <volume>5</volume>
+              <issue>3</issue>
+              <first_page>206</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1080/16742834.2012.11446995</doi>
+            </citation>
+            <citation key="4">
+              <doi>10.1175/1520-0493(2004)132x003C;0897:atvdasx0003e;2.0.co;2</doi>
+            </citation>
+            <citation key="16">
+              <doi>10.1175/2008mwr2577.1</doi>
+            </citation>
+            <citation key="5">
+              <doi>10.1175/bams-d-11-00167.1</doi>
+            </citation>
+            <citation key="7">
+              <doi>10.1002/qj.366</doi>
+            </citation>
+            <citation key="20">
+              <doi>10.1111/j.1600-0870.2004.00056.x</doi>
+            </citation>
+            <citation key="3">
+              <doi>10.1002/qj.49712656511</doi>
+            </citation>
+            <citation key="10">
+              <doi>10.1111/j.1600-0870.2006.00217.x</doi>
+            </citation>
+            <citation key="13">
+              <doi>10.1127/0941-2948/2007/0248</doi>
+            </citation>
+            <citation key="34">
+              <doi>10.1175/MWR3525.1</doi>
+            </citation>
+            <citation key="14">
+              <doi>10.1111/j.1600-0870.2008.00388.x</doi>
+            </citation>
+            <citation key="41">
+              <doi>10.1175/jtech-d-12-00213.1</doi>
+            </citation>
+            <citation key="1">
+              <cYear>2010</cYear>
+              <series_title>Lecture at WRFDA Tutorial</series_title>
+            </citation>
+            <citation key="18">
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>141</volume>
+              <first_page>4080</first_page>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="36">
+              <doi>10.1127/0941-2948/2007/0258</doi>
+            </citation>
+            <citation key="37">
+              <doi>10.1175/2008mwr2659.1</doi>
+            </citation>
+            <citation key="40">
+              <cYear>1996</cYear>
+              <series_title>Johns Hopkins University Press</series_title>
+            </citation>
+            <citation key="25">
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>120</volume>
+              <issue>8</issue>
+              <first_page>1747</first_page>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1992)120&lt;1747:TNMCSS&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="19">
+              <doi>10.1175/1520-0450(2004)043x003C;0170:tkcpaux0003e;2.0.co;2</doi>
+            </citation>
+            <citation key="15">
+              <doi>10.1175/MWR3199.1</doi>
+            </citation>
+            <citation key="32">
+              <doi>10.1175/1520-0434(2002)017&lt;0263:AISOFR&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="6">
+              <doi>10.1175/2009mwr3097.1</doi>
+            </citation>
+            <citation key="26">
+              <doi>10.1002/qj.49712252906</doi>
+            </citation>
+            <citation key="24">
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>55</volume>
+              <issue>4</issue>
+              <first_page>633</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1998)055&lt;0633:SVMAAO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="8">
+              <doi>10.1002/qj.693</doi>
+            </citation>
+            <citation key="38">
+              <journal_title>Quarterly Journal of The Royal Meteorological Society</journal_title>
+              <volume>112</volume>
+              <issue>474</issue>
+              <first_page>1177</first_page>
+              <cYear>1986</cYear>
+              <doi provider="crossref">10.1002/qj.49711247414</doi>
+            </citation>
+            <citation key="39">
+              <doi>10.1017/cbo9780511802270</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

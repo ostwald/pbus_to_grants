@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1145" timestamp="2017-06-23 18:20:17">
+    <crossref>
+      <conference>
+        <contributors>
+          <person_name sequence="first" contributor_role="chair">
+            <given_name>Jackie</given_name>
+            <surname>Kern</surname>
+            <affiliation>University of Illinois at Urbana-Champaign, Urbana, Illinois</affiliation>
+          </person_name>
+          <person_name sequence="additional" contributor_role="chair">
+            <given_name>Jeffrey S.</given_name>
+            <surname>Vetter</surname>
+            <affiliation>Oak Ridge National Laboratory and Georgia Institute of Technology, Oak Ridge, Tennessee</affiliation>
+          </person_name>
+        </contributors>
+        <event_metadata>
+          <conference_name>the International Conference for High Performance Computing, Networking, Storage and Analysis</conference_name>
+          <conference_acronym>SC '15</conference_acronym>
+          <conference_sponsor>IEEE-CS\DATC, IEEE Computer Society</conference_sponsor>
+          <conference_sponsor>ACM, Association for Computing Machinery</conference_sponsor>
+          <conference_sponsor>SIGARCH, ACM Special Interest Group on Computer Architecture</conference_sponsor>
+          <conference_sponsor>SIGHPC, ACM Special Interest Group on High Performance Computing, Special Interest Group on High Performance Computing</conference_sponsor>
+          <conference_number>2015</conference_number>
+          <conference_location>Austin, Texas</conference_location>
+          <conference_date start_month="11" start_year="2015" start_day="15" end_year="2015" end_month="11" end_day="20"/>
+        </event_metadata>
+        <proceedings_metadata language="en">
+          <proceedings_title>Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis on - SC '15</proceedings_title>
+          <publisher>
+            <publisher_name>ACM Press</publisher_name>
+            <publisher_place>New York, New York, USA</publisher_place>
+          </publisher>
+          <publication_date media_type="print">
+            <year>2015</year>
+          </publication_date>
+          <isbn media_type="print">9781450337236</isbn>
+          <doi_data>
+            <doi>10.1145/2807591</doi>
+            <timestamp>20160223081813</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=2807591</resource>
+          </doi_data>
+        </proceedings_metadata>
+        <conference_paper publication_type="full_text">
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Yong</given_name>
+              <surname>Hu</surname>
+              <affiliation>Tsinghua University, Beijing, China</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xiaomeng</given_name>
+              <surname>Huang</surname>
+              <affiliation>Tsinghua University, Beijing, China</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Allison H.</given_name>
+              <surname>Baker</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yu-heng</given_name>
+              <surname>Tseng</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frank O.</given_name>
+              <surname>Bryan</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John M.</given_name>
+              <surname>Dennis</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Guangwen</given_name>
+              <surname>Yang</surname>
+              <affiliation>Tsinghua University, Beijing, China</affiliation>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Improving the scalability of the ocean barotropic solver in the community earth system model</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>1</first_page>
+            <last_page>12</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Department of Energy
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000015</assertion>
+              </assertion>
+              <assertion name="award_number">DE-AC02-05CH11231</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">41375102</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">National Grand Fundamental Research 973 Program of China</assertion>
+              <assertion name="award_number">2014CB347800</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">National High Technology Development Program of China</assertion>
+              <assertion name="award_number">2011AA01A203</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2015-11-15">http://www.acm.org/publications/policies/copyright_policy#Background</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1145/2807591.2807596</doi>
+            <timestamp>20160223081813</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=2807591.2807596</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://dl.acm.org/ft_gateway.cfm?id=2807596&amp;amp;ftid=1632017&amp;amp;dwn=1</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="key-10.1145/2807591.2807596-1">
+              <unstructured_citation>
+                P. Adamidis, V. Heuveline, and F. Wilhelm.
+                <i>A high-efficient scalable solver for the global ocean/sea-ice model MPIOM.</i>
+                KIT, 2011.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-2">
+              <doi provider="crossref">10.1145/2600212.2600217</doi>
+              <unstructured_citation>
+                A. H. Baker, H. Xu, J. M. Dennis, M. N. Levy, D. Nychka, S. A. Mickelson, J. Edwards, M. Vertenstein, and A. Wegener. A methodology for evaluating the impact of data compression on climate simulation data. In
+                <i>Proceedings of the 23rd international symposium on High-performance parallel and distributed computing</i>
+                , pages 203--214. ACM, 2014.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-3">
+              <unstructured_citation>
+                M. Beare and D. Stevens. Optimisation of a parallel ocean general circulation model. In
+                <i>Annales Geophysicae</i>
+                , volume 15, pages 1369--1377. Springer, 1997.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-4">
+              <unstructured_citation>
+                M. Benzi. Preconditioning techniques for large linear systems: a survey.
+                <i>Journal of Computational Physics</i>
+                , 182(2):418--477, 2002.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-5">
+              <unstructured_citation>
+                L. Bergamaschi, G. Gambolati, and G. Pini. A numerical experimental study of inverse preconditioning for the parallel iterative solution to 3d finite element flow equations.
+                <i>Journal of Computational and Applied Mathematics</i>
+                , 210(1):64--70, 2007.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-6">
+              <unstructured_citation>
+                F. O. Bryan, R. Tomas, J. M. Dennis, D. B. Chelton, N. G. Loeb, and J. L. McClean. Frontal scale air-sea interaction in high-resolution coupled climate models.
+                <i>Journal of Climate</i>
+                , 23(23):6277--6291, 2010.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-7">
+              <unstructured_citation>
+                A. T. Chronopoulos and C. W. Gear. S-step iterative methods for symmetric linear systems.
+                <i>J. Comput. Appl. Math.</i>
+                , 25(2):153--168, Feb. 1989.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-8">
+              <unstructured_citation>
+                P. Concus, G. Golub, and G. Meurant. Block preconditioning for the conjugate gradient method.
+                <i>SIAM Journal on Scientific and Statistical Computing</i>
+                , 6(1):220--252, 1985.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-9">
+              <unstructured_citation>E. D'Azevedo, V. Eijkhout, and C. Romine. Conjugate gradient algorithms with reduced synchronization overhead on distributed memory multiprocessors. 1999.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-10">
+              <doi provider="crossref">10.1109/IPDPS.2007.370215</doi>
+              <unstructured_citation>
+                J. Dennis. Inverse space-filling curve partitioning of a global ocean model. In
+                <i>Parallel and Distributed Processing Symposium, 2007. IPDPS 2007. IEEE International</i>
+                , pages 1--10. IEEE, 2007.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-11">
+              <unstructured_citation>
+                J. Dennis, M. Vertenstein, P. Worley, A. Mirin, A. Craig, R. Jacob, and S. Mickelson. Computational performance of ultra-high-resolution capability in the community earth system model.
+                <i>International Journal of High Performance Computing Applications</i>
+                , 26(1):5--16, 2012.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-12">
+              <unstructured_citation>
+                J. M. Dennis and H. M. Tufo. Scaling climate simulation applications on the IBM Blue Gene/L system.
+                <i>IBM Journal of Research and Development</i>
+                , 52(1.2):117--126, jan. 2008.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-13">
+              <unstructured_citation>
+                D. E. Dietrich, M. Marietta, and P. J. Roache. An ocean modelling system with turbulent boundary layers and topography: Numerical description.
+                <i>International journal for numerical methods in fluids</i>
+                , 7(8):833--855, 1987.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-14">
+              <unstructured_citation>
+                K. B. Ferreira, P. Bridges, and R. Brightwell. Characterizing application sensitivity to OS interference using kernel-level noise injection. In
+                <i>Proceedings of SC Conference</i>
+                , pages 1--12. SC Conference, 2008. doi:10.1145/1413370.1413390.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-15">
+              <unstructured_citation>
+                S. R. Fulton, P. E. Ciesielski, and W. H. Schubert. Multigrid methods for elliptic problems: A review.
+                <i>Monthly Weather Review</i>
+                , 114(5):943--959, 1986.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-16">
+              <unstructured_citation>
+                P. Ghysels and W. Vanroose. Hiding global synchronization latency in the preconditioned conjugate gradient algorithm.
+                <i>Parallel Computing</i>
+                , 40(7):224--238, 2014.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-17">
+              <unstructured_citation>
+                T. Graham. The importance of eddy permitting model resolution for simulation of the heat budget of tropical instability waves.
+                <i>Ocean Modelling</i>
+                , 79:21--32, 2014.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-18">
+              <unstructured_citation>
+                M. Gutknecht and S. R&amp;#246;llin. The Chebyshev iteration revisited.
+                <i>Parallel Computing</i>
+                , 28(2):263--283, 2002.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-19">
+              <unstructured_citation>
+                M. Hoemmen.
+                <i>Communication-avoiding Krylov subpace methods.</i>
+                PhD thesis, University of California, Berkeley, 2010.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-20">
+              <doi provider="crossref">10.1007/978-3-642-40047-6_74</doi>
+              <unstructured_citation>
+                Y. Hu, X. Huang, X. Wang, H. Fu, S. Xu, H. Ruan, W. Xue, and G. Yang. A scalable barotropic mode solver for the parallel ocean program. In
+                <i>Euro-Par 2013 Parallel Processing</i>
+                , pages 739--750. Springer, 2013.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-21">
+              <unstructured_citation>
+                P. W. Jones, P. Worley, Y. Yoshida, and J. B. White III. Practical performance portability in the parallel ocean program (POP).
+                <i>Concurrency and Computation: Practice and Experience</i>
+                , 17:1317--1327, August 2005.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-22">
+              <unstructured_citation>
+                Y. Kanarska, A. Shchepetkin, and J. McWilliams. Algorithm for non-hydrostatic dynamics in the regional oceanic modeling system.
+                <i>Ocean Modelling</i>
+                , 18(3):143--174, 2007.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-23">
+              <unstructured_citation>
+                R. Loft, A. Andersen, F. Bryan, J. M. Dennis, T. Engel, P. Gillman, D. Hart, I. Elahi, S. Ghosh, R. Kelly, A. Kamrath, G. Pfister, M. Rempel, J. Small, W. Skamarock, M. Wiltberger, B. Shader, P. Chen, and B. Cash. Yellowstone: A dedicated resource for earth system science. In J. S. Vetter, editor,
+                <i>Contemporary High Performance Computing: From Petascale Toward Exascale, Volume Two</i>
+                , volume 2 of
+                <i>CRC Computational Science Series</i>
+                , page 262. Chapman and Hall/CRC, Boca Raton, 1 edition, 2015.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-24">
+              <unstructured_citation>
+                Y. Matsumura and H. Hasumi. A non-hydrostatic ocean model with a scalable multigrid poisson solver.
+                <i>Ocean Modelling</i>
+                , 24(1):15--28, 2008.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-25">
+              <unstructured_citation>
+                J. L. McClean, D. C. Bader, F. O. Bryan, M. E. Maltrud, J. M. Dennis, A. A. Mirin, P. W. Jones, Y. Y. Kim, D. P. Ivanova, M. Vertenstein, et al. A prototype two-decade fully-coupled fine-resolution CCSM simulation.
+                <i>Ocean Modelling</i>
+                , 39(1):10--30, 2011.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-26">
+              <unstructured_citation>
+                P. D. Meyer, A. J. Valocchi, S. F. Ashby, and P. E. Saylor. A numerical investigation of the conjugate gradient method as applied to three-dimensional groundwater flow problems in randomly heterogeneous porous media.
+                <i>Water Resources Research</i>
+                , 25(6):1440--1446, 1989.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-27">
+              <unstructured_citation>
+                E. H. M&amp;#252;ller and R. Scheichl. Massively parallel solvers for elliptic partial differential equations in numerical weather and climate prediction.
+                <i>Quarterly Journal of the Royal Meteorological Society</i>
+                , 140(685):2608--2624, 2014.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-28">
+              <unstructured_citation>
+                C. Paige. Accuracy and effectiveness of the lanczos algorithm for the symmetric eigenproblem.
+                <i>Linear Algebra and its Applications</i>
+                , 34(0):235--258, 1980.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-29">
+              <unstructured_citation>
+                G. Pini and G. Gambolati. Is a simple diagonal scaling the best preconditioner for conjugate gradients on supercomputers?
+                <i>Advances in Water Resources</i>
+                , 13(3):147--153, 1990.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-30">
+              <unstructured_citation>
+                R. S. Reddy and M. M. Kumar. Comparison of conjugate gradient methods and strongly implicit procedure for groundwater flow simulation.
+                <i>Journal of the Indian Institute of Science</i>
+                , 75(6):667, 2013.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-31">
+              <unstructured_citation>
+                P. J. Roache.
+                <i>Elliptic marching methods and domain decomposition</i>
+                , volume 5. CRC press, 1995.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-32">
+              <unstructured_citation>
+                J. Sheng, D. G. Wright, R. J. Greatbatch, and D. E. Dietrich. Candie: A new version of the diecast ocean circulation model.
+                <i>Journal of Atmospheric and Oceanic Technology</i>
+                , 15(6):1414--1432, 1998.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-33">
+              <unstructured_citation>
+                R. Smith, J. Dukowicz, and R. Malone. Parallel ocean general circulation modeling.
+                <i>Physica D: Nonlinear Phenomena</i>
+                , 60(1):38--61, 1992.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-34">
+              <unstructured_citation>R. Smith, P. Jones, B. Briegleb, F. Bryan, G. Danabasoglu, J. Dennis, J. Dukowicz, C. E. B. Fox-Kemper, P. Gent, M. Hecht, et al. The parallel ocean program (POP) reference manual ocean component of the community climate system model (CCSM). 2010.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-35">
+              <unstructured_citation>T. Stocker, D. Qin, G. Plattner, M. Tignor, S. Allen, J. Boschung, A. Nauels, Y. Xia, B. Bex, and B. Midgley. IPCC, 2013: Climate change 2013: the physical science basis. contribution of working group I to the fifth assessment report of the Intergovernmental Panel on Climate Change. 2013.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-36">
+              <unstructured_citation>
+                K. St&amp;#252;ben. A review of algebraic multigrid.
+                <i>Journal of Computational and Applied Mathematics</i>
+                , 128(1):281--309, 2001.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-37">
+              <unstructured_citation>
+                Y.-h. Tseng and M.-h. Chien. Parallel domain-decomposed Taiwan multi-scale community ocean model (pd-timcom).
+                <i>Computers &amp;#38; Fluids</i>
+                , 45(1):77--83, 2011.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-38">
+              <unstructured_citation>
+                Y.-h. Tseng and J. H. Ferziger. A ghost-cell immersed boundary method for flow in complex geometry.
+                <i>Journal of computational physics</i>
+                , 192(2):593--623, 2003.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-39">
+              <unstructured_citation>D. Wang, A. Bhatele, and D. Ghosal. Performance variability due to job placement on edison. Poster presented at SC14, Nov 16--21, New Orleans.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-40">
+              <unstructured_citation>
+                J. A. White and R. I. Borja. Block-preconditioned newton--krylov solvers for fully coupled flow and geomechanics.
+                <i>Computational Geosciences</i>
+                , 15(4):647--659, 2011.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-41">
+              <doi provider="crossref">10.1145/2063384.2063457</doi>
+              <unstructured_citation>
+                P. H. Worley, A. A. Mirin, A. P. Craig, M. A. Taylor, J. M. Dennis, and M. Vertenstein. Performance of the community earth system model. In
+                <i>Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis</i>
+                , SC '11, pages 54:1--54:11, New York, NY, USA, 2011. ACM.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2807591.2807596-42">
+              <unstructured_citation>Yellowstone workload study, v4.1. https://www2.cisl.ucar.edu/NWSC-2, September 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-11-29 09:22:34">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>18</volume>
+          </journal_volume>
+          <issue>23</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Microphysical characteristics of frozen droplet aggregates from deep convective clouds</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Junshik</given_name>
+              <surname>Um</surname>
+              <ORCID>https://orcid.org/0000-0002-7886-9043</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Greg M.</given_name>
+              <surname>McFarquhar</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey L.</given_name>
+              <surname>Stith</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chang Hoon</given_name>
+              <surname>Jung</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Seoung Soo</given_name>
+              <surname>Lee</surname>
+              <ORCID>https://orcid.org/0000-0001-8405-170X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ji Yi</given_name>
+              <surname>Lee</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Younghwan</given_name>
+              <surname>Shin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yun Gon</given_name>
+              <surname>Lee</surname>
+              <ORCID>https://orcid.org/0000-0002-1187-6206</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yiseok Isaac</given_name>
+              <surname>Yang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Seong Soo</given_name>
+              <surname>Yum</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Byung-Gon</given_name>
+              <surname>Kim</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joo Wan</given_name>
+              <surname>Cha</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A-Reum</given_name>
+              <surname>Ko</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> During the 2012 Deep Convective Clouds and Chemistry
+(DC3) experiment the National Science Foundation/National Center for
+Atmospheric Research Gulfstream V (GV) aircraft sampled the upper anvils of
+two storms that developed in eastern Colorado on 6 June 2012. A cloud
+particle imager (CPI) mounted on the GV aircraft recorded images of ice
+crystals at altitudes of 12.0 to 12.4<span class="thinspace"></span>km and temperatures (<span class="inline-formula"><i>T</i></span>) from <span class="inline-formula">−61</span> to <span class="inline-formula">−</span>55<span class="thinspace"></span><span class="inline-formula"><sup>∘</sup></span>C.
+A total of 22<span class="thinspace"></span>393 CPI crystal images were analyzed, all with maximum
+dimension (<span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M5" display="inline" overflow="scroll" dspmath="mathml"><mrow><msub><mi>D</mi><mo>max⁡</mo></msub><mo>)</mo><mo>&amp;lt;</mo><mn mathvariant="normal">433</mn></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="60pt" height="13pt" class="svg-formula" dspmath="mathimg" md5hash="1fec6f0a893bea878a52c005deb30b1b"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="acp-18-16915-2018-ie00001.svg" width="60pt" height="13pt" src="acp-18-16915-2018-ie00001.png"/></svg:svg></span></span><span class="thinspace"></span><span class="inline-formula">µ</span>m and with an average <span class="inline-formula"><i>D</i><sub>max⁡</sub></span> of
+<span class="inline-formula">80.7±45.4</span><span class="thinspace"></span><span class="inline-formula">µ</span>m. The occurrence of well-defined pristine crystals
+(e.g., columns and plates) was less than 0.04<span class="thinspace"></span>% by number. Single frozen
+droplets and frozen droplet aggregates (FDAs) were the dominant habits with
+fractions of 73.0<span class="thinspace"></span>% (by number) and 46.3<span class="thinspace"></span>% (by projected area),
+respectively. The relative frequency of occurrence of single frozen droplets
+and FDAs depended on temperature and position within the anvil cloud.</p> <p>A new algorithm that uses the circle Hough transform technique was developed
+to automatically identify the number, size, and relative position of element
+frozen droplets within FDAs. Of the FDAs, 42.0<span class="thinspace"></span>% had two element frozen
+droplets with an average of <span class="inline-formula">4.7±5.0</span> element frozen droplets. The
+frequency of occurrence gradually decreased with the number of element frozen
+droplets. Based on the number, size, and relative position of the element
+frozen droplets within the FDAs, possible three-dimensional (3-D)
+realizations of FDAs were generated and characterized by two different shape
+parameters, the aggregation index (AI) and the fractal dimension (<span class="inline-formula"><i>D</i><sub>f</sub></span>),
+that describe 3-D shapes and link to scattering properties with an
+assumption of spherical shape of element frozen droplets. The AI of FDAs
+decreased with an increase in the number of element frozen droplets, with
+larger FDAs with more element frozen droplets having more compact shapes.
+The <span class="inline-formula"><i>D</i><sub>f</sub></span> of FDAs was about 1.20–1.43 smaller than that of black carbon
+(BC) aggregates (1.53–1.85) determined in previous studies. Such a smaller
+<span class="inline-formula"><i>D</i><sub>f</sub></span> of FDAs indicates that FDAs have more linear chain-like branched
+shapes than the compact shapes of BC aggregates. Determined morphological
+characteristics of FDAs along with the proposed reconstructed 3-D
+representations of FDAs<span id="page16916"/> in this study have important implications for
+improving the calculations of the microphysical (e.g., fall velocity) and radiative
+(e.g., asymmetry parameter) properties of ice crystals in upper anvil
+clouds.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>29</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>16915</first_page>
+            <last_page>16930</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">AGS 12-13311</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-18-16915-2018</doi>
+            <resource>https://www.atmos-chem-phys.net/18/16915/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/18/16915/2018/acp-18-16915-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Albanesi, M. G. and Ferretti, M.: A space saving approach to the Hough
+transform, 10th Int. Conf. on Pattern Recognition, Atlantic City, NJ, USA,
+https://doi.org/10.1109/ICPR.1990.119403, 1990. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1016/S0262-8856(98)00160-7</doi>
+              <unstructured_citation>Atherton, T. J. and Kerbyson, D. J.: Size invariant circle detection, Image
+Vision Comput, 17, 795–803, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/1520-0469(2004)061&lt;0514:GRAHOI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bailey, M. P. and Hallett, J.: Growth rates and habits of ice crystals
+between −20&amp;amp;thinsp;∘C and −70&amp;amp;thinsp;∘C, J. Atmos. Sci., 61,
+514–544, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/2009JAS2883.1</doi>
+              <unstructured_citation>Bailey, M. P. and Hallett, J.: A comprehensive habit diagram for atmospheric
+ice crystals: Confirmation from the laboratory, AIRS II, and other field
+studies, J. Atmos. Sci., 66, 2888–2899, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/acp-12-9355-2012</doi>
+              <unstructured_citation>Baran, A. J., Gayet, J.-F., and Shcherbakov, V.: On the interpretation of an
+unusual in-situ measured ice crystal scattering phase function, Atmos. Chem.
+Phys., 12, 9355–9364, https://doi.org/10.5194/acp-12-9355-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/BAMS-D-13-00290.1</doi>
+              <unstructured_citation>Barth, M. C., Cantrell, C. A., Brune, W. H., Rutledge, S. A., Crawford, J.
+H., Huntrieser, H., Carey, L. D., MacGorman, D., Weisman, M., Pickering, K.
+E., Bruning, E., Anderson, B., Apel, E., Biggerstaff, M., Campos, T.,
+Campuzano-Jost, P., Cohen, R., Crounse, J., Day, D. A., Diskin, G., Flocke,
+F., Fried, A., Garland, C., Heikes, B., Honomichi, S., Hornbrook, R., Huey,
+L. G., Jimenez, J., Lang, T., Lichtenstern, M., Mikoviny, T., Nault, B.,
+O'Sullivan, D., Pan, L., Peischl, J., Pollack, I., Richter, D., Riemer, D.,
+Ryerson, T., Schlager, H., St. Clair, J., Walega, J., Weibring, P.,
+Weinheimer, A., Wennberg, P., Wisthaler, A., Wooldridge, P., and Zeigler, C.:
+The Deep Convective clouds and Chemistry (DC3) Field Campaign, B. Am.
+Meteorol. Soc., 96, 1281–1309, https://doi.org/10.1175/BAMS-D-13-00290.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1080/02786826.2014.932896</doi>
+              <unstructured_citation>Bescond, A., Yon, J., Ouf, F. X., Ferry, D., Delhaye, D., Gaffié, D.,
+Coppalle, A., and Rozé, C.: Automated determination of aggregate primary
+particle size distribution by TEM image analysis: Application to soot,
+Aerosol Sci. Tech., 48, 831–841, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1038/ngeo2398</doi>
+              <unstructured_citation>Bony, S., Stevens, B., Frierson, D. M. W., Jakob, C., Kageyama, M., Pincus,
+R., Shepherd, T. G., Sherwood, S. C., Siebesma, A. P., Sobel, A. H.,
+Watanabe, M., and Webb, M. J.: Clouds, circulation and climate sensitivity,
+Nat. Geosci., 8, 261–268, https://doi.org/10.1038/ngeo2398, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1073/pnas.1601472113</doi>
+              <unstructured_citation>Bony, S., Stevens, B., Coppin, D., Becker, T., Reed, K. A., Voigt, A., and
+Medeiros, B.: Thermodynamic control of anvil cloud amount, P. Natl. Acad.
+Sci. USA, 113, 8927–8932, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2005JD006659</doi>
+              <unstructured_citation>Chakrabarty, R. K., Moosmüller, H., Garro, M. A., Arnott, W. P., Walker,
+J., Susott, R. A., Babbitt, R. E., Wold, C. E., Lincoln, E. N., and Hao, W.
+M.: Emissions from the laboratory combustion of wildland fuels: Particle
+morphology and size, J. Geophys. Res., 111, D07204, https://doi.org/10.1029/2005JD006659,
+2006. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1038/ncomms3122</doi>
+              <unstructured_citation>China, S., Mazzoleni, C., Gorkowski, K., Aiken, A. C., and Dubey, M. K.:
+Morphology and mixing state of individual freshly emitted wildfire
+carbonaceous particles, Nat. Commun, 4, 2122, https://doi.org/10.1038/ncomms3122, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1256/qj.03.217</doi>
+              <unstructured_citation>Connolly, P. J., Saunders, C. P. R., Gallagher, M. W., Bower, K. N., Flynn,
+M. J., Choularton, T. W., Whiteway, J., and Lawson, R. P.: Aircraft
+observations of the influence of electric fields on the aggregation of ice
+crystals, Q. J. Roy. Meteor. Soc., 131, 1695–1712, https://doi.org/10.1256/qj.03.217,
+2005. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/JTECH2096.1</doi>
+              <unstructured_citation>Conolly, P. J., Flynn, M. J., Ulanowski, Z., Choularton, T. W., Gallagher, M.
+W., and Bower, K. N.: Calibration of cloud particle imager probes using
+calibration beads and ice crystal analogs: The depth of field, J. Atmos.
+Ocean. Tech., 24, 1860–1879, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-9-6775-2009</doi>
+              <unstructured_citation>de Reus, M., Borrmann, S., Bansemer, A., Heymsfield, A. J., Weigel, R.,
+Schiller, C., Mitev, V., Frey, W., Kunkel, D., Kürten, A., Curtius, J.,
+Sitnikov, N. M., Ulanovsky, A., and Ravegnani, F.: Evidence for ice particles
+in the tropical stratosphere from in-situ measurements, Atmos. Chem. Phys.,
+9, 6775–6792, https://doi.org/10.5194/acp-9-6775-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1145/361237.361242</doi>
+              <unstructured_citation>Duda, R. O. and Hart, P. E.: Use of the Hough transformation to detect lines
+and curves in pictures, Communication of the ACM, 15, 11–15, 1972. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2011JD016451</doi>
+              <unstructured_citation>Feng, Z., Dong, X., Xi, B., Schumacher, C., Minnis, P., and Khaiyer, M.:
+Top-of-atmosphere radiation budget of convective core/stratiform rain and
+anvil clouds from deep convective systems, J. Geophys. Res., 116, D23202,
+https://doi.org/10.1029/2011JD016451, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2012JD018362</doi>
+              <unstructured_citation>Feng, Z., Dong, X., Xi, B., McFarlane, S. A., Kennedy, A., Lin, B., and
+Minnis, P.: Life cycle of midlatitude deep convective systems in a Lagrangian
+framework, J. Geophys. Res., 117, D23201, https://doi.org/10.1029/2012JD018362, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/1520-0426(2003)020&lt;0249:IPITMW&gt;2.0.CO;2</doi>
+              <unstructured_citation>Field, P. R., Wood, R., Brown, P. R. A., Kay, P. H., Hirst, E., Greenaway,
+R., and Smith, J. A.: Ice Particle Interarrival Times Measured with a Fast
+FSSP, J. Atmos. Ocean. Tech., 20, 249–261, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/JTECH1922.1</doi>
+              <unstructured_citation>Field, P. R., Heymsfield, A. J., and Bansemer, A.: Shattering and particle
+interarrival times measured by optical array probes in ice clouds, J. Atmos.
+Ocean. Tech., 23, 1357–1371, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-11-5569-2011</doi>
+              <unstructured_citation>Frey, W., Borrmann, S., Kunkel, D., Weigel, R., de Reus, M., Schlager, H.,
+Roiger, A., Voigt, C., Hoor, P., Curtius, J., Krämer, M., Schiller, C.,
+Volk, C. M., Homan, C. D., Fierli, F., Di Donfrancesco, G., Ulanovsky, A.,
+Ravegnani, F., Sitnikov, N. M., Viciani, S., D'Amato, F., Shur, G. N.,
+Belyaev, G. V., Law, K. S., and Cairo, F.: In situ measurements of tropical
+cloud properties in the West African Monsoon: upper tropospheric ice clouds,
+Mesoscale Convective System outflow, and subvisual cirrus, Atmos. Chem.
+Phys., 11, 5569–5590, https://doi.org/10.5194/acp-11-5569-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-15-6467-2015</doi>
+              <unstructured_citation>Frey, W., Schofield, R., Hoor, P., Kunkel, D., Ravegnani, F., Ulanovsky, A.,
+Viciani, S., D'Amato, F., and Lane, T. P.: The impact of overshooting deep
+convection on local transport and mixing in the tropical upper
+troposphere/lower stratosphere (UTLS), Atmos. Chem. Phys., 15, 6467–6486,
+https://doi.org/10.5194/acp-15-6467-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/1520-0469(1995)052&lt;1310:IORACI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Fu, Q., Krueger, S., and Liou, K.: Interactions of radiation and convection
+in simulated tropical cloud clusters, J. Atmos. Sci., 52, 1310–1328, 1995. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1256/qj.03.138</doi>
+              <unstructured_citation>Gallagher, M. W., Connolly, P. J., Whiteway, J., Figueras-Nieto, D., Flynn,
+M., Choularton, T. W., Bower, K. N., Cook, C., Busen, R., and Hacker, J.: An
+overview of the microphysical structure of cirrus clouds observed during
+EMERALD-1, Q. J. Roy. Meteor. Soc., 131, 1143–1169, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-12-6609-2012</doi>
+              <unstructured_citation>Gallagher, M. W., Connolly, P. J., Crawford, I., Heymsfield, A., Bower, K.
+N., Choularton, T. W., Allen, G., Flynn, M. J., Vaughan, G., and Hacker, J.:
+Observations and modelling of microphysical variability, aggregation and
+sedimentation in tropical anvil cirrus outflow regions, Atmos. Chem. Phys.,
+12, 6609–6628, https://doi.org/10.5194/acp-12-6609-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-12-727-2012</doi>
+              <unstructured_citation>Gayet, J.-F., Mioche, G., Bugliaro, L., Protat, A., Minikin, A., Wirth, M.,
+Dörnbrack, A., Shcherbakov, V., Mayer, B., Garnier, A., and Gourbeyre,
+C.: On the observation of unusual high concentration of small chain-like
+aggregate ice crystals and large ice water contents near the top of a deep
+convective cloud during the CIRCLE-2 experiment, Atmos. Chem. Phys., 12,
+727–744, https://doi.org/10.5194/acp-12-727-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1073/pnas.1610455113</doi>
+              <unstructured_citation>Hartmann, D. L.: Tropical anvil clouds and climate sensitivity, P. Natl.
+Acad. Sci. USA, 113, 8897–8899, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1002/2017JD026460</doi>
+              <unstructured_citation>Hartmann, D. L. and Berry, S. E.: The balanced radiative effect of tropical
+anvil clouds, J. Geophys. Res.-Atmos., 122, 5003–5020,
+https://doi.org/10.1002/2017JD026460, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1364/OL.41.000808</doi>
+              <unstructured_citation>Heinson, W. R. and Chakrabarty, R. K.: Fractal morphology of black carbon
+aerosol enhances absorption in the thermal infrared wavelengths, Opt. Lett.,
+41, 808–811, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1016/j.jcis.2012.01.062</doi>
+              <unstructured_citation>Heinson, W. R., Sorensen, C. M., and Chakrabarti, A.: A three parameter
+description of the structure of diffusion limited cluster fractal aggregates,
+J. Colloid Interf. Sci., 375, 65–69, https://doi.org/10.1016/j.jcis.2012.01.062, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/1520-0469(1986)043&lt;2463:IPEITA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Heymsfield, A. J.: Ice particle evolution in the anvil of a severe
+thunderstorm during CCOPE, J. Atmos. Sci., 43, 2463–2478, 1986. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/1520-0469(1989)046&lt;2252:CCNBHF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Heymsfield, A. J. and Sabin, R. M.: Cirrus crystal nucleation by homogeneous
+freezing of solution droplets, J. Atmos. Sci., 46, 2252–2264, 1989. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/JAS-3360.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Miloshevich, L., Schmitt, C., Bansemer, A., Twohy, C.,
+Poellot, M., Fridlind, A., and Gerber, H.: Homogeneous ice nucleation in
+subtropical and tropical convection and its influence on cirrus anvil
+microphysics, J. Atmos. Sci., 62, 41–64, https://doi.org/10.1175/JAS-3360.1, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/2009JAS3107.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Bansemer, A., Heymsfield, G., and Fierro, A. O.:
+Microphysics of maritime tropical convective updrafts at temperatures from
+−20 to −60&amp;amp;thinsp;∘C, J. Atmos. Sci., 66, 3530–3562, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1002/2013JD020931</doi>
+              <unstructured_citation>Homeyer, C. R., Pan, L. L., and Barth, M. C.: Transport from convective
+overshooting of the extratropical tropopause and the role of large-scale
+lower stratosphere stability, J. Geophys. Res.-Atmos., 119, 2220–2240,
+https://doi.org/10.1002/2013JD020931, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Hough, P. V. C.: Method and means for recognizing complex patterns,
+18 December, U.S. Patent 3.069.654, 1962. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/JTECH-D-14-00018.1</doi>
+              <unstructured_citation>Jackson, R. C. and McFarquhar, G. M.: An Assessment of the Impact of
+Antishattering Tips and Artifact Removal Techniques on Bulk Cloud Ice
+Microphysical and Optical Properties Measured by the 2D Cloud Probe, J.
+Atmos. Ocean. Tech., 30, 2131–2144, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Jackson, R. C., McFarquhar, G. M., Stith, J., Beals, M., Shaw, R. A., Jensen,
+J., Fugal, J., and Korolev, A.: An Assessment of the Impact of Antishattering
+Tips and Artifact Removal Techniques on Cloud Ice Size Distributions Measured
+by the 2D Cloud Probe, J. Atmos. Ocean. Tech., 31, 2576–2590, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/JAS-D-15-0365.1</doi>
+              <unstructured_citation>Järvinen, E., Schnaiter, M., Mioche, G., Jourdan, O., Shcherbakov, V. N.,
+Costa, A., Afchine, A., Krämer, M., Heidelberg, F., Jurkat, T., Voigt,
+C., Schlager, H., Nichman, L., Gallagher, M., Hirst, E., Schmitt, C.,
+Bansemer, A., Heymsfield, A., Lawson, P., Tricoli, U., Pfeilsticker, K.,
+Vochezer, P., Möhler, O., and Leisner, T.: Quasi-Spherical Ice in
+Convective Clouds, J. Atmos. Sci., 73, 3885–3910,
+https://doi.org/10.1175/JAS-D-15-0365.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/95JD03575</doi>
+              <unstructured_citation>Jensen, E. J., Toon, O. B., Selkirk, H. B., Spinhirne, J. D., and Schoeberl,
+M. R.: On the formation and persistence of subvisible cirrus clouds near the
+tropical tropopause, J. Geophys. Res., 101, 21361–21375,
+https://doi.org/10.1029/95JD03575, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-9-5519-2009</doi>
+              <unstructured_citation>Jensen, E. J., Lawson, P., Baker, B., Pilson, B., Mo, Q., Heymsfield, A. J.,
+Bansemer, A., Bui, T. P., McGill, M., Hlavka, D., Heymsfield, G., Platnick,
+S., Arnold, G. T., and Tanelli, S.: On the importance of small ice crystals
+in tropical anvil cirrus, Atmos. Chem. Phys., 9, 5519–5537,
+https://doi.org/10.5194/acp-9-5519-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/BAMS-D-14-00228.1</doi>
+              <unstructured_citation>Jensen, M. P., Petersen, W. A., Bansemer, A., Bharadwaj, N., Carey, L. D.,
+Cecil, D. J., Collis, S. M., Del Genio, A. D., Dolan, B., Gerlach, J.,
+Giangrande, S. E., Heymsfield, A., Heymsfield, G., Kollias, P., Lang, T. J.,
+Nesbitt, S. W., Neumann, A., Poellot, M., Rutledge, S. A., Schwaller, M.,
+Tokay, A., Williams, C. R., Wolff, D. B., Xie, S., and Zipser, E. J.: The
+Midlatitude Continental Convective Clouds Experiment (MC3E), B. Am. Meteorol.
+Soc., 97, 1667–1686, https://doi.org/10.1175/BAMS-D-14-00228.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1103/PhysRevLett.51.1123</doi>
+              <unstructured_citation>Kolb, M., Botet, R., and Jullien, R.: Scaling of kinetically growing
+clusters, Phys. Rev. Lett., 51, 1123–1126, 1983. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/amt-8-761-2015</doi>
+              <unstructured_citation>Korolev, A. and Field, P. R.: Assessment of the performance of the
+inter-arrival time algorithm to identify ice shattering artifacts in cloud
+particle probe measurements, Atmos. Meas. Tech., 8, 761–777,
+https://doi.org/10.5194/amt-8-761-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/2010BAMS3141.1</doi>
+              <unstructured_citation>Korolev, A. V., Emery, E. F., Strapp, J. W., Cober, S. G., Isaac, G. A.,
+Wasey, M., and Marcotte, D.: Small Ice Particles in Tropospheric Clouds: Fact
+or Artifact?, B. Am. Meteorol. Soc., 92, 967–973, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1016/0010-2180(94)00147-K</doi>
+              <unstructured_citation>Köylü, Ü. Ö., Faeth, G. M., Farias, T. L., and Carvalho, M.
+G.: Fractal and projected structure properties of soot aggregates, Combust.
+Flame, 100, 621–623, 1995. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1016/j.jcis.2003.07.028</doi>
+              <unstructured_citation>Lattuada, M., Wu, H., and Morbidelli, M.: Hydrodynamic radius of fractal
+clusters, J. Colloid. Interf. Sci., 268, 96–105, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/amt-4-1361-2011</doi>
+              <unstructured_citation>Lawson, R. P.: Effects of ice particles shattering on the 2D-S probe, Atmos.
+Meas. Tech., 4, 1361–1381, https://doi.org/10.5194/amt-4-1361-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Lawson, R. P., Baker, B. A., and Pilson, B. L.: In-Situ measurements of
+microphysical properties of mid-latitude and anvil cirrus, Proceedings, 30th
+International Symposium on Remote Sensing of Environment, November, Honolulu,
+Hawaii, 707–710, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2009JD013017</doi>
+              <unstructured_citation>Lawson, R. P., Jensen, E., Mitchell, D. L., Baker, B., Mo, Q., and Pilson,
+B.: Microphysical and radiative properties of tropical clouds investigated in
+TC4 and NAMMA, J. Geophys. Res., 115, D00J08, https://doi.org/10.1029/2009JD013017, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-9-8949-2009</doi>
+              <unstructured_citation>Lewis, K. A., Arnott, W. P., Moosmüller, H., Chakrabarty, R. K., Carrico,
+C. M., Kreidenweis, S. M., Day, D. E., Malm, W. C., Laskin, A., Jimenez, J.
+L., Ulbrich, I. M., Huffman, J. A., Onasch, T. B., Trimborn, A., Liu, L., and
+Mishchenko, M. I.: Reduction in biomass burning aerosol light absorption upon
+humidification: roles of inorganically-induced hygroscopicity, particle
+collapse, and photoacoustic heat and mass transfer, Atmos. Chem. Phys., 9,
+8949–8966, https://doi.org/10.5194/acp-9-8949-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Li, H., Lavin, M. A., and Le Master, R. J.: Fast Hough transform: A
+hierarchical approach, Lect. Notes Comput. Sc., 36, 139–161, 1986. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1175/1520-0469(1988)045&lt;1594:COD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lilly, D. K.: Cirrus outflow dynamics, J. Atmos. Sci., 45, 1594–1605, 1988. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1016/j.jqsrt.2008.05.001</doi>
+              <unstructured_citation>Liu, L., Mishchenko, M. I., and Arnott, W. P.: A study of radiative
+properties of fractal soot aggregates using the superposition T-matrix
+method, J. Quant. Spectrosc. Ra., 109, 2656–2663, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Mandelbrot, B.: The Fractal Geometry of Nature, W. H. Freeman and Company,
+New York, 468 pp., 1982. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1175/BAMS-89-5-629</doi>
+              <unstructured_citation>May, P. T., Mather, J. H., Vaughan, G., Jakob, C., McFarquhar, G. M., Bower,
+K. N., and Mace, G. G.: The tropical warm pool international cloud
+experiment, B. Am. Meteorol. Soc., 89, 629–645, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1175/1520-0469(1996)053&lt;2401:MCOTAS&gt;2.0.CO;2</doi>
+              <unstructured_citation>McFarquhar, G. M. and Heymsfield, A. J.: Microphysical characteristics of
+three anvils sampled during the Central Equatorial Pacific Experiment, J.
+Atmos. Sci., 53, 2401–2423, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1029/1999JD900802</doi>
+              <unstructured_citation>McFarquhar, G. M., Heymsfield, A. J., Macke, A., Iaquinta, J., and Aulenbach,
+S. M.: Use of observed ice crystal sizes and shapes to calculate
+mean-scattering properties and multispectral radiances: CEPEX April 4, 1993,
+case study, J. Geophys. Res., 104, 31763–31779, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;2458:ANPOSS&gt;2.0.CO;2</doi>
+              <unstructured_citation>McFarquhar, G. M., Yang, P., Macke, A., and Baran, A. J.: A new
+parameterization of single scattering solar radiative properties for tropical
+anvils using observed ice crystal size and shape distributions, J. Atmos.
+Sci., 59, 2458–2478, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1029/2007GL029865</doi>
+              <unstructured_citation>McFarquhar, G. M., Um, J., Freer, M., Baumgardner, D., Kok, G. L., and Mace,
+G.: Importance of small ice crystals to cirrus properties: Observations from
+the Tropical Warm Pool International Cloud Experiment (TWP-ICE), Geophys.
+Res. Lett., 34, L13803, https://doi.org/10.1029/2007GL029865, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1175/JAMC-D-12-0114.1</doi>
+              <unstructured_citation>McFarquhar, G. M., Um, J., and Jackson, R.: Small cloud particle shapes in
+mixed-phase clouds, J. Appl. Meteorol. Clim., 52, 1277–1293, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/AMSMONOGRAPHS-D-16-0007.1</doi>
+              <unstructured_citation>McFarquhar, G. M., Baumgardner, D., Bansemer, A., Abel, S. J., Crosier, J.,
+French, J., Rosenberg, P., Korolev, A., Schwarzoenboeck, A., Leroy, D., Um,
+J., Wu, W., Heymsfield, A. J., Twohy, C., Detwiler, A., Field, P., Neumann,
+A., Cotton, R., Axisa, D., and Dong, J.: Processing of ice cloud in-situ data
+collected by bulk water, scattering, and imaging probes: Fundamentals,
+uncertainties, and efforts towards consistency, Meteor. Mon., 58,
+11.1–11.33, https://doi.org/10.1175/AMSMONOGRAPHS-D-16-0007.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1103/PhysRevLett.51.1119</doi>
+              <unstructured_citation>Meakin, P.: Formation of fractal clusters and networks by irreversible
+diffusion-limited aggregation, Phys. Rev. Lett., 51, 1119–1122, 1983. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1016/j.micron.2017.02.008</doi>
+              <unstructured_citation>Mirzaei, M. and Rafsanjani, H. K.: An automatic algorithm for determination
+of the nanoparticles from TEM images using circular Hough transform, Micron,
+96, 86–95, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1175/1520-0469(2004)061&lt;2229:LSBQIC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Nousiainen, T. and McFarquhar, G. M.: Light scattering by quasi–spherical
+ice crystals, J. Atmos. Sci., 61, 2229–2248, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1175/2011JAS3733.1</doi>
+              <unstructured_citation>Nousiainen, T., Lindqvist, H., McFarquhar, G. M., and Um, J.: Small irregular
+ice crystals in tropical cirrus, J. Atmos. Sci., 68, 2614–2627,
+https://doi.org/10.1175/2011JAS3733.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Pedernera, D. A. and Ávila, E. E.: Frozen-droplets aggregation at
+temperature below −40&amp;amp;thinsp;∘C, J. Geophys. Res., 123, 1244–1252, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1175/JAS3869.1</doi>
+              <unstructured_citation>Phillips, V. T. J., Donner, L. J., and Garner, S. T.: Nucleation processes in
+deep convection simulated by a cloud-system-resolving model with
+double-moment bulk microphysics, J. Atmos. Sci., 64, 738–761, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1103/PhysRevE.74.021411</doi>
+              <unstructured_citation>Pierce, F., Sorensen, C. M., and Chakrabarti, A.: Computer simulation of
+diffusion-limited cluster aggregation with an Epstein drag force, Phys. Rev.
+E, 74, 021411, https://doi.org/10.1103/PhysRevE.74.021411, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1002/qj.2410</doi>
+              <unstructured_citation>Proud, S. R.: Analysis of overshooting top detections by Meteosat Second
+Generation: A 5-year dataset, Q. J. Roy. Meteor. Soc., 141, 909–915,
+https://doi.org/10.1002/qj.2410, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1038/35013030</doi>
+              <unstructured_citation>Rosenfeld, D. and Woodley, W.: Deep convective clouds with sustained
+superooled liquid water down to −37.5&amp;amp;thinsp;∘C, Nature, 405, 440–442,
+https://doi.org/10.1038/35013030, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.2151/jmsj1965.53.2_121</doi>
+              <unstructured_citation>Saunders, C. P. R. and Wahab, N. M. A.: The influence of electric fields on
+the aggregation of ice crystals, J. Meteorol. Soc. Jpn., 53, 121–126, 1975. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1080/02786820117868</doi>
+              <unstructured_citation>Sorensen, C. M.: Light scattering by fractal aggregates: A review, Aerosol
+Sci. Tech., 35, 648–687, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1006/jcis.1996.4664</doi>
+              <unstructured_citation>Sorensen, C. M. and Roberts, G. C.: The prefactor of fractal aggregates, J.
+Colloid Interf. Sci., 186, 447–452, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1175/JCLI-3243.1</doi>
+              <unstructured_citation>Stephens, G. L.: Cloud feedbacks in the climate system: A critical review, J.
+Climate, 18, 237–273, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1175/1520-0469(1990)047&lt;1742:TROTMA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Stephens, G. L., Tsay, S. C., Stackhouse, P. W., and Flatau, P. J.: The
+relevance of the microphysical and radiative properties of cirrus clouds to
+climate and climatic feedback, J. Atmos. Sci., 47, 1742–1753,
+https://doi.org/10.1175/1520-0469(1990)047&amp;amp;lt;1742:trotma&amp;amp;gt;2.0.co;2, 1990. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1175/1520-0450(2002)041&lt;0097:MOOTC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Stith, J. L., Dye, J. E., Bansemer, A., Heymsfield, A. J., Grainger, C. A.,
+Petersen, W. A., and Cifelli, R.: Microphysical Observations of Tropical
+Clouds, J. Appl. Meteorol., 41, 97–117,
+https://doi.org/10.1175/1520-0450(2002)041&amp;amp;lt;0097:MOOTC&amp;amp;gt;2.0.CO;2, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1175/2104.1</doi>
+              <unstructured_citation>Stith, J. L., Haggerty, J. A., Heymsfield, A., and Grainger, C. A.:
+Microphysical Characteristics of Tropical Updrafts in Clean Conditions, J.
+Appl. Meteorol., 43, 779–794, https://doi.org/10.1175/2104.1, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.5194/acp-14-1973-2014</doi>
+              <unstructured_citation>Stith, J. L., Avallone, L. M., Bansemer, A., Basarab, B., Dorsi, S. W.,
+Fuchs, B., Lawson, R. P., Rogers, D. C., Rutledge, S., and Toohey, D. W.: Ice
+particles in the upper anvil regions of midlatitude continental
+thunderstorms: the case for frozen-drop aggregates, Atmos. Chem. Phys., 14,
+1973–1985, https://doi.org/10.5194/acp-14-1973-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.5194/acp-16-2243-2016</doi>
+              <unstructured_citation>Stith, J. L., Basarab, B., Rutledge, S. A., and Weinheimer, A.: Anvil
+microphysical signatures associated with lightning-produced
+NOx, Atmos. Chem. Phys., 16, 2243–2254,
+https://doi.org/10.5194/acp-16-2243-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.5194/acp-16-799-2016</doi>
+              <unstructured_citation>Taylor, J. W., Choularton, T. W., Blyth, A. M., Liu, Z., Bower, K. N.,
+Crosier, J., Gallagher, M. W., Williams, P. I., Dorsey, J. R., Flynn, M. J.,
+Bennett, L. J., Huang, Y., French, J., Korolev, A., and Brown, P. R. A.:
+Observations of cloud microphysics and ice formation during COPE, Atmos.
+Chem. Phys., 16, 799–826, https://doi.org/10.5194/acp-16-799-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>UCAR/NCAR (Earth Observing Laboratory): NSF/NCAR GV (HIAPER) 3V-CPI Raw CPI
+ROI Imagery, Version 1.0, UCAR/NCAR – Earth Observing Laboratory,
+https://doi.org/10.5065/D6S180T6, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>UCAR/NCAR (Earth Observing Laboratory): Low Rate (LRT – 1 sps) Navigation,
+State Parameter, and Microphysics Flight-Level Data (NetCDF), Version 2.0,
+UCAR/NCAR – Earth Observing Laboratory, https://doi.org/10.5065/D6BC3WKB, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1175/JAM2501.1</doi>
+              <unstructured_citation>Um, J. and McFarquhar, G. M.: Single-scattering properties of aggregates of
+bullet rosettes in cirrus, J. Appl. Meteorol. Clim., 46, 757–775,
+https://doi.org/10.1175/JAM2501.1, 2007.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1002/qj.378</doi>
+              <unstructured_citation>Um, J. and McFarquhar, G. M.: Single-scattering properties of aggregates
+plates, Q. J. Roy. Meteor. Soc., 135, 291–304, https://doi.org/10.1002/qj.378, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.5194/acp-11-3159-2011</doi>
+              <unstructured_citation>Um, J. and McFarquhar, G. M.: Dependence of the single-scattering properties
+of small ice crystals on idealized shape models, Atmos. Chem. Phys., 11,
+3159–3171, https://doi.org/10.5194/acp-11-3159-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1016/j.jqsrt.2013.05.020</doi>
+              <unstructured_citation>Um, J. and McFarquhar, G. M.: Optimal numerical methods for determining the
+orientation averages of single-scattering properties of atmospheric ice
+crystals, J. Quant. Spectrosc. Ra., 127, 207–223,
+https://doi.org/10.1016/j.jqsrt.2013.05.020, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.5194/acp-15-3933-2015</doi>
+              <unstructured_citation>Um, J., McFarquhar, G. M., Hong, Y. P., Lee, S.-S., Jung, C. H., Lawson, R.
+P., and Mo, Q.: Dimensions and aspect ratios of natural ice crystals, Atmos.
+Chem. Phys., 15, 3933–3956, https://doi.org/10.5194/acp-15-3933-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1002/2014JD022795</doi>
+              <unstructured_citation>Wang, J., Dong, X., and Xi, B.: Investigation of ice cloud microphysical
+properties of DCSs using aircraft in situ measurements during MC3E over the
+ARM SGP site, J. Geophys. Res., 120, 3533–3552, https://doi.org/10.1002/2014JD022795,
+2015. </unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.1029/2000JD900618</doi>
+              <unstructured_citation>Yang, P., Gao, B. C., Baum, B. A., Wiscombe, W. J., Hu, Y. X., Nasiri, S. L.,
+Soulen, P. F., Heymsfield, A. J., McFarquhar, G. M., and Miloshevich, L. M.:
+Sensitivity of cirrus bidirectional reflectance to vertical inhomogeneity of
+ice crystal habits and size distributions for two Moderate-Resolution Imaging
+Spectroradiometer (MODIS) bands, J. Geophys. Res., 106, 17267–17291, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1016/S0022-4073(02)00347-3</doi>
+              <unstructured_citation>Yang, P., Baum, B. A., Heymsfield, A. J., Hu, Y. X., Huang, H.-L., Tsay,
+S.-C., and Ackerman, S.: Single-scattering properties of droxtals, J. Quant.
+Spectrosc. Ra., 79–80, 1159–1169, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1016/0262-8856(90)90059-E</doi>
+              <unstructured_citation>Yuen, H. K., Princen, J., Illingworth, J., and Kittler, J.: Comparative study
+of Hough transform methods for circle finding, Image Vision Comput., 8,
+71–77, 1990. </unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

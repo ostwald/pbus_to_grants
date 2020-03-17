@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 00:02:10">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Assessing the accuracy of microwave radiometers and radio acoustic sounding systems for wind energy applications</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Laura</given_name>
+              <surname>Bianco</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Katja</given_name>
+              <surname>Friedrich</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James M.</given_name>
+              <surname>Wilczak</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Duane</given_name>
+              <surname>Hazen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel</given_name>
+              <surname>Wolfe</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ruben</given_name>
+              <surname>Delgado</surname>
+              <ORCID>https://orcid.org/0000-0002-7133-2462</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Steven P.</given_name>
+              <surname>Oncley</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Julie K.</given_name>
+              <surname>Lundquist</surname>
+              <ORCID>https://orcid.org/0000-0001-5490-2702</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> To assess current remote-sensing capabilities for wind energy applications, a remote-sensing system evaluation study, called XPIA (eXperimental Planetary boundary layer Instrument Assessment), was held in the spring of 2015 at NOAA's Boulder Atmospheric Observatory (BAO) facility. Several remote-sensing platforms were evaluated to determine their suitability for the verification and validation processes used to test the accuracy of numerical weather prediction models.<br><br>The evaluation of these platforms was performed with respect to well-defined reference systems: the BAO's 300<span class="thinspace"></span>m tower equipped at six levels (50, 100, 150, 200, 250, and 300<span class="thinspace"></span>m) with 12 sonic anemometers and six temperature (<i>T</i>) and relative humidity (RH) sensors; and approximately 60 radiosonde launches.<br><br>In this study we first employ these reference measurements to validate temperature profiles retrieved by two co-located microwave radiometers (MWRs) as well as virtual temperature (<i>T</i><sub>v</sub>) measured by co-located wind profiling radars equipped with radio acoustic sounding systems (RASSs). Results indicate a mean absolute error (MAE) in the temperature retrieved by the microwave radiometers below 1.5<span class="thinspace"></span>K in the lowest 5<span class="thinspace"></span>km of the atmosphere and a mean absolute error in the virtual temperature measured by the radio acoustic sounding systems below 0.8<span class="thinspace"></span>K in the layer of the atmosphere covered by these measurements (up to approximately 1.6–2<span class="thinspace"></span>km). We also investigated the benefit of the vertical velocity correction applied to the speed of sound before computing the virtual temperature by the radio acoustic sounding systems. We find that using this correction frequently increases the RASS error, and that it should not be routinely applied to all data.<br><br>Water vapor density (WVD) profiles measured by the MWRs were also compared with similar measurements from the soundings, showing the capability of MWRs to follow the vertical profile measured by the sounding and finding a mean absolute error below 0.5<span class="thinspace"></span>g<span class="thinspace"></span>m<sup>−3</sup> in the lowest 5<span class="thinspace"></span>km of the atmosphere. However, the relative humidity profiles measured by the microwave radiometer lack the high-resolution details available from radiosonde profiles. An encouraging and significant finding of this study was that the coefficient of determination between the lapse rate measured by the microwave radiometer and the tower measurements over the tower levels between 50 and 300<span class="thinspace"></span>m ranged from 0.76 to 0.91, proving that these remote-sensing instruments can provide accurate information on atmospheric stability conditions in the lower boundary layer.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>09</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1707</first_page>
+            <last_page>1721</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-10-1707-2017</doi>
+            <resource>https://www.atmos-meas-tech.net/10/1707/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/10/1707/2017/amt-10-1707-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Angevine, W. M. and W. Ecklund: Errors in radio acoustic sounding of temperature, J. Atmos. Ocean. Technol., 11, 837–842, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Angevine, W. M., Bakwin, P. S., and Davis, K. J.: Wind profiler and RASS measurements compared with measurements from a 450 m-tall tower, J. Atmos. Ocean. Technol., 15, 818–825, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Bianco, L., Cimini, D., Marzano, F. S., and Ware, R.: Combining microwave radiometer and wind profiler radar measurements for high-resolution atmospheric humidity profiling, J. Atmos. Ocean. Technol., 22, 949–965, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1109/TGRS.2011.2154337</doi>
+              <unstructured_citation>Cimini, D., Campos, E., Ware, R., Albers, S., Giuliani, G., Oreamuno, J., Joe, P., Koch, S. E., Cober, S., and Westwater, E.: Thermodynamic atmospheric profiling during the 2010 Winter Olympics using ground-based microwave radiometry, IEEE T. Geosci. Remote, 99, 1–11, https://doi.org/10.1109/TGRS.2011.2154337, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1109/TGRS.2006.888434</doi>
+              <unstructured_citation>Crewell, S. and Löhnert, U.: Accuracy of boundary layer temperature profiles retrieved with multifrequency multiangle microwave radiometry, IEEE T. Geosci. Remote, 45, 2195–2201, https://doi.org/10.1109/TGRS.2006.888434, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Ecklund, W. L., Carter, D. A., and Balsley, B. B. A.: UHF wind profiler for the boundary layer: brief description and initial results, J. Atmos. Ocean. Technol., 5, 432–41, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/RS025i005p00899</doi>
+              <unstructured_citation>Ecklund, W. L., Carter, D. A., Balsley, B. B., Currier, P. E., Green, J. L., Weber, B. L., Gage, K. S.: Field tests of a lower tropospheric wind profiler, Radio Sci., 25, 899–906, https://doi.org/10.1029/RS025i005p00899, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2011GL050413</doi>
+              <unstructured_citation>Friedrich, K., Lundquist, J. K., Aitken, M., Kalina, E. A., and Marshall, R. F.: Stability and turbulence in the atmospheric boundary layer: A comparison of remote sensing and tower observations, Geophys. Res. Lett., 39, L03801, https://doi.org/10.1029/2011GL050413, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Görsdorf, U. and Lehmann, V.: Enhanced Accuracy of RASS-Measured Temperatures Due to an Improved Range Correction, J. Atmos. Ocean. Technol., 17, 406–416, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Güldner, J. and Spänkuch, D.: Remote sensing of the thermodynamic state of the atmospheric boundary layer by ground-based microwave radiometry, J. Atmos. Ocean. Technol., 18, 925–933, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/we.512</doi>
+              <unstructured_citation>Hansen, K. S., Barthelmie, R. J., Jensen, L. E., and Sommer, A.: The impact of turbulence intensity and atmospheric stability on power deficits due to wind turbine wakes at Horns Rev wind farm, Wind Energy, 15, 183–196, https://doi.org/10.1002/we.512, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1109/36.843018</doi>
+              <unstructured_citation>Han, Y. and Westwater, E. R.: Analysis and improvement of tipping calibration for ground-based microwave radiometers, IEEE T. Geosci. Remote, 38, 1260–1276, https://doi.org/10.1109/36.843018, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Horst, T. W., Semmer, S. R., and Bogoev, I.: Evaluation of Mechanically-Aspirated Temperature/Relative Humidity Radiation Shields, 18th Symposium on Meteorological Observation and Instrumentation, AMS Annual Meeting, New Orleans, LA, 10–15 January 2015, available at: https://ams.confex.com/ams/96Annual/webprogram/Paper286839.html (last access: 4 May 2017), 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Liljegren, J., Lesht, B. M., Kato, S., and Clothiaux, E.: Initial evaluation of profiles of temperature, water vapor and cloud liquid water from a new microwave profiling radiometer, in: Preprints, 11th Symp. on Meteorological Observations and Instrumentation, Albuquerque, NM, January 2001, Amer. Meteor. Soc., 8, available at: http://radiometrics.com/data/uploads/2012/11/MWRP_ARM01.pdf (last access: 4 May 2017), 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/amt-5-1121-2012</doi>
+              <unstructured_citation>Löhnert, U. and Maier, O.: Operational profiling of temperature using ground-based microwave radiometry at Payerne: prospects and challenges, Atmos. Meas. Tech., 5, 1121–1134, https://doi.org/10.5194/amt-5-1121-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/BAMS-D-15-00151.1</doi>
+              <unstructured_citation>Lundquist, J. K., Wilczak, J. M., Ashton, R., Bianco, L., Brewer, W. A., Choukulkar, A., Clifton, A., Debnath, M., Delgado, R., Friedrich, K., Gunter, S., Hamidi, A., Iungo, G. V., Kaushik, A., Kosović, B., Langan, P., Lass, A., Lavin, E., Lee, J. C.-Y., McCaffrey, K. L., Newsom, R. K., Noone, D. C., Oncley, S. P., Quelet, P. T., Sandberg, S. P., Schroeder, J. L., Shaw, W. J., Sparling, L., St. Martin, C., St. Pe, A., Strobach, E., Tay, K., Vanderwende, B. J., Weickmann, A., Wolfe, D., and Worsnop, R.: Assessing state-of-the-art capabilities for probing the atmospheric boundary layer: the XPIA field campaign, B. Am. Meteorol. Soc., 98, 289–314, https://doi.org/10.1175/BAMS-D-15-00151.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/2011BAMS3033.1</doi>
+              <unstructured_citation>Marquis, M., Wilczak, J., Ahlstrom, M., Sharp, J., Stern, A., Smith, J. C., and Calvert, S.: Forecasting the wind to reach significant penetration levels of wind energy, B. Am. Meteorol. Soc., 92, 1159–1171, https://doi.org/10.1175/2011BAMS3033.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>May P. T., Moran, K. P., and Strauch, R. G.: The Accuracy of RASS Temperature Measurements, J. Appl. Meteorol., 28, 1329–1335, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Moran, K. P. and Strauch, R. G.: The Accuracy of RASS Temperature Measurements Corrected for Vertical Air Motion, J. Atmos. Ocean. Technol., 11, 406–4016, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>North, E. M., Peterson, A. M., and Parry, H. D.: RASS, a remote sensing system for measuring low-level temperature profiles, B. Am. Meteorol. Soc., 54, 912–919, 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Reehorst, A. L.: Comparison of profiling microwave radiometer, aircraft, and radiosonde measurements from the Alliance Icing Research Study (AIRS), NASA/TM-2001-211101, 12 pp., available at: http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20010098322.pdf, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Rosenkranz, P. W.: Water vapor microwave continuum absorption: A comparison of measurements and models, Radio Sci., 33, 919–928, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Solheim, F., Godwin, J., and Ware, R.: Passive ground-based remote sensing of atmospheric temperature, water vapor, and cloud liquid water profiles by a frequency synthesized microwave radiometer, Meteorol. Z., 7, 370–376, 1998a.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Solheim, F., Godwin, J., Westwater, E., Han, Y., Keihm, S., Marsh, K., and Ware, R.: Radiometric profiling of temperature, water vapor and cloud liquid water using various inversion methods, Radio Sci., 33, 393–404, 1998b.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Strauch, R. G., Merritt, D. A., Moran, K. P., Earnshaw, K. B., and Van De Kamp, D.: The Colorado wind-profiling network, J. Atmos. Ocean. Technol., 1, 37–49, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1088/1748-9326/7/3/034035</doi>
+              <unstructured_citation>Vanderwende, B. J. and Lundquist, J. K.: The modification of wind turbine performance by statistically distinct atmospheric regimes, Environ. Res. Lett., 7, 034035, https://doi.org/10.1088/1748-9326/7/3/034035, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/2002RS002856</doi>
+              <unstructured_citation>Ware, R., Carpenter, R., Güldner, J., Liljegren, J., Nehrkorn, T., Solheim, F., and Vandenberghe, F.: A multichannel radiometric profiler of temperature, humidity, and cloud liquid, Radio Sci., 38, https://doi.org/10.1029/2002RS002856, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1088/1748-9326/7/1/014005</doi>
+              <unstructured_citation>Wharton, S. and Lundquist, J. K.: Atmospheric stability affects wind turbine power collection, Environ. Res. Lett., 7, 014005, https://doi.org/10.1088/1748-9326/7/1/014005, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Xu, G., Ware, R., Zhang, W., Feng, G., Liao, K., Liu, Y.: Effect of off-zenith observations on reducing the impact of precipitation on ground-based microwave radiometer measurement accuracy, Atmos. Res., 140–141, 85–94, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

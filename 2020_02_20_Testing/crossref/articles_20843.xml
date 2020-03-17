@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 09:07:44">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>17</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Status update: is smoke on your mind? Using social media to assess smoke exposure</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Bonne</given_name>
+              <surname>Ford</surname>
+              <ORCID>https://orcid.org/0000-0002-7045-8346</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Moira</given_name>
+              <surname>Burke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>William</given_name>
+              <surname>Lassman</surname>
+              <ORCID>https://orcid.org/0000-0002-8143-7313</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gabriele</given_name>
+              <surname>Pfister</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey R.</given_name>
+              <surname>Pierce</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Exposure to wildland fire smoke is associated with negative effects on human health. However, these effects are poorly quantified. Accurately attributing health endpoints to wildland fire smoke requires determining the locations, concentrations, and durations of smoke events. Most current methods for assessing these smoke events (ground-based measurements, satellite observations, and chemical transport modeling) are limited temporally, spatially, and/or by their level of accuracy. In this work, we explore using daily social media posts from Facebook regarding smoke, haze, and air quality to assess population-level exposure for the summer of 2015 in the western US. We compare this de-identified, aggregated Facebook dataset to several other datasets that are commonly used for estimating exposure, such as satellite observations (MODIS aerosol optical depth and Hazard Mapping System smoke plumes), daily (24<span class="thinspace"></span>h) average surface particulate matter measurements, and model-simulated (WRF-Chem) surface concentrations. After adding population-weighted spatial smoothing to the Facebook data, this dataset is well correlated (<i>R</i><sup>2</sup> generally above 0.5) with the other methods in smoke-impacted regions. The Facebook dataset is better correlated with surface measurements of PM<sub>2. 5</sub> at a majority of monitoring sites (163 of 293 sites) than the satellite observations and our model simulation. We also present an example case for Washington state in 2015, for which we combine this Facebook dataset with MODIS observations and WRF-Chem-simulated PM<sub>2. 5</sub> in a regression model. We show that the addition of the Facebook data improves the regression model's ability to predict surface concentrations. This high correlation of the Facebook data with surface monitors and our Washington state example suggests that this social-media-based proxy can be used to estimate smoke exposure in locations without direct ground-based particulate matter measurements.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>22</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>7541</first_page>
+            <last_page>7554</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX15AG35G</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-17-7541-2017</doi>
+            <resource>https://www.atmos-chem-phys.net/17/7541/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/17/7541/2017/acp-17-7541-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1145/2187980.2188035</doi>
+              <unstructured_citation>Abel, F., Hauff, C., Houben, G.-J., Stronkman, R., and Tao, K.: Twitcident: Fighting Fire with Information from Social Web Streams, in Proceedings of the 21st International Conference on World Wide Web, ACM, New York, NY, USA, 305–308, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1186/s12940-016-0146-8</doi>
+              <unstructured_citation>Alman, B., Pfister, G., Hao, H., Stowell, J., Hu, X., Liu, Y., and Strickland, M. J.: The association of wildfire smoke with respiratory and cardiovascular emergency department visits in Colorado in 2012: a case crossover study, Environ. Health, 15, 1–9, https://doi.org/10.1186/s12940-016-0146-8, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Bedo, M., Blanco, G., Oliveira, W., Cazzolato, M., Costa, A., Rodrigues, J., Traina, A., and Traina Jr., C.: Techniques for effective and efficient fire detection from social media images, ArXiv150603844 Cs, available at: http://arxiv.org/abs/1506.03844 (last Aaccess: 29 November 2016), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1021/acs.est.5b03709</doi>
+              <unstructured_citation>Brauer, M., Freedman, G., Frostad, J., van Donkelaar, A., Martin, R. V., Dentener, F., Dingenen, R. van, Estep, K., Amini, H., Apte, J. S., Balakrishnan, K., Barregard, L., Broday, D., Feigin, V., Ghosh, S., Hopke, P. K., Knibbs, L. D., Kokubo, Y., Liu, Y., Ma, S., Morawska, L., Sangrador, J. L. T., Shaddick, G., Anderson, H. R., Vos, T., Forouzanfar, M. H., Burnett, R. T., and Cohen, A.: Ambient Air Pollution Exposure Estimation for the Global Burden of Disease 2013, Environ. Sci. Technol., 50, 79–88, https://doi.org/10.1021/acs.est.5b03709, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1371/journal.pone.0083672</doi>
+              <unstructured_citation>Broniatowski, D. A., Paul, M. J., and Dredze, M.: National and Local Influenza Surveillance through Twitter: An Analysis of the 2012-2013 Influenza Epidemic, PLOS ONE, 8, e83672, https://doi.org/10.1371/journal.pone.0083672, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1111/jcc4.12162</doi>
+              <unstructured_citation>Burke, M. and Kraut, R. E.: The Relationship between Facebook Use and Well-Being depends on Communication Type and Tie Strength, J. Comput.-Mediat. Commun., 21, 265–281, https://doi.org/10.1111/jcc4.12162, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1111/j.1467-9671.2012.01359.x</doi>
+              <unstructured_citation>Crooks, A., Croitoru, A., Stefanidis, A., and Radzikowski, J.: #Earthquake: Twitter as a Distributed Sensor System, Trans. GIS, 17, 124–147, https://doi.org/10.1111/j.1467-9671.2012.01359.x, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/j.atmosenv.2014.07.013</doi>
+              <unstructured_citation>Cuchiara, G. C., Li, X., Carvalho, J., and Rappenglück, B.: Intercomparison of planetary boundary layer parameterization and its impacts on surface ozone concentration in the WRF/Chem model for a case study in Houston/Texas, Atmos. Environ., 96, 175–185, https://doi.org/10.1016/j.atmosenv.2014.07.013, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1071/WF13071</doi>
+              <unstructured_citation>Davis, A. Y., Ottmar, R., Liu, Y., Goodrick, S., Achtemeier, G., Gullett, B., Aurell, J., Stevens, W., Greenwald, R., Hu, Y., Russell, A., Hiers, J. K,. and Odman, M. T.: Fire emission uncertainties and their effect on smoke dispersion predictions: a case study at Eglin Air Force Base, Florida, USA, Int. J. Wildland Fire, 24, 276–285, https://doi.org/10.1071/WF13071, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1145/1629890.1629907</doi>
+              <unstructured_citation>De Longueville, B., Smith, R. S., and Luraschi, G.: “OMG, from Here, I Can See the Flames!”: A Use Case of Mining Location Based Social Networks to Acquire Spatio-temporal Data on Forest Fires, in Proceedings of the 2009 International Workshop on Location Based Social Networks, ACM, New York, NY, USA, 73–80, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Dockery, D. W., Pope, C. A., Xu, X., Spengler, J. D., Ware, J. H., Fay, M. E., Ferris Jr., B. G., and Speizer, F. E.: An association between air pollution and mortality in six US cities, N. Engl. J. Med., 329, 1753–1759, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Duggan, M., Elison, N. B., Lampe, C., Lenhart, A., and Madden, M.: Social Media Update 2014, Pew Research Center, available at: http://www.pewinternet.org/2015/01/09/social-media-update-2014/ (last access: 24 August 2016), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/gmd-3-43-2010</doi>
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G., Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando, J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.: Description and evaluation of the Model for Ozone and Related chemical Tracers, version 4 (MOZART-4), Geosci. Model. Dev., 3, 43–67, https://doi.org/10.5194/gmd-3-43-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1111/j.1539-6924.2011.01630.x</doi>
+              <unstructured_citation>Fann, N., Lamson, A. D., Anenberg, S. C., Wesson, K., Risley, D., and Hubbell, B. J.: Estimating the National Public Health Burden Associated with Exposure to Ambient PM2.5 and Ozone, Risk Anal., 32, 81–95, https://doi.org/10.1111/j.1539-6924.2011.01630.x, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Ford, B., Lassman, W., and Pfister, G.: WRF-Chem simulated surface PM2. 5, available at: http://hdl.handle.net/10217/177042 (last access: 16 June 2017), 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Ford, B., Pierce, J. R., and Burke, M.: Maps of raw and gridded, population-weighted percent of Facebook Posters matching search criteria, available at: http://hdl.handle.net/10217/177043 (last access: 16 June 2017), 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1002/2017GH000073</doi>
+              <unstructured_citation>Gan, R. W., Ford, B., Lassman, W., Pfister, G., Vaidyanathan, A., Fischer, E., Volckens, J., Pierce, J. R., and Magzamen, S.: A comparison of smoke estimation methods and their association with wildfire smoke and cardiopulmonary-related hospital admissions during the 2012 Washington wildfires, GeoHealth, 1, https://doi.org/10.1002/2017GH000073, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1038/nature07634</doi>
+              <unstructured_citation>Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., and Brilliant, L.: Detecting influenza epidemics using search engine query data, Nature, 457, 1012–1014, https://doi.org/10.1038/nature07634, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1126/science.1202775</doi>
+              <unstructured_citation>Golder, S. A. and Macy, M. W.: Diurnal and Seasonal Mood Vary with Work, Sleep, and Daylength Across Diverse Cultures, Science, 333, 1878–1881, https://doi.org/10.1126/science.1202775, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-6-3181-2006</doi>
+              <unstructured_citation>Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I., and Geron, C.: Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature), Atmos. Chem. Phys., 6, 3181–3210, https://doi.org/10.5194/acp-6-3181-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1289/ehp.1002288</doi>
+              <unstructured_citation>Henderson, S. B., Brauer, M., MacNab, Y. C., and Kennedy, S. M.: Three measures of forest fire smoke exposure and their associations with respiratory and cardiovascular health outcomes in a population-based cohort, Environ. Health Perspect., 119, 1266–1271, https://doi.org/10.1289/ehp.1002288, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1016/j.envres.2012.11.003</doi>
+              <unstructured_citation>Hu, X., Waller, L. A., Al-Hamdan, M. Z., Crosson, W. L., Estes, M. G., Estes, S. M., Quattrochi, D. A., Sarnat, J. A., and Liu, Y.: Estimating ground-level PM(2.5) concentrations in the southeastern U.S. using geographically weighted regression, Environ. Res., 121, 1–10, https://doi.org/10.1016/j.envres.2012.11.003, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1021/es702755v</doi>
+              <unstructured_citation>Jaffe, D., Hafner, W., Chand, D., Westerling, A., and Spracklen, D.: Interannual variations in PM2.5 due to wildfires in the Western United States, Environ. Sci. Technol., 42, 2812–2818, https://doi.org/10.1021/es702755v, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1371/journal.pone.0141185</doi>
+              <unstructured_citation>Jiang, W., Wang, Y., Tsou, M.-H., and Fu, X.: Using Social Media to Detect Outdoor Air Pollution and Monitor Air Quality Index (AQI): A Geo-Targeted Spatiotemporal Analysis Framework with Sina Weibo (Chinese Twitter), PLOS ONE, 10, e0141185, https://doi.org/10.1371/journal.pone.0141185, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1289/ehp.1104422</doi>
+              <unstructured_citation>Johnston, F. H., Henderson, S. B., Chen, Y., Randerson, J. T., Marlier, M., DeFries, R. S., Kinney, P., Bowman, D. M. J. S., and Brauer, M.: Estimated Global Mortality Attributable to Smoke from Landscape Fires, Environ. Health Perspect., 120, 695–701, https://doi.org/10.1289/ehp.1104422, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1080/15230406.2013.776727</doi>
+              <unstructured_citation>Kent, J. D. and Capello Jr., H. T.: Spatial patterns and demographic indicators of effective social media content during theHorsethief Canyon fire of 2012, Cartogr. Geogr. Inf. Sci., 40, 78–89, https://doi.org/10.1080/15230406.2013.776727, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1073/pnas.1218772110</doi>
+              <unstructured_citation>Kosinski, M., Stillwell, D., and Graepel, T.: Private traits and attributes are predictable from digital records of human behavior, P. Natl. Acad. Sci. USA, 110, 5802–5805, https://doi.org/10.1073/pnas.1218772110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1002/2017GH000049</doi>
+              <unstructured_citation>Lassman, W., Ford, B., Gan, R. W., Pfister, G., Magzamen, S., Fischer, E. V., and Pierce, J. R.: Spatial and Temporal Estimates of Population Exposure to Wildfire Smoke during the Washington State 2012 Wildfire Season Using Blended Model, Satellite, and In-Situ Data, GeoHealth, 2017GH000049, https://doi.org/10.1002/2017GH000049, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1038/nature15371</doi>
+              <unstructured_citation>Lelieveld, J., Evans, J. S., Fnais, M., Giannadaki, D., and Pozzer, A.: The contribution of outdoor air pollution sources to premature mortality on a global scale, Nature, 525, 367–371, https://doi.org/10.1038/nature15371, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/amt-6-2989-2013</doi>
+              <unstructured_citation>Levy, R. C., Mattoo, S., Munchak, L. A., Remer, L. A., Sayer, A. M., Patadia, F., and Hsu, N. C.: The Collection 6 MODIS aerosol products over land and ocean, Atmos. Meas. Tech., 6, 2989–3034, https://doi.org/10.5194/amt-6-2989-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1016/j.envres.2014.10.015</doi>
+              <unstructured_citation>Liu, J. C., Pereira, G., Uhl, S. A., Bravo, M. A., and Bell, M. L.: A systematic review of the physical health impacts from non-occupational exposure to wildfire smoke, Environ. Res., 136, 120–132, https://doi.org/10.1016/j.envres.2014.10.015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/93JD02916</doi>
+              <unstructured_citation>Malm, W. C., Sisler, J. F., Huffman, D., Eldred, R. A., and Cahill, T. A.: Spatial and seasonal trends in particle concentration and optical extinction in the United States, J. Geophys. Res.-Atmos., 99, 1347–1370, https://doi.org/10.1029/93JD02916, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.3389/fpubh.2014.00286</doi>
+              <unstructured_citation>Masedu, F., Mazza, M., Di Giovanni, C., Calvarese, A., Tiberti, S., Sconci, V., and Valenti, M.: Facebook, quality of life, and mental health outcomes in post-disaster urban environments: the L'Aquila earthquake experience, Front. Public Health, 2, 286, https://doi.org/10.3389/fpubh.2014.00286, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1109/ASONAM.2014.6921638</doi>
+              <unstructured_citation>Mei, S., Li, H., Fan, J., Zhu, X., and Dyer, C. R.: Inferring air pollution by sniffing social media, in 2014 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2014), 534–539, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1016/j.atmosres.2010.04.005</doi>
+              <unstructured_citation>Misenis, C. and Zhang, Y.: An examination of sensitivity of WRF/Chem predictions to physical parameterizations, horizontal grid spacing, and nesting options, Atmos. Res., 97, 315–334, https://doi.org/10.1016/j.atmosres.2010.04.005, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1080/08958370701492961</doi>
+              <unstructured_citation>Pope, C. A.: Mortality Effects of Longer Term Exposures to Fine Particulate Air Pollution: Review of Recent Epidemiological Evidence, Inhal. Toxicol., 19, 33–38, https://doi.org/10.1080/08958370701492961, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Pope III, C. A., Ezzati, M., and Dockery, D. W.: Fine-particulate air pollution and life expectancy in the United States, N. Engl. J. Med., 360, 376–386, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1007/s11869-013-0197-8</doi>
+              <unstructured_citation>Punger, E. M. and West, J. J.: The effect of grid resolution on estimates of the burden of ozone and fine particulate matter on premature mortality in the USA, Air Qual. Atmosphere Health, 6, 563–573, https://doi.org/10.1007/s11869-013-0197-8, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1109/JBHI.2015.2404829</doi>
+              <unstructured_citation>Ram, S., Zhang, W., Williams, M., and Pengetnze, Y.: Predicting Asthma-Related Emergency Department Visits Using Big Data, IEEE J. Biomed. Health Inform., 19, 1216–1223, https://doi.org/10.1109/JBHI.2015.2404829, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1289/ehp.1003206</doi>
+              <unstructured_citation>Rappold, A. G., Stone, S. L., Cascio, W. E., Neas, L. M., Kilaru, V. J., Carraway, M. S., Szykman, J. J., Ising, A., Cleve, W. E., Meredith, J. T., Vaughan-Batten, H., Deyneka, L., and Devlin, R. B.: Peat bog wildfire smoke exposure in rural North Carolina is associated with cardiopulmonary emergency department visits assessed through syndromic surveillance, Environ. Health Persp., 119, 1415–1420, https://doi.org/10.1289/ehp.1003206, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1186/1476-069X-11-71</doi>
+              <unstructured_citation>Rappold, A. G., Cascio, W. E., Kilaru, V. J., Stone, S. L., Neas, L. M., Devlin, R. B., and Diaz-Sanchez, D.: Cardio-respiratory outcomes associated with exposure to wildfire smoke are modified by measures of community health, Environ. Health, 11, 71, https://doi.org/10.1186/1476-069x-11-71, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1021/es505846r</doi>
+              <unstructured_citation>Reid, C. E., Jerrett, M., Petersen, M. L., Pfister, G. G., Morefield, P. E., Tager, I. B., Raffuse, S. M., and Balmes, J. R.: Spatiotemporal Prediction of Fine Particulate Matter During the 2008 Northern California Wildfires Using Machine Learning, Environ. Sci. Technol., 49, 3887–3896, https://doi.org/10.1021/es505846r, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1016/j.atmosenv.2011.04.060</doi>
+              <unstructured_citation>Reisen, F., Meyer, C. P. (Mick), McCaw, L., Powell, J. C., Tolhurst, K., Keywood, M. D., and Gras, J. L.: Impact of smoke from biomass burning on air quality in rural communities in southern Australia, Atmos. Environ., 45, 3944–3953, https://doi.org/10.1016/j.atmosenv.2011.04.060, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1080/1369118X.2016.1218528</doi>
+              <unstructured_citation>Sachdeva, S., McCaffrey, S., and Locke, D.: Social media approaches to modeling wildfire smoke dispersion: spatiotemporal and social scientific investigations, Inf. Commun. Soc., 0, 1–16, https://doi.org/10.1080/1369118X.2016.1218528, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1016/j.rse.2014.08.008</doi>
+              <unstructured_citation>Song, W., Jia, H., Huang, J., and Zhang, Y.: A satellite-based geographically weighted regression model for regional PM2.5 estimation over the Pearl River Delta region in China, Remote Sens. Environ., 154, 1–7, https://doi.org/10.1016/j.rse.2014.08.008, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1007/s00024-015-1104-z</doi>
+              <unstructured_citation>Srinivas, C. V., Prasad, K. B. R. R. H., Naidu, C. V., Baskaran, R., and Venkatraman, B.: Sensitivity Analysis of Atmospheric Dispersion Simulations by FLEXPART to the WRF-Simulated Meteorological Predictions in a Coastal Environment, Pure Appl. Geophys., 173, 675–700, https://doi.org/10.1007/s00024-015-1104-z, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1371/journal.pone.0161389</doi>
+              <unstructured_citation>Tao, Z., Kokas, A., Zhang, R., Cohan, D. S., and Wallach, D.: Inferring Atmospheric Particulate Matter Concentrations from Chinese Social Media Data, PLOS ONE, 11, e0161389, https://doi.org/10.1371/journal.pone.0161389, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Thom, D., Jankowski, P., Fuchs, G., Ertl, T., Bosch, H., Andrienko, N., and Andrienko, G.: Thematic Patterns in Georeferenced Tweets through Space-Time Visual Analytics, Comput. Sci. Eng., 15, 72–82, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-12-9753-2012</doi>
+              <unstructured_citation>Thompson, T. M. and Selin, N. E.: Influence of air quality model resolution on uncertainty associated with health impacts, Atmos. Chem. Phys., 12, 9753–9762, https://doi.org/10.5194/acp-12-9753-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-14-969-2014</doi>
+              <unstructured_citation>Thompson, T. M., Saari, R. K., and Selin, N. E.: Air quality resolution for health impact assessment: influence of regional characteristics, Atmos. Chem. Phys., 14, 969–978, https://doi.org/10.5194/acp-14-969-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1016/j.atmosenv.2011.07.068</doi>
+              <unstructured_citation>van Donkelaar, A., Martin, R. V., Levy, R. C., da Silva, A. M., Krzyzanowski, M., Chubarova, N. E., Semutnikova, E., and Cohen, A. J.: Satellite-based estimates of ground-level fine particulate matter during extreme events: A case study of the Moscow fires in 2010, Atmos. Environ., 45, 6225–6232, https://doi.org/10.1016/j.atmosenv.2011.07.068, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1021/acs.est.5b02076</doi>
+              <unstructured_citation>van Donkelaar, A., Martin, R. V., Spurr, R. J. D., and Burnett, R. T.: High-Resolution Satellite-Derived PM2.5 from Optimal Estimation and Geographically Weighted Regression over North America, Environ. Sci. Technol., 49, 10482–10491, https://doi.org/10.1021/acs.est.5b02076, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/gmd-4-625-2011</doi>
+              <unstructured_citation>Wiedinmyer, C., Akagi, S. K., Yokelson, R. J., Emmons, L. K., Al-Saadi, J. A., Orlando, J. J., and Soja, A. J.: The Fire INventory from NCAR (FINN): a high resolution global model to estimate the emissions from open burning, Geosci. Model Dev., 4, 625–641, https://doi.org/10.5194/gmd-4-625-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1038/jes.2013.87</doi>
+              <unstructured_citation>Yao, J. and Henderson, S. B.: An empirical model to estimate daily forest fire smoke exposure over a large geographic area using air quality, meteorological, and remote sensing data, J. Expo. Sci. Environ. Epidemiol., 24, 328–335, https://doi.org/10.1038/jes.2013.87, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1289/ehp.1306768</doi>
+              <unstructured_citation>Yao, J., Brauer, M., and Henderson, S. B.: Evaluation of a wildfire smoke forecasting system as a tool for public health protection, Environ. Health Persp., 121, 1142–1147, https://doi.org/10.1289/ehp.1306768, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1007/s11356-015-6027-9</doi>
+              <unstructured_citation>You, W., Zang, Z., Zhang, L., Li, Y., and Wang, W.: Estimating national-scale ground-level PM25 concentration in China using geographically weighted regression based on MODIS and MISR AOD, Environ. Sci. Pollut. Res., 23, 8327–8338, https://doi.org/10.1007/s11356-015-6027-9, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1073/pnas.1418680112</doi>
+              <unstructured_citation>Youyou, W., Kosinski, M., and Stillwell, D.: Computer-based personality judgments are more accurate than those made by humans, P. Natl. Acad. Sci. USA, 112, 1036–1040, https://doi.org/10.1073/pnas.1418680112, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1016/j.atmosenv.2013.05.065</doi>
+              <unstructured_citation>Žabkar, R., Koračin, D., and Rakovec, J.: A WRF/Chem sensitivity study using ensemble modelling for a high ozone episode in Slovenia and the Northern Adriatic area, Atmos. Environ., 77, 990–1004, https://doi.org/10.1016/j.atmosenv.2013.05.065, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1088/1748-9326/9/7/075002</doi>
+              <unstructured_citation>Zhang, F., Wang, J., Ichoku, C., Hyer, E. J., Yang, Z., Ge, C., Su, S., Xiaoyang Zhang, Kondragunta, S., Kaiser, J. W., Wiedinmyer, C., and Silva, A. da: Sensitivity of mesoscale modeling of smoke direct radiative effect to the emission inventory: a case study in northern sub-Saharan African region, Environ. Res. Lett., 9, 75002, https://doi.org/10.1088/1748-9326/9/7/075002, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-17-7541-2017-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/17/7541/2017/acp-17-7541-2017-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

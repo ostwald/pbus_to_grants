@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-14 04:14:50">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Nonlinear Processes in Geophysics</full_title>
+          <abbrev_title>Nonlin. Processes Geophys.</abbrev_title>
+          <issn media_type="electronic">1607-7946</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>21</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A non-Gaussian analysis scheme using rank histograms for ensemble data assimilation</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Metref</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>E.</given_name>
+              <surname>Cosme</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>C.</given_name>
+              <surname>Snyder</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>P.</given_name>
+              <surname>Brasseur</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> One challenge of geophysical data assimilation is to address the issue of non-Gaussianities in the distributions of the physical variables ensuing, in many cases, from nonlinear dynamical models. Non-Gaussian ensemble analysis methods fall into two categories, those remapping the ensemble particles by approximating the best linear unbiased estimate, for example, the ensemble Kalman filter (EnKF), and those resampling the particles by directly applying Bayes' rule, like particle filters. In this article, it is suggested that the most common remapping methods can only handle weakly non-Gaussian distributions, while the others suffer from sampling issues. In between those two categories, a new remapping method directly applying Bayes' rule, the multivariate rank histogram filter (MRHF), is introduced as an extension of the rank histogram filter (RHF) first introduced by Anderson (2010). Its performance is evaluated and compared with several data assimilation methods, on different levels of non-Gaussianity with the Lorenz 63 model. The method's behavior is then illustrated on a simple density estimation problem using ensemble simulations from a coupled physical–biogeochemical model of the North Atlantic ocean. The MRHF performs well with low-dimensional systems in strongly non-Gaussian regimes.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>25</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>869</first_page>
+            <last_page>885</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/npg-21-869-2014</doi>
+            <resource>https://www.nonlin-processes-geophys.net/21/869/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.nonlin-processes-geophys.net/21/869/2014/npg-21-869-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/1520-0442(1996)009&lt;1518:AMFPAE&gt;2.0.CO;2</doi>
+              <unstructured_citation>Anderson, J. L.: A Method for Producing and Evaluating Probabilistic Forecasts from Ensemble Model Integrations, J. Climate, 9, 1518–1530, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/1520-0493(2003)131&lt;0634:ALLSFF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Anderson, J. L.: A local least squares framework for ensemble filtering, Mon. Weather Rev., 131, 634–642, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/2010MWR3253.1</doi>
+              <unstructured_citation>Anderson, J. L.: A non-Gaussian ensemble filter update for data assimilation, Mon. Weather Rev., 138, 4186–4198, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/MWR-D-11-00013.1</doi>
+              <unstructured_citation>Anderson, J. L.: Localization and Sampling Error Correction in Ensemble Kalman Filter Data Assimilation, Mon. Weather Rev., 140, 2359–2371, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/os-6-247-2010</doi>
+              <unstructured_citation>Béal, D., Brasseur, P., Brankart, J.-M., Ourmières, Y., and Verron, J.: Characterization of mixing errors in a coupled physical biogeochemical model of the North Atlantic: implications for nonlinear estimation using Gaussian anamorphosis, Ocean Sci., 6, 247–262, https://doi.org/10.5194/os-6-247-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1111/j.1751-5823.2003.tb00194.x</doi>
+              <unstructured_citation>Bertino, L., Evensen, G., and Wackernagel, H.: Sequential Data Assimilation Techniques in Oceanography, Internat. Stat. Rev., 71, 223–241, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;0420:ASWTET&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bishop, C. H., Etherton, B. J., and Majumdar, S. J.: Adaptive sampling with the ensemble transform Kalman filter, Part I: Theoretical aspects, Mon. Weather Rev., 129, 420–436, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/npg-18-735-2011</doi>
+              <unstructured_citation>Bocquet, M.: Ensemble Kalman filtering without the intrinsic need for inflation, Nonlin. Processes Geophys., 18, 735–750, https://doi.org/10.5194/npg-18-735-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/2010MWR3164.1</doi>
+              <unstructured_citation>Bocquet, M., Pires, C. A., and Wu, L.: Beyond Gaussian statistical modeling in geophysical data assimilation, Mon. Weather Rev., 138, 2997–3023, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/os-8-121-2012</doi>
+              <unstructured_citation>Brankart, J.-M., Testut, C.-E., Béal, D., Doron, M., Fontana, C., Meinvielle, M., Brasseur, P., and Verron, J.: Towards an improved description of ocean uncertainties: effect of local anamorphic transformations on spatial correlations, Ocean Sci., 8, 121–142, https://doi.org/10.5194/os-8-121-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1175/2009MWR3157.1</doi>
+              <unstructured_citation>Buehner, M., Houtekamer, P. L., Charette, C., Mitchell, H. L., and He, B.: Intercomparison of Variational Data Assimilation and the Ensemble Kalman Filter for Global Deterministic NWP, Part I: Description and Single-Observation Experiments, Mon. Weather Rev., 138, 1550–1566, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1256/qj.04.71</doi>
+              <unstructured_citation>Candille, G. and Talagrand, O.: Evaluation of probabilistic prediction systems for a scalar variable, Q. J. Roy. Meteorol. Soc., 131, 2131–2150, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.2151/jmsj1965.75.1B_257</doi>
+              <unstructured_citation>Cohn, S. E.: An introduction to estimation theory, J. Meteorol. Soc. Jpn., 75, 257–288, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Cotter, C. J. and Reich, S.: Ensemble filter techniques for intermittent data assimilation, in Large Scale Inverse Problems, Radon Ser. Comput. Appl. Math., 13, 91–134, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/1520-0493(2003)131&lt;0155:TCOVFA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Dee, D. and Da Silva, A. M.: The choice of variable for atmospheric moisture analysis, Mon. Weather Rev., 131, 155–171, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1007/978-1-4757-3437-9_1</doi>
+              <unstructured_citation>Doucet, D., de Freitas, N., and Gordon, N.: An introduction to sequential Monte Carlo methods, in: Sequential Monte Carlo Methods in Practice, edited by: Doucet, D., de Freitas, N., and Gordon, N., Statistics for Engineering and Information Science, Springer-Verlag, New York, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1016/S0967-0645(00)00178-8</doi>
+              <unstructured_citation>Dutkiewicz, S., Follows, M., Marshall, J., and Gregg, W. W.: Inter-annual variability of phytoplankton abundances in the North Atlantic, Deep-Sea Res., Pt. II, 48, 2323–2344, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1016/j.jcp.2012.07.022</doi>
+              <unstructured_citation>El Moselhy, T. A. and Marzouk, Y. M.: Bayesian inference with optimal maps, J. Comput. Phys., 231, 7815–7850, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/94JC00572</doi>
+              <unstructured_citation>Evensen, G.: Sequential data assimilation with a nonlinear quasi-geostrophic model using Monte Carlo methods to forecast error statistics, J. Geophys. Res., 99, 10143–10162, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1007/s10236-003-0036-9</doi>
+              <unstructured_citation>Evensen, G.: The Ensemble Kalman Filter: theoretical formulation and practical implementation, Ocean Dynam., 53, 343–367, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1007/978-1-4419-7955-1_10</doi>
+              <unstructured_citation>Fournier, A., Hulot, G., Jault, D., Kuang, W., Tangborn, A., Gillet, N., Canet, E., Aubert, J., and Lhuillier, F.: An Introduction to Data Assimilation and Predictability in Geomagnetism, Space Sci. Rev., 155, 247–291, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1049/ip-f-2.1993.0015</doi>
+              <unstructured_citation>Gordon, N. J., Salmond, D. J., and Smith, A. F. M.: Novel approach to nonlinear/non-Gaussian Bayesian state estimation, IEEE Proc. F., 140, 107–113, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/j.jmarsys.2008.05.006</doi>
+              <unstructured_citation>Gregg, W. W., Friedrichs, M. A., Robinson, A. R., Rose, K. A., Schlitzer, R., Thompson, K. R., and Doney, S. C.: Skill assess- ment in ocean biological data assimilation, J. Mar. Syst., 76, 16–33, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/2010MWR3328.1</doi>
+              <unstructured_citation>Greybush, S. J., Kalnay, E., Miyoshi, T., Ide, K., and Hunt, B. R.: Balance and Ensemble Kalman Filter Localization Techniques, Mon. Weather Rev., 139, 511–522, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;0550:IORHFV&gt;2.0.CO;2</doi>
+              <unstructured_citation>Hamill, T. M.: Interpretation of Rank Histograms for Verifying Ensemble Forecasts, Mon. Weather Rev., 129, 550–560, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;2776:DDFOBE&gt;2.0.CO;2</doi>
+              <unstructured_citation>Hamill, T. M., Whitaker, J. S., and Snyder, C.: Distance-Dependent Filtering of Background Error Covariance Estimates in an Ensemble Kalman Filter, Mon. Weather Rev., 129, 2776–2790, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1111/j.1600-0870.2007.00225.x</doi>
+              <unstructured_citation>Harlim, J. and Hunt, B.: A non-Gaussian ensemble filter for assimilating infrequent noisy observations, Tellus A, 59, 225–237, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/2011MWR3640.1</doi>
+              <unstructured_citation>Hoteit, I., Luo, X., and Pham, D.-T.: Particle Kalman Filtering: A Nonlinear Bayesian Framework for Ensemble Kalman Filters, Mon. Weather Rev., 140, 528–542, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1175/1520-0493(1998)126&lt;0796:DAUAEK&gt;2.0.CO;2</doi>
+              <unstructured_citation>Houtekamer, P. L. and Mitchell, H. L.: Data Assimilation Using an Ensemble Kalman Filter Techniqu, Mon. Weather Rev., 126, 796–811, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;0123:ASEKFF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Houtekamer, P. L. and Mitchell, H. L.: A Sequential Ensemble Kalman Filter for Atmospheric Data Assimilation, Mon. Weather Rev., 129, 123–137, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1115/1.3662552</doi>
+              <unstructured_citation>Kalman, R.: A new approach to linear filtering and prediction problems, Trans. Am. Soc. Mech. Mech. Eng. J. Basic Eng., 82, 35–45, 1960.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Kullback, S.: Information Theory and Statistics, Wiley, New York, 1959.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1016/j.ocemod.2008.10.007</doi>
+              <unstructured_citation>Lauvernet, C., Brankart, J.-M., Castruccio, F., Broquet, G., Brasseur, P., and Verron, J.: A truncated Gaussian filter for data assimilation with inequality constraints: Application to the hydrostatic stability condition in ocean models, Oceanogr. Meteorol., 27, 1–17, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;1966:IOSADF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lawson, W. and Hansen, J.: Implications of stochastic and deterministic filters as ensemble-based data assimilation methods in varying regimes of error growth, Mon. Weather Rev., 132, 1966–1981, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/2009MWR3133.1</doi>
+              <unstructured_citation>Lei, J., Bickel, P., and Snyder, C.: Comparison of Ensemble Kalman Filters under Non-Gaussianity, Mon. Weather Rev., 138, 1293–1306, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/1520-0493(1999)127&lt;1408:DAVESS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lermusiaux, P. F. J.: Data assimilation via error subspace statistical estimation, Part II: Middle Atlantic Bight shelfbreak front simulations and ESSE validation, Mon. Weather Rev., 127, 1408–1432, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1016/j.jcp.2006.02.010</doi>
+              <unstructured_citation>Lermusiaux, P. F. J.: Uncertainty estimation and prediction for interdisciplinary ocean dynamics, J. Comp. Phys., 217, 176–199, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/1520-0469(1963)020&lt;0130:DNF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lorenz, E.: Deterministic Nonperiodic Flow, J. Atmos. Sci., 20, 130–141, 1963.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1016/j.jcp.2011.11.022</doi>
+              <unstructured_citation>Morzfeld, M., Tub, X., Atkinsa, E., and Chorin, A.: A random map implementation of implicit filters, J. Comp. Phys., 231, 2049–2066, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/npg-14-395-2007</doi>
+              <unstructured_citation>Nakano, S., Ueno, G., and Higuchi, T.: Merging particle filter for sequential data assimilation, Nonlin. Processes Geophys., 14, 395–408, https://doi.org/10.5194/npg-14-395-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;1194:SMFSDA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Pham, D. T.: Stochastic Methods for Sequential Data assimilation in Strongly nonlinear systems, Mon. Weather Rev., 129, 1194–1207, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1137/130907367</doi>
+              <unstructured_citation>Reich, S.: A nonparametric ensemble transform method for Bayesian inference, SIAM J. Sci. Comput., 35, A2013–A2024, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1007/s10596-010-9202-6</doi>
+              <unstructured_citation>Sakov, P. and Bertino, L.: Relation between two common localisation methods for the EnKF, Comput. Geosci., 15, 225–237, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/os-8-633-2012</doi>
+              <unstructured_citation>Sakov, P., Counillon, F., Bertino, L., Lisæter, K. A., Oke, P. R., and Korablev, A.: TOPAZ4: an ocean-sea ice data assimilation system for the North Atlantic and Arctic, Ocean Sci., 8, 633–656, https://doi.org/10.5194/os-8-633-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/os-5-495-2009</doi>
+              <unstructured_citation>Simon, E. and Bertino, L.: Application of the Gaussian anamorphosis to assimilation in a 3-D coupled physical-ecosystem model of the North Atlantic with the EnKF: a twin experiment, Ocean Sci., 5, 495–510, https://doi.org/10.5194/os-5-495-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Snyder, C.: Particle filters, the optimal proposal and high-dimensional systems, Proc. Seminar on Data Assimilation for Atmosphere and Ocean, ECMWF, Reading, Berkshire, 161–170, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/2008MWR2529.1</doi>
+              <unstructured_citation>Snyder, C., Bengtsson, T., Bickel, P., and Anderson, J.: Obstacles to high-dimensional particle filtering, Mon. Weather Rev., 136, 4629–4640, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1137/1.9780898717921</doi>
+              <unstructured_citation>Tarantola, A.: Inverse problem theory and methods for model parameter estimation, SIAM, Philadelphia, USA, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/2009MWR2835.1</doi>
+              <unstructured_citation>van Leeuwen, P.: Particle filtering in geophysical systems, Mon. Weather Rev., 137, 4089–4114, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1002/qj.699</doi>
+              <unstructured_citation>van Leeuwen, P.: Nonlinear data assimilation in geosciences: an extremely efficient particle filter, Q. J. Roy. Meteorol. Soc., 136, 1991–1999, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1007/978-3-540-71050-9</doi>
+              <unstructured_citation>Villani, C.: Optimal transportation: Old and new, Springer-Verlag, Berlin, Heidelberg, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1175/1520-0493(2002)130&lt;1913:EDAWPO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Whitaker, J. S. and Hamill, T. M.: Ensemble data assimilation without perturbed observations, Mon. Weather Rev., 1913–1924, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1175/2007MWR2018.1</doi>
+              <unstructured_citation>Whitaker, J. S., Hamill, T. M., Wei, X., Song, Y., and Toth, Z.: Ensemble data assimilation with the NCEP Global Forecast System, Mon. Weather Rev., 136, 463–482, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1007/BF00175354</doi>
+              <unstructured_citation>Whitley, D.: A genetic algorithm tutorial, Statist. Comput., 4, 65–85, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1016/j.physd.2006.09.017</doi>
+              <unstructured_citation>Wikle, C. and Berliner, L.: A Bayesian tutorial for data assimilation, Physica D, 230, 1–16, 2007.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

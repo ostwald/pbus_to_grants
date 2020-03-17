@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Assimilating compact phase space retrievals of atmospheric composition  with WRF-Chem/DART: a regional chemical transport/ensemble Kalman filter  data assimilation system</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Arthur P.</given_name>
+              <surname>Mizzi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Avelino F.</given_name>
+              <surname>Arellano Jr.</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David P.</given_name>
+              <surname>Edwards</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey L.</given_name>
+              <surname>Anderson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gabriele G.</given_name>
+              <surname>Pfister</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This paper introduces the Weather Research and Forecasting Model with chemistry/Data Assimilation Research Testbed (WRF-Chem/DART) chemical transport forecasting/data assimilation system together with the assimilation of <i>compact phase space retrievals</i> of satellite-derived atmospheric composition products. WRF-Chem is a state-of-the-art chemical transport model. DART is a flexible software environment for researching ensemble data assimilation with different assimilation and forecast model options. DART's primary assimilation tool is the ensemble adjustment Kalman filter. WRF-Chem/DART is applied to the assimilation of Terra/Measurement of Pollution in the Troposphere (MOPITT) carbon monoxide (CO) trace gas retrieval profiles. Those CO observations are first assimilated as quasi-optimal retrievals (QORs). Our results show that assimilation of the CO retrievals (i) reduced WRF-Chem's CO bias in retrieval and state space, and (ii) improved the CO forecast skill by reducing the Root Mean Square Error (RMSE) and increasing the Coefficient of Determination (<i>R</i><sup>2</sup>). Those CO forecast improvements were significant at the 95 % level.<br><br> Trace gas retrieval data sets contain (i) large amounts of data with limited information content per observation, (ii) error covariance cross-correlations, and (iii) contributions from the retrieval prior profile that should be removed before assimilation. Those characteristics present challenges to the assimilation of retrievals. This paper addresses those challenges by introducing the assimilation of compact phase space retrievals (CPSRs). CPSRs are obtained by preprocessing retrieval data sets with an algorithm that (i) compresses the retrieval data, (ii) diagonalizes the error covariance, and (iii) removes the retrieval prior profile contribution. Most modern ensemble assimilation algorithms can efficiently assimilate CPSRs. Our results show that assimilation of MOPITT CO CPSRs reduced the number of observations (and assimilation computation costs) by  ∼ <span class="thinspace"></span>35 %, while providing CO forecast improvements comparable to or better than with the assimilation of MOPITT CO QORs.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>04</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>965</first_page>
+            <last_page>978</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-965-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/965/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/965/2016/gmd-9-965-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Anderson, J. L.: An ensemble adjustment Kalman filter for data assimilation,
+Mon. Weather Rev., 129, 2884–2903, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Anderson, J. L.: A local least squares framework for ensemble filtering,
+Mon. Weather Rev., 131, 634–642, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Anderson, J. L., Hoar, T., Raeder, K., Liu, H., Collins, N., Torn, R., and
+Arellano, A.: The Data Assimilation Research Testbed: A community facility,
+B. Am. Meteorol. Soc., 90, 1283–1296, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/acp-8-7353-2008</doi>
+              <unstructured_citation>Bei, N., de Foy, B., Lei, W., Zavala, M., and Molina, L. T.: Using 3DVAR data
+assimilation system to improve ozone simulations in the Mexico City basin,
+Atmos. Chem. Phys., 8, 7353–7366, https://doi.org/10.5194/acp-8-7353-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2009JD012820</doi>
+              <unstructured_citation>Colarco, P., da Silva, A., Chin, M., and Diehl, T.: Online simulation of
+global aerosol distributions in the NASA GEOS-4 model and comparisons to
+satellite and ground-based aerosol optical depth, J. Geophys. Res., 115,
+D14207, https://doi.org/10.1029/2009JD012820, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Deeter, M. N.: MOPITT (Measurement of Pollution in the Troposphere) version
+5 Product User's Guide, available at:
+www.acom.ucar.edu/mopitt/v5_users_guide_beta.pdf (last access: 1 March 2016), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2012JD017553</doi>
+              <unstructured_citation>Deeter, M. N., Worden, H. M., Edwards, D. P., Gille, J. C., and Andrews, A. E.:
+Evaluation of MOPITT retrievals of lower-tropospheric carbon monixide over the United States, J. Geophs. Res., 117, D13306, https://doi.org/10.1029/2012JD017553, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Deeter, M. N., Martinez, A. S., Edwards, D. P., Emmons, L. K., Gille, J. C.,
+Worden, H. M., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: Validation of
+MOPITT version 5 thermal-infrared, near-infrared, and multispectral carbon
+monoxide profile retrievals for 2000–2011, J. Geophys. Res.-Atmos., 118,
+6710–6725, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/gmd-3-43-2010</doi>
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G.,
+Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando,
+J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.:
+Description and evaluation of the Model for Ozone and Related chemical
+Tracers, version 4 (MOZART-4), Geosci. Model Dev., 3, 43–67,
+https://doi.org/10.5194/gmd-3-43-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/gmd-7-283-2014</doi>
+              <unstructured_citation>Gaubert, B., Coman, A., Foret, G., Meleux, F., Ung, A., Rouil, L., Ionescu,
+A., Candau, Y., and Beekmann, M.: Regional scale ozone data assimilation
+using an ensemble Kalman filter and the CHIMERE chemical transport model,
+Geosci. Model Dev., 7, 283–302, https://doi.org/10.5194/gmd-7-283-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G.,
+Skamrock, W. C., and Eder, B.: Fully coupled “online” chemistry in the WRF
+model, Atmos. Environ., 39, 6957–6976, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/gmd-5-1471-2012</doi>
+              <unstructured_citation>Guenther, A. B., Jiang, X., Heald, C. L., Sakulyanontvittaya, T., Duhl, T.,
+Emmons, L. K., and Wang, X.: The Model of Emissions of Gases and Aerosols
+from Nature version 2.1 (MEGAN2.1): an extended and updated framework for
+modeling biogenic emissions, Geosci. Model Dev., 5, 1471–1492,
+https://doi.org/10.5194/gmd-5-1471-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-12-5603-2012</doi>
+              <unstructured_citation>Herron-Thorpe, F. L., Mount, G. H., Emmons, L. K., Lamb, B. K., Chung, S. H.,
+and Vaughan, J. K.: Regional air-quality forecasting for the Pacific
+Northwest using MOPITT/TERRA assimilated carbon monoxide MOZART-4 forecasts
+as a near real-time boundary condition, Atmos. Chem. Phys., 12, 5603–5615,
+https://doi.org/10.5194/acp-12-5603-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Joiner J. and da Silva, A. B.: Efficient methods to assimilate remotely
+sensed data based on information content, Q. J. Roy. Meteor. Soc., 124,
+1669–1694, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-12-4493-2012</doi>
+              <unstructured_citation>Klonecki, A., Pommier, M., Clerbaux, C., Ancellet, G., Cammas, J.-P., Coheur,
+P.-F., Cozic, A., Diskin, G. S., Hadji-Lazaro, J., Hauglustaine, D. A., Hurtmans,
+D., Khattatov, B., Lamarque, J.-F., Law, K. S., Nedelec, P., Paris, J.-D.,
+Podolske, J. R., Prunet, P., Schlager, H., Szopa, S., and Turquety, S.:
+Assimilation of IASI satellite CO fields into a global chemistry transport
+model for validation against aircraft measurements, Atmos. Chem. Phys., 12, 4493–4512, https://doi.org/10.5194/acp-12-4493-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/acp-12-1-2012</doi>
+              <unstructured_citation>Kukkonen, J., Olsson, T., Schultz, D. M., Baklanov, A., Klein, T., Miranda,
+A. I., Monteiro, A., Hirtl, M., Tarvainen, V., Boy, M., Peuch, V.-H.,
+Poupkou, A., Kioutsioukis, I., Finardi, S., Sofiev, M., Sokhi, R., Lehtinen,
+K. E. J., Karatzas, K., San José, R., Astitha, M., Kallos, G., Schaap,
+M., Reimer, E., Jakobs, H., and Eben, K.: A review of operational,
+regional-scale, chemical weather forecasting models in Europe, Atmos. Chem.
+Phys., 12, 1–87, https://doi.org/10.5194/acp-12-1-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>MACC-II Final Report: Monitoring Atmospheric Composition and Climate –
+Interim Implementation, available at:
+https://www.wmo.int/pages/prog/arep/gaw/documents/GAW-2013-Peuch-MACCII.pdf (last access: 1 March 2016),
+2014.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Migliorini, S.: On the equivalence between radiance and retrieval
+assimilation, Mon. Weather Rev., 140, 258–265, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Migliorini, S., Piccolo, C., and Rodgers, C. D.: Use of the information
+content in satellite measurements for an efficient interface to data
+assimilation, Mon. Weather Rev., 136, 2633–2650, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2012JD018333</doi>
+              <unstructured_citation>Pagowski, M. and Grell, G. A.: Experiments with the assimilation of fine
+aerosols using an ensemble Kalman filter, J. Geophys. Res., 117, D21302,
+https://doi.org/10.1029/2012JD018333, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-11-7515-2011</doi>
+              <unstructured_citation>Pfister, G. G., Avise, J., Wiedinmyer, C., Edwards, D. P., Emmons, L. K.,
+Diskin, G. D., Podolske, J., and Wisthaler, A.: CO source contribution
+analysis for California during ARCTAS-CARB, Atmos. Chem. Phys., 11,
+7515–7532, https://doi.org/10.5194/acp-11-7515-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/2013JD020336</doi>
+              <unstructured_citation>Pfister, G. G., Walters, S., Emmons, L. K., Edwards, D. P., and Avise, J.:
+Quantifying the contribution of inflow on surface ozone over California during summer 2008, J.
+Geophys. Res.-Atmos., 118, 12282–12299, https://doi.org/10.1002/2013JD020336, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1142/3171</doi>
+              <unstructured_citation>Rodgers, C. D.: Inverse Methods for Atmospheric Sounding, Theory and
+Practice, World Sci., Singapore, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Smith, W. L. and Woolf, H.: The use of eigenvectors of statistical covariance
+matrices for interpreting satellite sounding radiometer observations, J.
+Atmos. Sci., 33, 1–7, 1976.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Thompson, O.: Regularizing the satellite temperature-retrieval problem
+through singular-value decomposition of the radiative transfer physics, Mon.
+Weather Rev., 120 2314–2328, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Twomey, S.: Information content in remote sensing, Appl. Optics, 13,
+942–945, 1974.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/gmd-4-625-2011</doi>
+              <unstructured_citation>Wiedinmyer, C., Akagi, S. K., Yokelson, R. J., Emmons, L. K., Al-Saadi, J.
+A., Orlando, J. J., and Soja, A. J.: The Fire INventory from NCAR (FINN): a
+high resolution global model to estimate the emissions from open burning,
+Geosci. Model Dev., 4, 625–641, https://doi.org/10.5194/gmd-4-625-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2010JD014242</doi>
+              <unstructured_citation>Worden, H. M., Deeter, M. N., Edwards, D. P., Gille, J. C., Drummond, J. R., and Nedelec, P.:
+Observations of near-surface carbon monoxide from space using MOPITT multispectral retrievals, J. Geophys. Res., 115, D18314, https://doi.org/10.1029/2010JD014242, 2010.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

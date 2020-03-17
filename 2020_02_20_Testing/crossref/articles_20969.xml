@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1145" timestamp="2017-08-24 10:15:03">
+    <crossref>
+      <conference>
+        <contributors>
+          <person_name sequence="first" contributor_role="chair">
+            <given_name>Pavan</given_name>
+            <surname>Balaji</surname>
+            <affiliation>Argonne National Laboratory</affiliation>
+          </person_name>
+          <person_name sequence="additional" contributor_role="chair">
+            <given_name>William</given_name>
+            <surname>Gropp</surname>
+            <affiliation>University of Illinois, Urbana-Champaign</affiliation>
+          </person_name>
+          <person_name sequence="additional" contributor_role="chair">
+            <given_name>Rajeev</given_name>
+            <surname>Thakur</surname>
+            <affiliation>Argonne National Laboratory</affiliation>
+          </person_name>
+          <person_name sequence="additional" contributor_role="chair">
+            <given_name>Antonio J.</given_name>
+            <surname>Peña</surname>
+            <affiliation>Barcelona Supercomputing Center</affiliation>
+          </person_name>
+        </contributors>
+        <event_metadata>
+          <conference_name>the 24th European MPI Users' Group Meeting</conference_name>
+          <conference_acronym>EuroMPI '17</conference_acronym>
+          <conference_sponsor>SIGHPC, ACM Special Interest Group on High Performance Computing, Special Interest Group on High Performance Computing</conference_sponsor>
+          <conference_sponsor>Intel</conference_sponsor>
+          <conference_sponsor>Mellanox, Mellanox Technologies</conference_sponsor>
+          <conference_number>24</conference_number>
+          <conference_location>Chicago, Illinois</conference_location>
+          <conference_date start_month="09" start_year="2017" start_day="25" end_year="2017" end_month="09" end_day="28"/>
+        </event_metadata>
+        <proceedings_metadata language="en">
+          <proceedings_title>Proceedings of the 24th European MPI Users' Group Meeting on   - EuroMPI '17</proceedings_title>
+          <publisher>
+            <publisher_name>ACM Press</publisher_name>
+            <publisher_place>New York, New York, USA</publisher_place>
+          </publisher>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <isbn media_type="print">9781450348492</isbn>
+          <doi_data>
+            <doi>10.1145/3127024</doi>
+            <timestamp>20170824074420</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=3127024</resource>
+          </doi_data>
+        </proceedings_metadata>
+        <conference_paper publication_type="full_text">
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Alessandro</given_name>
+              <surname>Fanfarillo</surname>
+              <affiliation>National Center for Atmospheric Research</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Davide Del</given_name>
+              <surname>Vento</surname>
+              <affiliation>National Center for Atmospheric Research</affiliation>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Notified access in coarray fortran</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1</first_page>
+            <last_page>7</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2017-09-25">http://www.acm.org/publications/policies/copyright_policy#Background</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1145/3127024.3127026</doi>
+            <timestamp>20170824074420</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=3127024.3127026</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://dl.acm.org/ft_gateway.cfm?id=3127026&amp;ftid=1900451&amp;dwn=1</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="key-10.1145/3127024.3127026-1">
+              <unstructured_citation>
+                2013.
+                <i>Using the GNI and DMAPP APIs.</i>
+                Technical Report S-2446-5002. Cray. http://docs.cray.com/books/S-2446-5002/S-2446-5002.pdf
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-2">
+              <doi provider="crossref">10.1109/IPDPS.2015.30</doi>
+              <unstructured_citation>
+                R. Belli and T. Hoefler. 2015. Notified Access: Extending Remote Memory Access Programming Models for Producer-Consumer Synchronization. In
+                <i>2015 IEEE International Parallel and Distributed Processing Symposium.</i>
+                871--881.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-3">
+              <unstructured_citation>
+                D Bonachea. 2012. Proposal for extending the UPC libraries with explicit point-to-point synchronization support.
+                <i>Lawrence Berkeley National Lab, Tech. Rep</i>
+                (2012).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-4">
+              <doi provider="crossref">10.1145/2020373.2020375</doi>
+              <unstructured_citation>
+                Barbara Chapman, Tony Curtis, Swaroop Pophale, Stephen Poole, Jeff Kuehn, Chuck Koelbel, and Lauren Smith. 2010. Introducing OpenSHMEM: SHMEM for the PGAS Community. In
+                <i>Proceedings of the Fourth Conference on Partitioned Global Address Space Programming Model (PGAS '10).</i>
+                ACM, New York, NY, USA, Article 2, 3 pages.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-5">
+              <doi provider="crossref">10.1109/HPEC.2014.7040972</doi>
+              <unstructured_citation>
+                R. F. Van der Wijngaart and T. G. Mattson. 2014. The Parallel Research Kernels. In
+                <i>High Performance Extreme Computing Conference (HPEC), 2014 IEEE.</i>
+                1--6.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-6">
+              <doi provider="crossref">10.1007/978-3-319-05215-1_12</doi>
+              <unstructured_citation>
+                James Dinan, Clement Cole, Gabriele Jost, Stan Smith, Keith Underwood, and Robert W. Wisniewski. 2014.
+                <i>Reducing Synchronization Overhead Through Bundled Communication.</i>
+                Springer International Publishing, Cham, 163--177.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-7">
+              <unstructured_citation>
+                A. Fanfarillo, T. Burnus, V. Cardellini, S. Filippone, D. Nagle, and D. Rouson. 2014. OpenCoarrays: Open-source Transport Layers Supporting Coarray Fortran Compilers. In
+                <i>PGAS (PGAS '14).</i>
+                ACM, Article 4, 11 pages.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-8">
+              <unstructured_citation>
+                Alessandro Fanfarillo and Jeff Hammond. 2016. CAF Events Implementation Using MPI-3 Capabilities. In
+                <i>Proceedings of the 23rd European MPI Users' Group Meeting (EuroMPI 2016).</i>
+                ACM, New York, NY, USA, 198--207.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-9">
+              <doi provider="crossref">10.1145/2503210.2503286</doi>
+              <unstructured_citation>
+                Robert Gerstenberger, Maciej Besta, and Torsten Hoefler. 2013. Enabling Highly-scalable Remote Memory Access Programming with MPI-3 One Sided. In
+                <i>Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis (SC '13).</i>
+                ACM, New York, NY, USA, Article 53, 12 pages.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-10">
+              <unstructured_citation>
+                Daniel Gr&amp;#252;newald and Christian Simmendinger. 2013. The GASPI API specification and its implementation GPI 2.0. In
+                <i>7th International Conference on PGAS Programming Models</i>
+                , Vol. 243.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-11">
+              <unstructured_citation>
+                Torsten Hoefler, James Dinan, Rajeev Thakur, Brian Barrett, Pavan Balaji, William Gropp, and Keith Underwood. 2015. Remote Memory Access Programming in MPI-3.
+                <i>ACM Trans. Parallel Comput.</i>
+                2, 2, Article 9 (June 2015), 26 pages.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-12">
+              <doi provider="crossref">10.1109/IPDPS.2011.217</doi>
+              <unstructured_citation>
+                A. Hori, J. Lee, and M. Sato. 2011. Audit: New Synchronization for the GET/PUT Protocol. In
+                <i>2011 IEEE International Symposium on Parallel and Distributed Processing Workshops and Phd Forum.</i>
+                747--753.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-13">
+              <unstructured_citation>ISO/IEC/JTC1/SC22/WG5. 2015. TS 18508 Additional Parallel Features in Fortran. (Aug. 2015).</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-14">
+              <doi provider="crossref">10.1145/2676870.2676880</doi>
+              <unstructured_citation>
+                Jithin Jose, Sreeram Potluri, Hari Subramoni, Xiaoyi Lu, Khaled Hamidouche, Karl Schulz, Hari Sundar, and Dhabaleswar K. Panda. 2014. Designing Scalable Out-of-core Sorting with Hybrid MPI+PGAS Programming Models. In
+                <i>Proceedings of the 8th International Conference on Partitioned Global Address Space Programming Models (PGAS '14).</i>
+                ACM, New York, NY, USA, Article 7, 9 pages.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-15">
+              <unstructured_citation>
+                Jarek Nieplocha and Bryan Carpenter. 1999. ARMCI: A Portable Remote Memory Copy Library for Distributed Array Libraries and Compiler Run-Time Systems. In
+                <i>Lecture Notes in Computer Science.</i>
+                Springer-Verlag, 533--546.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-16">
+              <unstructured_citation>
+                Robert W. Numrich and John Reid. 2005. Co-arrays in the Next Fortran Standard.
+                <i>SIGPLAN Fortran Forum</i>
+                24, 2 (Aug. 2005), 4--17.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-17">
+              <doi provider="crossref">10.1109/IPPS.1998.669923</doi>
+              <unstructured_citation>
+                G. Shah, J. Nieplocha, J. Mirza, C. Kim, R. Harrison, R. K. Govindaraju, K. Gildea, P. DiNicola, and C. Bender. 1998. Performance and experience with LAPI-a new high-performance communication library for the IBM RS/6000 SP. In
+                <i>Proceedings of the First Merged International Parallel Processing Symposium and Symposium on Parallel and Distributed Processing.</i>
+                260--266.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-18">
+              <unstructured_citation>
+                Christian Simmendinger, Mirko Rahn, and Daniel Gruenewald. 2015.
+                <i>The GASPI API: A Failure Tolerant PGAS API for Asynchronous Dataflow on Heterogeneous Architectures.</i>
+                Springer International Publishing, Cham, 17--32.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-19">
+              <unstructured_citation>
+                Monika ten Bruggencate and Duncan Roweth. 2010. DMAPP: An API for One-Sided Programming Model on Baker Systems.
+                <i>Cray Users Group (CUG), Tech. Rep.</i>
+                (2010).
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-20">
+              <unstructured_citation>
+                UPC Consortium. 2005.
+                <i>UPC Language Specifications, v1.2.</i>
+                Tech Report LBNL-59208. Lawrence Berkeley National Lab. http://www.gwu.edu/~upc/publications/LBNL-59208.pdf
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-21">
+              <unstructured_citation>
+                Rob F. Van der Wijngaart, Abdullah Kayi, Jeff R. Hammond, Gabriele Jost, Tom St. John, Srinivas Sridharan, Timothy G. Mattson, John Abercrombie, and Jacob Nelson. 2016. Comparing Runtime Systems with Exascale Ambitions Using the Parallel Research Kernels. In
+                <i>ISC High Performance.</i>
+                321--339.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-22">
+              <unstructured_citation>
+                Rob F. Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff R. Hammond, Timothy G. Mattson, and Jacob E. Nelson. 2015. Using the Parallel Research Kernels to study PGAS models. In
+                <i>PGAS.</i>
+                IEEE.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3127024.3127026-23">
+              <unstructured_citation>Michael Woodacre, Derek Robb, Dean Roe, and Karl Feind. 2003. The SGI Altix TM 3000 global shared-memory architecture. Technical Whitepaper, Silicon Graphics. (2003).</unstructured_citation>
+            </citation>
+          </citation_list>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </doi_record>
+</doi_records>

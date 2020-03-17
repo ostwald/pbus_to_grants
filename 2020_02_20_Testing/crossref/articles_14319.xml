@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-11 16:38:17">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A technique for generating consistent ice sheet initial conditions for coupled ice sheet/climate models</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>J. G.</given_name>
+              <surname>Fyke</surname>
+              <ORCID>https://orcid.org/0000-0002-4522-3019</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>W. J.</given_name>
+              <surname>Sacks</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>W. H.</given_name>
+              <surname>Lipscomb</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> A transient technique for generating ice sheet preindustrial initial conditions for long-term coupled ice sheet/climate model simulations is developed and demonstrated over the Greenland ice sheet using the Community Earth System Model (CESM). End-member paleoclimate simulations of the last glacial maximum, mid-Holocene optimum and the preindustrial are combined using weighting provided by ice core data time series to derive continuous energy-balance-model-derived surface mass balance and surface temperature fields, which are subsequently used to force a long transient ice sheet model simulation of the last glacial cycle, ending at the preindustrial. The procedure accounts for the evolution of climate through the last glacial period and converges to a simulated preindustrial ice sheet that is geometrically and thermodynamically consistent with the preindustrial CESM state, yet contains a transient memory of past climate. The preindustrial state generated using this technique notably improves upon the standard equilibrium spin-up technique, relative to observations and other model studies, although in the demonstration we present here, large biases remain due primarily to climate model forcing biases. Ultimately, the method we describe provides a clear template for generating initial conditions for ice sheets within a fully coupled climate model framework that allows for the effects of past climate history to be self-consistently included in long-term simulations of the fully coupled ice sheet/climate system.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>23</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>1183</first_page>
+            <last_page>1195</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-7-1183-2014</doi>
+            <resource>https://www.geosci-model-dev.net/7/1183/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/7/1183/2014/gmd-7-1183-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/tc-6-589-2012</doi>
+              <unstructured_citation>Applegate, P. J., Kirchner, N., Stone, E. J., Keller, K., and Greve, R.: An assessment of key model parametric uncertainties in projections of Greenland Ice Sheet behavior, The Cryosphere, 6, 589–606, https://doi.org/10.5194/tc-6-589-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.3189/002214310792447699</doi>
+              <unstructured_citation>Arthern, R. and Gudmundsson, G.: Initialization of ice-sheet forecasts viewed as an inverse Robin problem, J. Glaciol., 56, 527–533, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2001JD900054</doi>
+              <unstructured_citation>Bamber, J. L., Layberry, R. L., and Gogineni, S.: A new ice thickness and bed data set for the Greenland ice sheet 1: Measurement, data reduction, and errors, J. Geophys. Res., 106, 33773–33780, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/JCLI-D-11-00442.1</doi>
+              <unstructured_citation>Bates, S. C., Fox-Kemper, B., Jayne, S. R., Large, W. G., Stevenson, S., and Yeager, S. G.: Mean biases, variability, and trends in air–sea fluxes and sea surface temperature in the CCSM4, J. Climate, 25, 7781–7801, https://doi.org/10.1175/JCLI-D-11-00442.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/JCLI-D-11-00416.1</doi>
+              <unstructured_citation>Brady, E., Otto-Bliesner, B., Kay, J., and Rosenbloom, N.: Sensitivity to glacial forcing in the CCSM4, J. Climate, 26, 1901–1925, https://doi.org/10.1175/JCLI-D-11-00416.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1038/372421a0</doi>
+              <unstructured_citation>Broecker, W.: Massive iceberg discharges as triggers for global climate change, Nature, 372, 421–424, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/cp-5-245-2009</doi>
+              <unstructured_citation>Calov, R., Ganopolski, A., Kubatzki, C., and Claussen, M.: Mechanisms and time scales of glacial inception simulated with an Earth system model of intermediate complexity, Clim. Past, 5, 245–258, https://doi.org/10.5194/cp-5-245-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/S0277-3791(01)00093-2</doi>
+              <unstructured_citation>Charbit, S., Ritz, C., and Ramstein, G.: Simulations of Northern Hemisphere ice-sheet retreat: sensitivity to physical mechanisms involved during the Last Deglaciation, Quaternary Sci. Rev., 21, 243–265, https://doi.org/10.1016/S0277-3791(01)00093-2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/cp-3-15-2007</doi>
+              <unstructured_citation>Charbit, S., Ritz, C., Philippon, G., Peyaud, V., and Kageyama, M.: Numerical reconstructions of the Northern Hemisphere ice sheets through the last glacial-interglacial cycle, Clim. Past, 3, 15–37, https://doi.org/10.5194/cp-3-15-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/96JC03981</doi>
+              <unstructured_citation>Cuffey, K. and Clow, G.: Temperature, accumulation, and ice sheet elevation in central Greenland through the last deglacial transition, J. Geophys. Res., 102, 26383–26396, https://doi.org/10.1029/96JC03981, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Cuffey, K. and Paterson, W.: The Physics of Glaciers, Elsevier, Amsterdam, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1007/978-3-642-85016-5_29</doi>
+              <unstructured_citation>Dahl-Jensen, D., Johnsen, S., Hammer, C., Clausen, H., and Jouzel, J.: Past accumulation rates derived from observed annual layers in the GRIP ice core from Summit, central Greenland, in: Ice in the Climate System, edited by: Peltier, W., 517–532, Springer-Verlag, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1126/science.282.5387.268</doi>
+              <unstructured_citation>Dahl-Jensen, D., Mosegaard, K., Gundestrup, N., Clow, G., Johnsen, S., Hansen, A., and Balling, N.: Past temperatures directly from the Greenland ice sheet, Science, 282, 268–271, https://doi.org/10.1126/science.282.5387.268, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/JCLI-D-11-00228.1</doi>
+              <unstructured_citation>de Boer, G., Chapman, W., Kay, J., Medeiros, B., Shupe, H., Vavrus, S., and Walsh, J.: A characterization of the present-day Arctic atmosphere in CCSM4, J. Climate, 25, 2676–2695, https://doi.org/10.1175/JCLI-D-11-00228.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2009GL038110</doi>
+              <unstructured_citation>Ettema, J., van den Broeke, M., van Meijgaard, E., van de Berg, W. J., Bamber, J., Box, J., and Bales, R.: Higher surface mass balance of the Greenland ice sheet revealed by high-resolution climate modeling, Geophys. Res. Lett., 36, L12501, https://doi.org/10.1029/2009GL038110, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/j.gloplacha.2003.11.003</doi>
+              <unstructured_citation>Forsström, P.-L. and Greve, R.: Simulation of the Eurasian ice sheet dynamics during the last glaciation, Global Planet. Change, 42, 59–81, https://doi.org/10.1016/j.gloplacha.2003.11.003, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1073/pnas.1216073110</doi>
+              <unstructured_citation>Foster, G. and Rohling, E.: Relationship between sea level and climate forcing by CO2 on geological timescales, Proc. Natl. Aca. Sci., 110, 1209–1214, https://doi.org/10.1073/pnas.1216073110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/gmd-4-117-2011</doi>
+              <unstructured_citation>Fyke, J. G., Weaver, A. J., Pollard, D., Eby, M., Carter, L., and Mackintosh, A.: A new coupled ice sheet/climate model: description and sensitivity to model physics under Eemian, Last Glacial Maximum, late Holocene and modern climate conditions, Geosci. Model Dev., 4, 117–136, https://doi.org/10.5194/gmd-4-117-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1007/s00382-014-2050-7</doi>
+              <unstructured_citation>Fyke, J., Eby, M., Mackintosh, A., and Weaver, A.: Impact of climate sensitivity and polar amplification on projections of Greenland Ice Sheet loss, Clim. Dynam., 1–12, https://doi.org/10.1007/s00382-014-2050-7, online first, 2014a.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Fyke, J., Sacks, W., Lipscomb, W., and Vizcaíno, M.: Coupling of the Community Ice Sheet Model to the Community Earth System Model (Part 1): model description, in preparation., 2014b.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/2011JCLI4083.1</doi>
+              <unstructured_citation>Gent, P., Danabasoglu, G., Donner, L., Holland, M., Hunke, E., Jayne, S., Lawrence, D., Neale, R., Rasch, P., Vertenstein, M., Worley, P., Yang, Z.-L., and Zhang, M.: The Community Climate System Model Version 4, J. Climate, 24, 4973–4991, https://doi.org/10.1175/2011JCLI4083.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/tc-6-1561-2012</doi>
+              <unstructured_citation>Gillet-Chaulet, F., Gagliardini, O., Seddik, H., Nodet, M., Durand, G., Ritz, C., Zwinger, T., Greve, R., and Vaughan, D. G.: Greenland ice sheet contribution to sea-level rise from a new-generation ice-sheet model, The Cryosphere, 6, 1561–1576, https://doi.org/10.5194/tc-6-1561-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.3189/2013JoG12J182</doi>
+              <unstructured_citation>Goelzer, H., Huybrechts, P., Furst, J., Nick, F., Andersen, M., Edwards, T., Fettweis, X., Payne, A., and Shannon, S.: Sensitivity of Greenland ice sheet projections to model formulations, J. Glaciol., 59, 733–749, https://doi.org/10.3189/2013JoG12J182, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1038/364203a0</doi>
+              <unstructured_citation>Greenland Ice-Core Project Members: Climate instability during the last interglacial period recorded in the GRIP ice core, Nature, 364, 203–207, https://doi.org/10.1038/364203a0, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/cp-8-1565-2012</doi>
+              <unstructured_citation>Gregory, J. M., Browne, O. J. H., Payne, A. J., Ridley, J. K., and Rutt, I. C.: Modelling large-scale ice-sheet-climate interactions following glacial inception, Clim. Past, 8, 1565–1580, https://doi.org/10.5194/cp-8-1565-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1038/nature12238</doi>
+              <unstructured_citation>Hanna, E., Navarro, F., Pattyn, F., Domingues, C., Fettweis, X., Ivins, E., Nicholls, R., Ritz, C., Smith, B., Tulaczyk, S., Whitehouse, P., and Zwally, H.: Ice-sheet mass balance and climate change, Nature, 498, 51–59, https://doi.org/10.1038/nature12238, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/tc-6-255-2012</doi>
+              <unstructured_citation>Helsen, M. M., van de Wal, R. S. W., van den Broeke, M. R., van de Berg, W. J., and Oerlemans, J.: Coupling of climate models and ice sheet models by surface mass balance gradients: application to the Greenland Ice Sheet, The Cryosphere, 6, 255–272, https://doi.org/10.5194/tc-6-255-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1016/0921-8181(94)90006-X</doi>
+              <unstructured_citation>Huybrechts, P.: The present evolution of the Greenland ice sheet: an assessment by modeling, Global and Planetary Change, 9, 39–51, https://doi.org/10.1016/0921-8181(94)90006-X, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1016/S0277-3791(01)00082-8</doi>
+              <unstructured_citation>Huybrechts, P.: Sea-level changes at the LGM from ice-dynamic reconstructions of the Greenland and Antarctic ice sheets during the glacial cycles, Quaternary Sci. Rev., 21, 203–231, https://doi.org/10.1016/S0277-3791(01)00082-8, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1002/2013GL057866</doi>
+              <unstructured_citation>Kopparla, P., Fischer, E. M., Hannay, C., and Knutti, R.: Improved simulation of extreme precipitation in a high-resolution atmosphere model, Geophys. Res. Lett., 40, 5803–5808, https://doi.org/10.1002/2013GL057866, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/JCLI-D-11-00326.1</doi>
+              <unstructured_citation>Landrum, L., Otto-Bliesner, B., Wahl, E., Conley, A., Lawrence, P., Rosenbloom, N., and Teng, H.: Last Millennium Climate and Its Variability in CCSM4, J. Climate, 26, 1085–1111, https://doi.org/10.1175/JCLI-D-11-00326.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2012GL051810</doi>
+              <unstructured_citation>Langen, P. L., Solgaard, A. M., and Hvidberg, C. S.: Self-inhibiting growth of the Greenland Ice Sheet, Geophys. Res. Lett., 39, L12502, https://doi.org/10.1029/2012GL051810, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/JCLI-D-11-00103.1</doi>
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Fletcher, C. G., Lawrence, P. J., Levis, S., Swenson, S. C., and Bonan, G. B.: The CCSM4 land simulation, 1850–2005: assessment of surface climate and new capabilities and simulation, 1850–2005: assessment of surface climate and new capabilities, J. Climate, 25, 2240–2260, https://doi.org/10.1175/JCLI-D-11-00103.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/JCLI-D-12-00557.1</doi>
+              <unstructured_citation>Lipscomb, W., Fyke, J., Vizcaíno, M., Sacks, W., Wolfe, J., Vertenstein, M., Craig, T., Kluzek, E., and Lawrence, D.: Implementation and initial evaluation of the Glimmer Community Ice Sheet Model in the Community Earth System Model, J. Climate, 26, 7352–7371, https://doi.org/10.1175/JCLI-D-12-00557.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/JD090iD01p02167</doi>
+              <unstructured_citation>Manabe, S. and Broccoli, A.: The influence of continental ice sheets on the climate of an ice age, J. Geophys. Res., 90, 2167–2190, 1985.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>National Center for Atmospheric Research, Computational and Information Systems Laboratory: Yellowstone IBM iDataPlex System (NCAR Community Computing), available at: http://n2t.net/ark:/85065/d7wd3xhc, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Oleson, K., Lawrence, D., Bonan, G., Flanner, M., Kluzek, E., Lawrence, P., Levis, S., Swenson, S., Thornton, P., Dai, A., Decker, M., Dickinson, R., Feddema, J., Heald, C., Hoffman, F., Lamarque, J.-F., Mahowald, N., Niu, G.-Y., Qian, T., Randerson, J., Running, S., Sakaguchi, K., Slater, A., Stöckli, R., Wang, A., Yang, Z., Zeng, X., and Zeng, X.: Technical Description of version 4.0 of the Community Land Model (CLM), National Center for Atmospheric Research, NCAR Technical Note, NCAR/TN-478+STR, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1073/pnas.1017313108</doi>
+              <unstructured_citation>Price, S., Payne, A., Howat, I., and Smith, B.: Committed sea-level rise for the next century from Greenland ice sheet dynamics during the past decade, Proc. Natl. Aca. Sci., 108, 8978–8983, https://doi.org/10.1073/pnas.1017313108, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/2008JCLI2327.1</doi>
+              <unstructured_citation>Pritchard, M., Bush, B., and Marshall, S.: Interannual atmospheric variability affects continental ice sheet simulations on millennial time scales, J. Climate, 21, 5976–5992, https://doi.org/10.1175/2008JCLI2327.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/tc-6-999-2012</doi>
+              <unstructured_citation>Quiquet, A., Punge, H. J., Ritz, C., Fettweis, X., Gallée, H., Kageyama, M., Krinner, G., Salas y Mélia, D., and Sjolte, J.: Sensitivity of a Greenland ice sheet model to atmospheric forcing fields, The Cryosphere, 6, 999–1018, https://doi.org/10.5194/tc-6-999-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/cp-9-353-2013</doi>
+              <unstructured_citation>Quiquet, A., Ritz, C., Punge, H. J., and Salas y Mélia, D.: Greenland ice sheet contribution to sea level rise during the last interglacial period: a modelling study driven and constrained by ice core data, Clim. Past, 9, 353–366, https://doi.org/10.5194/cp-9-353-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/JCLI3482.1</doi>
+              <unstructured_citation>Ridley, J., Huybrechts, P., Gregory, J., and Lowe, J.: Elimination of the Greenland ice sheet in a high CO2 climate, J. Climate, 18, 3409–3427, https://doi.org/10.1175/JCLI3482.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2010JF001787</doi>
+              <unstructured_citation>Rogozhina, I., Martinec, Z., Hagedoorn, J., Thomas, M., and Fleming, K.: On the long term memory of the Greenland ice sheet, J. Geophys. Res., 116, F01011, https://doi.org/10.1029/2010JF001787, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.3189/2013JoG13J054</doi>
+              <unstructured_citation>Seroussi, H., Morlighem, M., Rignot, E., Khazendar, A., Larour, E., and Mouginot, J.: Dependence of century-scale projections of the Greenland icesheet on its thermal regime, J. Glaciol., 59, 1024–1034, https://doi.org/10.3189/2013JoG13J054, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/tc-4-397-2010</doi>
+              <unstructured_citation>Stone, E. J., Lunt, D. J., Rutt, I. C., and Hanna, E.: Investigating the sensitivity of numerical model simulations of the modern state of the Greenland ice-sheet and its future response to climate change, The Cryosphere, 4, 397–417, https://doi.org/10.5194/tc-4-397-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1016/j.gloplacha.2007.08.015</doi>
+              <unstructured_citation>van den Berg, J., van de Wal, R., and Oerlemans, H.: A mass balance model for the Eurasian Ice Sheet for the last 120,000 years, Global Planet. Change, 61, 194–208, https://doi.org/10.1016/j.gloplacha.2007.08.015, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1038/nature08355</doi>
+              <unstructured_citation>Vinther, B., Buchardt, S., Clausen, H., Dahl-Jensen, D., Johnsen, S., Fisher, D., Koerner, R., Raynaud, D., Lipenkov, V., Andersen, K., Blunier, T., Rasmussen, S., Steffensen, J., and Svensson, A.: Holocene thinning of the Greenland ice sheet, Nature, 461, 385–388, https://doi.org/10.1038/nature08355, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1007/s00382-009-0591-y</doi>
+              <unstructured_citation>Vizcaíno, M., Mikolajewicz, U., Jungclaus, J., and Schurgers, G.: Climate modification by future ice sheet changes and consequences for ice sheet mass balance, Clim. Dynam., 43, 301–324, https://doi.org/10.1007/s00382-009-0591-y, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1126/science.1081002</doi>
+              <unstructured_citation>Weaver, A., Saenko, O., Clark, P., and Mitrovica, J.: Meltwater pulse 1A from Antarctica as a trigger of the Bølling-Allerød warm interval, Science, 299, 1709–1713, https://doi.org/10.1126/science.1081002, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1016/j.quascirev.2009.10.013</doi>
+              <unstructured_citation>Wolff, E., Chappellaz, J., Blunier, T., Rasmussen, S., and Svensson, A.: Millennial scale variability during the last glacial: the ice core record, Quaternary Sci. Rev., 29, 2828–2838, https://doi.org/10.1016/j.quascirev.2009.10.013, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1007/s00376-013-3002-6</doi>
+              <unstructured_citation>Yan, Q., Wang, H., Johannessen, O., and Zhang, Z.: Greenland ice sheet contribution to future global sea level rise based on CMIP5 models, Adv. Atmos. Sci., 31, 8–16, https://doi.org/10.1007/s00376-013-3002-6, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1029/2004JD005489</doi>
+              <unstructured_citation>Zweck, C. and Huybrechts, P.: Modeling of the northern hemisphere ice sheets during the last glacial cycle and glaciological sensitivity, J. Geophys. Res. Atmos., 110, D07103, https://doi.org/10.1029/2004JD005489, 2005.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-08 13:29:30">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Ionospheric correction of GPS radio occultation data in the troposphere</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Z.</given_name>
+              <surname>Zeng</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Sokolovskiy</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>W.</given_name>
+              <surname>Schreiner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D.</given_name>
+              <surname>Hunt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Lin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Y.-H.</given_name>
+              <surname>Kuo</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> For inversions of the GPS radio occultation (RO) data in the neutral atmosphere, this study investigates an optimal transition height for replacing the standard ionospheric correction using the linear combination of the L1 and L2 bending angles with the correction of the L1 bending angle by the L1–L2 bending angle extrapolated from above. The optimal transition height depends on the RO mission (i.e., the receiver and firmware) and is different between rising and setting occultations and between L2P and L2C GPS signals. This height is within the range of approximately 10–20<span class="thinspace"></span>km. One fixed transition height, which can be used for the processing of currently available GPS RO data, can be set to 20<span class="thinspace"></span>km. Analysis of the L1CA and the L2C bending angles shows that in some occultations the errors of standard ionospheric correction substantially increase around the strong inversion layers (such as the top of the boundary layer). This error increase is modeled and explained by the horizontal inhomogeneity of the ionosphere.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>02</month>
+            <day>03</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>335</first_page>
+            <last_page>346</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1033112</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-9-335-2016</doi>
+            <resource>https://www.atmos-meas-tech.net/9/335/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/9/335/2016/amt-9-335-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2008JD010483</doi>
+              <unstructured_citation>Ao, C. O., Hajj, G. A., Meehan, T. K., Dong, D., Iijima, B. A., Mannucci, J.
+A., and Kursinski, E. R.: Rising and setting GPS occultations by use of
+open-loop tracking, J. Geophys. Res., 114, D04101, https://doi.org/10.1029/2008JD010483, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2005JD006427</doi>
+              <unstructured_citation>Gorbunov, M. E., Lauritsen, K. B., Rhodin, A., Tomassini, M, and Kornblueh,
+L.: Radio holographic filtering, error estimation and quality control of
+radio occultation data, J. Geophys. Res., 111, D10105, https://doi.org/10.1029/2005JD006427, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1016/S1364-6826(01)00114-6</doi>
+              <unstructured_citation>Hajj, G. A., Krusinski, E. R., Romans, L. J., Bertiger, W. I., and Leroy, S.
+S.: A technical description of atmospheric sounding by GPS occultation, J.
+Atmos. Sol.-Terr. Phy., 64, 451–469, https://doi.org/10.1016/S1364-6826(01)00114-6,
+2002.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2001JD900050</doi>
+              <unstructured_citation>Healy, S. B.: Radio occultation bending angle and impact parameter errors
+caused by horizontal refractive index gradients in the troposphere: A
+simulation study, J. Geophys. Res., 106, 11875–11889, https://doi.org/10.1029/2001JD900050, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/JCLI-D-14-00238.1</doi>
+              <unstructured_citation>Ho, S.-P., Peng, L., Anthes, R., Kuo, Y.-H., and Lin, H.-C.: Marine boundary layer heights and their longitudinal, diurnal and interseasonal variability
+in the Southeastern Pacific using COSMIC, CALIOP, and radiosonde data, J.
+Climate, 28, 2856–2872, https://doi.org/10.1175/JCLI-D-14-00238.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2003RS002899</doi>
+              <unstructured_citation>Jensen, A. S., Lohmann, M. S., Nielsen, A. S., and Benzon, H.-H.:
+Geometrical optics phase matching of radio occultation signals, Radio Sci.,
+39, RS3009, https://doi.org/10.1029/2003RS002899, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1007/978-3-642-84031-9</doi>
+              <unstructured_citation>Kravtsov, Y. A. and Orlov, Y. I.: Geometrical Optics of Inhomogeneous Media,
+Springer-Verlag, https://doi.org/10.1007/978-3-642-84031-9, 311 pp., 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Kuo, Y.-H., Wee, T.-K., Sokolovskiy, S., Rocken, C., Schreiner, W., Hunt,
+D., and Anthes, R. A.: Inversion and error estimation of GPS radio
+occultation data, J. Meteorol. Soc. Jpn., 82, 507–531, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1029/97JD01569</doi>
+              <unstructured_citation>Kursinski, E. R., Hajj, G. A., Schofield, J. T., Linfield, R. P., and Hardy,
+K. R.: Observing Earth's atmosphere with radio occultation measurements
+using the Global Positioning System, J. Geophys. Res., 102, 23429–23465,
+https://doi.org/10.1029/97JD01569, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Kursinski, E. R., Hajj, G. A., Leroy, S. S., and Herman, B.: The GPS radio
+occultation technique, TAO, 11, 53–114, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2004RS003117</doi>
+              <unstructured_citation>Lohmann, M. S.: Application of dynamical error estimation for statistical
+optimization of radio occultation bending angles, Radio Sci., 40, RS3011,
+https://doi.org/10.1029/2004RS003117, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/97JD02400</doi>
+              <unstructured_citation>Rocken, C., Anthes, R., Exner, M., Hunt, D., Sokolovskiy, S., Ware, R.,
+Gorbunov, M., Schreiner, W., Feng, D., Herman, B., Kuo, Y.-H., and Zou, X.:
+Analysis and validation of GPS/MET data in the neutral atmosphere, J.
+Geophys. Res., 102, 29849–29866, https://doi.org/10.1029/97JD02400, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-4-2255-2011</doi>
+              <unstructured_citation>Schreiner, W., Sokolovskiy, S., Hunt, D., Rocken, C., and Kuo, Y.-H.:
+Analysis of GPS radio occultation data from the FORMOSAT-3/COSMIC and
+Metop/GRAS missions at CDAAC, Atmos. Meas. Tech., 4, 2255–2272,
+https://doi.org/10.5194/amt-4-2255-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Sokolovskiy, S., Schreiner, W., Rocken, C., and Hunt, D.: Optimal noise
+filtering for the ionospheric correction of GPS radio occultation signals, J.
+Atmos. Ocean. Tech., 26, 1398–1403, 2009a.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2008RS003907</doi>
+              <unstructured_citation>Sokolovskiy, S., Rocken, C., Schreiner, W., Hunt, D., and Johnson, J.:
+Postprocessing of L1 GPS radio occultation signals recorded in open-loop
+mode, Radio Sci., 44, RS2002, https://doi.org/10.1029/2008RS003907, 2009b.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2010JD014058</doi>
+              <unstructured_citation>Sokolovskiy, S., Rocken, C., Schreiner, W., and Hunt, D.: On the uncertainty
+of radio occultation inversions in the lower troposphere, J. Geophys. Res.,
+115, D22111, https://doi.org/10.1029/2010JD014058, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Sokolovskiy, S., Lenschow, D. H., Zeng, Z., Rocken, C., Schreiner, W. S.,
+Hunt, D. C., Kuo, Y.-H., and Anthes, R. A.: Monitoring the depth of the
+atmospheric boundary layer by FORMOSAT-3/COSMIC, Presentation at 5th
+FORMOSAT-3/COSMIC Data Users Workshop, Taipei, Taiwan, available at:
+http://www.nspo.org.tw/5th_FS3WS/upload/files/Posted_Session_3A/S-3A-01_Sololovskiy_Monitoring_the_Depth_of_the_ABL(A).pdf
+(last access: 31 January 2016), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1007/s10291-013-0340-x</doi>
+              <unstructured_citation>Sokolovskiy, S. V., Schreiner, W. S., Zeng, Z., Hunt, D. C., Kuo, Y.-H.,
+Meehan, T. K., Stecheson, T. W., Mannucci, A. J., and Ao, C. O.: Use of the
+L2C signal for inversions of GPS radio occultation data in the neutral
+atmosphere, GPS Solut., 18, 405–416, https://doi.org/10.1007/s10291-013-0340-x, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1007/s00585-999-0122-5</doi>
+              <unstructured_citation>Steiner, A. K., Kirchengast, G., and Ladreiter, H. P.: Inversion, error
+analysis, and validation of GPS/MET occultation data, Ann. Geophys., 17,
+122–138, https://doi.org/10.1007/s00585-999-0122-5, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Syndergaard, S., Lauritsen, K. B., Wilhelmsen, H., and Larsen, K. R.:
+Analysis of Metop/GRAS data products with new on-board tracking parameters
+and L2 extrapolation, Presentation at Joint OPAC-5/IROWG-3 Workshop,
+Leibnitz, Austria, 5–11 September, available at:
+http://wegcwww.uni-graz.at/opacirowg2013/data/public/files/opac2013_Stig_Syndergaard_presentation_730.pdf (last access: 31 January 2016), 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Vorob'ev, V. V. and Krasil'nikova, T. G.: Estimation of the accuracy of the
+atmospheric refractive index recovery from Doppler shift measurements at
+frequencies used in the NAVSTAR system, Phys. Atmos. Ocean, 29, 602–609,
+1994.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Ware, R., Rocken, C., Solheim, F., Exner, M., Schreiner, W., Anthes, R.,
+Feng, D., Herman, B., Gorbunov, M., Sokolovskiy, S., Hardy, K., Kuo, Y., Zou,
+X., Trenberth, K., Meehan, T., Melbourne, W., and Businger, S.: GPS sounding
+of the atmosphere from lower Earth orbit: Preliminary results, B. Am.
+Meteorol. Soc., 77, 19–40, 1996.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

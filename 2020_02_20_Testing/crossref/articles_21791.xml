@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1175" timestamp="2018-05-17 11:38:17">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Weather and Forecasting</full_title>
+          <abbrev_title>Wea. Forecasting</abbrev_title>
+          <issn media_type="print">0882-8156</issn>
+          <issn media_type="electronic">1520-0434</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>06</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>33</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Validation of Mountain Precipitation Forecasts from the Convection-Permitting NCAR Ensemble and Operational Forecast Systems over the Western United States</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Thomas M.</given_name>
+              <surname>Gowan</surname>
+              <affiliation>Department of Atmospheric Sciences, University of Utah, Salt Lake City, Utah</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>W. James</given_name>
+              <surname>Steenburgh</surname>
+              <affiliation>Department of Atmospheric Sciences, University of Utah, Salt Lake City, Utah</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Craig S.</given_name>
+              <surname>Schwartz</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>06</month>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>739</first_page>
+            <last_page>765</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1175/WAF-D-17-0144.1</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Oceanic and Atmospheric Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000192</assertion>
+              </assertion>
+              <assertion name="award_number">NA15OAR4590191</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Oceanic and Atmospheric Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000192</assertion>
+              </assertion>
+              <assertion name="award_number">NA13NWS4680003 and NA17NWS4680001</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref start_date="2019-05-11" applies_to="vor">http://www.ametsoc.org/PUBSReuseLicenses</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1175/WAF-D-17-0144.1</doi>
+            <resource>http://journals.ametsoc.org/doi/10.1175/WAF-D-17-0144.1</resource>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">http://journals.ametsoc.org/doi/pdf/10.1175/WAF-D-17-0144.1</resource>
+              </item>
+            </collection>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.ametsoc.org/doi/pdf/10.1175/WAF-D-17-0144.1</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

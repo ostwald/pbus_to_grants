@@ -1,0 +1,51 @@
+<html>
+<head>
+    <LINK href="styles.css" type="text/css" rel="stylesheet">
+</head>
+</html>
+
+<h2>About the Table</h2>
+
+<p>
+    The table was made from the OpenSky publications since 1/1/2014 having a DOI. Each of the 4600+ rows
+    in the table
+    represents a publication. The "pid" link opens a new window opened to the OpenSky
+    landing page for that publication. The "doi" link opens a new window opened to the resolvedl
+    doi location.
+</p>
+<p>
+    For each DOI, both WOS and Crossref web services were queried for grant information,
+    namely award_ids. Note, sometimes the values for award_ids are not award_ids at all.
+    If you click on an award_id, a new window is opened to a Kuali API client loaded with the
+    award_id so you can see the API's response for that award_id.
+</p>
+<p>
+    Each award_id was submitted to the UCAR Kuali API. When grant information was found in Kuali, the
+    award_id was added in the kuali_verified_award_ids column.
+</p>
+<!--
+<p>
+    Future work:
+    <ul id="future-work">
+    <li>
+        Obviously there are some character encoding issues in the responses from WOS and CrossRef. I
+        am not sure if those are an artifact of the original responses or if the problems come from
+        the way I have stored and printed the responses.
+    </li>
+        <li>
+            As noted above, the data provided by the WOS and CrossRef Web Services is not reliable.
+            We need to filter and parse this information so we extract any possible award_ids, and ignore
+            the rest. For example, an award_id value of "award number NNX17AK19G" should be transformed to
+            "NNX17AK19G" before it is submitted to the Kuali API.
+        </li>
+    <li>
+        Eliminate false negatives. The Kuali API matches only the last (right most) 5 digits of any
+        given award number so it is possible to get many results, which must be processed by the client
+        to determine the best match. The current algoritm used by the client is not yet perfect, and
+        returns some false negatives. For example, award_id "AGS-1641177" does not return a Kuali result,
+        even though this award_id does match against several Kuali records. The current algorithm needs
+        to be improved to address this case and several other known cases.
+    </li>
+</ul>
+</p>
+-->

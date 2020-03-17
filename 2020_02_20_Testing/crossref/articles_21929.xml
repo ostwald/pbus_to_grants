@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2019-02-04 12:33:48">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Advances in Modeling Earth Systems</full_title>
+          <abbrev_title>J. Adv. Model. Earth Syst.</abbrev_title>
+          <issn>19422466</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>07</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>NCAR Release of CAM-SE in CESM2.0: A Reformulation of the Spectral Element Dynamical Core in Dry-Mass Vertical Coordinates With Comprehensive Treatment of Condensates and Energy</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>P. H.</given_name>
+              <surname>Lauritzen</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-7066-138X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>R. D.</given_name>
+              <surname>Nair</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-3105-715X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A. R.</given_name>
+              <surname>Herrington</surname>
+              <affiliation>School of Marine and Atmospheric Sciences; State University of New York at Stony Brook; Stony Brook NY USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-8273-5507</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>P.</given_name>
+              <surname>Callaghan</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>S.</given_name>
+              <surname>Goldhaber</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J. M.</given_name>
+              <surname>Dennis</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J. T.</given_name>
+              <surname>Bacmeister</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>B. E.</given_name>
+              <surname>Eaton</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-4433-3339</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>C. M.</given_name>
+              <surname>Zarzycki</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-5731-042X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Mark A.</given_name>
+              <surname>Taylor</surname>
+              <affiliation>Sandia National Laboratories; Albuquerque NM USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-9267-2554</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>P. A.</given_name>
+              <surname>Ullrich</surname>
+              <affiliation>Department of Land, Air and Water Resources; University of California; Davis CA USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-4118-4590</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>T.</given_name>
+              <surname>Dubos</surname>
+              <affiliation>Ecole Polytechnique, UMR 8539, Laboratoire de Météorologie Dynamique/IPSL; Palaiseau France</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A.</given_name>
+              <surname>Gettelman</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-8284-2599</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>R. B.</given_name>
+              <surname>Neale</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-4222-3918</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>B.</given_name>
+              <surname>Dobbins</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>K. A.</given_name>
+              <surname>Reed</surname>
+              <affiliation>School of Marine and Atmospheric Sciences; State University of New York at Stony Brook; Stony Brook NY USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-3741-7080</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>C.</given_name>
+              <surname>Hannay</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>B.</given_name>
+              <surname>Medeiros</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-2188-4784</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J. J.</given_name>
+              <surname>Benedict</surname>
+              <affiliation>Rosenstiel School of Marine and Atmospheric Science; University of Miami; Miami FL USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-5115-5131</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J. J.</given_name>
+              <surname>Tribbia</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-1639-9688</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>07</month>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>17</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>1537</first_page>
+            <last_page>1570</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100008982</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">NCAR Advance Study Program</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Department of Energy
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000015</assertion>
+              </assertion>
+              <assertion name="award_number">DE-FC02-97ER62402</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Center for Hierarchical Manufacturing, National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006445</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Rapid Response Research</assertion>
+              <assertion name="award_number">AGS-1547910</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="am" start_date="2019-07-17">http://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+            <license_ref applies_to="vor" start_date="2018-07-17">http://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1029/2017MS001257</doi>
+            <resource>http://doi.wiley.com/10.1029/2017MS001257</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1029/2017MS001257/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="am" mime_type="application/pdf">https://onlinelibrary.wiley.com/doi/am-pdf/10.1029%2F2017MS001257</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2017MS001257</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1029/2017MS001257-BIB0001|jame20693-cit-0001">
+              <author>Abdi</author>
+              <cYear>2017</cYear>
+              <article_title>Acceleration of the IMplicit-EXplicit nonhydrostatic unified model of the atmosphere on manycore processors</article_title>
+              <journal_title>The International Journal of High Performance Computing Applications</journal_title>
+              <volume>0</volume>
+              <issue>0</issue>
+              <first_page>1094342017732395</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0002|jame20693-cit-0002">
+              <author>Abdi</author>
+              <cYear>2017</cYear>
+              <article_title>A GPU-accelerated continuous and discontinuous Galerkin non-hydrostatic atmospheric model</article_title>
+              <journal_title>The International Journal of High Performance Computing Applications</journal_title>
+              <volume>0</volume>
+              <issue>0</issue>
+              <first_page>1094342017694427</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0003|jame20693-cit-0003">
+              <author>Ainsworth</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2013.11.003</doi>
+              <article_title>Dispersive behaviour of high order finite element schemes for the one-way wave equation</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <volume>259</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0004|jame20693-cit-0004">
+              <author>Ainsworth</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1137/080724976</doi>
+              <article_title>Dispersive and dissipative behavior of the spectral element method</article_title>
+              <journal_title>SIAM Journal on Numerical Analysis</journal_title>
+              <volume>47</volume>
+              <issue>5</issue>
+              <first_page>3910</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0005|jame20693-cit-0005">
+              <author>Bacmeister</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2011GL050533</doi>
+              <article_title>Assessing possible dynamical effects of condensate in high resolution climate simulations</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>39</volume>
+              <first_page>L04806</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0006|jame20693-cit-0006">
+              <author>Bacmeister</author>
+              <cYear>2016</cYear>
+              <article_title>Projected changes in tropical cyclone activity under future warming scenarios using a high-resolution climate model</article_title>
+              <journal_title>Climatic Change</journal_title>
+              <volume>39</volume>
+              <first_page>L04806</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0007|jame20693-cit-0007">
+              <author>Baer</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/MWR3360.1</doi>
+              <article_title>Climate modeling with spectral elements</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>134</volume>
+              <issue>12</issue>
+              <first_page>3610</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0008|jame20693-cit-0008">
+              <author>Bannon</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/1520-0469(2003)060&lt;2809:HDOIBG&gt;2.0.CO;2</doi>
+              <article_title>Hamiltonian description of idealized binary geophysical fluids</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>60</volume>
+              <issue>22</issue>
+              <first_page>2809</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0009|jame20693-cit-0009">
+              <author>Bellucci</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2009JCLI3002.1</doi>
+              <article_title>The double-ITCZ syndrome in coupled general circulation models: The role of large-scale vertical circulation regimes</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>23</volume>
+              <first_page>1127</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0010|jame20693-cit-0010">
+              <author>Canuto</author>
+              <cYear>2007</cYear>
+              <volume_title>Spectral methods: Evolution to complex geometries and applications to fluid dynamics</volume_title>
+              <edition_number>1</edition_number>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0011|jame20693-cit-0011">
+              <author>Charney</author>
+              <cYear>1971</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1971)028&lt;1087:GT&gt;2.0.CO;2</doi>
+              <article_title>Geostrophic turbulence</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>28</volume>
+              <first_page>1087</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0012|jame20693-cit-0012">
+              <author>Choi</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1007/s13143-016-0005-0</doi>
+              <article_title>A global non-hydrostatic dynamical core using the spectral element method on a cubed-sphere grid</article_title>
+              <journal_title>Asia-Pacific Journal of Atmospheric Sciences</journal_title>
+              <volume>52</volume>
+              <issue>3</issue>
+              <first_page>291</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0013|jame20693-cit-0013">
+              <author>Colella</author>
+              <cYear>1984</cYear>
+              <doi provider="crossref">10.1016/0021-9991(84)90143-8</doi>
+              <article_title>The piecewise parabolic method (PPM) for gas-dynamical simulations</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <volume>54</volume>
+              <first_page>174</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0014|jame20693-cit-0014">
+              <author>Dennis</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1177/1094342011428142</doi>
+              <article_title>CAM-SE: A scalable spectral element dynamical core for the Community Atmosphere Model</article_title>
+              <journal_title>International Journal of High Performance Computing</journal_title>
+              <volume>26</volume>
+              <issue>1</issue>
+              <first_page>74</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0015|jame20693-cit-0015">
+              <author>Dubos</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.5194/gmd-8-3131-2015</doi>
+              <article_title>Dynamico-1.0, an icosahedral hydrostatic dynamical core designed for consistency and versatility</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>8</volume>
+              <first_page>3131</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0016|jame20693-cit-0016">
+              <author>Emanuel</author>
+              <cYear>1994</cYear>
+              <volume_title>Atmospheric convection</volume_title>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0017|jame20693-cit-0017">
+              <author>Erath</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.procs.2012.04.106</doi>
+              <article_title>Integrating a scalable and efficient semi-Lagrangian multi-tracer transport scheme in HOMME</article_title>
+              <journal_title>Procedia Computer Science</journal_title>
+              <volume>9</volume>
+              <first_page>994</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0018|jame20693-cit-0018">
+              <author>Evans</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-11-00448.1</doi>
+              <article_title>AMIP simulations with the CAM4 spectral element dynamical core</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>26</volume>
+              <first_page>689</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0019|jame20693-cit-0019">
+              <author>Fournier</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;0726:TSEAMS&gt;2.0.CO;2</doi>
+              <article_title>The spectral element atmosphere model (SEAM): High-resolution parallel computation and localized resolution of regional dynamics</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>132</volume>
+              <issue>3</issue>
+              <first_page>726</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0020|jame20693-cit-0020">
+              <author>Gettelman</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1002/2017MS001227</doi>
+              <article_title>Regional climate simulations with the Community Earth System Model</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>10</volume>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0021|jame20693-cit-0021">
+              <author>Giraldo</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1137/120876034</doi>
+              <article_title>Implicit-explicit formulations of a three-dimensional nonhydrostatic unified model of the atmosphere (NUMA)</article_title>
+              <journal_title>SIAM Journal on Scientific Computing</journal_title>
+              <volume>35</volume>
+              <issue>5</issue>
+              <first_page>B1162</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0022|jame20693-cit-0022">
+              <author>Guba</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2014.02.029</doi>
+              <article_title>Optimization-based limiters for the spectral element method</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <volume>267</volume>
+              <issue>0</issue>
+              <first_page>176</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0023|jame20693-cit-0023">
+              <author>Guba</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.5194/gmd-7-2803-2014</doi>
+              <article_title>The spectral element method (SEM) on variable-resolution grids: Evaluating grid sensitivity and resolution-aware numerical viscosity</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>7</volume>
+              <issue>6</issue>
+              <first_page>2803</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0024|jame20693-cit-0024">
+              <author>Guerra</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/gmd-9-2007-2016</doi>
+              <article_title>A high-order staggered finite-element vertical discretization for non-hydrostatic atmospheric models</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>9</volume>
+              <issue>5</issue>
+              <first_page>2007</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0025|jame20693-cit-0025">
+              <author>Herrington</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-16-0069.1</doi>
+              <article_title>An explanation for the sensitivity of the mean state of the community atmosphere model to horizontal resolution on aquaplanets</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>30</volume>
+              <issue>13</issue>
+              <first_page>4781</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0026|jame20693-cit-0026">
+              <author>Hurrell</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <article_title>The community Earth system model: A framework for collaborative research</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>94</volume>
+              <issue>9</issue>
+              <first_page>1339</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0027|jame20693-cit-0027">
+              <author>Jablonowski</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1256/qj.06.12</doi>
+              <article_title>A baroclinic instability test case for atmospheric model dynamical cores</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>132</volume>
+              <first_page>2943</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0028|jame20693-cit-0028">
+              <author>Karniadakis</author>
+              <cYear>2013</cYear>
+              <volume_title>Spectral/hp element methods for computational fluid dynamics</volume_title>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0029|jame20693-cit-0029">
+              <author>Kasahara</author>
+              <cYear>1974</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1974)102&lt;0509:VVCSUF&gt;2.0.CO;2</doi>
+              <article_title>Various vertical coordinate systems used for numerical weather prediction</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>102</volume>
+              <issue>7</issue>
+              <first_page>509</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0030|jame20693-cit-0030">
+              <author>Kelly</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2012.04.042</doi>
+              <article_title>Continuous and discontinuous Galerkin methods for a scalable three-dimensional nonhydrostatic atmospheric model: Limited-area mode</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <volume>231</volume>
+              <issue>24</issue>
+              <first_page>7988</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0031|jame20693-cit-0031">
+              <author>Kessler</author>
+              <cYear>1969</cYear>
+              <article_title>On the distribution and continuity of water substance in atmospheric circulations</article_title>
+              <journal_title>Meteorological Monographs</journal_title>
+              <volume>10</volume>
+              <issue>32</issue>
+              <first_page>88</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0032|jame20693-cit-0032">
+              <author>Kinnmark</author>
+              <cYear>1984</cYear>
+              <doi provider="crossref">10.1016/0378-4754(84)90056-9</doi>
+              <article_title>One step integration methods of third-fourth order accuracy with large hyperbolic stability limits</article_title>
+              <journal_title>Mathematics and Computers in Simulation</journal_title>
+              <volume>26</volume>
+              <issue>3</issue>
+              <first_page>181</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0033|jame20693-cit-0033">
+              <author>Lauritzen</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2013MS000268</doi>
+              <article_title>Held-Suarez simulations with the Community Atmosphere Model Spectral Element (CAM-SE) dynamical core: A global axial angular momentum analysis using Eulerian and floating Lagrangian vertical coordinates</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>6</volume>
+              <first_page>129</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0034|jame20693-cit-0034">
+              <unstructured_citation>Lauritzen , P. H. Goldhaber , S. 2017 CESM simpler models: Moist baroclinic wave with Kessler microphysics http://www.cesm.ucar.edu/models/simpler-models-indev/fkessler/index.html</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0035|jame20693-cit-0035">
+              <author>Lauritzen</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1177/1094342011410088</doi>
+              <article_title>Implementation of new diffusion/filtering operators in the CAM-FV dynamical core</article_title>
+              <journal_title>The International Journal of High Performance Computing Applications</journal_title>
+              <volume>26</volume>
+              <first_page>63</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0036|jame20693-cit-0036">
+              <author>Lauritzen</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2009.10.036</doi>
+              <article_title>A conservative semi-Lagrangian multi-tracer transport scheme (CSLAM) on the cubed-sphere grid</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <volume>229</volume>
+              <first_page>1401</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0037|jame20693-cit-0037">
+              <author>Lauritzen</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1175/MWR-D-16-0258.1</doi>
+              <article_title>CAM-SE-CSLAM: Consistent coupling of a conservative semi-lagrangian finite-volume method with spectral element dynamics</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>145</volume>
+              <issue>3</issue>
+              <first_page>833</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0038|jame20693-cit-0038">
+              <author>Lauritzen</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1002/qj.986</doi>
+              <article_title>Evaluating advection/transport schemes using interrelated tracers, scatter plots and numerical mixing diagnostics</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>138</volume>
+              <issue>665</issue>
+              <first_page>906</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0039|jame20693-cit-0039">
+              <author>Lebonnois</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2012JE004223</doi>
+              <article_title>Angular momentum budget in general circulation models of superrotating atmospheres: A critical diagnostic</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>117</volume>
+              <first_page>E12004</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0040|jame20693-cit-0040">
+              <author>Lebonnois</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2009JE003458</doi>
+              <article_title>Superrotation of Venus's atmosphere analysed with a full general circulation model</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>115</volume>
+              <first_page>E06006</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0041|jame20693-cit-0041">
+              <author>Lin</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;2293:AVLFDC&gt;2.0.CO;2</doi>
+              <article_title>A 'vertically Lagrangian' finite-volume dynamical core for global models</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>132</volume>
+              <first_page>2293</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0042|jame20693-cit-0042">
+              <author>Maday</author>
+              <cYear>1987</cYear>
+              <volume_title>State of the Art Surveys on Computational Mechanics</volume_title>
+              <first_page>71</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0043|jame20693-cit-0043">
+              <author>Medeiros</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/2015MS000593</doi>
+              <article_title>Reference aquaplanet climate in the community atmosphere model, version 5</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>8</volume>
+              <first_page>406</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0044|jame20693-cit-0044">
+              <author>Muller</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1038/nclimate1169</doi>
+              <article_title>An energetic perspective on the regional response of precipitation to climate change</article_title>
+              <journal_title>Nature Climate Change</journal_title>
+              <volume>1</volume>
+              <issue>5</issue>
+              <first_page>266</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0045|jame20693-cit-0045">
+              <author>Nair</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1016/j.compfluid.2008.04.006</doi>
+              <article_title>Computational aspects of a scalable high-order discontinuous Galerkin atmospheric dynamical core</article_title>
+              <journal_title>Computers &amp; Fluids</journal_title>
+              <volume>38</volume>
+              <issue>2</issue>
+              <first_page>309</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0046|jame20693-cit-0046">
+              <author>Nair</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1175/MWR2903.1</doi>
+              <article_title>A discontinuous Galerkin global shallow water model</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>133</volume>
+              <issue>4</issue>
+              <first_page>876</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0047|jame20693-cit-0047">
+              <author>Nastrom</author>
+              <cYear>1985</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1985)042&lt;0950:ACOAWS&gt;2.0.CO;2</doi>
+              <article_title>A climatology of atmospheric wavenumber spectra of wind and temperature observed by commercial aircraft</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>42</volume>
+              <first_page>950</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0048|jame20693-cit-0048">
+              <unstructured_citation>Neale , R. B. Chen , C.-C. Gettelman , A. Lauritzen , P. H. Park , S. Williamson , D. L. 2012 Description of the NCAR Community Atmosphere Model (CAM 5.0)</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0049|jame20693-cit-0049">
+              <author>Neale</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1006/asle.2000.0019</doi>
+              <article_title>A standard test for AGCMS including their physical parametrizations: I: The proposal</article_title>
+              <journal_title>Atmospheric Science Letters</journal_title>
+              <volume>1</volume>
+              <issue>2</issue>
+              <first_page>101</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0050|jame20693-cit-0050">
+              <author>Obrien</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/2016MS000671</doi>
+              <article_title>Resolution dependence of precipitation statistical fidelity in hindcast simulations</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>8</volume>
+              <first_page>976</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0051|jame20693-cit-0051">
+              <author>Ooyama</author>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1990)047&lt;2580:ATFFMT&gt;2.0.CO;2</doi>
+              <article_title>A thermodynamic foundation for modeling the moist atmosphere</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>47</volume>
+              <issue>21</issue>
+              <first_page>2580</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0052|jame20693-cit-0052">
+              <author>Ooyama</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1175/1520-0469(2001)058&lt;2073:ADATFF&gt;2.0.CO;2</doi>
+              <article_title>A dynamic and thermodynamic foundation for modeling the moist atmosphere with parameterized microphysics</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>58</volume>
+              <issue>15</issue>
+              <first_page>2073</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0053|jame20693-cit-0053">
+              <author>Polvani</author>
+              <cYear>2017</cYear>
+              <article_title>When less is more: Opening the door to simpler climate models</article_title>
+              <journal_title>Eos</journal_title>
+              <volume>98</volume>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0054|jame20693-cit-0054">
+              <author>Rančić</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1002/qj.49712253209</doi>
+              <article_title>A global shallow water model using an expanded spherical cube</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>122</volume>
+              <first_page>959</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0055|jame20693-cit-0055">
+              <author>Reed</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2015GL063974</doi>
+              <article_title>Impact of the dynamical core on the direct simulation of tropical cyclones in a high-resolution global model</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>42</volume>
+              <first_page>3603</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0056|jame20693-cit-0056">
+              <author>Rhoades</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1175/JAMC-D-15-0156.1</doi>
+              <article_title>Characterizing sierra nevada snowpack using variable-resolution CESM</article_title>
+              <journal_title>Journal of Applied Meteorology and Climatology</journal_title>
+              <volume>55</volume>
+              <issue>1</issue>
+              <first_page>173</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0057|jame20693-cit-0057">
+              <author>Richter</author>
+              <cYear>2014</cYear>
+              <article_title>On the simulation of the quasi-biennial oscillation in the Community Atmosphere Model, version 5</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>119</volume>
+              <first_page>3045</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0058|jame20693-cit-0058">
+              <author>Sadourny</author>
+              <cYear>1972</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1972)100&lt;0136:CFAOTP&gt;2.3.CO;2</doi>
+              <article_title>Conservative finite-difference approximations of the primitive equations on quasi-uniform spherical grids</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>100</volume>
+              <first_page>136</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0059|jame20693-cit-0059">
+              <author>Satoh</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2003)131&lt;1033:CSFACN&gt;2.0.CO;2</doi>
+              <article_title>Conservative scheme for a compressible nonhydrostatic model with moist processes</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>131</volume>
+              <issue>6</issue>
+              <first_page>1033</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0060|jame20693-cit-0060">
+              <author>Simmons</author>
+              <cYear>1981</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1981)109&lt;0758:AEAAMC&gt;2.0.CO;2</doi>
+              <article_title>An energy and angular-momentum conserving vertical finite-difference scheme and hybrid vertical coordinates</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>109</volume>
+              <issue>4</issue>
+              <first_page>758</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0061|jame20693-cit-0061">
+              <author>Skamarock</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/JAS-D-14-0114.1</doi>
+              <article_title>Atmospheric kinetic energy spectra from global high-resolution nonhydrostatic simulations</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>71</volume>
+              <issue>11</issue>
+              <first_page>4369</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0062|jame20693-cit-0062">
+              <author>Spiteri</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1137/S0036142901389025</doi>
+              <article_title>A new class of optimal high-order strong-stability-preserving time discretization methods</article_title>
+              <journal_title>SIAM Journal on Numerical Analysis</journal_title>
+              <volume>40</volume>
+              <issue>2</issue>
+              <first_page>469</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0063|jame20693-cit-0063">
+              <unstructured_citation>Staniforth , A. White , A. Wood , N. Thuburn , J. Zerroukat , M. Cordero , E. 2006 Joy of u.m. 6.3-Model formulation Exeter, England</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0064|jame20693-cit-0064">
+              <author>Starr</author>
+              <cYear>1945</cYear>
+              <article_title>A quasi-Lagrangian system of hydrodynamical equations</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>2</volume>
+              <first_page>227</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0065|jame20693-cit-0065">
+              <author>Taylor</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1007/978-3-642-11640-7_12</doi>
+              <volume_title>Numerical techniques for global atmospheric models</volume_title>
+              <volume>80</volume>
+              <first_page>357</first_page>
+              <series_title>Lecture Notes in Computational Science and Engineering</series_title>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0066|jame20693-cit-0066">
+              <author>Taylor</author>
+              <cYear>2008</cYear>
+              <article_title>Petascale atmospheric models for the community climate system model: New developments and evaluation of scalable dynamical cores</article_title>
+              <journal_title>Journal of Physics: Conference Series</journal_title>
+              <volume>125</volume>
+              <first_page>12023</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0067|jame20693-cit-0067">
+              <author>Taylor</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2010.04.008</doi>
+              <article_title>A compatible and conservative spectral element method on unstructured grids</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <volume>229</volume>
+              <issue>17</issue>
+              <first_page>5879</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0068|jame20693-cit-0068">
+              <author>Thatcher</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/gmd-9-1263-2016</doi>
+              <article_title>A moist aquaplanet variant of the Held-Suarez test for atmospheric model dynamical cores</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>9</volume>
+              <issue>4</issue>
+              <first_page>1263</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0069|jame20693-cit-0069">
+              <author>Thomas</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1023/A:1011188832645</doi>
+              <article_title>Parallel semi-implicit spectral element methods for atmospheric general circulation models</article_title>
+              <journal_title>Journal of Scientific Computing</journal_title>
+              <volume>15</volume>
+              <first_page>499</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0070|jame20693-cit-0070">
+              <author>Thuburn</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2006.08.016</doi>
+              <article_title>Some conservation issues for the dynamical cores of NWP and climate models</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <volume>227</volume>
+              <first_page>3715</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0071|jame20693-cit-0071">
+              <author>Ullrich</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.5194/gmd-7-3017-2014</doi>
+              <article_title>A global finite-element shallow-water model supporting continuous and discontinuous elements</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>7</volume>
+              <issue>6</issue>
+              <first_page>3017</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0072|jame20693-cit-0072">
+              <author>Ullrich</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/gmd-10-4477-2017</doi>
+              <article_title>Dcmip2016: A review of non-hydrostatic dynamical core design and intercomparison of participating models</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>10</volume>
+              <first_page>4477</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0073|jame20693-cit-0073">
+              <author>Ullrich</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/qj.2241</doi>
+              <article_title>A proposed baroclinic wave test case for deep and shallow-atmosphere dynamical cores</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>140</volume>
+              <issue>682</issue>
+              <first_page>1590</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0074|jame20693-cit-0074">
+              <unstructured_citation>Williamson , D. L. Blackburn , M. Hoskins , B. Nakajima , K. Ohfuchi , W. Takahashi , Y. 2012 The ape atlas Boulder, CO https://doi.org/10.5065/D6FF3QBR</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0075|jame20693-cit-0075">
+              <author>Williamson</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2015MS000448</doi>
+              <article_title>Energy considerations in the community atmosphere model (CAM)</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>7</volume>
+              <first_page>1178</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0076|jame20693-cit-0076">
+              <author>Zarzycki</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2014MS000352</doi>
+              <article_title>A multidecadal simulation of Atlantic tropical cyclones using a variable-resolution global atmospheric general circulation model</article_title>
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <volume>6</volume>
+              <first_page>805</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0077|jame20693-cit-0077">
+              <author>Zarzycki</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/MWR-D-13-00179.1</doi>
+              <article_title>Using variable-resolution meshes to model tropical cyclones in the community atmosphere model</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>142</volume>
+              <issue>3</issue>
+              <first_page>1221</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0078|jame20693-cit-0078">
+              <author>Zarzycki</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1175/JCLI-D-14-00004.1</doi>
+              <article_title>Aquaplanet experiments using CAM's variable-resolution dynamical core</article_title>
+              <journal_title>Journal of Climate</journal_title>
+              <volume>27</volume>
+              <issue>14</issue>
+              <first_page>5481</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0079|jame20693-cit-0079">
+              <author>Zhang</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/gmd-2017-293</doi>
+              <article_title>Impact of numerical choices on water conservation in the E3SM atmosphere model version 1 (EAM v1)</article_title>
+              <journal_title>Geoscientific Model Development Discussions</journal_title>
+              <volume>2017</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2017MS001257-BIB0080|jame20693-cit-0080">
+              <author>Zhao</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/JAS-D-11-0238.1</doi>
+              <article_title>Some counterintuitive dependencies of tropical cyclone frequency on parameters in a gcm</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>69</volume>
+              <first_page>2272</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

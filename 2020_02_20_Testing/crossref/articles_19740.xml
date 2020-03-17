@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 01:10:29">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>21</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The quantification and correction of wind-induced  precipitation measurement errors</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>John</given_name>
+              <surname>Kochendorfer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roy</given_name>
+              <surname>Rasmussen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mareile</given_name>
+              <surname>Wolff</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bruce</given_name>
+              <surname>Baker</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mark E.</given_name>
+              <surname>Hall</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tilden</given_name>
+              <surname>Meyers</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Scott</given_name>
+              <surname>Landolt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Al</given_name>
+              <surname>Jachcik</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ketil</given_name>
+              <surname>Isaksen</surname>
+              <ORCID>https://orcid.org/0000-0003-2356-5330</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ragnar</given_name>
+              <surname>Brækkan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ronald</given_name>
+              <surname>Leeper</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Hydrologic measurements are important for both the short- and long-term management of water resources. Of the terms in the hydrologic budget, precipitation is typically the most important input; however, measurements of precipitation are subject to large errors and biases. For example, an all-weather unshielded weighing precipitation gauge can collect less than 50<span class="thinspace"></span>% of the actual amount of solid precipitation when wind speeds exceed 5<span class="thinspace"></span>m<span class="thinspace"></span>s<sup>−1</sup>. Using results from two different precipitation test beds, such errors have been assessed for unshielded weighing gauges and for weighing gauges employing four of the most common windshields currently in use. Functions to correct wind-induced undercatch were developed and tested. In addition, corrections for the single-Alter weighing gauge were developed using the combined results of two separate sites in Norway and the USA. In general, the results indicate that the functions effectively correct the undercatch bias that affects such precipitation measurements. In addition, a single function developed for the single-Alter gauges effectively decreased the bias at both sites, with the bias at the US site improving from −12 to 0<span class="thinspace"></span>%, and the bias at the Norwegian site improving from −27 to −4<span class="thinspace"></span>%. These correction functions require only wind speed and air temperature as inputs, and were developed for use in national and local precipitation networks, hydrological monitoring, roadway and airport safety work, and climate change research. The techniques used to develop and test these transfer functions at more than one site can also be used for other more comprehensive studies, such as the World Meteorological Organization Solid Precipitation Intercomparison Experiment (WMO-SPICE).</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>12</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1973</first_page>
+            <last_page>1989</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-21-1973-2017</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/21/1973/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/21/1973/2017/hess-21-1973-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2002JD002499</doi>
+              <unstructured_citation>Adam, J. C. and Lettenmaier, D. P.: Adjustment of global gridded precipitation for systematic bias, J. Geophys. Res.-Atmos., 108, 4257, https://doi.org/10.1029/2002jd002499, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Alter, J. C.: Shielded storage precipitaiton gages, Mon. Weather Rev., 65, 262–265, 1937.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Barnett, T. P., Adam, J. C., and Lettenmaier, D. P.: Potential impacts of a warming climate on water availability in snow-dominated regions, Nature, 438, 303–309, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Blunden, J. and Arndt, D. S.: State of the climate in 2015, B. Am. Meteorol. Soc., 97, S1–S275, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Colli, M., Rasmussen, R., Thériault, J. M., Lanza, L. G., Baker, C. B., and Kochendorfer, J.: An improved trajectory model to evaluate the collection performance of snow gauges, J. Appl. Meteorol. Clim., 54, 1826–1836, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Duchon, C. E. and Essenberg, G. R.: Comparative rainfall observations from pit and aboveground rain gauges with and without wind shields, Water Resour. Res., 37, 3253–3263, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Folland, C. K.: Numerical models of the raingauge exposure problem, field experiments and an improved collector design, Q. J. Roy. Meteorol. Soc., 114, 1485–1516, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Førland, E. J. and Hanssen-Bauer, I.: Increased precipitation in the Norwegian Arctic: True or false?, Climatic Change, 46, 485–509, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Goodison, B. E.: Accuracy of Canadian snow gauge measurements, J. Appl. Meteorol., 17, 1542–1548, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Goodison, B. E., Louie, P., and Yang, D.: The WMO solid precipitation measurement intercomparison, World Meteorological Organization Publications, WMO, Geneva, Switzerland, 65–70, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Groisman, P. Y. and Legates, D. R.: The accuracy of United-Sates precipitaiton data, B. Am. Meteorol. Soc., 75, 215–227, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Groisman, P. Y., Koknaeva, V. V., Belokrylova, T. A., and Karl, T. R.: Overcoming biases of precipitation measurement – a history of the USSR experience, B. Am. Meteorol. Soc., 72, 1725–1733, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Leeper, R. D., Palecki, M. A., and Davis, E.: Methods to Calculate Precipitation from Weighing-Bucket Gauges with Redundant Depth Measurements, J. Atmos. Ocean. Tech., 32, 1179–1190, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Mekis, É. and Vincent, L. A.: An overview of the second generation adjusted daily precipitation dataset for trend analysis in Canada, Atmos.-Ocean, 49, 163–177, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Merenti-Valimaki, H. L., Lonnqvist, J., and Laininen, P.: Present weather: comparing human observations and one type of automated sensor, Meteorol. Appl., 8, 491–496, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Nipher, F. E.: On the determination of the true rainfall in elevated gauges, Am. Assoc. Advanc. Sci., 27, 103–108, https://doi.org/10.1175/1520-0493(1937)65&amp;amp;lt;262:SSPG&amp;amp;gt;2.0.CO;2, 1878.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Nitu, R., Rasmussen, R., Smith, C. D., Earle, M., Roulet, Y. A., Reverdin, A., Wolff, M., Baker, C. B., and Kochendorfer, J.: WMO solid precipitation intercomparison: from experiments to results, American Meteorological Society, New Orleans, LA, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Rasmussen, R. M., Vivekanandan, J., Cole, J., Myers, B., and Masters, C.: The estimation of snowfall rate using visibility, J. Appl. Meteorol., 38, 1542–1563, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Rasmussen, R. M., Dixon, M., Hage, F., Cole, J., Wade, C., Tuttle, L., McGettigan, S., Carty, T., Stevenson, L., Fellner, W., Knight, S., Karplus, E., and Rehak, N.: Weather support to deicing decision making (WSDDM): A winter weather nowcasting system, B. Am. Meteorol. Soc., 82, 579–595, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Rasmussen, R. M., Baker, B., Kochendorfer, J., Meyers, T., Landolt, S., Fischer, A. P., Black, J., Theriault, J. M., Kucera, P., Gochis, D., Smith, C., Nitu, R., Hall, M., Ikeda, K., and Gutmann, E.: How Well Are We Measuring Snow: The NOAA/FAA/NCAR Winter Precipitation Test Bed, B. Am. Meteorol. Soc., 93, 811–829, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Reverdin, A.: Description of the Quality Control and Event Selection Procedures used within the WMO-SPICE project, World Meteorological Organization, Madrid, Spain, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/tc-9-2417-2015</doi>
+              <unstructured_citation>Scaff, L., Yang, D., Li, Y., and Mekis, E.: Inconsistency in precipitation measurements across the Alaska–Yukon border, The Cryosphere, 9, 2417–2428, https://doi.org/10.5194/tc-9-2417-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Sheppard, B. E. and Joe, P. I.: Automated precipitation detection and typing in winter: A two-year study, J. Atmos. Ocean. Tech., 17, 1493–1507, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1007/978-94-009-3027-8</doi>
+              <unstructured_citation>Stull, R. B.: An Introduction to Boundary Layer Meteorology, Springer Netherlands, Dordrecht, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Theriault, J. M., Rasmussen, R., Ikeda, K., and Landolt, S.: Dependence of Snow Gauge Collection Efficiency on Snowflake Characteristics, J. Appl. Meteorol. Clim., 51, 745–762, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Thom, A. S.: Momentum, mass and heat exchange of plant communities, in: Vegetation and the Atmosphere, Vol. 1, edited by: Monteith, J. L., Academic Press, London, 1975.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Trenberth, K. E.: Changes in precipitation with climate change, Clim. Res., 47, 123–138, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Trenberth, K. E., Dai, A., Rasmussen, R. M., and Parsons, D. B.: The changing character of precipitation, B. Am. Meteorol. Soc., 84, 1205–1217, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Vose, R. S., Applequist, S., Squires, M., Durre, I., Menne, M. J., Williams, C. N., Fenimore, C., Gleason, K., and Arndt, D.: Improved Historical Temperature and Precipitation Time Series for U.S. Climate Divisions, J. Appl. Meteorol. Clim., 53, 1232–1251, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Wolff, M., Isaksen, K., Braekkan, R., Alfnes, E., Petersen-Overleir, A., and Ruud, E.: Measurements of wind-induced loss of solid precipitation: description of a Norwegian field study, Hydrol. Res., 44, 35–43, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Wolff, M. A., Brækkan, R., Isaksen, K., and Ruud, E.: A new testsite for wind correction of precipitation measurements at a mountain plateau in southern Norway, Proceedings of WMO Technical Conference on Meteorological and Environmental Instruments and Methods of Observation (TECO-2010), Instruments and Observing Methods Report No. 104, WMO/TD-No. 1546, WMO, Geneva, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/hess-19-951-2015</doi>
+              <unstructured_citation>Wolff, M. A., Isaksen, K., Petersen-Øverleir, A., Ødemark, K., Reitan, T., and Brækkan, R.: Derivation of a new continuous adjustment function for correcting wind-induced loss of solid precipitation: results of a Norwegian field study, Hydrol. Earth Syst. Sci., 19, 951–967, https://doi.org/10.5194/hess-19-951-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Wong, K.: Performance of several present weather wensors as precipitation gauges, Proceedings of WMO Technical Conference on Meteorological and Environmental Instruments and Methods of Observation, Brussels, Belgium, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Yang, D. Q.: Double Fence Intercomparison Reference (DFIR) vs. Bush Gauge for “true” snowfall measurement, J. Hydrol., 509, 94–100, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Yang, D. Q., Goodison, B. E., Metcalfe, J. R., Golubev, V. S., Elomaa, E., Gunther, T., Bates, R., Pangburn, T., Hanson, C. L., Emerson, D., Copaciu, V., and Miklovic, J.: Accuracy of Tretyakov precipitation gauge: Result of WMO intercomparison, Hydrol. Process., 9, 877–895, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Yang, D. Q., Goodison, B. E., Metcalfe, J. R., Louie, P., Leavesley, G., Emerson, D., Hanson, C. L., Golubev, V. S., Elomaa, E., Gunther, T., Pangburn, T., Kang, E., and Milkovic, J.: Quantification of precipitation measurement discontinuity induced by wind shields on national gauges, Water Resour. Res., 35, 491–508, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2005GL024057</doi>
+              <unstructured_citation>Yang, D. Q., Kane, D., Zhang, Z. P., Legates, D., and Goodison, B.: Bias corrections of long-term (1973–2004) daily precipitation data over the northern regions, Geophys. Res. Lett., 32, L19501, https://doi.org/10.1029/2005GL024057, 2005.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/hess-21-1973-2017-supplement</doi>
+                <resource>https://www.hydrol-earth-syst-sci.net/21/1973/2017/hess-21-1973-2017-supplement.zip</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <description>Article corrigendum</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/hess-21-1973-2017-corrigendum</doi>
+                <resource>https://www.hydrol-earth-syst-sci.net/21/1973/2017/hess-21-1973-2017-corrigendum.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

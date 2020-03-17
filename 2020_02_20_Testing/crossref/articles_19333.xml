@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-04-03 10:49:43">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Geophysical Research: Space Physics</full_title>
+          <abbrev_title>J. Geophys. Res. Space Physics</abbrev_title>
+          <issn>21699380</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>10</month>
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>121</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Influence of ion outflow in coupled geospace simulations: 1. Physics-based ion outflow model development and sensitivity study</title>
+            <subtitle>PHYSICS-BASED ION OUTFLOW</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>R. H.</given_name>
+              <surname>Varney</surname>
+              <affiliation>Center for Geospace Studies; SRI International; Menlo Park California USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>M.</given_name>
+              <surname>Wiltberger</surname>
+              <affiliation>High Altitude Observatory; National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-4844-3148</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>B.</given_name>
+              <surname>Zhang</surname>
+              <affiliation>High Altitude Observatory; National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>W.</given_name>
+              <surname>Lotko</surname>
+              <affiliation>Thayer School of Engineering; Dartmouth College; Hanover New Hampshire USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J.</given_name>
+              <surname>Lyon</surname>
+              <affiliation>Department of Physics and Astronomy; Dartmouth College; Hanover New Hampshire USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>10</month>
+            <year>2016</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>18</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>9671</first_page>
+            <last_page>9687</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1555801</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="am" start_date="2017-10-18">http://onlinelibrary.wiley.com/termsAndConditions</license_ref>
+            <license_ref applies_to="vor" start_date="2016-10-18">http://onlinelibrary.wiley.com/termsAndConditions</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2016JA022777</doi>
+            <resource>http://doi.wiley.com/10.1002/2016JA022777</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2016JA022777/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="am" mime_type="application/pdf">http://api.wiley.com/onlinelibrary/chorus/v1/articles/10.1002%2F2016JA022777</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2016JA022777</resource>
+              </item>
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2016JA022777</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2016JA022777-BIB0001|jgra52958-cit-0001">
+              <author>Abe</author>
+              <cYear>1993a</cYear>
+              <doi provider="crossref">10.1029/92JA01971</doi>
+              <article_title>EXOS D (Akebono) suprathermal mass spectrometer observations of the polar wind</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>98</volume>
+              <issue>A7</issue>
+              <first_page>11,191</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0002|jgra52958-cit-0002">
+              <author>André</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1023/A:1004921619885</doi>
+              <article_title>Theories and observations of ion energization and outflow in the high latitude magnetosphere</article_title>
+              <journal_title>Space Sci. Rev.</journal_title>
+              <volume>80</volume>
+              <first_page>27</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0003|jgra52958-cit-0003">
+              <author>Axford</author>
+              <cYear>1968</cYear>
+              <doi provider="crossref">10.1029/JA073i021p06855</doi>
+              <article_title>The polar wind and the terrestrial helium budget</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>73</volume>
+              <first_page>6855</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0004|jgra52958-cit-0004">
+              <author>Banks</author>
+              <cYear>1969</cYear>
+              <doi provider="crossref">10.1029/JA074i026p06304</doi>
+              <article_title>Features of plasma transport in the upper atmosphere</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>74</volume>
+              <first_page>6304</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0005|jgra52958-cit-0005">
+              <author>Barakat</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1016/S1364-6826(00)00106-1</doi>
+              <article_title>Effects of wave-particle interactions on the dynamic behavior of the generalized polar wind</article_title>
+              <journal_title>J. Atmos. Solar-Terr. Phys.</journal_title>
+              <volume>63</volume>
+              <first_page>75</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0006|jgra52958-cit-0006">
+              <author>Barakat</author>
+              <cYear>2003</cYear>
+              <article_title>Seasonal and solar activity dependence of the generalized polar wind with low-altitude auroral ion energization</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>108</volume>
+              <issue>A11</issue>
+              <first_page>1405</first_page>
+              <doi>10.1029/2002JA009360</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0007|jgra52958-cit-0007">
+              <author>Barghouthi</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1029/96JA03293</doi>
+              <article_title>Effects of wave-particle interactions on H+ and O+ outflow at high latitude: A comparative study</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>102</volume>
+              <issue>A10</issue>
+              <first_page>22,065</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0008|jgra52958-cit-0008">
+              <author>Barghouthi</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1023/A:1001569207346</doi>
+              <article_title>The effects of altitude-dependent wave particle interactions in the polar wind plasma</article_title>
+              <journal_title>Astrophys. Space Sci.</journal_title>
+              <volume>259</volume>
+              <first_page>117</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0009|jgra52958-cit-0009">
+              <author>Bennett</author>
+              <cYear>1983</cYear>
+              <article_title>The distribution of auroral electrostatic shocks below 8000 km altitude</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>88</volume>
+              <issue>A9</issue>
+              <first_page>7107</first_page>
+              <doi>10.1029/JA088iA08p07107</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0010|jgra52958-cit-0010">
+              <author>Bouhram</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.5194/angeo-21-1773-2003</doi>
+              <article_title>Modeling transverse heating and outflow of ionospheric ions from the dayside cusp/cleft. 2. Applications</article_title>
+              <journal_title>Ann. Geophys.</journal_title>
+              <volume>21</volume>
+              <first_page>1773</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0011|jgra52958-cit-0011">
+              <author>Bouhram</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.5194/angeo-22-1787-2004</doi>
+              <article_title>On the altitude dependence of transversely heated O+ distributions in the cusp/cleft</article_title>
+              <journal_title>Ann. Geophys.</journal_title>
+              <volume>22</volume>
+              <first_page>1787</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0012|jgra52958-cit-0012">
+              <author>Brambles</author>
+              <cYear>2010</cYear>
+              <article_title>Effects of causally driven cusp O+ outflow on the storm time magnetosphere-ionosphere system using a multifluid global simulation</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <doi>10.1029/2010JA015469</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0013|jgra52958-cit-0013">
+              <author>Brambles</author>
+              <cYear>2011</cYear>
+              <article_title>Magnetosphere sawtooth oscillations induced by ionospheric outflow</article_title>
+              <journal_title>Science</journal_title>
+              <volume>332</volume>
+              <issue>6034</issue>
+              <first_page>1183</first_page>
+              <doi>10.1126/science.1202869</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0014|jgra52958-cit-0014">
+              <author>Brambles</author>
+              <cYear>2013</cYear>
+              <article_title>The effects of ionospheric outflow on CME and SIR driven sawtooth events</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>6026</first_page>
+              <doi>10.1002/jgra.50522</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0015|jgra52958-cit-0015">
+              <author>Chang</author>
+              <cYear>1981</cYear>
+              <doi provider="crossref">10.1029/GL008i012p01253</doi>
+              <article_title>Lower hybrid acceleration and ion evolution in the suprauroral region</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>8</volume>
+              <first_page>1253</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0016|jgra52958-cit-0016">
+              <author>Chang</author>
+              <cYear>1986</cYear>
+              <doi provider="crossref">10.1029/GL013i007p00636</doi>
+              <article_title>Transverse acceleration of oxygen ions by eletromagnetic in cyclotron resonance with broadband left-hand-polarized waves</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>13</volume>
+              <first_page>636</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0017|jgra52958-cit-0017">
+              <author>Chaston</author>
+              <cYear>2004</cYear>
+              <article_title>Auroral ion acceleration in dispersive Alfvén waves</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>109</volume>
+              <doi>10.1029/2003JA010053</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0018|jgra52958-cit-0018">
+              <author>Chaston</author>
+              <cYear>2007</cYear>
+              <article_title>How important are dispersive Alfvén waves for auroral particle acceleration?</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>34</volume>
+              <doi>10.1029/2006GL029144</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0019|jgra52958-cit-0019">
+              <author>Cladis</author>
+              <cYear>1986</cYear>
+              <doi provider="crossref">10.1029/GL013i009p00893</doi>
+              <article_title>Parallel acceleration and transport of ions from polar ionosphere to plasma sheet</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>13</volume>
+              <issue>9</issue>
+              <first_page>893</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0020|jgra52958-cit-0020">
+              <author>Cohen</author>
+              <cYear>2015</cYear>
+              <article_title>Ion upflow dependence on ionospheric density and solar photoionization</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>10,039</first_page>
+              <doi>10.1002/2015JA021523</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0021|jgra52958-cit-0021">
+              <author>Coley</author>
+              <cYear>2003</cYear>
+              <article_title>High-latitude plasma outflow as measured by the DMSP spacecraft</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>108</volume>
+              <issue>A12</issue>
+              <first_page>1441</first_page>
+              <doi>10.1029/2003JA009890</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0022|jgra52958-cit-0022">
+              <author>Crew</author>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1029/JA095iA04p03959</doi>
+              <article_title>Ion cyclotron resonance heated conics: Theory and observations</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>95</volume>
+              <issue>A4</issue>
+              <first_page>3959</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0023|jgra52958-cit-0023">
+              <author>Ebihara</author>
+              <cYear>2006</cYear>
+              <article_title>Fate of outflowing suprathermal oxygen ions that originate in the polar ionosphere</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>111</volume>
+              <doi>10.1029/2005JA011403</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0024|jgra52958-cit-0024">
+              <author>Fang</author>
+              <cYear>2008</cYear>
+              <article_title>Electron impact ionization: A new parameterization for 100 eV to 1 MeV electrons</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>113</volume>
+              <doi>10.1029/2008JA013384</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0025|jgra52958-cit-0025">
+              <author>Fedder</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1029/95JA01524</doi>
+              <article_title>Global numerical simulation of the growth phase and expansion onset for a substorm observed by Viking</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>100</volume>
+              <first_page>19,083</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0026|jgra52958-cit-0026">
+              <author>Fridman</author>
+              <cYear>1980</cYear>
+              <article_title>Relationship between auroral electron fluxes and field aligned electric potential difference</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>85</volume>
+              <doi>10.1029/JA085iA02p00664</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0027|jgra52958-cit-0027">
+              <author>García</author>
+              <cYear>2010</cYear>
+              <article_title>Effects of nightside O+ outflow on magnetospheric dynamics: Results of multifluid MHD modeling</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <doi>10.1029/2010JA015730</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0028|jgra52958-cit-0028">
+              <author>Garcia-Sage</author>
+              <cYear>2015</cYear>
+              <article_title>Modeling the effects of ionospheric oxygen outflow on bursty magnetotail flows</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>8723</first_page>
+              <doi>10.1002/2015JA021228</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0029|jgra52958-cit-0029">
+              <author>Glocer</author>
+              <cYear>2015</cYear>
+              <volume_title>The Role of Superthermal Electrons in High Latitude Ionospheric Outflows</volume_title>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0030|jgra52958-cit-0030">
+              <author>Glocer</author>
+              <cYear>2009a</cYear>
+              <article_title>Modeling ionospheric outflows and their impact on the magnetosphere, initial results</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>114</volume>
+              <doi>10.1029/2009JA014053</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0031|jgra52958-cit-0031">
+              <author>Glocer</author>
+              <cYear>2009b</cYear>
+              <article_title>Multifluid Block-Adaptive-Tree Solar wind Roe-type Upwind Scheme: Magnetospheric composition and dynamics during geomagnetic storms-Initial results</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>114</volume>
+              <doi>10.1029/2009JA014418</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0032|jgra52958-cit-0032">
+              <author>Glocer</author>
+              <cYear>2012</cYear>
+              <article_title>Modeling solar zenith angle effects on the polar wind</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>117</volume>
+              <doi>10.1029/2011JA017136</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0033|jgra52958-cit-0033">
+              <author>Guglielmi</author>
+              <cYear>2001</cYear>
+              <article_title>Ponderomotive upward acceleration of ions by ion cyclotron and Alfvén waves over the polar regions</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>106</volume>
+              <issue>A7</issue>
+              <first_page>13,219</first_page>
+              <doi>10.1029/2000JA900066</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0034|jgra52958-cit-0034">
+              <author>Hamrin</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.5194/angeo-20-1943-2002</doi>
+              <article_title>A statistical study of ion energization at 1700 km in the auroral region</article_title>
+              <journal_title>Ann. Geophys.</journal_title>
+              <volume>20</volume>
+              <issue>12</issue>
+              <first_page>1943</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0035|jgra52958-cit-0035">
+              <author>Horwitz</author>
+              <cYear>2009</cYear>
+              <article_title>Physics-based formula representations of high-latitude ionospheric outflows: H+ and O+ densities, flow velocities, and temperatures versus soft electron precipitation, wave-driven transverse heating, and solar zenith angle effects</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>114</volume>
+              <doi>10.1029/2008JA013595</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0036|jgra52958-cit-0036">
+              <author>Ichimaru</author>
+              <cYear>2004</cYear>
+              <volume_title>Statistical Plasma Physics</volume_title>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0037|jgra52958-cit-0037">
+              <author>Kasahara</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1029/2000JA000318</doi>
+              <article_title>ELF/VLF waves correlated with transversely accelerated ion in the auroral region observed by Akebono</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>106</volume>
+              <issue>A10</issue>
+              <first_page>21,123</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0038|jgra52958-cit-0038">
+              <author>Khazanov</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1029/96JA03343</doi>
+              <article_title>Photoelectron effects on the self-consistent potential in the collisionless polar wind</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>102</volume>
+              <issue>A4</issue>
+              <first_page>7509</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0039|jgra52958-cit-0039">
+              <author>Khazanov</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1029/97JA03436</doi>
+              <article_title>Generalized kinetic description of a plasma in an arbitrary field-aligned potential energy structure</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>103</volume>
+              <first_page>6871</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0040|jgra52958-cit-0040">
+              <author>Kintner</author>
+              <cYear>2000</cYear>
+              <article_title>Interferometric coherency determination of wavelength or what are broadband ELF waves?</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>105</volume>
+              <issue>A9</issue>
+              <first_page>21,237</first_page>
+              <doi>10.1029/1999JA000323</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0041|jgra52958-cit-0041">
+              <author>Knight</author>
+              <cYear>1973</cYear>
+              <doi provider="crossref">10.1016/0032-0633(73)90093-7</doi>
+              <article_title>Parallel electric fields</article_title>
+              <journal_title>Planet. Space Sci.</journal_title>
+              <volume>21</volume>
+              <first_page>741</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0042|jgra52958-cit-0042">
+              <author>Knudsen</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1029/97JA00696</doi>
+              <article_title>Correlation between core ion energization, suprathermal electron bursts, and broadband ELF plasma waves</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>103</volume>
+              <issue>A3</issue>
+              <first_page>4171</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0043|jgra52958-cit-0043">
+              <author>Kronberg</author>
+              <cYear>2014</cYear>
+              <article_title>Circulation of heavy ions and their dynamic effects in the magnetosphere: Recent observations and models</article_title>
+              <journal_title>Space Sci. Rev.</journal_title>
+              <volume>184</volume>
+              <first_page>173</first_page>
+              <doi>10.1007/s11214-014-0104-0</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0044|jgra52958-cit-0044">
+              <author>Lennartsson</author>
+              <cYear>2004</cYear>
+              <article_title>Solar wind control of Earth's H+ and O+ outflow rates in the 15-eV to 33-keV energy range</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>109</volume>
+              <doi>10.1029/2004JA010690</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0045|jgra52958-cit-0045">
+              <author>Lockwood</author>
+              <cYear>1985</cYear>
+              <doi provider="crossref">10.1029/JA090iA10p09736</doi>
+              <article_title>The cleft ion fountain</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>90</volume>
+              <first_page>9736</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0046|jgra52958-cit-0046">
+              <author>Loranc</author>
+              <cYear>1991</cYear>
+              <doi provider="crossref">10.1029/90JA02242</doi>
+              <article_title>A morphological study of vertical ionospheric flows in the high-latitude F region</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>96</volume>
+              <first_page>3627</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0047|jgra52958-cit-0047">
+              <author>Lund</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1016/S1364-6826(00)00013-4</doi>
+              <article_title>Transverse ion acceleration mechanisms in the aurora at solar minimum: Occurrence distributions</article_title>
+              <journal_title>J. Atmos. Sol. Terr. Phys.</journal_title>
+              <volume>62</volume>
+              <first_page>467</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0048|jgra52958-cit-0048">
+              <author>Lyon</author>
+              <cYear>2004</cYear>
+              <article_title>The Lyon-Fedder-Mobarry (LFM) global MHD magnetospheric simulation code</article_title>
+              <journal_title>J. Atmos. Sol. Terr. Phys.</journal_title>
+              <volume>66</volume>
+              <first_page>1333</first_page>
+              <doi>10.1016/j.jastp.2004.02.020</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0049|jgra52958-cit-0049">
+              <author>Merkin</author>
+              <cYear>2010</cYear>
+              <article_title>Effects of the low-altitude ionospheric boundary condition on the global magnetosphere</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <doi>10.1029/2010JA015461</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0050|jgra52958-cit-0050">
+              <author>Miyake</author>
+              <cYear>1993</cYear>
+              <article_title>On the evolution of ion conics along the field line from EXOS D observations</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>98</volume>
+              <issue>A7</issue>
+              <first_page>11,127</first_page>
+              <doi>10.1029/92JA00716</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0051|jgra52958-cit-0051">
+              <author>Moore</author>
+              <cYear>2010</cYear>
+              <article_title>Mechanisms of ionospheric mass escape</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <doi>10.1029/2009JA014905</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0052|jgra52958-cit-0052">
+              <author>Norqvist</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1029/98JA02076</doi>
+              <article_title>A statistical study of ion energization mechanisms in the auroral region</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>103</volume>
+              <issue>A10</issue>
+              <first_page>23,459</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0053|jgra52958-cit-0053">
+              <author>Ogawa</author>
+              <cYear>2008</cYear>
+              <article_title>Coordinated EISCAT Svalbard radar and Reimei satellite observations of ion upflows and suprathermal ions</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>113</volume>
+              <doi>10.1029/2007JA012791</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0054|jgra52958-cit-0054">
+              <author>Ouellette</author>
+              <cYear>2013</cYear>
+              <article_title>Properties of outflow-driven sawtooth substorms</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>3223</first_page>
+              <doi>10.1002/jgra.50309</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0055|jgra52958-cit-0055">
+              <author>Peterson</author>
+              <cYear>2008</cYear>
+              <article_title>Solar-minimum quiet time ion energization and outflow in dynamic boundary-related coordinates</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>113</volume>
+              <doi>10.1029/2008JA013059</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0056|jgra52958-cit-0056">
+              <author>Picone</author>
+              <cYear>2002</cYear>
+              <article_title>NRLMSISE-00 empirical model of the atmosphere: Statistical comparisons and scientific issues</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>107</volume>
+              <first_page>1468</first_page>
+              <doi>10.1029/2002JA009430</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0057|jgra52958-cit-0057">
+              <author>Redmon</author>
+              <cYear>2010</cYear>
+              <article_title>Vertical thermal O+ flows at 850 km in dynamic auroral boundary coordinates</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <doi>10.1029/2010JA015589</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0058|jgra52958-cit-0058">
+              <author>Retterer</author>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1103/PhysRevLett.59.148</doi>
+              <article_title>Monte Carlo modeling of ionospheric oxygen acceleration by cyclotron resonance with broad-band electromagnetic turbulence</article_title>
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <volume>59</volume>
+              <first_page>148</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0059|jgra52958-cit-0059">
+              <author>Richards</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1016/j.asr.2005.06.031</doi>
+              <article_title>HEUVAC: A new high resolution solar EUV proxy model</article_title>
+              <journal_title>Adv. Space Res.</journal_title>
+              <volume>37</volume>
+              <first_page>315</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0060|jgra52958-cit-0060">
+              <author>Robinson</author>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1029/JA092iA03p02565</doi>
+              <article_title>On calculating ionospheric conductivities from the flux and energy of precipitating electrons</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>92</volume>
+              <issue>A3</issue>
+              <first_page>2565</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0061|jgra52958-cit-0061">
+              <author>Sharp</author>
+              <cYear>1977</cYear>
+              <doi provider="crossref">10.1029/JA082i022p03324</doi>
+              <article_title>Observation of an ionospheric acceleration mechanism producing energetic (keV) ions primarily normal to the geomagnetic field direction</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>82</volume>
+              <first_page>3324</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0062|jgra52958-cit-0062">
+              <author>Shay</author>
+              <cYear>2004</cYear>
+              <article_title>Three-species collisionless reconnection: Effect of O+ on magnetotail reconnection</article_title>
+              <journal_title>Phys. Rev. Lett.</journal_title>
+              <volume>93</volume>
+              <issue>17</issue>
+              <doi>10.1103/PhysRevLett.93.175001</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0063|jgra52958-cit-0063">
+              <author>Shelley</author>
+              <cYear>1972</cYear>
+              <doi provider="crossref">10.1029/JA077i031p06104</doi>
+              <article_title>Satellite observations of energetic heavy ions during a geomagnetic storm</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>77</volume>
+              <issue>31</issue>
+              <first_page>6104</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0064|jgra52958-cit-0064">
+              <author>Shelley</author>
+              <cYear>1976</cYear>
+              <doi provider="crossref">10.1029/GL003i011p00654</doi>
+              <article_title>Satellite observations of an ionospheric acceleration mechanism</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>3</volume>
+              <first_page>654</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0065|jgra52958-cit-0065">
+              <author>Strangeway</author>
+              <cYear>2005</cYear>
+              <article_title>Factors controlling ionospheric outflows as observed at intermediate altitudes</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>110</volume>
+              <doi>10.1029/2004JA010829</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0066|jgra52958-cit-0066">
+              <author>Temerin</author>
+              <cYear>1986</cYear>
+              <doi provider="crossref">10.1029/GL013i011p01109</doi>
+              <article_title>Ion heating by waves with frequencies below the ion gyrofrequency</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>13</volume>
+              <issue>11</issue>
+              <first_page>1109</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0067|jgra52958-cit-0067">
+              <author>Varney</author>
+              <cYear>2014</cYear>
+              <article_title>Heating of the sunlit polar cap ionosphere by reflected photoelectrons</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>1</first_page>
+              <doi>10.1002/2013JA019378</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0068|jgra52958-cit-0068">
+              <author>Varney</author>
+              <cYear>2015</cYear>
+              <article_title>Modeling the interaction between convection and nonthermal ion outflows</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>2353</first_page>
+              <doi>10.1002/2014JA020769</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0069|jgra52958-cit-0069">
+              <author>Wahlund</author>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1029/91JA02438</doi>
+              <article_title>EISCAT observations of topside ionospheric ion outflows during auroral activity: Revisited</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>97</volume>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0070|jgra52958-cit-0070">
+              <author>Welling</author>
+              <cYear>2014</cYear>
+              <article_title>Outflow in global magnetohydrodynamics as a function of a passive inner boundary source</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>2691</first_page>
+              <doi>10.1002/2013JA019374</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0071|jgra52958-cit-0071">
+              <author>Welling</author>
+              <cYear>2012</cYear>
+              <article_title>Ionospheric outflow and cross polar cap potential: What is the role of magnetospheric inflation?</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>39</volume>
+              <issue>2</issue>
+              <first_page>L23101</first_page>
+              <doi>10.1029/2012GL05228</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0072|jgra52958-cit-0072">
+              <author>Welling</author>
+              <cYear>2015</cYear>
+              <article_title>The two-way relationship between ionospheric outflow and the ring current</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>4338</first_page>
+              <doi>10.1002/2015JA021231</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0073|jgra52958-cit-0073">
+              <author>Wiltberger</author>
+              <cYear>2015</cYear>
+              <volume_title>Magnetotails in the Solar System</volume_title>
+              <doi>10.1002/9781118842324.ch22</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0074|jgra52958-cit-0074">
+              <author>Wiltberger</author>
+              <cYear>2009</cYear>
+              <article_title>Modeling seasonal variations of auroral particle precipitation in a global-scale magnetosphere-ionopshere simulation</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>114</volume>
+              <doi>10.1029/2008JA013108</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0075|jgra52958-cit-0075">
+              <author>Wiltberger</author>
+              <cYear>2010</cYear>
+              <article_title>Influence of cusp O+ outlfow on magnetotail dynamics in a multifluid MHD model of the magnetosphere</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <doi>10.1029/2010JA015579</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0076|jgra52958-cit-0076">
+              <author>Winglee</author>
+              <cYear>1998</cYear>
+              <article_title>Multifluid simulations of the magnetosphere: The identification of the geopause and its variation with IMF</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>25</volume>
+              <first_page>4441</first_page>
+              <doi>10.1029/1998GL900217</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0077|jgra52958-cit-0077">
+              <author>Winglee</author>
+              <cYear>2002</cYear>
+              <article_title>Global impact of ionospheric outflows on the dynamics of magnetosphere and cross-polar cap potential</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>107</volume>
+              <issue>A9</issue>
+              <first_page>1237</first_page>
+              <doi>10.1029/2001JA000214</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0078|jgra52958-cit-0078">
+              <author>Wu</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1029/1999JA900114</doi>
+              <article_title>Dynamic fluid-kinetic (DyFK) modeling of auroral plasma outflow driven by soft electron precipitation and transverse heating</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>104</volume>
+              <issue>A8</issue>
+              <first_page>17,263</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0079|jgra52958-cit-0079">
+              <author>Yau</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1023/A:1004947203046</doi>
+              <article_title>Sources of ion outflow in the high latitude ionosphere</article_title>
+              <journal_title>Space Sci. Rev.</journal_title>
+              <volume>80</volume>
+              <issue>1</issue>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0080|jgra52958-cit-0080">
+              <author>Yau</author>
+              <cYear>1985</cYear>
+              <doi provider="crossref">10.1029/JA090iA09p08417</doi>
+              <article_title>Energetic auroral and polar ion outflow at DE-1 altitudes: Magnitude, composition, magnetic activity dependence, and long term variations</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>90</volume>
+              <first_page>8417</first_page>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0081|jgra52958-cit-0081">
+              <author>Yau</author>
+              <cYear>1988</cYear>
+              <volume_title>Modeling Magnetospheric Plasma</volume_title>
+              <doi>10.1029/GM044p0211</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0082|jgra52958-cit-0082">
+              <author>Yau</author>
+              <cYear>2011</cYear>
+              <volume_title>The Dynamic Magnetosphere</volume_title>
+              <series_title>IAGA Special Sopron Book Series</series_title>
+              <first_page>283</first_page>
+              <doi>10.1007/978-94-007-0501-2_16</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0083|jgra52958-cit-0083">
+              <author>Yu</author>
+              <cYear>2013</cYear>
+              <article_title>Exploring the influence of ionospheric O+ outflow on magnetospheric dynamics: Dependence on the source location</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>118</volume>
+              <issue>4</issue>
+              <first_page>1711</first_page>
+              <doi>10.1029/2012JA018411</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0084|jgra52958-cit-0084">
+              <author>Zeng</author>
+              <cYear>2007</cYear>
+              <article_title>Formula representation of auroral ionospheric O+ outflows based on systematic simulations with effects of soft electron precipitation and transverse ion heating</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>34</volume>
+              <doi>10.1029/2006GL028632</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0085|jgra52958-cit-0085">
+              <author>Zeng</author>
+              <cYear>2006</cYear>
+              <article_title>Characteristic ion distributions in the dynamic auroral transition region</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>111</volume>
+              <doi>10.1029/2005JA011417</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0086|jgra52958-cit-0086">
+              <author>Zhang</author>
+              <cYear>2012</cYear>
+              <article_title>Magnetotail origins of auroral Alfvénic power</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>117</volume>
+              <doi>10.1029/2012JA017680</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0087|jgra52958-cit-0087">
+              <author>Zhang</author>
+              <cYear>2013</cYear>
+              <article_title>Predicting the location of polar cusp in the Lyon-Fedder-Mobarry global magnetosphere simulation</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>6327</first_page>
+              <doi>10.1002/jgra.50565</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0088|jgra52958-cit-0088">
+              <author>Zhang</author>
+              <cYear>2014</cYear>
+              <article_title>Solar wind control of auroral Alfvenic power generated in the magnetotail</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>1734</first_page>
+              <doi>10.1002/2013JA019178</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0089|jgra52958-cit-0089">
+              <author>Zhang</author>
+              <cYear>2015</cYear>
+              <article_title>Electron precipitation models in global magnetosphere simulations</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>1035</first_page>
+              <doi>10.1002/2014JA020615</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0090|jgra52958-cit-0090">
+              <author>Zhang</author>
+              <cYear>2016a</cYear>
+              <article_title>The role of ionospheric O+ outflow in the generation of earthward propagating plasmoids</article_title>
+              <journal_title>J. Geophys. Res. Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>1425</first_page>
+              <doi>10.1002/2015JA021667</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0091|jgra52958-cit-0091">
+              <author>Zhang</author>
+              <cYear>2016b</cYear>
+              <article_title>How does mass loading impact local versus global control on dayside reconnection?</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>43</volume>
+              <first_page>1837</first_page>
+              <doi>10.1002/2016GL068005</doi>
+            </citation>
+            <citation key="10.1002/2016JA022777-BIB0092|jgra52958-cit-0092">
+              <author>Zheng</author>
+              <cYear>2005</cYear>
+              <article_title>Polar study of ionospheric ion outflow versus energy input</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>110</volume>
+              <doi>10.1029/2004JA010995</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

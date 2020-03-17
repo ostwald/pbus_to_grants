@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-04-02 03:45:36">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>12</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Ensemble forecasts of air quality in eastern China – Part 1: Model description and implementation of the MarcoPolo–Panda prediction system, version 1</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Guy P.</given_name>
+              <surname>Brasseur</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ying</given_name>
+              <surname>Xie</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Anna Katinka</given_name>
+              <surname>Petersen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Idir</given_name>
+              <surname>Bouarar</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Johannes</given_name>
+              <surname>Flemming</surname>
+              <ORCID>https://orcid.org/0000-0003-4880-5329</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michael</given_name>
+              <surname>Gauss</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Fei</given_name>
+              <surname>Jiang</surname>
+              <ORCID>https://orcid.org/0000-0003-1744-7565</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rostislav</given_name>
+              <surname>Kouznetsov</surname>
+              <ORCID>https://orcid.org/0000-0001-5140-0037</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Richard</given_name>
+              <surname>Kranenburg</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bas</given_name>
+              <surname>Mijling</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Vincent-Henri</given_name>
+              <surname>Peuch</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthieu</given_name>
+              <surname>Pommier</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Arjo</given_name>
+              <surname>Segers</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mikhail</given_name>
+              <surname>Sofiev</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Renske</given_name>
+              <surname>Timmermans</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ronald</given_name>
+              <surname>van der A</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stacy</given_name>
+              <surname>Walters</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jianming</given_name>
+              <surname>Xu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Guangqiang</given_name>
+              <surname>Zhou</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> An operational multi-model forecasting system for air quality including nine
+different chemical transport models has been developed and provides daily
+forecasts of ozone, nitrogen oxides, and particulate matter for the 37
+largest urban areas of China (population higher than 3 million in 2010).
+These individual forecasts as well as the mean and median concentrations for
+the next 3 days are displayed on a publicly accessible website
+(<span class="uri">http://www.marcopolo-panda.eu</span>, last access: 7 December 2018). The paper describes the forecasting system and shows some selected
+illustrative examples of air quality predictions. It presents an
+intercomparison of the different forecasts performed during a given period of
+time (1–15 March 2017) and highlights recurrent differences between the
+model output as well as systematic biases that appear in the median
+concentration values. Pathways to improve the forecasts by the multi-model
+system are suggested.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>03</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>33</first_page>
+            <last_page>67</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Commission
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000780</assertion>
+              </assertion>
+              <assertion name="award_number">606953</assertion>
+              <assertion name="award_number">606719</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-12-33-2019</doi>
+            <resource>https://www.geosci-model-dev.net/12/33/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/12/33/2019/gmd-12-33-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/gmd-10-1703-2017</doi>
+              <unstructured_citation>Appel, K. W., Napelenok, S. L., Foley, K. M., Pye, H. O. T., Hogrefe, C.,
+Luecken, D. J., Bash, J. O., Roselle, S. J., Pleim, J. E., Foroutan, H.,
+Hutzell, W. T., Pouliot, G. A., Sarwar, G., Fahey, K. M., Gantt, B., Gilliam,
+R. C., Heath, N. K., Kang, D., Mathur, R., Schwede, D. B., Spero, T. L.,
+Wong, D. C., and Young, J. O.: Description and evaluation of the Community
+Multiscale Air Quality (CMAQ) modeling system version 5.1, Geosci. Model
+Dev., 10, 1703–1732, https://doi.org/10.5194/gmd-10-1703-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1038/nature14956</doi>
+              <unstructured_citation>Bauer, P., Thorpe A., and Brunet G.: The quiet revolution of numerical
+weather prediction, Nature, 525, 47–55, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-12-8499-2012</doi>
+              <unstructured_citation>Bergström, R., Denier van der Gon, H. A. C., Prévôt, A. S. H., Yttri,
+K. E., and Simpson, D.: Modelling of organic aerosols over Europe
+(2002–2007) using a volatility basis set (VBS) framework: application of
+different assumptions regarding the formation of secondary organic aerosol,
+Atmos. Chem. Phys., 12, 8499–8527, https://doi.org/10.5194/acp-12-8499-2012,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1115/1.2128636</doi>
+              <unstructured_citation>Byun, D. and Schere, K. L.: Review of the governing equations, computational
+algorithms, and other components of the Models-3 Community Multiscale Air
+Quality (CMAQ) modeling system, Appl. Mech. Rev., 59, 51–77, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1021/es100636q</doi>
+              <unstructured_citation>Carlton, A. G., Bhave, P. V., Napelenok, S. L., Edney, E. O., Sarwar, G.,
+Pinder, R. W., Pouliot, G. A., and Houyoux, M.: Model Representation of
+Secondary Organic Aerosol in CMAQv4.7, Environ. Sci. Technol., 44,
+8553–8560, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Chang, J. S., Binkowski, F. S., Seaman, N. L., McHenry, J. N., Samson, P. J.,
+Stockwell, W. R., Walcek, C. J., Madronich, S., Middleton, P. B., Pleim, J.
+E., and Lansford, H. H.: The regional acid deposition model and engineering
+model, State-of-Science/Technology, Report 4, National Acid Precipitation
+Assessment Program, Washington, DC, 1989. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/acp-16-3825-2016</doi>
+              <unstructured_citation>Crippa, M., Janssens-Maenhout, G., Dentener, F., Guizzardi, D., Sindelarova,
+K., Muntean, M., Van Dingenen, R., and Granier, C.: Forty years of
+improvements in European air quality: regional policy-industry interactions
+with global impacts, Atmos. Chem. Phys., 16, 3825–3841,
+https://doi.org/10.5194/acp-16-3825-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/S1352-2310(00)00141-2</doi>
+              <unstructured_citation>Dabberdt, W. F. and Miller, E.: Uncertainty, ensembles and air quality
+dispersion modeling: applications and challenges, Atmos. Environ., 34,
+4667-4673, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1021/es052297c</doi>
+              <unstructured_citation>Donahue, N. M., Robinson, A. L., Stanier, C. O., and Pandis, S. N.: Coupled
+partitioning, dilution, and chemical aging of semivolatile organics, Environ.
+Sci. Technol., 40, 2635–2643, https://doi.org/10.1021/Es052297c, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/gmd-3-43-2010</doi>
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G.,
+Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando,
+J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.:
+Description and evaluation of the Model for Ozone and Related chemical
+Tracers, version 4 (MOZART-4), Geosci. Model Dev., 3, 43–67,
+https://doi.org/10.5194/gmd-3-43-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2005JD006721</doi>
+              <unstructured_citation>Fast, J. D., Gustafson, W. I., Easter, R. C., Zaveri, R. A., Barnard, J. C.,
+Chapman, E. G., Grell, G. A. and Peckham, S. E.: Evolution of ozone,
+particulates, and aerosol direct radiative forcing in the vicinity of Houston
+using a fully coupled meteorology-chemistry-aerosol model, J. Geophys. Res.,
+111, D21305, https://doi.org/10.1029/2005JD006721, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/gmd-8-975-2015</doi>
+              <unstructured_citation>Flemming, J., Huijnen, V., Arteta, J., Bechtold, P., Beljaars, A.,
+Blechschmidt, A.-M., Diamantakis, M., Engelen, R. J., Gaudel, A., Inness, A.,
+Jones, L., Josse, B., Katragkou, E., Marecal, V., Peuch, V.-H., Richter, A.,
+Schultz, M. G., Stein, O., and Tsikerdekis, A.: Tropospheric chemistry in the
+Integrated Forecasting System of ECMWF, Geosci. Model Dev., 8, 975–1003,
+https://doi.org/10.5194/gmd-8-975-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/gmd-3-205-2010</doi>
+              <unstructured_citation>Foley, K. M., Roselle, S. J., Appel, K. W., Bhave, P. V., Pleim, J. E., Otte,
+T. L., Mathur, R., Sarwar, G., Young, J. O., Gilliam, R. C., Nolte, C. G.,
+Kelly, J. T., Gilliland, A. B., and Bash, J. O.: Incremental testing of the
+Community Multiscale Air Quality (CMAQ) modeling system version 4.7, Geosci.
+Model Dev., 3, 205–226, https://doi.org/10.5194/gmd-3-205-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-7-4639-2007</doi>
+              <unstructured_citation>Fountoukis, C. and Nenes, A.: ISORROPIA II: a computationally efficient
+thermodynamic equilibrium model for
+K+–Ca2+–Mg2+–NH4+–Na+–SO42-–NO3-–Cl−–H2O
+aerosols, Atmos. Chem. Phys., 7, 4639–4659,
+https://doi.org/10.5194/acp-7-4639-2007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-13-7153-2013</doi>
+              <unstructured_citation>Galmarini, S., Kioutsioukis, I., and Solazzo, E.: E pluribus unum*:
+ensemble air quality predictions, Atmos. Chem. Phys., 13, 7153–7182,
+https://doi.org/10.5194/acp-13-7153-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2000JD000053</doi>
+              <unstructured_citation>Ginoux, P., Chin, M., Tegen, I., Prospero, J. M., Holben, B., Dubovik, O.,
+and Lin, S.-J.: Sources and distributions of dust aerosols simulated with the
+GOCART model, J. Geophys. Res., 106, 20255–20273, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1007/s10584-011-0154-1</doi>
+              <unstructured_citation>Granier, C, Bessagnet, B., Bond, T., D'Angiola, A., Denier van der Gon, H.,
+Frost, G. J., Heil, A., Kaiser, J. W., Kinne, S., Klimont, Z., Kloster, S.,
+Lamarque, J.-F., Liousse, C., Masui, T., Meleux, F., Mieville, A., Ohara, T.,
+Raut, J.-C., Riahi, K., Schultz, M. G., Smith, S. J., Thompson, A., van
+Aardenne, J., van der Werf, G. R., and van Vuuren, D. P.:, Evolution of
+anthropogenic and biomass burning emissions at global and regional scales
+during the 1980–2010 period, Climatic Change, 109, 163,
+https://doi.org/10.1007/s10584-011-0154-1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.04.027</doi>
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock,
+W. C., and Eder, B.: Fully coupled “online” chemistry in the WRF model.
+Atmos. Environ., 39, 6957–6976, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-6-3181-2006</doi>
+              <unstructured_citation>Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I., and Geron,
+C.: Estimates of global terrestrial isoprene emissions using MEGAN (Model of
+Emissions of Gases and Aerosols from Nature), Atmos. Chem. Phys., 6,
+3181–3210, https://doi.org/10.5194/acp-6-3181-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/gmd-5-1471-2012</doi>
+              <unstructured_citation>Guenther, A. B., Jiang, X., Heald, C. L., Sakulyanontvittaya, T., Duhl, T.,
+Emmons, L. K., and Wang, X.: The Model of Emissions of Gases and Aerosols
+from Nature version 2.1 (MEGAN2.1): an extended and updated framework for
+modeling biogenic emissions, Geosci. Model Dev., 5, 1471–1492,
+https://doi.org/10.5194/gmd-5-1471-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/gmd-4-901-2011</doi>
+              <unstructured_citation>Hodzic, A. and Jimenez, J. L.: Modeling anthropogenically controlled
+secondary organic aerosols in a megacity: a simplified framework for global
+and climate models, Geosci. Model Dev., 4, 901–917,
+https://doi.org/10.5194/gmd-4-901-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-16-10333-2016</doi>
+              <unstructured_citation>Hu, J., Chen, J., Ying, Q., and Zhang, H.: One-year simulation of ozone and
+particulate matter in China using WRF/CMAQ modeling system, Atmos. Chem.
+Phys., 16, 10333–10350, https://doi.org/10.5194/acp-16-10333-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/gmd-3-445-2010</doi>
+              <unstructured_citation>Huijnen, V., Williams, J., van Weele, M., van Noije, T., Krol, M., Dentener,
+F., Segers, A., Houweling, S., Peters, W., de Laat, J., Boersma, F.,
+Bergamaschi, P., van Velthoven, P., Le Sager, P., Eskes, H., Alkemade, F.,
+Scheele, R., Nédélec, P., and Pätz, H.-W.: The global chemistry
+transport model TM5: description and evaluation of the tropospheric chemistry
+version 3.0, Geosci. Model Dev., 3, 445–473,
+https://doi.org/10.5194/gmd-3-445-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-15-5275-2015</doi>
+              <unstructured_citation>Inness, A., Blechschmidt, A.-M., Bouarar, I., Chabrillat, S., Crepulja, M.,
+Engelen, R. J., Eskes, H., Flemming, J., Gaudel, A., Hendrick, F., Huijnen,
+V., Jones, L., Kapsomenakis, J., Katragkou, E., Keppens, A., Langerock, B.,
+de Mazière, M., Melas, D., Parrington, M., Peuch, V. H., Razinger, M.,
+Richter, A., Schultz, M. G., Suttie, M., Thouret, V., Vrekoussis, M., Wagner,
+A., and Zerefos, C.: Data assimilation of satellite-retrieved ozone, carbon
+monoxide and nitrogen dioxide with ECMWF's Composition-IFS, Atmos. Chem.
+Phys., 15, 5275–5303, https://doi.org/10.5194/acp-15-5275-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-15-11411-2015</doi>
+              <unstructured_citation>Janssens-Maenhout, G., Crippa, M., Guizzardi, D., Dentener, F., Muntean, M.,
+Pouliot, G., Keating, T., Zhang, Q., Kurokawa, J., Wankmüller, R., Denier van
+der Gon, H., Kuenen, J. J. P., Klimont, Z., Frost, G., Darras, S., Koffi, B.,
+and Li, M.: HTAP_v2.2: a mosaic of regional and global emission grid maps for
+2008 and 2010 to study hemispheric transport of air pollution, Atmos. Chem.
+Phys., 15, 11411–11432, https://doi.org/10.5194/acp-15-11411-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/acp-10-5759-2010</doi>
+              <unstructured_citation>Jonson, J. E., Stohl, A., Fiore, A. M., Hess, P., Szopa, S., Wild, O., Zeng,
+G., Dentener, F. J., Lupu, A., Schultz, M. G., Duncan, B. N., Sudo, K., Wind,
+P., Schulz, M., Marmer, E., Cuvelier, C., Keating, T., Zuber, A.,
+Valdebenito, A., Dorokhov, V., De Backer, H., Davies, J., Chen, G. H.,
+Johnson, B., Tarasick, D. W., Stübi, R., Newchurch, M. J., von der
+Gathen, P., Steinbrecht, W., and Claude, H.: A multi-model analysis of
+vertical ozone profiles, Atmos. Chem. Phys., 10, 5759–5783,
+https://doi.org/10.5194/acp-10-5759-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/bg-9-527-2012</doi>
+              <unstructured_citation>Kaiser, J. W., Heil, A., Andreae, M. O., Benedetti, A., Chubarova, N., Jones,
+L., Morcrette, J.-J., Razinger, M., Schultz, M. G., Suttie, M., and van der
+Werf, G. R.: Biomass burning emissions estimated with a global fire
+assimilation system based on observed fire radiative power, Biogeosciences,
+9, 527–554, https://doi.org/10.5194/bg-9-527-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2011JD016366</doi>
+              <unstructured_citation>Kouznetsov, R. and Sofiev, M.: A methodology for evaluation of vertical
+dispersion and dry deposition of atmospheric aerosols, J. Geophys. Res., 117,
+D01202, https://doi.org/10.1029/2011JD016366, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/acp-12-1-2012</doi>
+              <unstructured_citation>Kukkonen, J., Olsson, T., Schultz, D. M., Baklanov, A., Klein, T., Miranda,
+A. I., Monteiro, A., Hirtl, M., Tarvainen, V., Boy, M., Peuch, V.-H.,
+Poupkou, A., Kioutsioukis, I., Finardi, S., Sofiev, M., Sokhi, R., Lehtinen,
+K. E. J., Karatzas, K., San José, R., Astitha, M., Kallos, G., Schaap, M.,
+Reimer, E., Jakobs, H., and Eben, K.: A review of operational,
+regional-scale, chemical weather forecasting models in Europe, Atmos. Chem.
+Phys., 12, 1–87, https://doi.org/10.5194/acp-12-1-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/acp-14-5617-2014</doi>
+              <unstructured_citation>Li, M., Zhang, Q., Streets, D. G., He, K. B., Cheng, Y. F., Emmons, L. K.,
+Huo, H., Kang, S. C., Lu, Z., Shao, M., Su, H., Yu, X., and Zhang, Y.:
+Mapping Asian anthropogenic emissions of non-methane volatile organic
+compounds to multiple chemical mechanisms, Atmos. Chem. Phys., 14,
+5617–5638, https://doi.org/10.5194/acp-14-5617-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-17-935-2017</doi>
+              <unstructured_citation>Li, M., Zhang, Q., Kurokawa, J.-I., Woo, J.-H., He, K., Lu, Z., Ohara, T.,
+Song, Y., Streets, D. G., Carmichael, G. R., Cheng, Y., Hong, C., Huo, H.,
+Jiang, X., Kang, S., Liu, F., Su, H., and Zheng, B.: MIX: a mosaic Asian
+anthropogenic emission inventory under the international collaboration
+framework of the MICS-Asia and HTAP, Atmos. Chem. Phys., 17, 935–963,
+https://doi.org/10.5194/acp-17-935-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/acp-15-13299-2015</doi>
+              <unstructured_citation>Liu, F., Zhang, Q., Tong, D., Zheng, B., Li, M., Huo, H., and He, K. B.:
+High-resolution inventory of technologies, activities, and emissions of
+coal-fired power plants in China from 1990 to 2010, Atmos. Chem. Phys., 15,
+13299–13317, https://doi.org/10.5194/acp-15-13299-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/1520-0493(1981)109&lt;0701:AGTDMS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lorenc, A. C: A global three-dimensional multivariate statistical
+interpolation scheme, Mon. Weather Rev., 109, 701–721, 1981. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Madronich, S. and Flocke, S.: The role of solar radiation in atmospheric
+chemistry, edited by: Boule, P., Handbook of Environmental Chemistry,
+Springer, Heidelberg, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/gmd-10-4145-2017</doi>
+              <unstructured_citation>Manders, A. M. M., Builtjes, P. J. H., Curier, L., Denier van der Gon, H. A.
+C., Hendriks, C., Jonkers, S., Kranenburg, R., Kuenen, J. J. P., Segers, A.
+J., Timmermans, R. M. A., Visschedijk, A. J. H., Wichink Kruit, R. J., van
+Pul, W. A. J., Sauter, F. J., van der Swaluw, E., Swart, D. P. J., Douros,
+J., Eskes, H., van Meijgaard, E., van Ulft, B., van Velthoven, P., Banzhaf,
+S., Mues, A. C., Stern, R., Fu, G., Lu, S., Heemink, A., van Velzen, N.,&amp;lt;span id=&amp;quot;page66&amp;quot;/&amp;gt; and
+Schaap, M.: Curriculum vitae of the LOTOS–EUROS (v2.0) chemistry transport
+model, Geosci. Model Dev., 10, 4145–4173,
+https://doi.org/10.5194/gmd-10-4145-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/gmd-8-2777-2015</doi>
+              <unstructured_citation>Marécal, V., Peuch, V.-H., Andersson, C., Andersson, S., Arteta, J.,
+Beekmann, M., Benedictow, A., Bergström, R., Bessagnet, B., Cansado, A.,
+Chéroux, F., Colette, A., Coman, A., Curier, R. L., Denier van der Gon, H.
+A. C., Drouin, A., Elbern, H., Emili, E., Engelen, R. J., Eskes, H. J.,
+Foret, G., Friese, E., Gauss, M., Giannaros, C., Guth, J., Joly, M.,
+Jaumouillé, E., Josse, B., Kadygrov, N., Kaiser, J. W., Krajsek, K.,
+Kuenen, J., Kumar, U., Liora, N., Lopez, E., Malherbe, L., Martinez, I.,
+Melas, D., Meleux, F., Menut, L., Moinat, P., Morales, T., Parmentier, J.,
+Piacentini, A., Plu, M., Poupkou, A., Queguiner, S., Robertson, L., Rouïl,
+L., Schaap, M., Segers, A., Sofiev, M., Tarasson, L., Thomas, M., Timmermans,
+R., Valdebenito, Á., van Velthoven, P., van Versendaal, R., Vira, J., and
+Ung, A.: A regional air quality forecasting system over Europe: the MACC-II
+daily ensemble production, Geosci. Model Dev., 8, 2777–2813,
+https://doi.org/10.5194/gmd-8-2777-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2005JD005858</doi>
+              <unstructured_citation>McKeen, S., Wilczak, J., Grell, G., Djalalova, I., Peckham, S., Hsie, E.-Y.,
+Gong, W., Bouchet, V., Menard, S., Moffet, R., McHenry, J., McQueen, J.,
+Tang, Y., Carmichael, G. R., Pagowski, M., Chan, A., Dye, T., Frost, G., Lee,
+P., and Mathur R., Assessment of an ensemble of seven real-time ozone
+forecasts over Eastern North America during the summer of 2004, J. Geophys.
+Res., 110, D21307, https://doi.org/10.1029/2005JD005858, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/gmd-6-981-2013</doi>
+              <unstructured_citation>Menut, L., Bessagnet, B., Khvorostyanov, D., Beekmann, M., Blond, N.,
+Colette, A., Coll, I., Curci, G., Foret, G., Hodzic, A., Mailler, S., Meleux,
+F., Monge, J.-L., Pison, I., Siour, G., Turquety, S., Valari, M., Vautard,
+R., and Vivanco, M. G.: CHIMERE 2013: a model for regional atmospheric
+composition modelling, Geosci. Model Dev., 6, 981–1028,
+https://doi.org/10.5194/gmd-6-981-2013, 2013a. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Menut, L., Perez Garcia-Pando, C., Haustein, K., Bessagnet, B., Prigent, C.,
+and Alfaro, S.: Relative impact of roughness and soil texture on mineral
+dust emission fluxes modeling, J. Geophys. Res., 118, 6505–6520,
+https://doi.org/10.1002/jgrd.50313, 2013b. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Monahan, E. C., Spiel, D. E., and Davidson, K. L.: A Model of Marine Aerosol
+Generation Via Whitecaps and Wave Disruption, in: Oceanic Whitecaps,
+Oceanographic Sciences Library, edited by: Monahan, E. C. and Niocaill, G.
+M., vol 2., Springer, Dordrecht, 1986. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/2008JD011235</doi>
+              <unstructured_citation>Morcrette, J.-J., Boucher, O., Jones, L., Salmond, D., Bechtold, P.,
+Beljaars, A., Benedetti, A., Bonet, A., Kaiser, J. W., Razinger, M., Schulz,
+M., Serrar, S., Simmons, A. J., Sofiev, M., Suttie, M., Tompkins, A. M., and
+Untch, A.: Aerosol analysis and forecast in the ECMWF Integrated Forecast
+System. Part I: Forward modelling, J. Geophys. Res., D06206,
+https://doi.org/10.1029/2008JD011235, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1016/j.scitotenv.2014.06.014</doi>
+              <unstructured_citation>Muntean, M., Janssens-Maenhout, G., Song, S., Selin, N. E., Olivier, J. G. J.,
+Guizzardi, D., Maas, R., and Dentener, F., Trend analysis from 1970 to 2008
+and model evaluation of EDGARv4 global gridded anthropogenic mercury
+emissions, Sci. Total Environ., 494–495, 337–350, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/gmd-2018-234</doi>
+              <unstructured_citation>Petersen, A. K., Brasseur, G. P., Bouarar, I., Flemming, J., Gauss, M.,
+Jiang, F., Kouznetsov, R., Kranenburg, R., Mijling, B., Peuch, V.-H.,
+Pommier, M., Segers, A., Sofiev, M., Timmermans, R., van der A, R., Walters,
+S., Xie, Y., Xu, J., and Zhou, G.: Ensemble Forecasts of Air Quality in
+Eastern China – Part 2. Evaluation of the MarcoPolo-Panda Prediction System,
+Version 1, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2018-234, in
+review, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/j.envsoft.2010.05.004</doi>
+              <unstructured_citation>Poupkou, A., Giannaros, T., Markakis, K., Kioutsioukis, I., Curci, G.,
+Melas, D., and Zerefos, C.: A model for European Biogenic Volatile Organic
+Compound emissions: Software development and first validation, Environ.
+Modell. Softw., 25, 1845–1856, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-7-6085-2007</doi>
+              <unstructured_citation>Riccio, A., Giunta, G., and Galmarini, S.: Seeking for the rational basis of
+the Median Model: the optimal combination of multi-model ensemble results,
+Atmos. Chem. Phys., 7, 6085–6098, https://doi.org/10.5194/acp-7-6085-2007,
+2007. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2001JD000384</doi>
+              <unstructured_citation>Schell, B., Ackermann, I. J., Hass, H., Binkowski, F. S., and Ebel, A.:
+Modeling the formation of secondary organic aerosol within a comprehensive
+air quality model system, J. Geophys. Res., 106, 28275–28293, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-11-6639-2011</doi>
+              <unstructured_citation>Shrivastava, M., Fast, J., Easter, R., Gustafson Jr., W. I., Zaveri, R. A.,
+Jimenez, J. L., Saide, P., and Hodzic, A.: Modeling organic aerosols in a
+megacity: comparison of simple and complex representations of the volatility
+basis set approach, Atmos. Chem. Phys., 11, 6639–6662,
+https://doi.org/10.5194/acp-11-6639-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-12-7825-2012</doi>
+              <unstructured_citation>Simpson, D., Benedictow, A., Berge, H., Bergström, R., Emberson, L. D.,
+Fagerli, H., Flechard, C. R., Hayman, G. D., Gauss, M., Jonson, J. E.,
+Jenkin, M. E., Nyíri, A., Richter, C., Semeena, V. S., Tsyro, S., Tuovinen,
+J.-P., Valdebenito, Á., and Wind, P.: The EMEP MSC-W chemical transport
+model – technical description, Atmos. Chem. Phys., 12, 7825–7865,
+https://doi.org/10.5194/acp-12-7825-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Simpson, D., Tsyro, S., and Wind, P.: Updates to the EMEP/MSC-W model,
+Transboundary particulate matter, photo-oxidants, acidifying and eutrophying
+components. EMEP Status Report 1/2015, The Norwegian Meteorological
+Institute, Oslo, Norway, 2015, 129–138, ISSN 1504-6109, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Simpson, D., Nyri, A., Tsyro, S., Valdebenito, Á., and Wind, P.: Updates
+to the EMEP/MSC-W model, 2015–2016 Transboundary particulate matter,
+photo-oxidants, acidifying and eutrophying components. EMEP Status Report
+1/2016, The Norwegian Meteorological Institute, Oslo, Norway, 2016, 133–139,
+ISSN 1504-6109, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Skamarock, W. C., Klemp, J. B., Dudhia, J., Gill, D. O., Barker, D. M., Wang, W., and Powers, J. G.: A description of the Advanced
+Research WRF version 3. NCAR Tech. Note NCAR/TN-4751 STR, 125 pp., available
+at: http://www2.mmm.ucar.edu/wrf/users/docs/arw_v3.pdf (last access:
+7 December 2018), 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1016/j.atmosenv.2015.01.068</doi>
+              <unstructured_citation>Soares, J., Sofiev, M., and Hakkarainen, J.: Uncertainties of wild-land fires
+emission in AQMEII phase 2 case study, Atmos. Environ., 115, 361–370, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1016/S1352-2310(99)00415-X</doi>
+              <unstructured_citation>Sofiev, M.: A model for the evaluation of long-term airborne pollution
+transport at regional and continental scales, Atmos. Environ., 34,
+2481–2493, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1175/2009JAMC2210.1</doi>
+              <unstructured_citation>Sofiev, M., Genikhovich, E., Keronen, P., and Vesala, T.: Diagnosing the surface
+layer parameters for dispersion models within the
+meteorological-to-dispersion modeling interface, J. Appl. Meteorol. Clim.,
+49, 221–233, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1029/2010JD014713</doi>
+              <unstructured_citation>Sofiev, M., Soares, J., Prank, M., de Leeuw, G., and Kukkonen, J.: A
+regional-to-global model of emission and transport of sea salt particles in
+the atmosphere, J. Geophys. Res., 116, D21302, https://doi.org/10.1029/2010JD014713,
+2011. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/gmd-8-3497-2015</doi>
+              <unstructured_citation>Sofiev, M., Vira, J., Kouznetsov, R., Prank, M., Soares, J., and Genikhovich,
+E.: Construction of the SILAM Eulerian atmospheric dispersion model based on
+the advection algorithm of Michael Galperin, Geosci. Model Dev., 8,
+3497–3522, https://doi.org/10.5194/gmd-8-3497-2015, 2015a. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/acp-15-8115-2015</doi>
+              <unstructured_citation>Sofiev, M., Berger, U., Prank, M., Vira, J., Arteta, J., Belmonte, J.,
+Bergmann, K.-C., Chéroux, F., Elbern, H., Friese, E., Galan, C., Gehrig,
+R., Khvorostyanov, D., Kranenburg, R., Kumar, U., Marécal, V., Meleux, F.,
+Menut, L., Pessi, A.-M., Robertson, L., Ritenberga, O., Rodinkova, V.,
+Saarto, A., Segers, A., Severova, E., Sauliene, I., Siljamo, P., Steensen, B.
+M., Teinemaa, E., Thibaudon, M., and Peuch, V.-H.: MACC regional multi-model
+ensemble simulations of birch pollen dispersion in Europe, Atmos. Chem.
+Phys., 15, 8115–8130, https://doi.org/10.5194/acp-15-8115-2015, 2015b. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-17-12341-2017</doi>
+              <unstructured_citation>Sofiev, M., Ritenberga, O., Albertini, R., Arteta, J., Belmonte, J.,
+Bernstein, C. G., Bonini, M., Celenk, S., Damialis, A., Douros, J., Elbern,
+H., Friese, E., Galan, C., Oliver, G., Hrga, I., Kouznetsov, R., Krajsek, K.,
+Magyar, D., Parmentier, J., Plu, M., Prank, M., Robertson, L., Steensen, B.
+M., Thibaudon, M., Segers, A., Stepanovich, B., Valdebenito, A. M., Vira, J.,
+and Vokou, D.: Multi-model ensemble simulations of olive pollen distribution
+in Europe in 2014: current status and outlook, Atmos. Chem. Phys., 17,
+12341–12360, https://doi.org/10.5194/acp-17-12341-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1016/j.atmosenv.2012.01.003</doi>
+              <unstructured_citation>Solazzo, E., Bianconi, R., Vautard, R., Appel, K. W., Moran, M. D., Hogrefe,
+C., Bessagnet, B., Brandt, J., Christensen, J. H., Chemel, C., Coll, I.,
+Denier van der Gon, H., Ferreira, J., Forkel, R., Francis, X. V., Grell, G.,
+Grossi, P., Hansen, A. B., Jericevic, A., Kraljevic, L., Miranda, A. I.,
+Nopmongcol, U., Pirovano, G., Prank, M., Riccio, A., Sartelet, K. N., Schaap,
+M., Silver, J. D., Sokhi, R. S., Vira, J., Werhahn, J., Wolke, R., Yarwood,
+G., Zhang, J., Rao, S. T., and Galmarini, S.: Model evaluation and ensemble
+modelling of surface-level ozone in Europe and North America in the context
+of AQMEII, Atmos. Environ., 53, 60–74, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/acp-11-12109-2011</doi>
+              <unstructured_citation>Spracklen, D. V., Jimenez, J. L., Carslaw, K. S., Worsnop, D. R., Evans, M.
+J., Mann, G. W., Zhang, Q., Canagaratna, M. R., Allan, J., Coe, H.,
+McFiggans, G., Rap, A., and Forster, P.: Aerosol mass spectrometer constraint
+on the global secondary organic aerosol budget, Atmos. Chem. Phys., 11,
+12109–12136, https://doi.org/10.5194/acp-11-12109-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1016/j.atmosenv.2008.10.039</doi>
+              <unstructured_citation>Szopa, S., Foret, G., Menut, L., and Cozic, A.: Impact of large scale
+circulation on European summer surface ozone: consequences for modeling,
+Atmos. Environ., 43, 1189–1195, https://doi.org/10.1016/j.atmosenv.2008.10.039, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/2003JD003659</doi>
+              <unstructured_citation>Tie, X., Madronich, S., Walters, S., Rasch, P., and Collins, W.: Effect of
+clouds on photolysis and oxidants in the troposphere, J. Geophys. Res., 108,
+4642, https://doi.org/10.1029/2003JD003659, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1016/j.atmosenv.2017.06.003</doi>
+              <unstructured_citation>Timmermans, R., Kranenburg, R., Manders, A., Hendriks, C., Segers, A.,
+Dammers, E., Zhang, Q., Wang, L., Liu, Z., Zeng, L., Denier van der Gon, H.,
+and Schaap, M.: Source apportionment of PM2.5 across China using
+LOTOS-EUROS, Atmos. Environ., https://doi.org/10.1016/j.atmosenv.2017.06.003, 2017.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/acp-11-10367-2011</doi>
+              <unstructured_citation>Tsyro, S., Aas, W., Soares, J., Sofiev, M., Berge, H., and Spindler, G.:
+Modelling of sea salt concentrations over Europe: key uncertainties and
+comparison with observations, Atmos. Chem. Phys., 11, 10367–10388,
+https://doi.org/10.5194/acp-11-10367-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/gmd-7-587-2014</doi>
+              <unstructured_citation>Turquety, S., Menut, L., Bessagnet, B., Anav, A., Viovy, N., Maignan, F., and
+Wooster, M.: APIFLAME v1.0: high-resolution fire emission model and
+application to the Euro-Mediterranean region, Geosci. Model Dev., 7,
+587–612, https://doi.org/10.5194/gmd-7-587-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/2006GL027610</doi>
+              <unstructured_citation>Vautard, R., Van Loon, M., Schaap, M., Bergström, R., Bessagnet, B.,
+Brandt, J., Builtjes, P. J. H., Christensen, J. H., Cuvelier, C., Graff, A.,
+Jonson, J. E., Krol, M., Langner, J., Roberts, P., Rouil, L., Stern, R.,
+Tarrasón, L., Thunis, P., Vignati, E., White, L., and Wind, P.: Is
+regional air quality model diversity representative of uncertainty for ozone
+simulation?, Geophys. Res. Lett., 33, L24818, https://doi.org/10.1029/2006GL027610,
+2006. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1016/0004-6981(89)90153-4</doi>
+              <unstructured_citation>Wesely, M.: Parameterization of Surface Resistances to Gaseous Dry
+Deposition in Regional-Scale Numerical Models, Atmos. Environ., 23,
+1293–1304, 1989. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.5194/acp-12-2037-2012</doi>
+              <unstructured_citation>Wild, O., Fiore, A. M., Shindell, D. T., Doherty, R. M., Collins, W. J.,
+Dentener, F. J., Schultz, M. G., Gong, S., MacKenzie, I. A., Zeng, G., Hess,
+P., Duncan, B. N., Bergmann, D. J., Szopa, S., Jonson, J. E., Keating, T. J.,
+and Zuber, A.: Modelling future changes in surface ozone: a parameterized
+approach, Atmos. Chem. Phys., 12, 2037–2054,
+https://doi.org/10.5194/acp-12-2037-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Yarwood, G., Rao, S., Yocke, M., and Whitten, G.: Updates to the Carbon Bond
+Chemical Mechanism: CB05, Final Report to the U.S. EPA, RT-04-00675, RTP,
+NC, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2007JD008782</doi>
+              <unstructured_citation>Zaveri, R. A., Easter, R. C., Fast, J. D., and Peters, L. K.: Model for
+Simulating Aerosol Interactions and Chemistry (MOSAIC), J. Geophys. Res.,
+113, D13204, https://doi.org/10.1029/2007JD008782, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1029/2002JD002775</doi>
+              <unstructured_citation>Zender, C. S., Bian, H., and Newman, D.: Mineral dust entrainment and
+deposition (DEAD) model: description and 1990s dust climatology, J. Geophys.
+Res.-Atmos., 108, 4416, https://doi.org/10.1029/2002JD002775,
+2003. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.5194/acp-15-2031-2015</doi>
+              <unstructured_citation>Zheng, B., Zhang, Q., Zhang, Y., He, K. B., Wang, K., Zheng, G. J., Duan, F.
+K., Ma, Y. L., and Kimoto, T.: Heterogeneous chemistry: a mechanism missing
+in current models to explain secondary inorganic aerosol formation during the
+January 2013 haze episode in North China, Atmos. Chem. Phys., 15, 2031–2049,
+https://doi.org/10.5194/acp-15-2031-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1016/j.atmosenv.2017.01.020</doi>
+              <unstructured_citation>Zhou, G., Xu, J., Xie, Y., Chang, L., Gao, W., Gu, Y., and Zhou, J.:
+Numerical air quality forecasting over eastern China: An operational
+application of WRF-Chem, Atmos. Environ., 153, 94e108,
+https://doi.org/10.1016/j.atmosenv.2017.01.020, 2017. </unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

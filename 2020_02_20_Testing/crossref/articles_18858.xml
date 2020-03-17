@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>&amp;lt;i&amp;gt;D&amp;lt;/i&amp;gt;-region ion–neutral coupled chemistry (Sodankylä Ion
+Chemistry, SIC) within the Whole Atmosphere Community Climate Model (WACCM 4)
+– WACCM-SIC and WACCM-rSIC</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Tamás</given_name>
+              <surname>Kovács</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John M. C.</given_name>
+              <surname>Plane</surname>
+              <ORCID>https://orcid.org/0000-0003-3648-6893</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Wuhu</given_name>
+              <surname>Feng</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tibor</given_name>
+              <surname>Nagy</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martyn P.</given_name>
+              <surname>Chipperfield</surname>
+              <ORCID>https://orcid.org/0000-0002-6803-4149</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pekka T.</given_name>
+              <surname>Verronen</surname>
+              <ORCID>https://orcid.org/0000-0002-3479-9071</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Monika E.</given_name>
+              <surname>Andersson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David A.</given_name>
+              <surname>Newnham</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mark A.</given_name>
+              <surname>Clilverd</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel R.</given_name>
+              <surname>Marsh</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This study presents a new ion–neutral chemical model coupled into the Whole Atmosphere Community Climate Model (WACCM). The ionospheric <i>D</i>-region (altitudes ∼ <span class="thinspace"></span>50–90<span class="thinspace"></span>km) chemistry is based on the Sodankylä Ion Chemistry (SIC) model, a one-dimensional model containing 307 ion–neutral and ion recombination, 16 photodissociation and 7 photoionization reactions of neutral species, positive and negative ions, and electrons. The SIC mechanism was reduced using the simulation error minimization connectivity method (SEM-CM) to produce a reaction scheme of 181 ion–molecule reactions of 181 ion–molecule reactions of 27 positive and 18 negative ions. This scheme describes the concentration profiles at altitudes between 20<span class="thinspace"></span>km and 120<span class="thinspace"></span>km of a set of major neutral species (HNO<sub>3</sub>, O<sub>3</sub>, H<sub>2</sub>O<sub>2</sub>, NO, NO<sub>2</sub>, HO<sub>2</sub>, OH, N<sub>2</sub>O<sub>5</sub>) and ions (O<sub>2</sub><sup>+</sup>, O<sub>4</sub><sup>+</sup>, NO<sup>+</sup>, NO<sup>+</sup>(H<sub>2</sub>O), O<sub>2</sub><sup>+</sup>(H<sub>2</sub>O), H<sup>+</sup>(H<sub>2</sub>O), H<sup>+</sup>(H<sub>2</sub>O)<sub>2</sub>, H<sup>+</sup>(H<sub>2</sub>O)<sub>3</sub>, H<sup>+</sup>(H<sub>2</sub>O)<sub>4</sub>, O<sub>3</sub><sup>−</sup>, NO<sub>2</sub><sup>−</sup>, O<sup>−</sup>, O<sub>2</sub>, OH<sup>−</sup>, O<sub>2</sub><sup>−</sup>(H<sub>2</sub>O), O<sub>2</sub><sup>−</sup>(H<sub>2</sub>O)<sub>2</sub>, O<sub>4</sub><sup>−</sup>, CO<sub>3</sub><sup>−</sup>, CO<sub>3</sub><sup>−</sup>(H<sub>2</sub>O), CO<sub>4</sub><sup>−</sup>, HCO<sub>3</sub><sup>−</sup>, NO<sub>2</sub><sup>−</sup>, NO<sub>3</sub><sup>−</sup>, NO<sub>3</sub><sup>−</sup>(H<sub>2</sub>O), NO<sub>3</sub><sup>−</sup>(H<sub>2</sub>O)<sub>2</sub>, NO<sub>3</sub><sup>−</sup>(HNO<sub>3</sub>), NO<sub>3</sub><sup>−</sup>(HNO<sub>3</sub>)<sub>2</sub>, Cl<sup>−</sup>, ClO<sup>−</sup>), which agree with the full SIC mechanism within a 5<span class="thinspace"></span>% tolerance. Four 3-D model simulations were then performed, using the impact of the January 2005 solar proton event (SPE) on <i>D</i>-region HO<sub><i>x</i></sub> and NO<sub><i>x</i></sub> chemistry as a test case of four different model versions: the standard WACCM (no negative ions and a very limited set of positive ions); WACCM-SIC (standard WACCM with the full SIC chemistry of positive and negative ions); WACCM-D (standard WACCM with a heuristic reduction of the SIC chemistry, recently used to examine HNO<sub>3</sub> formation following an SPE); and WACCM-rSIC (standard WACCM with a reduction of SIC chemistry using the SEM-CM method). The standard WACCM misses the HNO<sub>3</sub> enhancement during the SPE, while the full and reduced model versions predict significant NO<sub><i>x</i></sub>, HO<sub><i>x</i></sub> and HNO<sub>3</sub> enhancements in the mesosphere during solar proton events. The SEM-CM reduction also identifies the important ion–molecule reactions that affect the partitioning of odd nitrogen (NO<sub><i>x</i></sub>), odd hydrogen (HO<sub><i>x</i></sub>) and O<sub>3</sub> in the stratosphere and mesosphere.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>12</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>3123</first_page>
+            <last_page>3136</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-3123-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/3123/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/3123/2016/gmd-9-3123-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Aikin, A. C.: Production of stratospheric HNO3 by different ion-molecule reaction mechanisms, J. Geophys. Res., 102, 12921–12925, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/2015JD024173</doi>
+              <unstructured_citation>Andersson, M. E., Verronen, P. T., Marsh, D. R., Paivarinta, S.-M., and Plane, J. M. C.: WACCM-D – Improved modeling of nitric acid and active chlorine during energetic particle precipitation, J. Geophys. Res., https://doi.org/10.1002/2015JD024173, online first, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Bethe, A. H. and Ashkin, J.: Passage of radiations through matter, in: Experimetal Nuclear Physics, edited by: Segre, E., John Wiley, Hoboken, New York, 1953.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Brasseur, G. P. and Solomon, S.: Aeronomy of the Middle Atmosphere, Springer, Dordrecht, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2004GL021480</doi>
+              <unstructured_citation>Burlaga, L. F., Ness, N. F., Stone, E. C., McDonald, F. B., and Richardson, J. D.: Voyager 2 observations related to the October – November 2003 solar events, Geophys. Res. Lett., 32, L03S05, https://doi.org/10.1029/2004GL021480, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Crutzen, P. J.: The influence of nitrogen oxides on the atmospheric ozone content, Q. J. Roy. Meteor. Soc., 96, 320–325, 1970.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Danilov, A. D.: Ion chemistry of the lower thermosphere, J. Atmos. Sol.-Terr. Phys., 56, 1213–1225, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Dee, D. P., Uppalaa, S. M., Simmonsa, A. J., Berrisforda, P., Polia, P., Kobayashib, S., Andraec, U., Balmasedaa, M. A., Balsamoa, G., Bauera, P., Bechtolda, P., Beljaarsa, A. C. M., van de Bergd, L., Bidlota, J., Bormanna, N., Delsola, C., Dragania, R., Fuentesa, M., Geera, A. J., Haimbergere, L., Healya, S. B., Hersbacha, H., Hólma, E. V., Isaksena, L., K° allbergc, P., Köhlera, M., Matricardia, M., McNallya, A. P., Monge-Sanzf, B. M., Morcrettea, J.-J., Parkg, B.-K., Peubeya, C., de Rosnaya, P., Tavolatoe, C., Thépauta, J.-N., and Vitarta, F.: The ERA-Interim reanalysis: configuration and performance of the data assimilation system, Q. J. Roy. Meteor. Soc., 137, 553–597, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1029/2008JA013284</doi>
+              <unstructured_citation>Du, A. M., Tsurutani, B. T., and Sun, W.: Anomalous geomagnetic storm of 21–22 January 2005: A storm main phase during northward IMFs, J. Geophys. Res., 113, A10214, https://doi.org/10.1029/2008JA013284, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Freier, P. S. and Webber, W. R.: Exponential rigidity spectrums for solar-flare cosmic rays, J. Geophys. Res., 68, 1605–1629, 1963.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2006JD007485</doi>
+              <unstructured_citation>Garcia, R. R., Marsh, D. R., Kinnison, D. E., Boville, B. A., and Sassi, F.: Simulation of secular trends in the middle atmosphere, 1950–2003, J. Geophys. Res., 112, D09301, https://doi.org/10.1029/2006JD007485, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Holt, L. A., Randall, C. E., Peck, E. D., Marsh, D. R., Smith, A. K., and Harvey, V. L.: The influence of major sudden stratospheric warming and elevated stratopause events on the effects of energetic particle precipitation in WACCM, J. Geophys. Res., 118, 11636–11646, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Hurrell, J. W., Holland, M. M., Gent, P. R., Ghan, S., Kay, J. E., Kushner, P. J., Lamarque, J.-F., Large, W. G., Lawrence, D., Lindsay, K., Lipscomb, W. H., Long, M. C., Mahowald, N., Marsh, D. R., Neale, R. B., Rasch, P., Vavrus, S., Vertenstein, M., Bader, D., Collins, W. D., Hack, J. J., Kiehl, J., and Marshall, S.: The Community Earth System Model: A Framework for Collaborative Research, B. Am. Meteorol. Soc., 94, 1339–1360, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-11-6153-2011</doi>
+              <unstructured_citation>Jackman, C. H., Marsh, D. R., Vitt, F. M., Roble, R. G., Randall, C. E., Bernath, P. F., Funke, B., López-Puertas, M., Versick, S., Stiller, G. P., Tylka, A. J., and Fleming, E. L.: Northern Hemisphere atmospheric influence of the solar proton events and ground level enhancement in January 2005, Atmos. Chem. Phys., 11, 6153–6166, https://doi.org/10.5194/acp-11-6153-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-14-1025-2014</doi>
+              <unstructured_citation>Jackman, C. H., Randall, C. E., Harvey, V. L., Wang, S., Fleming, E. L., López-Puertas, M., Funke, B., and Bernath, P. F.: Middle atmospheric changes caused by the January and March 2012 solar proton events, Atmos. Chem. Phys., 14, 1025–1038, https://doi.org/10.5194/acp-14-1025-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/angeo-22-2255-2004</doi>
+              <unstructured_citation>Kurt, V., Belov, A., Mavromichalaki, H., and Gerontidou, M.: Statistical analysis of solar proton events, Ann. Geophys., 22, 2255–2271, https://doi.org/10.5194/angeo-22-2255-2004, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2006JD008306</doi>
+              <unstructured_citation>Marsh, D. R., Garcia, R. R., Kinnison, D. E., Boville, B. A., Sassi, F., Solomon, S. C., and Matthes, K.: Modeling the whole atmosphere response to solar cycle changed in radiative and geomagnetic forcing, J. Geophys. Res., 112, D23306, https://doi.org/10.1029/2006JD008306, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Marsh, D. R., Mills, M. J., Kinnison, D. E., and Lamarque, J.-F.: Climate change from 1850 to 2005 simulated in CESM1 (WACCM), J. Climate, 26, 7372–7391, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>McElroy, M. B., Salawitch, R. J., and Minschwaner, K. R.: The changing stratosphere, Planet. Space Sci., 40, 373–401, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Nagy, T. and Turanyi, T.: Reduction of very large reaction mechanisms using methods based on simulation error minimization, Combust. Flame, 156, 417–428, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Pavlov, A. V.: Photochemistry of ions at D-region altitudes of the ionosphere: A review, Surv. Geophys., 35, 259–334, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2002JA009430</doi>
+              <unstructured_citation>Picone, J. M., Hedin, A. E., Drob, D. P., and Aikin, A. C.: NRLMSISE-00 empirical model of the atmosphere: Statistical comparisons and scientific issues, J. Geophys. Res., 107, 1468, https://doi.org/10.1029/2002JA009430, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Porter, H. S., Jackman, C. H., and Green, A. E. S.: Efficiencies for production of atomic nitrogen and oxygen by relativistic proton impact in air, J. Chem. Phys., 65, 154–167, 1976.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Roble, R. G.: Solar EUV flux variation during a solar cycle as derived from ionospheric modeling considerations, J. Geophys. Res., 81, 265–270, 1976.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Schmidt, H., Brasseur, G. P., Charron, M., Manzini, E., Giorgetta, M. A., and Diehl, T.: The HAMMONIA Chemistry Climate Model: Sensitivity of the Menopause Region to the 11-Year Solar Cycle and CO2 Doubling, J. Climate, 19, 3903–3931, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Shea, M. A., and Smart, D. F.: Recent and historical solar proton events, Radiocarbon, 34, 255–262, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Shimazaki, T.: Minor constituents in the middle atmosphere, Dev. in Atmosphere in Planet. Phys., Springer, New York, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Sinnhuber, M., Nieder, H., and Wieters, N.: Energetic Particle Precipitation and the Chemistry of the Mesosphere/Lower Thermosphere, Surv. Geophys., 33, 1281–1334, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Solomon, S., Rusch, D. W., Gerard, J. C., Reid, G. C., and Crutzen, P. J.: The effect of particle precipitation on the neutral and ion chemistry of the middle atmosphere – II. Odd hydrogen, Planet. Space Sci., 29, 885–890, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Tobiska, W. K. and Bouwer, S.: New developments in SOLAR2000 for space research and operations, Adv. Space Res., 37, 347–358, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Turanyi, T.: Reduction of large reaction mechanisms, New J. Chem., 14, 795–803, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Turanyi, T., Berces, T., and Vajda, S.: Reaction rate analysis of complex kinetic systems, Int. J. Chem. Kinet., 21, 83–99, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Turunen, E., Matveinen, H., Tolvanen, J., and Ranta, H.: D-region ion chemistry model, STEP Handbook of ionospheric models, SCOSTEP Secretariat, Boulder, Colorado, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/angeo-31-909-2013</doi>
+              <unstructured_citation>Verronen, P. T. and Lehmann, R.: Analysis and parameterisation of ionic reactions affecting middle atmospheric HOx and NOy during solar proton events, Ann. Geophys., 31, 909–956, https://doi.org/10.5194/angeo-31-909-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2004JA010932</doi>
+              <unstructured_citation>Verronen, P. T., Seppälä, A., Clilverd, M. A., Rodger, C. J., Kyrölä, E., Enell, C.-F., Ulich, T., and Turunen, E.: Diurnal variation of ozone depletion during the October-November 2003 solar proton events, J. Geophys. Res., 110, A09S32, https://doi.org/10.1029/2004JA010932, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Verronen, P. T., Funke, B., López-Puertas, M., Stiller, G. P., von Clarmann, T., Glatthor, N., Enell, C.-F., Turunen, E., and Tamminen, J.: About the increase of HNO3 in the stratopause region during the Halloween 2003 solar proton event, J. Geophys. Res., 35, L20809, https://doi.org/10.1029/2008GL035312, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2011JD016075</doi>
+              <unstructured_citation>Verronen, P. T., Santee, M. L., Manney, G. L., Lehmann, R., Salmi, S.-M., and Seppälä, A.: Nitric acid enhancements in the mesosphere during the January 2005 and December 2006 solar proton events, J. Geophys. Res., 116, D17301, https://doi.org/10.1029/2011JD016075, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/2015MS000592</doi>
+              <unstructured_citation>Verronen, P. T., Andersson, M. E., Marsh, D. R., Kovacs, T., and Plane, J. M. C.: WACCM-D – Whole Atmospher Community Climate Model with D-region ion chemistry, J. Adv. Model Earth Syst., 8, 954–975, https://doi.org/10.1002/2015MS000592, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2007JD008574</doi>
+              <unstructured_citation>Winkler, H., Sinnhuber, M., Notholt, J., Kallenrode, M.-B., Steinhilber, F., Vogt, J., Zieger, B., Glassmeier, K.-H., and Stadelmann, A.: Modelling impacts of geomagnetic field variations on middle atmospheric ozone responses to solar proton events on long time scales, J. Geophys. Res., 113, D02302, https://doi.org/10.1029/2007JD008574, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/gmd-9-3123-2016-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/9/3123/2016/gmd-9-3123-2016-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1145" timestamp="2017-10-31 08:35:20">
+    <crossref>
+      <conference>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <surname>Unknown</surname>
+          </person_name>
+        </contributors>
+        <event_metadata>
+          <conference_name>the First International Workshop</conference_name>
+          <conference_acronym>Correctness'17</conference_acronym>
+          <conference_sponsor>IEEE CS</conference_sponsor>
+          <conference_sponsor>SIGHPC, ACM Special Interest Group on High Performance Computing, Special Interest Group on High Performance Computing</conference_sponsor>
+          <conference_number>1</conference_number>
+          <conference_location>Denver, CO, USA</conference_location>
+          <conference_date start_month="11" start_year="2017" start_day="12" end_year="2017" end_month="11" end_day="17"/>
+        </event_metadata>
+        <proceedings_metadata language="en">
+          <proceedings_title>Proceedings of the First International Workshop on Software Correctness for HPC Applications  - Correctness'17</proceedings_title>
+          <proceedings_subject>Software Correctness for HPC Applications</proceedings_subject>
+          <publisher>
+            <publisher_name>ACM Press</publisher_name>
+            <publisher_place>New York, New York, USA</publisher_place>
+          </publisher>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <isbn media_type="print">9781450351270</isbn>
+          <doi_data>
+            <doi>10.1145/3145344</doi>
+            <timestamp>20171031081649</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=3145344</resource>
+          </doi_data>
+        </proceedings_metadata>
+        <conference_paper publication_type="full_text">
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Allison H.</given_name>
+              <surname>Baker</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel J.</given_name>
+              <surname>Milroy</surname>
+              <affiliation>University of Colorado, Boulder, CO</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dorit M.</given_name>
+              <surname>Hammerling</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Haiying</given_name>
+              <surname>Xu</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, CO</affiliation>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Quality Assurance and Error Identification for the Community Earth System Model</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>8</first_page>
+            <last_page>13</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2017-11-12">http://www.acm.org/publications/policies/copyright_policy#Background</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1145/3145344.3145491</doi>
+            <timestamp>20171031081649</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=3145344.3145491</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://dl.acm.org/ft_gateway.cfm?id=3145491&amp;ftid=1917941&amp;dwn=1</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="key-10.1145/3145344.3145491-1">
+              <doi provider="crossref">10.5194/gmd-8-2829-2015</doi>
+              <unstructured_citation>A. H. Baker, D. M. Hammerling, M. N Levy, H. Xu, J. M. Dennis, B. E. Eaton, J. Edwards, C. Hannay, S. A. Mickelson, R. B. Neale, D. Nychka, J. Shollenberger, J. Tribbia, M. Vertenstein, and D. Williamson. 2015. A new ensemble-based consistency test for the Community Earth System Model. Geoscientific Model Development 8 (2015), 2829--2840. https://doi.org/10.5194/gmd-8-2829-2015</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-2">
+              <doi provider="crossref">10.5194/gmd-9-2391-2016</doi>
+              <unstructured_citation>A. H. Baker, Y. Hu, D. M. Hammerling, Y.-H. Tseng, H. Xu, X. Huang, F. O. Bryan, and G. Yang. 2016. Evaluating statistical consistency in the ocean model component of the Community Earth System Model (pyCECT v2.0). Geoscientific Model Development 9, 7 (2016), 2391--2406. https://doi.org/10.5194/gmd-9-2391-2016</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-3">
+              <unstructured_citation>CAM 2015. CAM Monthly variables. http://www.cesm.ucar.edu/models/cesm1.0/cam/docs/ug5_0/hist_flds_fv_cam5.html. (2015). [Last accessed 15-August-2017].</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-4">
+              <unstructured_citation>CMIP5 2013. Coupled Model Intercomparison Project Phase 5. (2013). http://cmip-pcmdi.llnl.gov/cmip5/ [Last accessed 15-August-2017].</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-5">
+              <doi provider="crossref">10.1175/1520-0477(2001)082&lt;2377:ESOTFC&gt;2.3.CO;2</doi>
+              <unstructured_citation>A. Dai, G.A. Meehl, W.M. Washington, T.M.L Wigley, and J.M. Arblaster. 2001. Ensemble simulation of 21st century climate changes: business as usual vs. CO2 stabilization. Bulletin of the American Meteorological Society 82 (2001), 2377--2388.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-6">
+              <doi provider="crossref">10.1109/MS.2011.141</doi>
+              <unstructured_citation>S. M. Easterbrook, P. N. Edwards, V. Balaji, and R. Budich. 2011. Guest Editors Introduction: Climate Change - Science and Software. IEEE Software 28, 6 (2011), 32--35.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-7">
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>J. Hurrell, M. Holland, P. Gent, S. Ghan, J. Kay, P. Kushner, J.-F. Lamarque, W. Large, D. Lawrence, K. Lindsay, W. Lipscomb, M. Long, N. Mahowald, D. Marsh, R. Neale, P. Rasch, S. Vavrus, M. Vertenstein, D. Bader, W. Collins, J. Hack, J. Kiehl, and S. Marshall. 2013. The Community Earth System Model: A Framework for Collaborative Research. Bulletin of the American Meteorological Society 94 (2013), 1339--1360. https://doi.org/10.1175/BAMS-D-12-00121.1</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-8">
+              <doi provider="crossref">10.1175/BAMS-D-13-00255.1</doi>
+              <unstructured_citation>J. E. Kay, C. Deser, A. Phillips, A. Mai, C. Hannay, G. Strand, J. M. Arblaster, S. C. Bates, G. Danabasoglu, J. Edwards, M. Holland, P. Kushner, J.-F. Lamarque, D. Lawrence, K. Lindsay, A. Middleton, E. Munoz, R. Neale, K. Oleson, L. Polvani, and M. Vertenstein. 2015. The Community Earth System Model (CESM) Large Ensemble Project: A Community Resource for Studying Climate Change in the Presence of Internal Climate Variability. Bulletin of the American Meteorological Society 96, 8 (2015), 1333--1349. https://doi.org/10.1175/BAMS-D-13-00255.1</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-9">
+              <unstructured_citation>Younsung Kim, John Dennis, Christopher Kerr, Raghu Raj Prasanna Kumar, Amogh Simha, Allison Baker, and Sheri Mickelson. 2016. KGEN: A Python Tool for Automated Fortran Kernel Generation and Verification. In Procedia Computer Science (ICCS 2016. The International Conference on Computational Science), Vol. 80. 1450--1460. https://doi.org/10.1016/j.procs.2016.05.466</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-10">
+              <doi provider="crossref">10.1111/j.1467-9868.2010.00740.x</doi>
+              <unstructured_citation>Nicolai Meinshausen and Peter B&amp;#252;hlmann. 2010. Stability selection. Journal of the Royal Statistical Society: Series B (Statistical Methodology) 72, 4 (2010), 417--473. https://doi.org/10.1111/j.1467-9868.2010.00740.x</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-11">
+              <unstructured_citation>Daniel J. Milroy. 2015. Refining the composition of CESM-ECT ensembles. Master's thesis. University of Colorado at Boulder. (Also available from http://search.proquest.com/docview/1760171657?accountid=28174).</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-12">
+              <unstructured_citation>Daniel J. Milroy, Allison H. Baker, Dorit M. Hammerling, John M. Dennis, Sheri A. Mickelson, and Elizabeth R. Jessup. 2016. Towards Characterizing the Variability of Statistically Consistent Community Earth System Model Simulations. In Procedia Computer Science (ICCS 2016. The International Conference on Computational Science), Vol. 80. 1589--1600. https://doi.org/10.1016/j.procs.2016.05.489</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-13">
+              <unstructured_citation>D. J. Milroy, A. H. Baker, D. M. Hammerling, and E. R. Jessup. 2017. Nine time steps: ultra-fast statistical consistency testing of the Community Earth System Model (pyCECT v3.0). Geoscientific Model Development Discussions 2017 (2017), 1--22. https://doi.org/10.5194/gmd-2017-49</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-14">
+              <unstructured_citation>F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and E. Duchesnay. 2011. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research 12 (2011), 2825--2830.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-15">
+              <doi provider="crossref">10.5194/gmd-5-1009-2012</doi>
+              <unstructured_citation>J. Pipitone and S. Easterbrook. 2012. Assessing climate model software quality: a defect density analysis of three models. Geoscientific Model Development 5, 4 (2012), 1009--1022. https://doi.org/10.5194/gmd-5-1009-2012</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-16">
+              <doi provider="crossref">10.1137/S1064827594275534</doi>
+              <unstructured_citation>James M. Rosinski and David L. Williamson. 1997. The Accumulation of Rounding Errors and Port Validation for Global Atmospheric Models. SIAM J. Sci. Comput. 18, 2 (March 1997), 552--564. https://doi.org/10.1137/S1064827594275534</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-17">
+              <unstructured_citation>W.M. Washington and C.L. Parkinson. 2005. An Introduction to Three-dimensional Climate Modeling. University Science Books.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3145344.3145491-18">
+              <unstructured_citation>Warren M Washington, Lawrence Buja, and Anthony Craig. 2009. The computational future for climate and Earth system models: on the path to petaflop and beyond. Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences 367, 1890 (2009), 833--846. https://doi.org/10.1098/rsta.2008.0219</unstructured_citation>
+            </citation>
+          </citation_list>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </doi_record>
+</doi_records>

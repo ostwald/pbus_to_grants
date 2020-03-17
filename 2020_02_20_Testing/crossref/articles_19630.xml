@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1175" timestamp="2017-04-21 13:28:29">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Weather and Forecasting</full_title>
+          <abbrev_title>Wea. Forecasting</abbrev_title>
+          <issn media_type="print">0882-8156</issn>
+          <issn media_type="electronic">1520-0434</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>02</month>
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>32</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A Numerical Weather Model’s Ability to Predict Characteristics of Aircraft Icing Environments</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Gregory</given_name>
+              <surname>Thompson</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Marcia K.</given_name>
+              <surname>Politovich</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roy M.</given_name>
+              <surname>Rasmussen</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>02</month>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>207</first_page>
+            <last_page>221</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1175/WAF-D-16-0125.1</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Federal Aviation Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006282</assertion>
+              </assertion>
+              <assertion name="award_number">DTFAWA-15-D-00036</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref start_date="2018-01-06" applies_to="vor">http://www.ametsoc.org/PUBSCopyrightPolicy</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1175/WAF-D-16-0125.1</doi>
+            <resource>http://journals.ametsoc.org/doi/10.1175/WAF-D-16-0125.1</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.ametsoc.org/doi/pdf/10.1175/WAF-D-16-0125.1</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">http://journals.ametsoc.org/doi/pdf/10.1175/WAF-D-16-0125.1</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

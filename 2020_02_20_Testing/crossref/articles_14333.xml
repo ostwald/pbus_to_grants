@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-06 19:07:59">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Calibrating airborne measurements of airspeed, pressure and temperature using a Doppler laser air-motion sensor</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>W. A.</given_name>
+              <surname>Cooper</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S. M.</given_name>
+              <surname>Spuler</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M.</given_name>
+              <surname>Spowart</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D. H.</given_name>
+              <surname>Lenschow</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R. B.</given_name>
+              <surname>Friesen</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> A new laser air-motion sensor measures the true airspeed with a standard uncertainty of less than 0.1 m s<sup>&amp;minus;1</sup> and so reduces uncertainty in the measured component of the relative wind along the longitudinal axis of the aircraft to about the same level. The calculated pressure expected from that airspeed at the inlet of a pitot tube then provides a basis for calibrating the measurements of dynamic and static pressure, reducing standard uncertainty in those measurements to less than 0.3 hPa and the precision applicable to steady flight conditions to about 0.1 hPa. These improved measurements of pressure, combined with high-resolution measurements of geometric altitude from the global positioning system, then indicate (via integrations of the hydrostatic equation during climbs and descents) that the offset and uncertainty in temperature measurement for one research aircraft are +0.3 ± 0.3 °C. For airspeed, pressure and temperature, these are significant reductions in uncertainty vs. those obtained from calibrations using standard techniques. Finally, it is shown that although the initial calibration of the measured static and dynamic pressures requires a measured temperature, once calibrated these measured pressures and the measurement of airspeed from the new laser air-motion sensor provide a measurement of temperature that does not depend on any other temperature sensor.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>30</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>3215</first_page>
+            <last_page>3231</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-7-3215-2014</doi>
+            <resource>https://www.atmos-meas-tech.net/7/3215/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/7/3215/2014/amt-7-3215-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Balachandran, P.: Fundamentals of Compressible Fluid Dynamics, Prentice-Hall of India Pvt-Ltd, available at: http://books.google.com/books?id=KEzdXmXgaHkC (last access: 21 September 2014), 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/1520-0469(1945)002&lt;0001:TUOPAA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bellamy, J. C.: The use of pressure altitude and altimeter corrections in meteorology, J. Meteorol., 2, 1–79, https://doi.org/10.1175/1520-0469(1945)0022.0.CO;2, 1945.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/1520-0469(1983)040&lt;2655:TOMSLS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Betts, A. K.: Thermodynamics of mixed stratocumulus layers – saturation point budgets, J. Atmos. Sci., 40, 2655–2670, https://doi.org/10.1175/1520-0469(1983)0402.0.CO;2, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Brown, E. N.: Position Error Calibration of a Pressure Survey Aircraft Using a Trailing Cone, NCAR technical note NCAR/TN-313+STR, Atmospheric Technology Division, NCAR, Boulder, CO, USA, available at: http://nldr.library.ucar.edu/repository/collections/TECH-NOTE-000-000-000-579 (last access: 21 September 2014), 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/1520-0450(1981)020&lt;1070:TAOARA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Brown, E. N., Shapiro, M. A., Kennedy, P. J., and Friehe, C. A.: The application of airborne radar altimetry to the measurement of height and slope of isobaric surfaces, J. Appl. Meteorol., 20, 1070–1075, https://doi.org/10.1175/1520-0450(1981)0202.0.CO;2, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/1520-0450(1983)022&lt;0171:TUOPFO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Brown, E. N., Friehe, C. A., and Lenschow, D. H.: The use of pressure-fluctuations on the nose of an aircraft for measuring air motion, J. Clim. Appl. Meteorol., 22, 171–180, https://doi.org/10.1175/1520-0450(1983)0222.0.CO;2, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1109/TAES.2011.5705663</doi>
+              <unstructured_citation>Cho, A., Kim, J., Lee, S., and Kee, C.: Wind estimation and airspeed calibration using a UAV with a single-antenna GPS receiver and pitot tube, IEEE T. Aero. Elec. Sys., 47, 109–117, https://doi.org/10.1109/TAES.2011.5705663, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.2514/6.2010-1350</doi>
+              <unstructured_citation>Foster, J. and Cunningham, K.: A GPS-based pitot-static calibration method using global output error optimization, Aerospace Sciences Meetings, American Institute of Aeronautics and Astronautics, https://doi.org/10.2514/6.2010-1350, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Gracey, W.: Measurement of Aircraft Speed and Altitude, NASA Reference Publication 1046, NASA Langley Research Center, available at: http://www.dtic.mil/dtic/tr/fulltext/u2/a280006.pdf (last access: 21 September 2014), 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Gracey, W., Letko, W., and Russell, W. R.: Wind Tunnel Investigation of a Number of Total-Pressure Tubes at High Angles of Attack, Subsonic Speeds, no. 2331 in NACA Technical Note, National Advisory Committee for Aeronautics, 1951.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Haering Jr., E. A.: Airdata Measurement and Calibration, NASA Technical Memorandum 104315, NASA Dryden Flight Research Center, available at: http://ntrs.nasa.gov/search.jsp?R=19990063780 (last access 21 September 2014), 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/1520-0450(1979)018&lt;0092:OOEFWO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Heymsfield, A. J., Dye, J. E., and Biter, C. J.: Overestimates of entrainment from wetting of aircraft temperature sensors in cloud, J. Appl. Meteorol., 18, 92–95, https://doi.org/10.1175/1520-0450(1979)0182.0.CO;2, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.2514/3.43563</doi>
+              <unstructured_citation>Ikhtiari, P. A. and Marth, V. G.: Trailing cone static pressure measurement device, J. Aircraft, 1, 93–94, https://doi.org/10.2514/3.43563, 1964.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/1520-0426(1987)004&lt;0113:AALAMS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Keeler, R. J., Serafin, R. J., Schwiesow, R. L., Lenschow, D. H., Vaughan, J. M., and Woodfield, A.: An airborne laser air motion sensing system, Part I: Concept and preliminary experiment, J. Atmos. Ocean. Tech., 4, 113–127, https://doi.org/10.1175/1520-0426(1987)0042.0.CO;2, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/1520-0426(1999)016&lt;0860:IWMORA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Khelif, D., Burns, S. P., and Friehe, C. A.: Improved wind measurements on research aircraft, J. Atmos. Ocean. Tech., 16, 860–875, https://doi.org/10.1175/1520-0426(1999)0162.0.CO;2, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/1520-0426(1987)004&lt;0128:AALAMS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Kristensen, L. and Lenschow, D. H.: An airborne laser air motion sensing system, Part II: Design criteria and measurement possibilities, J. Atmos. Ocean. Tech., 4, 128–138, https://doi.org/10.1175/1520-0426(1987)0042.0.CO;2, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/1520-0426(1986)003&lt;0650:TUOIAI&gt;2.0.CO;2</doi>
+              <unstructured_citation>LeMone, M. A. and Tarleton, L. F.: The use of inertial altitude in the determination of the convective-scale pressure field over land, J. Atmos. Ocean. Tech., 3, 650–661, https://doi.org/10.1175/1520-0426(1986)0032.0.CO;2, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Lenschow, D. H.: The measurement of air velocity and temperature using the NCAR Buffalo Aircraft Measuring System, Tech. rep., available at: http://nldr.library.ucar.edu/repository/collections/TECH-NOTE-000-000-000-064 (last access: 21 September 2014), 1972.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.2514/6.2011-6669</doi>
+              <unstructured_citation>Martos, B., Kiszely, P., and Foster, J.: Flight test results of a GPS-based pitot-static calibration method using output-error optimization for a light twin-engine airplane, in: Guidance, Navigation, and Control and Co-located Conferences, American Institute of Aeronautics and Astronautics, https://doi.org/10.2514/6.2011-6669, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/1520-0426(1997)014&lt;1110:VONMCD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Mayor, S. D., Lenschow, D. H., Schwiesow, R. L., Mann, J., Frush, C. L., and Simon, M. K.: Validation of NCAR 10.6-\\mum CO2 Doppler lidar radial velocity measurements and comparison with a 915-MHz profiler, J. Atmos. Ocean. Tech., 14, 1110–1126, https://doi.org/10.1175/1520-0426(1997)0142.0.CO;2, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1093/comjnl/7.4.308</doi>
+              <unstructured_citation>Nelder, J. A. and Mead, R.: A simplex-method for function minimization, Comput. J., 7, 308–313, 1965.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/1520-0469(1979)036&lt;2467:TEMICC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Paluch, I. R.: Entrainment mechanism in Colorado cumuli, J. Atmos. Sci., 36, 2467–2478, https://doi.org/10.1175/1520-0469(1979)0362.0.CO;2, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/JTECH-D-12-00011.1</doi>
+              <unstructured_citation>Parish, T. R. and Leon, D. C.: Measurement of cloud perturbation pressures using an instrumented aircraft, J. Atmos. Ocean. Tech., 30, 215–229, https://doi.org/10.1175/JTECH-D-12-00011.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JTECH1986.1</doi>
+              <unstructured_citation>Parish, T. R., Burkhart, M. D., and Rodi, A. R.: Determination of the horizontal pressure gradient force using global positioning system on board an instrumented aircraft, J. Atmos. Ocean. Tech., 24, 521–528, https://doi.org/10.1175/JTECH1986.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>R Core Team: R: a language and environment for statistical computing, R Foundation for Statistical Computing, Vienna, Austria, available at: http://www.R-project.org (last access: 21 September 2014), 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/amt-5-2569-2012</doi>
+              <unstructured_citation>Rodi, A. R. and Leon, D. C.: Correction of static pressure on a research aircraft in accelerated flight using differential pressure measurements, Atmos. Meas. Tech., 5, 2569–2579, https://doi.org/10.5194/amt-5-2569-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/1520-0469(1981)038&lt;2642:RAMOJS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Shapiro, M. A. and Kennedy, P. J.: Research aircraft measurements of jet-stream geostrophic and ageostrophic winds, J. Atmos. Sci., 38, 2642–2652, https://doi.org/10.1175/1520-0469(1981)0382.0.CO;2, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1364/AO.10.001600</doi>
+              <unstructured_citation>Sonnenschein, C. M. and Horrigan, F. A.: Signal-to-noise relationships for coaxial systems that heterodyne backscatter from the atmosphere, Appl. Optics, 10, 1600–1604, https://doi.org/10.1364/AO.10.001600, 1971.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1364/AO.50.000842</doi>
+              <unstructured_citation>Spuler, S. M., Richter, D., Spowart, M. P., and Rieken, K.: Optical fiber-based laser remote sensor for airborne measurement of wind velocity and turbulence, Appl. Optics, 50, 842–851, https://doi.org/10.1364/AO.50.000842, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Stickney, T. M., Shedlov, M. W., and Thompson, D. I.: Goodrich Total Temperature Sensors, Technical Report 5755, Revision C, Rosemount Aerospace Inc., available at: http://www.faam.ac.uk/index.php/component/docman/doc_download/47-rosemount-report-5755 (last access 21 September 2014), 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1007/978-3-540-30299-5</doi>
+              <unstructured_citation>Tropez, C., Yarin, A. L., and Foss, J. F. (Eds.): Springer Handbook of Experimental Fluid Mechanics, Springer, Berlin Heidelberg, https://doi.org/10.1007/978-3-540-30299-5, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/2008JTECHA1127.1</doi>
+              <unstructured_citation>Wang, Y. and Geerts, B.: Estimating the evaporative cooling bias of an airborne reverse flow thermometer, J. Atmos. Ocean. Tech., 26, 3–21, https://doi.org/10.1175/2008JTECHA1127.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1364/AO.23.002482</doi>
+              <unstructured_citation>Werner, C., Köpp, F., and Schwiesow, R. L.: Influence of clouds and fog on LDA wind measurements, Appl. Optics, 23, 2482–2484, https://doi.org/10.1364/AO.23.002482, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1098/rsta.2010.0313</doi>
+              <unstructured_citation>Wofsy, S. C., Daube, B. C., Jimenez, R., and the HIPPO Science Team and Cooperating Modellers and Satellite Teams}: {HIAPER Pole-to-Pole Observations (HIPPO): fine-grained, global-scale measurements of climatically important atmospheric gases and aerosols, Philos. T. Roy. Soc. A, 369, 2073–2086, https://doi.org/10.1098/rsta.2010.0313, 2011.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

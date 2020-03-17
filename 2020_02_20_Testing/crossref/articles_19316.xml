@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-14 22:08:42">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>20</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Towards simplification of hydrologic modeling: identification of dominant processes</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Steven L.</given_name>
+              <surname>Markstrom</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lauren E.</given_name>
+              <surname>Hay</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martyn P.</given_name>
+              <surname>Clark</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p class="p"><strong>Abstract.</strong> parameter hydrologic model, has been applied to the conterminous US (CONUS). Parameter sensitivity analysis was used to identify: (1) the sensitive input parameters and (2) particular model output variables that could be associated with the dominant hydrologic process(es). Sensitivity values of 35 PRMS calibration parameters were computed using the Fourier amplitude sensitivity test procedure on 110<span class="thinspace"></span>000 independent hydrologically based spatial modeling units covering the CONUS and then summarized to process (snowmelt, surface runoff, infiltration, soil moisture, evapotranspiration, interflow, baseflow, and runoff) and model performance statistic (mean, coefficient of variation, and autoregressive lag 1). Identified parameters and processes provide insight into model performance at the location of each unit and allow the modeler to identify the most dominant process on the basis of which processes are associated with the most sensitive parameters. <br><br> The results of this study indicate that: (1) the choice of performance statistic and output variables has a strong influence on parameter sensitivity, (2) the apparent model complexity to the modeler can be reduced by focusing on those processes that are associated with sensitive parameters and disregarding those that are not, (3) different processes require different numbers of parameters for simulation, and (4) some sensitive parameters influence only one hydrologic process, while others may influence many.]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>22</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>4655</first_page>
+            <last_page>4671</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-20-4655-2016</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/20/4655/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/20/4655/2016/hess-20-4655-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1016/j.advwatres.2012.01.008</doi>
+              <unstructured_citation>Ali, G., Tetzlaff, D., Soulsby, C., McDonnell, J. and Capell, R.: A comparison of similarity indices for catchment classification using a cross-regional dataset, Adv. Water Resour., 40, 11–22, https://doi.org/10.1016/j.advwatres.2012.01.008, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/TR045i002p00307</doi>
+              <unstructured_citation>Amorocho, J. and Hart, W. E.: A critique of current methods in hydrologic systems investigation, Trans. Am. Geophys. Un., 45, 307–321, 1964.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1002/rra.2710</doi>
+              <unstructured_citation>Archfield, S. A., Kennen, J. G., Carlisle, D. M., and Wolock, D. M.: An objective and parsimonious approach for classifying nature flow regimes at a continental scale, River Res. Appl., 30, 1166–1183, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/2011EI373.1</doi>
+              <unstructured_citation>Battaglin, W. A., Hay, L. E., and Markstrom, S. L.: Simulating the potential effects of climate change in two Colorado Basins and at two Colorado ski areas, Earth Interact., 15, 1–23, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1016/0022-1694(89)90101-7</doi>
+              <unstructured_citation>Beven, K., Changing ideas in hydrology &amp;amp;ndash; The case of physically-based models, J. Hydrol., 105, 157–172, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1016/j.jhydrol.2005.07.007</doi>
+              <unstructured_citation>Beven, K: A manifesto for the equifinality thesis, J. Hydrol., 320, 18–36, https://doi.org/10.1016/j.jhydrol.2005.07.007, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/hess-20-2861-2016</doi>
+              <unstructured_citation>Bock, A. R., Hay, L. E., McCabe, G. J., Markstrom, S. L., and Atkinson, R. D.: Parameter regionalization of a monthly water balance model for the conterminous United States, Hydrol. Earth Syst. Sci., 20, 2861–2876, https://doi.org/10.5194/hess-20-2861-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Bower, D. E.: Evaluation of the Precipitation-Runoff Modeling System, Beaver Creek, Kentucky, US Geological Survey Scientific Investigations Report 84-4316, US Geological Survey, 1–39, 1985.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Boyle, D. P., Lamorey, G. W., and Huggins, A. W.: Application of a hydrologic model to assess the effects of cloud seeding in the Walker River basin, Nevada, J. Weather Modificat., 38, 66–67, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2000WR900350</doi>
+              <unstructured_citation>Brun, R., Reichert, P., and Kunsch, H. R.: Practical identifiability analysis of large environmental simulation models, Water Resour. Res., 37, 1015–1030, https://doi.org/10.1029/2000wr900350, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Cary, L. E.: Techniques for estimating selected parameters of the U.S. Geological Survey's Precipitation-Runoff Modeling System in eastern Montana and northeastern Wyoming, US Geological Survey Water-Resources Investigations Report 91-4068, US Geological Survey, Reston, Virgina, 1–39, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/hess-19-3239-2015</doi>
+              <unstructured_citation>Chaney, N. W., Herman, J. D., Reed, P. M., and Wood, E. F.: Flood and drought hydrologic monitoring: the role of model parameter uncertainty, Hydrol. Earth Syst. Sci., 19, 3239–3251, https://doi.org/10.5194/hess-19-3239-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2005GL025604</doi>
+              <unstructured_citation>Clark, M. P. and Vrugt, J. A.: Unraveling uncertainties in hydrologic model calibration: Addressing the problem of compensatory parameters, Geophys. Res. Lett., 33, L06406, https://doi.org/10.1029/2005gl025604, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1063/1.1680571</doi>
+              <unstructured_citation>Cukier, R. I., Fortuin, C. M., and Shuler, K. E.: Study of the sensitivity of coupled reaction systems to uncertainties in rate coefficients I, J. Chem. Phys., 59, 3873–3878, 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1063/1.431440</doi>
+              <unstructured_citation>Cukier, R. I., Schaibly, J. H., and Shuler, K. E.: Study of the sensitivity of coupled reaction systems to uncertainties in rate coefficients III, J. Chem. Phys., 63, 1140–1149, 1975.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/2015WR016907</doi>
+              <unstructured_citation>Cuntz, M., Mai, J., Zink, M., Thober, S., Kumar, R., Schafer, D., Schron, M., Craven, J., Rakovec, O., Spieler, D., Prykhodko, V., Dalmasso, G., Musuuza, J., Langenberg, B., Attinger, S., and Samaniego, L.: Computationally inexpensive identification of noninformative model parameters by sequential screening, Water Resour. Res., 51, 6417–6441, https://doi.org/10.1002/2015WR016907, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1016/j.jhydrol.2005.07.031</doi>
+              <unstructured_citation>Duan, Q., Schaake, J., Andréassian, V., Franks, S., Goteti, G., Gupta, H. V., Gusev, Y. M., Habets, F., Hall, A., Hay, L., Hogue, T., Huang, M., Leavesley, G., Liang, X., Nasonova, O. N., Noilhan, J., Oudin, L., Sorooshian, S., Wagener, T., and Wood, E. F.: Model Parameter Estimation Experiment (MOPEX): An overview of science strategy and major results from the second and third workshops, J. Hydrol., 320, 3–17, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Dudley, R. W.: Simulation of the quantity, variability, and timing of streamflow in the Dennys River Basin, Maine, by use of a precipitation-runoff watershed model, US Geological Survey Scientific Investigations Report 2008-5100, US Geological Survey, Reston, Virgina, 1–44, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/j.jhydrol.2011.07.038</doi>
+              <unstructured_citation>Ewan, J.: Hydrograph matching method for measuring model performance, J. Hydrol., 408, 178–187, https://doi.org/10.1016/j.jhydrol.2011.07.038, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1016/0022-1694(69)90020-1</doi>
+              <unstructured_citation>Freeze, R. A. and Harlan, R. L.: Blueprint for a physically-based, digitally-simulated hydrologic response model, J. Hydrol., 9, 237–258, 1969.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/92WR01259</doi>
+              <unstructured_citation>Grayson, R. B., Moore, I. D., and McMahon, T. A.: Physically based hydrologic modeling, 2, Is the concept realistic?, Water Resour. Res., 28, 2659–2666, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/hyp.6989</doi>
+              <unstructured_citation>Gupta, H. V., Wagener, T., and Liu, Y. Q.: Reconciling theory with observations: elements of a diagnostic approach to model evaluation, Hydrol. Process., 22, 3802–3813, https://doi.org/10.1002/hyp.6989, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/j.jhydrol.2009.08.003</doi>
+              <unstructured_citation>Gupta, H. V., Kling, H., Yilmaz, K. K., and Martinez, G. F.: Decomposition of the mean squared error and NSE performance criteria: Implications for improving hydrological modelling, J. Hydrol., 377, 80–91, https://doi.org/10.1016/j.jhydrol.2009.08.003. 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2011WR011044</doi>
+              <unstructured_citation>Gupta, H. V., Clark, M. P., Vrugt, J. A., Abramowitz, G., and Ye, M.: Towards a comprehensive assessment of model structural adequacy, Water Resour. Res., 48, W08301, https://doi.org/10.1029/2011wr011044, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1002/hyp.9777</doi>
+              <unstructured_citation>Guse, B., Reusser, D. E., and Fohrer, N.: How to improve the representation of hydrological processes in SWAT for a lowland catchment – Temporal analysis of parameter sensitivity and model performance, Hydrol. Process., 28, 2651–2670, https://doi.org/10.1002/hyp.9777, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1111/j.1752-1688.2006.tb04501.x</doi>
+              <unstructured_citation>Hay, L. E., Leavesley, G. H., Clark, M. P., Markstrom, S. L., Viger, R. J., and Umemoto, M.: Step-wise, multiple-objective calibration of a hydrologic model for a snowmelt-dominated basin, J. Am. Water Resour., 42, 891–900, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/2010EI370.1</doi>
+              <unstructured_citation>Hay, L. E., Markstrom, S. L., and Ward-Garrison, C. D.: Watershed-scale response to climate change through the 21st century for selected basins across the United States, Earth Interact., 15, 1–37, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Hay, L. E. and Umemoto, M.: Multiple-objective stepwise calibration using Luca, US Geological Survey Open-File Report 2006-1323, US Geological Survey, Reston, Virgina, 1–25, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1016/j.jhydrol.2011.09.042</doi>
+              <unstructured_citation>He, Y., Bardossy, A., and Zehe, E.: A catchment classification scheme using local variance reduction method, J. Hydrol., 411, 140–154, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1002/2014WR015484</doi>
+              <unstructured_citation>Hrachowitz, M., Fovet, O., Ruiz, O., Euser, T., Gharari, S., Nijzink, R., Freer, J., Savenije, H. H. G., and Gascuel-Odoux, C.: Process consistency in models: The importance of system signatures, expert knowledge, and process complexity, Water Resour. Res., 50, 7445–7469, https://doi.org/10.1002/2014WR015484, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/93WR00877</doi>
+              <unstructured_citation>Jakeman, A. and Hornberger, G.: How much complexity is warranted in a rainfall-runoff model?, Water Resour. Res., 29, 2637–2649, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1016/0048-9697(95)04971-1</doi>
+              <unstructured_citation>Kirchner, J. W., Hooper, R. P., Kendall, C., Neal, C., and Leavesley, G. H.: Testing and validating environmental models, Sci. Total Environ., 183, 33–47, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/2011EI378.1</doi>
+              <unstructured_citation>Koczot, K. M., Markstrom, S. L., and Hay, L. E.: Effects of baseline conditions on the simulated hydrologic response to projected climate change, Earth Interact., 15, 1–23, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/adgeo-5-89-2005</doi>
+              <unstructured_citation>Krause, P., Boyle, D. P., and Bäse, F.: Comparison of different efficiency criteria for hydrological model assessment, Adv. Geosci., 5, 89–97, https://doi.org/10.5194/adgeo-5-89-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>LaFontaine, J. H., Hay, L. E., Viger, R. J., Markstrom, S. L., Regan, R. S., Elliott, C. M., and Jones, J. W.: Application of the Precipitation-Runoff Modeling System (PRMS) in the Apalachicola–Chattahoochee–Flint River Basin in the southeastern United States, US Geological Survey Scientific Investigations Report 2013-5162, US Geological Survey, Reston, Virgina, 1–118, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Markstrom, S. L., Hay, L. E., Ward-Garrison, C. D., Risley, J. C., Battaglin, W. A., Bjerklie, D. M., Chase, K. J., Christiansen, D. E. Dudley, R. W., Hunt, R. J., Koczot, K. M., Mastin, M. C., Regan, R. S., Viger, R. J., Vining, K. C., and Walker, J. F.: Integrated watershed scale response to climate change for selected basins across the United States, US Geological Survey Scientific Investigations Report 2011-5077, US Geological Survey, Reston, Virginia, 1–143, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Markstrom, S. L., Regan, R. S., Hay, L. E., Viger, R. J., Webb, R. M. T., Payn, R. A., and LaFontaine, J. H.: PRMS-IV, the precipitation-runoff modeling system, version 4, book 6, chap. B7, US Geological Survey Techniques and Methods, US Geological Survey, Reston, Virgina, 1–158, https://doi.org/10.3133/tm6B7, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1016/0304-3800(93)90105-2</doi>
+              <unstructured_citation>Mayer, D. G. and Butler, D. G.: Statistical validation, Ecol. Model., 68, 21–32, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2006WR005467</doi>
+              <unstructured_citation>McDonnell, J., Sivapalan, M., Vaché, K., Dunn, S., Grant, G., Haggerty, R., Hinz, C., Hooper, R., Kirchner, J., and Roderick, M.: Moving beyond heterogeneity and process complexity: a new vision for watershed hydrology, Water Resour. Res., 43, 6 pp., https://doi.org/10.1029/2006wr005467, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1002/2014WR015820</doi>
+              <unstructured_citation>Mendoza, P. A., Clark, M. P., Barlage, M., Rajagopalan, B., Samaniego, L., Abramowitz, G. and Gupta H., Are we unnecessarily constraining the agility of complex process-based models?, Water Resour. Res., 51, 716–728, https://doi.org/10.1002/2014WR015820, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/JHM-D-14-0104.1</doi>
+              <unstructured_citation>Mendoza, P. A., Clark, M. P., Mizukami, N., Newman, A. J., Barlage, M. E., Gutmann, D. Rasmussen, R. M., Rajagopalan, B., Brekke, L. D., and Arnold, J. R.: Effects of hydrologic model choice and calibration on the portrayal of climate change impacts, J. Hydrometeorol., 16, 762–780, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1016/j.jhydrol.2003.09.028</doi>
+              <unstructured_citation>Merz, R. and Blöschl, G.: Regionalisation of catchment model parameters, J. Hydrol., 287, 95–123, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/hess-19-209-2015</doi>
+              <unstructured_citation>Newman, A. J., Clark, M. P., Sampson, K., Wood, A., Hay, L. E., Bock, A., Viger, R. J., Blodgett, D., Brekke, L., Arnold, J. R., Hopson, T., and Duan, Q.: Development of a large-sample watershed-scale hydrometeorological data set for the contiguous USA: data set characteristics and assessment of regional variability in hydrologic model performance, Hydrol. Earth Syst. Sci., 19, 209–223, https://doi.org/10.5194/hess-19-209-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/S0022-1694(00)00393-0</doi>
+              <unstructured_citation>Perrin, C., Michel, C., and Andreassian, V.: Does a large number of parameters enhance model performance? Comparative assessment of common catchment model structures on 429 catchments, J. Hydrol., 242, 275–301, https://doi.org/10.1016/s0022-1694(00)00393-0, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/hess-19-4365-2015</doi>
+              <unstructured_citation>Pfannerstill, M., Guse, B., Reusser, D., and Fohrer, N.: Process verification of a hydrological model using a temporal parameter sensitivity analysis, Hydrol. Earth Syst. Sci., 19, 4365–4376, https://doi.org/10.5194/hess-19-4365-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>R Core Team: R: A language and environment for statistical computing, R Foundation for Statistical Computing, Vienna, Austria, http://www.R-project.org/ (last access: August 2015), 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Reusser, D. E.: Implementation of the Fourier amplitude sensitivity test (FAST), R package version 0.63, http://CRAN.R-project.org/package=fast (last access: August 2015), 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/2010WR009946</doi>
+              <unstructured_citation>Reusser, D. E. and Zehe, E.: Inferring model structural deficits by analyzing temporal dynamics of model performance and parameter sensitivity, Water Resour. Res., 47, W07550, https://doi.org/10.1029/2010WR009946, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2010WR009947</doi>
+              <unstructured_citation>Reusser, D. E., Buytaert, W., and Zehe, E.: Temporal dynamics of model parameter sensitivity for computationally expensive models with the Fourier amplitude sensitivity test, Water Resour. Res., 47, W07551, https://doi.org/10.1029/2010WR009947, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1016/j.ress.2005.11.014</doi>
+              <unstructured_citation>Saltelli, A., Ratto, M., and Tarantola, S.: Sensitivity analysis practices: strategies for model-based inference, Reliab. Eng. Syst. Saf., 10, 1109–1125, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2008WR007327</doi>
+              <unstructured_citation>Samaniego, L., Kumar, R., and Attinger, S.: Multiscale parameter regionalization of a grid-based hydrologic model at the mesoscale, Water Resour. Res., 46, W05523, https://doi.org/10.1029/2008WR007327, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1002/hyp.9896</doi>
+              <unstructured_citation>Sanadhya, P., Giron, J., and Arabi, M.: Global sensitivity analysis of hydrologic processes in major snow-dominated mountainous river basins in Colorado, Hydrol. Process., 28, 3404–3418, https://doi.org/10.1002/hyp.9896, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1002/hyp.6825</doi>
+              <unstructured_citation>Schaefli, B. and Gupta, H. V.: Do Nash values have value?, Hydrol. Process., 21, 2075–2080, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1063/1.1680572</doi>
+              <unstructured_citation>Schaibly, J. H. and Shuler, K. E.: Study of the sensitivity of coupled reaction systems to uncertainties in rate coefficients II, applications, J. Chem. Phys., 59, 3879–3888, 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1016/S0168-1923(99)00105-7</doi>
+              <unstructured_citation>Seibert, J.: Regionalization of parameters for a conceptual rainfall-runoff model, Agr. Forest Meteorol., 98, 279–293, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1002/hyp.5606</doi>
+              <unstructured_citation>Sivakumar, B.: Dominant processes concept in hydrology: moving forward, Hydrol. Process., 18, 2349–2353, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/hess-16-4119-2012</doi>
+              <unstructured_citation>Sivakumar, B. and Singh, V. P.: Hydrologic system complexity and nonlinear dynamic concepts for a catchment classification framework, Hydrol. Earth Syst. Sci., 16, 4119–4131, https://doi.org/10.5194/hess-16-4119-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1002/hyp.6362</doi>
+              <unstructured_citation>Sivakumar, B., Jayawardena, A. W., and Li, W. K.: Hydrologic complexity and classification: a simple data reconstruction approach, Hydrol. Process., 21, 2713–2728, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Thornton, P. E., Thornton, M. M., Mayer, B. W., Wilhelmi, N., Wei, Y., Devarakonda, R., and Cook, R. B.: Daymet: daily surface weather data on a 1-km grid for North America, version 2, data set, available at: http://daac.ornl.gov from Oak Ridge National Laboratory Distributed Active Archive Center, Oak Ridge, Tennessee, USA, https://doi.org/10.3334/ORNLDAAC/1219, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Viger, R. J.: Preliminary spatial parameters for PRMS based on the geospatial fabric, NLCD2001 and SSURGO, US Geological Survey, Reston, Virgina, https://doi.org/10.5066/F7WM1BF7, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Viger, R. J. and Bock, A.: GIS features of the geospatial fabric for national hydrologic modeling, US Geological Survey, Reston, Virgina, https://doi.org/10.5066/F7542KMD, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1201/9781420037432.ch3</doi>
+              <unstructured_citation>Vogel, R. M.: Regional Calibration of Watershed Models, in: chap. 3 in Watershed Models, edited by: Singh, V. P. and Frevert, D. F., CRC Press, Boca Raton, Florida, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1002/hyp.1135</doi>
+              <unstructured_citation>Wagener, T., McIntyre, N., Lees, M. J., Wheater, H. S., and Gupta, H. V.: Towards reduced uncertainty in conceptual rainfall–runoff modelling: dynamic identifiability analysis, Hydrol. Process., 17, 455–476, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1111/j.1752-1688.2001.tb00973.x</doi>
+              <unstructured_citation>Winter, T. C.: The concept of hydrologic landscapes, J. Am. Water Resour. Assoc., 37, 335–349, https://doi.org/10.1111/j.1752-1688.2001.tb00973.x, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1007/s00267-003-5077-9</doi>
+              <unstructured_citation>Wolock, D. M., Winter, T. C., and McMahon, G.: Delineation and evaluation of hydrologic-landscape regions in the United States using geographic information system tools and multivariate statistical analyses, Environ. Manage., 34, S71–S88, https://doi.org/10.1007/s00267-003-5077-9, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1002/hyp.539</doi>
+              <unstructured_citation>Woods, R.: Seeing catchments with new eyes, Hydrol. Process., 16, 1111–1113, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1029/2007WR006716</doi>
+              <unstructured_citation>Yilmaz, K. K., Gupta, H. V., and Wagener, T.: A process-based diagnostic approach to model evaluation: Application to the NWS distributed hydrologic model, Water Resour. Res., 44, W09417, https://doi.org/10.1029/2007WR006716, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

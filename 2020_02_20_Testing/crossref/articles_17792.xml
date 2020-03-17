@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>8</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>NCAR_Topo (v1.0): NCAR global model topography generation software for unstructured grids</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>P. H.</given_name>
+              <surname>Lauritzen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J. T.</given_name>
+              <surname>Bacmeister</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>P. F.</given_name>
+              <surname>Callaghan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M. A.</given_name>
+              <surname>Taylor</surname>
+              <ORCID>https://orcid.org/0000-0002-9267-2554</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> It is the purpose of this paper to document the NCAR global model topography generation software for unstructured grids (NCAR_Topo (v1.0)). Given a model grid, the software computes the fraction of the grid box covered by land, the grid-box mean elevation (deviation from a geoid that defines nominal sea level surface), and associated sub-grid-scale variances commonly used for gravity wave and turbulent mountain stress parameterizations. The software supports regular latitude–longitude grids as well as unstructured grids, e.g., icosahedral, Voronoi, cubed-sphere and variable-resolution grids.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>14</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>3975</first_page>
+            <last_page>3986</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-8-3975-2015</doi>
+            <resource>https://www.geosci-model-dev.net/8/3975/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/8/3975/2015/gmd-8-3975-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/1520-0493(1997)125&lt;2293:ROTBSC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Adcroft, A., Hill, C., and Marshall, J.: Representation of Topography by Shaved Cells in a Height Coordinate Ocean, Mon. Weather Rev., 125, 2293–2315, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/1520-0469(1993)050&lt;0377:MWDITS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bacmeister, J.: Mountain-wave drag in the stratosphere and mesosphere inferred from observed winds and a simple mountain-wave parameterization scheme, J. Atmos. Sci., 50, 377–399, https://doi.org/10.1175/1520-0469(1993)0502.0.CO;2, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Baines, P. and Palmer, T.: Rationale for a new physically based parametrization of subgrid-scale orographic effects, ECMWF Tech. Memo., 1699, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/93GL01214</doi>
+              <unstructured_citation>Balmino, G.: The Spectra of the topography of the Earth, Venus and Mars, Geophys. Res. Lett., 20, 1063–1066, https://doi.org/10.1029/93GL01214, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1256/qj.03.73</doi>
+              <unstructured_citation>Beljaars, A., Brown, A., and Wood, N.: A new parametrization of turbulent orographic form drag, Q. J. Roy. Meteorol. Soc., 130, 1327–1347, https://doi.org/10.1256/qj.03.73, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/qj.2349</doi>
+              <unstructured_citation>Bénard, P.: An assessment of global forecast errors due to the spherical geopotential approximation in the shallow-water case, Q. J. Roy. Meteorol. Soc., 141, 195–206, https://doi.org/10.1002/qj.2349, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Bossert, J. E.: Regional-scale flow in complex terrain: An observational and numerical investigation, PhD thesis, Colorado State Univ., Fort Collins, USA, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/1520-0477(1990)071&lt;0806:MBOTPT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bougeault, P., Clar, A. J., Benech, B., Carissimo, B., Pelon, J., and Richard, E.: Momentum Budget over the Pyrénées: T}he {PYREX Experiment, B. Am. Meteorol. Soc., 71, 806–818, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Danielson, J. and Gesch, D.: Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010), Open-file report 2011-1073, US Geological Survey, available at: http://pubs.usgs.gov/of/2011/1073/pdf/of2011-1073.pdf, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1177/1094342005056108</doi>
+              <unstructured_citation>Dennis, Fournier, A., Spotz, W. F., St-Cyr, A., Taylor, M. A., Thomas, S. J., and Tufo, H.: High-Resolution Mesh Convergence Properties and Parallel Efficiency of a Spectral Element Atmospheric Dynamical Core, Int. J. High Perform. Comput. Appl., 19, 225–235, https://doi.org/10.1177/1094342005056108, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1016/B0-12-227090-8/00202-5</doi>
+              <unstructured_citation>Durran, D.: Lee waves and mountain waves, in: Encyclopedia of Atmospheric Sciences, edited by: Holton, J. R., Academic Press, London, UK, 1161–1169, https://doi.org/10.1016/B0-12-227090-8/00202-5, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Durran, D.: Numerical Methods for Fluid Dynamics: With Applications to Geophysics, vol. 32 of Texts in Applied Mathematics, 2 edn., Springer, New York, USA, 516 pp., 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.3137/ao.410105</doi>
+              <unstructured_citation>Eckermann, Y. K. S. and Chun, H.-Y.: An overview of the past, present and future of gravity-wave drag parametrization for numerical climate and weather prediction models: survey article, Atmos. Ocean, 41, 65–98, https://doi.org/10.3137/ao.410105, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>ECMWF: Proceedings of a workshop on orography, ECMWF, Reading, UK, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2005RG000183</doi>
+              <unstructured_citation>Farr, T. G., Rosen, P. A., Caro, E., Crippen, R., Duren, R., Hensley, S., Kobrick, M., Paller, M., Rodriguez, E., Roth, L., Seal, D., Shaffer, S., Shimada, J., Umland, J., Werner, M., Oskin, M., Burbank, D., and Alsdorf, D.: The Shuttle Radar Topography Mission, Rev. Geophys., 45, 1–33, https://doi.org/10.1029/2005RG000183, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/npg-13-541-2006</doi>
+              <unstructured_citation>Gagnon, J.-S., Lovejoy, S., and Schertzer, D.: Multifractal earth topography, Nonlin. Processes Geophys., 13, 541-570, https://doi.org/10.5194/npg-13-541-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/1520-0469(2004)061&lt;2478:DOTEOA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Gates, W.: Derivation of the Equations of Atmospheric Motion in Oblate Spheroidal Coordinates, J. Atmos. Sci., 61, 2478–2487, https://doi.org/10.1175/1520-0469(2004)0612.0.CO;2, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Gesch, D. B. and Larson, K. S.: Techniques for development of global 1-kilometer digital elevation models, in: Pecora Thirteenth Symposium, Am. Soc. Photogrammetry Remote Sens., Soiux Falls, South Dakota, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>GLOBE Task Team and others: The Global Land One-kilometer Base Elevation (GLOBE) Digital Elevation Model, Version 1.0, available at: http://www.ngdc.noaa.gov/mgg/topo/globe.html (last access: 18 June 2015), 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/1520-0493(1999)127&lt;2204:FASOCR&gt;2.0.CO;2</doi>
+              <unstructured_citation>Jones, P. W.: First- and Second-Order Conservative Remapping Schemes for Grids in Spherical Coordinates, Mon. Weather Rev., 127, 2204–2210, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1256/qj.04.160</doi>
+              <unstructured_citation>Kim, Y.-J. and Doyle, J. D.: Extension of an orographic-drag parametrization scheme to incorporate orographic anisotropy and flow blocking, Q. J. Roy. Meteorol. Soc., 131, 1893–1921, https://doi.org/10.1256/qj.04.160, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/gmdd-8-4979-2015</doi>
+              <unstructured_citation>Kritsikis, E., Aechtner, M., Meurdesoif, Y., and Dubos, T.: Conservative interpolation between general spherical meshes, Geosci. Model Dev. Discuss., 8, 4979–4996, https://doi.org/10.5194/gmdd-8-4979-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/1520-0493(1997)125&lt;0292:BSAPIA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lander, J. and Hoskins, B.: Believable scales and parameterizations in a spectral transform model, Mon. Weather Rev., 125, 292–303, https://doi.org/10.1175/1520-0493(1997)1252.0.CO;2, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/2007MWR2181.1</doi>
+              <unstructured_citation>Lauritzen, P. H. and Nair, R. D.: Monotone and conservative Cascade Remapping between Spherical grids (CaRS): Regular latitude-longitude and cubed-sphere grids, Mon. Weather Rev., 136, 1416–1432, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1016/j.jcp.2009.10.036</doi>
+              <unstructured_citation>Lauritzen, P. H., Nair, R. D., and Ullrich, P. A.: A conservative semi-Lagrangian multi-tracer transport scheme (CSLAM) on the cubed-sphere grid, J. Comput. Phys., 229, 1401–1424, https://doi.org/10.1016/j.jcp.2009.10.036, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1177/1094342011410088</doi>
+              <unstructured_citation>Lauritzen, P. H., Mirin, A., Truesdale, J., Raeder, K., Anderson, J., Bacmeister, J., and Neale, R. B.: Implementation of new diffusion/filtering operators in the CAM-FV dynamical core, Int. J. High Perform. Comput. Appl., 26, 63–73, https://doi.org/10.1177/1094342011410088, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;2293:AVLFDC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lin, S.-J.: A 'Vertically Lagrangian' Finite-Volume Dynamical Core for Global Models, Mon. Weather Rev., 132, 2293–2307, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/1520-0493(1999)127&lt;0788:AOSBIA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lott, F.: Alleviation of Stationary Biases in a GCM through a Mountain Drag Parameterization Scheme and a Simple Representation of Mountain Lift Forces, Mon. Weather Rev., 127, 788–801, https://doi.org/10.1175/1520-0493(1999)127, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/qj.49712353704</doi>
+              <unstructured_citation>Lott, F. and Miller, M. J.: A new subgrid-scale orographic drag parametrization: Its formulation and testing, Q. J. Roy. Meteorol. Soc., 123, 101–127, https://doi.org/10.1002/qj.49712353704, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/MWR-D-12-00351.1</doi>
+              <unstructured_citation>Monaghan, A. J., Barlage, M., Boehnert, J., Phillips, C. L., and Wilhelmi, O. V.: Overlapping interests: the impact of geographic coordinate assumptions on limited-area atmospheric model simulations, Mon. Weather Rev., 141, 2120–2127, https://doi.org/10.1175/MWR-D-12-00351.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Mesinger, F.: A blocking technique for representation of mountains in atmospheric models, Rivista di Meteorologia Aeronautica, 44, 195–202, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.2151/jmsj1965.60.1_326</doi>
+              <unstructured_citation>Mesinger, F. and Strickler, R. F.: Effect of Mountains on Genoa Cyclogeneses, J. Meteorol. Soc. Jpn., 60, 326–337, 1982.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/1520-0493(1988)116&lt;1493:TSMCMD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Mesinger, F., Janjić, Z., Ničković, S., Gavrilov, D., and Deaven, D. G.: The Step-Mountain Coordinate: Model Description and Performance for Cases of Alpine Lee Cyclogenesis and for a Case of an Appalachian Redevelopment, Mon. Weather Rev., 116, 1493–1518, https://doi.org/10.1175/1520-0493(1988)116, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/MWR2890.1</doi>
+              <unstructured_citation>Nair, R. D., Thomas, S. J., and Loft, R. D.: A Discontinuous Galerkin Transport Scheme on the Cubed Sphere, Mon. Weather Rev., 133, 814–828, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/1520-0442(1994)007&lt;1169:ROTGOI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Navarra, A., Stern, W. F., and Miyakoda, K.: Reduction of the Gibbs Oscillation in Spectral Model Simulations, J. Climate, 7, 1169–1183, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Neale, R. B., Chen, C.-C., Gettelman, A., Lauritzen, P. H., Park, S., Williamson, D. L., Conley, A. J., Garcia, R., Kinnison, D., Lamarque, J.-F., Marsh, D., Mills, M., Smith, A. K., Tilmes, S., Vitt, F., Cameron-Smith, P., Collins, W. D., Iacono, M. J., Easter, R. C., Ghan, S. J., Liu, X., Rasch, P. J., and Taylor, M. A.: Description of the NCAR Community A}tmosphere Model (CAM 5.0), NCAR {Technical Note, National Center of Atmospheric Research, Boulder, Colorado, USA, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1006/jcph.1996.0047</doi>
+              <unstructured_citation>Ronchi, C., Iacono, R., and Paolucci, P. S.: The &amp;quot;Cubed Sphere&amp;quot;: A New Method for the Solution of Partial Differential Equations in Spherical Geometry, J. Comput. Phys., 124, 93–114, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1256/qj.05.133</doi>
+              <unstructured_citation>Rutt, I., Thuburn, J., and Staniforth, A.: A variational method for orographic filtering in NWP and climate models, Q. J. Roy. Meteorol. Soc., 132, 1795–1813, https://doi.org/10.1256/qj.05.133, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1002/qj.49712656802</doi>
+              <unstructured_citation>Scinocca, J. and McFarlane, N.: The parametrization of drag induced by stratified flow over anisotropic orography, Q. J. Roy. Meteorol. Soc., 126, 2353–2393, https://doi.org/10.1002/qj.49712656802, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/MWR-D-11-00215.1</doi>
+              <unstructured_citation>Skamarock, W. C., Klemp, J. B., Duda, M. G., Fowler, L., Park, S.-H., and Ringler, T. D.: A Multi-scale Nonhydro- static Atmospheric Model Using Centroidal Voronoi Tesselations and C-Grid Staggering, Mon. Weather Rev., 240, 3090–3105, https://doi.org/10.1175/MWR-D-11-00215.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Smart, J., Shaw, B., and McCaslin, P.: WRF SI V2.0: Nesting and details of terrain processing, 13, available at: http://www.wrf-model.org/si/WRFSI-V2.0-Nesting-Ter-Proc.pdf (last access: 18 June 2015), 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1002/qj.2467</doi>
+              <unstructured_citation>Staniforth, A. and White, A.: Geophysically Realistic, Ellipsoidal, Analytically Tractable (GREAT) coordinates for atmospheric and oceanic modelling, Quart. J. Roy. Meteorol. Soc., 141, 1646–1657, https://doi.org/10.1002/qj.2467, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1007/s10915-004-4646-2</doi>
+              <unstructured_citation>Thomas, S. J. and Loft, R. D.: The NCAR Spectral Element Climate Dynamical Core: Semi-Implicit Eulerian Formulation, J. Sci. Comput., 25, 307–322, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Uhrner, U.: The impact of new sub-grid scale orography fields on the ECMWF model, ECMWF Tech. Memo., 329, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/2008MWR2817.1</doi>
+              <unstructured_citation>Ullrich, P. A., Lauritzen, P. H., and Jablonowski, C.: Geometrically Exact Conservative Remapping (GECoRe): Regular latitude-longitude and cubed-sphere grids, Mon. Weather Rev., 137, 1721–1741, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Walko, R. and Tremback, C. J.: RAMS, Regional Atmospheric Modeling System, Version 4.3/4.4, Model Input Namelist Parameters, Boulder, Colorado, USA, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/2008MWR2523.1</doi>
+              <unstructured_citation>Walko, R. L. and Avissar, R.: The Ocean-Land-Atmosphere Model (OLAM). Part II: Formulation and Tests of the Nonhydrostatic Dynamic Core, Mon. Weather Rev., 136, 4045–4062, https://doi.org/10.1175/2008MWR2523.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1002/qj.49710946202</doi>
+              <unstructured_citation>Wallace, J. M., Tibaldi, S., and Simmons, A. J.: Reduction of systematic forecast errors in the ECMWF model through the introduction of an envelope orography, Q. J. Roy. Meteorol. Soc., 109, 683–717, https://doi.org/10.1002/qj.49710946202, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1256/qj.02.133</doi>
+              <unstructured_citation>Webster, S., Brown, A. R., Cameron, D. R., and Jones, P. C.: Improvements to the representation of orography in the Met Office Unified Model, Q. J. Roy. Meteorol. Soc., 129, 1989–2010, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1002/qj.208</doi>
+              <unstructured_citation>White, A. A., Staniforth, A., and Wood, N.: Spheroidal coordinate systems for modelling global atmospheres, Q. J. Roy. Meteorol. Soc., 134, 261–270, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.3137/ao.410204</doi>
+              <unstructured_citation>Zadra, A., Roch, M., Laroche, S., and Charron, M.: The subgrid-scale orographic blocking parametrization of the GEM Model, Atmos. Ocean, 41, 155–170, https://doi.org/10.3137/ao.410204, 2003.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

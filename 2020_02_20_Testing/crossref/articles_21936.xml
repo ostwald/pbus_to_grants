@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-30 06:34:21">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>8</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The Variable Infiltration Capacity model version 5 (VIC-5): infrastructure improvements for new applications and reproducibility</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Joseph J.</given_name>
+              <surname>Hamman</surname>
+              <ORCID>https://orcid.org/0000-0001-7479-8439</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bart</given_name>
+              <surname>Nijssen</surname>
+              <ORCID>https://orcid.org/0000-0002-4062-0322</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Theodore J.</given_name>
+              <surname>Bohn</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Diana R.</given_name>
+              <surname>Gergel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yixin</given_name>
+              <surname>Mao</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Variable Infiltration Capacity (VIC) model is a macroscale semi-distributed hydrologic model. VIC development began in the early 1990s and the model has since been used extensively for basin- to global-scale applications that include hydrologic dataset construction, trend analysis of hydrologic fluxes and states, data evaluation and assimilation, forecasting, coupled climate modeling, and climate change impact assessment. Ongoing operational applications of the VIC model include the University of Washington's drought monitoring and forecasting systems and NASA's Land Data Assimilation System. This paper documents the development of VIC version 5 (VIC-5), which includes a major reconfiguration of the legacy VIC source code to support a wider range of modern hydrologic modeling applications. The VIC source code has been moved to a public GitHub repository to encourage participation by the broader user and developer communities. The reconfiguration has separated the core physics of the model from the driver source code, whereby the latter is responsible for memory allocation, preprocessing and post-processing, and input–output (I–O). VIC-5 includes four drivers that use the same core physics modules, but which allow for different methods for accessing this core to enable different model applications. Finally, VIC-5 is distributed with robust test infrastructure, components of which routinely run during development using cloud-hosted continuous integration. The work described here provides an example to the model development community for extending the life of a legacy model that is being used extensively. The development and release of VIC-5 represents a significant step forward for the VIC user community in terms of support for existing and new model applications, reproducibility, and scientific robustness.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>30</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>3481</first_page>
+            <last_page>3496</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Model code and software</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5281/zenodo.267178</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-11-3481-2018</doi>
+            <resource>https://www.geosci-model-dev.net/11/3481/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/11/3481/2018/gmd-11-3481-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Abdulla, F. A. and Lettenmaier, D. P.: Application of regional parameter estimation schemes to simulate the water balance of a large continental river, J. Hydrol., 197, 258–285, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Adam, J. C. and Lettenmaier, D. P.: Application of new precipitation and reconstructed streamflow products to streamflow trend attribution in northern Eurasia, J. Climate, 21, 1807–1828, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Adam, J. C., Stephens, J. C., Chung, S. H., Brady, M. P., Evans, R. D., Kruger, C. E., Lamb, B. K., Liu, M., Stöckle, C. O., Vaughan, J. K., Rajagopalan, K., Harrison, J. A., Tague, C. L., Kalyanaraman, A., Chen, Y., Guenther, A., Leung, F.-Y., Leung, L. R., Perleberg, A. B., Yoder, J., Allen, E., Anderson, S., Chandrasekharan, B., Malek, K., Mullis, T., Miller, C., Nergui, T., Poinsatte, J., Reyes, J., Zhu, J., Choate, J. S., Jiang, X., Nelson, R., Yoon, J.-H., Yorgey, G. G., Johnson, K., Chinnayakanahalli, K. J., Hamlet, A. F., Nijssen, B., and Walden, V.: BioEarth: Envisioning and developing a new regional earth system model to inform natural and agricultural resource management, Climatic Change, 129, 555–571, https://doi.org/10.1007/s10584-014-1115-2, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Andreadis, K. M. and Lettenmaier, D. P.: Assimilating remotely sensed snow observations into a macroscale hydrology model, Adv. Water Resour., 29, 872–886, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Andreadis, K. M., Storck, P., and Lettenmaier, D. P.: Modeling snow accumulation and ablation processes in forested environments, Water Resour. Res., 45, W05429, https://doi.org/10.1029/2008WR007042, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Anel, J. A.: Comment on &amp;quot;Most computational hydrology is not reproducible, so is it really science?&amp;quot; by Christopher Hutton et al., Water Resour. Res., 53, 2572–2574, https://doi.org/10.1002/2016WR020190, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Baldocchi, D., Valentini, R., Running, S., Oechel, W., and Dahlman, R.: Strategies for measuring and modelling carbon dioxide and water vapour fluxes over terrestrial ecosystems, Glob. Change Biol., 2, 159–168, https://doi.org/10.1111/j.1365-2486.1996.tb00069.x, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Baldocchi, D., Falge, E., Gu, L., Olson, R., Hollinger, D., Running, S., Anthoni, P., Bernhofer, C., Davis, K., Evans, R., Fuentes, J., Goldstein, A., Katul, G., Law, B., Lee, X., Malhi, Y., Meyers, T., Munger, W., Oechel, W., Paw, K. T., Pilegaard, K., Schmid, H. P., Valentini, R., Verma, S., Vesala, T., Wilson, K., and Wofsy, S.: FLUXNET: A New Tool to Study the Temporal and Spatial Variability of Ecosystem-Scale Carbon Dioxide, Water Vapor, and Energy Flux Densities, B. Am. Meteorol. Soc., 82, 2415–2434, https://doi.org/10.1175/1520-0477(2001)082&amp;amp;lt;2415:FANTTS&amp;amp;gt;2.3.CO;2, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Barnett, T. P., Adam, J. C., and Lettenmaier, D. P.: Potential impacts of a warming climate on water availability in snow-dominated regions, Nature, 438, 303–309, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Beyene, T., Lettenmaier, D. P., and Kabat, P.: Hydrologic impacts of climate change on the Nile River Basin: implications of the 2007 IPCC scenarios, Climatic Change, 100, 433–461, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Bohn, T. J. and Vivoni, E. R.: Process-based characterization of evapotranspiration sources over the North American monsoon region, Water Resour. Res., 52, 358–384, https://doi.org/10.1002/2015WR017934, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Bohn, T. J., Livneh, B., Oyler, J. W., Running, S. W., Nijssen, B., and Lettenmaier, D. P.: Global evaluation of MTCLIM and related algorithms for forcing of ecological and hydrological models, Agr. Forest Meteorol., 176, 38–49, https://doi.org/10.1016/j.agrformet.2013.03.003, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Bowling, L. C. and Lettenmaier, D. P.: Modeling the Effects of Lakes and Wetlands on the Water Balance of Arctic Environments, J. Hydrometeorol., 11, 276–295, https://doi.org/10.1175/2009JHM1084.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Bowling, L. C., Lettenmaier, D. P., Nijssen, B., Graham, L. P., Clark, D. B., El Maayar, M., Essery, R., Goers, S., Gusev, Y. M., Habets, F., van den Hurk, B., Jin, J., Kahan, D., Lohmann, D., Ma, X., Mahanama, S., Mocko, D., Nasonova, O., Niu, G.-Y., Samuelsson, P., Shmakin, A. B., Takata, K., Verseghy, D., Viterbo, P., Xia, Y., Xue, Y., and Yang, Z.-L.: Simulation of high-latitude hydrological processes in the Torne–Kalix basin: PILPS Phase 2(e): 1: Experiment description and summary intercomparisons, Global Planet. Change, 38, 1–30, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Bowling, L. C., Pomeroy, J. W., and Lettenmaier, D. P.: Parameterization of Blowing-Snow Sublimation in a Macroscale Hydrology Model, J. Hydrometeorol., 5, 745–762, https://doi.org/10.1175/1525-7541(2004)005&amp;amp;lt;0745:POBSIA&amp;amp;gt;2.0.CO;2, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Ceola, S., Arheimer, B., Baratti, E., Blöschl, G., Capell, R., Castellarin, A., Freer, J., Han, D., Hrachowitz, M., Hundecha, Y., Hutton, C., Lindström, G., Montanari, A., Nijzink, R., Parajka, J., Toth, E., Viglione, A., and Wagener, T.: Virtual laboratories: new opportunities for collaborative water science, Hydrol. Earth Syst. Sci., 19, 2101–2117, https://doi.org/10.5194/hess-19-2101-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Cherkauer, K. A. and Lettenmaier, D. P.: Hydrologic effects of frozen soils in the upper Mississippi River basin, J. Geophys. Res., 104, 19599–19610, https://doi.org/10.1029/1999JD900337, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Cherkauer, K. A., Bowling, L. C., and Lettenmaier, D. P.: Variable infiltration capacity cold land process model updates, Global Planet. Change, 38, 151–159, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Christensen, N. S. and Lettenmaier, D. P.: A multimodel ensemble approach to assessment of climate change impacts on the hydrology and water resources of the Colorado River Basin, Hydrol. Earth Syst. Sci., 11, 1417–1434, https://doi.org/10.5194/hess-11-1417-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Craig, A. P., Vertenstein, M., and Jacob, R.: A new flexible coupler for earth system modeling developed for CCSM4 and CESM1, Int. J. High Perform. C., 26, 31–42, https://doi.org/10.1177/1094342011428141, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Dagum, L. and Menon, R.: OpenMP: an industry standard API for shared-memory programming, IEEE Comput. Sci. Eng., 5, 46–55, https://doi.org/10.1109/99.660313, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Das, T., Pierce, D. W., Cayan, D. R., Vano, J. A., and Lettenmaier, D. P.: The importance of warm season warming to western US streamflow changes, Geophys. Res. Lett., 38, L23403, https://doi.org/10.1029/2011GL049660, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Eaton, B., Gregory, J., Drach, R., Taylor, K., and Hankin, S.: NetCDF Climate and Forecast (CF) Metadata Conventions, available at: http://cfconventions.org/Data/cf-conventions/cf-conventions-1.4/build/cf-conventions.html (last access: 20 August 2018), 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Fienen, M. N. and Bakker, M.: HESS Opinions: Repeatable research: what hydrologists can learn from the Duke cancer research scandal, Hydrol. Earth Syst. Sci., 20, 3739–3743, https://doi.org/10.5194/hess-20-3739-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Gao, Y., Vano, J. A., Zhu, C., and Lettenmaier, D. P.: Evaluating climate change over the Colorado River basin using regional climate models, J. Geophys. Res., 116, D13104, https://doi.org/10.1029/2010JD015278, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Gebregiorgis, A. and Hossain, F.: How much can a priori hydrologic model predictability help in optimal merging of satellite precipitation products?, J. Hydrometeorol., 12, 1287–1298, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Gergel, D. R., Nijssen, B., Abatzoglou, J. T., Lettenmaier, D. P., and Stumbaugh, M. R.: Effects of climate change on snowpack and fire potential in the western USA, Climatic Change, 141, 287–299, https://doi.org/10.1007/s10584-017-1899-y, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Gil, Y., David, C. H., Demir, I., Essawy, B. T., Fulweiler, R. W., Goodall, J. L., Karlstrom, L., Lee, H., Mills, H. J., Oh, J. H., Pierce, S. A., Pope, A., Tzeng, M. W., Villamizar, S. R., and Yu, X.: Toward the Geoscience Paper of the Future: Best practices for documenting and sharing research from data to software to provenance, Earth and Space Science, 3, 388–415, https://doi.org/10.1002/2015ea000136, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Gropp, W., Lusk, E., Doss, N., and Skjellum, A.: A high-performance, portable implementation of the MPI message passing interface standard, Parallel Computing, 22, 789 – 828, https://doi.org/10.1016/0167-8191(96)00024-5, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Haddeland, I., Lettenmaier, D. P., and Skaugen, T.: Effects of irrigation on the water and energy balances of the Colorado and Mekong river basins, J. Hydrol., 324, 210–223, https://doi.org/10.1016/j.jhydrol.2005.09.028, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Hamlet, A. F. and Lettenmaier, D. P.: Effects of climate change on hydrology and water resources in the Columbia River Basin, JAWRA J. Am. Water Resour. As., 35, 1597–1623, https://doi.org/10.1111/j.1752-1688.1999.tb04240.x, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Hamlet, A. F. and Lettenmaier, D. P.: Effects of 20th century warming and climate variability on flood risk in the western US, Water Resour. Res., 43, W06427, https://doi.org/10.1029/2006WR005099, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Hamlet, A. F., Mote, P. W., Clark, M. P., and Lettenmaier, D. P.: Effects of temperature and precipitation variability on snowpack trends in the Western United States*, J. Climate, 18, 4545–4561, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Hamlet, A. F., Mote, P. W., Clark, M. P., and Lettenmaier, D. P.: Twentieth-century trends in runoff, evapotranspiration, and soil moisture in the Western United States*, J. Climate, 20, 1468–1486, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Hamman, J., Nijssen, B., Brunke, M., Cassano, J., DuVivier, A., He, J., Lettenmaier, D., Maslowski, W., Roberts, A., and Zeng, X.: The Land Surface Climate in the Regional Arctic System Model, J. Climate, 29, 6543–6562, https://doi.org/10.1175/JCLI-D-15-0415.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Hamman, J., Nijssen, B., Roberts, A., Craig, A., Maslowski, W., and Osinski, R.: The Coastal Streamflow Flux in the Regional Arctic System Model, J. Geophys. Res.-Oceans, 122, 1683–1701, https://doi.org/10.1002/2016JC012323, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Hamman, J. J., Nijssen, B., Mao, Y., and Gergel, D.: jhamman/VIC5_paper (Version final), Zenodo, https://doi.org/10.5281/zenodo.1400709, last access: 20 August 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Hurrell, J. W., Holland, M. M., Gent, P. R., Ghan, S., Kay, J. E., Kushner, P., Lamarque, J.-F., Large, W. G., Lawrence, D., Lindsay, K., Lipscomb, W. H., Long, M. C., Mahowald, N., Marsh, D. R., Neale, R. B., Rasch, P., Vavrus, S., Vertenstein, M., Bader, D., Collins, W. D., Hack, J. J., Kiehl, J., and Marshall, S.: The Community Earth System Model a framework for collaborative research, B. Am. Meteorol. Soc., 94, 1339–1360, https://doi.org/10.1175/BAMS-D-12-00121.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Hut, R. W., van de Giesen, N. C., and Drost, N.: Comment on Most computational hydrology is not reproducible, so is it really science?&amp;quot; by Christopher Hutton et al.: Let hydrologists learn the latest computer science by working with Research Software Engineers (RSEs) and not reinvent the waterwheel ourselves, Water Resour. Res., 53, 4524–4526, https://doi.org/10.1002/2017wr020665, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Hutton, C., Wagener, T., Freer, J., Han, D., Duffy, C., and Arheimer, B.: Most computational hydrology is not reproducible, so is it really science?, Water Resour. Res., 52, 7548–7555, https://doi.org/10.1002/2016wr019285, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Hutton, C., Wagener, T., Freer, J., Han, D. W., Duffy, C., and Arheimer, B.: Reply to comment by Melsen et al. on &amp;quot;Most computational hydrology is not reproducible, so is it really science?&amp;quot;, Water Resour. Res., 53, 2570–2571, https://doi.org/10.1002/2017wr020476, 2017a.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Hutton, C., Wagener, T., Freer, J., Han, D. W., Duffy, C., and Arheimer, B.: Reply to comment by Anel on &amp;quot;Most computational hydrology is not reproducible, so is it really science?&amp;quot;, Water Resour. Res., 53, 2575–2576, https://doi.org/10.1002/2017wr020480, 2017b.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Ince, D. C., Hatton, L., and Graham-Cumming, J.: The case for open computer programs, Nature, 482, 485–488, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Kumar, S., Peters-Lidard, C., Tian, Y., Houser, P., Geiger, J., Olden, S., Lighty, L., Eastman, J., Doty, B., Dirmeyer, P., Adams, J., Mitchell, K., Wood, E., and Sheffield, J.: Land information system: An interoperable framework for high resolution land surface modeling, Environ. Modell. Softw., 21, 1402–1415, https://doi.org/10.1016/j.envsoft.2005.07.004, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Larson, J., Jacob, R., and Ong, E.: The Model Coupling Toolkit: A New Fortran90 Toolkit for Building Multiphysics Parallel Coupled Models, Int. J. High Perform. C., 19, 277–292, https://doi.org/10.1177/1094342005056115, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Li, H., Luo, L., Wood, E. F., and Schaake, J.: The role of initial conditions and forcing uncertainties in seasonal hydrologic forecasting, J. Geophys. Res., 114, D04114, https://doi.org/10.1029/2008JD010969, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Liang, X., Lettenmaier, D. P., Wood, E. F., and Burges, S. J.: A simple hydrologically based model of land surface water and energy fluxes for general circulation models, J. Geophys. Res., 99, 14415–14428, https://doi.org/10.1029/94JD00483, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Liang, X., Lettenmaier, D. P., and Wood, E. F.: One-dimensional statistical dynamic representation of subgrid spatial variability of precipitation in the two-layer variable infiltration capacity model, J. Geophys. Res., 101, 21403–21422, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Liang, X., Wood, E. F., and Lettenmaier, D. P.: Modeling ground heat flux in land surface parameterization schemes, J. Geophys. Res., 104, 9581–9600, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Livneh, B., Bohn, T. J., Pierce, D. W., Munoz-Arriola, F., Nijssen, B., Vose, R., Cayan, D. R., and Brekke, L.: A spatially comprehensive, hydrometeorological data set for Mexico, the US, and Southern Canada 1950–2013, Scientific data, 2, 150042, https://doi.org/10.1038/sdata.2015.42, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Lohmann, D., Nolte-Holube, R., and Raschke, E.: A large-scale horizontal routing model to be coupled to land surface parametrization schemes, Tellus A, 48, 708–721, https://doi.org/10.1034/j.1600-0870.1996.t01-3-00009.x, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Luo, Y. Q., Randerson, J. T., Abramowitz, G., Bacour, C., Blyth, E., Carvalhais, N., Ciais, P., Dalmonech, D., Fisher, J. B., Fisher, R., Friedlingstein, P., Hibbard, K., Hoffman, F., Huntzinger, D., Jones, C. D., Koven, C., Lawrence, D., Li, D. J., Mahecha, M., Niu, S. L., Norby, R., Piao, S. L., Qi, X., Peylin, P., Prentice, I. C., Riley, W., Reichstein, M., Schwalm, C., Wang, Y. P., Xia, J. Y., Zaehle, S., and Zhou, X. H.: A framework for benchmarking land models, Biogeosciences, 9, 3857–3874, https://doi.org/10.5194/bg-9-3857-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Matheussen, B., Kirschbaum, R. L., Goodman, I. A., O'Donnell, G. M., and Lettenmaier, D. P.: Effects of land cover change on streamflow in the interior Columbia River Basin (USA and Canada), Hydrol. Process., 14, 867–885, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Maurer, E. P. and Lettenmaier, D. P.: Predictability of seasonal runoff in the Mississippi River basin, J. Geophys. Res., 108, 8607, https://doi.org/10.1029/2002JD002555, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Maurer, E. P., O'Donnell, G. M., Lettenmaier, D. P., and Roads, J. O.: Evaluation of the land surface water budget in NCEP/NCAR and NCEP/DOE reanalyses using an off-line hydrologic model, J. Geophys. Res., 106, 17841–17862, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Maurer, E. P., Wood, A., Adam, J., Lettenmaier, D., and Nijssen, B.: A long-term hydrologically based dataset of land surface fluxes and states for the conterminous United States*, J. Climate, 15, 3237–3251, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Melsen, L. A., Torfs, P. J. J. F., Uijlenhoet, R., and Teuling, A. J.: Comment on &amp;quot;Most computational hydrology is not reproducible, so is it really science?&amp;quot; by Christopher Hutton et al., Water Resour. Res., 53, 2568–2569, https://doi.org/10.1002/2016wr020208, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Mendoza, P. A., Clark, M. P., Barlage, M., Rajagopalan, B., Samaniego, L., Abramowitz, G., and Gupta, H.: Are we unnecessarily constraining the agility of complex process-based models?, Water Resour. Res., 51, 716–728, https://doi.org/10.1002/2014WR015820, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Mote, P. W., Hamlet, A. F., Clark, M. P., and Lettenmaier, D. P.: Declining Mountain Snowpack in western North America, B. Am. Meteorol. Soc., 86, 39–49, https://doi.org/10.1175/BAMS-86-1-39, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Nijssen, B. and Lettenmaier, D. P.: Effect of precipitation sampling error on simulated hydrological fluxes and states: Anticipating the Global Precipitation Measurement satellites, J. Geophys. Res., 109, D02103, https://doi.org/10.1029/2003JD003497, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Nijssen, B., Lettenmaier, D. P., Liang, X., Wetzel, S. W., and Wood, E. F.: Streamflow simulation for continental-scale river basins, Water Resour. Res., 33, 711–724, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Nijssen, B., O'Donnell, G. M., Hamlet, A. F., and Lettenmaier, D. P.: Hydrologic sensitivity of global rivers to climate change, Climatic Change, 50, 143–175, 2001a.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Nijssen, B., O'Donnell, G. M., Lettenmaier, D. P., Lohmann, D., and Wood, E. F.: Predicting the discharge of global rivers, J. Climate, 14, 3307–3323, 2001b.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Nijssen, B., Schnur, R., and Lettenmaier, D. P.: Global retrospective estimation of soil moisture using the variable infiltration capacity land surface model, 1980–93, J. Climate, 14, 1790–1808, 2001c.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Nijssen, B., Shukla, S., Lin, C., Gao, H., Zhou, T., Sheffield, J., Wood, E. F., and Lettenmaier, D. P.: A prototype global drought information system based on multiple land surface models, J. Hydrometeorol., 15, 1661–1676, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Pan, M. and Wood, E. F.: Data assimilation for estimating the terrestrial water budget using a constrained ensemble Kalman filter, J. Hydrometeorol., 7, 534–547, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Pan, M., Li, H., and Wood, E.: Assessing the skill of satellite-based precipitation estimates in hydrologic applications, Water Resour. Res., 46, W09535, https://doi.org/10.1029/2009WR008290, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Preston-Werner, T.: Semantic Versioning 2.0.0, available at: https://semver.org/ (last access: 20 August 2018), 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Rew, R. and Davis, G.: NetCDF: an interface for scientific data access, IEEE Comput. Graph., 10, 76–82, https://doi.org/10.1109/38.56302, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Schewe, J., Heinke, J., Gerten, D., Haddeland, I., Arnell, N. W., Clark, D. B., Dankers, R., Eisner, S., Fekete, B. M., Colón-González, F. J., Gosling, S. N., Kim, H., Liu, X., Masaki, Y., Portmann, F. T., Satoh, Y., Stacke, T., Tang, Q., Wada, Y., Wisser, D., Albrecht, T., Frieler, K., Piontek, F., Warszawski, L., and Kabat, P.: Multimodel assessment of water scarcity under climate change, P. Natl. Acad. Sci. USA, 111, 3245–3250, https://doi.org/10.1073/pnas.1222460110, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Sheffield, J. and Wood, E. F.: Characteristics of global and regional drought, 1950–2000: Analysis of soil moisture data from off-line simulation of the terrestrial hydrologic cycle, J. Geophys. Res., 112, D17115, https://doi.org/10.1029/2006JD008288, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <unstructured_citation>Sheffield, J. and Wood, E. F.: Global trends and variability in soil moisture and drought characteristics, 19502000, from observation-driven simulations of the terrestrial hydrologic cycle, J. Climate, 21, 432–458, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Sheffield, J., Goteti, G., and Wood, E. F.: Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling, J. Climate, 19, 3088–3111, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Sheffield, J., Andreadis, K., Wood, E., and Lettenmaier, D.: Global and continental drought in the second half of the twentieth century: severity-area-duration analysis and temporal variability of large-scale events, J. Climate, 22, 1962–1981, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Sheffield, J., Wood, E. F., Chaney, N., Guan, K., Sadri, S., Yuan, X., Olang, L., Amani, A., Ali, A., Demuth, S., and Ogallo, L.: A Drought Monitoring and Forecasting System for Sub-Sahara African Water Resources and Food Security, B. Am. Meteorol. Soc., 95, 861–882, https://doi.org/10.1175/BAMS-D-12-00124.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <unstructured_citation>Shi, X., Groisman, P. Y., Déry, S. J., and Lettenmaier, D. P.: The role of surface energy fluxes in pan-Arctic snow cover changes, Environ. Res. Lett., 6, 035204, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Shukla, S., Steinemann, A. C., and Lettenmaier, D. P.: Drought monitoring for Washington State: Indicators and applications, J. Hydrometeorol., 12, 66–83, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Skamarock, W. C.: A description of theadvanced research WRF version 3, NCAR Tech. Note, 1–96, https://doi.org/10.5065/D68S4MVH, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Su, F., Adam, J. C., Bowling, L. C., and Lettenmaier, D. P.: Streamflow simulations of the terrestrial Arctic domain, J. Geophys. Res., 110, D08112, https://doi.org/10.1029/2004JD005518, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Su, F., Hong, Y., and Lettenmaier, D. P.: Evaluation of TRMM Multisatellite Precipitation Analysis (TMPA) and its utility in hydrologic prediction in the La Plata Basin, J. Hydrometeorol., 9, 622–640, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Tan, A., Adam, J. C., and Lettenmaier, D. P.: Change in spring snowmelt timing in Eurasian Arctic rivers, J. Geophys. Res., 116, D03101, https://doi.org/10.1029/2010JD014337, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Thornton, P. E. and Running, S. W.: An improved algorithm for estimating incident daily solar radiation from measurements of temperature, humidity, and precipitation, Agr. Forest Meteorol., 93, 211–228, https://doi.org/10.1016/S0168-1923(98)00126-9, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Torvalds, L. and Hamano, J.: Git: Fast version control system, available at: http://git-scm.com (last access: 20 August 2018), 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Wang, A., Lettenmaier, D. P., and Sheffield, J.: Soil moisture drought in China, 1950–2006, J. Climate, 24, 3257–3271, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Wigmosta, M. S., Vail, L. W., and Lettenmaier, D. P.: A distributed hydrology-vegetation model for complex terrain, Water Resour. Res., 30, 1665–1679, https://doi.org/10.1029/94WR00436, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Wilson, G., Aruliah, D. A., Brown, C. T., Chue Hong, N. P., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., and Wilson, P.: Best Practices for Scientific Computing, PLoS Biol., 12, 1–7, https://doi.org/10.1371/journal.pbio.1001745, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Wood, A. W., Maurer, E. P., Kumar, A., and Lettenmaier, D. P.: Long-range experimental hydrologic forecasting for the eastern United States, J. Geophys. Res., 107, 4429, https://doi.org/10.1029/2001JD000659, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Wood, E. F., Lettenmaier, D. P., Liang, X., Lohmann, D., Boone, A., Chang, S., Chen, F., Dai, Y., Dickinson, R. E., Duan, Q., Ek, M., Gusev, Y. M., Habets, F., Irannejad, P., Koster, R., Mitchel, K. E., Nasonova, O. N., Noilhan, J., Schaake, J., Schlosser, A., Shao, Y., Shmakin, A. B., Verseghy, D., Warrach, K., Wetzel, P., Xue, Y., Yang, Z.-L., and Zeng, Q.-c.: The Project for Intercomparison of Land-surface Parameterization Schemes (PILPS) Phase 2(c) Red-Arkansas River basin experiment: 1. Experiment description and summary intercomparisons, Global Planet. Change, 19, 115–135, https://doi.org/10.1016/S0921-8181(98)00044-7, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Zhu, C., Leung, R. L., Gochis, D., Qian, Y., and Lettenmaier, D. P.: Evaluating the influence of antecedent soil moisture on variability of the North American Monsoon precipitation in the coupled MM5/VIC modeling system, J. Adv. Model. Earth Syst., 1, 22 pp., https://doi.org/10.3894/james.2009.1.13, 2009.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

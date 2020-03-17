@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-01-04 08:32:37">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Validation of the CrIS fast physical NH&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; retrieval with ground-based FTIR</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Enrico</given_name>
+              <surname>Dammers</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mark W.</given_name>
+              <surname>Shephard</surname>
+              <ORCID>https://orcid.org/0000-0002-2867-9612</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mathias</given_name>
+              <surname>Palm</surname>
+              <ORCID>https://orcid.org/0000-0001-7191-6911</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Karen</given_name>
+              <surname>Cady-Pereira</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Shannon</given_name>
+              <surname>Capps</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Erik</given_name>
+              <surname>Lutsch</surname>
+              <ORCID>https://orcid.org/0000-0001-5072-0979</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kim</given_name>
+              <surname>Strong</surname>
+              <ORCID>https://orcid.org/0000-0001-9947-1053</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James W.</given_name>
+              <surname>Hannigan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ivan</given_name>
+              <surname>Ortega</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Geoffrey C.</given_name>
+              <surname>Toon</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Wolfgang</given_name>
+              <surname>Stremme</surname>
+              <ORCID>https://orcid.org/0000-0003-0791-3833</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michel</given_name>
+              <surname>Grutter</surname>
+              <ORCID>https://orcid.org/0000-0001-9800-5878</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicholas</given_name>
+              <surname>Jones</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Smale</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jacob</given_name>
+              <surname>Siemons</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kevin</given_name>
+              <surname>Hrpcek</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Denis</given_name>
+              <surname>Tremblay</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martijn</given_name>
+              <surname>Schaap</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justus</given_name>
+              <surname>Notholt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jan Willem</given_name>
+              <surname>Erisman</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Presented here is the validation of the CrIS (Cross-track Infrared Sounder) fast physical NH<sub>3</sub> retrieval (CFPR) column and profile measurements using ground-based Fourier transform infrared (FTIR) observations. We use the total columns and profiles from seven FTIR sites in the Network for the Detection of Atmospheric Composition Change (NDACC) to validate the satellite data products. The overall FTIR and CrIS total columns have a positive correlation of <i>r</i><span class="thinspace"></span> = <span class="thinspace"></span>0.77 (<i>N</i><span class="thinspace"></span> = <span class="thinspace"></span>218) with very little bias (a slope of 1.02). Binning the comparisons by total column amounts, for concentrations larger than 1.0<span class="thinspace"></span> × <span class="thinspace"></span>10<sup>16</sup><span class="thinspace"></span>molecules<span class="thinspace"></span>cm<sup>−2</sup>, i.e. ranging from moderate to polluted conditions, the relative difference is on average ∼<span class="thinspace"></span>0&amp;ndash;5<span class="thinspace"></span>% with a standard deviation of 25&amp;ndash;50<span class="thinspace"></span>%, which is comparable to the estimated retrieval uncertainties in both CrIS and the FTIR. For the smallest total column range (&amp;lt;<span class="thinspace"></span>1.0<span class="thinspace"></span> × 10<sup>16</sup><span class="thinspace"></span>molecules<span class="thinspace"></span>cm<sup>−2</sup>) where there are a large number of observations at or near the CrIS noise level (detection limit) the absolute differences between CrIS and the FTIR total columns show a slight positive column bias. The CrIS and FTIR profile comparison differences are mostly within the range of the single-level retrieved profile values from estimated retrieval uncertainties, showing average differences in the range of  ∼<span class="thinspace"></span>20 to 40<span class="thinspace"></span>%. The CrIS retrievals typically show good vertical sensitivity down into the boundary layer which typically peaks at  ∼<span class="thinspace"></span>850<span class="thinspace"></span>hPa (∼<span class="thinspace"></span>1.5<span class="thinspace"></span>km). At this level the median absolute difference is 0.87<span class="thinspace"></span>(std<span class="thinspace"></span> = <span class="thinspace"></span>±0.08)<span class="thinspace"></span>ppb, corresponding to a median relative difference of 39<span class="thinspace"></span>%<span class="thinspace"></span>(std<span class="thinspace"></span> = <span class="thinspace"></span>±2<span class="thinspace"></span>%). Most of the absolute and relative profile comparison differences are in the range of the estimated retrieval uncertainties. At the surface, where CrIS typically has lower sensitivity, it tends to overestimate in low-concentration conditions and underestimate in higher atmospheric concentration conditions.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>25</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>2645</first_page>
+            <last_page>2667</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5194/acp-15-12789-2015</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.1002/2015GL065496</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-10-2645-2017</doi>
+            <resource>https://www.atmos-meas-tech.net/10/2645/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/10/2645/2017/amt-10-2645-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2000JD900512</doi>
+              <unstructured_citation>Adams, P. J., Seinfeld, J. H., Koch, D., Mickley, L., and Jacob, D.: General circulation model assessment of direct radiative forcing by the sulfate-nitrate-ammonium-water inorganic aerosol system, J. Geophys. Res.-Atmos., 106, 1097–1111, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/acp-13-6687-2013</doi>
+              <unstructured_citation>Alvarado, M. J., Payne, V. H., Mlawer, E. J., Uymin, G., Shephard, M. W., Cady-Pereira, K. E., Delamere, J. S., and Moncet, J.-L.: Performance of the Line-By-Line Radiative Transfer Model (LBLRTM) for temperature, water vapor, and trace gas retrievals: recent updates evaluated with IASI case studies, Atmos. Chem. Phys., 13, 6687–6711, https://doi.org/10.5194/acp-13-6687-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2008GL033642</doi>
+              <unstructured_citation>Beer, R., Shephard, M. W., Kulawik, S. S., Clough, S. A., Eldering, A., Bowman, K. W., Sander, S. P., Fisher, B. M., Payne, V. H., Luo, M., Osterman, G. B., and Worden, J. R.: First satellite observations of lower tropospheric ammonia and methanol, Geophys. Res. Lett., 35, 1–5, https://doi.org/10.1029/2008GL033642, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Bevington, P. R. and Robinson D. K.: Data Reduction and Error Analysis for the Physical Sciences, 2nd Edn., McGraw-Hill, New York, 104 pp. and 108–109, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1016/S0187-6236(14)71108-7</doi>
+              <unstructured_citation>Bezanilla, A., Krueger, A., Stremme, W. and Grutter, M.: Solar absorption infrared spectroscopic measurements over Mexico City: Methane enhancements, Atmósfera, 27, 173–183, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1890/08-1140.1</doi>
+              <unstructured_citation>Bobbink, R., Hicks, K., Galloway, J., Spranger, T., Alkemade, R., Ashmore, M., Bustamante, M., Cinderby, S., Davidson, E., Dentener, F., Emmett, B., Erisman, J. W., Fenn, M., Gilliam, F., Nordin, A., Pardo, L., and De Vries, W.: Global assessment of nitrogen deposition effects on terrestrial plant diversity: a synthesis, Ecol. Appl., 20, 30–59, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1364/AO.35.002828</doi>
+              <unstructured_citation>Brown, L. R., Gunson, M. R., Toth, R. A., Irion, F. W., Rinsland, C. P., and Goldman, A.: atmospheric trace molecule spectroscopy (ATMOS) linelist, Appl. Optics, 35, 2828–2848, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2005JD006122</doi>
+              <unstructured_citation>Calisesi, Y., Soebijanta, V. T., and van Oss, R.: Regridding of remote soundings: Formulation and application to ozone profile comparison, J. Geophys. Res., 110, D23306, https://doi.org/10.1029/2005JD006122, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1016/j.asr.2007.03.035</doi>
+              <unstructured_citation>Chang, L., Palo, S., Hagan, M., Richter, J., Garcia, R., Riggin, D., and Fritts, D.: Structure of the migrating diurnal tide in the Whole Atmosphere Community Climate Model (WACCM), Adv. Space Res., 41, 1398–1407, https://doi.org/10.1016/j.asr.2007.03.035, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1038/ngeo551</doi>
+              <unstructured_citation>Clarisse, L., Clerbaux, C., Dentener, F., Hurtmans, D., and Coheur, P.-F.: Global ammonia distribution derived from infrared satellite observations, Nat. Geosci., 2, 479–483, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2009JD013291</doi>
+              <unstructured_citation>Clarisse, L., Shephard, M. W., Dentener, F., Hurtmans, D., Cady-Pereira, K., Karagulian, F., Van Damme, M., Clerbaux, C., and Coheur, P.-F.: Satellite monitoring of ammonia: A case study of the San Joaquin Valley, J. Geophys. Res., 115, 1–15, https://doi.org/10.1029/2009JD013291, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1016/j.jqsrt.2004.05.058</doi>
+              <unstructured_citation>Clough, S. A., Shephard, M. W., Mlawer, E. J., Delamere, J. S., Iacono, M. J., Cady-Pereira, K., Boukabara, S., and Brown, P. D.: Atmospheric radiative transfer modeling: a summary of the AER codes, J. Quant. Spectrosc. Ra., 91, 233–244, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-9-5655-2009</doi>
+              <unstructured_citation>Coheur, P.-F., Clarisse, L., Turquety, S., Hurtmans, D., and Clerbaux, C.: IASI measurements of reactive trace species in biomass burning plumes, Atmos. Chem. Phys., 9, 5655–5667, https://doi.org/10.5194/acp-9-5655-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-15-12789-2015</doi>
+              <unstructured_citation>Dammers, E., Vigouroux, C., Palm, M., Mahieu, E., Warneke, T., Smale, D., Langerock, B., Franco, B., Van Damme, M., Schaap, M., Notholt, J., and Erisman, J. W.: Retrieval of ammonia from ground-based FTIR solar spectra, Atmos. Chem. Phys., 15, 12789–12803, https://doi.org/10.5194/acp-15-12789-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-16-10351-2016</doi>
+              <unstructured_citation>Dammers, E., Palm, M., Van Damme, M., Vigouroux, C., Smale, D., Conway, S., Toon, G. C., Jones, N., Nussbaumer, E., Warneke, T., Petri, C., Clarisse, L., Clerbaux, C., Hermans, C., Lutsch, E., Strong, K., Hannigan, J. W., Nakajima, H., Morino, I., Herrera, B., Stremme, W., Grutter, M., Schaap, M., Wichink Kruit, R. J., Notholt, J., Coheur, P.-F., and Erisman, J. W.: An evaluation of IASI-NH3 with ground-based Fourier transform infrared spectroscopy measurements, Atmos. Chem. Phys., 16, 10351–10368, https://doi.org/10.5194/acp-16-10351-2016, 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Dammers, E., Palm, M., Van Damme, M., Shephard, M., Cady-Pereira, K., Capps, S., Clarisse, L., Coheur, P., and Erisman, J. W.: Validation of NH3 satellite observations by ground-based FTIR measurements, EGU General Assembly Conference Abstracts, 18, 1657, 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2005GB002672</doi>
+              <unstructured_citation>Dentener, F., Drevet, J., Lamarque, J. F., Bey, I., Eickhout, B., Fiore, A. M., Hauglustaine, D., Horowitz, L. W., Krol, M., Kulshrestha, U. C., Lawrence, M., Galy-Lacaux, C., Rast, S., Shindell, D., Stevenson, D., Van Noije, T., Atherton, C., Bell, N., Bergman, D., Butler, T., Cofala, J., Collins, B., Doherty, R., Ellingsen, K., Galloway, J., Gauss, M., Montanaro, V., Müller, J. F., Pitari, G., Rodriguez, J., Sanderson, M., Solmon, F., Strahan, S., Schultz, M., Sudo, K., Szopa, S., and Wild, O.: Nitrogen and sulfur deposition on regional and global scales: A multimodel evaluation, Global Biogeochem. Cy., 20, GB4003, https://doi.org/10.1029/2005GB002672, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1016/j.envpol.2007.06.033</doi>
+              <unstructured_citation>Erisman, J. W., Bleeker, A., Galloway, J., and Sutton, M. S.: Reduced nitrogen in ecology and the environment, Environ. Pollut., 150, 140–149, https://doi.org/10.1016/j.envpol.2007.06.033, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1038/ngeo325</doi>
+              <unstructured_citation>Erisman, J. W., Sutton, M. A., Galloway, J., Klimont, Z., and Winiwarter, W.: How a century of ammonia synthesis changed the world, Nat. Geosci., 1, 636–639, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1016/j.cosust.2011.08.012</doi>
+              <unstructured_citation>Erisman, J. W., Galloway, J., Seitzinger, S., Bleeker, A., and Butterbach-Bahl, K.: Reactive nitrogen in the environment and its effect on climate change, Curr. Opin. Environ. Sustain., 3, 281–290, https://doi.org/10.1016/j.cosust.2011.08.012, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2005RG000183</doi>
+              <unstructured_citation>Farr, T. G., Rosen, P. A., Caro, E., and Crippen, R.: The Shuttle Radar Topography Mission, Rev. Geophys., 2005, 1–33, https://doi.org/10.1029/2005RG000183, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1098/rstb.2013.0164</doi>
+              <unstructured_citation>Fowler, D., Coyle, M., Skiba, U., Sutton, M. A., Cape, J. N., Reis, S., Sheppard, L. J., Jenkins, A., Grizzetti, B., Galloway, J. N., Vitousek, P., Leach, A., Bouwman, A. F., Butterbach-Bahl, K., Dentener, F., Stevenson, D., Amann, M., and Voss, M.: The global nitrogen cycle in the twenty-first century, Philos. T. Roy. Soc. Lond. B, 368, 1621, https://doi.org/10.1098/rstb.2013.0164, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/j.jqsrt.2003.12.008</doi>
+              <unstructured_citation>Hase, F., Hannigan, J. W., Coffey, M. T., Goldman, A., Höpfner, M., Jones, N. B., Rinsland, C. P., and Wood, S. W.: Intercomparison of retrieval codes used for the analysis of high-resolution, ground-based FTIR measurements, J. Quant. Spectrosc. Ra., 87, 25–52, https://doi.org/10.1016/j.jqsrt.2003.12.008, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/j.jqsrt.2006.02.026</doi>
+              <unstructured_citation>Hase, F., Demoulin, P., Sauval, A. J., Toon, G. C., Bernath, P. F., Goldman, A., Hannigan, J. W., and Rinsland, C. P.: An empirical line-by-line model for the infrared solar transmittance spectrum from 700 to 5000 cm−1, J. Quant. Spectrosc. Ra., 102, 450–463, https://doi.org/10.1016/j.jqsrt.2006.02.026, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-12-10295-2012</doi>
+              <unstructured_citation>Heald, C. L., Collett Jr., J. L., Lee, T., Benedict, K. B., Schwandner, F. M., Li, Y., Clarisse, L., Hurtmans, D. R., Van Damme, M., Clerbaux, C., Coheur, P.-F., Philip, S., Martin, R. V., and Pye, H. O. T.: Atmospheric ammonia and particulate inorganic nitrogen over the United States, Atmos. Chem. Phys., 12, 10295–10312, https://doi.org/10.5194/acp-12-10295-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1007/BF01007572</doi>
+              <unstructured_citation>Holland, E. A., Dentener, F. J., Braswell, B. H., and Sulzman, J. M.: Contemporary and pre-industrial global reactive nitrogen budgets, Biogeochemistry, 46, 7–43, https://doi.org/10.1007/BF01007572, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1021/es401134u</doi>
+              <unstructured_citation>Leen, J. B., Yu, X. Y., Gupta, M., Baer, D. S., Hubbe, J. M., Kluzek, C. D., Tomlinson, J. M., and Hubbell, M. R.: Fast in situ airborne measurement of ammonia using a mid-infrared off-axis ICOS spectrometer, Environ. Sci. Technol., 47, 10446–10453, https://doi.org/10.1021/es401134u, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/acp-17-2721-2017</doi>
+              <unstructured_citation>Lonsdale, C. R., Hegarty, J. D., Cady-Pereira, K. E., Alvarado, M. J., Henze, D. K., Turner, M. D., Capps, S. L., Nowak, J. B., Neuman, J. A., Middlebrook, A. M., Bahreini, R., Murphy, J. G., Markovic, M. Z., VandenBoer, T. C., Russell, L. M., and Scarino, A. J.: Modeling the diurnal variability of agricultural ammonia in Bakersfield, California, during the CalNex campaign, Atmos. Chem. Phys., 17, 2721–2739, https://doi.org/10.5194/acp-17-2721-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/2016GL070114</doi>
+              <unstructured_citation>Lutsch, E., Dammers, E., Conway, S., and Strong, K.: Long-range transport of NH3, CO, HCN, and C2H6 from the 2014 Canadian Wildfires, Geophys. Res. Lett., 43, 8286–8297, https://doi.org/10.1002/2016GL070114, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/amt-7-81-2014</doi>
+              <unstructured_citation>Miller, D. J., Sun, K., Tao, L., Khan, M. A., and Zondlo, M. A.: Open-path, quantum cascade-laser-based sensor for high-resolution atmospheric ammonia measurements, Atmos. Meas. Tech., 7, 81–93, https://doi.org/10.5194/amt-7-81-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Moncet, J.-L., Liu, X., Snell, H., Eluszkiewicz, J., He, Y., Kennelly, T., Lynch, R., Boukabara, S., Lipton, A., Rieu-Isaacs, H., Uymin, G., and Zaccheo, S.: Algorithm Theoretical Basis Document for the Cross-track Infrared Sounder Environmental Data Records, AER Document No. P1187-TR-I-08, Version 4.2, available at: http://www.star.nesdis.noaa.gov/jpss/documents/ATBD/D0001-M01-S01-007_JPSS_ATBD_CrIMSS_B.pdf (last access: 24 October 2015), 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/2008JAS2711.1</doi>
+              <unstructured_citation>Moncet, J.-L., Uymin, G., Lipton, A. E., and Snell, H. E.: Infrared radiance modeling by optimal spectral sampling, J. Atmos. Sci., 65, 3917–3934, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/2012JD017639</doi>
+              <unstructured_citation>Morgenstern, O., Zeng, G., Wood, S. W., Robinson, J., Smale, D., Paton-Walsh, C., Jones, N. B., and Griffith, D. W. T.: Long-range correlations in Fourier transform infrared, satellite, and modeled CO in the Southern Hemisphere, J. Geophys. Res., 117, D11301, https://doi.org/10.1029/2012JD017639, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Myhre, G., Shindell, D., Bréon, F.-M., Collins, W., Fuglestvedt, J., Huang, J., Koch, D., Lamarque, J.-F., Lee, D., Mendoza, B., Nakajima, T., Robock, A., Stephens, G., Takemura, T., and Zhang, H.: Anthropogenic and Natural Radiative Forcing, in: Climate Change 2013: The Physical Science Basis, Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge, UK and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2006JD007589</doi>
+              <unstructured_citation>Nowak, J. B., Neuman, J. A., Kozai, K., Huey, L. G., Tanner, D. J., Holloway, J. S., Ryerson, T. B., Frost, G. J., McKeen, S. A., and Fehsenfeld, F. C.: A chemical ionization mass spectrometry technique for airborne measurements of ammonia, J. Geophys. Res.-Atmos., 112, D10S02, https://doi.org/10.1029/2006JD007589, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2010JD014195</doi>
+              <unstructured_citation>Nowak, J. B., Neuman, J. A., Bahreini, R., Brock, C. A., Middlebrook, A. M., Wollny, A. G., Holloway, J. S., Peischl, J., Ryerson, T. B., and Fehsenfeld, F. C.: Airborne observations of ammonia and ammonium nitrate formation over Houston, Texas, J. Geophys. Res.-Atmos., 115, D22304, https://doi.org/10.1029/2010JD014195, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2012GL051197</doi>
+              <unstructured_citation>Nowak, J. B., Neuman, J. A., Bahreini, R., Middlebrook, A. M., Holloway, J. S., McKeen, S. A., Parrish, D. D., Ryerson, T. B., and Trainer, M.: Ammonia sources in the California South Coast Air Basin and their impact on ammonium nitrate formation, Geophys. Res. Lett., 39, L07804, https://doi.org/10.1029/2012GL051197, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1038/35078064</doi>
+              <unstructured_citation>Oren, R., Ellsworth, D. S., Johnsen, K. H., Phillips, N., Ewers, B. E., Maier, C., Schäfer, K. V., McCarthy, H., Hendrey, G., McNulty, S. G., and Katul, G. G.: Soil fertility limits carbon sequestration by forest ecosystems in a CO2-enriched atmosphere, Nature, 411, 469–472, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1001/jama.287.9.1132</doi>
+              <unstructured_citation>Pope III, C. A., Burnett, R. T., Thun, M. J., Calle, E. E., Krewski, D., Ito, K., and Thurston, G. D.: Lung cancer, cardiopulmonary mortality, and long-term exposure to fine particulate air pollution, JAMA, 287, 1132–1141, https://doi.org/10.1001/jama.287.9.1132, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1056/NEJMsa0805646</doi>
+              <unstructured_citation>Pope III, C. A., Ezzati, M., and Dockery, D. W.: Fine-Particulate Air Pollution and Life Expectancy in the United States, N. Engl. J. Med., 360, 376–386, https://doi.org/10.1056/NEJMsa0805646, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/95JD01296</doi>
+              <unstructured_citation>Pougatchev, N. S., Connor, B. J., and Rinsland, C. P.: Infrared measurements of the ozone vertical distribution above Kitt Peak, J. Geophys. Res.-Atmos., 100, 16689–16697, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1039/c1em10553a</doi>
+              <unstructured_citation>Puchalski, M. A., Sather, M. E., Walker, J. T., Lehmann, C. M., Gay, D. A., Mathew, J., and Robarge, W. P.: Passive ammonia monitoring in the United States: Comparing three different sampling devices, J. Environ. Monit., 13, 3156–3167, https://doi.org/10.1039/c1em10553a, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/acp-9-7657-2009</doi>
+              <unstructured_citation>Reis, S., Pinder, R. W., Zhang, M., Lijie, G., and Sutton, M. A.: Reactive nitrogen in atmospheric emission inventories, Atmos. Chem. Phys., 9, 7657–7677, https://doi.org/10.5194/acp-9-7657-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1038/461472a</doi>
+              <unstructured_citation>Rockström, J., Steffen, W., Noone, K., Persson, A., Chapin, F. S., Lambin, E. F., Lenton, T. M., Scheffer, M., Folke, C., Schellnhuber, H. J., Nykvist, B., de Wit, C. A., Hughes, T., van der Leeuw, S., Rodhe, H., Sorlin, S., Snyder, P. K., Costanza, R., Svedin, U., Falkenmark, M., Karlberg, L., Corell, R. W., Fabry, V. J., Hansen, J., Walker, B., Liverman, D., Richardson, K., Crutzen, P., and Foley, J. A.: A safe operating space for humanity, Nature, 461, 472–475, https://doi.org/10.1038/461472a, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1142/3171</doi>
+              <unstructured_citation>Rodgers, C. D.: Inverse methods for atmospheric Sounding: Theory and Practice, World Sci., Hackensack, NJ, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2002JD002299</doi>
+              <unstructured_citation>Rodgers, C. D. and Connor, B. J.: Intercomparison of remote sounding instruments, J. Geophys. Res.-Atmos., 108, 4116, https://doi.org/10.1029/2002JD002299, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1021/es020057g</doi>
+              <unstructured_citation>Rodhe, H., Dentener, F., and Schulz, M.: The global distribution of acidifying wet deposition, Environ. Sci. Technol., 36, 4382–4388, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1016/j.jqsrt.2013.07.002</doi>
+              <unstructured_citation>Rothman, L. S., Gordon, I. E., Babikov, Y., Barbe, A., Chris Benner, D., Bernath, P. F., Birk, M., Bizzocchi, L., Boudon, V., Brown, L. R., Campargue, A., Chance, K., Cohen, E. A., Coudert, L. H., Devi, V. M., Drouin, B. J., Fayt, A., Flaud, J. M., Gamache, R. R., Harrison, J. J., Hartmann, J. M., Hill, C., Hodges, J. T., Jacquemart, D., Jolly, A., Lamouroux, J., Le Roy, R. J., Li, G., Long, D. A., Lyulin, O. M., Mackie, C. J., Massie, S. T., Mikhailenko, S., Müller, H. S. P., Naumenko, O. V., Nikitin, A. V., Orphal, J., Perevalov, V., Perrin, A., Polovtseva, E. R., Richard, C., Smith, M. A. H., Starikova, E., Sung, K., Tashkun, S., Tennyson, J., Toon, G. C., Tyuterev, V. G., and Wagner, G.: The HITRAN2012 molecular spectroscopic database, J. Quant. Spectrosc. Ra., 130, 4–50, https://doi.org/10.1016/j.jqsrt.2013.07.002, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-4-857-2004</doi>
+              <unstructured_citation>Schaap, M., van Loon, M., ten Brink, H. M., Dentener, F. J., and Builtjes, P. J. H.: Secondary inorganic aerosol simulations for Europe with special attention to nitrate, Atmos. Chem. Phys., 4, 857–874, https://doi.org/10.5194/acp-4-857-2004, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1002/2013JD020765</doi>
+              <unstructured_citation>Schiferl, L. D., Heald, C. L., Nowak, J. B., Holloway, J. S., Neuman, J. A., Bahreini, R., Pollack, I. B., Ryerson, T. B., Wiedinmyer, C., and Murphy, J. G.: An investigation of ammonia and inorganic particulate matter in California during the CalNex campaign, J. Geophys. Res.-Atmos., 119, 1883–1902, https://doi.org/10.1002/2013JD020765, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/acp-16-12305-2016</doi>
+              <unstructured_citation>Schiferl, L. D., Heald, C. L., Van Damme, M., Clarisse, L., Clerbaux, C., Coheur, P.-F., Nowak, J. B., Neuman, J. A., Herndon, S. C., Roscioli, J. R., and Eilerman, S. J.: Interannual variability of ammonia concentrations over the United States: sources and implications, Atmos. Chem. Phys., 16, 12305–12328, https://doi.org/10.5194/acp-16-12305-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Seinfeld, J. H. and Pandis, S. N.: Atmospheric Chemistry and Physics, John Wiley, Hoboken, NJ, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/amt-8-1323-2015</doi>
+              <unstructured_citation>Shephard, M. W. and Cady-Pereira, K. E.: Cross-track Infrared Sounder (CrIS) satellite observations of tropospheric ammonia, Atmos. Meas. Tech., 8, 1323–1336, https://doi.org/10.5194/amt-8-1323-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/acp-9-7397-2009</doi>
+              <unstructured_citation>Shephard, M. W., Clough, S. A., Payne, V. H., Smith, W. L., Kireev, S., and Cady-Pereira, K. E.: Performance of the line-by-line radiative transfer model (LBLRTM) for temperature and species retrievals: IASI case studies from JAIVEx, Atmos. Chem. Phys., 9, 7397–7417, https://doi.org/10.5194/acp-9-7397-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-11-10743-2011</doi>
+              <unstructured_citation>Shephard, M. W., Cady-Pereira, K. E., Luo, M., Henze, D. K., Pinder, R. W., Walker, J. T., Rinsland, C. P., Bash, J. O., Zhu, L., Payne, V. H., and Clarisse, L.: TES ammonia retrieval strategy and global observations of the spatial and seasonal variability of ammonia, Atmos. Chem. Phys., 11, 10743–10763, https://doi.org/10.5194/acp-11-10743-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/amt-8-5189-2015</doi>
+              <unstructured_citation>Shephard, M. W., McLinden, C. A., Cady-Pereira, K. E., Luo, M., Moussa, S. G., Leithead, A., Liggio, J., Staebler, R. M., Akingunola, A., Makar, P., Lehr, P., Zhang, J., Henze, D. K., Millet, D. B., Bash, J. O., Zhu, L., Wells, K. C., Capps, S. L., Chaliyakunnel, S., Gordon, M., Hayden, K., Brook, J. R., Wolde, M., and Li, S.-M.: Tropospheric Emission Spectrometer (TES) satellite observations of ammonia, methanol, formic acid, and carbon monoxide over the Canadian oil sands: validation and model evaluation, Atmos. Meas. Tech., 8, 5189–5211, https://doi.org/10.5194/amt-8-5189-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1002/2014JD022846</doi>
+              <unstructured_citation>Sun, K., Cady-Pereira, K., Miller, D. J. , Tao, L., Zondlo, M. A., Nowak, J. B., Neuman, J. A., Mikoviny, T., Müller, M., Wisthaler, A., Scarino, A. J., and Hostetler, C. A.: Validation of TES ammonia observations at the single pixel scale in theSan Joaquin Valley during DISCOVER-AQ, J. Geophys. Res.-Atmos., 120, 5140–5154, https://doi.org/10.1002/2014JD022846, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1098/rstb.2013.0166</doi>
+              <unstructured_citation>Sutton, M. A., Reis, S., Riddick, S. N., Dragosits, U., Nemitz, E., Theobald, M. R., Tang, Y. S., Braban, C. F., Vieno, M., Dore, A. J., Mitchell, R. F., Wanless, S., Daunt, F., Fowler, D., Blackall, T. D., Milford, C., Flechard, C. R., Loubet, B., Massad, R., Cellier, P., Personne, E., Coheur, P. F., Clarisse, L., Van Damme, M., Ngadi, Y., Clerbaux, C., Skjøth, C. A., Geels, C., Hertel, O., Wichink Kruit, R. J., Pinder, R. W., Bash, J. O., Walker, J. T., Simpson, D., Horváth, L., Misselbrook, T. H., Bleeker, A., Dentener, F., and de Vries, W.: Towards a climate-dependent paradigm of ammonia emission and deposition, Philos. T. Roy. Soc. Lond. B, 368, 20130166, https://doi.org/10.1098/rstb.2013.0166, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Tobin, D.: Early Checkout of the Cross-track Infrared Sounder (CrIS) on Suomi-NPP, Through the Atmosphere, Summer 2012, available at: http://www.ssec.wisc.edu/news/media/2012/07/ttasummer20121.pdf (last access: 30 January 2017), 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/1999JD900379</doi>
+              <unstructured_citation>Toon, G. C., Blavier, J.-F., Sen, B., Margitan, J. J., Webster, C. R., Max, R. D., Fahey, D. W., Gao, R., DelNegro, L., Proffitt, M., Elkins, J., Romashkin, P. A., Hurst, D. F., Oltmans, S., Atlas, E., Schauffler, S., Flocke, F., Bui, T. P., Stimpfle, R. M., Bonne, G. P., Voss, P. B., and Cohen, R. C.: Comparison of MkIV balloon and ER-2 aircraft measurements of atmospheric trace gases, J. Geophys. Res., 104, 26779–26790, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.5194/acp-14-2905-2014</doi>
+              <unstructured_citation>Van Damme, M., Clarisse, L., Heald, C. L., Hurtmans, D., Ngadi, Y., Clerbaux, C., Dolman, A. J., Erisman, J. W., and Coheur, P. F.: Global distributions, time series and error characterization of atmospheric ammonia (NH3) from IASI satellite observations, Atmos. Chem. Phys., 14, 2905–2922, https://doi.org/10.5194/acp-14-2905-2014, 2014a.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1002/2014JD021911</doi>
+              <unstructured_citation>Van Damme, M., Wichink-Kruit, R. J., Schaap, M., Clarisse, L., Clerbaux, C., Coheur, P.-F., Dammers, E., Dolman, A. J., and Erisman, J. W.: Evaluating 4 years of atmospheric ammonia (NH3) over Europe using IASI satellite observations and LOTOS-EUROS model results, J. Geophys. Res.-Atmos., 119, 9549–9566, https://doi.org/10.1002/2014JD021911, 2014b.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1002/2015GL065496</doi>
+              <unstructured_citation>Van Damme, M., Erisman, J. W., Clarisse, L., Dammers, E., Whitburn, S., Clerbaux, C., Dolman, A. J., and Coheur, P.-F.: Worldwide spatiotemporal atmospheric ammonia (NH3) columns variability revealed by satellite, Geophys. Res. Lett., 42, 8660–8668, https://doi.org/10.1002/2015GL065496, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/amt-8-1575-2015</doi>
+              <unstructured_citation>Van Damme, M., Clarisse, L., Dammers, E., Liu, X., Nowak, J. B., Clerbaux, C., Flechard, C. R., Galy-Lacaux, C., Xu, W., Neuman, J. A., Tang, Y. S., Sutton, M. A., Erisman, J. W., and Coheur, P. F.: Towards validation of ammonia (NH3) measurements from the IASI satellite, Atmos. Meas. Tech., 8, 1575–1591, https://doi.org/10.5194/amt-8-1575-2015, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/acp-7-1305-2007</doi>
+              <unstructured_citation>Velazco, V., Wood, S. W., Sinnhuber, M., Kramer, I., Jones, N. B., Kasai, Y., Notholt, J., Warneke, T., Blumenstock, T., Hase, F., Murcray, F. J., and Schrems, O.: Annual variation of strato-mesospheric carbon monoxide measured by ground-based Fourier transform infrared spectrometry, Atmos. Chem. Phys., 7, 1305–1312, https://doi.org/10.5194/acp-7-1305-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.5194/amt-3-91-2010</doi>
+              <unstructured_citation>von Bobrutzki, K., Braban, C. F., Famulari, D., Jones, S. K., Blackall, T., Smith, T. E. L., Blom, M., Coe, H., Gallagher, M., Ghalaieny, M., McGillen, M. R., Percival, C. J., Whitehead, J. D., Ellis, R., Murphy, J., Mohacsi, A., Pogany, A., Junninen, H., Rantanen, S., Sutton, M. A., and Nemitz, E.: Field inter-comparison of eleven atmospheric ammonia measurement techniques, Atmos. Meas. Tech., 3, 91–112, https://doi.org/10.5194/amt-3-91-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.5194/acp-16-5467-2016</doi>
+              <unstructured_citation>Warner, J. X., Wei, Z., Strow, L. L., Dickerson, R. R., and Nowak, J. B.: The global tropospheric ammonia distribution as seen in the 13-year AIRS measurement record, Atmos. Chem. Phys., 16, 5467–5479, https://doi.org/10.5194/acp-16-5467-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1016/j.atmosenv.2015.03.015</doi>
+              <unstructured_citation>Whitburn, S., Van Damme, M., Kaiser, J. W., van der Werf, G. R., Turquety, S., Hurtmans, D., Clarisse, L., Clerbaux, C., and Coheur, P.-F.: Ammonia emissions in tropical biomass burning regions: Comparison between satellite-derived emissions and bottom-up fire inventories, Atmos. Environ., 121, 42–54, https://doi.org/10.1016/j.atmosenv.2015.03.015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1002/2016JD024828</doi>
+              <unstructured_citation>Whitburn, S., Van Damme, M., Clarisse, L., Bauduin, S., Heald, C. L., Hadji-Lazaro, J., Hurtmans, D., Zondlo, M. A., Clerbaux, C., and Coheur, P.-F.: A flexible and robust neural network IASI-NH3 retrieval algorithm, J. Geophys. Res.-Atmos., 121, 6581–6599, https://doi.org/10.1002/2016JD024828, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1175/JTECH1962.1</doi>
+              <unstructured_citation>Wiacek, A., Taylor, J. R., Strong, K., Saari, R., Kerzenmacher, T. E., Jones, N. B., and Griffith, D. W. T.: Ground-Based Solar Absorption FTIR Spectroscopy: Characterization of Retrievals and First Results from a Novel Optical Design Instrument at a New NDACC Complementary Station, J. Atmos. Ocean. Tech., 24, 432–448, https://doi.org/10.1175/JTECH1962.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1029/2004JD004522</doi>
+              <unstructured_citation>Worden, J., Kulawik, S. S., Shephard, M. W., Clough, S. A., Worden, H., Bowman, K., and Goldman, A.: Predicted errors of tropospheric emission spectrometer nadir retrievals from spectral window selection, J. Geophys. Res., 109, D09308, https://doi.org/10.1029/2004JD004522, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1002/jgrd.50166</doi>
+              <unstructured_citation>Zhu, L., Henze, D. K., Cady-Pereira, K. E., Shephard, M. W., Luo, M., Pinder, R. W., Bash, J. O., and Jeong, G. R.: Constraining U.S. ammonia emissions using TES remote sensing observations and the GEOS-Chem adjoint model, J. Geophys. Res.-Atmos., 118, 3355–3368, https://doi.org/10.1002/jgrd.50166, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Zondlo, M., Pan, D., Golston, L., Sun, K., and Tao, L.: Ammonia emissions, transport, and deposition downwind of agricultural areas at local to regional scales, EGU General Assembly Conference Abstracts, 18, 16552, 2016.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-08 20:08:55">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>16</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Aerosol–radiation–cloud interactions in a regional coupled  model: the effects of convective parameterisation and resolution</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Scott</given_name>
+              <surname>Archer-Nicholls</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Douglas</given_name>
+              <surname>Lowe</surname>
+              <ORCID>https://orcid.org/0000-0002-1248-3594</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David M.</given_name>
+              <surname>Schultz</surname>
+              <ORCID>https://orcid.org/0000-0003-1558-6975</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gordon</given_name>
+              <surname>McFiggans</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Weather Research and Forecasting model with Chemistry (WRF-Chem) has been used to simulate a region of Brazil heavily influenced by biomass burning. Nested simulations were run at 5 and 1<span class="thinspace"></span>km horizontal grid spacing for three case studies in September 2012. Simulations were run with and without fire emissions, convective parameterisation on the 5<span class="thinspace"></span>km domain, and aerosol–radiation interactions in order to explore the differences attributable to the parameterisations and to better understand the aerosol direct effects and cloud responses. Direct aerosol–radiation interactions due to biomass burning aerosol resulted in a net cooling, with an average short-wave direct effect of −4.08 ± 1.53<span class="thinspace"></span>Wm<sup>−2</sup>. However, around 21.7<span class="thinspace"></span>Wm<sup>−2</sup> is absorbed by aerosol in the atmospheric column, warming the atmosphere at the aerosol layer height, stabilising the column, inhibiting convection, and reducing cloud cover and precipitation. The changes to clouds due to radiatively absorbing aerosol (traditionally known as the semi-direct effects) increase the net short-wave radiation reaching the surface by reducing cloud cover, producing a secondary warming that counters the direct cooling. However, the magnitude of the semi-direct effect was found to be extremely sensitive to the model resolution and the use of convective parameterisation. Precipitation became organised in isolated convective cells when not using a convective parameterisation on the 5<span class="thinspace"></span>km domain, reducing both total cloud cover and total precipitation. The SW semi-direct effect varied from 6.06 ± 1.46 with convective parameterisation to 3.61 ± 0.86<span class="thinspace"></span>Wm<sup>−2</sup> without. Convective cells within the 1<span class="thinspace"></span>km domain are typically smaller but with greater updraft velocity than equivalent cells in the 5<span class="thinspace"></span>km domain, reducing the proportion of the domain covered by cloud in all scenarios and producing a smaller semi-direct effect. Biomass burning (BB) aerosol particles acted as cloud condensation nuclei (CCN), increasing the droplet number concentration of clouds. However, the changes to cloud properties had negligible impact on the net radiative balance in either domain, with or without convective parameterisation. The sensitivity to the uncertainties relating to the semi-direct effect was greater than any other observable indirect effects. Although the version of WRF-Chem distributed to the community currently lacks aerosol–cloud interactions in parameterised clouds, the results of this study suggest a greater priority for the development is to improve the modelling of semi-direct effects by reducing the uncertainties relating to the use of convective parameterisation and resolution before WRF-Chem can reliably quantify the regional impacts of aerosols.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>04</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>5573</first_page>
+            <last_page>5594</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Natural Environment Research Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000270</assertion>
+              </assertion>
+              <assertion name="award_number">NE/J010073/1</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-16-5573-2016</doi>
+            <resource>https://www.atmos-chem-phys.net/16/5573/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/16/5573/2016/acp-16-5573-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Abdul-Razzak, H. and Ghan, S. J.: A parameterization of aerosol activation 2. multiple aerosol types, J. Geophys. Res., 105, 6837–6844, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Abdul-Razzak, H. and Ghan, S. J.: A parameterization of aerosol activation 3. sectional representation, J. Geophys. Res., 107, D3, https://doi.org/10.1029/2001JD000483, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1126/science.288.5468.1042</doi>
+              <unstructured_citation>Ackerman, A. S., Toon, O. B., Stevens, D. E., Heymsfield, A. J., Ramanathan, V., and Welton, E. J.: Reduction of tropical cloudiness by soot, Science, 288, 1042–1047, https://doi.org/10.1126/science.288.5468.1042, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2010GL042759</doi>
+              <unstructured_citation>Allen, R. J. and Sherwood, S. C.: Aerosol-cloud semi-direct effect and land–sea temperature contrast in a GCM, Geophys. Res. Lett., 37, L07702, https://doi.org/10.1029/2010GL042759, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1016/j.earscirev.2008.03.001</doi>
+              <unstructured_citation>Andreae, M. O. and Rosenfeld, D.: Aerosol–cloud–precipitation interactions, Part 1. The nature and sources of cloud-active aerosols, Earth-Sci. Rev., 89, 13–41, https://doi.org/10.1016/j.earscirev.2008.03.001, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1126/science.1092779</doi>
+              <unstructured_citation>Andreae, M. O., Rosenfeld, D., Artaxo, P., Costa, A. A., Frank, G. P., Longo, K. M., and Silva-Dias, M. A. F.: Smoking rain clouds over the Amazon, Science, 303, 1337–1342, https://doi.org/10.1126/science.1092779, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/gmd-8-549-2015</doi>
+              <unstructured_citation>Archer-Nicholls, S., Lowe, D., Darbyshire, E., Morgan, W. T., Bela, M. M., Pereira, G., Trembath, J., Kaiser, J. W., Longo, K. M., Freitas, S. R., Coe, H., and McFiggans, G.: Characterising Brazilian biomass burning emissions using WRF-Chem with MOSAIC sectional aerosol, Geosci. Model Dev., 8, 549–577, https://doi.org/10.5194/gmd-8-549-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1007/978-3-642-13980-2</doi>
+              <unstructured_citation>Baklanov, A., Mahura, A., and Sokhi, R. S. (Eds.): Integrated Systems of Meso-Meteorological and Chemical Transport Models, Springer-Verlag, Berlin, Heidelberg, https://doi.org/10.1007/978-3-642-13980-2, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/acp-14-317-2014</doi>
+              <unstructured_citation>Baklanov, A., Schlünzen, K., Suppan, P., Baldasano, J., Brunner, D., Aksoyoglu, S., Carmichael, G., Douros, J., Flemming, J., Forkel, R., Galmarini, S., Gauss, M., Grell, G., Hirtl, M., Joffre, S., Jorba, O., Kaas, E., Kaasik, M., Kallos, G., Kong, X., Korsholm, U., Kurganskiy, A., Kushta, J., Lohmann, U., Mahura, A., Manders-Groot, A., Maurizi, A., Moussiopoulos, N., Rao, S. T., Savage, N., Seigneur, C., Sokhi, R. S., Solazzo, E., Solomos, S., Sørensen, B., Tsegas, G., Vignati, E., Vogel, B., and Zhang, Y.: Online coupled regional meteorology chemistry models in Europe: current status and prospects, Atmos. Chem. Phys., 14, 317–398, https://doi.org/10.5194/acp-14-317-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/acp-10-7325-2010</doi>
+              <unstructured_citation>Barnard, J. C., Fast, J. D., Paredes-Miranda, G., Arnott, W. P., and Laskin, A.: Technical Note: Evaluation of the WRF-Chem “Aerosol Chemical to Aerosol Optical Properties” Module using data from the MILAGRO campaign, Atmos. Chem. Phys., 10, 7325–7340, https://doi.org/10.5194/acp-10-7325-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/gmd-8-409-2015</doi>
+              <unstructured_citation>Berg, L. K., Shrivastava, M., Easter, R. C., Fast, J. D., Chapman, E. G., Liu, Y., and Ferrare, R. A.: A new WRF-Chem treatment for studying regional-scale impacts of cloud processes on aerosol and trace gases in parameterized cumuli, Geosci. Model Dev., 8, 409–429, https://doi.org/10.5194/gmd-8-409-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Bohren, C. Z. and Huffman, D. R.: Absorption and Scattering of Light by Small Particles, Wiley, New York, USA, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1080/02786820500421521</doi>
+              <unstructured_citation>Bond, T. C. and Bergstrom, R. W.: Light absorption by carbonaceous particles: an investigative review, Aerosol Sci. Tech., 39, 1–41, https://doi.org/10.1080/02786820500421521, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2006JD007315</doi>
+              <unstructured_citation>Bond, T. C., Habib, G., and Bergstrom, R. W.: Limitations in the enhancement of visible light absorption due to mixing state, J. Geophys. Res., 111, D20211, https://doi.org/10.1029/2006JD007315, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Bond, T. C., Doherty, S. J., Fahey, D. W., Forster, P. M., Berntsen, T., Deangelo, B. J., Flanner, M. G., Ghan, S., Koch, D., Kinne, S., Kondo, Y., Quinn, P. K., Sarofim, M. C., Schultz, M. G., Schulz, M., Zhang, H., Zhang, S., Bellouin, N., Guttikunda, S. K., Hopke, P. K., Jacobson, M. Z., Klimont, Z., Lohmann, U., Schwarz, J. P., Shindell, D., Storelvmo, T., Warren, S. G., and Zender, C. S.: Bounding the role of black carbon in the climate system: a scientific assessment, J. Geophys. Res.-Atmos., 11, 1–163, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G., Forster, P., Kerminen, V.-M., Kondo, Y., Liao, H., Lohmann, U., Rasch, P., Satheesh, S. K., Sherwood, S., Stevens, B., and Zhang, X. Y.: IPCC 2013, clouds and aerosols, in: Climate Change 2013: The Physical Science Basis, Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge, UK and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/acp-9-945-2009</doi>
+              <unstructured_citation>Chapman, E. G., Gustafson Jr., W. I., Easter, R. C., Barnard, J. C., Ghan, S. J., Pekour, M. S., and Fast, J. D.: Coupling aerosol-cloud-radiative processes in the WRF-Chem model: Investigating the radiative impact of elevated point sources, Atmos. Chem. Phys., 9, 945–964, https://doi.org/10.5194/acp-9-945-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1038/ngeo437</doi>
+              <unstructured_citation>Chand, D., Wood, R., Anderson, T. L., Satheesh, S. K., and Charlson, R. J.: Satellite-derived direct radiative effect of aerosols dependent on cloud cover, Nat. Geosci., 2, 181–184, https://doi.org/10.1038/ngeo437, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-11-9749-2011</doi>
+              <unstructured_citation>Chen, Y.-C., Xue, L., Lebo, Z. J., Wang, H., Rasmussen, R. M., and Seinfeld, J. H.: A comprehensive numerical study of aerosol-cloud-precipitation interactions in marine stratocumulus, Atmos. Chem. Phys., 11, 9749–9769, https://doi.org/10.5194/acp-11-9749-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1256/qj.03.64</doi>
+              <unstructured_citation>Cook, J. and Highwood, E. J.: Climate response to tropospheric absorbing aerosols in an intermediate general-circulation model, Q. J. Roy. Meteor. Soc., 130, 175–191, https://doi.org/10.1256/qj.03.64, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-11-3303-2011</doi>
+              <unstructured_citation>Donahue, N. M., Epstein, S. A., Pandis, S. N., and Robinson, A. L.: A two-dimensional volatility basis set: 1. organic-aerosol mixing thermodynamics, Atmos. Chem. Phys., 11, 3303–3318, https://doi.org/10.5194/acp-11-3303-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1073/pnas.1316830110</doi>
+              <unstructured_citation>Fan, J., Leung, L. R., Rosenfeld, D., Chen, Q., Li, Z., Zhang, J., and Yan, H.: Microphysical effects determine macrophysical response for aerosol impacts on deep convective clouds. P. Natl. Acad. Sci. USA, 110, E4581–E4590, https://doi.org/10.1073/pnas.1316830110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/2005JD006721</doi>
+              <unstructured_citation>Fast, J. D., Gustafson, W. I., Easter, R. C., Zaveri, R. A., Barnard, J. C., Chapman, E. G., Grell, G. A., and Peckham, S. E.: Evolution of ozone, particulates, and aerosol direct radiative forcing in the vicinity of Houston using a fully coupled meteorology-chemistry-aerosol model, J. Geophys. Res., 111, 1–29, https://doi.org/10.1029/2005JD006721, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-14-10013-2014</doi>
+              <unstructured_citation>Fast, J. D., Allan, J., Bahreini, R., Craven, J., Emmons, L., Ferrare, R., Hayes, P. L., Hodzic, A., Holloway, J., Hostetler, C., Jimenez, J. L., Jonsson, H., Liu, S., Liu, Y., Metcalf, A., Middlebrook, A., Nowak, J., Pekour, M., Perring, A., Russell, L., Sedlacek, A., Seinfeld, J., Setyan, A., Shilling, J., Shrivastava, M., Springston, S., Song, C., Subramanian, R., Taylor, J. W., Vinoj, V., Yang, Q., Zaveri, R. A., and Zhang, Q.: Modeling regional aerosol and aerosol precursor variability over California and its sensitivity to emissions and long-range transport during the 2010 CalNex and CARES campaigns, Atmos. Chem. Phys., 14, 10013–10060, https://doi.org/10.5194/acp-14-10013-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Flemming, J., Peuch, V.-H., Engelen, R., and Kaiser, J. W.: A European global-to-regional air pollution forecasting system that combines modelling with satellite observations, EM Magazine, November 2013, 6–10, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/acp-7-3385-2007</doi>
+              <unstructured_citation>Freitas, S. R., Longo, K. M., Chatfield, R., Latham, D., Silva Dias, M. A. F., Andreae, M. O., Prins, E., Santos, J. C., Gielow, R., and Carvalho Jr., J. A.: Including the sub-grid scale plume rise of vegetation fires in low resolution atmospheric transport models, Atmos. Chem. Phys., 7, 3385–3398, https://doi.org/10.5194/acp-7-3385-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/gmd-4-419-2011</doi>
+              <unstructured_citation>Freitas, S. R., Longo, K. M., Alonso, M. F., Pirre, M., Marecal, V., Grell, G., Stockler, R., Mello, R. F., and Sánchez Gácita, M.: PREP-CHEM-SRC – 1.0: a preprocessor of trace gas and aerosol emission fields for regional and global atmospheric chemistry models, Geosci. Model Dev., 4, 419–433, https://doi.org/10.5194/gmd-4-419-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Ghan, S., Laulainen, N., Easter, R., Wagener, R., Nemesure, S., Chapman, E., Zhang, Y., and Leung, R.: Evaluation of aerosol direct radiative forcing in MIRAGE, J. Geophys. Res., 106, 5295–5316, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/acp-6-4163-2006</doi>
+              <unstructured_citation>Ghan, S. J. and Easter, R. C.: Impact of cloud-borne aerosol representation on aerosol direct and indirect effects, Atmos. Chem. Phys., 6, 4163–4174, https://doi.org/10.5194/acp-6-4163-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Ghan, S. J., Leung, L. R., Easter, R. C., and Abdul-Razzak, H.: Prediction of cloud droplet number in a general circulation model, J. Geophys. Res., 102, 21777–21794, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/JCLI-D-11-00650.1</doi>
+              <unstructured_citation>Ghan, S. J., Liu, X., Easter, R. C., Zaveri, R., Rasch, P. J., Yoon, J.-H., and Eaton, B.: Toward a Minimal Representation of Aerosols in Climate Models: Comparative Decomposition of Aerosol Direct, Semidirect, and Indirect Radiative Forcing, J. Climate, 25, 6461–6476, https://doi.org/10.1175/JCLI-D-11-00650.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1016/j.atmosenv.2011.01.017</doi>
+              <unstructured_citation>Grell, G. and Baklanov, A.: Integrated modelling for forecasting weather and air quality: a call for fully coupled approaches, Atmos. Environ., 45, 6845–6851, https://doi.org/10.1016/j.atmosenv.2011.01.017, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/acp-14-5233-2014</doi>
+              <unstructured_citation>Grell, G. A. and Freitas, S. R.: A scale and aerosol aware stochastic convective parameterization for weather and air quality modeling, Atmos. Chem. Phys., 14, 5233–5250, https://doi.org/10.5194/acp-14-5233-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.04.027</doi>
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock, W. C., and Eder, B.: Fully coupled “online” chemistry within the WRF model, Atmos. Environ., 39, 6957–6975, https://doi.org/10.1016/j.atmosenv.2005.04.027, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-11-5289-2011</doi>
+              <unstructured_citation>Grell, G., Freitas, S. R., Stuefer, M., and Fast, J.: Inclusion of biomass burning in WRF-Chem: impact of wildfires on weather forecasts, Atmos. Chem. Phys., 11, 5289–5303, https://doi.org/10.5194/acp-11-5289-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Hansen, J., Sato, M., and Ruedy, R.: Radiative forcing and climate response, J. Geophys. Res., 102, 6831–6864, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/1999RG000078</doi>
+              <unstructured_citation>Haywood, J. and Boucher, O.: Estimates of the direct and indirect radiative forcing due to tropospheric aerosols: a review, Rev. Geophys., 38, 513, https://doi.org/10.1029/1999RG000078, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Haywood, J. M. and Shine, K. P.: The effect of anthropogenic sulfate and soot aerosol on the clear sky planetary radiation budget, Geophys. Res. Lett., 22, 603–606, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2012GL050930</doi>
+              <unstructured_citation>Hennigan, C. J., Westervelt, D. M., Riipinen, I., Engelhart, G. J., Lee, T., Collett, J. L., Pandis, S. N., Adams, P. J., and Robinson, A. L.: New particle formation and growth in biomass burning plumes: an important source of cloud condensation nuclei, Geophys. Res. Lett., 39, L09805, https://doi.org/10.1029/2012GL050930, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/2009JAS3107.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Bansemer, A., Heymsfield, G., and Fierro, A. O.: Microphysics of Maritime Tropical Convective Updrafts at Temperatures from −20° to −60 °C, J. Atmos. Sci., 66, 3530–3562, https://doi.org/10.1175/2009JAS3107.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/2008BAMS2355.1</doi>
+              <unstructured_citation>Hollingsworth, A., Engelen, R. J., Benedetti, A., Dethof, A., Flemming, J., Kaiser, J. W., Morcrette, J.-J., Simmons, a. J., Textor, C., Boucher, O., Chevallier, F., Rayner, P., Elbern, H., Eskes, H., Granier, C., Peuch, V.-H., Rouil, L., and Schultz, M. G.: Toward a monitoring and forecasting system for atmospheric composition: the GEMS project, B. Am. Meteorol. Soc., 89, 1147–1164, https://doi.org/10.1175/2008BAMS2355.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/2011BAMS3224.1</doi>
+              <unstructured_citation>Hong, S.-Y. and Dudhia, J.: Next-generation numerical weather prediction: bridging parameterization, explicit clouds, and large eddies, B. Am. Meteorol. Soc., 93, ES6–ES9, https://doi.org/10.1175/2011BAMS3224.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Huffman, G. J., Adler, R. F., Morrissey, M. M., Bolvin, D. T., Curtis, S., Joyce, R., McGavock, B., and Susskind, J.: Global Precipitation at One-Degree Daily Resolution from Multisatellite Observations, J. Hydrometeorol., 2, 36–50, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Iacono, M. J., Mlawer, E. J., and Clough, S. A.: Impact of an improved longwave radiation model, RRTM, on the energy budget and thermodynamic properties of the NCAR community climate model, CCM3, J. Geophys. Res., 105, 14873–14890, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-10-1427-2010</doi>
+              <unstructured_citation>Janhäll, S., Andreae, M. O., and Pöschl, U.: Biomass burning aerosol emissions from vegetation fires: particle number and mass emission factors and size distributions, Atmos. Chem. Phys., 10, 1427–1439, https://doi.org/10.5194/acp-10-1427-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Johnson, B. T.: The semidirect aerosol effect: comparison of a single-column model with large eddy simulation for marine stratocumulus, B. Am. Meteorol. Soc., 18, 119–130, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1256/qj.03.61</doi>
+              <unstructured_citation>Johnson, B. T., Shine, K. P., and Forster, P. M.: The semi-direct aerosol effect: impact of absorbing aerosols on marine stratocumulus, Q. J. Roy. Meteor. Soc., 130, 1407–1422, https://doi.org/10.1256/qj.03.61, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1021/es302386v</doi>
+              <unstructured_citation>Jolleys, M. D., Coe, H., McFiggans, G., Capes, G., Allan, J. D., Crosier, J., Williams, P. I., Allen, G., Bower, K. N., Jimenez, J. L., Russell, L. M., Grutter, M., and Baumgardner, D.: Characterizing the aging of biomass burning organic aerosol by use of mixing ratios: a meta-analysis of four regions, Environ. Sci. Technol., 46, 13093–13102, https://doi.org/10.1021/es302386v, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-10-7685-2010</doi>
+              <unstructured_citation>Koch, D. and Del Genio, A. D.: Black carbon semi-direct effects on cloud cover: review and synthesis, Atmos. Chem. Phys., 10, 7685–7696, https://doi.org/10.5194/acp-10-7685-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-15-8577-2015</doi>
+              <unstructured_citation>Kodros, J. K., Scott, C. E., Farina, S. C., Lee, Y. H., L'Orange, C., Volckens, J., and Pierce, J. R.: Uncertainties in global aerosols and climate effects due to biofuel emissions, Atmos. Chem. Phys., 15, 8577–8596, https://doi.org/10.5194/acp-15-8577-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1039/TF9363201152</doi>
+              <unstructured_citation>Köhler, H.: The nucleus in and the growth of hygroscopic droplets, T. Faraday Soc., 32, 1152–1161, https://doi.org/10.1039/TF9363201152, 1936.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/acp-15-12251-2015</doi>
+              <unstructured_citation>Kolusu, S. R., Marsham, J. H., Mulcahy, J., Johnson, B., Dunning, C., Bush, M., and Spracklen, D. V.: Impacts of Amazonia biomass burning aerosols assessed from short-range weather forecasts, Atmos. Chem. Phys., 15, 12251–12266, https://doi.org/10.5194/acp-15-12251-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/acp-5-715-2005</doi>
+              <unstructured_citation>Lohmann, U. and Feichter, J.: Global indirect aerosol effects: a review, Atmos. Chem. Phys., 5, 715–737, https://doi.org/10.5194/acp-5-715-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/acp-10-11373-2010</doi>
+              <unstructured_citation>Lohmann, U. and Ferrachat, S.: Impact of parametric uncertainties on the present-day climate and on the anthropogenic aerosol effect, Atmos. Chem. Phys., 10, 11373–11383, https://doi.org/10.5194/acp-10-11373-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-10-5785-2010</doi>
+              <unstructured_citation>Longo, K. M., Freitas, S. R., Andreae, M. O., Setzer, A., Prins, E., and Artaxo, P.: The Coupled Aerosol and Tracer Transport model to the Brazilian developments on the Regional Atmospheric Modeling System (CATT-BRAMS) – Part 2: Model sensitivity to the biomass burning inventories, Atmos. Chem. Phys., 10, 5785–5795, https://doi.org/10.5194/acp-10-5785-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/2008RG000280</doi>
+              <unstructured_citation>Martin, S. T., Andreae, M. O., Artaxo, P., Baumgardner, D., Chen, Q., Goldstein, A. H., Guenther, A., Heald, C. L., Bracero, O. L. M., Mcmurry, P. H., Pauliquevis, T., Pöschl, U., Prather, K. A., Roberts, G. C., Saleska, S. R., Silva-Dias, M. A., Spracklen, D. V., and Swietlicki, E. T.: Sources and properties of amazonian aerosol particles, Rev. Geophys., 48, 1–42, https://doi.org/10.1029/2008RG000280, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1029/2012JD018446</doi>
+              <unstructured_citation>Matsui, H., Koike, M., Kondo, Y., Moteki, N., Fast, J. D., and Zaveri, R. A.: Development and validation of a black carbon mixing state resolved three-dimensional model: aging processes and radiative impact, J. Geophys. Res.-Atmos., 118, 2304–2326, https://doi.org/10.1029/2012JD018446, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-6-2593-2006</doi>
+              <unstructured_citation>McFiggans, G., Artaxo, P., Baltensperger, U., Coe, H., Facchini, M. C., Feingold, G., Fuzzi, S., Gysel, M., Laaksonen, A., Lohmann, U., Mentel, T. F., Murphy, D. M., O'Dowd, C. D., Snider, J. R., and Weingartner, E.: The effect of physical and chemical aerosol properties on warm cloud droplet activation, Atmos. Chem. Phys., 6, 2593–2649, https://doi.org/10.5194/acp-6-2593-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1029/97JD00237</doi>
+              <unstructured_citation>Mlawer, E. J., Taubman, S. J., Brown, P. D., Iacono, M. J., and Clough, S. A.: Radiative transfer for inhomogeneous atmospheres: RRTM, a validated correlated-k model for the longwave, J. Geophys. Res., 102, 16663–16682, https://doi.org/10.1029/97JD00237, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1175/JAS3446.1</doi>
+              <unstructured_citation>Morrison, H., Curry, J. A., and Khvorostyanov, V. I.: A new double-moment microphysics parameterization for application in cloud and climate models, Part I: Description, J. Atmos. Sci., 62, 1665–1677, https://doi.org/10.1175/JAS3446.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/2008MWR2556.1</doi>
+              <unstructured_citation>Morrison, H., Thompson, G., and Tatarskii, V.: Impact of cloud microphysics on the development of trailing stratiform precipitation in a simulated squall line: comparison of one- and two-moment schemes, Mon. Weather Rev., 137, 991–1007, https://doi.org/10.1175/2008MWR2556.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1126/science.1191056</doi>
+              <unstructured_citation>Pöschl, U., Martin, S. T., Sinha, B., Chen, Q., Gunthe, S. S., Huffman, J. A, Borrmann, S., Farmer, D. K., Garland, R. M., Helas, G., Jimenez, J. L., King, S. M., Manzi, A, Mikhailov, E., Pauliquevis, T., Petters, M. D., Prenni, A. J., Roldin, P., Rose, D., Schneider, J., Su, H., Zorn, S. R., Artaxo, P., and Andreae, M. O.: Rainforest aerosols as biogenic nuclei of clouds and precipitation in the Amazon, Science, 329, 1513–1516, https://doi.org/10.1126/science.1191056, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/acp-15-2185-2015</doi>
+              <unstructured_citation>Possner, A., Zubler, E., Lohmann, U., and Schär, C.: Real-case simulations of aerosol-cloud interactions in ship tracks over the Bay of Biscay, Atmos. Chem. Phys., 15, 2185–2201, https://doi.org/10.5194/acp-15-2185-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/acp-5-799-2005</doi>
+              <unstructured_citation>Reid, J. S., Koppmann, R., Eck, T. F., and Eleuterio, D. P.: A review of biomass burning emissions part II: intensive physical properties of biomass burning particles, Atmos. Chem. Phys., 5, 799–825, https://doi.org/10.5194/acp-5-799-2005, 2005a.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/acp-5-827-2005</doi>
+              <unstructured_citation>Reid, J. S., Eck, T. F., Christopher, S. A., Koppmann, R., Dubovik, O., Eleuterio, D. P., Holben, B. N., Reid, E. A., and Zhang, J.: A review of biomass burning emissions part III: intensive optical properties of biomass burning particles, Atmos. Chem. Phys., 5, 827–849, https://doi.org/10.5194/acp-5-827-2005, 2005b.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/2008JD011286</doi>
+              <unstructured_citation>Romakkaniemi, S., McFiggans, G., Bower, K. N., Brown, P., Coe, H., and Choularton, T. W.: A comparison between trajectory ensemble and adiabatic parcel modeled cloud properties and evaluation against airborne measurements, J. Geophys. Res.-Atmos., 114, D06214, https://doi.org/10.1029/2008JD011286, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1126/science.1160606</doi>
+              <unstructured_citation>Rosenfeld, D., Lohmann, U., Raga, G. B., O'Dowd, C. D., Kulmala, M., Fuzzi, S., Reissell, A., and Andreae, M. O.: Flood or drought: how do aerosols affect precipitation?, Science, 321, 1309–13, https://doi.org/10.1126/science.1160606, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.5194/acp-12-3045-2012</doi>
+              <unstructured_citation>Saide, P. E., Spak, S. N., Carmichael, G. R., Mena-Carrasco, M. A., Yang, Q., Howell, S., Leon, D. C., Snider, J. R., Bandy, A. R., Collett, J. L., Benedict, K. B., de Szoeke, S. P., Hawkins, L. N., Allen, G., Crawford, I., Crosier, J., and Springston, S. R.: Evaluating WRF-Chem aerosol indirect effects in Southeast Pacific marine stratocumulus during VOCALS-REx, Atmos. Chem. Phys., 12, 3045–3064, https://doi.org/10.5194/acp-12-3045-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1029/2010JD015540</doi>
+              <unstructured_citation>Sakaeda, N., Wood, R., and Rasch, P. J.: Direct and semidirect aerosol effects of southern African biomass burning aerosol, J. Geophys. Res., 116, D12205, https://doi.org/10.1029/2010JD015540, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1016/S0169-8095(02)00172-2</doi>
+              <unstructured_citation>Segal, Y., Pinsky, M., Khain, A., and Erlick, C.: Thermodynamic factors influencing bimodal spectrum formation in cumulus clouds, Atmos. Res., 66, 43–64, https://doi.org/10.1016/S0169-8095(02)00172-2, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/acp-11-6639-2011</doi>
+              <unstructured_citation>Shrivastava, M., Fast, J., Easter, R., Gustafson Jr., W. I., Zaveri, R. A., Jimenez, J. L., Saide, P., and Hodzic, A.: Modeling organic aerosols in a megacity: comparison of simple and complex representations of the volatility basis set approach, Atmos. Chem. Phys., 11, 6639–6662, https://doi.org/10.5194/acp-11-6639-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1029/2012JD018218</doi>
+              <unstructured_citation>Shrivastava, M., Berg, L. K., Fast, J. D., Easter, R. C., Laskin, A., Chapman, E. G., Jr, W. I. G., Liu, Y., and Berkowitz, C. M.: modelling aerosols and their interactions with shallow cumuli during the 2007 CHAPS field study, J. Geophys. Res.-Atmos., 118, 1343–1360, https://doi.org/10.1029/2012JD018218, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.5194/gmd-7-1535-2014</doi>
+              <unstructured_citation>Simpson, E., Connolly, P., and McFiggans, G.: An investigation into the performance of four cloud droplet activation parameterisations, Geosci. Model Dev., 7, 1535–1542, https://doi.org/10.5194/gmd-7-1535-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.5194/acp-13-5227-2013</doi>
+              <unstructured_citation>Tosca, M. G., Randerson, J. T., and Zender, C. S.: Global impact of smoke aerosols from landscape fires on climate and the Hadley circulation, Atmos. Chem. Phys., 13, 5227–5241, https://doi.org/10.5194/acp-13-5227-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Twomey, S.: Pollution and the planetary albedo, Atmos. Environ., 8, 1251–1256, 1974.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/2011JD016106</doi>
+              <unstructured_citation>Wu, L., Su, H., and Jiang, J. H.: Regional simulations of deep convection and biomass burning over South America: 1. model evaluations using multiple satellite data sets, J. Geophys. Res., 116, D17208, https://doi.org/10.1029/2011JD016106, 2011a.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1029/2011JD016106</doi>
+              <unstructured_citation>Wu, L., Su, H., and Jiang, J. H.: Regional simulations of deep convection and biomass burning over South America: 2. biomass burning aerosol effects on clouds and precipitation, J. Geophys. Res., 116, D17209, https://doi.org/10.1029/2011JD016106, 2011b.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.5194/acp-11-11951-2011</doi>
+              <unstructured_citation>Yang, Q., W. I. Gustafson Jr., Fast, J. D., Wang, H., Easter, R. C., Morrison, H., Lee, Y.-N., Chapman, E. G., Spak, S. N., and Mena-Carrasco, M. A.: Assessing regional scale predictions of aerosols, marine stratocumulus, and their interactions during VOCALS-REx using WRF-Chem, Atmos. Chem. Phys., 11, 11951–11975, https://doi.org/10.5194/acp-11-11951-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1002/2015JD023647</doi>
+              <unstructured_citation>Yang, Q., Easter, R. C., Campuzano-jost, P., Jimenez, J. L., Fast, J. D., Shrivastava, M. B., Singh, B., Morrison, H., Fan, J., and Ziegler, C. L.: Aerosol transport and wet scavenging in deep convective clouds: A case study and model evaluation using a multiple passive tracer analysis approach, J. Geophys. Res.-Atmos., 120, 8448–8468, https://doi.org/10.1002/2015JD023647, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Zaveri, R. A. and Peters, L. K.: A new lumped structure photochemical mechanism for large-scale applications, J. Geophys. Res., 104, 30387–30415, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Zaveri, R. A., Easter, R. C., Fast, J. D., and Peters, L. K.: Model for simulating aerosol interactions and chemistry (MOSAIC), J. Geophys. Res., 113, D132024, https://doi.org/10.1029/2007JD008782, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1088/1748-9326/9/7/075002</doi>
+              <unstructured_citation>Zhang, F., Wang, J., Ichoku, C., Hyer, E. J., Yang, Z., Ge, C., Su, S., Zhang, X., Kondragunta, S., Kaiser, J. W., Wiedinmyer, C., and da Silva, A.: Sensitivity of mesoscale modelling of smoke direct radiative effect to the emission inventory: a case study in northern sub-Saharan African region, Environ. Res. Lett., 9, 075002, https://doi.org/10.1088/1748-9326/9/7/075002, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1029/2007JD009449</doi>
+              <unstructured_citation>Zhang, Y., Fu, R., Yu, H., Dickinson, R. E., Juarez, R. N., Chin, M., and Wang, H.: A regional climate model study of how biomass burning aerosol impacts land–atmosphere interactions over the Amazon, J. Geophys. Res., 113, D14S15, https://doi.org/10.1029/2007JD009449, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.5194/acp-11-1879-2011</doi>
+              <unstructured_citation>Zhao, C., Liu, X., Ruby Leung, L., and Hagos, S.: Radiative impact of mineral dust on monsoon precipitation variability over West Africa, Atmos. Chem. Phys., 11, 1879–1893, https://doi.org/10.5194/acp-11-1879-2011, 2011.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-16-5573-2016-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/16/5573/2016/acp-16-5573-2016-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1145" timestamp="2018-01-29 09:15:34">
+    <crossref>
+      <conference>
+        <contributors>
+          <person_name sequence="first" contributor_role="author">
+            <surname>Unknown</surname>
+          </person_name>
+        </contributors>
+        <event_metadata>
+          <conference_name>the Second Annual PGAS Applications Workshop</conference_name>
+          <conference_acronym>PAW17</conference_acronym>
+          <conference_sponsor>IEEE CS</conference_sponsor>
+          <conference_sponsor>SIGHPC, ACM Special Interest Group on High Performance Computing, Special Interest Group on High Performance Computing</conference_sponsor>
+          <conference_number>2</conference_number>
+          <conference_location>Denver, CO, USA</conference_location>
+          <conference_date start_month="11" start_year="2017" start_day="12" end_year="2017" end_month="11" end_day="17"/>
+        </event_metadata>
+        <proceedings_metadata language="en">
+          <proceedings_title>Proceedings of the Second Annual PGAS Applications Workshop on ZZZ  - PAW17</proceedings_title>
+          <proceedings_subject>ZZZ</proceedings_subject>
+          <publisher>
+            <publisher_name>ACM Press</publisher_name>
+            <publisher_place>New York, New York, USA</publisher_place>
+          </publisher>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <isbn media_type="print">9781450351232</isbn>
+          <doi_data>
+            <doi>10.1145/3144779</doi>
+            <timestamp>20180129084154</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=3144779</resource>
+          </doi_data>
+        </proceedings_metadata>
+        <conference_paper publication_type="full_text">
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Damian</given_name>
+              <surname>Rouson</surname>
+              <affiliation>Sourcery Institute, USA</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ethan D.</given_name>
+              <surname>Gutmann</surname>
+              <affiliation>National Center for Atmospheric Research, USA</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alessandro</given_name>
+              <surname>Fanfarillo</surname>
+              <affiliation>National Center for Atmospheric Research, USA</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian</given_name>
+              <surname>Friesen</surname>
+              <affiliation>Lawrence Berkeley National Laboratory, USA</affiliation>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Performance portability of an intermediate-complexity atmospheric research model in coarray Fortran</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1</first_page>
+            <last_page>4</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2017-11-12">http://www.acm.org/publications/policies/copyright_policy#Background</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1145/3144779.3169104</doi>
+            <timestamp>20180129084154</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=3144779.3169104</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://dl.acm.org/ft_gateway.cfm?id=3169104&amp;ftid=1943187&amp;dwn=1</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="key-10.1145/3144779.3169104-1">
+              <unstructured_citation>2016. MPI: A Message Passing Interfacew Standard. Standard. University of Kentucky, Knoxville, Tennessee USA.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-2">
+              <doi provider="crossref">10.1145/2676870.2676876</doi>
+              <unstructured_citation>Alessandro Fanfarillo, Tobias Burnus, Valeria Cardellini, Salvatore Filippone, Dan Nagle, and Damian Rouson. 2014. OpenCoarrays: open-source transport layers supporting coarray Fortran compilers. In Proceedings of the 8th International Conference on Partitioned Global Address Space Programming Models. ACM, 4.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-3">
+              <doi provider="crossref">10.1016/j.jcp.2015.05.020</doi>
+              <unstructured_citation>Sudip Garain, Dinshaw S Balsara, and John Reid. 2015. Comparing Coarray Fortran (CAF) with MPI for several structured mesh PDE applications. J. Comput. Phys. 297 (2015), 237--253.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-4">
+              <doi provider="crossref">10.1175/JHM-D-15-0155.1</doi>
+              <unstructured_citation>Ethan Gutmann, Idar Barstad, Martyn Clark, Jeffrey Arnold, and Roy Rasmussen. 2016. The intermediate complexity atmospheric research model (ICAR). Journal of Hydrometeorology 17, 3 (2016), 957--973.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-5">
+              <unstructured_citation>ISO/IEC 1539--1:2010 2010. Information technology -- Programming languages -- Fortran -- Part 1: Base language. Standard. International Organization for Standardization, Geneva, CH.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-6">
+              <doi provider="crossref">10.1177/1094342015576773</doi>
+              <unstructured_citation>George Mozdzynski, Mats Hamrud, and Nils Wedi. 2015. A partitioned global address space implementation of the European centre for medium range weather forecasts integrated forecasting system. The International Journal of High Performance Computing Applications 29, 3 (2015), 261--273.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-7">
+              <unstructured_citation>Michael Pollan. 2006. The omnivore's dilemma: A natural history of four meals. Penguin.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-8">
+              <doi provider="crossref">10.1145/2063384.2071033</doi>
+              <unstructured_citation>Robert Preissl, Nathan Wichmann, Bill Long, John Shalf, Stephane Ethier, and Alice Koniges. 2011. Multithreaded global address space communication techniques for gyrokinetic fusion applications on ultra-scale platforms. In Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis. ACM, 78.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-9">
+              <doi provider="crossref">10.1006/jcph.1998.5901</doi>
+              <unstructured_citation>P K Smolarkiewicz and L G Margolin. 1998. MPDATA: A finite-difference solver for geophysical flows. J. Comput. Phys. 140, 2 (1998), 459--480.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-10">
+              <unstructured_citation>Monika ten Bruggencate, Matthew Baker, Barbara Chapman, Tony Curtis, Eduardo D&amp;#226;&amp;#258;&amp;Zacute;Azevedo, James Dinan, Karl Feind, Manjunath Gorentla Venkata, Jeff Hammond, Oscar Hernandez, David Knaak, Gregory Koenig, Jeff Kuehn, Jens Manser, Tiffany M. Mintz, Nicholas Park, Steve Poole, Wendy Poole, Swaroop Pophale, Michael Raymond, Pavel Shamis, Sameer Shende, Lauren Smith, and Aaron Welch. 2016. OpenSHMEM Application Programming Interface, Version 1.3. (February 2016). http://bit.ly/openshmem-1-3 Accessed on 3 October 2017.</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/3144779.3169104-11">
+              <doi provider="crossref">10.1175/JAS-D-13-0305.1</doi>
+              <unstructured_citation>Gregory Thompson and Trude Eidhammer. 2014. A Study of Aerosol Impacts on Clouds and Precipitation Development in a Large Winter Cyclone. Journal of the Atmospheric Sciences 71, 10 (Sept. 2014), 3636--3658.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </doi_record>
+</doi_records>

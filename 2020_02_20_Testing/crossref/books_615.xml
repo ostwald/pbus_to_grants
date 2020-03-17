@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1007" timestamp="2017-06-24 18:44:37">
+    <crossref>
+      <book book_type="other">
+        <book_series_metadata>
+          <series_metadata>
+            <titles>
+              <title>Lecture Notes in Computational Science and Engineering</title>
+            </titles>
+            <issn media_type="print">1439-7358</issn>
+            <issn media_type="electronic">2197-7100</issn>
+          </series_metadata>
+          <contributors>
+            <person_name contributor_role="editor" sequence="first">
+              <given_name>Hans-Joachim</given_name>
+              <surname>Bungartz</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Philipp</given_name>
+              <surname>Neumann</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Wolfgang E.</given_name>
+              <surname>Nagel</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Software for Exascale Computing - SPPEXA 2013-2015</title>
+          </titles>
+          <volume>113</volume>
+          <publication_date media_type="print">
+            <year>2016</year>
+          </publication_date>
+          <isbn media_type="print">978-3-319-40526-1</isbn>
+          <isbn media_type="electronic">978-3-319-40528-5</isbn>
+          <publisher>
+            <publisher_name>Springer International Publishing</publisher_name>
+            <publisher_place>Cham</publisher_place>
+          </publisher>
+          <program name="AccessIndicators">
+            <license_ref>http://www.springer.com/tdm</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1007/978-3-319-40528-5</doi>
+            <resource>http://link.springer.com/10.1007/978-3-319-40528-5</resource>
+            <collection property="crawler-based" setbyID="springer">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/978-3-319-40528-5</resource>
+              </item>
+            </collection>
+            <collection property="text-mining" setbyID="springer">
+              <item>
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/978-3-319-40528-5.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </book_series_metadata>
+        <content_item component_type="chapter" level_sequence_number="1" publication_type="full_text">
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Allison H.</given_name>
+              <surname>Baker</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Axel</given_name>
+              <surname>Klawonn</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Tzanio</given_name>
+              <surname>Kolev</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Martin</given_name>
+              <surname>Lanser</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Oliver</given_name>
+              <surname>Rheinbach</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ulrike Meier</given_name>
+              <surname>Yang</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Scalability of Classical Algebraic Multigrid for Elasticity to Half a Million Parallel Tasks</title>
+          </titles>
+          <component_number>Chapter 6</component_number>
+          <publication_date media_type="print">
+            <year>2016</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>15</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>113</first_page>
+            <last_page>140</last_page>
+          </pages>
+          <doi_data>
+            <doi>10.1007/978-3-319-40528-5_6</doi>
+            <resource>http://link.springer.com/10.1007/978-3-319-40528-5_6</resource>
+            <collection property="crawler-based" setbyID="springer">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/978-3-319-40528-5_6</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="6_CR1">
+              <journal_title>J. Comput. Phys.</journal_title>
+              <author>C.M. Augustin</author>
+              <volume>305</volume>
+              <first_page>622</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2015.10.045</doi>
+              <unstructured_citation>Augustin, C.M., Neic, A., Liebmann, M., Prassl, A.J., Niederer, S.A., Haase, G., Plank, G.: Anatomically accurate high resolution modeling of human whole heart electromechanics: a strongly scalable algebraic multigrid solver method for nonlinear deformation. J. Comput. Phys. 305, 622–646 (2016)</unstructured_citation>
+            </citation>
+            <citation key="6_CR2">
+              <journal_title>Numer. Linear Algebra Appl.</journal_title>
+              <author>A.H. Baker</author>
+              <volume>17</volume>
+              <issue>2–3</issue>
+              <first_page>495</first_page>
+              <cYear>2010</cYear>
+              <unstructured_citation>Baker, A.H., Kolev, T.V., Yang, U.M.: Improving algebraic multigrid interpolation operators for linear elasticity problems. Numer. Linear Algebra Appl. 17 (2–3), 495–517 (2010). http://dx.doi.org/10.1002/nla.688</unstructured_citation>
+            </citation>
+            <citation key="6_CR3">
+              <unstructured_citation>Blatt, M., Ippisch, O., Bastian, P.: A massively parallel algebraic multigrid preconditioner based on aggregation for elliptic problems with heterogeneous coefficients. arXiv preprint arXiv:1209.0960 (2013)</unstructured_citation>
+            </citation>
+            <citation key="6_CR4">
+              <journal_title>Computing</journal_title>
+              <author>D. Braess</author>
+              <volume>55</volume>
+              <issue>4</issue>
+              <first_page>379</first_page>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1007/BF02238488</doi>
+              <unstructured_citation>Braess, D.: Towards algebraic multigrid for elliptic problems of second order. Computing 55 (4), 379–393 (1995). http://dx.doi.org/10.1007/BF02238488</unstructured_citation>
+            </citation>
+            <citation key="6_CR5">
+              <author>D. Braess</author>
+              <cYear>2007</cYear>
+              <volume_title>Finite Elemente</volume_title>
+              <unstructured_citation>Braess, D.: Finite Elemente, vol. 4. Springer, Berlin (2007)</unstructured_citation>
+            </citation>
+            <citation key="6_CR6">
+              <unstructured_citation>Brezina, M., Cleary, A.J., Falgout, R.D., Jones, J.E., Manteufel, T.A., McCormick, S.F., Ruge, J.W.: Algebraic multigrid based on element interpolation (AMGe). SIAM J. Sci. Comput. 22, 1570–1592 (2000). Also LLNL technical report UCRL-JC-131752</unstructured_citation>
+            </citation>
+            <citation key="6_CR7">
+              <journal_title>SIAM J. Sci. Comput.</journal_title>
+              <author>M. Brezina</author>
+              <volume>27</volume>
+              <issue>5</issue>
+              <first_page>1534</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1137/040608271</doi>
+              <unstructured_citation>Brezina, M., Tong, C., Becker, R.: Parallel algebraic multigrid methods for structural mechanics. SIAM J. Sci. Comput. 27 (5), 1534–1554 (2006)</unstructured_citation>
+            </citation>
+            <citation key="6_CR8">
+              <journal_title>Commun. Numer. Methods Eng.</journal_title>
+              <author>V.E. Bulgakov</author>
+              <volume>9</volume>
+              <issue>8</issue>
+              <first_page>649</first_page>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1002/cnm.1640090804</doi>
+              <unstructured_citation>Bulgakov, V.E.: Multi-level iterative technique and aggregation concept with semi-analytical preconditioning for solving boundary value problems. Commun. Numer. Methods Eng. 9 (8), 649–657 (1993). http://dx.doi.org/10.1002/cnm.1640090804</unstructured_citation>
+            </citation>
+            <citation key="6_CR9">
+              <journal_title>SIAM J. Sci. Comput.</journal_title>
+              <author>A.J. Cleary</author>
+              <volume>21</volume>
+              <first_page>1886</first_page>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1137/S1064827598339402</doi>
+              <unstructured_citation>Cleary, A.J., Falgout, R.D., Henson, V.E., Jones, J.E., Manteuffel, T.A., McCormick, S.F., Miranda, G.N., Ruge, J.W.: Robustness and scalability of algebraic multigrid. SIAM J. Sci. Comput. 21, 1886–1908 (2000)</unstructured_citation>
+            </citation>
+            <citation key="6_CR10">
+              <author>T. Clees</author>
+              <cYear>2005</cYear>
+              <volume_title>AMG Strategies for ODE Systems with Applications in Industrial Semiconductor Simulation</volume_title>
+              <unstructured_citation>Clees, T.: AMG Strategies for ODE Systems with Applications in Industrial Semiconductor Simulation. Shaker Verlag GmbH, Germany (2005)</unstructured_citation>
+            </citation>
+            <citation key="6_CR11">
+              <journal_title>SIAM J. Matrix Anal. Appl.</journal_title>
+              <author>H. Sterck De</author>
+              <volume>27</volume>
+              <issue>4</issue>
+              <first_page>1019</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1137/040615729</doi>
+              <unstructured_citation>De Sterck, H., Yang, U.M., Heys, J.J.: Reducing complexity in parallel algebraic multigrid preconditioners. SIAM J. Matrix Anal. Appl. 27 (4), 1019–1039 (2006). http://dx.doi.org/10.1137/040615729</unstructured_citation>
+            </citation>
+            <citation key="6_CR12">
+              <journal_title>Numer. Linear Algebra Appl.</journal_title>
+              <author>H. Sterck De</author>
+              <volume>15</volume>
+              <first_page>115</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1002/nla.559</doi>
+              <unstructured_citation>De Sterck, H., Falgout, R.D., Nolting, J.W., Yang, U.M.: Distance-two interpolation for parallel algebraic multigrid. Numer. Linear Algebra Appl. 15, 115–139 (2008)</unstructured_citation>
+            </citation>
+            <citation key="6_CR13">
+              <doi provider="crossref">10.1137/06066103X</doi>
+              <unstructured_citation>Dohrmann, C.R.: Interpolation operators for algebraic multigrid by local optimization. SIAM J. Sci. Comput. 29 (5), 2045–2058 (electronic) (2007). http://dx.doi.org/10.1137/06066103X</unstructured_citation>
+            </citation>
+            <citation key="6_CR14">
+              <journal_title>J. Sci. Comput.</journal_title>
+              <author>M. Griebel</author>
+              <volume>25</volume>
+              <issue>2</issue>
+              <first_page>385</first_page>
+              <cYear>2003</cYear>
+              <unstructured_citation>Griebel, M., Oeltz, D., Schweitzer, A.: An algebraic multigrid for linear elasticity. J. Sci. Comput. 25 (2), 385–407 (2003)</unstructured_citation>
+            </citation>
+            <citation key="6_CR15">
+              <unstructured_citation>Henson, V.E., Vassilevski, P.S.: Element-free AMGe: general algorithms for computing interpolation weights in AMG. SIAM J. Sci. Comput. 23 (2), 629–650 (electronic) (2001). http://dx.doi.org/10.1137/S1064827500372997 . copper Mountain Conference (2000)</unstructured_citation>
+            </citation>
+            <citation key="6_CR16">
+              <journal_title>Appl. Numer. Math.</journal_title>
+              <author>V.E. Henson</author>
+              <volume>41</volume>
+              <first_page>155</first_page>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1016/S0168-9274(01)00115-5</doi>
+              <unstructured_citation>Henson, V.E., Yang, U.M.: BoomerAMG: a parallel algebraic multigrid solver and preconditioner. Appl. Numer. Math. 41, 155–177 (2002)</unstructured_citation>
+            </citation>
+            <citation key="6_CR17">
+              <unstructured_citation>hypre: High performance preconditioners. http://www.llnl.gov/CASC/hypre/</unstructured_citation>
+            </citation>
+            <citation key="6_CR18">
+              <unstructured_citation>Lanser, M.: Nonlinear FETI-DP and BDDC Methods. Ph.D. thesis, Universität zu Köln (2015)</unstructured_citation>
+            </citation>
+            <citation key="6_CR19">
+              <journal_title>SIAM J. Sci. Comput.</journal_title>
+              <author>A.C. Muresan</author>
+              <volume>30</volume>
+              <first_page>1082</first_page>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1137/060678397</doi>
+              <unstructured_citation>Muresan, A.C., Notay, Y.: Analysis of aggregation-based multigrid. SIAM J. Sci. Comput. 30, 1082–1103 (2008)</unstructured_citation>
+            </citation>
+            <citation key="6_CR20">
+              <journal_title>Electron. Trans. Numer. Anal.</journal_title>
+              <author>Y. Notay</author>
+              <volume>37</volume>
+              <first_page>123</first_page>
+              <cYear>2010</cYear>
+              <unstructured_citation>Notay, Y.: An aggregation-based algebraic multigrid method. Electron. Trans. Numer. Anal. 37, 123–146 (2010)</unstructured_citation>
+            </citation>
+            <citation key="6_CR21">
+              <journal_title>Numer. Linear Algebra Appl.</journal_title>
+              <author>Y. Notay</author>
+              <volume>18</volume>
+              <first_page>539</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1002/nla.741</doi>
+              <unstructured_citation>Notay, Y., Napov, A.: Algebraic analysis of aggregation-based multigrid. Numer. Linear Algebra Appl. 18, 539–564 (2011)</unstructured_citation>
+            </citation>
+            <citation key="6_CR22">
+              <journal_title>Appl. Math. Comput.</journal_title>
+              <author>J.W. Ruge</author>
+              <volume>19</volume>
+              <first_page>293</first_page>
+              <cYear>1986</cYear>
+              <unstructured_citation>Ruge, J.W.: AMG for problems of elasticity. Appl. Math. Comput. 19, 293–309 (1986)</unstructured_citation>
+            </citation>
+            <citation key="6_CR23">
+              <author>J.W. Ruge</author>
+              <first_page>73</first_page>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1137/1.9781611971057.ch4</doi>
+              <volume_title>Multigrid Methods. Frontiers in Applied Mathematics</volume_title>
+              <unstructured_citation>Ruge, J.W., Stüben, K.: Algebraic multigrid (AMG). In: McCormick, S.F. (ed.) Multigrid Methods. Frontiers in Applied Mathematics, vol. 3, pp. 73–130. SIAM, Philadelphia (1987)</unstructured_citation>
+            </citation>
+            <citation key="6_CR24">
+              <journal_title>JLSRF</journal_title>
+              <author>M. Stephan</author>
+              <volume>1</volume>
+              <first_page>A1</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.17815/jlsrf-1-18</doi>
+              <unstructured_citation>Stephan, M., Docter, J.: JUQUEEN: IBM blue gene/QⓇsupercomputer system at the Jülich Supercomputing Centre. JLSRF 1, A1 (2015). http://dx.doi.org/10.17815/jlsrf-1-18</unstructured_citation>
+            </citation>
+            <citation key="6_CR25">
+              <unstructured_citation>Stüben, K.: An introduction to algebraic multigrid. In: Multigrid, pp. 413–532. Academic Press, London/San Diego (2001). also available as GMD Report 70, November 1999</unstructured_citation>
+            </citation>
+            <citation key="6_CR26">
+              <author>U. Trottenberg</author>
+              <cYear>2001</cYear>
+              <volume_title>Multigrid</volume_title>
+              <unstructured_citation>Trottenberg, U., Oosterlee, C.W., Schüller, A.: Multigrid. Academic Press, London/San Diego (2001)</unstructured_citation>
+            </citation>
+            <citation key="6_CR27">
+              <journal_title>Computing</journal_title>
+              <author>P. Vaněk</author>
+              <volume>56</volume>
+              <first_page>179</first_page>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1007/BF02238511</doi>
+              <unstructured_citation>Vaněk, P., Mandel, J., Brezina, M.: Algebraic multigrid by smooth aggregation for second and fourth order elliptic problems. Computing 56, 179–196 (1996)</unstructured_citation>
+            </citation>
+            <citation key="6_CR28">
+              <author>U.M. Yang</author>
+              <first_page>209</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1007/3-540-31619-1_6</doi>
+              <volume_title>Numerical Solutions of Partial Differential Equations on Parallel Computers. Lecture Notes in Computational Science and Engineering</volume_title>
+              <unstructured_citation>Yang, U.M.: Parallel algebraic multigrid methods – high performance preconditioners. In: Bruaset, A., Tveito, A. (eds.) Numerical Solutions of Partial Differential Equations on Parallel Computers. Lecture Notes in Computational Science and Engineering, pp. 209–236. Springer, Berlin (2006)</unstructured_citation>
+            </citation>
+            <citation key="6_CR29">
+              <journal_title>Numer. Linear Algebra Appl.</journal_title>
+              <author>U.M. Yang</author>
+              <volume>17</volume>
+              <first_page>453</first_page>
+              <cYear>2010</cYear>
+              <unstructured_citation>Yang, U.M.: On long-range interpolation operators for aggressive coarsening. Numer. Linear Algebra Appl. 17, 453–472 (2010)</unstructured_citation>
+            </citation>
+          </citation_list>
+        </content_item>
+      </book>
+    </crossref>
+  </doi_record>
+</doi_records>

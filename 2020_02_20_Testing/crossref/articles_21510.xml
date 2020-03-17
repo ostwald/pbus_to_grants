@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Overview of experiment design and comparison of models participating in phase 1 of the SPARC Quasi-Biennial Oscillation initiative (QBOi)</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Neal</given_name>
+              <surname>Butchart</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James A.</given_name>
+              <surname>Anstey</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kevin</given_name>
+              <surname>Hamilton</surname>
+              <ORCID>https://orcid.org/0000-0002-3560-8097</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Scott</given_name>
+              <surname>Osprey</surname>
+              <ORCID>https://orcid.org/0000-0002-8751-1211</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Charles</given_name>
+              <surname>McLandress</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew C.</given_name>
+              <surname>Bushell</surname>
+              <ORCID>https://orcid.org/0000-0001-5683-4387</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yoshio</given_name>
+              <surname>Kawatani</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Young-Ha</given_name>
+              <surname>Kim</surname>
+              <ORCID>https://orcid.org/0000-0003-4014-073X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Francois</given_name>
+              <surname>Lott</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John</given_name>
+              <surname>Scinocca</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Timothy N.</given_name>
+              <surname>Stockdale</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martin</given_name>
+              <surname>Andrews</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Omar</given_name>
+              <surname>Bellprat</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Peter</given_name>
+              <surname>Braesicke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chiara</given_name>
+              <surname>Cagnazzo</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chih-Chieh</given_name>
+              <surname>Chen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hye-Yeong</given_name>
+              <surname>Chun</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mikhail</given_name>
+              <surname>Dobrynin</surname>
+              <ORCID>https://orcid.org/0000-0003-3533-3529</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rolando R.</given_name>
+              <surname>Garcia</surname>
+              <ORCID>https://orcid.org/0000-0002-6963-4592</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Javier</given_name>
+              <surname>Garcia-Serrano</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lesley J.</given_name>
+              <surname>Gray</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Laura</given_name>
+              <surname>Holt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tobias</given_name>
+              <surname>Kerzenmacher</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hiroaki</given_name>
+              <surname>Naoe</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Holger</given_name>
+              <surname>Pohlmann</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jadwiga H.</given_name>
+              <surname>Richter</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Adam A.</given_name>
+              <surname>Scaife</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Verena</given_name>
+              <surname>Schenzinger</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Federico</given_name>
+              <surname>Serva</surname>
+              <ORCID>https://orcid.org/0000-0002-7118-0817</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stefan</given_name>
+              <surname>Versick</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Shingo</given_name>
+              <surname>Watanabe</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kohei</given_name>
+              <surname>Yoshida</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Seiji</given_name>
+              <surname>Yukimoto</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Stratosphere–troposphere Processes And their Role in Climate (SPARC) Quasi-Biennial Oscillation initiative (QBOi) aims to improve the fidelity of tropical stratospheric variability in general circulation and Earth system models by conducting coordinated numerical experiments and analysis. In the equatorial stratosphere, the QBO is the most conspicuous mode of variability. Five coordinated experiments have therefore been designed to (i) evaluate and compare the verisimilitude of modelled QBOs under present-day conditions, (ii) identify robustness (or alternatively the spread and uncertainty) in the simulated QBO response to commonly imposed changes in model climate forcings (e.g. a doubling of CO<sub>2</sub> amounts), and (iii) examine model dependence of QBO predictability. This paper documents these experiments and the recommended output diagnostics. The rationale behind the experimental design and choice of diagnostics is presented. To facilitate scientific interpretation of the results in other planned QBOi studies, consistent descriptions of the models performing each experiment set are given, with those aspects particularly relevant for simulating the QBO tabulated for easy comparison.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>16</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>1009</first_page>
+            <last_page>1032</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Research Foundation of Korea
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100003725</assertion>
+              </assertion>
+              <assertion name="award_number">NRF-2015R1C1A1A02036449</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Commission
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000780</assertion>
+              </assertion>
+              <assertion name="award_number">603557</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Agence Nationale de la Recherche
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001665</assertion>
+              </assertion>
+              <assertion name="award_number">ANR-15-JCLI-0004-01</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Ministry of the Environment
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100006120</assertion>
+              </assertion>
+              <assertion name="award_number">2-1503</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Japan Society for the Promotion of Science
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001691</assertion>
+              </assertion>
+              <assertion name="award_number">15KK0178</assertion>
+              <assertion name="award_number">26287117</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Ministry of Education, Culture, Sports, Science and Technology
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001700</assertion>
+              </assertion>
+              <assertion name="award_number">SOUSEI</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Japan Science and Technology Agency
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100002241</assertion>
+              </assertion>
+              <assertion name="award_number">N/K</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Natural Environment Research Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000270</assertion>
+              </assertion>
+              <assertion name="award_number">NE/P006779/1</assertion>
+              <assertion name="award_number">NE/M005828/1</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Ministerio de Economía y Competitividad
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100003329</assertion>
+              </assertion>
+              <assertion name="award_number">CGL2015-68342-R</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-11-1009-2018</doi>
+            <resource>https://www.geosci-model-dev.net/11/1009/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/11/1009/2018/gmd-11-1009-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Adachi, Y., Yukimoto, S., Deushi, M., Obata, A., Nakano, H., Tanaka, T. Y., Hosaka, M., Sakami, T., Yoshimura, H., Hirabara, M., Shindo, E., Tsujino, H., Mizuta, R., Yabu, S., Koshiro, T., Ose, T., and Kitoh, A.: Basic performance of a new earth system model of the Meteorological Research Institute (MRI-ESM1), Pap. Meteorol. Geophys., 64, 1–19, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Alexander, M. J. and Dunkerton, T. J.: A spectral parameterization of mean-flow forcing due to breaking gravity waves, J. Atmos. Sci., 56, 4167–4182, https://doi.org/10.1175/1520-0469(1999)056&amp;amp;lt;4167:ASPOMF&amp;amp;gt;2.0.CO;2, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Alexander, M. J. and Sato, K.: Gravity wave dynamics and climate: An update from the SPARC gravity wave activity, SPARC Newsletter, 44, 9–13, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Andrews, D. G., Holton, J. R., and Leovy, C. B.: Middle Atmospheric Dynamics, Academic Press, San Diego, California, 489 pp., 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1002/qj.2132</doi>
+              <unstructured_citation>Anstey, J. A. and Shepherd, T. G.: High-latitude influence of the quasi-biennial oscillation, Q. J. Roy. Meteor. Soc., 140, 1–21, https://doi.org/10.1002/qj.2132, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/JAS-D-15-0099.1</doi>
+              <unstructured_citation>Anstey, J. A., Scinocca, J. F., and Keller, M.: Simulating the QBO in an atmospheric general circulation model: Sensitivity to resolved and parameterized forcing, J. Atmos. Sci., 73, 1649–1665, https://doi.org/10.1175/JAS-D-15-0099.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/2009JAS3292.1</doi>
+              <unstructured_citation>Anstey, J. A., Shepherd, T. G., and Scinocca, J. F.: Influence of the quasi-biennial oscillation on the extratropical winter stratosphere in an atmospheric general circulation model and in reanalysis data, J. Atmos. Sci., 67, 1402–1419, https://doi.org/10.1175/2009JAS3292.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Anstey, J., Hamilton, K., Osprey, S., Butchart, N., and Gray, L.: Report on the 1st QBO modelling and reanalyses workshop, 16–18 March 2015, Victoria, BC, Canada, SPARC Newsletter, 45, 19–25, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Anstey, J., Osprey, S., Butchart, N., Hamilton, K., Gray, L., and Baldwin, M.: Report on the SPARC QBO Workshop: The QBO and its Global Influence – Past, Present and Future 26–30 September 2016, Oxford, UK, SPARC Newsletter, 48, 33–41, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/1999RG000073</doi>
+              <unstructured_citation>Baldwin, M. P., Gray, L. J., Dunkerton T. K., Hamilton, K., Haynes, P. H., Randel, W. J., Holton, J. R., Alexander, M. J., Hirota, I., Horinouchi, T., Jones, D. B. A., Kinnersley, J. S., Marquardt, C., Sato, K., and Takahashi, M.: The quasi-biennial oscillation, Rev. Geophys., 39, 179–229, https://doi.org/10.1029/1999RG000073, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/2017GL075576</doi>
+              <unstructured_citation>Barton, C. A. and McCormack, J. P.: Origin of the 2016 QBO disruption and its relationship to extreme El Niño events. Geophys. Res. Lett., 44, 11105–11157, https://doi.org/10.1002/2017GL075576, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1002/qj.289</doi>
+              <unstructured_citation>Bechtold, P., Köhler, M., Jung, T., Doblas-Reyes, F., Leutbecher, M., Rodwell, M. J., Vitart, F., and Balsamo, G.: Advances in simulating atmospheric variability with the ECMWF model: From synoptic to decadal time-scales. Q. J. Roy. Meteor. Soc., 134, 1337–1351, https://doi.org/10.1002/qj.289, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2004JD005504</doi>
+              <unstructured_citation>Beres, J. H., Garcia, R. R., Boville, B. A., and Sassi, F.: Implementation of a gravity wave source spectrum parameterization dependent on the properties of convection in the Whole Atmosphere Community Climate Model (WACCM), J. Geophys. Res., 110, D10108, https://doi.org/10.1029/2004JD005504, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Bretherton, C. S., McCaa, J. R., and Grenier, H.: A new parameterization for shallow cumulus convection and its application to marine subtropical cloud-topped boundary layers. Part I: description and 1D results, Mon. Weather Rev., 132, 864–882, https://doi.org/10.1175/1520-0493(2004)132&amp;amp;lt;0864:ANPFSC&amp;amp;gt;2.0.CO;2, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2009JD013340</doi>
+              <unstructured_citation>Bushell, A. C., Jackson, D. R., Butchart, N., Hardiman, S. C., Hinton, T. J., Osprey, S. M., and Gray, L. J.: Sensitivity of GCM tropical middle atmosphere variability and climate to ozone and parameterized gravity wave changes, J. Geophys. Res., 115, D15101, https://doi.org/10.1029/2009JD013340, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/JAS-D-15-0022.1</doi>
+              <unstructured_citation>Bushell, A. C., Butchart, N., Derbyshire, S. H., Jackson, D. R., Shutts, G. J., Vosper, S. B., and Webster, S.: Parameterized gravity wave momentum fluxes from sources related to convection and large-scale precipitation processes in a global atmosphere model, J. Atmos. Sci., 72, 4349–4371, https://doi.org/10.1175/JAS-D-15-0022.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1002/2013RG000448</doi>
+              <unstructured_citation>Butchart, N.: The Brewer-Dobson circulation, Rev. Geophys., 52, 157–184, https://doi.org/10.1002/2013RG000448, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/2002JD003004</doi>
+              <unstructured_citation>Butchart, N., Scaife, A. A., Austin, J., Hare, S. H. E., and Knight, J. R.: Quasi-biennial oscillation in ozone in a coupled chemistry-climate model, J. Geophys. Res., 108, 4486, https://doi.org/10.1029/2002JD003004, D15, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2010JD014995</doi>
+              <unstructured_citation>Butchart, N., Charlton-Perez, A. J., Cionni, I., Hardiman, S. C., Haynes, P. H., Krüger, K., Kushner, P. J., Newman, P. A., Osprey, S. M., Perlwitz, J., Sigmond, M., Wang, L., Akiyoshi, H., Austin, J., Bekki, S., Baumgaertner, A., Braesicke, P., Brühl, C., Chipperfield, M., Dameris, M., Dhomse, S., Eyring, V., Garcia, R., Garny, H., Jöckel, P., Lamarque, J.-F., Marchand, M., Michou, M., Morgenstern, O., Nakamura, T., Pawson, S., Plummer, D., Pyle, J., Rozanov, E., Scinocca, J., Shepherd, T. G., Shibata, K., Smale, D., Teyssèdre, H., Tian, W., Waugh, D., and Yamashita, Y.: Multimodel climate and variability of the stratosphere, J. Geophys. Res., 116, D05102, https://doi.org/10.1029/2010JD014995, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/2010JAS3552.1</doi>
+              <unstructured_citation>Choi, H.-J. and Chun, H.-Y.: Momentum flux spectrum of convective gravity waves. Part I: An update of a parameterization using mesoscale simulations, J. Atmos. Sci., 68, 739–759, https://doi.org/10.1175/2010JAS3552.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1002/2016GL070751</doi>
+              <unstructured_citation>Christiansen, B., Yang, S., and Madsen, M. S.: Do strong warm ENSO events control the phase of the stratospheric QBO?, Geophys. Res. Lett., 43, 10489–10495, https://doi.org/10.1002/2016GL070751, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/JCLI-D-16-0663.1</doi>
+              <unstructured_citation>Coy, L., Newman, P. A., Pawson, S., and Lait, L. R.: Dynamics of the disrupted 2015/16 quasi-biennial oscillation, J. Climate, 30, 5661–5674, https://doi.org/10.1175/JCLI-D-16-0663.1, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/gmd-10-1383-2017</doi>
+              <unstructured_citation>Davini, P., von Hardenberg, J., Corti, S., Christensen, H. M., Juricke, S., Subramanian, A., Watson, P. A. G., Weisheimer, A., and Palmer, T. N.: Climate SPHINX: evaluating the impact of resolution and stochastic physics parameterisations in the EC-Earth global climate model, Geosci. Model Dev., 10, 1383–1402, https://doi.org/10.5194/gmd-10-1383-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P., Kobayashi, S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P., Bechtold, P., Beljaars, A. C. M., van de Berg, I., Biblot, J., Bormann, N., Delsol, C., Dragani, R., Fuentes, M., Greer, A. J., Haimberger, L., Healy, S. B., Hersbach, H., Hólm, E. V., Isaksen, L., Kållberg, P., Köhler, M., Matricardi, M., McNally, A. P., Mong-Sanz, B. M., Morcette, J.-J., Park, B.-K., Peubey, C., de Rosnay, P., Tavolato, C., Thépaut, J. N., and Vitart, F.: The ERA-Interim reanalysis: Configuration and performance of the data assimilation system, Q. J. Roy. Meteor. Soc., 137, 553–597, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1002/2015GL063298</doi>
+              <unstructured_citation>de la Cámara, A. and Lott, F.: A parameterization of gravity waves emitted by fronts and jets, Geophys. Res. Lett., 42, 2071–2078, https://doi.org/10.1002/2015GL063298, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Dobrynin, M., Domeisen, D.I.V., Müller, W. A., Bell, L., Brune, S., Bunzel, F., Fröhlich, K., Pohlmann, H., Baehr, J.: Improved seasonal prediction of boreal winter through ensemble sub-sampling, Geophys. Res. Lett., accepted, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1002/2016GL070921</doi>
+              <unstructured_citation>Dunkerton, T. J.: The quasi-biennial oscillation of 2015–2016: Hiccup or death spiral?, Geophys. Res. Lett., 43, 10547–10552, https://doi.org/10.1002/2016GL070921, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1038/ngeo2824</doi>
+              <unstructured_citation>Dunstone, N., Smith, D., Scaife, A., Hermanson, L., Eade, R., Robinson, N., Andrews, M., and Knight, J.: Skilful predictions of the winter North Atlantic Oscillation one year ahead, Nat. Geosci., 9, 809–814, https://doi.org/10.1038/ngeo2824, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>ECMWF: IFS documentation CY36R1, published by ECMWF, available at: https://www.ecmwf.int/en/forecasts/documentation-and-support/changes-ecmwf-model/ifs-documentation, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>ECMWF: IFS documentation CY43R1, published by ECMWF, available at: https://www.ecmwf.int/en/forecasts/documentation-and-support/changes-ecmwf-model/ifs-documentation, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Emanuel, K. A.: A scheme for representing cumulus convection in large-scale models, J. Atmos. Sci., 48, 2313–2335, https://doi.org/10.1175/1520-0469(1991)048&amp;amp;lt;2313:ASFRCC&amp;amp;gt;2.0.CO;2, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Emori, S., Nozawa, T., Numaguti, A., and Uno, I.: Importance of cumulus parameterization for precipitation simulation over East Asia in June, J. Meteorol. Soc. Jpn., 79, 939–947, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/gmd-9-1937-2016</doi>
+              <unstructured_citation>Eyring, V., Bony, S., Meehl, G. A., Senior, C. A., Stevens, B., Stouffer, R. J., and Taylor, K. E.: Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization, Geosci. Model Dev., 9, 1937–1958, https://doi.org/10.5194/gmd-9-1937-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-17-1417-2017</doi>
+              <unstructured_citation>Fujiwara, M., Wright, J. S., Manney, G. L., Gray, L. J., Anstey, J., Birner, T., Davis, S., Gerber, E. P., Harvey, V. L., Hegglin, M. I., Homeyer, C. R., Knox, J. A., Krüger, K., Lambert, A., Long, C. S., Martineau, P., Molod, A., Monge-Sanz, B. M., Santee, M. L., Tegtmeier, S., Chabrillat, S., Tan, D. G. H., Jackson, D. R., Polavarapu, S., Compo, G. P., Dragani, R., Ebisuzaki, W., Harada, Y., Kobayashi, C., McCarty, W., Onogi, K., Pawson, S., Simmons, A., Wargan, K., Whitaker, J. S., and Zou, C.-Z.: Introduction to the SPARC Reanalysis Intercomparison Project (S-RIP) and overview of the reanalysis systems, Atmos. Chem. Phys., 17, 1417–1452, https://doi.org/10.5194/acp-17-1417-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Garcia, R. R. and Richter, J. H.: The momentum budget of the quasi-biennial oscillation in the high vertical resolution CESM1(WACCM), J. Atmos. Sci., submitted, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1002/2016MS000699</doi>
+              <unstructured_citation>Geller, M. A., Zhou, T., Shindell, D., Ruedy, R., Aleinov, I., Nazarenko, L., Tausnev, N. L., Kelley, M., Sun, S., Cheng, Y., Field, R. D., and Faluvegi, G.: Modeling the QBO-improvements resulting from higher-model vertical resolution, J. Adv. Model. Earth Sy., 8, 1092–1105, https://doi.org/10.1002/2016MS000699, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/gmd-9-3413-2016</doi>
+              <unstructured_citation>Gerber, E. P. and Manzini, E.: The Dynamics and Variability Model Intercomparison Project (DynVarMIP) for CMIP6: assessing the stratosphere–troposphere system, Geosci. Model Dev., 9, 3413–3425, https://doi.org/10.5194/gmd-9-3413-2016, 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/gmd-9-3413-2016-corrigendum</doi>
+              <unstructured_citation>Gerber, E. P. and Manzini, E.: Corrigendum to “The Dynamics and Variability Model Intercomparison Project (DynVarMIP) for CMIP6: assessing the stratosphere-troposphere system” published in Geosci. Model Dev., 9, 3413–3425, https://doi.org/10.5194/gmd-9-3413-2016-corrigendum, 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2002GL014756</doi>
+              <unstructured_citation>Giorgetta, M. A., Manzini, E., and Roeckner, E.: Forcing of the quasi-biennial oscillation from a broad spectrum of atmospheric waves, Geophys. Res. Lett., 29, 86-1–86-4, https://doi.org/10.1029/2002GL014756, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/JCLI3830.1</doi>
+              <unstructured_citation>Giorgetta, M. A., Manzini, E., and Roeckner, E., Esch, M., and Bengston, L.: Climatology and forcing of the quasi-biennial oscillation in the MAECHAM5 Model, J. Climate, 19, 3882–3901, https://doi.org/10.1175/JCLI3830.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Gregory, D. and Rowntree, P. R.: A massflux convection scheme with representation of cloud ensemble characteristics and stability dependent closure, Mon. Weather Rev., 118, 1483–1506, https://doi.org/10.1175/1520-0493(1990)118&amp;amp;lt;1483:AMFCSW&amp;amp;gt;2.0.CO;2, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/gmd-4-723-2011</doi>
+              <unstructured_citation>The HadGEM2 Development Team: Martin, G. M., Bellouin, N., Collins, W. J., Culverwell, I. D., Halloran, P. R., Hardiman, S. C., Hinton, T. J., Jones, C. D., McDonald, R. E., McLaren, A. J., O'Connor, F. M., Roberts, M. J., Rodriguez, J. M., Woodward, S., Best, M. J., Brooks, M. E., Brown, A. R., Butchart, N., Dearden, C., Derbyshire, S. H., Dharssi, I., Doutriaux-Boucher, M., Edwards, J. M., Falloon, P. D., Gedney, N., Gray, L. J., Hewitt, H. T., Hobson, M., Huddleston, M. R., Hughes, J., Ineson, S., Ingram, W. J., James, P. M., Johns, T. C., Johnson, C. E., Jones, A., Jones, C. P., Joshi, M. M., Keen, A. B., Liddicoat, S., Lock, A. P., Maidens, A. V., Manners, J. C., Milton, S. F., Rae, J. G. L., Ridley, J. K., Sellar, A., Senior, C. A., Totterdell, I. J., Verhoef, A., Vidale, P. L., and Wiltshire, A.: The HadGEM2 family of Met Office Unified Model climate configurations, Geosci. Model Dev., 4, 723–757, https://doi.org/10.5194/gmd-4-723-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Hamilton, K., Wilson, R. J., and Hemler, R. S.: Spontaneous stratospheric QBO-like oscillations simulated by the GFDL SKYHI general circulation model, J. Atmos. Sci., 58, 3271–3292, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2015EO032301</doi>
+              <unstructured_citation>Hamilton, K., Osprey, S., and Butchart, N.: Modeling the stratosphere's “heartbeat,” Eos, 96, p. 8, https://doi.org/10.1029/2015EO032301, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Hines, C. O.: Doppler spreading parametrization of gravity-wave momentum deposition in the middle atmosphere. 1. Basic formulation, J. Atmos. Sol.-Terr. Phys., 59, 371–386, 1997a.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Hines, C. O.: Doppler spreading parametrization of gravity-wave momentum deposition in the middle atmosphere. 2. Broad and quasi-monochromatic spectra, and implementation, J. Atmos. Sol.-Terr. Phys., 59, 387–400, 1997b.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Horinouchi, T., Pawson, S., Shibata, K., Manzini, E., Giorgetta, M. A., Sassi, F., R. Wilson, R. J., Hamilton, K., DeGrandpe, J., and Scaife, A. A.: Tropical cumulus convection and upward propagating waves in middle-atmospheric GCMs, J. Atmos. Sci., 60, 2765–2782, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1007/s00382-012-1343-y</doi>
+              <unstructured_citation>Hourdin, F., Grandpeix, J.-Y., Rio, C., Bony, S., Jam, A., Cheruy, F., Rochetin, N., Fairhead, L., Idelkadi, A., Musat, I., Dufresne, J.-L., Lahellec, A., Lefebvre, M.-P., and Roehrig, R.: LMDZ5B: the atmospheric component of the IPSL climate model with revisited parameterizations for clouds and convection, Clim. Dynam., 40, 2193–2222, https://doi.org/10.1007/s00382-012-1343-y, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>IPCC: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, Cambridge, UK and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-5-433-2005</doi>
+              <unstructured_citation>Jöckel, P., Sander, R., Kerkweg, A., Tost, H., and Lelieveld, J.: Technical Note: The Modular Earth Submodel System (MESSy) – a new approach towards Earth System Modeling, Atmos. Chem. Phys., 5, 433–444, https://doi.org/10.5194/acp-5-433-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/gmd-3-717-2010</doi>
+              <unstructured_citation>Jöckel, P., Kerkweg, A., Pozzer, A., Sander, R., Tost, H., Riede, H., Baumgaertner, A., Gromov, S., and Kern, B.: Development cycle 2 of the Modular Earth Submodel System (MESSy2), Geosci. Model Dev., 3, 717–752, https://doi.org/10.5194/gmd-3-717-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1038/nature12140</doi>
+              <unstructured_citation>Kawatani, Y. and Hamilton, K.: Weakened stratospheric quasibiennial oscillation driven by increased tropical mean upwelling, Nature, 497, 478–481, https://doi.org/10.1038/nature12140, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1175/2010JAS3623.1</doi>
+              <unstructured_citation>Kawatani, Y., Hamilton, K., and Watanabe, S.: The quasi-biennial oscillation in a double CO2 climate, J. Atmos. Sci., 68, 265–283, https://doi.org/10.1175/2010JAS3623.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1175/2009JAS3222.1</doi>
+              <unstructured_citation>Kawatani, Y., Sato, K., Dunkerton, T. J., Watanabe, S., Miyahara, S., and Takahashi, M.: The roles of equatorial trapped waves and internal inertia-gravity waves in driving the quasi-biennial oscillation. Part I: Zonal mean wave forcing, J. Atmos. Sci., 67, 963–980, https://doi.org/10.1175/2009JAS3222.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-15-6577-2015</doi>
+              <unstructured_citation>Kim, Y.-H. and Chun, H.-Y.: Momentum forcing of the quasi-biennial oscillation by equatorial waves in recent reanalyses, Atmos. Chem. Phys., 15, 6577–6587, https://doi.org/10.5194/acp-15-6577-2015, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1002/2014JD022174</doi>
+              <unstructured_citation>Kim, Y.-H. and Chun, H.-Y.: Contributions of equatorial wave modes and parameterized gravity waves to the tropical QBO in HadGEM2, J. Geophys. Res.-Atmos., 120, 1065–1090, https://doi.org/10.1002/2014JD022174, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1002/grl.50353</doi>
+              <unstructured_citation>Kim, Y.-H., Bushell, A. C., Jackson, D. R., and Chun, H.-Y.: Impacts of introducing a convective gravity-wave parameterization upon the QBO in the Met Office Unified Model, Geophys. Res. Lett., 40, 1873–1877, https://doi.org/10.1002/grl.50353, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1002/grl.50256</doi>
+              <unstructured_citation>Knutti, R., Masson, D., and Gettelman, A.: Climate model genealogy: Generation CMIP5 and how we got there, Geophys. Res. Lett., 40, 1194–1199, https://doi.org/10.1002/grl.50256, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1177/1094342011410088</doi>
+              <unstructured_citation>Lauritzen, P. H., Mirin, A., Truesdale, J., Raeder, K., Anderson, J., Bacmeister, J., and Neale, R. B.: Implementation of new diffusion/filtering operators in the CAM-FV dynamical core, Int. J. High. Perform. C., 26, 63–73, https://doi.org/10.1177/1094342011410088, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Leith, C. E.: Atmospheric Predictability and Two-Dimensional Turbulence, J. Atmos. Sci., 28, 145–161, https://doi.org/10.1175/1520-0469(1971)028&amp;amp;lt;0145:APATDT&amp;amp;gt;2.0.CO;2, 1971.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Lindzen, R. S.: Turbulence and stress owing to gravity wave and tidal breakdown, J. Geophys. Res., 86, 9707–9714, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1002/jgrd.50705</doi>
+              <unstructured_citation>Lott, F., and Guez, L.: A stochastic parameterization of the gravity waves due to convection and its impact on the equatorial stratosphere, J. Geophys. Res.-Atmos., 118, 8897–8909, https://doi.org/10.1002/jgrd.50705, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1007/s00382-005-0064-x</doi>
+              <unstructured_citation>Lott, F., Fairhead, L., Hourdin, F., and Levan, P.: The stratospheric version of LMDz: dynamical climatologies, arctic oscillation, and impact on the surface climate, Clim. Dynam., 25, 851–868, https://doi.org/10.1007/s00382-005-0064-x, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1029/2012GL051001</doi>
+              <unstructured_citation>Lott, F., Guez, L., and Maury, P.: A stochastic parameterization of non-orographic gravity waves, Formalism and impact on the equatorial stratosphere, Geophys. Res. Lett., 39, L06807, https://doi.org/10.1029/2012GL051001, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1002/2013JD020797</doi>
+              <unstructured_citation>Lott, F., Denvil, S., Butchart, N., Cagnazzo, C., Giorgetta, M., Hardiman, S., Manzini, E., Krishmer, T. T., Duvel, J.-P., Maury, P., Scinocca, J., Watanabe, S., and Yukimoto, S.: Kelvin and Rossby gravity wave packets in the lower stratosphere of some high-top CMIP5 models, J. Geophys. Res., 119, 2156–2173, https://doi.org/10.1002/2013JD020797, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/2011GL050771</doi>
+              <unstructured_citation>Manzini, E., Cagnazzo, C., Fogli, P. G., Bellucci, A., and Müller, W. A.: Stratosphere-troposphere coupling at inter-decadal time scales: Implications for the North Atlantic Ocean, Geophys. Res. Lett., 39, L05801, https://doi.org/10.1029/2011GL050771, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1175/JCLI-D-12-00558.1</doi>
+              <unstructured_citation>Marsh, D. R., Mills, M. J., Kinnison, D. E., Lamarque, J.-F., Calvo, N., and Polvani, L. M.: Climate change from 1850 to 2005 simulated in CESM1(WACCM), J. Climate, 26, 7372–7391, https://doi.org/10.1175/JCLI-D-12-00558.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1175/MWR-D-14-00208.1</doi>
+              <unstructured_citation>McCormack, J. P., Eckermann, S. D., and Hogan, T. F.: Generation of a quasi-biennial oscillation in an NWP model using a stochastic gravity wave drag parameterization, Mon. Weather Rev., 143, 2121–2147, https://doi.org/10.1175/MWR-D-14-00208.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1029/RG020i004p00851</doi>
+              <unstructured_citation>Mellor, G. L. and Yamada, T.: Development of a turbulence closure model for geostrophic fluid problems, Rev. Geophys., 20, 851–875, https://doi.org/10.1029/RG020i004p00851, 1982.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.5194/gmd-8-1339-2015</doi>
+              <unstructured_citation>Molod, A., Takacs, L., Suarez, M., and Bacmeister, J.: Development of the GEOS-5 atmospheric general circulation model: evolution from MERRA to MERRA2, Geosci. Model Dev., 8, 1339–1356, https://doi.org/10.5194/gmd-8-1339-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/gmd-10-639-2017</doi>
+              <unstructured_citation>Morgenstern, O., Hegglin, M. I., Rozanov, E., O'Connor, F. M., Abraham, N. L., Akiyoshi, H., Archibald, A. T., Bekki, S., Butchart, N., Chipperfield, M. P., Deushi, M., Dhomse, S. S., Garcia, R. R., Hardiman, S. C., Horowitz, L. W., Jöckel, P., Josse, B., Kinnison, D., Lin, M., Mancini, E., Manyin, M. E., Marchand, M., Marécal, V., Michou, M., Oman, L. D., Pitari, G., Plummer, D. A., Revell, L. E., Saint-Martin, D., Schofield, R., Stenke, A., Stone, K., Sudo, K., Tanaka, T. Y., Tilmes, S., Yamashita, Y., Yoshida, K., and Zeng, G.: Review of the global models used within phase 1 of the Chemistry–Climate Model Initiative (CCMI), Geosci. Model Dev., 10, 639–671, https://doi.org/10.5194/gmd-10-639-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1002/2016GL070373</doi>
+              <unstructured_citation>Newman, P. A., Coy, L., Pawson, S., and Lait, L. R.: The anomalous change in the QBO in 2015–2016, Geophys. Res. Lett., 43, 8791–8797, https://doi.org/10.1002/2016GL070373, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Nordeng, T. E.: Extended versions of the convective parametriza- tion scheme at ECMWF and their impact on the mean and transient activity of the model in the tropics, Tech. Rep., 206, ECWMF, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1175/2010JCLI3490.1</doi>
+              <unstructured_citation>Orr, A., Bechtold, P., Scinocca, J., Ern, M., and Janiskova, M.: Improved middle atmosphere climate and forecasts in the ECMWF model through a nonorographic gravity wave drag parameterization, J. Climate, 23, 5905–5926, https://doi.org/10.1175/2010JCLI3490.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Osprey, S., Bell, C., Cionni, I., Eyring, V., and Lamarque, J.-F.: AC&amp;amp;amp;C/SPARC Ozone Database for CMIP5 – Hitop Version [Data set], Zenodo, https://doi.org/10.5281/zenodo.1035142, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1175/JCLI-D-12-00147.1</doi>
+              <unstructured_citation>Osprey, S. M., Gray, L. J., Hardiman, S. C., Butchart, N., and Hinton, T. J.: Stratospheric variability in twentieth-century CMIP5 simulations of the Met Office climate model: high top versus low top, J. Climate, 26, 1595–1606, https://doi.org/10.1175/JCLI-D-12-00147.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Osprey, S. M., Butchart, N., Knight, J. R., Scaife, A. A., Hamilton, K., Anstey, J. A., Schenzinger, V., and Zhang, C.: An unexpected disruption of the atmospheric quasi-biennial oscillation, Science, 353, 1424–1427, 10.1126/science.aah4156, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1002/2013GL058051</doi>
+              <unstructured_citation>Pohlmann, H., Müller, W. A., Kulkarni, K., Kameswarrao, M., Matei, D., Vamborg, F. S. E., Kadow, C., Illing, S., and Marotzke, J.: Improved forecast skill in the tropics in the new MiKlip decadal climate predictions, Geophys. Res. Lett., 40, 5798–5802, https://doi.org/10.1002/2013GL058051, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1002/qj.2714</doi>
+              <unstructured_citation>Rajendran, K., Moroz, I. M., Read, P. L., and Osprey, S. M.: Synchronisation of the equatorial QBO by the annual cycle in tropical upwelling in a warming climate, Q. J. Roy. Meteor. Soc., 142, 1111–1120, https://doi.org/10.1002/qj.2714, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1175/2009JAS3112.1</doi>
+              <unstructured_citation>Richter, J. H., Sassi, F., and Garcia, R. R.: Towards a physically based gravity wave source parameterization in a general circulation model, J. Atmos. Sci., 67, 136–156, https://doi.org/10.1175/2009JAS3112.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1002/2013JD021122</doi>
+              <unstructured_citation>Richter, J. H., Solomon, A., and Bacmeister, J. T.: On the simulation of the quasi-biennial oscillation in the Community Atmosphere Model, version 5, J. Geophys. Res.-Atmos., 119, 3045–3062, https://doi.org/10.1002/2013JD021122, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1002/2014JD021678</doi>
+              <unstructured_citation>Rind, D., Jonas, J., Balachandran, N. K., Schmidt, G. A., and Lean, J.: The QBO in two GISS global climate models: 1. Generation of the QBO, J. Geophys. Res.-Atmos., 119, 8798–8824, https://doi.org/10.1002/2014JD021678, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Roeckner, E., Bäuml, G.,Bonaventura, L., Brokopf, R., Esch, M., Giorgetta, M., Hagemann, S., Kirchner, I., Kornblueh, L., Manzini, E., Rhodin, A., Schlese, U., Schulzweida, U., and Tompkins, A.: The atmospheric general circulation model ECHAM5 – Part I: Model description, Tech. Rep. 349, Max-Planck- Institut für Meteorologie, Hamburg, Germany, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1029/2000GL011625</doi>
+              <unstructured_citation>Scaife, A. A., Butchart, N., Warner, C. D., Stainforth, D., Norton W., and Austin, J.: Realistic quasi-biennial oscillations in a simulation of the global climate, Geophys. Res. Lett., 27, 3481–3484, https://doi.org/10.1029/2000GL011625, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Scaife, A. A., Butchart, N., Warner, C. D., and Swinbank, R.: Impact of a spectral gravity wave parameterization on the stratosphere in the Met Office Unified Model, J. Atmos. Sci., 59, 1473–1489, https://doi.org/10.1175/1520-0469(2002)059&amp;amp;lt;1473:IOASGW&amp;amp;gt;2.0.CO;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1002/2013GL059160</doi>
+              <unstructured_citation>Scaife, A. A., Athanassiadou, M., Andrews, M., Arribas, A., Baldwin, M., Dunstone, N., Knight, J., MacLachlan, C., Manzini, E., Müller, W. A. Pohlmann, H., Smith, D., Stockdale, T., and Williams, A.: Predictability of the quasi-biennial oscillation and its northern winter teleconnection on seasonal to decadal timescales, Geophys. Res. Lett., 41, 1752–1758, https://doi.org/10.1002/2013GL059160, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.5194/gmd-10-2157-2017</doi>
+              <unstructured_citation>Schenzinger, V., Osprey, S., Gray, L., and Butchart, N.: Defining metrics of the Quasi-Biennial Oscillation in global climate models, Geosci. Model Dev., 10, 2157–2168, https://doi.org/10.5194/gmd-10-2157-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1002/2013MS000286</doi>
+              <unstructured_citation>Schirber, S., Manzini, E., and Alexander, M. J.: A convection-based gravity wave parameterization in a general circulation model: Implementation and improvements on the QBO, J. Adv. Model. Earth Sy., 6, 264–279, https://doi.org/10.1002/2013MS000286, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.1007/s00382-014-2314-2</doi>
+              <unstructured_citation>Schirber, S., Manzini, E., Krismer, T., and Giorgetta, M.: The quasi-biennial oscillation in a warmer climate: sensitivity to different gravity wave parameterizations, Clim. Dynam., 45, 825–836, https://doi.org/10.1007/s00382-014-2314-2, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1002/jame.20014</doi>
+              <unstructured_citation>Schmidt, H., Rast, S., Bunzel, F., Esch, M., Giorgetta, M., Kinne, S., Krismer, T., Stenchikov, G., Timmreck, C., Tomassini, L., and Walz, M.: Response of the middle atmosphere to anthropogenic and natural forcings in the CMIP5 simulations with the Max Planck Institute Earth system model, J. Adv. Model. Earth Sy., 5, 98–116, https://doi.org/10.1002/jame.20014, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Scinocca, J. F.: An accurate spectral nonorographic gravity wave drag parameterization for general circulation models, J. Atmos. Sci., 60, 667–682, https://doi.org/10.1175/1520-0469(2003)060&amp;amp;lt;0667:AASNGW&amp;amp;gt;2.0.CO;2, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.5194/acp-8-7055-2008</doi>
+              <unstructured_citation>Scinocca, J. F., McFarlane, N. A., Lazare, M., Li, J., and Plummer, D.: Technical Note: The CCCma third generation AGCM and its extension into the middle atmosphere, Atmos. Chem. Phys., 8, 7055–7074, https://doi.org/10.5194/acp-8-7055-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <unstructured_citation>Serva, F., Cagnazzo, C., Riccio, A., and Manzini, E.: Impact of a stochastic nonorographic gravity wave parameterization on the stratospheric dynamics of a General Circulation Model, J. Adv. Model. Earth Sy., submitted, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.1175/JAS-9999.1</doi>
+              <unstructured_citation>Shepherd, T. G., Plumb, R. A., and Wofsy, S. C.: Preface to J. Atmos. Sci. special issue on the Antarctic stratospheric sudden warming and split ozone hole of 2002, J. Atmos. Sci., 62, 565–566, https://doi.org/10.1175/JAS-9999.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1029/2005GL022885</doi>
+              <unstructured_citation>Shibata, K. and Deushi, M.: Partitioning between resolved wave forcing and unresolved gravity wave forcing to the quasi-biennial oscillation as revealed with a coupled chemistry-climate model, Geophys. Res. Lett., 32, L12820, https://doi.org/10.1029/2005GL022885, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.1002/qj.763</doi>
+              <unstructured_citation>Shutts, G. J. and Vosper, S. B.: Stratospheric gravity waves revealed in NWP model forecasts, Q. J. Roy. Meteor. Soc., 137, 303–317, https://doi.org/10.1002/qj.763, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.1002/2015GL063759</doi>
+              <unstructured_citation>Strahan, S. E., Oman, L. D., Douglass, A. R., and Coy, L.: Modulation of Antarctic vortex composition by the quasi-biennial oscillation, Geophys. Res. Lett., 42, 4216–4223, https://doi.org/10.1002/2015GL063759, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <unstructured_citation>Takahashi, M.: Simulation of the stratospheric quasi-biennial oscillation using a general circulation model, Geophys. Res. Lett., 23, 661–664, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An overview of CMIP5 and the experiment design, B. Am. Meteorol. Soc., 93, 485–498, https://doi.org/10.1175/BAMS-D-11-00094.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <unstructured_citation>Tiedtke, M.: A comprehensive mass flux scheme for cumulus parameterization in large-scale models, Mon. Weather Rev., 117, 1779–1800, https://doi.org/10.1175/1520-0493(1989)117&amp;amp;lt;1779:ACMFSF&amp;amp;gt;2.0.CO;2, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.5194/gmd-10-1487-2017</doi>
+              <unstructured_citation>Walters, D., Boutle, I., Brooks, M., Melvin, T., Stratton, R., Vosper, S., Wells, H., Williams, K., Wood, N., Allen, T., Bushell, A., Copsey, D., Earnshaw, P., Edwards, J., Gross, M., Hardiman, S., Harris, C., Heming, J., Klingaman, N., Levine, R., Manners, J., Martin, G., Milton, S., Mittermaier, M., Morcrette, C., Riddick, T., Roberts, M., Sanchez, C., Selwood, P., Stirling, A., Smith, C., Suri, D., Tennant, W., Vidale, P. L., Wilkinson, J., Willett, M., Woolnough, S., and Xavier, P.: The Met Office Unified Model Global Atmosphere 6.0/6.1 and JULES Global Land 6.0/6.1 configurations, Geosci. Model Dev., 10, 1487–1520, https://doi.org/10.5194/gmd-10-1487-2017, 2017a.</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.5194/gmd-2017-291</doi>
+              <unstructured_citation>Walters, D., Baran, A., Boutle, I., Brooks, M., Earnshaw, P., Edwards, J., Furtado, K., Hill, P., Lock, A., Manners, J., Morcrette, C., Mulcahy, J., Sanchez, C., Smith, C., Stratton, R., Tennant, W., Tomassini, L., Van Weverberg, K., Vosper, S., Willett, M., Browse, J., Bushell, A., Dalvi, M., Essery, R., Gedney, N., Hardiman, S., Johnson, B., Johnson, C., Jones, A., Mann, G., Milton, S., Rumbold, H., Sellar, A., Ujiie, M., Whitall, M., Williams, K., and Zerroukat, M.: The Met Office Unified Model Global Atmosphere 7.0/7.1 and JULES Global Land 7.0 configurations, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2017-291, in review, 2017b.</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <unstructured_citation>Warner, C. D. and McIntyre, M. E.: On the propagation and dissipation of gravity wave spectra through a realistic middle atmosphere, J. Atmos. Sci., 53, 3213–3235, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <unstructured_citation>Warner, C. D. and McIntyre, M. E.: Toward an ultra-simple spectral gravity wave parameterization for general circulation models, Earth Planets Space, 51, 475–484, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.5194/gmd-4-845-2011</doi>
+              <unstructured_citation>Watanabe, S., Hajima, T., Sudo, K., Nagashima, T., Takemura, T., Okajima, H., Nozawa, T., Kawase, H., Abe, M., Yokohata, T., Ise, T., Sato, H., Kato, E., Takata, K., Emori, S., and Kawamiya, M.: MIROC-ESM 2010: model description and basic results of CMIP5-20c3m experiments, Geosci. Model Dev., 4, 845–872, https://doi.org/10.5194/gmd-4-845-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <unstructured_citation>WMO: Scientific Assessment of Ozone Depletion 2010. Global Ozone Research and Monitoring Project Report, 52. World Meteorological Organisation, Geneva, Switzerland, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <unstructured_citation>WMO: Scientific Assessment of Ozone Depletion 2014. Global Ozone Research and Monitoring Project Report, 55. World Meteorological Organisation, Geneva, Switzerland, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.1175/JAS-D-14-0236.1</doi>
+              <unstructured_citation>Yao, W. and Jablonowski, C.: Idealized quasi-biennial oscillations in an ensemble of dry GCM dynamical cores, J. Atmos. Sci., 72, 2201–2226, https://doi.org/10.1175/JAS-D-14-0236.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.1175/MWR-D-14-00068.1</doi>
+              <unstructured_citation>Yoshimura, H., Mizuta, R., and Murakami, H.: A spectral cumulus parameterization scheme interpolating between two convective updrafts with semi-Lagrangian calculation of transport by compensatory subsidence, Mon. Weather Rev., 14, 597–621, https://doi.org/10.1175/MWR-D-14-00068.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <doi provider="crossref">10.2151/jmsj.2012-A02</doi>
+              <unstructured_citation>Yukimoto, S., Adachi, Y., Hosaka, M., Sakami, T., Yoshimura, H., Hirabara, M., Tanaka, T. Y., Shindo, E., Tsujino, H., Deushi, M., Mizuta, R., Yabu, S., Obata, A., Nakano, H., Koshiro, T., Ose, T., and Kitoh, A.: A new global climate model of the Meteorological Research Institute: MRI-CGCM3 -Model description and basic performance-, J. Meterol. Soc. Jpn., 90A, 23–64, https://doi.org/10.2151/jmsj.2012-A02, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.1080/07055900.1995.9649539</doi>
+              <unstructured_citation>Zhang, G. and McFarlane, N. A.: Sensitivity of climate simulations to the parameterization of cumulus convection in the Canadian Climate Centre general circulation model, Atmos.-Ocean, 33, 407–446, https://doi.org/10.1080/07055900.1995.9649539, 1995.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/gmd-11-1009-2018-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/11/1009/2018/gmd-11-1009-2018-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

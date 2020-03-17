@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2019-12-24 12:38:57">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Advances in Modeling Earth Systems</full_title>
+          <abbrev_title>J. Adv. Model. Earth Syst.</abbrev_title>
+          <issn media_type="print">1942-2466</issn>
+          <issn media_type="electronic">1942-2466</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>23</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>10</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The GFDL Global Ocean and Sea Ice Model OM4.0: Model Description and Simulation Features</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Alistair</given_name>
+              <surname>Adcroft</surname>
+              <affiliation>Program in Atmospheric and Oceanic SciencesPrinceton University Princeton NJ USA</affiliation>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-9413-1017</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Whit</given_name>
+              <surname>Anderson</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-1550-1292</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>V.</given_name>
+              <surname>Balaji</surname>
+              <affiliation>Program in Atmospheric and Oceanic SciencesPrinceton University Princeton NJ USA</affiliation>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-7561-5438</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Chris</given_name>
+              <surname>Blanton</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <affiliation>SAIC/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0785-3538</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Mitchell</given_name>
+              <surname>Bushuk</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0063-1465</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Carolina O.</given_name>
+              <surname>Dufour</surname>
+              <affiliation>Department of Atmospheric and Oceanic SciencesMcGill University Montreal Quebec Canada</affiliation>
+              <ORCID>https://orcid.org/0000-0002-1441-3880</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>John P.</given_name>
+              <surname>Dunne</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-8794-0489</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Stephen M.</given_name>
+              <surname>Griffies</surname>
+              <affiliation>Program in Atmospheric and Oceanic SciencesPrinceton University Princeton NJ USA</affiliation>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-3711-236X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Robert</given_name>
+              <surname>Hallberg</surname>
+              <affiliation>Program in Atmospheric and Oceanic SciencesPrinceton University Princeton NJ USA</affiliation>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Matthew J.</given_name>
+              <surname>Harrison</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-7991-454X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Isaac M.</given_name>
+              <surname>Held</surname>
+              <affiliation>Program in Atmospheric and Oceanic SciencesPrinceton University Princeton NJ USA</affiliation>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-6744-439X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Malte F.</given_name>
+              <surname>Jansen</surname>
+              <affiliation>Department of the Geophysical SciencesUniversity of Chicago Chicago IL USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-6479-8651</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jasmin G.</given_name>
+              <surname>John</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-2696-277X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>John P.</given_name>
+              <surname>Krasting</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-4650-9844</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Amy R.</given_name>
+              <surname>Langenhorst</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Sonya</given_name>
+              <surname>Legg</surname>
+              <affiliation>Program in Atmospheric and Oceanic SciencesPrinceton University Princeton NJ USA</affiliation>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-7921-9093</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Zhi</given_name>
+              <surname>Liang</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0145-8078</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Colleen</given_name>
+              <surname>McHugh</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <affiliation>SAIC/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-0560-3225</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Aparna</given_name>
+              <surname>Radhakrishnan</surname>
+              <affiliation>SAIC/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-2843-931X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Brandon G.</given_name>
+              <surname>Reichl</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-9047-0767</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Tony</given_name>
+              <surname>Rosati</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Bonita L.</given_name>
+              <surname>Samuels</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew</given_name>
+              <surname>Shao</surname>
+              <affiliation>Canadian Centre for Climate Modeling and AnalysisUniversity of Victoria Victoria British Columbia Canada</affiliation>
+              <ORCID>https://orcid.org/0000-0003-3658-512X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ronald</given_name>
+              <surname>Stouffer</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <affiliation>Department of GeosciencesUniversity of Arizona Tucson AZ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-7900-6290</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Michael</given_name>
+              <surname>Winton</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-7982-0260</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew T.</given_name>
+              <surname>Wittenberg</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-1680-8963</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Baoqiang</given_name>
+              <surname>Xiang</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <affiliation>Cooperative Programs for the Advancement of Earth System ScienceUniversity Corporation for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-5774-7437</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Niki</given_name>
+              <surname>Zadeh</surname>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <affiliation>SAIC/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0025-0769</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Rong</given_name>
+              <surname>Zhang</surname>
+              <affiliation>Program in Atmospheric and Oceanic SciencesPrinceton University Princeton NJ USA</affiliation>
+              <affiliation>NOAA/GFDL Princeton NJ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-8493-6556</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>18</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>10</month>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>3167</first_page>
+            <last_page>3211</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1029/2019MS001726</identifier>
+          </publisher_item>
+          <crossmark>
+            <crossmark_version>2</crossmark_version>
+            <crossmark_policy>10.1002/crossmark_policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>onlinelibrary.wiley.com</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+            <custom_metadata>
+              <assertion group_label="Publication History" group_name="publication_history" label="Received" name="received" order="0">2019-04-29</assertion>
+              <assertion group_label="Publication History" group_name="publication_history" label="Accepted" name="accepted" order="1">2019-08-22</assertion>
+              <assertion group_label="Publication History" group_name="publication_history" label="Published" name="published" order="2">2019-10-18</assertion>
+              <program name="fundref">
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Oceanic and Atmospheric Administration
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000192</assertion>
+                  </assertion>
+                  <assertion name="award_number">NA14OAR4320106</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    Natural Sciences and Engineering Research Council of Canada
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000038</assertion>
+                  </assertion>
+                  <assertion name="award_number">RGPIN-2018-04985</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Science Foundation
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+                  </assertion>
+                  <assertion name="award_number">1536350</assertion>
+                </assertion>
+              </program>
+              <program name="AccessIndicators">
+                <license_ref applies_to="am" start_date="2020-10-17">http://creativecommons.org/licenses/by/4.0/</license_ref>
+                <license_ref applies_to="vor" start_date="2019-10-18">http://creativecommons.org/licenses/by/4.0/</license_ref>
+                <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <doi_data>
+            <doi>10.1029/2019MS001726</doi>
+            <resource>https://onlinelibrary.wiley.com/doi/abs/10.1029/2019MS001726</resource>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://onlinelibrary.wiley.com/doi/pdf/10.1029/2019MS001726</resource>
+              </item>
+            </collection>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://onlinelibrary.wiley.com/doi/pdf/10.1029/2019MS001726</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">https://onlinelibrary.wiley.com/doi/pdf/10.1029/2019MS001726</resource>
+              </item>
+              <item>
+                <resource mime_type="application/xml">https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2019MS001726</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="e_1_2_7_2_1">
+              <doi>10.1016/j.ocemod.2003.09.003</doi>
+            </citation>
+            <citation key="e_1_2_7_3_1">
+              <doi>10.1016/j.ocemod.2004.12.007</doi>
+            </citation>
+            <citation key="e_1_2_7_4_1">
+              <doi>10.1016/j.ocemod.2008.02.001</doi>
+            </citation>
+            <citation key="e_1_2_7_5_1">
+              <unstructured_citation>Antonov J. I. Locarnini R. A. Boyer T. P. Mishonov A. V. &amp;Garcia H. E.(2006).World Ocean Atlas 2005 Volume 1: Salinity(61).Washington DC: U.S. Government Printing Office.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_6_1">
+              <doi>10.1175/1520-0493(1981)109&lt;0018:APEAEC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_7_1">
+              <doi>10.1007/978-3-642-23360-9_5</doi>
+            </citation>
+            <citation key="e_1_2_7_8_1">
+              <unstructured_citation>Balaji V. Adcroft A. &amp;Liang Z.(2007).Gridspec: A standard for the description of grids used in earth system models.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_9_1">
+              <doi>10.5194/gmd-10-19-2017</doi>
+            </citation>
+            <citation key="e_1_2_7_10_1">
+              <doi>10.1175/1520-0485(1997)027&lt;1654:MASOTM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_11_1">
+              <doi>10.1007/s00382-007-0249-6</doi>
+            </citation>
+            <citation key="e_1_2_7_12_1">
+              <doi>10.1007/s00382-008-0429-z</doi>
+            </citation>
+            <citation key="e_1_2_7_13_1">
+              <doi>10.1029/1999JC000113</doi>
+            </citation>
+            <citation key="e_1_2_7_14_1">
+              <doi>10.1029/1999JC900100</doi>
+            </citation>
+            <citation key="e_1_2_7_15_1">
+              <doi>10.1016/S1463-5003(01)00012-9</doi>
+            </citation>
+            <citation key="e_1_2_7_16_1">
+              <doi>10.1175/JPO3101.1</doi>
+            </citation>
+            <citation key="e_1_2_7_17_1">
+              <doi>10.1016/j.ocemod.2013.05.013</doi>
+            </citation>
+            <citation key="e_1_2_7_18_1">
+              <doi>10.1016/j.ocemod.2009.01.004</doi>
+            </citation>
+            <citation key="e_1_2_7_19_1">
+              <unstructured_citation>Briegleb B. P. &amp;Light B.(2007).A Delta‐Eddington mutiple scattering parameterization for solar radiation in the sea ice component of the community climate system model | OpenSky repository(NCAR/TN‐472+STR).Colorado: NCAR. https://doi.org/10.5065/D6B27S71</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_20_1">
+              <doi provider="crossref">10.5067/8GQ8LZQVL0VL</doi>
+              <unstructured_citation>Cavalieri D. J. Parkinson C. L. Gloersen P. &amp;Zwally H. J.(1996).Sea ice concentrations from Nimbus‐7 SMMR and DMSP SSM/I‐SSMIS passive microwave data Version 1. National Snow and Ice Data Center.https://doi.org/10.5067/8GQ8LZQVL0VL</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_21_1">
+              <doi>10.1175/1520-0485(2003)033&lt;2504:NASWTH&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_22_1">
+              <doi>10.1016/0021-9991(84)90143-8</doi>
+            </citation>
+            <citation key="e_1_2_7_23_1">
+              <doi>10.1126/science.1141304</doi>
+            </citation>
+            <citation key="e_1_2_7_24_1">
+              <doi>10.1029/2010JC006243</doi>
+            </citation>
+            <citation key="e_1_2_7_25_1">
+              <doi>10.1126/science.264.5162.1123</doi>
+            </citation>
+            <citation key="e_1_2_7_26_1">
+              <doi>10.1016/j.ocemod.2013.10.005</doi>
+            </citation>
+            <citation key="e_1_2_7_27_1">
+              <doi>10.1002/ggge.20271</doi>
+            </citation>
+            <citation key="e_1_2_7_28_1">
+              <doi>10.1029/2004JC002378</doi>
+            </citation>
+            <citation key="e_1_2_7_29_1">
+              <doi>10.1038/nclimate2132</doi>
+            </citation>
+            <citation key="e_1_2_7_30_1">
+              <doi>10.1175/JCLI3629.1</doi>
+            </citation>
+            <citation key="e_1_2_7_31_1">
+              <doi>10.1175/JCLI-D-11-00316.1</doi>
+            </citation>
+            <citation key="e_1_2_7_32_1">
+              <doi>10.1007/s00382-002-0249-5</doi>
+            </citation>
+            <citation key="e_1_2_7_33_1">
+              <doi>10.1002/2016GL070319</doi>
+            </citation>
+            <citation key="e_1_2_7_34_1">
+              <doi>10.1175/1520-0485(1994)024&lt;0429:TDCATO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_35_1">
+              <doi>10.1016/j.ocemod.2015.07.022</doi>
+            </citation>
+            <citation key="e_1_2_7_36_1">
+              <doi>10.1175/JCLI-D-12-00504.1</doi>
+            </citation>
+            <citation key="e_1_2_7_37_1">
+              <doi>10.1175/JPO-D-14-0240.1</doi>
+            </citation>
+            <citation key="e_1_2_7_38_1">
+              <doi>10.1175/JCLI-D-11-00309.1</doi>
+            </citation>
+            <citation key="e_1_2_7_39_1">
+              <doi>10.1175/JCLI-D-16-0586.1</doi>
+            </citation>
+            <citation key="e_1_2_7_40_1">
+              <doi>10.1006/jcph.2000.6465</doi>
+            </citation>
+            <citation key="e_1_2_7_41_1">
+              <doi>10.1175/JCLI-D-11-00560.1</doi>
+            </citation>
+            <citation key="e_1_2_7_42_1">
+              <doi>10.1175/1520-0426(2002)019&lt;0183:EIMOBO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_43_1">
+              <doi>10.1175/JPO-D-16-0089.1</doi>
+            </citation>
+            <citation key="e_1_2_7_44_1">
+              <doi>10.5194/gmd-9-1937-2016</doi>
+            </citation>
+            <citation key="e_1_2_7_45_1">
+              <doi>10.1175/2010JPO4353.1</doi>
+            </citation>
+            <citation key="e_1_2_7_46_1">
+              <doi>10.1016/j.ocemod.2015.07.009</doi>
+            </citation>
+            <citation key="e_1_2_7_47_1">
+              <doi>10.1016/j.ocemod.2010.01.004</doi>
+            </citation>
+            <citation key="e_1_2_7_48_1">
+              <doi>10.1016/j.ocemod.2010.09.002</doi>
+            </citation>
+            <citation key="e_1_2_7_49_1">
+              <doi>10.1175/JCLI-D-14-00117.1</doi>
+            </citation>
+            <citation key="e_1_2_7_50_1">
+              <doi>10.1175/1520-0442(2003)016&lt;0696:LSOHAF&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_51_1">
+              <doi>10.1175/1520-0485(1995)025&lt;0463:PEITTI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_52_1">
+              <doi>10.1175/1520-0485(2003)033&lt;1351:DAMOTO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_53_1">
+              <doi>10.1175/JCLI3630.1</doi>
+            </citation>
+            <citation key="e_1_2_7_54_1">
+              <volume_title>Fundamentals of ocean climate models</volume_title>
+              <author>Griffies S. M.</author>
+              <first_page>518+xxxiv</first_page>
+              <cYear>2004</cYear>
+            </citation>
+            <citation key="e_1_2_7_55_1">
+              <doi>10.1016/j.ocemod.2008.08.007</doi>
+            </citation>
+            <citation key="e_1_2_7_56_1">
+              <doi>10.1016/S1463-5003(00)00014-7</doi>
+            </citation>
+            <citation key="e_1_2_7_57_1">
+              <doi>10.5194/gmd-9-3231-2016</doi>
+            </citation>
+            <citation key="e_1_2_7_58_1">
+              <doi>10.5194/os-1-45-2005</doi>
+            </citation>
+            <citation key="e_1_2_7_59_1">
+              <doi>10.1175/1520-0493(2000)128&lt;2935:BFWASL&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_60_1">
+              <doi>10.1175/1520-0493(2000)128&lt;0538:SDMAWA&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_61_1">
+              <doi>10.1175/JCLI-D-14-00353.1</doi>
+            </citation>
+            <citation key="e_1_2_7_62_1">
+              <doi>10.1175/2011JCLI3964.1</doi>
+            </citation>
+            <citation key="e_1_2_7_63_1">
+              <doi>10.1175/1520-0485(1997)027&lt;0977:LCBSAB&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_64_1">
+              <doi>10.1016/j.ocemod.2013.08.007</doi>
+            </citation>
+            <citation key="e_1_2_7_65_1">
+              <doi>10.1016/j.ocemod.2009.02.008</doi>
+            </citation>
+            <citation key="e_1_2_7_66_1">
+              <doi>10.1175/JPO2980.1</doi>
+            </citation>
+            <citation key="e_1_2_7_67_1">
+              <doi>10.1175/2008JPO3708.1</doi>
+            </citation>
+            <citation key="e_1_2_7_68_1">
+              <doi>10.1029/JC091iC07p08487</doi>
+            </citation>
+            <citation key="e_1_2_7_69_1">
+              <doi>10.1002/grl.50287</doi>
+            </citation>
+            <citation key="e_1_2_7_70_1">
+              <doi>10.1016/j.ocemod.2017.11.002</doi>
+            </citation>
+            <citation key="e_1_2_7_71_1">
+              <doi>10.1175/1520-0485(1979)009&lt;0815:ADTSIM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_72_1">
+              <doi>10.1006/jcph.1997.5702</doi>
+            </citation>
+            <citation key="e_1_2_7_73_1">
+              <doi>10.1002/2014JC010470</doi>
+            </citation>
+            <citation key="e_1_2_7_74_1">
+              <doi>10.1175/1520-0485(1997)027&lt;1153:ETOTAM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_75_1">
+              <unstructured_citation>Hunke E. &amp;Lipscomb W.(2010).CICE: The Los Alamos sea ice model documentation and software user's manual version 4.1(LA‐CC‐06‐012): Los Alamos National Laboratory Technical.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_76_1">
+              <unstructured_citation>IOC SCOR &amp;IAPSO(2010).The international thermodynamic equation of seawater‐2010: Calculation and use of thermodynamic properties. Intergovernmental Oceanographic Commission Manuals and Guides No. 56 UNESCO 196.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_77_1">
+              <doi>10.1016/j.ocemod.2011.10.003</doi>
+            </citation>
+            <citation key="e_1_2_7_78_1">
+              <doi>10.1175/2007JPO3779.1</doi>
+            </citation>
+            <citation key="e_1_2_7_79_1">
+              <doi>10.1029/2012GL052219</doi>
+            </citation>
+            <citation key="e_1_2_7_80_1">
+              <doi>10.1016/j.ocemod.2015.05.007</doi>
+            </citation>
+            <citation key="e_1_2_7_81_1">
+              <doi>10.5670/oceanog.2016.103</doi>
+            </citation>
+            <citation key="e_1_2_7_82_1">
+              <doi>10.1175/2010JCLI3997.1</doi>
+            </citation>
+            <citation key="e_1_2_7_83_1">
+              <doi>10.1002/qj.49712353813</doi>
+            </citation>
+            <citation key="e_1_2_7_84_1">
+              <doi>10.1175/1520-0493(1974)102&lt;0509:VVCSUF&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_85_1">
+              <doi>10.1175/1520-0485(1992)022&lt;1379:AEBMIT&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_86_1">
+              <doi>10.1029/94RG01872</doi>
+            </citation>
+            <citation key="e_1_2_7_87_1">
+              <doi>10.1007/s00382-008-0441-3</doi>
+            </citation>
+            <citation key="e_1_2_7_88_1">
+              <doi>10.1016/j.ocemod.2011.02.001</doi>
+            </citation>
+            <citation key="e_1_2_7_89_1">
+              <doi>10.1175/1520-0485(2002)032&lt;1522:SDMOTD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_90_1">
+              <doi>10.1175/2008BAMS2667.1</doi>
+            </citation>
+            <citation key="e_1_2_7_91_1">
+              <doi>10.1016/j.ocemod.2004.11.006</doi>
+            </citation>
+            <citation key="e_1_2_7_92_1">
+              <unstructured_citation>Locarnini R. A. Mishonov A. V. Antonov J. I. Boyer T. P. &amp;Garcia H. E.(2006).World Ocean Atlas 2005 Volume 1: Temperature(61).Washington DC: U.S. Government Printing Office.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_93_1">
+              <doi>10.1111/j.2153-3490.1960.tb01323.x</doi>
+            </citation>
+            <citation key="e_1_2_7_94_1">
+              <doi>10.1175/1520-0442(1991)004&lt;0785:TROACO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_95_1">
+              <doi>10.1175/1520-0442(2003)016&lt;4134:TITSAM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_96_1">
+              <doi>10.1175/1520-0485(2003)033&lt;2341:RSFTAC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_97_1">
+              <doi>10.1016/j.ocemod.2010.05.001</doi>
+            </citation>
+            <citation key="e_1_2_7_98_1">
+              <doi>10.1016/j.jmarsys.2014.10.007</doi>
+            </citation>
+            <citation key="e_1_2_7_99_1">
+              <doi>10.1016/j.dsr.2004.11.018</doi>
+            </citation>
+            <citation key="e_1_2_7_100_1">
+              <doi>10.1016/j.pocean.2014.10.006</doi>
+            </citation>
+            <citation key="e_1_2_7_101_1">
+              <doi>10.1175/1520-0485(2001)031&lt;1222:TTRMVP&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_102_1">
+              <doi>10.1029/97JC02906</doi>
+            </citation>
+            <citation key="e_1_2_7_103_1">
+              <doi>10.1016/j.ocemod.2017.11.001</doi>
+            </citation>
+            <citation key="e_1_2_7_104_1">
+              <doi>10.1175/1520-0485(2001)031&lt;1993:TEORAV&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_105_1">
+              <doi>10.1175/2010JCLI3394.1</doi>
+            </citation>
+            <citation key="e_1_2_7_106_1">
+              <doi>10.1175/JPO-D-12-055.1</doi>
+            </citation>
+            <citation key="e_1_2_7_107_1">
+              <doi>10.1175/2011JCLI4204.1</doi>
+            </citation>
+            <citation key="e_1_2_7_108_1">
+              <doi>10.1063/PT.3.2654</doi>
+            </citation>
+            <citation key="e_1_2_7_109_1">
+              <doi>10.1175/JPO-D-12-057.1</doi>
+            </citation>
+            <citation key="e_1_2_7_110_1">
+              <doi>10.1006/jcph.1996.0136</doi>
+            </citation>
+            <citation key="e_1_2_7_111_1">
+              <doi>10.1175/JCLI-D-15-0513.1</doi>
+            </citation>
+            <citation key="e_1_2_7_112_1">
+              <doi>10.1002/2014JC010020</doi>
+            </citation>
+            <citation key="e_1_2_7_113_1">
+              <doi>10.1016/j.ocemod.2014.12.004</doi>
+            </citation>
+            <citation key="e_1_2_7_114_1">
+              <doi>10.1016/j.ocemod.2009.07.006</doi>
+            </citation>
+            <citation key="e_1_2_7_115_1">
+              <doi>10.1175/1520-0485(1982)012&lt;1154:OIMBCR&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_116_1">
+              <doi provider="crossref">10.1016/j.ocemod.2018.10.004</doi>
+              <unstructured_citation>Reichl B. G. &amp;Hallberg R.(2018).A simplified energetics based planetary boundary layer (ePBL) approach for ocean climate simulations.132 112–129.https://doi.org/10.1016/j.ocemod.2018.10.004</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_117_1">
+              <doi>10.1126/science.1070942</doi>
+            </citation>
+            <citation key="e_1_2_7_118_1">
+              <doi>10.1016/S0074-6142(01)80124-8</doi>
+            </citation>
+            <citation key="e_1_2_7_119_1">
+              <volume_title>International geophysics, ocean circulation and climate</volume_title>
+              <author>Rintoul S. R.</author>
+              <first_page>471</first_page>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="e_1_2_7_120_1">
+              <doi>10.1029/JC092iC05p05305</doi>
+            </citation>
+            <citation key="e_1_2_7_121_1">
+              <doi>10.1175/1520-0493(1997)125&lt;0754:TIOOIC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_122_1">
+              <doi>10.1126/science.1097403</doi>
+            </citation>
+            <citation key="e_1_2_7_123_1">
+              <doi>10.1175/1520-0469(1975)032&lt;0680:TDOFDM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_124_1">
+              <doi>10.1002/jgrc.20157</doi>
+            </citation>
+            <citation key="e_1_2_7_125_1">
+              <doi>10.1175/1520-0450-34.1.33</doi>
+            </citation>
+            <citation key="e_1_2_7_126_1">
+              <doi>10.1002/2017GL076350</doi>
+            </citation>
+            <citation key="e_1_2_7_127_1">
+              <doi>10.1175/1520-0485(1971)001&lt;0233:OTROIM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_128_1">
+              <doi>10.1029/2002GL015633</doi>
+            </citation>
+            <citation key="e_1_2_7_129_1">
+              <doi>10.1175/1520-0485(1995)025&lt;1037:ANMOTC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_130_1">
+              <doi>10.1175/1520-0469(1945)002&lt;0227:AQLSOH&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_131_1">
+              <doi>10.1002/2016JC011835</doi>
+            </citation>
+            <citation key="e_1_2_7_132_1">
+              <doi>10.1016/j.ocemod.2017.03.012</doi>
+            </citation>
+            <citation key="e_1_2_7_133_1">
+              <doi>10.1175/1520-0485(1993)023&lt;0776:OTTAAM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_134_1">
+              <doi>10.5670/oceanog.2013.07</doi>
+            </citation>
+            <citation key="e_1_2_7_135_1">
+              <doi>10.1029/JC095iC06p09377</doi>
+            </citation>
+            <citation key="e_1_2_7_136_1">
+              <doi>10.1175/1520-0442(2000)013&lt;1018:AMITEC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_137_1">
+              <doi>10.1175/1520-0442(2001)014&lt;3433:EOMAAO&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_138_1">
+              <unstructured_citation>Umlauf L. Burchard H. &amp;Bolding K.(2005).GOTM: Scientific documentation: Leiniz‐Institute for Baltic Sea Research Marine Science.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_7_139_1">
+              <volume_title>Atmospheric and oceanic fluid dynamics: Fundamentals and large scale circulation</volume_title>
+              <author>Vallis G. K.</author>
+              <first_page>946 + xxv</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1017/9781107588417</doi>
+            </citation>
+            <citation key="e_1_2_7_140_1">
+              <doi>10.1029/2018MS001336</doi>
+            </citation>
+            <citation key="e_1_2_7_141_1">
+              <doi>10.1016/j.ocemod.2015.12.008</doi>
+            </citation>
+            <citation key="e_1_2_7_142_1">
+              <doi>10.1016/j.ocemod.2014.12.005</doi>
+            </citation>
+            <citation key="e_1_2_7_143_1">
+              <doi>10.1080/07055900.2012.704348</doi>
+            </citation>
+            <citation key="e_1_2_7_144_1">
+              <doi>10.1002/2015EA000107</doi>
+            </citation>
+            <citation key="e_1_2_7_145_1">
+              <doi>10.1016/j.jcp.2008.04.026</doi>
+            </citation>
+            <citation key="e_1_2_7_146_1">
+              <doi>10.1016/j.jcp.2009.08.016</doi>
+            </citation>
+            <citation key="e_1_2_7_147_1">
+              <doi>10.1175/1520-0426(2000)017&lt;0525:ARTLSI&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_148_1">
+              <doi>10.1175/1520-0485(1998)028&lt;2163:SODDFD&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_149_1">
+              <doi>10.1029/2018MS001372</doi>
+            </citation>
+            <citation key="e_1_2_7_150_1">
+              <doi>10.1175/1520-0426(1997)014&lt;0735:AEOSFU&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_7_151_1">
+              <doi>10.1029/2011JC007240</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

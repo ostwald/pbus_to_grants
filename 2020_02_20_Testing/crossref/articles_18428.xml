@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-14 18:38:23">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The Pilatus unmanned aircraft system for lower atmospheric research</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Gijs</given_name>
+              <surname>de Boer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Scott</given_name>
+              <surname>Palo</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian</given_name>
+              <surname>Argrow</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gabriel</given_name>
+              <surname>LoDolce</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James</given_name>
+              <surname>Mack</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ru-Shan</given_name>
+              <surname>Gao</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hagen</given_name>
+              <surname>Telg</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Cameron</given_name>
+              <surname>Trussel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joshua</given_name>
+              <surname>Fromm</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Charles N.</given_name>
+              <surname>Long</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Geoff</given_name>
+              <surname>Bland</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James</given_name>
+              <surname>Maslanik</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Beat</given_name>
+              <surname>Schmid</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Terry</given_name>
+              <surname>Hock</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This paper presents details of the University of Colorado (CU) “Pilatus” unmanned research aircraft, assembled to provide measurements of aerosols, radiation and thermodynamics in the lower troposphere. This aircraft has a wingspan of 3.2<span class="thinspace"></span>m and a maximum take-off weight of 25<span class="thinspace"></span>kg, and it is powered by an electric motor to reduce engine exhaust and concerns about carburetor icing. It carries instrumentation to make measurements of broadband up- and downwelling shortwave and longwave radiation, aerosol particle size distribution, atmospheric temperature, relative humidity and pressure and to collect video of flights for subsequent analysis of atmospheric conditions during flight. In order to make the shortwave radiation measurements, care was taken to carefully position a high-quality compact inertial measurement unit (IMU) and characterize the attitude of the aircraft and its orientation to the upward-looking radiation sensor. Using measurements from both of these sensors, a correction is applied to the raw radiometer measurements to correct for aircraft attitude and sensor tilt relative to the sun. The data acquisition system was designed from scratch based on a set of key driving requirements to accommodate the variety of sensors deployed. Initial test flights completed in Colorado provide promising results with measurements from the radiation sensors agreeing with those from a nearby surface site. Additionally, estimates of surface albedo from onboard sensors were consistent with local surface conditions, including melting snow and bright runway surface. Aerosol size distributions collected are internally consistent and have previously been shown to agree well with larger, surface-based instrumentation. Finally the atmospheric state measurements evolve as expected, with the near-surface atmosphere warming over time as the day goes on, and the atmospheric relative humidity decreasing with increased temperature. No directional bias on measured temperature, as might be expected due to uneven heating of the sensor housing over the course of a racetrack pattern, was detected. The results from these flights indicate that the CU Pilatus platform is capable of performing research-grade lower tropospheric measurement missions.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>28</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>1845</first_page>
+            <last_page>1857</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-9-1845-2016</doi>
+            <resource>https://www.atmos-meas-tech.net/9/1845/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/9/1845/2016/amt-9-1845-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Atmospheric System Research (ASR) Science and Program Plan, US Department of Energy, Office of Science, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/amt-8-1627-2015</doi>
+              <unstructured_citation>Altstädter, B., Platis, A., Wehner, B., Scholtz, A., Wildmann, N., Hermann, M., Käthner, R., Baars, H., Bange, J., and Lampert, A.: ALADINA – an unmanned research aircraft for observing vertical and horizontal distributions of ultrafine particles within the atmospheric boundary layer, Atmos. Meas. Tech., 8, 1627–1639, https://doi.org/10.5194/amt-8-1627-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Anderson, T., Charlson, R., Schwartz, S., Knutti, R., Boucher, O., Rodhe, H., and Heintzenberg, J.: Climate forcing by aerosols – a hazy picture, Science, 300, 1103–1104, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Baron, P. and Willeke, K.: Aerosol Measurement: Principles, Techniques and Applications, John Wiley and Sons, New York, NY, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/amt-6-2115-2013</doi>
+              <unstructured_citation>Bates, T. S., Quinn, P. K., Johnson, J. E., Corless, A., Brechtel, F. J., Stalin, S. E., Meinig, C., and Burkhart, J. F.: Measurements of atmospheric aerosol vertical distributions above Svalbard, Norway, using unmanned aerial systems (UAS), Atmos. Meas. Tech., 6, 2115–2120, https://doi.org/10.5194/amt-6-2115-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/acp-11-2423-2011</doi>
+              <unstructured_citation>Brock, C. A., Cozic, J., Bahreini, R., Froyd, K. D., Middlebrook, A. M., McComiskey, A., Brioude, J., Cooper, O. R., Stohl, A., Aikin, K. C., de Gouw, J. A., Fahey, D. W., Ferrare, R. A., Gao, R.-S., Gore, W., Holloway, J. S., Hübler, G., Jefferson, A., Lack, D. A., Lance, S., Moore, R. H., Murphy, D. M., Nenes, A., Novelli, P. C., Nowak, J. B., Ogren, J. A., Peischl, J., Pierce, R. B., Pilewskie, P., Quinn, P. K., Ryerson, T. B., Schmidt, K. S., Schwarz, J. P., Sodemann, H., Spackman, J. R., Stark, H., Thomson, D. S., Thornberry, T., Veres, P., Watts, L. A., Warneke, C., and Wollny, A. G.: Characteristics, sources, and transport of aerosols measured in spring 2008 during the aerosol, radiation, and cloud processes affecting Arctic Climate (ARCPAC) Project, Atmos. Chem. Phys., 11, 2423–2453, https://doi.org/10.5194/acp-11-2423-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2010EO280001</doi>
+              <unstructured_citation>Cassano, J., Maslanik, J., Zappa, C., Gordon, A., Cullather, R., and Knuth, S.: Observations of Antarctic polynya with unmanned aircraft systems, EOS, 91, 245–246, https://doi.org/10.1029/2010EO280001, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/acp-8-737-2008</doi>
+              <unstructured_citation>Corrigan, C. E., Roberts, G. C., Ramana, M. V., Kim, D., and Ramanathan, V.: Capturing vertical profiles of aerosols and black carbon over the Indian Ocean using autonomous unmanned aerial vehicles, Atmos. Chem. Phys., 8, 737–747, https://doi.org/10.5194/acp-8-737-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/BAMS-85-12-1855</doi>
+              <unstructured_citation>Curry, J., Maslanik, J., Holland, G., and Pinto, J.: Applications of Aerosondes in the Arctic, B. Am. Meteorol. Soc., 85, 1855–1861, https://doi.org/10.1175/BAMS-85-12-1855, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/rob.20394</doi>
+              <unstructured_citation>Elston, J., Roadman, J., Stachura, M., Argrow, B., Houston, A., and Frew, E.: The tempest unmnaned aircraft system for in situ observations of tornadic supercells: Design and VORTEX2 flight results, J. Field Robot., 28, 461–483, https://doi.org/10.1002/rob.20394, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1080/02786826.2015.1131809</doi>
+              <unstructured_citation>Gao, R.-S., Telg, H., McLaughlin, R., Ciciora, S., Watts, L., Richardson, M., Schwarz, J., Perring, A., Thornberry, T., Rollins, A., Markovic, M., Bates, T., Johnson, J., and Fahey, D.: A light-weight, high-sensitivity particle spectrometer for PM2.5 aerosol measurements, Aerosol Sci. Technol., 50, 88–99, https://doi.org/10.1080/02786826.2015.1131809, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/2011BAMS3073.1</doi>
+              <unstructured_citation>Houston, A., Argrow, B., Elston, J., Lahowetz, J., Frew, E., and Kennedy, P.: The collaborative Colorado-Nebraska unmanned aircraft system experiment, B. Am. Meteorol. Soc., 93, 39–54, https://doi.org/10.1175/2011BAMS3073.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-7-3917-2014</doi>
+              <unstructured_citation>Intrieri, J. M., de Boer, G., Shupe, M. D., Spackman, J. R., Wang, J., Neiman, P. J., Wick, G. A., Hock, T. F., and Hood, R. E.: Global Hawk dropsonde observations of the Arctic atmosphere obtained during the Winter Storms and Pacific Atmospheric Rivers (WISPAR) field campaign, Atmos. Meas. Tech., 7, 3917–3926, https://doi.org/10.5194/amt-7-3917-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-10-5191-2010</doi>
+              <unstructured_citation>Jacob, D. J., Crawford, J. H., Maring, H., Clarke, A. D., Dibb, J. E., Emmons, L. K., Ferrare, R. A., Hostetler, C. A., Russell, P. B., Singh, H. B., Thompson, A. M., Shaw, G. E., McCauley, E., Pederson, J. R., and Fisher, J. A.: The Arctic Research of the Composition of the Troposphere from Aircraft and Satellites (ARCTAS) mission: design, execution, and first results, Atmos. Chem. Phys., 10, 5191–5212, https://doi.org/10.5194/acp-10-5191-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1073/pnas.1217104110</doi>
+              <unstructured_citation>Jensen, E., Diskin, G., Lawson, R., Lance, S., Bui, T., Hlavka, D., McGill, M., Pfister, L., Toon, O., and Gao, R.-S.: Ice nucleation and dehydration in the tropical tropopause layer, P. Natl. Acad. Sci. USA, 110, 2041–2046, https://doi.org/10.1073/pnas.1217104110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/JTECH-D-12-00089.1</doi>
+              <unstructured_citation>Lawrence, D. and Balsley, B.: High-resolution atmospheric sensing of multiple atmospheric variables using the DataHawk small airborne mesurement system, J. Atmos. Ocean. Technol., 30, 2352–2366, https://doi.org/10.1175/JTECH-D-12-00089.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/BAMS-87-11-1481</doi>
+              <unstructured_citation>Lin, P.-H.: The first succesful typhoon eyewall-penetration reconnaissance flight mission conducted by the unmmaned aerial vehicle, aerosonde, B. Am. Meteorol. Soc., 87, 1481–1483, https://doi.org/10.1175/BAMS-87-11-1481, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.2174/1874282301004010078</doi>
+              <unstructured_citation>Long, C., Bucholtz, A., Jonsson, H., Schmid, B., Vogelmann, A., and Wood, J.: A method of correcting for tilt from horizontal in downwelling shortwave irradiance measurements on moving platforms, Open Atmos. Sci. J., 4, 78–87, https://doi.org/10.2174/1874282301004010078, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/amt-4-705-2011</doi>
+              <unstructured_citation>Martin, S., Bange, J., and Beyrich, F.: Meteorological profiling of the lower troposphere using the research UAV “M2AV Carolo”, Atmos. Meas. Tech., 4, 705–716, https://doi.org/10.5194/amt-4-705-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>McFarquhar, G., Ghan, S., Verlinde, J., Korolev, A., Strapp, J., Schmid, B., Tomlinson, J., Wolde, M., Brooks, S., Cziczo, D., Dubey, M., Fan, J., Flynn, C., Gultepe, I., Hubbe, J., Gilles, M., Laskin, A., Lawson, R., Leaitch, W., Liu, P., Liu, X., Lubin, D., Mazzoleni, C., Macdonald, A.-M., Moffet, R., Morrison, H., Ovchinikov, M., Shupe, M., Turner, D., Xie, S., Zelenyuk, A., Bae, K., Freer, M., and Glen, A.: Indirect and Semi-Direct aerosol campaign: The impact of Arctic aerosols on clouds, B. Am. Meteorol. Soc., 92, 183–201, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2000JC000705</doi>
+              <unstructured_citation>Persson, P., Fairall, C., Andreas, E., Guest, P., and Perovich, D.: Measurements near the atmospheric surface flux group tower at SHEBA: Near-surface conditions and surface energy budget, J. Geophys. Res., 107, 8045, https://doi.org/10.1029/2000JC000705, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1007/s10546-015-0084-y</doi>
+              <unstructured_citation>Platis, A., Altstädter, B., Wehner, B., Wildmann, N., Lampert, A., Hermann, M., Birmili, W., and Bange, J.: An observational case study on the influence of atmospheric boundary-layer dynamics on the new particle formation, Bound.-Lay. Meteorol., 158, 1–26, https://doi.org/10.1007/s10546-015-0084-y, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Raatz, W. and Shaw, G.: Long-range tropospheric transport of pollution aerosols in the Alaskan Arctic, J. Clim. Appl. Meteor., 23, 1052–1064, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/0004-6981(81)90351-6</doi>
+              <unstructured_citation>Rahn, K.: Relative importance of North America and Eurasia as sources of Arctic aerosol, Atmos. Environ., 15, 1447–1455, https://doi.org/10.1016/0004-6981(81)90351-6, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1002/qj.172</doi>
+              <unstructured_citation>Ramana, M., Ramanathan, V., Kim, D., Roberts, G., and Corrigan, C.: Albedo, atmospheric solar absorption and heating rate measurements with stacked UAVs, Q. J. Roy. Meteor. Soc., 133, 1913–1931, https://doi.org/10.1002/qj.172, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.2478/s11600-012-0042-8</doi>
+              <unstructured_citation>Reuder, J., Jonassen, M., and Ólafsson, H.: The small unmanned meteorological observer SUMO: Recent developments and applications of a micro-UAS for atmospheric boundary layer research, Acta Geophys., 60, 1454–1473, https://doi.org/10.2478/s11600-012-0042-8, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Stephens, G., Ellingson, R., Vitko, J., Bolton, W., Tooman, T., Valero, F., Minnis, P., Pilewskie, P., Phipps, G., Sekelsky, S., Carswell, J., Miller, S., Benedetti, A., McCoy, R., McCoy, R., Lederbuhr, A., and Bambha, R.: The Department of Energy's Atmospheric Radiation Measurement (ARM) Unmanned Aerospace Vehicle (UAV) Program, B. Am. Meteorol. Soc., 81, 2915–2938, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Valero, F., Pope, S., Elingson, R., Strawa, A., and Vitko, J.: Determination of clear-sky radiative flux profiles, heating rates and optical depths using unmanned aerospace vehicles as a platform, J. Atmos. Ocean. Technol., 13, 1024–1030, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1007/s10546-011-9662-9</doi>
+              <unstructured_citation>van den Kroonenberg, A., Martin, S., Beyrich, F., and Bange, J.: Spatially-averaged temperature structure parameter over a heterogeneous surface measured by an unmanned aerial vehicle, Bound.-Lay. Meteorol., 142, 55–77, https://doi.org/10.1007/s10546-011-9662-9, 2012.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

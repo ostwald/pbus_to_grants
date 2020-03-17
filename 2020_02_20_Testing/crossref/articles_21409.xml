@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-12 04:46:10">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>17</volume>
+          </journal_volume>
+          <issue>23</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Quantification of CO emissions from the city of Madrid using MOPITT satellite retrievals and WRF simulations</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Iris N.</given_name>
+              <surname>Dekker</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sander</given_name>
+              <surname>Houweling</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ilse</given_name>
+              <surname>Aben</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas</given_name>
+              <surname>Röckmann</surname>
+              <ORCID>https://orcid.org/0000-0002-6688-8968</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Maarten</given_name>
+              <surname>Krol</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sara</given_name>
+              <surname>Martínez-Alonso</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Merritt N.</given_name>
+              <surname>Deeter</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Helen M.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The growth of mega-cities leads to air quality problems directly affecting the citizens. Satellite measurements are becoming of higher quality and quantity, which leads to more accurate satellite retrievals of enhanced air pollutant concentrations over large cities. In this paper, we compare and discuss both an existing and a new method for estimating urban-scale trends in CO emissions using multi-year retrievals from the MOPITT satellite instrument. The first method is mainly based on satellite data, and has the advantage of fewer assumptions, but also comes with uncertainties and limitations as shown in this paper. To improve the reliability of urban-to-regional scale emission trend estimation, we simulate MOPITT retrievals using the Weather Research and Forecast model with chemistry core (WRF-Chem). The difference between model and retrieval is used to optimize CO emissions in WRF-Chem, focusing on the city of Madrid, Spain. This method has the advantage over the existing method in that it allows both a trend analysis of CO concentrations and a quantification of CO emissions. Our analysis confirms that MOPITT is capable of detecting CO enhancements over Madrid, although significant differences remain between the yearly averaged model output and satellite measurements (<i>R</i><sup>2</sup> = <span class="thinspace"></span>0.75) over the city. After optimization, we find Madrid CO emissions to be lower by 48<span class="thinspace"></span>% for 2002 and by 17<span class="thinspace"></span>% for 2006 compared with the EdgarV4.2 emission inventory. The MOPITT-derived emission adjustments lead to better agreement with the European emission inventory TNO-MAC-III for both years. This suggests that the downward trend in CO emissions over Madrid is overestimated in EdgarV4.2 and more realistically represented in TNO-MACC-III. However, our satellite and model based emission estimates have large uncertainties, around 20<span class="thinspace"></span>% for 2002 and 50<span class="thinspace"></span>% for 2006.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>11</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>14675</first_page>
+            <last_page>14694</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-17-14675-2017</doi>
+            <resource>https://www.atmos-chem-phys.net/17/14675/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/17/14675/2017/acp-17-14675-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/acp-17-1081-2017</doi>
+              <unstructured_citation>Abida, R., Attié, J.-L., El Amraoui, L., Ricaud, P., Lahoz, W., Eskes, H., Segers, A., Curier, L., de Haan, J., Kujanpää, J., Nijhuis, A. O., Tamminen, J., Timmermans, R., and Veefkind, P.: Impact of spaceborne carbon monoxide observations from the S-5P platform on tropospheric composition analyses and forecasts, Atmos. Chem. Phys., 17, 1081–1103, https://doi.org/10.5194/acp-17-1081-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Beirle, S., Boersma, K. F., Platt, U., Lawrence, M. G., and Wagner, T.: Megacity Emissions and Lifetimes of Nitrogen Oxides Probed from Space, Science, 333, 1737–1739, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Berrisford, P., Dee, D., Fielding, K., Fuentes, M., Kållberg, P., Kobayashi, S., and Uppala, S.: ERA-40 Project Report Series, Tech. rep., 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Brent, R. P.: Algorithms for Minimization Without Derivatives, Courier Corporation, 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Choi, Y., Osterman, G., Eldering, A., Wang, Y., and Edgerton, E.: Understanding the contributions of anthropogenic and biogenic sources to CO enhancements and outflow observed over North America and the western Atlantic Ocean by TES and MOPITT, Atmos. Environ., 44, 2033–2042, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2007GL032300</doi>
+              <unstructured_citation>Clerbaux, C., Edwards, D. P., Deeter, M. N., Emmons, L., Lamarque, J.-F., Tie, X. X., Massie, S. T., and Gille, J.: Carbon monoxide pollution from cities and urban areas observed by the Terra/MOPITT mission, Geophys. Res. Lett., 35, L03817–6, https://doi.org/10.1029/2007GL032300, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/acp-16-3825-2016</doi>
+              <unstructured_citation>Crippa, M., Janssens-Maenhout, G., Dentener, F., Guizzardi, D., Sindelarova, K., Muntean, M., Van Dingenen, R., and Granier, C.: Forty years of improvements in European air quality: regional policy-industry interactions with global impacts, Atmos. Chem. Phys., 16, 3825–3841, https://doi.org/10.5194/acp-16-3825-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Deeter, M. N.: Calculation and Application of MOPITT Averaging Kernels, 1–9, available at: https://www.acom.ucar.edu/mopitt/avg_krnls_app.pdf, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Deeter, M. N.: MOPITT Geolocation Bias Analysis and Corrections, Tech. rep., 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Deeter, M. N.: MOPITT(Measurements of Pollution in the Troposphere) Version 6 Product User's Guide, 2013a.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Deeter, M. N.: MOPITT V6 Level 2 Data Quality Summary, 1–4, 2013b.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2002JD003186</doi>
+              <unstructured_citation>Deeter, M. N., Emmons, L. K., Francis, G. L., Edwards, D. P., Gille, J. C., Warner, J. X., Khattatov, B., Ziskin, D., Lamarque, J. F., Ho, S. P., Yudin, V., Attié, J. L., Packman, D., Chen, J., Mao, D., and Drummond, J. R.: Operational carbon monoxide retrieval algorithm and selected results for the MOPITT instrument, J. Geophys. Res., 108, 4399–11, https://doi.org/10.1029/2002JD003186, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2008JD010872</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Gille, J. C., and Drummond, J. R.: CO retrievals based on MOPITT near-infrared observations, J. Geophys. Res., 114, D04303, https://doi.org/10.1029/2008JD010872, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Deeter, M. N., Martínez Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: Validation of MOPITT Version 5 thermal-infrared, near-infrared, and multispectral carbon monoxide profile retrievals for 2000–2011, J. Geophys. Res.-Atmos., 118, 6710–6725, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/amt-7-3623-2014</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Sweeney, C., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: The MOPITT Version 6 product: algorithm enhancements and validation, Atmos. Meas. Tech., 7, 3623–3632, https://doi.org/10.5194/amt-7-3623-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/amt-9-3999-2016</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Gatti, L. V., Gloor, M., Miller, J. B., Domingues, L. G., and Correia, C. S. C.: Validation and analysis of MOPITT CO observations of the Amazon Basin, Atmos. Meas. Tech., 9, 3999–4012, https://doi.org/10.5194/amt-9-3999-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/amt-7-3783-2014</doi>
+              <unstructured_citation>de Laat, A. T. J., Aben, I., Deeter, M., Nédélec, P., Eskes, H., Attié, J.-L., Ricaud, P., Abida, R., El Amraoui, L., and Landgraf, J.: Validation of nine years of MOPITT V5 NIR using MOZAIC/IAGOS measurements: biases and long-term stability, Atmos. Meas. Tech., 7, 3783–3799, https://doi.org/10.5194/amt-7-3783-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Dudhia, J.: Numerical Study of Convection Observed during the Winter Monsoon Experiment Using a Mesoscale Two-Dimensional Model, J. Atmos. Sci., 46, 3077–3107, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2004JD004727</doi>
+              <unstructured_citation>Edwards, D. P., Emmons, L. K., Hauglustaine, D. A., Chu, D. A., Gille, J. C., Kaufman, Y. J., Pétron, G., Yurganov, L. N., Giglio, L., Deeter, M. N., Yudin, V., Ziskin, D. C., Warner, J., Lamarque, J. F., Francis, G. L., Ho, S. P., Mao, D., Chen, J., Grechko, E. I., and Drummond, J. R.: Observations of carbon monoxide and aerosols from the Terra satellite: Northern Hemisphere variability, J. Geophys. Res.-Atmos., 109, D24202, https://doi.org/10.1002/jgrd.50272, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Ek, M. B., Mitchell, K. E., Lin, Y., Rogers, E., Grunmann, P., Koren, V., Gayno, G., and Tarpley, J. D.: Implementation of Noah land surface model advances in the National Centers for Environmental Prediction operational mesoscale Eta model, J. Geophys. Res., 108, 271–216, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>European Environment Agency: EMEP/EEA air pollutant emission inventory guidebook – 2013, Tech. rep., 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Fioletov, V. E., McLinden, C. A., Krotkov, N., Moran, M. D., and Yang, K.: Estimation of SO2 emissions using OMI retrievals, Geophys. Res. Lett., 38, 1–5, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/amt-9-2567-2016</doi>
+              <unstructured_citation>Fu, D., Bowman, K. W., Worden, H. M., Natraj, V., Worden, J. R., Yu, S., Veefkind, P., Aben, I., Landgraf, J., Strow, L., and Han, Y.: High-resolution tropospheric carbon monoxide profiles retrieved from CrIS and TROPOMI, Atmos. Meas. Tech., 9, 2567–2579, https://doi.org/10.5194/amt-9-2567-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2004JD004727</doi>
+              <unstructured_citation>Gamnitzer, U., Karstens, U., Kromer, B., Neubert, R. E. M., Meijer, H. A. J., Schroeder, H., and Levin, I.: Carbon monoxide: A quantitative tracer for fossil fuel CO 2?, J. Geophys. Res., 111, D22302–19, https://doi.org/10.1029/2004JD004727, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Girach, I. A. and Nair, P. R.: Carbon monoxide over Indian region as observed by MOPITT, Atmos. Environ., 99, 599–609, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/acp-14-5233-2014</doi>
+              <unstructured_citation>Grell, G. A. and Freitas, S. R.: A scale and aerosol aware stochastic convective parameterization for weather and air quality modeling, Atmos. Chem. Phys., 14, 5233–5250, https://doi.org/10.5194/acp-14-5233-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock, W. C., and Eder, B.: Fully coupled “online” chemistry within the WRF model, Atmos. Environ., 39, 6957–6975, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Holloway, T., Levy II, H., and Kasibhatla, P.: Global distribution of carbon monoxide, J. Geophys. Res., 105, 12123–12147, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2011JD017043</doi>
+              <unstructured_citation>Hooghiemstra, P. B., Krol, M. C., Bergamaschi, P., Laat de, A. T. J., Werf van der, G. R., Novelli, P. C., Deeter, M. N., Aben, I., and Röckmann, T.: Comparing optimized CO emission estimates using MOPITT or NOAA surface network observations, J. Geophys. Res., 117, D06309, https://doi.org/10.1029/2011JD017043, 2012a.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2012JD017758</doi>
+              <unstructured_citation>Hooghiemstra, P. B., Krol, M. C., Leeuwen van, T. T., Werf van der, G. R., Novelli, P. C., Deeter, M. N., Aben, I., and Röckmann, T.: Interannual variability of carbon monoxide emission estimates over South America from 2006 to 2010, J. Geophys. Res., 117, D15308, https://doi.org/10.1029/2012JD017758, 2012b.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Hu, X.-M., Klein, P. M., and Xue, M.: Evaluation of the updated YSU planetary boundary layer scheme within WRF for wind resource and air quality assessments, J. Geophys. Res.-Atmos., 118, 10490–10505, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2007GL032393</doi>
+              <unstructured_citation>Hudman, R. C., Murray, L. T., Jacob, D. J., Millet, D. B., Turquety, S., Wu, S., Blake, D. R., Goldstein, A. H., Holloway, J., and Sachse, G. W.: Biogenic versus anthropogenic sources of CO in the United States, Geophys. Res. Lett., 35, L04801, https://doi.org/10.1029/2007GL032393, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/acp-16-14371-2016</doi>
+              <unstructured_citation>Jacob, D. J., Turner, A. J., Maasakkers, J. D., Sheng, J., Sun, K., Liu, X., Chance, K., Aben, I., McKeever, J., and Frankenberg, C.: Satellite observations of atmospheric methane and their value for quantifying methane emissions, Atmos. Chem. Phys., 16, 14371–14396, https://doi.org/10.5194/acp-16-14371-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-17-4565-2017</doi>
+              <unstructured_citation>Jiang, Z., Worden, J. R., Worden, H., Deeter, M., Jones, D. B. A., Arellano, A. F., and Henze, D. K.: A 15-year record of CO emissions constrained by MOPITT CO observations, Atmos. Chem. Phys., 17, 4565–4583, https://doi.org/10.5194/acp-17-4565-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Kan, H., Chen, R., and Tong, S.: Ambient air pollution, climate change, and population health in China, Environ. Int., 42, 10–19, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Khalil, M. A. K. and Rasmussen, R. A.: The global cycle of carbon monoxide: trends and mass balance, Vol. 20, John Wiley &amp;amp;amp; Sons, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/acp-5-417-2005</doi>
+              <unstructured_citation>Krol, M., Houweling, S., Bregman, B., van den Broek, M., Segers, A., van Velthoven, P., Peters, W., Dentener, F., and Bergamaschi, P.: The two-way nested global chemistry-transport zoom model TM5: algorithm and applications, Atmos. Chem. Phys., 5, 417–432, https://doi.org/10.5194/acp-5-417-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/acp-14-10963-2014</doi>
+              <unstructured_citation>Kuenen, J. J. P., Visschedijk, A. J. H., Jozwicka, M., and Denier van der Gon, H. A. C.: TNO-MACC_II emission inventory; a multi-year (2003–2009) consistent high-resolution European emission inventory for air quality modelling, Atmos. Chem. Phys., 14, 10963–10976, https://doi.org/10.5194/acp-14-10963-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1016/S1352-2310(99)00510-5</doi>
+              <unstructured_citation>Lal, S., Naja, M., and Subbaraya, B. H.: Seasonal variations in surface ozone and its precursors over an urban site in India, Atmos. Environ., 34, 2713–2724, https://doi.org/10.1016/S1352-2310(99)00510-5, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/amt-9-4955-2016</doi>
+              <unstructured_citation>Landgraf, J., aan de Brugh, J., Scheepmaker, R., Borsdorff, T., Hu, H., Houweling, S., Butz, A., Aben, I., and Hasekamp, O.: Carbon monoxide total column retrievals from TROPOMI shortwave infrared measurements, Atmos. Meas. Tech., 9, 4955–4975, https://doi.org/10.5194/amt-9-4955-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-16-5283-2016</doi>
+              <unstructured_citation>Liu, F., Beirle, S., Zhang, Q., Dörner, S., He, K., and Wagner, T.: NOx lifetimes and emissions of cities and power plants in polluted background estimated by satellite observations, Atmos. Chem. Phys., 16, 5283–5298, https://doi.org/10.5194/acp-16-5283-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Mlawer, E. J., Taubman, S. J., Brown, P. D., Iacono, M. J., and Clough, S. A.: Radiative transfer for inhomogeneous atmospheres: RRTM, a validated correlated-k model for the longwave, J. Geophys. Res.-Atmos., 102, 16663–16682, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Novelli, P. C., Masarie, K. A., and Lang, P. M.: Distributions and recent changes of carbon monoxide in the lower troposphere, J. Geophys. Res., 103, 15–33, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/j.scitotenv.2013.01.077</doi>
+              <unstructured_citation>Pascal, M., Corso, M., Chanel, O., Declercq, C., Badaloni, C., Cesaroni, G., Henschel, S., Meister, K., Haluza, D., Martin-Olmedo, P., Medina, S., and on behalf of the Aphekom group: Assessing the public health impacts of urban air pollution in 25 European cities: Results of the Aphekom project, Sci. Total Environ., 449, 390–400, https://doi.org/10.1016/j.scitotenv.2013.01.077, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Pommier, M., McLinden, C. A., and Deeter, M. N.: Relative changes in CO emissions over megacities based on observations from space, Geophys. Res. Lett., 40, 3766–3771, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Press, W. H., Teukolsky, S. A., Vetterling, W. T., and Flannery, B. P.: Numerical Recipes in Fortran 77, The Art of scientific computing, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1142/3171</doi>
+              <unstructured_citation>Rodgers, C. D.: Inverse Methods for Atmospheric Sounding, Theory and Practice, World Scientific, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Romero-Lankao, P., Qin, H., and Borbor-Cordova, M.: Exploration of health risks related to air pollution and temperature in three Latin American cities, Soc. Sci. Med., 83, 110–118, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Streets, D. G., Canty, T., Carmichael, G. R., de Foy, B., Dickerson, R. R., Duncan, B. N., Edwards, D. P., Haynes, J. A., Henze, D. K., Houyoux, M. R., Jacob, D. J., Krotkov, N. A., Lamsal, L. N., Liu, Y., Lu, Z., Martin, R. V., Pfister, G. G., Pinder, R. W., Salawitch, R. J., and Wecht, K. J.: Emissions estimation from satellite retrievals: A review of current capability, Atmos. Environ., 77, 1011–1042, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-16-7285-2016</doi>
+              <unstructured_citation>Strode, S. A., Worden, H. M., Damon, M., Douglass, A. R., Duncan, B. N., Emmons, L. K., Lamarque, J.-F., Manyin, M., Oman, L. D., Rodriguez, J. M., Strahan, S. E., and Tilmes, S.: Interpreting space-based trends in carbon monoxide with multiple models, Atmos. Chem. Phys., 16, 7285–7294, https://doi.org/10.5194/acp-16-7285-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Tewari, M., Chen, F., Wang, W., Dudhia, J., LeMone, M. A., Mitchell, K., Ek, M., Gayno, G., Wegiel, J., and Cuenca, R. H.: Implementation and verification of the unified Noah land surface model in the WRF model, in: the Conference on Weather Analysis and Forecasting 11–15 January 2004, 1–6, Seattle, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>van der Gon, H. D., Hendriks, C., Kuenen, J. J. P., Segers, A., and Visschedijk, A. J. H.: Description of current temporal emission patters and sensitivity of predicted AQ for temporal emission patterns, Tech. rep., 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>van Leeuwen, T. T., Peters, W., Krol, M. C., and Werf van der, G. R.: Dynamic biomass burning emission factors and their impact on atmospheric CO mixing ratios, J. Geophys. Res.-Atmos., 118, 6797–6815, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>WHO: Environmental health criteria 213: Carbon monoxide, Tech. rep., 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1029/2010JD014242</doi>
+              <unstructured_citation>Worden, H. M., Deeter, M. N., Edwards, D. P., Gille, J. C., Drummond, J. R., and Nédélec, P.: Observations of near-surface carbon monoxide from space using MOPITT multispectral retrievals, J. Geophys. Res., 115, D18314, https://doi.org/10.1029/2010JD014242, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/2012GL052395</doi>
+              <unstructured_citation>Worden, H. M., Cheng, Y., and Pfister, G.: Satellite-based estimates of reduced CO and CO2 emissions due to traffic restrictions during the 2008 Beijing Olympics, Geophys. Res. Lett., 39, L14802, https://doi.org/10.1029/2012GL052395, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/acp-15-13433-2015</doi>
+              <unstructured_citation>Yin, Y., Chevallier, F., Ciais, P., Broquet, G., Fortems-Cheiney, A., Pison, I., and Saunois, M.: Decadal trends in global CO emissions as seen by MOPITT, Atmos. Chem. Phys., 15, 13433–13451, https://doi.org/10.5194/acp-15-13433-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-13-11307-2013</doi>
+              <unstructured_citation>Yoon, J., Pozzer, A., Hoor, P., Chang, D. Y., Beirle, S., Wagner, T., Schloegl, S., Lelieveld, J., and Worden, H. M.: Technical Note: Temporal change in averaging kernels as a source of uncertainty in trend estimates of carbon monoxide retrieved from MOPITT, Atmos. Chem. Phys., 13, 11307–11316, https://doi.org/10.5194/acp-13-11307-2013, 2013.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-17-14675-2017-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/17/14675/2017/acp-17-14675-2017-supplement.pdf</resource>
+              </doi_data>
+            </component>
+            <component parent_relation="isPartOf">
+              <description>Article corrigendum</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-17-14675-2017-corrigendum</doi>
+                <resource>https://www.atmos-chem-phys.net/17/14675/2017/acp-17-14675-2017-corrigendum.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

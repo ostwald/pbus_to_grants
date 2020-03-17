@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-04-03 09:49:09">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Advances in Modeling Earth Systems</full_title>
+          <abbrev_title>J. Adv. Model. Earth Syst.</abbrev_title>
+          <issn>19422466</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>07</month>
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>3</issue>
+          <doi_data>
+            <doi>10.1002/jame.v9.3</doi>
+            <resource>http://doi.wiley.com/10.1002/jame.v9.3</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Representing subgrid convective initiation in the Community Earth System Model</title>
+            <subtitle>SUBGRID CONVECTIVE TRIGGER</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Ahmed B.</given_name>
+              <surname>Tawfik</surname>
+              <affiliation>National Center for Atmospheric Research,  Climate and Global Dynamics Division; Boulder Colorado USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-6631-9300</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David M.</given_name>
+              <surname>Lawrence</surname>
+              <affiliation>National Center for Atmospheric Research,  Climate and Global Dynamics Division; Boulder Colorado USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-2968-3023</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Paul A.</given_name>
+              <surname>Dirmeyer</surname>
+              <affiliation>Center for Ocean-Land-Atmosphere Studies, George Mason University; Fairfax Virginia USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-3158-1752</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>07</month>
+            <year>2017</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>22</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1740</first_page>
+            <last_page>1758</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-0947837</assertion>
+              <assertion name="award_number">AGS-1419445</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">United States Department of Agriculture Collaborative Research</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="am" start_date="2018-07-22">http://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+            <license_ref applies_to="vor" start_date="2017-07-22">http://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2016MS000866</doi>
+            <resource>http://doi.wiley.com/10.1002/2016MS000866</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2016MS000866/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="am" mime_type="application/pdf">http://api.wiley.com/onlinelibrary/chorus/v1/articles/10.1002%2F2016MS000866</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2016MS000866</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2016MS000866-BIB0001|jame20438-cit-0002">
+              <author>Bacmeister</author>
+              <cYear>2014</cYear>
+              <article_title>Exploratory high-resolution climate simulations using the Community Atmosphere Model (CAM)</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>27</volume>
+              <issue>9</issue>
+              <first_page>3073</first_page>
+              <doi>10.1175/JCLI-D-13-00387.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0002|jame20438-cit-0003">
+              <author>Bechtold</author>
+              <cYear>2014</cYear>
+              <article_title>Representing equilibrium and nonequilibrium convection in large-scale models</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>71</volume>
+              <issue>2</issue>
+              <first_page>734</first_page>
+              <doi>10.1175/JAS-D-13-0163.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0003|jame20438-cit-0004">
+              <author>Betts</author>
+              <cYear>2002</cYear>
+              <article_title>Study of diurnal cycle of convective precipitation over Amazonia using a single column model</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>107</volume>
+              <issue>D23</issue>
+              <first_page>4732</first_page>
+              <doi>10.1029/2002JD002264</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0004|jame20438-cit-0005">
+              <author>Bombardi</author>
+              <cYear>2015</cYear>
+              <article_title>Improvements in the representation of the Indian summer monsoon in the NCEP climate forecast system version 2</article_title>
+              <journal_title>Clim. Dyn.</journal_title>
+              <volume>45</volume>
+              <first_page>2485</first_page>
+              <doi>10.1007/s00382-015-2484-6</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0005|jame20438-cit-0006">
+              <author>Bombardi</author>
+              <cYear>2016</cYear>
+              <article_title>The heated condensation framework as a convective trigger in the NCEP Climate Forecast System version 2</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>8</volume>
+              <first_page>1310</first_page>
+              <doi>10.1002/2016MS000668</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0006|jame20438-cit-0007">
+              <author>Boyle</author>
+              <cYear>2010</cYear>
+              <article_title>Impact of horizontal resolution on climate model forecasts of tropical precipitation and diabatic heating for the TWP-ICE period</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <doi>10.1029/2010JD014262</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0007|jame20438-cit-0008">
+              <author>Collier</author>
+              <cYear>2004</cYear>
+              <article_title>Diurnal cycle of tropical precipitation in a general circulation model</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>109</volume>
+              <doi>10.1029/2004JD004818</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0008|jame20438-cit-0009">
+              <unstructured_citation>Computational and Information Systems Laboratory 2012 Yellowstone: IBM iDataPlex System (Wyoming-NCAR Alliance) http://n2t.net/ark:/85065/d7wd3xhc</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0009|jame20438-cit-0010">
+              <author>Couvreux</author>
+              <cYear>2015</cYear>
+              <article_title>Representation of daytime moist convection over the semi-arid Tropics by parametrizations used in climate and meteorological models</article_title>
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <volume>141</volume>
+              <issue>691</issue>
+              <first_page>2220</first_page>
+              <doi>10.1002/qj.2517</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0010|jame20438-cit-0011">
+              <author>Dai</author>
+              <cYear>2006</cYear>
+              <article_title>Precipitation characteristics in eighteen coupled climate models</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>19</volume>
+              <issue>18</issue>
+              <first_page>4605</first_page>
+              <doi>10.1175/JCLI3884.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0011|jame20438-cit-0012">
+              <author>Dai</author>
+              <cYear>2004</cYear>
+              <article_title>The diurnal cycle and its depiction in the Community Climate System Model</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>17</volume>
+              <issue>5</issue>
+              <first_page>930</first_page>
+              <doi>10.1175/1520-0442(2004)017&lt;0930:TDCAID&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0012|jame20438-cit-0013">
+              <author>Dai</author>
+              <cYear>2007</cYear>
+              <article_title>The frequency, intensity, and diurnal cycle of precipitation in surface and satellite observations over low- and mid-latitudes</article_title>
+              <journal_title>Clim. Dyn.</journal_title>
+              <volume>29</volume>
+              <issue>7-8</issue>
+              <first_page>727</first_page>
+              <doi>10.1007/s00382-007-0260-y</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0013|jame20438-cit-0014">
+              <author>Dennis</author>
+              <cYear>2012</cYear>
+              <article_title>CAM-SE: A scalable spectral element dynamical core for the Community Atmosphere Model</article_title>
+              <journal_title>Int. J. High Perform. Comput. Appl.</journal_title>
+              <volume>26</volume>
+              <issue>1</issue>
+              <first_page>74</first_page>
+              <doi>10.1177/1094342011428142</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0014|jame20438-cit-0015">
+              <author>Dirmeyer</author>
+              <cYear>2012</cYear>
+              <article_title>Simulating the diurnal cycle of rainfall in global climate models: Resolution versus parameterization</article_title>
+              <journal_title>Clim. Dyn.</journal_title>
+              <volume>39</volume>
+              <issue>1-2</issue>
+              <first_page>399</first_page>
+              <doi>10.1007/s00382-011-1127-9</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0015|jame20438-cit-0016">
+              <author>Dolinar</author>
+              <cYear>2016</cYear>
+              <article_title>Evaluation and intercomparison of clouds, precipitation, and radiation budgets in recent reanalyses using satellite-surface observations</article_title>
+              <journal_title>Clim. Dyn.</journal_title>
+              <volume>46</volume>
+              <issue>7-8</issue>
+              <first_page>2123</first_page>
+              <doi>10.1007/s00382-015-2693-z</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0016|jame20438-cit-0017">
+              <author>Donner</author>
+              <cYear>2003</cYear>
+              <article_title>Boundary layer control on convective available potential energy: Implications for cumulus parameterization</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>108</volume>
+              <issue>D22</issue>
+              <first_page>4701</first_page>
+              <doi>10.1029/2003JD003773</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0017|jame20438-cit-0018">
+              <author>Duffy</author>
+              <cYear>2003</cYear>
+              <article_title>High-resolution simulations of global climate, part 1: Present climate</article_title>
+              <journal_title>Clim. Dyn.</journal_title>
+              <volume>21</volume>
+              <issue>5-6</issue>
+              <first_page>371</first_page>
+              <doi>10.1007/s00382-003-0339-z</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0018|jame20438-cit-0019">
+              <author>Ghan</author>
+              <cYear>1996</cYear>
+              <article_title>Simulation of the great plains low-level jet and associated clouds by general circulation models</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>124</volume>
+              <issue>7</issue>
+              <first_page>1388</first_page>
+              <doi>10.1175/1520-0493(1996)124&lt;1388:SOTGPL&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0019|jame20438-cit-0020">
+              <author>Guichard</author>
+              <cYear>2004</cYear>
+              <article_title>Modelling the diurnal cycle of deep precipitating convection over land with cloud-resolving models and single-column models</article_title>
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <volume>130</volume>
+              <issue>604</issue>
+              <first_page>3139</first_page>
+              <doi>10.1256/qj.03.145</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0020|jame20438-cit-0021">
+              <author>Huffman</author>
+              <cYear>2007</cYear>
+              <article_title>The TRMM Multisatellite Precipitation Analysis (TMPA): Quasi-global, multiyear, combined-sensor precipitation estimates at fine scales</article_title>
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <volume>8</volume>
+              <issue>1</issue>
+              <first_page>38</first_page>
+              <doi>10.1175/JHM560.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0021|jame20438-cit-0022">
+              <author>Joyce</author>
+              <cYear>2004</cYear>
+              <article_title>CMORPH: A method that produces global precipitation estimates from passive microwave and infrared data at high spatial and temporal resolution</article_title>
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <volume>5</volume>
+              <issue>3</issue>
+              <first_page>487</first_page>
+              <doi>10.1175/1525-7541(2004)005&lt;0487:CAMTPG&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0022|jame20438-cit-0023">
+              <author>Khairoutdinov</author>
+              <cYear>2005</cYear>
+              <article_title>Simulations of the atmospheric general circulation using a cloud-resolving model as a superparameterization of physical processes</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>62</volume>
+              <issue>7</issue>
+              <first_page>2136</first_page>
+              <doi>10.1175/JAS3453.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0023|jame20438-cit-0024">
+              <author>Khairoutdinov</author>
+              <cYear>2001</cYear>
+              <article_title>A cloud resolving model as a cloud parameterization in the NCAR Community Climate System Model: Preliminary results</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>28</volume>
+              <issue>18</issue>
+              <first_page>3617</first_page>
+              <doi>10.1029/2001GL013552</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0024|jame20438-cit-0025">
+              <author>Lawrence</author>
+              <cYear>2011</cYear>
+              <article_title>Parameterization improvements and functional and structural advances in version 4 of the Community Land Model</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>3</volume>
+              <doi>10.1029/2011MS000045</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0025|jame20438-cit-0026">
+              <author>Lee</author>
+              <cYear>2008</cYear>
+              <article_title>Role of convection triggers in the simulation of the diurnal cycle of precipitation over the United States Great Plains in a general circulation model</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>113</volume>
+              <doi>10.1029/2007JD008984</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0026|jame20438-cit-0027">
+              <author>Lee</author>
+              <cYear>2010</cYear>
+              <article_title>Mechanisms of diurnal precipitation over the US Great Plains: A cloud resolving model perspective</article_title>
+              <journal_title>Clim. Dyn.</journal_title>
+              <volume>34</volume>
+              <issue>2-3</issue>
+              <first_page>419</first_page>
+              <doi>10.1007/s00382-009-0531-x</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0027|jame20438-cit-0028">
+              <author>Li</author>
+              <cYear>2012</cYear>
+              <article_title>Super-parameterization”: A better way to simulate regional extreme precipitation?</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>4</volume>
+              <doi>10.1029/2011MS000106</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0028|jame20438-cit-0029">
+              <author>Mapes</author>
+              <cYear>2011</cYear>
+              <article_title>Parameterizing convective organization to escape the entrainment dilemma</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>3</volume>
+              <doi>10.1029/2011MS000042</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0029|jame20438-cit-0030">
+              <author>Neale</author>
+              <cYear>2008</cYear>
+              <article_title>The impact of convection on ENSO: From a delayed oscillator to a series of events</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>21</volume>
+              <issue>22</issue>
+              <first_page>5904</first_page>
+              <doi>10.1175/2008JCLI2244.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0030|jame20438-cit-0031">
+              <unstructured_citation>Neale , R. B. 2012 Tech. Note NCAR/TN-486+STR</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0031|jame20438-cit-0032">
+              <unstructured_citation>Oleson , K. W. 2013 NCAR Tech. Note NCAR/TN 503+STR 10.5065/D6RR1W7M</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0032|jame20438-cit-0033">
+              <author>Park</author>
+              <cYear>2014</cYear>
+              <article_title>A unified convection scheme, UNICON: Part I. Formulation</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>71</volume>
+              <first_page>3902</first_page>
+              <doi>10.1175/JAS-D-13-0233.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0033|jame20438-cit-0034">
+              <author>Reboita</author>
+              <cYear>2016</cYear>
+              <article_title>Diurnal cycle of precipitation simulated by RegCM4 over South America: Present and future scenarios</article_title>
+              <journal_title>Clim. Res.</journal_title>
+              <volume>70</volume>
+              <issue>1</issue>
+              <first_page>39</first_page>
+              <doi>10.3354/cr01416</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0034|jame20438-cit-0035">
+              <author>Richter</author>
+              <cYear>2008</cYear>
+              <article_title>Effects of convective momentum transport on the Atmospheric Circulation in the Community Atmosphere Model, version 3</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>21</volume>
+              <issue>7</issue>
+              <first_page>1487</first_page>
+              <doi>10.1175/2007JCLI1789.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0035|jame20438-cit-0036">
+              <author>Song</author>
+              <cYear>2013</cYear>
+              <article_title>Evaluation of precipitation simulated by seven SCMs against the ARM observations at the SGP site</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>26</volume>
+              <issue>15</issue>
+              <first_page>5467</first_page>
+              <doi>10.1175/JCLI-D-12-00263.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0036|jame20438-cit-0037">
+              <author>Stanfield</author>
+              <cYear>2016</cYear>
+              <article_title>A quantitative assessment of precipitation associated with the ITCZ in the CMIP5 GCM simulations</article_title>
+              <journal_title>Clim. Dyn.</journal_title>
+              <volume>47</volume>
+              <issue>5-6</issue>
+              <first_page>1863</first_page>
+              <doi>10.1007/s00382-015-2937-y</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0037|jame20438-cit-0038">
+              <author>Stratton</author>
+              <cYear>2012</cYear>
+              <article_title>Improving the diurnal cycle of convection in GCMs</article_title>
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <volume>138</volume>
+              <issue>666</issue>
+              <first_page>1121</first_page>
+              <doi>10.1002/qj.991</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0038|jame20438-cit-0039">
+              <author>Suhas</author>
+              <cYear>2014</cYear>
+              <article_title>Evaluation of trigger functions for convective parameterization schemes using observations</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>27</volume>
+              <issue>20</issue>
+              <first_page>7647</first_page>
+              <doi>10.1175/JCLI-D-13-00718.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0039|jame20438-cit-0040">
+              <author>Tawfik</author>
+              <cYear>2014</cYear>
+              <article_title>A process-based framework for quantifying the atmospheric preconditioning of surface-triggered convection</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>173</first_page>
+              <doi>10.1002/2013GL057984</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0040|jame20438-cit-0041">
+              <author>Tawfik</author>
+              <cYear>2015a</cYear>
+              <article_title>The Heated Condensation Framework. Part I: Description and Southern Great Plains case study</article_title>
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <volume>16</volume>
+              <issue>5</issue>
+              <first_page>1929</first_page>
+              <doi>10.1175/JHM-D-14-0117-1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0041|jame20438-cit-0042">
+              <author>Tawfik</author>
+              <cYear>2015b</cYear>
+              <article_title>The Heated Condensation Framework. Part II: Climatological behavior of convective initiation and land-atmosphere coupling over the conterminous United States</article_title>
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <volume>16</volume>
+              <issue>5</issue>
+              <first_page>1946</first_page>
+              <doi>10.1175/JHM-D-14-0118.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0042|jame20438-cit-0043">
+              <author>Taylor</author>
+              <cYear>1997</cYear>
+              <article_title>The spectral element method for the shallow water equations on the sphere</article_title>
+              <journal_title>J. Comput. Phys.</journal_title>
+              <volume>130</volume>
+              <issue>1</issue>
+              <first_page>92</first_page>
+              <doi>10.1006/jcph.1996.5554</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0043|jame20438-cit-0044">
+              <author>Taylor</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1007/978-3-642-11640-7_12</doi>
+              <volume_title>Numerical Techniques for Global Atmospheric Models</volume_title>
+              <first_page>357</first_page>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0044|jame20438-cit-0045">
+              <author>Taylor</author>
+              <cYear>2010</cYear>
+              <article_title>A compatible and conservative spectral element method on unstructured grids</article_title>
+              <journal_title>J. Comput. Phys.</journal_title>
+              <volume>229</volume>
+              <issue>17</issue>
+              <first_page>5879</first_page>
+              <doi>10.1016/j.jcp.2010.04.008</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0045|jame20438-cit-0046">
+              <author>Wang</author>
+              <cYear>2013</cYear>
+              <article_title>An updated TRMM composite climatology of tropical rainfall and its validation</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>27</volume>
+              <issue>1</issue>
+              <first_page>273</first_page>
+              <doi>10.1175/JCLI-D-13-00331.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0046|jame20438-cit-0047">
+              <author>Wang</author>
+              <cYear>2015</cYear>
+              <article_title>Impacts of the triggering function of cumulus parameterization on warm-season diurnal rainfall cycles at the Atmospheric Radiation Measurement Southern Great Plains site</article_title>
+              <journal_title>J. Geophys. Res. Atmos.</journal_title>
+              <volume>120</volume>
+              <first_page>10,681</first_page>
+              <doi>10.1002/2015JD023337</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0047|jame20438-cit-0048">
+              <author>Wehner</author>
+              <cYear>2014</cYear>
+              <article_title>The effect of horizontal resolution on simulation quality in the Community Atmospheric Model, CAM5.1</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>6</volume>
+              <first_page>980</first_page>
+              <doi>10.1002/2013MS000276</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0048|jame20438-cit-0049">
+              <author>Xie</author>
+              <cYear>2000</cYear>
+              <article_title>Impact of the convection triggering function on single-column model simulations</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>105</volume>
+              <issue>D11</issue>
+              <first_page>14,983</first_page>
+              <doi>10.1029/2000JD900170</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0049|jame20438-cit-0050">
+              <author>Xie</author>
+              <cYear>2002</cYear>
+              <article_title>Intercomparison and evaluation of cumulus parametrizations under summertime midlatitude continental conditions</article_title>
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <volume>128</volume>
+              <issue>582</issue>
+              <first_page>1095</first_page>
+              <doi>10.1256/003590002320373229</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0050|jame20438-cit-0051">
+              <author>Zarzycki</author>
+              <cYear>2014</cYear>
+              <article_title>A multidecadal simulation of Atlantic tropical cyclones using a variable-resolution global atmospheric general circulation model</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>6</volume>
+              <first_page>805</first_page>
+              <doi>10.1002/2014MS000352</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0051|jame20438-cit-0052">
+              <author>Zarzycki</author>
+              <cYear>2014</cYear>
+              <article_title>Aquaplanet experiments using CAM's variable-resolution dynamical core</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>27</volume>
+              <issue>14</issue>
+              <first_page>5481</first_page>
+              <doi>10.1175/JCLI-D-14-00004.1</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0052|jame20438-cit-0053">
+              <author>Zhang</author>
+              <cYear>2002</cYear>
+              <article_title>Convective quasi-equilibrium in midlatitude continental environment and its effect on convective parameterization</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>107</volume>
+              <issue>D14</issue>
+              <doi>10.1029/2001JD001005</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0053|jame20438-cit-0054">
+              <author>Zhang</author>
+              <cYear>2003</cYear>
+              <article_title>Roles of tropospheric and boundary layer forcing in the diurnal cycle of convection in the U.S. Southern Great Plains</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>30</volume>
+              <issue>24</issue>
+              <first_page>2281</first_page>
+              <doi>10.1029/2003GL018554</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0054|jame20438-cit-0055">
+              <author>Zhang</author>
+              <cYear>1995</cYear>
+              <article_title>Sensitivity of climate simulations to the parameterization of cumulus convection in the Canadian climate centre general circulation model</article_title>
+              <journal_title>Atmos. Ocean</journal_title>
+              <volume>33</volume>
+              <issue>3</issue>
+              <first_page>407</first_page>
+              <doi>10.1080/07055900.1995.9649539</doi>
+            </citation>
+            <citation key="10.1002/2016MS000866-BIB0055|jame20438-cit-0056">
+              <author>Zhang</author>
+              <cYear>2005</cYear>
+              <article_title>Effects of modifications to the Zhang-McFarlane convection parameterization on the simulation of the tropical precipitation in the National Center for Atmospheric Research Community Climate Model, version 3</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>110</volume>
+              <doi>10.1029/2004JD005617</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1145" timestamp="2017-06-23 12:28:40">
+    <crossref>
+      <conference>
+        <contributors>
+          <person_name sequence="first" contributor_role="chair">
+            <given_name>Gregory D.</given_name>
+            <surname>Peterson</surname>
+          </person_name>
+        </contributors>
+        <event_metadata>
+          <conference_name>the 2015 XSEDE Conference</conference_name>
+          <conference_theme>Scientific Advancements Enabled by Enhanced Cyberinfrastructure</conference_theme>
+          <conference_acronym>XSEDE '15</conference_acronym>
+          <conference_sponsor>CORSA, CORSA Technology</conference_sponsor>
+          <conference_sponsor>CASC, The Coalition for Academic Scientific Computation</conference_sponsor>
+          <conference_sponsor>RENCI, Renaissance Computing Institute</conference_sponsor>
+          <conference_sponsor>HPCWire</conference_sponsor>
+          <conference_sponsor>SGI</conference_sponsor>
+          <conference_sponsor>San Diego Super Computing Ctr</conference_sponsor>
+          <conference_sponsor>Cray</conference_sponsor>
+          <conference_sponsor>Indiana University</conference_sponsor>
+          <conference_sponsor>Intel</conference_sponsor>
+          <conference_number>2015</conference_number>
+          <conference_location>St. Louis, Missouri</conference_location>
+          <conference_date start_month="07" start_year="2015" start_day="26" end_year="2015" end_month="07" end_day="30"/>
+        </event_metadata>
+        <proceedings_metadata language="en">
+          <proceedings_title>Proceedings of the 2015 XSEDE Conference on Scientific Advancements Enabled by Enhanced Cyberinfrastructure - XSEDE '15</proceedings_title>
+          <publisher>
+            <publisher_name>ACM Press</publisher_name>
+            <publisher_place>New York, New York, USA</publisher_place>
+          </publisher>
+          <publication_date media_type="print">
+            <year>2015</year>
+          </publication_date>
+          <isbn media_type="print">9781450337205</isbn>
+          <doi_data>
+            <doi>10.1145/2792745</doi>
+            <timestamp>20150727101250</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=2792745</resource>
+          </doi_data>
+        </proceedings_metadata>
+        <conference_paper publication_type="full_text">
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Bill</given_name>
+              <surname>Anderson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Marc</given_name>
+              <surname>Genty</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David L.</given_name>
+              <surname>Hart</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Erich</given_name>
+              <surname>Thanhardt</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Using data science to understand tape-based archive workloads</title>
+          </titles>
+          <publication_date media_type="print">
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>1</first_page>
+            <last_page>8</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref applies_to="vor" start_date="2015-07-26">http://www.acm.org/publications/policies/copyright_policy#Background</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1145/2792745.2792776</doi>
+            <timestamp>20150727101250</timestamp>
+            <resource>http://dl.acm.org/citation.cfm?doid=2792745.2792776</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://dl.acm.org/ft_gateway.cfm?id=2792776&amp;amp;ftid=1608599&amp;amp;dwn=1</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="key-10.1145/2792745.2792776-1">
+              <unstructured_citation>
+                Adams, I., Miller, E., Storer, M., 2012.
+                <i>Analysis of Workload Behavior in Scientific and Historical Long-Term Data Repositories.</i>
+                ACM Transactions on Storage, Vol. 8, No. 2, Article 6.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-2">
+              <unstructured_citation>Columbia University, Data Science Institute, Certification of Professional Achievement in Data Sciences. http://datascience.columbia.edu/certification</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-3">
+              <unstructured_citation>
+                Conway, D., 2013.
+                <i>The Data Science Venn Diagram.</i>
+                http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-4">
+              <unstructured_citation>
+                Gandrud, C. 2013.
+                <i>Reproducible Research with R and RStudio</i>
+                , Chapman &amp;#38; Hall/CRC The R Series, CRC Press, Taylor &amp;#38; Francis Group, Boca Raton, London, New York.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-5">
+              <unstructured_citation>
+                Hart, D., Gillman, P., Thanhardt, E., 2013.
+                <i>NCAR Storage Accounting and Analysis Possibilities</i>
+                , XSEDE'13, San Diego, CA.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-6">
+              <doi provider="crossref">10.1126/science.1200970</doi>
+              <unstructured_citation>
+                Hilbert, M., Lopez, P., 2011.
+                <i>The World's Technological Capacity to Store, Communicate, and Compute Information.</i>
+                Science, Vol. 332, No. 6025, pp. 60--65.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-7">
+              <unstructured_citation>
+                IBM Corporation,
+                <i>IBM's Tale of the Tape - 60th Anniversary of IBM Tape Innovation.</i>
+                https://www.flickr.com/photos/ibm_media/7198622184/sizes/o/in/photostream/
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-8">
+              <unstructured_citation>Johns Hopkins University, Data Science Specialization Certification, Offered through Coursera. https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage</unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-9">
+              <unstructured_citation>
+                Miller, E., Katz, R. 1993.
+                <i>An Analysis of File Migration in a Unix Supercomputing Environment.</i>
+                Proceedings of the Winter USENIX Technical Conference, pp. 421--433.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-10">
+              <unstructured_citation>
+                Oracle Corporation 2013,
+                <i>StorageTek T10000 Tape Drives: Enterprise-Class Design for Maximum Reliability</i>
+                , An Oracle White Paper, p. 2.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-11">
+              <unstructured_citation>
+                Oracle Corporation 2013,
+                <i>StorageTek T10000 Tape Drives: Enterprise-Class Design for Maximum Reliability</i>
+                , An Oracle White Paper, pp. 9--10.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-12">
+              <doi provider="crossref">10.1145/1713254.1713276</doi>
+              <unstructured_citation>
+                Ousterhout, J., Agrawal, P., Erickson, D., et. al., 2009.
+                <i>The Case for RAMClouds: Scalable High-Performance Storage Entirely in DRAM</i>
+                , SIGOPS Operating Systems Review, Vol. 43, No. 4, pp. 92--105.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-13">
+              <unstructured_citation>
+                Skillicorn, D.,
+                <i>Understanding Complex Datasets: Data Mining with Matrix Decompositions</i>
+                , Chapman &amp;#38; Hall/CRC Data Mining and Knowledge Discovery Series, CRC Press, Taylor &amp;#38; Francis Group, Boca Raton, London, New York.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-14">
+              <unstructured_citation>
+                Spectra Logic Corporation 2014.
+                <i>Total Cost of Ownership - Tape vs. Disk: What You Should Consider.</i>
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-15">
+              <unstructured_citation>
+                Watson, R. W., 2005.
+                <i>High Performance Storage System Scalability: Architecture, Implementation, and Experience</i>
+                , 22nd IEEE 13th NASA Goddard Conference on Mass Storage Systems and Technologies Monterey, CA.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-16">
+              <unstructured_citation>
+                Wickham, H. 2009.
+                <i>ggplot2: Elegant Graphics for Data Analysis</i>
+                , Springer, Dordrecht, Heidelberg, London, New York.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-17">
+              <unstructured_citation>
+                Wickham, H. 2014.
+                <i>Tidy Data</i>
+                , Journal of Statistical Software, August 2014, Volume 59, Issue 10, Published by the American Statistical Association, Alexandria, VA.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-18">
+              <unstructured_citation>
+                Wickham, H. 2014.
+                <i>Tidy Data</i>
+                , Journal of Statistical Software, August 2014, Volume 59, Issue 10, Section 2.3, Published by the American Statistical Association, Alexandria, VA, p. 4.
+              </unstructured_citation>
+            </citation>
+            <citation key="key-10.1145/2792745.2792776-19">
+              <unstructured_citation>
+                Xie, Y. 2013.
+                <i>Dynamic Documents with R and knitr</i>
+                , Chapman &amp;#38; Hall/CRC The R Series, CRC Press, Taylor &amp;#38; Francis Group, Boca Raton, London, New York.
+              </unstructured_citation>
+            </citation>
+          </citation_list>
+        </conference_paper>
+      </conference>
+    </crossref>
+  </doi_record>
+</doi_records>

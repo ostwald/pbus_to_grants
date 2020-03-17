@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-11 17:21:57">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>14</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Simulation of semi-explicit mechanisms of SOA formation from glyoxal in aerosol in a 3-D model</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>C.</given_name>
+              <surname>Knote</surname>
+              <ORCID>https://orcid.org/0000-0001-9105-9179</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Hodzic</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J. L.</given_name>
+              <surname>Jimenez</surname>
+              <ORCID>https://orcid.org/0000-0001-6203-1847</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R.</given_name>
+              <surname>Volkamer</surname>
+              <ORCID>https://orcid.org/0000-0002-0899-1369</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J. J.</given_name>
+              <surname>Orlando</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Baidar</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Brioude</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Fast</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D. R.</given_name>
+              <surname>Gentner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A. H.</given_name>
+              <surname>Goldstein</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>P. L.</given_name>
+              <surname>Hayes</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>W. B.</given_name>
+              <surname>Knighton</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>H.</given_name>
+              <surname>Oetjen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Setyan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>H.</given_name>
+              <surname>Stark</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R.</given_name>
+              <surname>Thalman</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>G.</given_name>
+              <surname>Tyndall</surname>
+              <ORCID>https://orcid.org/0000-0002-0695-5241</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R.</given_name>
+              <surname>Washenfelder</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>E.</given_name>
+              <surname>Waxman</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Q.</given_name>
+              <surname>Zhang</surname>
+              <ORCID>https://orcid.org/0000-0002-5203-8778</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> New pathways to form secondary organic aerosol (SOA) have been postulated recently. Glyoxal, the smallest dicarbonyl, is one of the proposed precursors. It has both anthropogenic and biogenic sources, and readily partitions into the aqueous phase of cloud droplets and deliquesced particles where it undergoes both reversible and irreversible chemistry. In this work we extend the regional scale chemistry transport model WRF-Chem to include detailed gas-phase chemistry of glyoxal formation as well as a state-of-the-science module describing its partitioning and reactions in the aerosol aqueous-phase. A comparison of several proposed mechanisms is performed to quantify the relative importance of different formation pathways and their regional variability. The CARES/CalNex campaigns over California in summer 2010 are used as case studies to evaluate the model against observations. A month-long simulation over the continental United States (US) enables us to extend our results to the continental scale. <br><br> In all simulations over California, the Los Angeles (LA) basin was found to be the hot spot for SOA formation from glyoxal, which contributes between 1% and 15% of the model SOA depending on the mechanism used. Our results indicate that a mechanism based only on a reactive (surface limited) uptake coefficient leads to higher SOA yields from glyoxal compared to a more detailed description that considers aerosol phase state and chemical composition. In the more detailed simulations, surface uptake is found to give the highest SOA mass yields compared to a volume process and reversible formation. We find that the yields of the latter are limited by the availability of glyoxal in aerosol water, which is in turn controlled by an increase in the Henry's law constant depending on salt concentrations ("salting-in"). A time dependence in this increase prevents substantial partitioning of glyoxal into aerosol water at high salt concentrations. If this limitation is removed, volume pathways contribute > 20% of glyoxal-SOA mass, and the total mass formed (5.8% of total SOA in the LA basin) is about a third of the simple uptake coefficient formulation without consideration of aerosol phase state and composition. Results from the continental US simulation reveal the much larger potential to form glyoxal-SOA over the eastern continental US. Interestingly, the low concentrations of glyoxal-SOA over the western continental US are not due to the lack of a potential to form glyoxal-SOA here. Rather these small glyoxal-SOA concentrations reflect dry conditions and high salt concentrations, and the potential to form SOA mass here will strongly depend on the water associated with particles.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>24</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>6213</first_page>
+            <last_page>6239</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-14-6213-2014</doi>
+            <resource>https://www.atmos-chem-phys.net/14/6213/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/14/6213/2014/acp-14-6213-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2011JD017144</doi>
+              <unstructured_citation>Ahlm, L., Liu, S., Day, D. A., Russell, L. M., Weber, R., Gentner, D. R., Goldstein, A. H., DiGangi, J. P., Henry, S. B., Keutsch, F. N., VandenBoer, T. C., Markovic, M. Z., Murphy, J. G., Ren, X., and Scheller, S.: Formation and growth of ultrafine particles from secondary sources in Bakersfield, California, J. Geophys. Res.-Atmos., 117, D00V08, https://doi.org/10.1029/2011JD017144, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/MWR-D-12-00042.1</doi>
+              <unstructured_citation>Angevine, W. M., Eddington, L., Durkee, K., Fairall, C., Bianco, L., and Brioude, J.: Meteorological model evaluation for CalNex 2010, Mon. Weather Rev., 140, 3885–3906, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/amt-6-719-2013</doi>
+              <unstructured_citation>Baidar, S., Oetjen, H., Coburn, S., Dix, B., Ortega, I., Sinreich, R., and Volkamer, R.: The CU Airborne MAX-DOAS instrument: vertical profiling of aerosol extinction and trace gases, Atmos. Meas. Tech., 6, 719–739, https://doi.org/10.5194/amt-6-719-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.9734/BJECC/2013/5740</doi>
+              <unstructured_citation>Baidar, S., Volkamer, R., Alvarez, R., Brewer, A., Davies, F., Langford, A., Oetjen, H., Pearson, G., Senff, C., and Hardesty, R. M.: Combining Active and Passive Airborne Remote Sensing to Quantify $NO_2$ and $O_x$ Production near Bakersfield, CA, British Journal for Environmental and Climate Change, 3, 566–586, https://doi.org/10.9734/BJECC/2013/5740, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/acp-11-10995-2011</doi>
+              <unstructured_citation>Bertram, A. K., Martin, S. T., Hanna, S. J., Smith, M. L., Bodsworth, A., Chen, Q., Kuwata, M., Liu, A., You, Y., and Zorn, S. R.: Predicting the relative humidities of liquid-liquid phase separation, efflorescence, and deliquescence of mixed particles of ammonium sulfate, organic material, and water using the organic-to-sulfate mass ratio of the particle and the oxygen-to-carbon elemental ratio of the organic component, Atmos. Chem. Phys., 11, 10995–11006, https://doi.org/10.5194/acp-11-10995-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/acp-5-641-2005</doi>
+              <unstructured_citation>Bloss, C., Wagner, V., Jenkin, M. E., Volkamer, R., Bloss, W. J., Lee, J. D., Heard, D. E., Wirtz, K., Martin-Reviejo, M., Rea, G., Wenger, J. C., and Pilling, M. J.: Development of a detailed chemical mechanism (MCMv3.1) for the atmospheric oxidation of aromatic hydrocarbons, Atmos. Chem. Phys., 5, 641–664, https://doi.org/10.5194/acp-5-641-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/jgrd.50059</doi>
+              <unstructured_citation>Borbon, A., Gilman, J., Kuster, W., Grand, N., Chevaillier, S., Colomb, A., Dolgorouky, C., Gros, V., Lopez, M., Sarda-Esteve, R., Holloway, J. S., Stutz, J., Petetin, H., McKeen, S., Beekman, M., Warneke, C., Parrish, D., and De Gouw, J.: Emission ratios of anthropogenic volatile organic compounds in northern mid-latitude megacities: observations versus emission inventories in Los Angeles and Paris, J. Geophys. Res.-Atmos., 118, 2041–2057, https://doi.org/10.1002/jgrd.50059, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/acp-13-3661-2013</doi>
+              <unstructured_citation>Brioude, J., Angevine, W. M., Ahmadov, R., Kim, S.-W., Evan, S., McKeen, S. A., Hsie, E.-Y., Frost, G. J., Neuman, J. A., Pollack, I. B., Peischl, J., Ryerson, T. B., Holloway, J., Brown, S. S., Nowak, J. B., Roberts, J. M., Wofsy, S. C., Santoni, G. W., Oda, T., and Trainer, M.: Top-down estimate of surface flux in the Los Angeles Basin using a mesoscale inverse modeling technique: assessing anthropogenic emissions of CO, NOx and CO2 and their impacts, Atmos. Chem. Phys., 13, 3661–3677, https://doi.org/10.5194/acp-13-3661-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1039/a701468f</doi>
+              <unstructured_citation>Buxton, G. V., Malone, T. N., and Salmon, G. A.: Oxidation of glyoxal initiated by OH in oxygenated aqueous solution, J. Chem. Soc. Faraday, T., 93, 2889–2891, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Calvert, J. G., Atkinson, R., Becker, K. H., Kamens, R. M., Seinfeld, J. H., Wallington, T. J., and Yarwood, G.: The Mechanisms of Atmospheric Oxidation of Aromatic Hydrocarbons, Oxford University Press, New York, 1–540, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1016/j.atmosenv.2007.05.035</doi>
+              <unstructured_citation>Carlton, A. G., Turpin, B. J., Altieri, K. E., Seitzinger, S., Reff, A., Lim, H.-J., and Ervens, B.: Atmospheric oxalic acid and SOA production from glyoxal: results of aqueous photooxidation experiments, Atmos. Environ., 41, 7588–7602, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1021/es801192n</doi>
+              <unstructured_citation>Carlton, A. G., Turpin, B. J., Altieri, K. E., Seitzinger, S., Mathur, R., Roselle, S. J., and Weber, R. J.: CMAQ model performance enhanced when in-cloud secondary organic aerosol is included: Comparisons of organic carbon predictions with measurements, Environ. Sci. Technol., 42, 8798–8802, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Carter, W. P., Luo, D., and Malkina, I. L.: Documentation of the SAPRC-99 Chemical Mechanism for VOC Reactivity Assessment, California Environmental Protection Agency, Air Resources Board, Research Division, Riverside, California, 1–392, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Computational and Information Systems Laboratory. Yellowstone: IBM iDataPlex System (NCAR Community Computing). Boulder, CO: National Center for Atmospheric Research. http://n2t.net/ark:/85065/d7wd3xhc (last access: April 2014), 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1021/es902152t</doi>
+              <unstructured_citation>De Haan, D. O., Corrigan, A. L., Tolbert, M. A., Jimenez, J. L., Wood, S. E., and Turley, J. J.: Secondary organic aerosol formation by self-reactions of methylglyoxal and glyoxal in evaporating droplets, Environ. Sci. Technol., 43, 8184–8190, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2001JD001490</doi>
+              <unstructured_citation>Dreyfus, G. B., Schade, G. W., and Goldstein, A. H.: Observational constraints on the contribution of isoprene oxidation to ozone production on the western slope of the Sierra Nevada, California, J. Geophys. Res., 107, 4365, https://doi.org/10.1029/2001JD001490, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2011JD016674</doi>
+              <unstructured_citation>Duong, H. T., Sorooshian, A., Craven, J. S., Hersey, S. P., Metcalf, A. R., Zhang, X., Weber, R. J., Jonsson, H., Flagan, R. C., and Seinfeld, J. H.: Water-soluble organic aerosol in the Los Angeles Basin and outflow regions: airborne and ground measurements during the 2010 CalNex field campaign, J. Geophys. Res.-Atmos., 116, D00V04, https://doi.org/10.1029/2011JD016674, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/gmd-3-43-2010</doi>
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G., Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando, J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.: Description and evaluation of the Model for Ozone and Related chemical Tracers, version 4 (MOZART-4), Geosci. Model Dev., 3, 43–67, https://doi.org/10.5194/gmd-3-43-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-10-8219-2010</doi>
+              <unstructured_citation>Ervens, B. and Volkamer, R.: Glyoxal processing by aerosol multiphase chemistry: towards a kinetic modeling framework of secondary organic aerosol formation in aqueous particles, Atmos. Chem. Phys., 10, 8219–8244, https://doi.org/10.5194/acp-10-8219-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-11-11069-2011</doi>
+              <unstructured_citation>Ervens, B., Turpin, B. J., and Weber, R. J.: Secondary organic aerosol formation in cloud droplets and aqueous particles (aqSOA): a review of laboratory, field and model studies, Atmos. Chem. Phys., 11, 11069–11102, https://doi.org/10.5194/acp-11-11069-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2005JD006721</doi>
+              <unstructured_citation>Fast, J., Gustafson Jr, W., Easter, R., Zaveri, R., Barnard, J., Chapman, E., Grell, G., and Peckham, S.: Evolution of ozone, particulates, and aerosol direct radiative forcing in the vicinity of Houston using a fully coupled meteorology-chemistry-aerosol model, J. Geophys. Res., 111, D21305, https://doi.org/10.1029/2005JD006721, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/2010BAMS2868.1</doi>
+              <unstructured_citation>Fast, J. D., Gustafson Jr, W. I., Chapman, E. G., Easter, R. C., Rishel, J. P., Zaveri, R. A., Grell, G. A., and Barth, M. C.: The aerosol modeling testbed: a community tool to objectively evaluate aerosol process modules, B. Am. Meterol. Soc., 92, 343–360, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/acp-12-1759-2012</doi>
+              <unstructured_citation>Fast, J. D., Gustafson Jr., W. I., Berg, L. K., Shaw, W. J., Pekour, M., Shrivastava, M., Barnard, J. C., Ferrare, R. A., Hostetler, C. A., Hair, J. A., Erickson, M., Jobson, B. T., Flowers, B., Dubey, M. K., Springston, S., Pierce, R. B., Dolislager, L., Pederson, J., and Zaveri, R. A.: Transport and mixing patterns over Central California during the carbonaceous aerosol and radiative effects study (CARES), Atmos. Chem. Phys., 12, 1759–1783, https://doi.org/10.5194/acp-12-1759-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2007JD009505</doi>
+              <unstructured_citation>Fu, T.-M., Jacob, D. J., Wittrock, F., Burrows, J. P., Vrekoussis, M., and Henze, D. K.: Global budgets of atmospheric glyoxal and methylglyoxal, and implications for formation of secondary organic aerosols, J. Geophys. Res.-Atmos., 113, D15303, https://doi.org/10.1029/2007JD009505, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-9-3331-2009</doi>
+              <unstructured_citation>Galloway, M. M., Chhabra, P. S., Chan, A. W. H., Surratt, J. D., Flagan, R. C., Seinfeld, J. H., and Keutsch, F. N.: Glyoxal uptake on ammonium sulphate seed aerosol: reaction products and reversibility of uptake under dark and irradiated conditions, Atmos. Chem. Phys., 9, 3331–3345, https://doi.org/10.5194/acp-9-3331-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/acp-11-10779-2011</doi>
+              <unstructured_citation>Galloway, M. M., Huisman, A. J., Yee, L. D., Chan, A. W. H., Loza, C. L., Seinfeld, J. H., and Keutsch, F. N.: Yields of oxidized volatile organic compounds during the OH radical initiated oxidation of isoprene, methyl vinyl ketone, and methacrolein under high-NOx conditions, Atmos. Chem. Phys., 11, 10779–10790, https://doi.org/10.5194/acp-11-10779-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1073/pnas.1212272109</doi>
+              <unstructured_citation>Gentner, D. R., Isaacman, G., Worton, D. R., Chan, A. W., Dallmann, T. R., Davis, L., Liu, S., Day, D. A., Russell, L. M., Wilson, K. R., Gentner, D. R., Isaacman, G., Worton, D. R., Chan, A. W. H., Dallmann, T. R., Davis, L., Liu, S., Day, D. A., Russell, L. M., Wilson, K. R., Weber, R., Guha, A., Harley, R. A., and Goldstein, A. H.: Elucidating secondary organic aerosol from diesel and gasoline vehicles through detailed characterization of organic carbon emissions, P. Natl. Acad. Sci. USA, 109, 18318–18323, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1021/es072476p</doi>
+              <unstructured_citation>Goldstein, A. H. and Galbally, I. E.: Known and unexplored organic constituents in the earth's atmosphere, Environ. Sci. Technol., 41, 1514–1521, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.04.027</doi>
+              <unstructured_citation>Grell, G., Peckham, S., Schmitz, R., McKeen, S., Frost, G., Skamarock, W., and Eder, B.: Fully coupled online chemistry within the WRF model, Atmos. Environ., 39, 6957–6975, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/acp-6-3181-2006</doi>
+              <unstructured_citation>Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I., and Geron, C.: Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature), Atmos. Chem. Phys., 6, 3181–3210, https://doi.org/10.5194/acp-6-3181-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1021/j100273a039</doi>
+              <unstructured_citation>Hatakeyama, S., Washida, N., and Akimoto, H.: Rate constants and mechanisms for the reaction of hydroxyl (OD) radicals with acetylene, propyne, and 2-butyne in air at $297 +/- 2$ K, J. Phys. Chem., 90, 173–178, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1002/jgrd.50530</doi>
+              <unstructured_citation>Hayes, P., Ortega, A., Cubison, M., Froyd, K., Zhao, Y., Cliff, S., Hu, W., Toohey, D., Flynn, J., Lefer, B., Grossberg, N., Alvarez, S., Rappenglück, B., Taylor, J. W., Allan, J. D., Holloway, J. S., Gilman, J. B., Kuster, W. C., De Gouw, J., Massoli, P., Zhang, X., Liu, J., Weber, R. J., Corrigan, A. L., Russell, L. M., Isaacman, G., Worton, D. R., Kreisberg, N. M., Goldstein, A. H., Thalman, R., Waxman, E. M., Volkamer, R., Lin, Y. H., Surrat, J. D., Kleindienst, T. E., Offenberg, J. H., Dusanter, S., Griffith, S., Stevens, P. S., Brioude, J., Angevine, W. M., and Jimenez, J. L.: Organic aerosol composition and sources in Pasadena, California during the 2010 CalNex campaign, J. Geophys. Res.-Atmos., 118, 9233–9257, https://doi.org/10.1002/jgrd.50530, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/jgrd.50307</doi>
+              <unstructured_citation>Hersey, S. P., Craven, J. S., Metcalf, A. R., Lin, J., Lathem, T., Suski, K. J., Cahill, J. F., Duong, H. T., Sorooshian, A., Jonsson, H. H., Hersey, S. P., Craven, J. S., Metcalf, A. R., Lin, J., Lathem, T., Suski, K. J., Cahill, J. F., Duong, H. T., Sorooshian, A., Jonsson, H. H., Shiraiwa, M., Zuend, A., Nenes, A., Prather, K. A., Flagan, R. C., and Seinfeld, J. H.: Composition and hygroscopicity of the Los Angeles Aerosol: CalNex, J. Geophys. Res.-Atmos., 118, 3016–3036, https://doi.org/10.1002/jgrd.50307, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/gmd-4-901-2011</doi>
+              <unstructured_citation>Hodzic, A. and Jimenez, J. L.: Modeling anthropogenically controlled secondary organic aerosols in a megacity: a simplified framework for global and climate models, Geosci. Model Dev., 4, 901–917, https://doi.org/10.5194/gmd-4-901-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-13-10125-2013</doi>
+              <unstructured_citation>Holzinger, R., Goldstein, A. H., Hayes, P. L., Jimenez, J. L., and Timkovsky, J.: Chemical evolution of organic aerosol in Los Angeles during the CalNex 2010 study, Atmos. Chem. Phys., 13, 10125–10141, https://doi.org/10.5194/acp-13-10125-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1021/es400083d</doi>
+              <unstructured_citation>Kampf, C. J., Waxman, E. M., Slowik, J. G., Dommen, J., Pfaffenberger, L., Praplan, A. P., Prevot, A. S., Baltensperger, U., Hoffmann, T., and Volkamer, R.: Effective Henrys Law partitioning and the salting constant of glyoxal in aerosols containing sulfate, Environ. Sci. Technol., 47, 4236–4244, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/gmd-4-1077-2011</doi>
+              <unstructured_citation>Knote, C., Brunner, D., Vogel, H., Allan, J., Asmi, A., Äijälä, M., Carbone, S., van der Gon, H. D., Jimenez, J. L., Kiendler-Scharr, A., Mohr, C., Poulain, L., Prévôt, A. S. H., Swietlicki, E., and Vogel, B.: Towards an online-coupled chemistry-climate model: evaluation of trace gases and aerosols in COSMO-ART, Geosci. Model Dev., 4, 1077–1102, https://doi.org/10.5194/gmd-4-1077-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2005JD006004</doi>
+              <unstructured_citation>Kroll, J. H., Ng, N. L., Murphy, S. M., Varutbangkul, V., Flagan, R. C., and Seinfeld, J. H.: Chamber studies of secondary organic aerosol growth by reactive uptake of simple carbonyl compounds. J. Geophys. Res.-Atmos., 110, D23207, https://doi.org/10.1029/2005JD006004, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1016/j.atmosenv.2012.12.005</doi>
+              <unstructured_citation>Li, N., Fu, T.-M., Cao, J., Lee, S., Huang, X.-F., He, L.-Y., Ho, K.-F., Fu, J. S., and Lam, Y.-F.: Sources of secondary organic aerosols in the Pearl River Delta region in fall: Contributions from the aqueous reactive uptake of dicarbonyls, Atmos. Environ., 76, 200–207, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/2004JD005113</doi>
+              <unstructured_citation>Liggio, J., Li, S., and McLaren, R.: Reactive uptake of glyoxal by particulate matter, J. Geophys. Res.-Atmos., 110, D10304, https://doi.org/10.1029/2004JD005113, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-10-10521-2010</doi>
+              <unstructured_citation>Lim, Y. B., Tan, Y., Perri, M. J., Seitzinger, S. P., and Turpin, B. J.: Aqueous chemistry and its role in secondary organic aerosol (SOA) formation, Atmos. Chem. Phys., 10, 10521–10539, https://doi.org/10.5194/acp-10-10521-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2012JD017912</doi>
+              <unstructured_citation>Liu, J., Zhang, X., Parker, E. T., Veres, P. R., Roberts, J. M., Gouw, J. A., Hayes, P. L., Jimenez, J. L., Murphy, J. G., Ellis, R. A., Huey, L. G., and Weber, R. J.: On the gas-particle partitioning of soluble organic aerosol in two urban atmospheres with contrasting emissions: 2. Gas and particle phase formic acid, J. Geophys. Res.-Atmos., 117, D00V21, https://doi.org/10.1029/2012JD017912, 2012a.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2012JD018170</doi>
+              <unstructured_citation>Liu, S., Ahlm, L., Day, D. A., Russell, L. M., Zhao, Y., Gentner, D. R., Weber, R. J., Goldstein, A. H., Jaoui, M., Offenberg, J. H., Kleindienst, T. E., Rubitschun, C., Surrat, J. D., Sheesley, R. J., and Scheller, S.: Secondary organic aerosol formation from fossil fuel sources contribute majority of summertime organic mass at Bakersfield, J. Geophys. Res.-Atmos., 117, D00V26, https://doi.org/10.1029/2012JD018170, 2012b.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/acp-12-8009-2012</doi>
+              <unstructured_citation>Mao, J., Ren, X., Zhang, L., Van Duin, D. M., Cohen, R. C., Park, J.-H., Goldstein, A. H., Paulot, F., Beaver, M. R., Crounse, J. D., Wennberg, P. O., DiGangi, J. P., Henry, S. B., Keutsch, F. N., Park, C., Schade, G. W., Wolfe, G. M., Thornton, J. A., and Brune, W. H.: Insights into hydroxyl measurements and atmospheric oxidation in a California forest, Atmos. Chem. Phys., 12, 8009–8020, https://doi.org/10.5194/acp-12-8009-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2012JD018304</doi>
+              <unstructured_citation>McDonald, B. C., Dallmann, T. R., Martin, E. W., and Harley, R. A.: Long-term trends in nitrogen oxide emissions from motor vehicles at national, state, and air basin scales, J. Geophys. Res.-Atmos., 117, D00V18, https://doi.org/10.1029/2012JD018304, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1021/es3002986</doi>
+              <unstructured_citation>McNeill, V. F., Woo, J. L., Kim, D. D., Schwier, A. N., Wannell, N. J., Sumner, A. J., and Barakat, J. M.: Aqueous-phase secondary organic aerosol and organosulfate formation in atmospheric aerosols: a modeling study, Environ. Sci. Technol., 46, 8075–8081, https://doi.org/10.1021/es3002986, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-8-4965-2008</doi>
+              <unstructured_citation>Myriokefalitakis, S., Vrekoussis, M., Tsigaridis, K., Wittrock, F., Richter, A., Brühl, C., Volkamer, R., Burrows, J. P., and Kanakidou, M.: The influence of natural and anthropogenic secondary sources on the glyoxal global distribution, Atmos. Chem. Phys., 8, 4965–4981, https://doi.org/10.5194/acp-8-4965-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>National Centers for Environmental Prediction/National Weather Service/NOAA/U.S. Department of Commerce, NCEP FNL Operational Model Global Tropospheric Analyses, continuing from July 1999, http://rda.ucar.edu/datasets/ds083.2, Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory, Boulder, CO, updated daily, last access: 11 April 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2012GL051197</doi>
+              <unstructured_citation>Nowak, J., Neuman, J., Bahreini, R., Middlebrook, A., Holloway, J., McKeen, S., Parrish, D., Ryerson, T., and Trainer, M.: Ammonia sources in the California South Coast Air Basin and their impact on ammonium nitrate formation, Geophys. Res. Lett., 39, L07804, https://doi.org/10.1029/2012GL051197, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1021/jp8078293</doi>
+              <unstructured_citation>Noziere, B., Dziedzic, P., and Cordova, A.: Products and kinetics of the liquid-phase reaction of glyoxal catalyzed by ammonium ions (\\chemNH_4^+), J. Phys. Chem. A, 113, 231–237, https://doi.org/10.1021/jp8078293, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1016/j.atmosenv.2012.11.056</doi>
+              <unstructured_citation>O'Brien, R. E., Laskin, A., Laskin, J., Liu, S., Weber, R., Russell, L. M., and Goldstein, A. H.: Molecular characterization of organic aerosol using nanospray desorption/electrospray ionization mass spectrometry: CalNex 2010 field study, Atmos. Environ., 689, 265–272, https://doi.org/10.1016/j.atmosenv.2012.11.056, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Press, W. H.: Numerical Recipes in Fortran 77: The Art of Scientific Computing, vol. 1, Cambridge University Press, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/acp-12-8323-2012</doi>
+              <unstructured_citation>Pusede, S. E. and Cohen, R. C.: On the observed response of ozone to NOx and VOC reactivity reductions in San Joaquin Valley California 1995–present, Atmos. Chem. Phys., 12, 8323–8339, https://doi.org/10.5194/acp-12-8323-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1126/science.1221520</doi>
+              <unstructured_citation>Rollins, A., Browne, E., Min, K.-E., Pusede, S., Wooldridge, P., Gentner, D., Goldstein, A., Liu, S., Day, D., Russell, L., and Cohen, R. C.: Evidence for NOx control over nighttime SOA formation, Science, 337, 1210–1212, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1002/jgrd.50331</doi>
+              <unstructured_citation>Ryerson, T., Andrews, A., Angevine, W., Bates, T., Brock, C., Cairns, B., Cohen, R., Cooper, O., Gouw, J., Fehsenfeld, F., Ferrare, R. A., Fischer, M. L., Flagan, R. C., Goldstein, A. H., Hair, J. W., Hardesty, R. M., Hostetler, C. A., Jimenez, J. L., Langford, A. O., McCauley, E., McKeen, S. A., Molina, L. T., Nenes, A., Oltmans, S. J., Parrish, D. D., Pederson, J. R., Pierce, R. B., Prather, K., Quinn, P. K., Seinfeld, J. H., Senff, C. J., Sorooshian, A., Stutz, J., Surratt, J. D., Trainer, M., Volkamer, R., Williams, E. J., and Wofsy, S. C.: The 2010 California Research at the Nexus of Air Quality and Climate Change (CalNex) field study, J. Geophys. Res.-Atmos., 118, 5830–5866, https://doi.org/10.1002/jgrd.50331, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Sander, S. P., Abbatt, J., Barker, J. R., Burkholder, J. B., Friedl, R. R., Golden, D. M., Huie, R. E., Kolb, C. E., Kurylo, M. J., Moortgat, G. K., Orkin, V. L., and Wine, P. H.: Chemical kinetics and photochemical data for use in atmospheric studies, Evaluation No. 17, JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, available at: http://jpldataeval.jpl.nasa.gov (last access: July 2013), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/acp-12-8131-2012</doi>
+              <unstructured_citation>Setyan, A., Zhang, Q., Merkel, M., Knighton, W. B., Sun, Y., Song, C., Shilling, J. E., Onasch, T. B., Herndon, S. C., Worsnop, D. R., Fast, J. D., Zaveri, R. A., Berg, L. K., Wiedensohler, A., Flowers, B. A., Dubey, M. K., and Subramanian, R.: Characterization of submicron particles influenced by mixed biogenic and anthropogenic emissions using high-resolution aerosol mass spectrometry: results from CARES, Atmos. Chem. Phys., 12, 8131–8156, https://doi.org/10.5194/acp-12-8131-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-13-2091-2013</doi>
+              <unstructured_citation>Shilling, J. E., Zaveri, R. A., Fast, J. D., Kleinman, L., Alexander, M. L., Canagaratna, M. R., Fortner, E., Hubbe, J. M., Jayne, J. T., Sedlacek, A., Setyan, A., Springston, S., Worsnop, D. R., and Zhang, Q.: Enhanced SOA formation from mixed anthropogenic and biogenic emissions during the CARES campaign, Atmos. Chem. Phys., 13, 2091–2113, https://doi.org/10.5194/acp-13-2091-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/acp-11-6639-2011</doi>
+              <unstructured_citation>Shrivastava, M., Fast, J., Easter, R., Gustafson Jr., W. I., Zaveri, R. A., Jimenez, J. L., Saide, P., and Hodzic, A.: Modeling organic aerosols in a megacity: comparison of simple and complex representations of the volatility basis set approach, Atmos. Chem. Phys., 11, 6639–6662, https://doi.org/10.5194/acp-11-6639-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/acp-9-8431-2009</doi>
+              <unstructured_citation>Stavrakou, T., Müller, J.-F., De Smedt, I., Van Roozendael, M., Kanakidou, M., Vrekoussis, M., Wittrock, F., Richter, A., and Burrows, J. P.: The continental source of glyoxal estimated by the synergistic use of spaceborne measurements and inverse modelling, Atmos. Chem. Phys., 9, 8431–8446, https://doi.org/10.5194/acp-9-8431-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.5194/amt-3-1797-2010</doi>
+              <unstructured_citation>Thalman, R. and Volkamer, R.: Inherent calibration of a blue LED-CE-DOAS instrument to measure iodine oxide, glyoxal, methyl glyoxal, nitrogen dioxide, water vapour and aerosol extinction in open cavity mode, Atmos. Meas. Tech., 3, 1797–1814, https://doi.org/10.5194/amt-3-1797-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Thalman, R. M., Waxman, E. M., Tyndall, G., Orlando, J., Karl, T., Kim, S., Seco, R., Su, L., Mak, J., and Volkamer, R.: Temperature dependent first generation product yields of minor mono and di-substituted carbonyls from the OH-radical initiated oxidation of isoprene under high and near-zero NOx conditions, in preparation, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1029/2003JD003659</doi>
+              <unstructured_citation>Tie, X., Madronich, S., Walters, S., Zhang, R., Rasch, P., and Collins, W.: Effect of clouds on photolysis and oxidants in the troposphere, J. Geophys. Res.-Atmos., 108, 4642, https://doi.org/10.1029/2003JD003659, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/acp-11-9697-2011</doi>
+              <unstructured_citation>Trainic, M., Abo Riziq, A., Lavi, A., Flores, J. M., and Rudich, Y.: The optical, physical and chemical properties of the products of glyoxal uptake on ammonium sulfate seed aerosols, Atmospheric Chemistry and Physics, 11, 9697–707, https://doi.org/10.5194/acp-11-9697-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1021/jp010152w</doi>
+              <unstructured_citation>Volkamer, R., Platt, U., and Wirtz, K.: Primary and secondary glyoxal formation from aromatics: experimental evidence for the bicycloalkyl-radical pathway from benzene, toluene, and p-xylene, J. Phys. Chem. A, 105, 7865–7874, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/2005GL022616</doi>
+              <unstructured_citation>Volkamer, R., Molina, L., Molina, M., Shirley, T., and Brune, W.: DOAS measurement of glyoxal as an indicator for fast VOC chemistry in urban air, Geophys. Res. Lett., 32, L08806, https://doi.org/10.1029/2005GL022616, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1029/2007GL030752</doi>
+              <unstructured_citation>Volkamer, R., Martini, F. S., Molina, L. T., Salcedo, D., Jimenez, J. L., and Molina, M. J.: A missing sink for gas-phase glyoxal in Mexico City: formation of secondary organic aerosol, Geophys. Res. Lett., 34, L19807, https://doi.org/10.1029/2007GL030752, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.5194/acp-9-1907-2009</doi>
+              <unstructured_citation>Volkamer, R., Ziemann, P. J., and Molina, M. J.: Secondary organic aerosol formation from acetylene (C2H2): Seed effect on SOA yields due to organic photochemistry in the aerosol aqueous phase, Atmos. Chem. Phys., 9, 1907-1928, https://doi.org/10.5194/acp-9-1907-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1002/jgrd.50423</doi>
+              <unstructured_citation>Warneke, C., Gouw, J. A., Edwards, P. M., Holloway, J. S., Gilman, J. B., Kuster, W. C., Graus, M., Atlas, E., Blake, D., Gentner, D. R., Goldstein, A. H., Harley, R. A., Alvarez, S., Rappenglück, B., Trainer, M., and Parrish, D.: Photochemical aging of volatile organic compounds in the Los Angeles basin: weekday-weekend effect, J. Geophys. Res.-Atmos., 118, 5018–5028, https://doi.org/10.1002/jgrd.50423, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.5194/acp-8-7779-2008</doi>
+              <unstructured_citation>Washenfelder, R. A., Langford, A. O., Fuchs, H., and Brown, S. S.: Measurement of glyoxal using an incoherent broadband cavity enhanced absorption spectrometer, Atmos. Chem. Phys., 8, 7779–7793, https://doi.org/10.5194/acp-8-7779-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1029/2011JD016314</doi>
+              <unstructured_citation>Washenfelder, R., Young, C., Brown, S., Angevine, W., Atlas, E., Blake, D., Bon, D., Cubison, M., De Gouw, J., Dusanter, S., Flynn, J., Gilman, J. B., Graus, M., Griffith, S., Grossberg, N., Hayes, P. L., Jimenez, J., Kuster, W., Lefer, B. L., Pollack, I., Ryerson, T., Stark, H., Stevens, P. S., and Trainer, M.: The glyoxal budget and its contribution to organic aerosol for Los Angeles, California, during CalNex 2010, J. Geophys. Res., 116, D00V02, https://doi.org/10.1029/2011JD016314, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1002/grl.50203</doi>
+              <unstructured_citation>Waxman, E. M., Dzepina, K., Ervens, B., Lee-Taylor, J., Aumont, B., Jimenez, J. L., Madronich, S., and Volkamer, R.: Secondary organic aerosol formation from semi-and intermediate-volatility organic compounds and glyoxal: relevance of $\\chemO/\\chemC$ as a tracer for aqueous multiphase chemistry, Geophys. Res. Lett., 40, 978–982, https://doi.org/10.1002/grl.50203, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1029/2004JD005618</doi>
+              <unstructured_citation>Zaveri, R. A., Easter, R. C., and Peters, L. K.: A computationally efficient multicomponent equilibrium solver for aerosols (MESA), J. Geophys. Res.-Atmos., 110, D24203, https://doi.org/10.1029/2004JD005618, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1029/2007JD008782</doi>
+              <unstructured_citation>Zaveri, R., Easter, R., Fast, J., and Peters, L.: Model for simulating aerosol interactions and chemistry (MOSAIC), J. Geophys. Res., 113, D13204, https://doi.org/10.1029/2007JD008782, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.5194/acp-12-7647-2012</doi>
+              <unstructured_citation>Zaveri, R. A., Shaw, W. J., Cziczo, D. J., Schmid, B., Ferrare, R. A., Alexander, M. L., Alexandrov, M., Alvarez, R. J., Arnott, W. P., Atkinson, D. B., Baidar, S., Banta, R. M., Barnard, J. C., Beranek, J., Berg, L. K., Brechtel, F., Brewer, W. A., Cahill, J. F., Cairns, B., Cappa, C. D., Chand, D., China, S., Comstock, J. M., Dubey, M. K., Easter, R. C., Erickson, M. H., Fast, J. D., Floerchinger, C., Flowers, B. A., Fortner, E., Gaffney, J. S., Gilles, M. K., Gorkowski, K., Gustafson, W. I., Gyawali, M., Hair, J., Hardesty, R. M., Harworth, J. W., Herndon, S., Hiranuma, N., Hostetler, C., Hubbe, J. M., Jayne, J. T., Jeong, H., Jobson, B. T., Kassianov, E. I., Kleinman, L. I., Kluzek, C., Knighton, B., Kolesar, K. R., Kuang, C., Kubátová, A., Langford, A. O., Laskin, A., Laulainen, N., Marchbanks, R. D., Mazzoleni, C., Mei, F., Moffet, R. C., Nelson, D., Obland, M. D., Oetjen, H., Onasch, T. B., Ortega, I., Ottaviani, M., Pekour, M., Prather, K. A., Radney, J. G., Rogers, R. R., Sandberg, S. P., Sedlacek, A., Senff, C. J., Senum, G., Setyan, A., Shilling, J. E., Shrivastava, M., Song, C., Springston, S. R., Subramanian, R., Suski, K., Tomlinson, J., Volkamer, R., Wallace, H. W., Wang, J., Weickmann, A. M., Worsnop, D. R., Yu, X.-Y., Zelenyuk, A., and Zhang, Q.: Overview of the 2010 Carbonaceous Aerosols and Radiative Effects Study (CARES), Atmos. Chem. Phys., 12, 7647–7687, https://doi.org/10.5194/acp-12-7647-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/2012JD017908</doi>
+              <unstructured_citation>Zhang, X., Liu, J., Parker, E. T., Hayes, P. L., Jimenez, J. L., Gouw, J. A., Flynn, J. H., Grossberg, N., Lefer, B. L., and Weber, R. J.: On the gas-particle partitioning of soluble organic aerosol in two urban atmospheres with contrasting emissions: 1. Bulk water-soluble organic carbon, J. Geophys. Res.-Atmos., 117, D00V16, https://doi.org/10.1029/2012JD017908, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1021/es304587x</doi>
+              <unstructured_citation>Zhao, Y., Kreisberg, N. M., Worton, D. R., Isaacman, G., Weber, R. J., Liu, S., Day, D. A., Russell, L. M., Markovic, M. Z., VandenBoer, T. C., Murphy, J. G., Hering, S. V., and Goldstein, A. H.: Insights into secondary organic aerosol formation mechanisms from measured gas/particle partitioning of specific organic tracer compounds, Environ. Sci. Technol., 47, 3781–3787, 2013.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-14-6213-2014-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/14/6213/2014/acp-14-6213-2014-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

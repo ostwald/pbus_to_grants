@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>8</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>libmpdata++ 1.0: a library of parallel MPDATA solvers for systems of generalised transport equations</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Jaruga</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Arabas</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D.</given_name>
+              <surname>Jarecka</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>H.</given_name>
+              <surname>Pawlowska</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>P. K.</given_name>
+              <surname>Smolarkiewicz</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M.</given_name>
+              <surname>Waruszewski</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This paper accompanies the first release of libmpdata++, a C++ library implementing the multi-dimensional positive-definite advection transport algorithm (MPDATA) on regular structured grid. The library offers basic numerical solvers for systems of generalised transport equations. The solvers are forward-in-time, conservative and non-linearly stable. The libmpdata++ library covers the basic second-order-accurate formulation of MPDATA, its third-order variant, the infinite-gauge option for variable-sign fields and a flux-corrected transport extension to guarantee non-oscillatory solutions. The library is equipped with a non-symmetric variational elliptic solver for implicit evaluation of pressure gradient terms. All solvers offer parallelisation through domain decomposition using shared-memory parallelisation. <br><br> The paper describes the library programming interface, and serves as a user guide. Supported options are illustrated with benchmarks discussed in the MPDATA literature. Benchmark descriptions include code snippets as well as quantitative representations of simulation results. Examples of applications include homogeneous transport in one, two and three dimensions in Cartesian and spherical domains; a shallow-water system compared with analytical solution (originally derived for a 2-D case); and a buoyant convection problem in an incompressible Boussinesq fluid with interfacial instability. All the examples are implemented out of the library tree. Regardless of the differences in the problem dimensionality, right-hand-side terms, boundary conditions and parallelisation approach, all the examples use the same unmodified library, which is a key goal of libmpdata++ design. The design, based on the principle of separation of concerns, prioritises the user and developer productivity. The libmpdata++ library is implemented in C++, making use of the Blitz++ multi-dimensional array containers, and is released as free/libre and open-source software.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>08</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>1005</first_page>
+            <last_page>1032</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Narodowe Centrum Nauki
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100004281</assertion>
+              </assertion>
+              <assertion name="award_number">2012/06/M/ST10/00434</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-8-1005-2015</doi>
+            <resource>https://www.geosci-model-dev.net/8/1005/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/8/1005/2015/gmd-8-1005-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Arabas, S., Jarecka, D., Jaruga, A., and Fijałkowski, M.: Formula translation in Blitz++, NumPy and modern Fortran: a case study of the language choice tradeoffs, Sci. Prog., 22, 201–222, https://doi.org/10.3233/SPR-140379, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1016/B978-0-12-460817-7.50009-4</doi>
+              <unstructured_citation>Arakawa, A. and Lamb, V. R.: Computational design of the basic dynamical process of the UCLA general circulation model, in: General Circulation Models of the Atmosphere, vol. 17 of Methods in Computational Physics: Advances in Research and Applications, Elsevier, 173–265, https://doi.org/10.1016/B978-0-12-460817-7.50009-4, 1977.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1088/1749-4699/6/1/015010</doi>
+              <unstructured_citation>Bangerth, W. and Heister, T.: What makes computational open source software libraries successful?, Comp. Sci. &amp;amp; Discuss., 6, 015010, https://doi.org/10.1088/1749-4699/6/1/015010, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1126/science.1235954</doi>
+              <unstructured_citation>Charbonneau, P. and Smolarkiewicz, P.: Modeling the solar dynamo, Science, 340, 42–43, https://doi.org/10.1126/science.1235954, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1002/fld.287</doi>
+              <unstructured_citation>Cotter, C. S., Smolarkiewicz, P. K., and Szczyrba, I. N.: A viscoelastic fluid model for brain injuries, Int. J. Numer. Meth. Fl., 40, 303–311, https://doi.org/10.1002/fld.287, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1034/j.1600-0870.1993.00004.x</doi>
+              <unstructured_citation>Frei, C.: Dynamics of a two-dimensional ribbon of shallow water on an f-plane, Tellus A, 45, 44–53, https://doi.org/10.1034/j.1600-0870.1993.00004.x, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Grabowski, W. and Smolarkiewicz, P.: A multiscale anelastic model for meteorological research, Mon. Weather Rev., 130, 939–955, https://doi.org/10.1175/1520-0493(2002)1302.0.CO;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1103/PhysRevE.86.056701</doi>
+              <unstructured_citation>Hyman, J., Smolarkiewicz, P., and Winter, C.: Heterogeneities of flow in stochastically generated porous media, Phys. Rev. E, 86, 056701, https://doi.org/10.1103/PhysRevE.86.056701, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1016/j.jcp.2015.02.003</doi>
+              <unstructured_citation>Jarecka, D., Jaruga, A., and Smolarkiewicz, P.: A spreading drop of shallow water, J. Comput. Phys., 289, 53–61, https://doi.org/10.1016/j.jcp.2015.02.003, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1145/363707.363723</doi>
+              <unstructured_citation>Kahan, W.: Pracniques: further remarks on reducing truncation errors, Comm. ACM, 8, p. 40, https://doi.org/10.1145/363707.363723, 1965.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1016/j.jcp.2011.12.012</doi>
+              <unstructured_citation>Kühnlein, C., Smolarkiewicz, P., and Dörnbrack, A.: Modelling atmospheric flows with adaptive moving meshes, J. Comput. Phys., 231, 2741–2763, https://doi.org/10.1016/j.jcp.2011.12.012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1137/S106482759324700X</doi>
+              <unstructured_citation>Margolin, L. and Smolarkiewicz, P.: Antidiffusive velocities for multipass donor cell advection, J. Sci. Comput., 20, 907–929, https://doi.org/10.1137/S106482759324700X, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Maurin, K.: Analysis Part II: Integration, Distributions, Holomorphic Functions, Tensor and Harmonic Analysis, Reidel, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Molenkamp, C.: Accuracy of finite-difference methods applied to the advection equation., J. Appl. Meteorol., 7, 160–167, https://doi.org/10.1175/1520-0450(1968)0072.0.CO;2, 1968.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1103/PhysRevE.79.041307</doi>
+              <unstructured_citation>Ortiz, P. and Smolarkiewicz, P. K.: Coupling the dynamics of boundary layers and evolutionary dunes, Phys. Rev., 79, 041307, https://doi.org/10.1103/PhysRevE.79.041307, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Press, W., Teukolsky, S., Vetterling, W., and Flannery, B.: Numerical recipes. The art of scientific computing, 3rd edn., Cambridge University Press, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1016/j.compfluid.2007.12.001</doi>
+              <unstructured_citation>Prusa, J., Smolarkiewicz, P., and Wyszogrodzki, A.: EULAG, a computational model for multiscale flows, Comput. Fluids, 37, 1193–1207, https://doi.org/10.1016/j.compfluid.2007.12.001, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Randall, D.: Lectures on numerical modelling of the atmosphere, available at: http://kiwi.atmos.colostate.edu/group/dave/at604pdf/Chapter_11.pdf (last access: October 2014), 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Schär, C. and Smith, R. B.: Shallow-water flow past isolated topography. I – Vorticity production and wake formation, J. Atmos. Sci., 50, 1373–1412, https://doi.org/10.1175/1520-0469(1993)0502.0.CO;2, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1006/jcph.1996.0198</doi>
+              <unstructured_citation>Schär, C. and Smolarkiewicz, P.: A synchronous and iterative flux-correction formalism for coupled transport equations, J. Comput. Phys., 128, 101–120, https://doi.org/10.1006/jcph.1996.0198, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Smolarkiewicz, P.: A simple positive definite advection scheme with small implicit diffusion, Mon. Weather Rev., 111, 479–486, https://doi.org/10.1175/1520-0493(1983)1112.0.CO;2, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1016/0021-9991(84)90121-9</doi>
+              <unstructured_citation>Smolarkiewicz, P.: A fully multidimensional positive definite advection transport algorithm with small implicit diffusion, J. Comput. Phys., 54, 325–362, https://doi.org/10.1016/0021-9991(84)90121-9, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/fld.1071</doi>
+              <unstructured_citation>Smolarkiewicz, P.: Multidimensional positive definite advection transport algorithm: an overview, Int. J. Numer. Meth. Fl., 50, 1123–1144, https://doi.org/10.1002/fld.1071, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/0021-9991(86)90270-6</doi>
+              <unstructured_citation>Smolarkiewicz, P. and Clark, T.: The multidimensional positive definite advection transport algorithm – further development and applications, J. Computat. Phys., 67, 396–438, https://doi.org/10.1016/0021-9991(86)90270-6, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1016/0021-9991(90)90105-A</doi>
+              <unstructured_citation>Smolarkiewicz, P. and Grabowski, W.: The multidimensional positive definite advection transport algorithm: Nonoscillatory option, J. Comput. Phys., 86, 355–375, https://doi.org/10.1016/0021-9991(90)90105-A, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.2172/10130964</doi>
+              <unstructured_citation>Smolarkiewicz, P. and Margolin, L.: Variational elliptic solver for atmospheric applications, Tech. Rep. LA-12712-MS, Los Alamos National Lab., https://doi.org/10.2172/10130964, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1006/jcph.1998.5901</doi>
+              <unstructured_citation>Smolarkiewicz, P. and Margolin, L.: MPDATA: a finite-difference solver for geophysical flows, J. Comput. Phys., 140, 459–480, https://doi.org/10.1006/jcph.1998.5901, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Smolarkiewicz, P. and Pudykiewicz, J.: A class of semi-Lagrangian approximations for fluids, J. Atmos. Sci., 49, 2082–2096, https://doi.org/10.1175/1520-0469(1992)0492.0.CO;2, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Smolarkiewicz, P. and Rasch, P.: Monotone advection on the sphere: an Eulerian versus semi-Lagrangian approach, J. Atmos. Sci., 48, 793–810, https://doi.org/10.1175/1520-0469(1991)0482.0.CO;2, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1016/j.jcp.2004.12.021</doi>
+              <unstructured_citation>Smolarkiewicz, P. and Szmelter, J.: MPDATA: an edge-based unstructured-grid formulation, J. Comp. Phys., 206, 624–649, https://doi.org/10.1016/j.jcp.2004.12.021, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1016/j.jcp.2008.08.008</doi>
+              <unstructured_citation>Smolarkiewicz, P. and Szmelter, J.: Iterated upwind schemes for gas dynamics, J. Comput. Phys., 228, 33–54, https://doi.org/10.1016/j.jcp.2008.08.008, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.2478/s11600-011-0043-z</doi>
+              <unstructured_citation>Smolarkiewicz, P. and Szmelter, J.: A nonhydrostatic unstructured-mesh soundproof model for simulation of internal gravity waves, Acta Geophys., 59, 1109–1134, https://doi.org/10.2478/s11600-011-0043-z, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Smolarkiewicz, P. K., Grubišić, V., and Margolin, L. G.: On forward-in-time differencing for fluids: stopping criteria for iterative solutions of anelastic pressure equations, Mon. Weather Rev., 125, 647–654, https://doi.org/10.1175/1520-0493(1997)1252.0.CO;2, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.jcp.2014.01.031</doi>
+              <unstructured_citation>Smolarkiewicz, P., Kühnlein, C., and Wedi, N.: A consistent framework for discrete integrations of soundproof and compressible PDEs of atmospheric dynamics, J. Comput. Phys., 263, 185–205, https://doi.org/10.1016/j.jcp.2014.01.031, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1016/j.jcp.2010.03.017</doi>
+              <unstructured_citation>Szmelter, J. and Smolarkiewicz, P.: An edge-based unstructured mesh discretisation in geospherical framework, J. Comput. Phys., 229, 4980–4995, https://doi.org/10.1016/j.jcp.2010.03.017, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Veldhuizen, T.: Blitz++ user's guide. A C++ class library for scientific computing, Tech. rep., available at: http://blitz.sf.net/resources/blitz-0.9.pdf (last access: October 2014), 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Williamson, D. and Rasch, P.: Two-dimensional semi-Lagrangian transport with shape-preserving interpolation, Mon. Weather Rev., 117, 102–129, https://doi.org/10.1175/1520-0493(1989)1172.0.CO;2, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1371/journal.pbio.1001745</doi>
+              <unstructured_citation>Wilson, G., Aruliah, D. A., Brown, C. T., Chue Hong, N. P., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K., Mitchell, I. M., Plumbley, M., Waugh, B., White, E. P., and Wilson, P.: Best practices for scientific computing, PLoS Biol., 12, e1001745, https://doi.org/10.1371/journal.pbio.1001745, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/gmd-8-1005-2015-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/8/1005/2015/gmd-8-1005-2015-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Practice and philosophy of climate model tuning across six US modeling centers</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Gavin A.</given_name>
+              <surname>Schmidt</surname>
+              <ORCID>https://orcid.org/0000-0002-2258-0486</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David</given_name>
+              <surname>Bader</surname>
+              <ORCID>https://orcid.org/0000-0003-3210-339X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Leo J.</given_name>
+              <surname>Donner</surname>
+              <ORCID>https://orcid.org/0000-0002-1487-7300</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gregory S.</given_name>
+              <surname>Elsaesser</surname>
+              <ORCID>https://orcid.org/0000-0001-5785-4451</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jean-Christophe</given_name>
+              <surname>Golaz</surname>
+              <ORCID>https://orcid.org/0000-0003-1616-5435</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Cecile</given_name>
+              <surname>Hannay</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrea</given_name>
+              <surname>Molod</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Richard B.</given_name>
+              <surname>Neale</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Suranjana</given_name>
+              <surname>Saha</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Model calibration (or <q>tuning</q>) is a necessary part of developing and testing coupled ocean–atmosphere climate models regardless of their main scientific purpose. There is an increasing recognition that this process needs to become more transparent for both users of climate model output and other developers. Knowing how and why climate models are tuned and which targets are used is essential to avoiding possible misattributions of skillful predictions to data accommodation and vice versa. This paper describes the approach and practice of model tuning for the six major US climate modeling centers. While details differ among groups in terms of scientific missions, tuning targets, and tunable parameters, there is a core commonality of approaches. However, practices differ significantly on some key aspects, in particular, in the use of initialized forecast analyses as a tool, the explicit use of the historical transient record, and the use of the present-day radiative imbalance vs. the implied balance in the preindustrial era as a target.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>01</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>3207</first_page>
+            <last_page>3223</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-10-3207-2017</doi>
+            <resource>https://www.geosci-model-dev.net/10/3207/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/10/3207/2017/gmd-10-3207-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/1520-0469(1999)056&lt;4167:ASPOMF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Alexander, M. and Dunkerton, T.: A spectral parameterization of mean-flow forcing due to breaking gravity waves, J. Atmos. Sci., 56, 4167–4182, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/2014GL060962</doi>
+              <unstructured_citation>Allan, R. P., Liu, C., Loeb, N. G., Palmer, M. D., Roberts, M., Smith, D., and Vidale, P.-L.: Changes in global net radiative imbalance 1985–2012, Geophys. Res. Lett., 41, 5588–5597, https://doi.org/10.1002/2014gl060962, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/esd-8-211-2017</doi>
+              <unstructured_citation>Annan, J. D. and Hargreaves, J. C.: On the meaning of independence in climate science, Earth Syst. Dynam., 8, 211–224, https://doi.org/10.5194/esd-8-211-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/JCLI-D-12-00103.1</doi>
+              <unstructured_citation>Benedict, J., Maloney, E., Sobel, A., Frierson, D., and Donner, L.: Tropical intraseasonal variability in Version 3 of the GFDL atmosphere model, J. Climate, 26, 426–449, https://doi.org/10.1175/JCLI-D-12-00103.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.22499/2.6301.004</doi>
+              <unstructured_citation>Bi, D., Dix, M., Marsland, S., O'Farrell, S., Rashid, H., Uotila, P., Hirst, A., Kowalczyk, E., Golebiewski, M., Sullivan, A., Yan, H., Hannah, N., Franklin, C., Sun, Z., Vohralik, P., Watterson, I., Zhou, X., Fiedler, R., Collier, M., Ma, Y., Noonan, J., Stevens, L., Uhe, P., Zhu, H., Griffies, S., Hill, R., Harris, C., and Puri, K.: The ACCESS coupled model: description, control climate and evaluation, Aust. Met. Oceanogr. J., 63, 41–64, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/JCLI-D-13-00075.1</doi>
+              <unstructured_citation>Bogenschutz, P., Gettelman, A., Morrison, H., Larson, V., Craig, C., and Schanen, D.: Higher-order closure and its impact on climate simulations in the Community Atmosphere Model, J. Climate, 26, 9655–9676, https://doi.org/10.1175/JCLI-D-13-00075.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/JAMC-D-12-0291.1</doi>
+              <unstructured_citation>Bosilovich, M. G.: Regional Climate and Variability of NASA MERRA and Recent Reanalyses: U.S. Summertime Precipitation and Temperature, J. Appl. Meteorol. Clim., 52, 1939–1951, https://doi.org/10.1175/jamc-d-12-0291.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;0864:ANPFSC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bretherton, C., McCaa, J., and Grenier, H.: A new parameterization for shallow cumulus parameterization and its application to marine subtropical cloud-topped boundary layers, Mon. Weather Rev., 132, 864–882, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1029/JD095iD10p16601</doi>
+              <unstructured_citation>Cess, R., Potter, G., Blanchet, J., Boer, G., Genio, A. D., Déqué, M., Dymnikov, V., Galin, V., Gates, W. L., Ghan, S. J., Kiehl, J. T., Lacis, A. A., Le Treut, H., Li, Z.-X., Liang, X.-Z., McAvaney, B. J., Meleshko, V. P., Mitchell, J. F. B., Morcrette, J.-J., Randall, D. A., Rikus, L., Roeckner, E., Royer, J. F., Schlese, U., Sheinin, D. A., Slingo, A., Sokolov, A. P., Taylor, K. E., Washington, W. M., Wetherald, R. T., Yagai, I., and Zhang, M.-H.: Intercomparison and interpretation of climate feedback processes in 19 atmospheric general circulation models, J. Geophys. Res., 95, 16601–16615, https://doi.org/10.1029/JD095iD10p16601, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2011GL048794</doi>
+              <unstructured_citation>Church, J. A., White, N. J., Konikow, L. F., Domingues, C. M., Cogley, J. G., Rignot, E., Gregory, J. M., van den Broeke, M. R., Monaghan, A. J., and Velicogna, I.: Revisiting the Earth's sea-level and energy budgets from 1961 to 2008, Geophys. Res. Lett., 38, L18601, https://doi.org/10.1029/2011GL048794, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1175/JCLI-D-14-00832.1</doi>
+              <unstructured_citation>Del Genio, A. D., Wu, J., Wolf, A. B., Chen, Y., Yao, M.-S., and Kim, D.: Constraints on Cumulus Parameterization from Simulations of Observed MJO Events, J. Climate, 28, 6419–6442, https://doi.org/10.1175/jcli-d-14-00832.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2010JD014192</doi>
+              <unstructured_citation>Dessler, A. E. and Davis, S. M.: Trends in tropospheric humidity from reanalysis systems, J. Geophys. Res., 115, D19127, https://doi.org/10.1029/2010jd014192, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/1520-0469(1993)050&lt;0889:ACPIMF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Donner, L.: A cumulus parameterization including mass fluxes, vertical momentum dynamics, and mesoscale effects, J. Atmos. Sci., 50, 889–906, https://doi.org/10.1175/1520-0469(1993)050&amp;amp;lt;0889:ACPIMF&amp;amp;gt;2.0.CO;2, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/2011JCLI3955.1</doi>
+              <unstructured_citation>Donner, L. J., Wyman, B., Hemler, R., Horowitz, L., Ming, Y., Zhao, M., Golaz, J.-C., Ginoux, P., Lin, S., Schwarzkopf, M. D., Austin, J., Alaka, G., Cooke, W. F., Delworth, T. L., Freidenreich, S. M., Gordon, C. T., Griffies, S. M., Held, I. M., Hurlin, W. J., Klein, S. A., Knutson, T. R., Langenhorst, A. R., Lee, H., Lin, Y., Magi, B. I., Malyshev, S. L., Milly, P. C., Naik, V., Nath, M. J., Pincus, R., Ploshay, J. J., Ramaswamy, V., Seman, C. J., Shevliakova, E., Sirutis, J. J., Stern, W. F., Stouffer, R. J., Wilson, R. J., Winton, M., Wittenberg, A. T., and Zeng, F.: The dynamical core, physical parameterizations, and basic simulation characteristics of the atmospheric component of the GFDL global coupled model CM3, J. Climate, 24, 3484–3519, https://doi.org/10.1175/2011JCLI3955.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2003GL017967</doi>
+              <unstructured_citation>Feingold, G.: Modeling of the first indirect effect: Analysis of measurement requirements, Geophys. Res. Lett., 30, 1997, https://doi.org/10.1029/2003GL017967, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Flato, G., Marotzke, J., Abiodun, B., Braconnot, P., Chou, S. C., Collins, W., Cox, P., Driouech, F., Emori, S., Eyring, V., Forest, C., Gleckler, P., Guilyardi, E., Jakob, C., Kattsov, V., Reason, C., and Rummukaine, M.: Evaluation of Climate Models, in: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P., Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1002/jgrd.50174</doi>
+              <unstructured_citation>Forster, P. M., Andrews, T., Good, P., Gregory, J. M., Jackson, L. S., and Zelinka, M.: Evaluating adjusted forcing and model spread for historical and future scenarios in the CMIP5 generation of climate models, J. Geophys. Res.-Atmos., 118, 1139–1150, https://doi.org/10.1002/jgrd.50174, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/JCLI-D-16-0758.1</doi>
+              <unstructured_citation>Gelaro, R., McCarty, W., Suárez, M. J., Todling, R., Molod, A., Takacs, L., Randles, C. A., Darmenov, A., Bosilovich, M. G., Reichle, R., Wargan, K., Coy, L., Cullather, R., Draper, C., Akella, S., Buchard, V., Conaty, A., da Silva, A. M., Gu, W., Kim, G., Koster, R., Lucchesi, R., Merkova, D., Nielsen, J. E., Partyka, G., Pawson, S., Putman, W., Rienecker, M., Schubert, S. D., Sienkiewicz, M., and Zhao, B.: The Modern-Era Retrospective Analysis for Research and Applications, Version-2 (MERRA-2), J. Climate, 30, 5419–5454, https://doi.org/10.1175/JCLI-D-16-0758.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/2011JCLI4083.1</doi>
+              <unstructured_citation>Gent, P. R., Danabasoglu, G., Donner, L. J., Holland, M. M., Hunke, E. C., Jayne, S. R., Lawrence, D. M., Neale, R. B., Rasch, P. J., Vertenstein, M., Worley, P. H., Yang, Z.-L., and Zhang, M.: The Community Climate System Model Version 4, J. Climate, 24, 4973–4991, https://doi.org/10.1175/2011jcli4083.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/JCLI-3223.1</doi>
+              <unstructured_citation>The GFDL Global Atmospheric Model Development Team: The new GFDL global atmosphere and land model AM2-LM2: Evaluation with prescribed SST simulations, J. Climate, 17, 4641–4673, https://doi.org/10.1175/JCLI-3223.1, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/2010JCLI3945.1</doi>
+              <unstructured_citation>Golaz, J.-C., Salzmann, M., Donner, L., Horowitz, L., Ming, Y., and Zhao, M.: Sensitivity of the Aerosol Indirect Effect to Subgrid Variability in the Cloud Parameterization of the GFDL Atmosphere General Circulation Model AM3, J. Climate, 24, 3145–3160, https://doi.org/10.1175/2010JCLI3945.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/grl.50232</doi>
+              <unstructured_citation>Golaz, J.-C., Horowitz, L., and Levy II, H.: Cloud tuning in a coupled climate model: Impact on 20th century warming, Geophys. Res. Lett., 40, 2246–2251, https://doi.org/10.1002/grl.50232, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/2011JCLI3964.1</doi>
+              <unstructured_citation>Griffies, S., Winton, M., Donner, L., Horowitz, L., Downes, S., Farneti, R., Gnanadesikan, A., Hurlin, W. J., Lee, H., Liang, Z., Palter, J. B., Samuels, B. L., Wittenberg, A. T., Wyman, B. L., Yin, J., and Zadeh, N.: GFDL's CM3 coupled climate model: Characteristics of the ocean and sea ice simulations, J. Climate, 24, 3520–3544,https://doi.org/10.1175/2011JCLI3964.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/j.ocemod.2008.08.007</doi>
+              <unstructured_citation>Griffies, S. M., Biastoch, A., Böning, C., Bryan, F., Danabasoglu, G., Chassignet, E. P., England, M. H., Gerdes, R., Haak, H., Hallberg, R. W., Hazeleger, W., Jungclaus, J., Large, W. G., Madec, G., Pirani, A., Samuels, B. L., Scheinert, M., Gupta, A. S., Severijns, C. A., Simmons, H. L., Treguier, A. M., Winton, M., Yeager, S., and Yin, J.: Coordinated Ocean-ice Reference Experiments (COREs), Ocean Model., 26, 1–46, https://doi.org/10.1016/j.ocemod.2008.08.007, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1029/JD093iD08p09341</doi>
+              <unstructured_citation>Hansen, J., Fung, I., Lacis, A., Rind, D., Lebedeff, S., Ruedy, R., Russell, G., and Stone, P.: Global climate changes as forecast by Goddard Institute for Space Studies three-dimensional model, J. Geophys. Res., 93, 9341–9364, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/91GL02788</doi>
+              <unstructured_citation>Hansen, J., Lacis, A., Ruedy, R., and Sato, M.: Potential climate impact of Mount Pinatubo eruption, Geophys. Res. Lett., 19, 215–218, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1126/science.1110252</doi>
+              <unstructured_citation>Hansen, J., Nazarenko, L., Ruedy, R., Sato, M., Willis, J., Del Genio, A., Koch, D., Lacis, A., Lo, K., Menon, S., Novakov, T., Perlwitz, J., Russell, G., Schmidt, G. A., and Tausnev, N. L.: Earth's Energy Imbalance: Confirmation and Implications, Science, 308, 1431–1435, https://doi.org/10.1126/science.1110252, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/1520-0493(1983)111&lt;0609:ETDGMF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Hansen, J. E., Russell, G. L., Rind, D., Stone, P., Lacis, A., Ruedy, R., and Travis, L.: Efficient three-dimensional models for climatic studies, Mon. Weather Rev., 111, 609–662, https://doi.org/10.1175/1520-0493(1983)111&amp;amp;lt;0609:ETDGMF&amp;amp;gt;2.0.CO;2, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Hargreaves, J. C.: Skill and uncertainty in climate models, Wiley Interdisciplinary Reviews: Climate Change, 1, 556–564, https://doi.org/10.1002/wcc.58, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/BAMS-D-16-0007.1</doi>
+              <unstructured_citation>Hawkins, E., Ortega, P., Suckling, E., Schurer, A., Hegerl, G., Jones, P., Joshi, M., Osborn, T. J., Masson-Delmotte, V., Mignot, J., Thorne, P., and van Oldenborgh, G. J.: Estimating changes in global temperature since the pre-industrial period, B. Am. Meteorol. Soc., https://doi.org/10.1175/bams-d-16-0007.1, online first, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/BAMS-D-15-00135.1</doi>
+              <unstructured_citation>Hourdin, F., Mauritsen, T., Gettelman, A., Golaz, J.-C., Balaji, V., Duan, Q., Folini, D., Klocke, D. J. D., Qian, Y., Rauser, F., Rio, C., Tomassini, L., Watanabe, M., and Williamson, D.: The art and science of climate model tuning, B. Am. Meteorol. Soc., 98, 589–602, https://doi.org/10.1175/BAMS-D-15-00135.1, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Hurrell, J. W., Bader, D., Delworth, T., Kirtman, B., Meehl, J., Pan, H.-L., and Wielicki, B.: Seamless Prediction. White paper for the U.S. Inter-Agency Working Group on Climate Modeling, available at: http://www.cgd.ucar.edu/staff/jhurrell/docs/SeamlessModellingDraft03302007.pdf (last access: 21 August 2017), 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>Hurrell, J. W., Holland, M. M., Gent, P. R., Ghan, S., Kay, J. E., Kushner, P. J., Lamarque, J.-F., Large, W. G., Lawrence, D., Lindsay, K., Lipscomb, W. H., Long, M. C., Mahowald, N., Marsh, D. R., Neale, R. B., Rasch, P., Vavrus, S., Vertenstein, M., Bader, D., Collins, W. D., Hack, J. J., Kiehl, J., and Marshall, S.: The Community Earth System Model: A Framework for Collaborative Research, B. Am. Meteorol. Soc., 94, 1339–1360, https://doi.org/10.1175/bams-d-12-00121.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1007/s13194-014-0105-6</doi>
+              <unstructured_citation>Intemann, K.: Distinguishing between legitimate and illegitimate values in climate modeling, European Journal for Philosophy of Science, 5, 217–232, https://doi.org/10.1007/s13194-014-0105-6, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>IPCC: Summary for Policymakers. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge/New York, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2011JD017139</doi>
+              <unstructured_citation>Jones, P. D., Lister, D. H., Osborn, T. J., Harpham, C., Salmon, M., and Morice, C. P.: Hemispheric and large-scale land-surface air temperature variations: An extensive revision and an update to 2010, J. Geophys. Res.-Atmos., 117, D05127, https://doi.org/10.1029/2011jd017139, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2007GL031383</doi>
+              <unstructured_citation>Kiehl, J. T.: Twentieth century climate model response and climate sensitivity, Geophys. Res. Lett., 34, L22710, https://doi.org/10.1029/2007GL031383, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/JCLI-D-11-00447.1</doi>
+              <unstructured_citation>Kim, D., Sobel, A. H., Del Genio, A. D., Chen, Y.-H., Camargo, S. J., Yao, M. S., Kelley, M., and Nazarenko, L.: The tropical subseasonal variability simulated in the NASA GISS general circulation model, J. Climate, 25, 4641–4659, https://doi.org/10.1175/JCLI-D-11-00447.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1098/rsta.2008.0169</doi>
+              <unstructured_citation>Knutti, R.: Should we believe model predictions of future climate change?, Philos. T. Roy. Soc. A, 366, 4647–4664, https://doi.org/10.1098/rsta.2008.0169, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Knutti, R., Abramowitz, G., Collins, M., Eyring, V., Gleckler, P. J., Hewitson, B., and Mearns, L.: Good Practice Guidance Paper on Assessing and Combining Multi Model Climate Projections, Tech. rep., IPCC Working Group I Technical Support Unit, University of Bern, Bern, Switzerland, in: Meeting Report of the Intergovernmental Panel on Climate Change Expert Meeting on Assessing and Combining Multi Model Climate Projections, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., and Midgley, P. M., 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1002/grl.50256</doi>
+              <unstructured_citation>Knutti, R., Masson, D., and Gettelman, A.: Climate model genealogy: Generation CMIP5 and how we got there, Geophys. Res. Lett., 40, 1194–1199, https://doi.org/10.1002/grl.50256, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1002/2016GL072012</doi>
+              <unstructured_citation>Knutti, R., Sedláček, J., Sanderson, B. M., Lorenz, R., Fischer, E. M., and Eyring, V.: A climate model projection weighting scheme accounting for performance and interdependence, Geophys. Res. Lett., 44, 1909–1918, https://doi.org/10.1002/2016gl072012, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1126/science.287.5461.2225</doi>
+              <unstructured_citation>Levitus, S., Antonov, J. I., Boyer, T. P., and Stephens, C.: Warming of the world ocean, Science, 287, 2225–2228, https://doi.org/10.1126/science.287.5461.2225, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/JCLI4272.1</doi>
+              <unstructured_citation>Lin, J.-L.: The Double-ITCZ Problem in IPCC AR4 Coupled GCMs: Ocean–Atmosphere Feedback Analysis, J. Climate, 20, 4497–4525, https://doi.org/10.1175/jcli4272.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Locarnini, R. A., Mishonov, A. V., Antonov, J. I., Boyer, T. P., Garcia, H. E., Baranova, O. K., Zweng, M. M., Paver, C. R., Reagan, J. R., Johnson, D. R., Hamilton, M., and Seidov, D.: World Ocean Atlas 2013, Volume 1: Temperature, NOAA Atlas NESDIS 73, U.S. Government Printing Office, Washington, D.C., edited by: Levitus, S. and Mishonov, A., 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/2008JCLI2637.1</doi>
+              <unstructured_citation>Loeb, N., Wielicki, B., Doelling, D., Smith, G., Keyes, D., Kato, S., Matalo-Smith, N., and Wong, T.: Toward optimal closure of the Earth's top-of-atmosphere radiation budget, J. Climate, 22, 748–766, https://doi.org/10.1175/2008JCLI2637.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-5-715-2005</doi>
+              <unstructured_citation>Lohmann, U. and Feichter, J.: Global indirect aerosol effects: a review, Atmos. Chem. Phys., 5, 715–737, https://doi.org/10.5194/acp-5-715-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1002/2015MS000490</doi>
+              <unstructured_citation>Ma, H.-Y., Chuang, C. C., Klein, S. A., Lo, M.-H., Zhang, Y., Xie, S., Zheng, X., Ma, P.-L., Zhang, Y., and Phillips, T. J.: An improved hindcast approach for evaluation and diagnosis of physical processes in global climate models, J. Adv. Model. Earth Syst., 7, 1810–1827, https://doi.org/10.1002/2015ms000490, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/1520-0469(1969)026&lt;0786:CCWACO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Manabe, S. and Bryan, K.: Climate Calculations with a Combined Ocean-Atmosphere Model, J. Atmos. Sci., 26, 786–789, https://doi.org/10.1175/1520-0469(1969)026&amp;amp;lt;0786:ccwaco&amp;amp;gt;2.0.co;2, 1969.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/2011GL046864</doi>
+              <unstructured_citation>Masson, D. and Knutti, R.: Climate model genealogy, Geophys. Res. Lett., 38, L08703, https://doi.org/10.1029/2011GL046864, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2012MS000154</doi>
+              <unstructured_citation>Mauritsen, T., Stevens, B., Roeckner, E., Crueger, T., Esch, M., Giorgetta, M., Haak, H., Jungclaus, J., Klocke, D., Matei, D., Mikolajewicz, U., Notz, D., Pincus, R., Schmidt, H., and Tomassini, L.: Tuning the climate of a global model, J. Adv. Model. Earth Syst., 4, M00A01, https://doi.org/10.1029/2012MS000154, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/acp-6-2593-2006</doi>
+              <unstructured_citation>McFiggans, G., Artaxo, P., Baltensperger, U., Coe, H., Facchini, M. C., Feingold, G., Fuzzi, S., Gysel, M., Laaksonen, A., Lohmann, U., Mentel, T. F., Murphy, D. M., O'Dowd, C. D., Snider, J. R., and Weingartner, E.: The effect of physical and chemical aerosol properties on warm cloud droplet activation, Atmos. Chem. Phys., 6, 2593–2649, https://doi.org/10.5194/acp-6-2593-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/tc-6-1359-2012</doi>
+              <unstructured_citation>Meier, W. N., Stroeve, J., Barrett, A., and Fetterer, F.: A simple approach to providing a more consistent Arctic sea ice extent time series from the 1950s to present, The Cryosphere, 6, 1359–1368, https://doi.org/10.5194/tc-6-1359-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1029/2005JD005796</doi>
+              <unstructured_citation>Miller, R. L., Cakmur, R. V., Perlwitz, J., Geogdzhayev, I. V., Ginoux, P., Kohfeld, K. E., Koch, D., Prigent, C., Ruedy, R., Schmidt, G. A., and Tegen, I.: Mineral dust aerosols in the NASA Goddard Institute for Space Sciences ModelE atmospheric general circulation model, J. Geophys. Res., 111, D06208, https://doi.org/10.1029/2005JD005796, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1002/2013MS000266</doi>
+              <unstructured_citation>Miller, R. L., Schmidt, G. A., Nazarenko, L. S., Tausnev, N., Ruedy, R., Kelley, M., Lo, K. K., Aleinov, I., Bauer, M., Bauer, S., Bleck, R., Canuto, V., Cheng, Y., Clune, T. L., Del Genio, A., Faluvegi, G., Hansen, J. E., Healy, R. J., Kiang, N. Y., Koch, D., Lacis, A. A., LeGrande, A. N., Lerner, J., Menon, S., Oinas, V., Perlwitz, J., Puma, M. J., Rind, D., Romanou, A., Russell, G. L., Sato, M., Shindell, D. T., Sun, S., Tsigaridis, K., Unger, N., Voulgarakis, A., Yao, M.-S., and Zhang, J.: CMIP5 Historical Simulations (1850–2012) With GISS ModelE2, J. Adv. Model. Earth Syst., 6, 441–477, https://doi.org/10.1002/2013MS000266, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/2005JD006161</doi>
+              <unstructured_citation>Ming, Y., Ramaswamy, V., Ginoux, P. A., Horowitz, L. W., and Russell, L.: Geophysical Fluid Dynamics Laboratory general circulation model investigation of the indirect radiative effects of anthropogenic sulphate aerosol, J. Geophys. Res., 110, D22206, https://doi.org/10.1029/2005JD006161, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1175/JAS3686.1</doi>
+              <unstructured_citation>Ming, Y., Ramaswamy, V., Donner, L., and Phillips, V.: A new parameterization of cloud droplet activation applicable to general circulation models, J. Atmos. Sci., 63, 1348–1356, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1175/JCLI-D-11-00412.1</doi>
+              <unstructured_citation>Molod, A.: Constraints on the Profiles of Total Water PDF in AGCMs from AIRS and a High-Resolution Model, J. Climate, 25, 8341–8352, https://doi.org/10.1175/jcli-d-11-00412.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1029/2012GL053979</doi>
+              <unstructured_citation>Molod, A., Suarez, M., and Partyka, G.: The impact of limiting ocean roughness on GEOS-5 AGCM tropical cyclone forecasts, Geophys. Res. Lett., 40, 411–416, https://doi.org/10.1029/2012gl053979, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/gmd-8-1339-2015</doi>
+              <unstructured_citation>Molod, A., Takacs, L., Suarez, M., and Bacmeister, J.: Development of the GEOS-5 atmospheric general circulation model: evolution from MERRA to MERRA2, Geosci. Model Dev., 8, 1339–1356, https://doi.org/10.5194/gmd-8-1339-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Myhre, G., Shindell, D., Bréon, F.-M., Collins, W., Fuglestvedt, J., Huang, J., Koch, D., Lamarque, J.-F., Lee, D., Mendoza, B., Nakajima, T., Robock, A., Stephens, G., Takemura, T., and Zhang, H.: Anthropogenic and Natural Radiative Forcing, in: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P., Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1007/s00382-015-2468-6</doi>
+              <unstructured_citation>Oueslati, B. and Bellon, G.: The double ITCZ bias in CMIP5 models: interaction between SST, large-scale circulation and precipitation, Clim. Dynam., 44, 585–607, https://doi.org/10.1007/s00382-015-2468-6, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1175/JAS-D-13-0233.1</doi>
+              <unstructured_citation>Park, S.: A unfied convection scheme (UNICON), Part I: Formulation, J. Atmos. Sci., 71, 3902–3930, https://doi.org/10.1175/JAS-D-13-0233.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1029/2002JD002679</doi>
+              <unstructured_citation>Pawlowska, H. and Brenguier, J.-L.: An observational study of drizzle formation in stratocumulus clouds for general circulation model (GCM) parameterizations, J. Geophys. Res., 108, 8630, https://doi.org/10.1029/2002JD002679, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1002/qj.49708235202</doi>
+              <unstructured_citation>Phillips, N. A.: The general circulation of the atmosphere: A numerical experiment, Q. J. Roy. Meteor. Soc., 82, 123–164, https://doi.org/10.1002/qj.49708235202, 1956.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1002/2016MS000630</doi>
+              <unstructured_citation>Pithan, F., Ackerman, A., Angevine, W. M., Hartung, K., Ickes, L., Kelley, M., Medeiros, B., Sandu, I., Steeneveld, G.-J., Sterk, H., Svensson, G., Vaillancourt, P. A., and Zadra, A.: Select strengths and biases of models in representing the Arctic winter boundary layer: The Larcform 1 single column model intercomparison, J. Adv. Model. Earth Syst., 8, 1345–1357, https://doi.org/10.1002/2016ms000630, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1175/BAMS-89-3-303</doi>
+              <unstructured_citation>Reichler, T. and Kim, J.: How Well do Coupled Models Simulate Today's Climate?, B. Am. Meteorol. Soc., 89, 303–311, https://doi.org/10.1175/BAMS-89-3-303, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1038/nclimate3066</doi>
+              <unstructured_citation>Richardson, M., Cowtan, K., Hawkins, E., and Stolpe, M. B.: Reconciled climate response estimates from climate models and the energy budget of Earth, Nature Climate Change, 6, 931–935, https://doi.org/10.1038/nclimate3066, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Rienecker, M., Suarez, M., Todling, R., J. Bacmeister, L. T., Liu, H.-C., Gu, W., Sienkiewicz, M., Koster, R. D., Gelaro, R., Stajner, I., and Nielsen, J.: The GEOS-5 Data Assimilation System – Documentation of versions 5.0.1 and 5.1.0, and 5.2.0., Tech. rep., 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1016/j.ocemod.2013.04.010</doi>
+              <unstructured_citation>Ringler, T., Petersen, M., Higdon, R. L., Jacobsen, D., Jones, P. W., and Maltrud, M.: A multi-resolution approach to global ocean modeling, Ocean Model., 69, 211–232, https://doi.org/10.1016/j.ocemod.2013.04.010, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Rotstayn, L.: A physically based scheme for the treatment of stratiform clouds and precipitation in large-scale models. I. Description and evaluation of microphysical processes, Q. J. Roy. Meteor. Soc., 123, 1227–1282, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1175/JCLI3812.1</doi>
+              <unstructured_citation>Saha, S., Nadiga, S., Thiaw, C., Wang, J., Wang, W., Zhang, Q., den Dool, H. M. V., Pan, H.-L., Moorthi, S., Behringer, D., Stokes, D., Peña, M., Lord, S., White, G., Ebisuzaki, W., Peng, P., and Xie, P.: The NCEP Climate Forecast System, J. Climate, 19, 3483–3517, https://doi.org/10.1175/jcli3812.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1175/2010BAMS3001.1</doi>
+              <unstructured_citation>Saha, S., Moorthi, S., Pan, H.-L., Wu, X., Wang, J., Nadiga, S., Tripp, P., Kistler, R., Woollen, J., Behringer, D., Liu, H., Stokes, D., Grumbine, R., Gayno, G., Wang, J., Hou, Y.-T., Chuang, H.-Y., Juang, H.-M. H., Sela, J., Iredell, M., Treadon, R., Kleist, D., Delst, P. V., Keyser, D., Derber, J., Ek, M., Meng, J., Wei, H., Yang, R., Lord, S., Dool, H. V. D., Kumar, A., Wang, W., Long, C., Chelliah, M., Xue, Y., Huang, B., Schemm, J.-K., Ebisuzaki, W., Lin, R., Xie, P., Chen, M., Zhou, S., Higgins, W., Zou, C.-Z., Liu, Q., Chen, Y., Han, Y., Cucurull, L., Reynolds, R. W., Rutledge, G., and Goldberg, M.: The NCEP Climate Forecast System Reanalysis, B. Am. Meteorol. Soc., 91, 1015–1057, https://doi.org/10.1175/2010bams3001.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1175/JCLI-D-12-00823.1</doi>
+              <unstructured_citation>Saha, S., Moorthi, S., Wu, X., Wang, J., Nadiga, S., Tripp, P., Behringer, D., Hou, Y.-T., ya Chuang, H., Iredell, M., Ek, M., Meng, J., Yang, R., Mendez, M. P., van den Dool, H., Zhang, Q., Wang, W., Chen, M., and Becker, E.: The NCEP Climate Forecast System Version 2, J. Climate, 27, 2185–2208, https://doi.org/10.1175/jcli-d-12-00823.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1007/s13194-014-0102-9</doi>
+              <unstructured_citation>Schmidt, G. A. and Sherwood, S.: A practical philosophy of complex climate modelling, European Journal for Philosophy of Science, 5, 149–169, https://doi.org/10.1007/s13194-014-0102-9, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1175/JCLI3612.1</doi>
+              <unstructured_citation>Schmidt, G. A., Ruedy, R., Hansen, J. E., Aleinov, I., Bell, N., Bauer, M., Bauer, S., Cairns, B., Canuto, V., Cheng, Y., Del Genio, A., Faluvegi, G., Friend, A. D., Hall, T. M., Hu, Y., Kelley, M., Kiang, N. Y., Koch, D., Lacis, A. A., Lerner, J., Lo, K. K., Miller, R. L., Nazarenko, L., Oinas, V., Perlwitz, J., Perlwitz, J., Rind, D., Romanou, A., Russell, G. L., Sato, M., Shindell, D. T., Stone, P. H., Sun, S., Tausnev, N., Thresher, D., and Yao, M.-S.: Present day atmospheric simulations using GISS ModelE: Comparison to in-situ, satellite and reanalysis data, J. Climate, 19, 153–192, https://doi.org/10.1175/JCLI3612.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1002/2013MS000265</doi>
+              <unstructured_citation>Schmidt, G. A., Kelley, M., Nazarenko, L., Ruedy, R., Russell, G. L., Aleinov, I., Bauer, M., Bauer, S., Bhat, M. K., Bleck, R., Canuto, V., Chen, Y., Cheng, Y., Clune, T. L., Del Genio, A., de Fainchtein, R., Faluvegi, G., Hansen, J. E., Healy, R. J., Kiang, N. Y., Koch, D., Lacis, A. A., LeGrande, A. N., Lerner, J., Lo, K. K., Matthews, E. E., Menon, S., Miller, R. L., Oinas, V., Oloso, A. O., Perlwitz, J., Puma, M. J., Putman, W. M., Rind, D., Romanou, A., Sato, M., Shindell, D. T., Sun, S., Syed, R. A., Tausnev, N., Tsigaridis, K., Unger, N., Voulgarakis, A., Yao, M.-S., and Zhang, J.: Configuration and assessment of the GISS ModelE2 contributions to the CMIP5 archive, J. Adv. Model. Earth Syst., 6, 141–184, https://doi.org/10.1002/2013MS000265, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.5194/acp-13-2653-2013</doi>
+              <unstructured_citation>Shindell, D. T., Pechony, O., Voulgarakis, A., Faluvegi, G., Nazarenko, L., Lamarque, J.-F., Bowman, K., Milly, G., Kovari, B., Ruedy, R., and Schmidt, G. A.: Interactive ozone and methane chemistry in GISS-E2 historical and future climate simulations, Atmos. Chem. Phys., 13, 2653–2689, https://doi.org/10.5194/acp-13-2653-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1175/1520-0469(1995)052&lt;0650:EOPAFS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Siebesma, A. P. and Cuijpers, J. W. M.: Evaluation of Parametric Assumptions for Shallow Cumulus Convection, J. Atmos. Sci., 52, 650–666, https://doi.org/10.1175/1520-0469(1995)052&amp;amp;lt;0650:eopafs&amp;amp;gt;2.0.co;2, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1002/grl.50874</doi>
+              <unstructured_citation>Suzuki, K., Golaz, J.-C., and Stephens, G.: Evaluating cloud tuning in a climate model with satellite observations, Geophys. Res. Lett., 40, 4464–4468, https://doi.org/10.1002/grl.50874, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1038/nature06982</doi>
+              <unstructured_citation>Thompson, D. W. J., Kennedy, J. J., Wallace, J. M., and Jones, P. D.: A large discontinuity in the mid-twentieth century in observed global-mean surface temperature, Nature, 453, 646–649, https://doi.org/10.1038/nature06982, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1175/1520-0493(1993)121&lt;3040:ROCILS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Tiedtke, M.: Representation of clouds in large-scale models, Mon. Weather Rev., 40, 3040–3061, https://doi.org/10.1175/1520-0493(1993)121&amp;amp;lt;3040:ROCILS&amp;amp;gt;2.0.CO;2, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1038/nclimate2876</doi>
+              <unstructured_citation>von Schuckmann, K., Palmer, M. D., Trenberth, K. E., Cazenave, A., Chambers, D., Champollion, N., Hansen, J., Josey, S. A., Loeb, N., Mathieu, P.-P., Meyssignac, B., and Wild, M.: An imperative to monitor Earth's energy imbalance, Nature Climate Change, 6, 138–144, https://doi.org/10.1038/nclimate2876, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1111/j.1931-0846.2016.12195.x</doi>
+              <unstructured_citation>Walsh, J. E., Fetterer, F., Stewart, J. S., and Chapman, W. L.: A database for depicting Arctic sea ice variations back to 1850, Geogr. Rev., 107, 89–107, 7 https://doi.org/10.1111/j.1931-0846.2016.12195.x, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1353/ken.2012.0008</doi>
+              <unstructured_citation>Winsberg, E.: Values and Uncertainties in the Predictions of Global Climate Models, Kennedy Inst. Ethic. J., 22, 111–137, https://doi.org/10.1353/ken.2012.0008, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1007/s00382-011-1203-1</doi>
+              <unstructured_citation>Yokohata, T., Annan, J. D., Collins, M., Jackson, C. S., Tobis, M., Webb, M. J., and Hargreaves, J. C.: Reliability of multi-model and structurally different single-model ensembles, Clim. Dynam., 39, 599–616, https://doi.org/10.1007/s00382-011-1203-1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1175/JCLI-D-15-0191.1</doi>
+              <unstructured_citation>Zhao, M., Golaz, J.-C., Held, I. M., Ramaswamy, V., Lin, S.-J., Ming, Y., Ginoux, P., Wyman, B., Donner, L. J., Paynter, D., and Guo, H.: Uncertainty in Model Climate Sensitivity Traced to Representations of Cumulus Precipitation Microphysics, J. Climate, 29, 543–560, https://doi.org/10.1175/jcli-d-15-0191.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Zweng, M. M., Reagan, J. R., Antonov, J. I., Locarnini, R. A., Mishonov, A. V., Boyer, T. P., Garcia, H. E., Baranova, O. K., Johnson, D. R., Seidov, D., and Biddle, M. M.: World Ocean Atlas 2013, Volume 2: Salinity, NOAA Atlas NESDIS 74, U.S. Government Printing Office, Washington, D.C., edited by: Levitus, S. and Mishonov, A., 2013.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

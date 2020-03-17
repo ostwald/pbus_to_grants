@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 12:11:43">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Advances in Statistical Climatology, Meteorology and Oceanography</full_title>
+          <abbrev_title>Adv. Stat. Clim. Meteorol. Oceanogr.</abbrev_title>
+          <issn media_type="electronic">2364-3587</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>3</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Assessing NARCCAP climate model effects using spatial confidence regions</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Joshua P.</given_name>
+              <surname>French</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Seth</given_name>
+              <surname>McGinnis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Armin</given_name>
+              <surname>Schwartzman</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We assess similarities and differences between model effects for the North American Regional Climate Change Assessment Program (NARCCAP) climate models using varying classes of linear regression models. Specifically, we consider how the average temperature effect differs for the various global and regional climate model combinations, including assessment of possible interaction between the effects of global and regional climate models. We use both pointwise and simultaneous inference procedures to identify regions where global and regional climate model effects differ. We also show conclusively that results from pointwise inference are misleading, and that accounting for multiple comparisons is important for making proper inference.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>14</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>67</first_page>
+            <last_page>92</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Cancer Institute
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000054</assertion>
+              </assertion>
+              <assertion name="award_number">R01 CA157528</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Division of Mathematical Sciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000121</assertion>
+              </assertion>
+              <assertion name="award_number">1463642</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/ascmo-3-67-2017</doi>
+            <resource>https://www.adv-stat-clim-meteorol-oceanogr.net/3/67/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.adv-stat-clim-meteorol-oceanogr.net/3/67/2017/ascmo-3-67-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1109/TAC.1974.1100705</doi>
+              <unstructured_citation>Akaike, H.: A new look at the statistical model identification, IEEE T. Automat. Contr., 19, 716–723, https://doi.org/10.1109/TAC.1974.1100705, 1974.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Arnold, J. B.: ggthemes: Extra Themes, Scales and Geoms for “ggplot2”, available at: https://CRAN.R-project.org/package=ggthemes (last access: 5 May 2017), R package version 3.0.3, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1198/016214507000000941</doi>
+              <unstructured_citation>Benjamini, Y. and Heller, R.: False Discovery Rates for Spatial Signals, J. Am. Stat. Assoc., 102, 1272–1281, https://doi.org/10.1198/016214507000000941, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Benjamini, Y. and Hochberg, Y.: Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing, J. Roy. Stat. Soc. B, 57, 289–300, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1111/rssb.12055</doi>
+              <unstructured_citation>Bolin, D. and Lindgren, F.: Excursion and contour uncertainty regions for latent Gaussian models, J. Roy. Stat. Soc. B, 77, 85–106, https://doi.org/10.1111/rssb.12055, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Brownrigg, R., Minka, T. P., and Deckmyn, A.: maps: Draw Geographical Maps, available at: https://CRAN.R-project.org/package=maps (last access: 10 July 2017), R package version 3.1.0, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/1520-0493(1999)127&lt;0341:ASISLR&gt;2.0.CO;2</doi>
+              <unstructured_citation>Caya, D. and Laprise, R.: A semi-implicit semi-Lagrangian regional climate model: The Canadian RCM, Mon. Weather Rev., 127, 341–362, https://doi.org/10.1175/1520-0493(1999)127&amp;amp;lt;0341:ASISLR&amp;amp;gt;2.0.CO;2, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1007/s00382-006-0121-0</doi>
+              <unstructured_citation>Collins, M., Booth, B. B., Harris, G. R., Murphy, J. M., Sexton, D. M., and Webb, M. J.: Towards quantifying uncertainty in transient climate change, Clim. Dynam., 27, 127–147, https://doi.org/10.1007/s00382-006-0121-0, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Dahl, D. B.: xtable: Export Tables to LaTeX or HTML, available at: https://CRAN.R-project.org/package=xtable (last access: 5 May 2017), R package version 1.8-2, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1007/s00382-010-0977-x</doi>
+              <unstructured_citation>Deser, C., Phillips, A., Bourdette, V., and Teng, H.: Uncertainty in climate change projections: the role of internal variability, Clim. Dynam., 38, 527–546, https://doi.org/10.1007/s00382-010-0977-x, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Dowle, M., Srinivasan, A., Short, T., and Lianoglou, S.: data.table: Extension of Data.frame, available at: https://CRAN.R-project.org/package=data.table (last access: 5 May 2017), R package version 1.9.6, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1007/s003820050339</doi>
+              <unstructured_citation>Flato, G. et al.: The Canadian centre for climate modeling and analysis global coupled model and its climate, Clim. Dynam., 16, 451–467, https://doi.org/10.1007/s003820050339, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>French, J.: SpatialTools: Tools for Spatial Data Analysis, available at: http://CRAN.R-project.org/package=spatialtools (last access: 5 May 2017), R package version 1.0.2, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>French, J.: autoimage: Display Multiple Images with Scaled Colors, R package version 1.3, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1002/env.2295</doi>
+              <unstructured_citation>French, J. P.: Confidence regions for the level curves of spatial data, Environmetrics, 25, 498–512, https://doi.org/10.1002/env.2295, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/env.2371</doi>
+              <unstructured_citation>French, J. P. and Hoeting, J. A.: Credible regions for exceedance sets of geostatistical data, Environmetrics, 27, 4–14, https://doi.org/10.1002/env.2371, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1214/13-AOAS631</doi>
+              <unstructured_citation>French, J. P. and Sain, S. R.: Spatio-temporal exceedance locations and confidence regions, Ann. Appl. Stat., 7, 1421–1449, https://doi.org/10.1214/13-AOAS631, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Genz, A., Bretz, F., Miwa, T., Mi, X., Leisch, F., Scheipl, F., and Hothorn, T.: mvtnorm: Multivariate Normal and t Distributions, available at: http://CRAN.R-project.org/package=mvtnorm (last access: 5 May 2017), R package version 1.0-6, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/JCLI-3223.1</doi>
+              <unstructured_citation>GFDL GAMDT (The GFDL Global Atmospheric Model Development Team): The new GFDL global atmospheric and land model AM2-LM2: Evaluation with prescribed SST simulations, J. Climate, 17, 4641–4673, https://doi.org/10.1175/JCLI-3223.1, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/1520-0493(1993)121&lt;2794:DOASGR&gt;2.0.CO;2</doi>
+              <unstructured_citation>Giorgi, F., Marinucci, M. R., and Bates, G. T.: Development of a second-generation regional climate model (RegCM2). Part I: Boundary-layer and radiative transfer processes, Mon. Weather Rev., 121, 2794–2813, https://doi.org/10.1175/1520-0493(1993)121&amp;amp;lt;2814:DOASGR&amp;amp;gt;2.0.CO;2, 1993a.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/1520-0493(1993)121&lt;2814:DOASGR&gt;2.0.CO;2</doi>
+              <unstructured_citation>Giorgi, F., Marinucci, M. R., Bates, G. T., and De Canio, G.: Development of a second-generation regional climate model (RegCM2). Part II: Convective processes and assimilation of lateral boundary conditions, Mon. Weather Rev., 121, 2814–2832, https://doi.org/10.1175/1520-0493(1993)121&amp;amp;lt;2794:DOASGR&amp;amp;gt;2.0.CO;2, 1993b.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1007/s003820050010</doi>
+              <unstructured_citation>Gordon, C., Cooper, C., Senior, C. A., Banks, H., Gregory, J. M., Johns, T. C., Mitchell, J. F., and Wood, R. A.: The simulation of SST, sea ice extents and ocean heat transports in a version of the Hadley Centre coupled model without flux adjustments, Clim. Dynam., 16, 147–168, https://doi.org/10.1007/s003820050010, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Grell, G., Dudhia, J., and Stauffer, D.: A description of the fifth generation Penn State/NCAR Mesoscale Model (MM5), 107 pp., Tech. rep., National Center for Atmospheric Research, NCAR Technical Note NCAR/TN-398, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/S0168-874X(03)00109-4</doi>
+              <unstructured_citation>Gu, H., Zong, Z., and Hung, K.: A modified superconvergent patch recovery method and its application to large deformation problems, Finite Elem. Anal. Des., 40, 665–687, https://doi.org/10.1016/S0168-874X(03)00109-4, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Hankin, R. K. S.: Recreational mathematics with R: introducing the “magic” package., R News, 5, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1109/MCISE.2004.1255817</doi>
+              <unstructured_citation>Hill, C., DeLuca, C., Balaji, Suarez, M., and Silva, A. D.: The architecture of the Earth System Modeling Framework, Comput. Sci. Eng., 6, 18–28, https://doi.org/10.1109/MCISE.2004.1255817, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Holm, S.: A simple sequentially rejective multiple test procedure, Scand. J. Stat., 6, 65–70, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Hyndman, R. J. and Athanasopoulos, G.: Forecasting: principles and practice, OTexts: Melbourne, Australia, available at: https://www.otexts.org/fpp/2/6 (last access: 22 July 2016), 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>IPCC: Emissions Scenarios, Cambridge University Press, Cambridge, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Jones, R., Noguer, M., Hassell, D., Hudson, D., Wilson, S., Jenkins, G., and Mitchell, J.: Generating high resolution climate change scenarios using PRECIS, Met Office Hadley Centre, Exeter, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Juang, H.-M. H., Hong, S.-Y., and Kanamitsu, M.: The NCEP regional spectral model: an update, B. Am. Meteorol. Soc., 78, 2125–2143, https://doi.org/10.1175/1520-0477(1997)078&amp;amp;lt;2125:TNRSMA&amp;amp;gt;2.0.CO;2, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1214/10-BA505</doi>
+              <unstructured_citation>Kaufman, C. G. and Sain, S. R.: Bayesian functional ANOVA modeling using Gaussian process prior distributions, Bayesian Anal., 5, 123–149, https://doi.org/10.1214/10-BA505, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1016/j.finel.2007.01.002</doi>
+              <unstructured_citation>Khoei, A. and Gharehbaghi, S.: The superconvergence patch recovery technique and data transfer operators in 3D plasticity problems, Finite Eleme. Anal. Des., 43, 630–648, https://doi.org/10.1016/j.finel.2007.01.002, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Klaus, B. and Strimmer, K.: fdrtool: Estimation of (Local) False Discovery Rates and Higher Criticism, available at: https://CRAN.R-project.org/package=fdrtool (last access: 5 May 2017), R package version 1.2.15, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1093/biomet/65.2.297</doi>
+              <unstructured_citation>Ljung, G. and Box, G.: On a measure of lack of fit in time series models, Biometrika, 65, 297–303, https://doi.org/10.1093/biomet/65.2.297, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2007EO470006</doi>
+              <unstructured_citation>Maurer, E. P., Brekke, L., Pruitt, T., and Duffy, P. B.: Fine resolution climate projections enhance regional climate change impact studies, EOS, Transactions American Geophysical Union, 88, 504–504, https://doi.org/10.1371/journal.pone.0071297, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1007/978-3-319-17220-0_9</doi>
+              <unstructured_citation>McGinnis, S., Nychka, D., and Mearns, L. O.: A new distribution mapping technique for climate model bias correction, in: Machine Learning and Data Mining Approaches to Climate Science, Springer International Publishing, 91–99, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2009EO360002</doi>
+              <unstructured_citation>Mearns, L. O., Gutowski, W., Jones, R., Leung, R., McGinnis, S., Nunes, A., and Qian, Y.: A regional climate change assessment program for North America, EOS, Transactions American Geophysical Union, 90, 311–311, https://doi.org/10.1029/2009EO360002, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/BAMS-D-11-00223.1</doi>
+              <unstructured_citation>Mearns, L. O., Arritt, R., Biner, S., Bukovsky, M. S., McGinnis, S., Sain, S., Caya, D., Correia, J., Flory, D., Gutowski, W., Takle, E. S., Jones, R., Leung, R., Moufouma-Okia, W., McDaniel, L., Nunes, A. M., Qian, Y., Roads, J., Sloan, L., and Snyder, M.: The North American regional climate change assessment program: overview of phase I results, B. Am. Meteorol. Soc., 93, 1337–1362, https://doi.org/10.1175/BAMS-D-11-00223.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Meehl, G. A., Stocker, T. F., Collins, W. D., Friedlingstein, P., Gaye, A. T., Gregory, J. M., Kitoh, A., Knutti, R., Murphy, J. M., Noda, A., Raper, S. C. B., Watterson, I. G., Weaver, A. J., and Zhao, Z.-C.: Global climate projections, in Climate Change 2007: The Physical Science Basis—Contribution of Working Group 1 to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, chap. 10, Cambridge University Press, New York, 747–843, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1198/000313008X332421</doi>
+              <unstructured_citation>Murdoch, D. J., Tsai, Y.-L., and Adcock, J.: P-Values are Random Variables, Am. Stat., 62, 242–245, https://doi.org/10.1198/000313008X332421, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>National Center for Atmospheric Research: Regridding using NCL with Earth System Modeling Framework (ESMF) software, available at: http://www.ncl.ucar.edu/Applications/ESMF.shtml, last access: 22 March 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Neuwirth, E.: RColorBrewer: ColorBrewer Palettes, available at: https://CRAN.R-project.org/package=RColorBrewer (last access: 5 May 2017), R package version 1.1-2, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Nychka, D., Furrer, R., Paige, J., and Sain, S.: fields: Tools for Spatial Data, available at: https://CRAN.R-project.org/package=fields (last access: 5 May 2017), https://doi.org/10.5065/D6W957CT, R package version 8.3-6, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Pinheiro, J., Bates, D., DebRoy, S., Sarkar, D., and R Core Team: nlme: Linear and Nonlinear Mixed Effects Models, available at: http://CRAN.R-project.org/package=nlme (last access: 5 May 2017), R package version 3.1-131, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Plate, T. and Heiberger, R.: abind: Combine Multidimensional Arrays, available at: https://CRAN.R-project.org/package=abind (last access: 10 July 2017), R package version 1.4-5, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1007/s003820050009</doi>
+              <unstructured_citation>Pope, V., Gallani, M., Rowntree, P., and Stratton, R.: The impact of new physical parametrizations in the Hadley Centre climate model: HadAM3, Clim. Dynam., 16, 123–146, https://doi.org/10.1007/s003820050009, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>R Core Team: R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing, Vienna, Austria, available at: https://www.R-project.org/ (last access: 5 May 2017), 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1002/env.1068</doi>
+              <unstructured_citation>Sain, S. R., Nychka, D., and Mearns, L.: Functional ANOVA and regional climate experiments: a statistical analysis of dynamic downscaling, Environmetrics, 22, 700–711, https://doi.org/10.1002/env.1068, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1175/1520-0469(2004)061&lt;1993:TVOMTP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Scinocca, J. and McFarlane, N.: The variability of modeled tropical precipitation, J. Atmos. Sci., 61, 1993–2015, https://doi.org/10.1175/1520-0469(2004)061&amp;amp;lt;1993:TVOMTP&amp;amp;gt;2.0.CO;2, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1198/016214502388618933</doi>
+              <unstructured_citation>Shen, X., Huang, H.-C., and Cressie, N.: Nonparametric hypothesis testing for a spatial signal, J. Am. Stat. Assoc., 97, 1122–1140, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Skamarock, W. C., Klemp, J. B., Dudhia, J., Gill, D. O., Barker, D. M., Wang, W., and Powers, J. G.: A description of the advanced research WRF version 2, Tech. rep., National Center for Atmospheric Research, NCAR Technical Note NCAR/TN-468+STR, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Sommerfeld, M. and French, J. P.: cope: Coverage Probability Excursion (CoPE) Sets, R package version 0.2.3, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Sommerfeld, M., Sain, S., and Schwartzman, A.: Confidence regions for excursion sets in asymptotically Gaussian random fields, with an application to climate, arXiv preprint arXiv:1501.07000, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1073/pnas.1530509100</doi>
+              <unstructured_citation>Storey, J. D. and Tibshirani, R.: Statistical significance for genome-wide experiments, P. Natl. Acad. Sci. USA, 100, 9440–9445, https://doi.org/10.1073/pnas.1530509100, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1111/rssb.12064</doi>
+              <unstructured_citation>Sun, W., Reich, B. J., Tony Cai, T., Guindani, M., and Schwartzman, A.: False discovery control in large-scale spatial multiple testing, J. Roy. Stat. Soc. B, 77, 59–83, https://doi.org/10.1111/rssb.12064, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1016/j.jhydrol.2012.05.052</doi>
+              <unstructured_citation>Teutschbein, C. and Seibert, J.: Bias correction of regional climate model simulations for hydrological climate-change impact studies: Review and evaluation of different methods, J. Hydrol., 456–457, 12–29, https://doi.org/10.1016/j.jhydrol.2012.05.052, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Venables, W. N. and Ripley, B. D.: Modern Applied Statistics with S, Springer, New York, 4th Edn., available at: http://www.stats.ox.ac.uk/pub/MASS4 (last access: 10 July 2017), iSBN 0-387-95457-0, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Weisberg, S.: Applied Linear Regression, 4th Edn., Wiley, Hoboken, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Wickham, H.: ggplot2: Elegant Graphics for Data Analysis, Springer-Verlag New York, available at: http://ggplot2.org (last access: 10 July 2017), 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Wilks, D. S.: Statistical Methods in the Atmospheric Sciences, vol. 100, Academic Press, 2011.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/ascmo-3-67-2017-supplement</doi>
+                <resource>https://www.adv-stat-clim-meteorol-oceanogr.net/3/67/2017/ascmo-3-67-2017-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

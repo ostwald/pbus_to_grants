@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-02-06 11:04:26">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>How well can global chemistry models calculate the reactivity of short-lived greenhouse gases in the remote troposphere, knowing the chemical composition</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Michael J.</given_name>
+              <surname>Prather</surname>
+              <ORCID>https://orcid.org/0000-0002-9442-8109</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Clare M.</given_name>
+              <surname>Flynn</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xin</given_name>
+              <surname>Zhu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephen D.</given_name>
+              <surname>Steenrod</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sarah A.</given_name>
+              <surname>Strode</surname>
+              <ORCID>https://orcid.org/0000-0002-8103-1663</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Arlene M.</given_name>
+              <surname>Fiore</surname>
+              <ORCID>https://orcid.org/0000-0003-0221-2122</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gustavo</given_name>
+              <surname>Correa</surname>
+              <ORCID>https://orcid.org/0000-0002-0098-7322</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lee T.</given_name>
+              <surname>Murray</surname>
+              <ORCID>https://orcid.org/0000-0002-3447-3952</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jean-Francois</given_name>
+              <surname>Lamarque</surname>
+              <ORCID>https://orcid.org/0000-0002-4225-5074</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We develop a new protocol for merging in situ measurements with 3-D model
+simulations of atmospheric chemistry with the goal of integrating these
+data to identify the most reactive air parcels in terms of tropospheric
+production and loss of the greenhouse gases ozone and methane. Presupposing
+that we can accurately measure atmospheric composition, we examine whether
+models constrained by such measurements agree on the chemical budgets for
+ozone and methane. In applying our technique to a synthetic data stream of
+14 880 parcels along 180<span class="inline-formula"><sup>∘</sup></span> W, we are able to isolate the performance of the
+photochemical modules operating within their global chemistry-climate and
+chemistry-transport models, removing the effects of modules controlling
+tracer transport, emissions, and scavenging. Differences in reactivity across
+models are driven only by the chemical mechanism and the diurnal cycle of
+photolysis rates, which are driven in turn by temperature, water vapor, solar
+zenith angle, clouds, and possibly aerosols and overhead ozone, which are
+calculated in each model. We evaluate six global models and identify their
+differences and similarities in simulating the chemistry through a range of
+innovative diagnostics. All models agree that the more highly reactive
+parcels dominate the chemistry (e.g., the hottest 10 % of parcels control
+25–30 % of the total reactivities), but do not fully agree on which parcels
+comprise the top 10 %. Distinct differences in specific features occur,
+including the spatial regions of maximum ozone production and methane loss,
+as well as in the relationship between photolysis and these reactivities.
+Unique, possibly aberrant, features are identified for each model, providing
+a benchmark for photochemical module development. Among the six models tested
+here, three are almost indistinguishable based on the inherent variability caused
+by clouds, and thus we identify four, effectively distinct, chemical models.
+Based on this work, we suggest that water vapor differences in model
+simulations of past and future atmospheres may be a cause of the different
+evolution of tropospheric O<span class="inline-formula"><sub>3</sub></span> and CH<span class="inline-formula"><sub>4</sub></span>, and lead to different
+chemistry-climate feedbacks across the models.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>07</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>2653</first_page>
+            <last_page>2668</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.3334/ORNLDAAC/1597</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.3334/ORNLDAAC/1581</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-11-2653-2018</doi>
+            <resource>https://www.atmos-meas-tech.net/11/2653/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/11/2653/2018/amt-11-2653-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>ATom: Measurements and modeling results from the NASA Atmospheric Tomography
+Mission, available at: https://espoarchive.nasa.gov/archive/browse/atom (last access: 30 April 2018), 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1098/rspa.1952.0130</doi>
+              <unstructured_citation>Batchelor, G. K.: The Effect of Homogeneous Turbulence on Material Lines and
+Surfaces, Proc. R. Soc. Lon. Ser.-A, 213, 349–366, https://doi.org/10.1098/rspa.1952.0130,
+1952. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/gmd-10-585-2017</doi>
+              <unstructured_citation>Collins, W. J., Lamarque, J.-F., Schulz, M., Boucher, O., Eyring, V.,
+Hegglin, M. I., Maycock, A., Myhre, G., Prather, M., Shindell, D., and Smith,
+S. J.: AerChemMIP: quantifying the effects of chemistry and aerosols in
+CMIP6, Geosci. Model Dev., 10, 585–607,
+https://doi.org/10.5194/gmd-10-585-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Eyring, V., Butchart, N., Waugh, D. W., Akiyoshi, H., Austin, J., Bekki, S.,
+Bodeker, G. E., Boville, B. A., Brühl, C., Chipperfield, M. P., Cordero, E.,
+Dameris, M., Deushi, M., Fioletov, V. E., Frith, S. M., Garcia, R. R.,
+Gettelman, A., Giorgetta, M. A., Grewe, V., Jourdain, L., Kinnison, D. E.,
+Mancini, E., Marchand, M., Marsh, D. R., Nagashima, T., Newman, P. A.,
+Nielsen, J. E., Pawson, S., Pitari, G., Plummer, D. A., Rozanov, E., Schraner, M.,
+Shepherd, T. G., Shibata, K., Stolarski, R. S., Struthers, H., Tian, W., and Yoshiki, M.:
+Assessment of temperature, trace species, and ozone in chemistry-climate
+model simulations of the recent past, J. Geophys. Res.-Atmos., 111, D22308,
+https://doi.org/10.1029/2006jd007327, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/gmd-7-105-2014</doi>
+              <unstructured_citation>Lauritzen, P. H., Ullrich, P. A., Jablonowski, C., Bosler, P. A., Calhoun,
+D., Conley, A. J., Enomoto, T., Dong, L., Dubey, S., Guba, O., Hansen, A. B.,
+Kaas, E., Kent, J., Lamarque, J.-F., Prather, M. J., Reinert, D., Shashkin,
+V. V., Skamarock, W. C., Sørensen,&amp;lt;span id=&amp;quot;page2668&amp;quot;/&amp;gt; B., Taylor, M. A., and Tolstykh, M. A.: A
+standard test case suite for two-dimensional linear transport on the sphere:
+results from a collection of state-of-the-art schemes, Geosci. Model Dev., 7,
+105–145, https://doi.org/10.5194/gmd-7-105-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/gmd-10-639-2017</doi>
+              <unstructured_citation>Morgenstern, O., Hegglin, M. I., Rozanov, E., O'Connor, F. M., Abraham, N.
+L., Akiyoshi, H., Archibald, A. T., Bekki, S., Butchart, N., Chipperfield, M.
+P., Deushi, M., Dhomse, S. S., Garcia, R. R., Hardiman, S. C., Horowitz, L.
+W., Jöckel, P., Josse, B., Kinnison, D., Lin, M., Mancini, E., Manyin, M. E.,
+Marchand, M., Marécal, V., Michou, M., Oman, L. D., Pitari, G., Plummer, D.
+A., Revell, L. E., Saint-Martin, D., Schofield, R., Stenke, A., Stone, K.,
+Sudo, K., Tanaka, T. Y., Tilmes, S., Yamashita, Y., Yoshida, K., and Zeng,
+G.: Review of the global models used within phase 1 of the Chemistry–Climate
+Model Initiative (CCMI), Geosci. Model Dev., 10, 639–671,
+https://doi.org/10.5194/gmd-10-639-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/acp-17-2709-2017</doi>
+              <unstructured_citation>Myhre, G., Aas, W., Cherian, R., Collins, W., Faluvegi, G., Flanner, M.,
+Forster, P., Hodnebrog, Ø., Klimont, Z., Lund, M. T., Mülmenstädt, J., Lund
+Myhre, C., Olivié, D., Prather, M., Quaas, J., Samset, B. H., Schnell, J. L.,
+Schulz, M., Shindell, D., Skeie, R. B., Takemura, T., and Tsyro, S.:
+Multi-model simulations of aerosol and ozone radiative forcing due to
+anthropogenic emission changes during the period 1990–2015, Atmos. Chem.
+Phys., 17, 2709–2720, https://doi.org/10.5194/acp-17-2709-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>NAP: Causes and Effects of Changes in Stratospheric Ozone: Update 1983, ISBN
+0-309-03443-4, National Academy Press, Washington D.C., USA, 1984. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>NASA: Report of the 1992 Stratospheric Models and Measurements Workshop, edited by: Prather, M. J. and Remsberg, E. E.), Satellite Beach, FL, USA, February 1992,
+NASA Ref. Publ. 1292, 144&amp;amp;thinsp;+&amp;amp;thinsp;268&amp;amp;thinsp;+&amp;amp;thinsp;352 pp., 1993. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1021/acs.jpca.5b07824</doi>
+              <unstructured_citation>Nault, B. A., Garland, C., Wooldridge, P. J., Brune, W. H., Campuzano-Jost,
+P., Crounse, J. D., Day, D. A., Dibb, J., Hall, S. R., Huey, L. G., Jimenez,
+J. L., Liu, X. X., Mao, J. Q., Mikoviny, T., Peischl, J., Pollack, I. B.,
+Ren, X. R., Ryerson, T. B., Scheuer, E., Ullmann, K., Wennberg, P. O.,
+Wisthaler, A., Zhang, L., and Cohen, R. C.: Observational Constraints on the
+Oxidation of NOx in the Upper Troposphere, J. Phys. Chem. A, 120, 1468–1478,
+https://doi.org/10.1021/acs.jpca.5b07824, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Olson, J., Prather, M., Berntsen, T., Carmichael, G., Chatfield, R.,
+Connell, P., Derwent, R., Horowitz, L., Jin, S. X., Kanakidou, M.,
+Kasibhatla, P., Kotamarthi, R., Kuhn, M., Law, K., Penner, J., Perliski, L.,
+Sillman, S., Stordal, F., Thompson, A., and Wild, O.: Results from the
+Intergovernmental Panel on Climatic Change Photochemical Model
+Intercomparison (PhotoComp), J. Geophys. Res.-Atmos., 102, 5979–5991, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/acp-12-6799-2012</doi>
+              <unstructured_citation>Olson, J. R., Crawford, J. H., Brune, W., Mao, J., Ren, X., Fried, A.,
+Anderson, B., Apel, E., Beaver, M., Blake, D., Chen, G., Crounse, J., Dibb,
+J., Diskin, G., Hall, S. R., Huey, L. G., Knapp, D., Richter, D., Riemer, D.,
+Clair, J. St., Ullmann, K., Walega, J., Weibring, P., Weinheimer, A.,
+Wennberg, P., and Wisthaler, A.: An analysis of fast photochemistry over high
+northern latitudes during spring and summer using in-situ observations from
+ARCTAS and TOPSE, Atmos. Chem. Phys., 12, 6799–6825,
+https://doi.org/10.5194/acp-12-6799-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/JAS-D-15-0289.1</doi>
+              <unstructured_citation>Orbe, C., Waugh, D. W., Newman, P. A., and Steenrod, S.: The Transit-Time
+Distribution from the Northern Hemisphere Midlatitude Surface, J. Atmos. Sci.,
+73, 3785–3802, https://doi.org/10.1175/Jas-D-15-0289.1, 2016.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>PhotoComp: Chapter 6 – Stratospheric Chemistry SPARC Report No. 5 on the
+Evaluation of Chemistry-Climate Models, World Meteorological Organization, Geneva, Switzerland, 194–202, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Prather, M. and Jaffe, A. H.: Global Impact of the Antarctic Ozone Hole –
+Chemical Propagation, J. Geophys. Res.-Atmos., 95, 3473–3492, 1990. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Prather, M., Flynn, C., Fiore, A., Correa, G., Strode, S. A., Steenrod, S.,
+Murray, L., and Lamarque, J.-F.: ATom: Simulated Data Stream for Modeling
+ATom-like Measurements. ORNL DAAC, Oak Ridge, Tennessee, USA, available at:
+https://doi.org/10.3334/ORNLDAAC/1597, last access: 1 May 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1073/pnas.0806541106</doi>
+              <unstructured_citation>Prather, M. J., Zhu, X., Strahan, S. E., Steenrod, S. D., and Rodriguez, J.
+M.: Quantifying errors in trace species transport modeling, P. Natl. Acad.
+Sci. USA, 105, 19617–19621, https://doi.org/10.1073/pnas.0806541106, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/gmd-8-2587-2015</doi>
+              <unstructured_citation>Prather, M. J.: Photolysis rates in correlated overlapping cloud fields:
+Cloud-J 7.3c, Geosci. Model Dev., 8, 2587–2595,
+https://doi.org/10.5194/gmd-8-2587-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-17-9081-2017</doi>
+              <unstructured_citation>Prather, M. J., Zhu, X., Flynn, C. M., Strode, S. A., Rodriguez, J. M.,
+Steenrod, S. D., Liu, J., Lamarque, J.-F., Fiore, A. M., Horowitz, L. W.,
+Mao, J., Murray, L. T., Shindell, D. T., and Wofsy, S. C.: Global atmospheric
+chemistry – which air matters, Atmos. Chem. Phys., 17, 9081–9102,
+https://doi.org/10.5194/acp-17-9081-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1126/science.1210026</doi>
+              <unstructured_citation>Shindell, D., Kuylenstierna, J. C. I., Vignati, E., van Dingenen, R., Amann,
+M., Klimont, Z., Anenberg, S. C., Muller, N., Janssens-Maenhout, G., Raes,
+F., Schwartz, J., Faluvegi, G., Pozzoli, L., Kupiainen, K.,
+Hoglund-Isaksson, L., Emberson, L., Streets, D., Ramanathan, V., Hicks, K.,
+Oanh, N. T. K., Milly, G., Williams, M., Demkine, V., and Fowler, D.:
+Simultaneously Mitigating Near-Term Climate Change and Improving Human
+Health and Food Security, Science, 335, 183–189, https://doi.org/10.1126/science.1210026, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Wild, O., Zhu, X., and Prather, M. J.: Fast-J: Accurate simulation of in-
+and below-cloud photolysis in tropospheric chemical models, J. Atmos. Chem.,
+37, 245–282, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Wofsy, S. C., Apel, E., Blake, D. R., Brock, C. A., Brune, W. H., Bui, T. P.,
+Daube, B. C., Dibb, J. E., Diskin, G. S., Elkiins, J. W., Froyd, K., Hall,
+S. R., Hanisco, T. F., Huey, L. G., Jimenez, J. L., McKain, K., Montzka, S. A.,
+Ryerson, T. B., Schwarz, J. P., Stephens, B. B., Weinzierl, B., and Wennberg,
+P.: ATom: Merged Atmospheric Chemistry, Trace Gases, and Aerosols. ORNL DAAC, Oak
+Ridge, Tennessee, USA, available at: https://doi.org/10.3334/ORNLDAAC/1581, last access:
+30
+April 2018. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/amt-11-2653-2018-supplement</doi>
+                <resource>https://www.atmos-meas-tech.net/11/2653/2018/amt-11-2653-2018-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

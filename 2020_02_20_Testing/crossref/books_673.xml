@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1007" timestamp="2018-01-05 19:52:36">
+    <crossref>
+      <book book_type="other">
+        <book_series_metadata>
+          <series_metadata>
+            <titles>
+              <title>Lecture Notes in Computer Science</title>
+            </titles>
+            <issn media_type="print">0302-9743</issn>
+            <issn media_type="electronic">1611-3349</issn>
+          </series_metadata>
+          <contributors>
+            <person_name contributor_role="editor" sequence="first">
+              <given_name>Julian M.</given_name>
+              <surname>Kunkel</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Rio</given_name>
+              <surname>Yokota</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Michela</given_name>
+              <surname>Taufer</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>John</given_name>
+              <surname>Shalf</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>High Performance Computing</title>
+          </titles>
+          <volume>10524</volume>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <isbn media_type="print">978-3-319-67629-6</isbn>
+          <isbn media_type="electronic">978-3-319-67630-2</isbn>
+          <publisher>
+            <publisher_name>Springer International Publishing</publisher_name>
+            <publisher_place>Cham</publisher_place>
+          </publisher>
+          <program name="AccessIndicators">
+            <license_ref>http://www.springer.com/tdm</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1007/978-3-319-67630-2</doi>
+            <resource>http://link.springer.com/10.1007/978-3-319-67630-2</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/978-3-319-67630-2</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/978-3-319-67630-2.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </book_series_metadata>
+        <content_item component_type="chapter" level_sequence_number="1" publication_type="full_text">
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Allison H.</given_name>
+              <surname>Baker</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Haiying</given_name>
+              <surname>Xu</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Dorit M.</given_name>
+              <surname>Hammerling</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Shaomeng</given_name>
+              <surname>Li</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>John P.</given_name>
+              <surname>Clyne</surname>
+            </person_name>
+          </contributors>
+          <titles>
+            <title>Toward a Multi-method Approach: Lossy Data Compression for Climate Simulation Data</title>
+          </titles>
+          <component_number>Chapter 3</component_number>
+          <publication_date media_type="print">
+            <year>2017</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>20</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>30</first_page>
+            <last_page>42</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>http://www.springer.com/tdm</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1007/978-3-319-67630-2_3</doi>
+            <resource>http://link.springer.com/10.1007/978-3-319-67630-2_3</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://link.springer.com/content/pdf/10.1007/978-3-319-67630-2_3</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="3_CR1">
+              <doi provider="crossref">10.5194/gmd-9-4381-2016</doi>
+              <unstructured_citation>Baker, A.H., Hammerling, D.M., Mickleson, S.A., Xu, H., Stolpe, M.B., Naveau, P., Sanderson, B., Ebert-Uphoff, I., Samarasinghe, S., De Simone, F., Carbone, F., Gencarelli, C.N., Dennis, J.M., Kay, J.E., Lindstrom, P.: Evaluating lossy data compression on climate simulation data within a large ensemble. Geosci. Model Dev. 9(12), 4381–4403 (2016). 
+http://www.geosci-model-dev.net/9/4381/2016/</unstructured_citation>
+            </citation>
+            <citation key="3_CR2">
+              <doi provider="crossref">10.1145/2600212.2600217</doi>
+              <unstructured_citation>Baker, A., Xu, H., Dennis, J., Levy, M., Nychka, D., Mickelson, S., Edwards, J., Vertenstein, M., Wegener, A.: A methodology for evaluating the impact of data compression on climate simulation data. In: Proceedings of the 23rd International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2014, pp. 203–214 (2014)</unstructured_citation>
+            </citation>
+            <citation key="3_CR3">
+              <doi provider="crossref">10.1109/IPDPS.2013.81</doi>
+              <unstructured_citation>Bicer, T., Yin, J., Chiu, D., Agrawal, G., Schuchardt, K.: Integrating online compression to accelerate large-scale data analytics applications. In: International Parallel and Distributed Processing Symposium, pp. 1205–1216 (2013)</unstructured_citation>
+            </citation>
+            <citation key="3_CR4">
+              <journal_title>IEEE Trans. Comput.</journal_title>
+              <author>M Burtscher</author>
+              <volume>58</volume>
+              <first_page>18</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1109/TC.2008.131</doi>
+              <unstructured_citation>Burtscher, M., Ratanaworabhan, P.: FPC: a high-speed compressor for double-precision floating-point data. IEEE Trans. Comput. 58, 18–31 (2009)</unstructured_citation>
+            </citation>
+            <citation key="3_CR5">
+              <journal_title>Commun. Pure Appl. Math.</journal_title>
+              <author>A Cohen</author>
+              <volume>45</volume>
+              <first_page>485</first_page>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1002/cpa.3160450502</doi>
+              <unstructured_citation>Cohen, A., Daubechies, I., Feauveau, J.C.: Biorthogonal bases of compactly supported wavelets. Commun. Pure Appl. Math. 45, 485–560 (1992)</unstructured_citation>
+            </citation>
+            <citation key="3_CR6">
+              <doi provider="crossref">10.1109/IPDPS.2016.11</doi>
+              <unstructured_citation>Di, S., Cappello, F.: Fast error-bounded lossy HPC data compression with SZ. In: 2016 IEEE International Parallel and Distributed Processing Symposium, IPDPS 2016, Chicago, IL, USA, 23–27 May 2016, pp. 730–739 (2016). 
+http://dx.doi.org/10.1109/IPDPS.2016.11</unstructured_citation>
+            </citation>
+            <citation key="3_CR7">
+              <unstructured_citation>Fowler, J.E.: Qccpack: An open-source software library for quantization, compression, and coding. In: International Symposium on Optical Science and Technology, pp. 294–301. International Society for Optics and Photonics (2000)</unstructured_citation>
+            </citation>
+            <citation key="3_CR8">
+              <author>N Hübbe</author>
+              <first_page>343</first_page>
+              <cYear>2013</cYear>
+              <series_title>Lecture Notes in Computer Science</series_title>
+              <volume_title>Supercomputing</volume_title>
+              <doi>10.1007/978-3-642-38750-0_26</doi>
+              <unstructured_citation>Hübbe, N., Wegener, A., Kunkel, J.M., Ling, Y., Ludwig, T.: Evaluating lossy compression on climate data. In: Kunkel, J.M., Ludwig, T., Meuer, H.W. (eds.) ISC 2013. LNCS, vol. 7905, pp. 343–356. Springer, Heidelberg (2013). doi:
+10.1007/978-3-642-38750-0_26</unstructured_citation>
+            </citation>
+            <citation key="3_CR9">
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <author>J Hurrell</author>
+              <volume>94</volume>
+              <first_page>1339</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>Hurrell, J., Holland, M., Gent, P., Ghan, S., Kay, J., Kushner, P., Lamarque, J.F., Large, W., Lawrence, D., Lindsay, K., Lipscomb, W., Long, M., Mahowald, N., Marsh, D., Neale, R., Rasch, P., Vavrus, S., Vertenstein, M., Bader, D., Collins, W., Hack, J., Kiehl, J., Marshall, S.: The community earth system model: a framework for collaborative research. Bull. Am. Meteorol. Soc. 94, 1339–1360 (2013)</unstructured_citation>
+            </citation>
+            <citation key="3_CR10">
+              <unstructured_citation>Islam, A., Pearlman, W.A.: Embedded and efficient low-complexity hierarchical image coder. In: Electronic Imaging’99, pp. 294–305. International Society for Optics and Photonics (1998)</unstructured_citation>
+            </citation>
+            <citation key="3_CR11">
+              <author>J Iverson</author>
+              <first_page>843</first_page>
+              <cYear>2012</cYear>
+              <series_title>Lecture Notes in Computer Science</series_title>
+              <volume_title>Euro-Par 2012 Parallel Processing</volume_title>
+              <doi>10.1007/978-3-642-32820-6_83</doi>
+              <unstructured_citation>Iverson, J., Kamath, C., Karypis, G.: Fast and effective lossy compression algorithms for scientific datasets. In: Kaklamanis, C., Papatheodorou, T., Spirakis, P.G. (eds.) Euro-Par 2012. LNCS, vol. 7484, pp. 843–856. Springer, Heidelberg (2012). doi:
+10.1007/978-3-642-32820-6_83</unstructured_citation>
+            </citation>
+            <citation key="3_CR12">
+              <doi provider="crossref">10.1175/BAMS-D-13-00255.1</doi>
+              <unstructured_citation>Kay, J., Deser, C., Phillips, A., Mai, A., Hannay, C., Strand, G., Arblaster, J., Bates, S., Danabasoglu, G., Edwards, J., Holland, M., Kushner, P., Lamarque, J.F., Lawrence, D., Lindsay, K., Middleton, A., Munoz, E., Neale, R., Oleson, K., Polvani, L., Vertenstein, M.: The Community Earth System Model (CESM) large ensemble project: A community resource for studying climate change in the presence of internal climate variability, vol. 96. Bulletin of the American Meteorological Society (2015)</unstructured_citation>
+            </citation>
+            <citation key="3_CR13">
+              <unstructured_citation>Kowalik-Urbaniak, I., Brunet, D., Wang, J., Koff, D., Smolarski-Koff, N., Vrscay, E.R., Wallace, B., Wang, Z.: The quest for ‘diagnostically lossless’ medical image compression: a comparative study of objective quality metrics for compressed medical images. In: Medical Imaging 2014: Image Perception, Observer Performance, and Technology Assessment, Proceedings of SPIE. vol. 9037 (2014)</unstructured_citation>
+            </citation>
+            <citation key="3_CR14">
+              <author>S Lakshminarasimhan</author>
+              <first_page>366</first_page>
+              <cYear>2011</cYear>
+              <series_title>Lecture Notes in Computer Science</series_title>
+              <volume_title>Euro-Par 2011 Parallel Processing</volume_title>
+              <doi>10.1007/978-3-642-23400-2_34</doi>
+              <unstructured_citation>Lakshminarasimhan, S., Shah, N., Ethier, S., Klasky, S., Latham, R., Ross, R., Samatova, N.F.: Compressing the incompressible with ISABELA: in-situ reduction of spatio-temporal data. In: Jeannot, E., Namyst, R., Roman, J. (eds.) Euro-Par 2011. LNCS, vol. 6852, pp. 366–379. Springer, Heidelberg (2011). doi:
+10.1007/978-3-642-23400-2_34</unstructured_citation>
+            </citation>
+            <citation key="3_CR15">
+              <doi provider="crossref">10.1145/2503210.2503283</doi>
+              <unstructured_citation>Laney, D., Langer, S., Weber, C., Lindstrom, P., Wegener, A.: Assessing the effects of data compression in simulations using physically motivated metrics. In: Supercomputing (SC 2013) In: Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, SC 2013. pp. 76:1–76:12 (2013)</unstructured_citation>
+            </citation>
+            <citation key="3_CR16">
+              <doi provider="crossref">10.1109/LDAV.2015.7348075</doi>
+              <unstructured_citation>Li, S., Gruchalla, K., Potter, K., Clyne, J., Childs, H.: Evaluating the efficacy of wavelet configurations on turbulent-flow data. In: Proceedings of IEEE Symposium on Large Data Analysis and Visualization (LDAV), pp. 81–89, Chicago, IL, October 2015</unstructured_citation>
+            </citation>
+            <citation key="3_CR17">
+              <journal_title>IEEE Trans. Visual. Comput. Graph.</journal_title>
+              <author>P Lindstrom</author>
+              <volume>20</volume>
+              <issue>12</issue>
+              <first_page>2674</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1109/TVCG.2014.2346458</doi>
+              <unstructured_citation>Lindstrom, P.: Fixed-rate compressed floating-point arrays. IEEE Trans. Visual. Comput. Graph. 20(12), 2674–2683 (2014)</unstructured_citation>
+            </citation>
+            <citation key="3_CR18">
+              <journal_title>IEEE Trans. Visual. Comput. Graph.</journal_title>
+              <author>P Lindstrom</author>
+              <volume>12</volume>
+              <first_page>1245</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1109/TVCG.2006.143</doi>
+              <unstructured_citation>Lindstrom, P., Isenburg, M.: Fast and efficient compression of floating-point data. IEEE Trans. Visual. Comput. Graph. 12, 1245–1250 (2006)</unstructured_citation>
+            </citation>
+            <citation key="3_CR19">
+              <journal_title>Eos, Trans. Am. Geophys. Union</journal_title>
+              <author>G Meehl</author>
+              <volume>95</volume>
+              <issue>9</issue>
+              <first_page>77</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2014EO090001</doi>
+              <unstructured_citation>Meehl, G., Moss, R., Taylor, K., Eyring, V., Stouffer, R., Bony, S., Stevens, B.: Climate model intercomparisons: preparing for the next phase. Eos, Trans. Am. Geophys. Union 95(9), 77–78 (2014)</unstructured_citation>
+            </citation>
+            <citation key="3_CR20">
+              <doi provider="crossref">10.1109/BigData.2015.7363979</doi>
+              <unstructured_citation>Paul, K., Mickelson, S., Xu, H., Dennis, J.M., Brown, D.: Light-weight parallel Python tools for earth system modeling workflows. In: IEEE International Conference on Big Data, pp. 1985–1994, October 2015</unstructured_citation>
+            </citation>
+            <citation key="3_CR21">
+              <doi provider="crossref">10.1109/IPDPS.2015.67</doi>
+              <unstructured_citation>Sasaki, N., Sato, K., Endo, T., Matsuoka, S.: Exploration of lossy compression for application-level checkpoint/restart. In: Proceedings of the 2015 IEEE International Parallel and Distributed Processing Symposium, IPDPS 2015, pp. 914–922 (2015)</unstructured_citation>
+            </citation>
+            <citation key="3_CR22">
+              <unstructured_citation>Small, R.J., Bacmeister, J., Bailey, D., Baker, A., Bishop, S., Bryan, F., Caron, J., Dennis, J., Gent, P., Hsu, H.m., Jochum, M., Lawrence, D., Muoz, E., diNezio, P., Scheitlin, T., Tomas, R., Tribbia, J., Tseng, Y.H., Vertenstein, M.: A new synoptic scale resolving global climate simulation using the community earth system model. J. Adv. Model. Earth Syst. 6(4), 1065–1094 (2014)</unstructured_citation>
+            </citation>
+            <citation key="3_CR23">
+              <journal_title>IEEE Trans. Image Process.</journal_title>
+              <author>Z Wang</author>
+              <volume>13</volume>
+              <issue>4</issue>
+              <first_page>600</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1109/TIP.2003.819861</doi>
+              <unstructured_citation>Wang, Z., Bovik, A.C., Sheikh, H.R., Simoncelli, E.P.: Image quality assessment: from error visibility to structural similarity. IEEE Trans. Image Process. 13(4), 600–612 (2004)</unstructured_citation>
+            </citation>
+            <citation key="3_CR24">
+              <journal_title>IEEE Signal Process. Mag.</journal_title>
+              <author>A Wegener</author>
+              <volume>27</volume>
+              <issue>4</issue>
+              <first_page>125</first_page>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1109/MSP.2010.936781</doi>
+              <unstructured_citation>Wegener, A.: Compression of medical sensor data. IEEE Signal Process. Mag. 27(4), 125–130 (2010)</unstructured_citation>
+            </citation>
+            <citation key="3_CR25">
+              <unstructured_citation>Woodring, J., Mniszewski, S.M., Brislawn, C.M., DeMarle, D.E., Ahrens, J.P.: Revisiting wavelet compression for large-scale climate data using JPEG2000 and ensuring data precision. In: Rogers, D., Silva, C.T. (eds.) IEEE Symposium on Large Data Analysis and Visualization (LDAV), pp. 31–38. IEEE (2011)</unstructured_citation>
+            </citation>
+          </citation_list>
+        </content_item>
+      </book>
+    </crossref>
+  </doi_record>
+</doi_records>

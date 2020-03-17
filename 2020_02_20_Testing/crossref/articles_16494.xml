@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2019-08-18 06:47:49">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Geophysical Research: Atmospheres</full_title>
+          <abbrev_title>J. Geophys. Res. Atmos.</abbrev_title>
+          <issn>2169897X</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>01</month>
+            <day>16</day>
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>120</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The High Park fire: Coupled weather-wildland fire model simulation of a windstorm-driven wildfire in Colorado's Front Range</title>
+            <subtitle>Simulation of windstorm-driven wildfire</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Janice L.</given_name>
+              <surname>Coen</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Wilfrid</given_name>
+              <surname>Schroeder</surname>
+              <affiliation>Department of Geographical Sciences; University of Maryland; College Park Maryland USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>01</month>
+            <day>16</day>
+            <year>2015</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>12</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>131</first_page>
+            <last_page>146</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX12AQ87G</assertion>
+              <assertion name="award_number">NNH11AS03</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation (NSF)
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">0835598</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Federal Emergency Management Agency
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100008464</assertion>
+              </assertion>
+              <assertion name="award_number">EMW-2011-FP-01124</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1</license_ref>
+            <license_ref applies_to="vor" start_date="2015-01-12">http://onlinelibrary.wiley.com/termsAndConditions</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2014JD021993</doi>
+            <resource>http://doi.wiley.com/10.1002/2014JD021993</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2014JD021993/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2014JD021993</resource>
+              </item>
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2014JD021993</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2014JD021993-BIB0001|jgrd51913-cit-0001">
+              <unstructured_citation>Albini , F. A. 1976 Estimating wildfire behavior and effects USDA Forest Service Intermountain Forest and Range Experiment Station General, Tech. Rep. INT-30 Ogden, Utah</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0002|jgrd51913-cit-0002">
+              <unstructured_citation>Anderson , H. E. 1982 Aids to determining fuel models for estimating fire behavior Intermountain Forest and Range Experiment Station General, Tech. Rep. INT-122 USDA Forest Service Ogden, Utah</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0003|jgrd51913-cit-0003">
+              <unstructured_citation>Butler , B. W. M. Finney L. Bradshaw J. Forthofer C. McHugh R. Stratton D. Jimenez 2006 WindWizard: A new tool for fire management decision support</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0004|jgrd51913-cit-0004">
+              <author>Clark</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/1520-0450(2003)042&lt;0970:BMOSTN&gt;2.0.CO;2</doi>
+              <article_title>Block-iterative method of solving the nonhydrostatic pressure in terrain-following coordinates: Two-level pressure and truncation error analysis</article_title>
+              <journal_title>J. Appl. Meteorol.</journal_title>
+              <volume>42</volume>
+              <first_page>970</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0005|jgrd51913-cit-0005">
+              <author>Clark</author>
+              <cYear>1984</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1984)041&lt;0329:SDWCIT&gt;2.0.CO;2</doi>
+              <article_title>Severe downslope windstorm calculations in two and three spatial dimensions using anelastic interactive grid nesting</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>41</volume>
+              <first_page>329</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0006|jgrd51913-cit-0006">
+              <author>Clark</author>
+              <cYear>1991</cYear>
+              <doi provider="crossref">10.1016/0021-9991(91)90218-A</doi>
+              <article_title>Multi-domain simulations of the time-dependent Navier-Stokes equations: Benchmark error analysis of some nesting procedures</article_title>
+              <journal_title>J. Comput. Phys.</journal_title>
+              <volume>92</volume>
+              <first_page>456</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0007|jgrd51913-cit-0007">
+              <author>Clark</author>
+              <cYear>1977</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1977)034&lt;1715:OTEASO&gt;2.0.CO;2</doi>
+              <article_title>On the evolution and stability of finite-amplitude mountain waves</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>34</volume>
+              <first_page>1715</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0008|jgrd51913-cit-0008">
+              <author>Clark</author>
+              <cYear>1994</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1994)051&lt;2317:TATDSO&gt;2.0.CO;2</doi>
+              <article_title>Two-and three-dimensional simulations of the 9 Jan 1989 severe Boulder windstorm: Comparison with observations</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>51</volume>
+              <first_page>2317</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0009|jgrd51913-cit-0009">
+              <unstructured_citation>Clark , T. L. W. D. Hall J. L. Coen 1996 Source code documentation for the Clark-Hall Cloud-scale Model Code Version G3CH01 Tech. Note NCAR/TN-426+STR 10.5065/D67W694V</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0010|jgrd51913-cit-0010">
+              <author>Clark</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1997)054&lt;1795:TITOLI&gt;2.0.CO;2</doi>
+              <article_title>Terrain-induced turbulence over Lantau Island: 7 June 1994 Tropical Storm Russ case study</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>54</volume>
+              <first_page>1795</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0011|jgrd51913-cit-0011">
+              <author>Clark</author>
+              <cYear>2000</cYear>
+              <article_title>Origins of aircraft-damaging clear-air turbulence during the 9 December 1992 Colorado Downslope Windstorm: Numerical simulations and comparison with observations</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>57</volume>
+              <first_page>1105</first_page>
+              <doi>10.1175/1520-0469(2000)057&lt;1105:OOADCA&gt;2.0.CO;2.</doi>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0012|jgrd51913-cit-0012">
+              <author>Clark</author>
+              <cYear>2003</cYear>
+              <article_title>Numerical simulations of grassland fires in the Northern Territory, Australia: A new subgrid-scale fire parameterization</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>108</volume>
+              <issue>D18</issue>
+              <doi>10.1029/2002JD003340</doi>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0013|jgrd51913-cit-0013">
+              <author>Coen</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1071/WF04047</doi>
+              <article_title>Simulation of the Big Elk fire using coupled atmosphere-fire modeling</article_title>
+              <journal_title>Intl. J. Wildland Fire</journal_title>
+              <volume>14</volume>
+              <first_page>49</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0014|jgrd51913-cit-0014">
+              <unstructured_citation>Coen , J. L. 2013 Modeling wildland fires: A description of the Coupled Atmosphere-Wildland Fire Environment model (CAWFE) Tech. Note NCAR/TN-500+STR 10.5065/D6K64G2G</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0015|jgrd51913-cit-0015">
+              <author>Coen</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1071/WF12194</doi>
+              <article_title>Simulation and thermal imaging of the 2006 Esperanza wildfire in southern California: Application of a coupled weather-wildland fire model</article_title>
+              <journal_title>Intl. J. Wildland Fire</journal_title>
+              <volume>23</volume>
+              <first_page>755</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0016|jgrd51913-cit-0016">
+              <author>Coen</author>
+              <cYear>2013</cYear>
+              <article_title>Use of spatially refined remote sensing fire detection data to initialize and evaluate coupled weather-wildfire growth model simulations</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>40</volume>
+              <first_page>1</first_page>
+              <doi>10.1002/2013GL057868</doi>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0017|jgrd51913-cit-0017">
+              <author>Coen</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/1520-0450(2004)043&lt;1241:IIOCDD&gt;2.0.CO;2</doi>
+              <article_title>Infrared imagery of crown-fire dynamics during FROSTFIRE</article_title>
+              <journal_title>J. Appl. Meteorol.</journal_title>
+              <volume>43</volume>
+              <first_page>1241</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0018|jgrd51913-cit-0018">
+              <author>Cotton</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1175/1520-0434(1995)010&lt;0786:AUSDWE&gt;2.0.CO;2</doi>
+              <article_title>An unusual downslope wind event in Fort Collins, Colorado, on 3 July 1993</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>10</volume>
+              <first_page>786</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0019|jgrd51913-cit-0019">
+              <author>Cruz</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1139/x05-085</doi>
+              <article_title>Development and testing of models for predicting crown fire rate of spread in conifer forest stands</article_title>
+              <journal_title>Can. J. For. Res.</journal_title>
+              <volume>35</volume>
+              <first_page>1626</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0020|jgrd51913-cit-0020">
+              <author>Doyle</author>
+              <cYear>2000</cYear>
+              <article_title>An intercomparison of model-predicted wave breaking for the 11 January 1972 Boulder windstorm</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>128</volume>
+              <first_page>901</first_page>
+              <doi>10.1175/1520-0493(2000)128&lt;0901:AIOMPW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0022|jgrd51913-cit-0022">
+              <author>Heward</author>
+              <cYear>2013</cYear>
+              <article_title>Is burn severity related to fire intensity? Observations from landscape scale remote sensing</article_title>
+              <journal_title>Intl. J. Wildland Fire</journal_title>
+              <volume>22</volume>
+              <first_page>910</first_page>
+              <doi>10.1071/WF12087</doi>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0023|jgrd51913-cit-0023">
+              <unstructured_citation>Hoffman , C. M. K. Pelz J. Ziegler K. Moriarty 2012 Understanding the fire behavior and impacts of the High Park fire</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0024|jgrd51913-cit-0024">
+              <author>Jolly</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.foreco.2011.12.022</doi>
+              <article_title>Relationships between moisture, chemistry, and ignition of Pinus contorta needles during the early stages of mountain pine beetle attack</article_title>
+              <journal_title>For. Ecol. Manage.</journal_title>
+              <volume>269</volume>
+              <first_page>52</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0025|jgrd51913-cit-0025">
+              <author>Julian</author>
+              <cYear>1969</cYear>
+              <doi provider="crossref">10.1080/00431672.1969.9932856</doi>
+              <article_title>Boulder's winds</article_title>
+              <journal_title>Weatherwise</journal_title>
+              <volume>22</volume>
+              <first_page>109</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0026|jgrd51913-cit-0026">
+              <author>Klemp</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.5194/adgeo-7-25-2006</doi>
+              <article_title>Advances in the WRF model for convection-resolving forecasting</article_title>
+              <journal_title>Adv. Geosci.</journal_title>
+              <volume>7</volume>
+              <first_page>25</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0027|jgrd51913-cit-0027">
+              <author>Lilly</author>
+              <cYear>1978</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1978)035&lt;0059:ASDWAA&gt;2.0.CO;2</doi>
+              <article_title>A severe downslope windstorm and aircraft turbulence induced by a mountain wave</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>35</volume>
+              <first_page>59</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0028|jgrd51913-cit-0028">
+              <author>Lilly</author>
+              <cYear>1972</cYear>
+              <doi provider="crossref">10.1080/00431672.1972.9931577</doi>
+              <article_title>The Front Range windstorm of 11 January 1972: A meteorological narrative</article_title>
+              <journal_title>Weatherwise</journal_title>
+              <volume>25</volume>
+              <first_page>56</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0029|jgrd51913-cit-0029">
+              <author>Mercer</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1175/2008WAF2007067.1</doi>
+              <article_title>Statistical modeling of downslope windstorms in Boulder, Colorado</article_title>
+              <journal_title>Weather Forecasting</journal_title>
+              <volume>23</volume>
+              <first_page>1176</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0030|jgrd51913-cit-0030">
+              <author>Parker</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.22499/2.6303.003</doi>
+              <article_title>Trapped mountain waves during a light aircraft accident</article_title>
+              <journal_title>Aust. Meteorol. Oceanogr. J.</journal_title>
+              <volume>63</volume>
+              <first_page>377</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0031|jgrd51913-cit-0031">
+              <author>Peltier</author>
+              <cYear>1979</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1979)036&lt;1498:TEASOF&gt;2.0.CO;2</doi>
+              <article_title>The evolution and stability of finite-amplitude mountain waves. Part II: Surface wave drag and severe downslope windstorms</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>36</volume>
+              <first_page>1498</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0032|jgrd51913-cit-0032">
+              <doi provider="crossref">10.1175/1087-3562(2003)007&lt;0001:TSAWOC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Raphael , M. N. 2003 The Santa Ana winds of California http://EarthInteractions.org</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0033|jgrd51913-cit-0033">
+              <author>Rognvaldsson</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.5194/acp-11-103-2011</doi>
+              <article_title>Downslope windstorm in Iceland: WRF/MM5 model comparison</article_title>
+              <journal_title>Atmos. Chem. Phys.</journal_title>
+              <volume>11</volume>
+              <first_page>103</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0034|jgrd51913-cit-0034">
+              <doi provider="crossref">10.2737/INT-RP-438</doi>
+              <unstructured_citation>Rothermel , R. C. 1991 Predicting behavior and size of crown fires in the northern Rocky Mountains</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0035|jgrd51913-cit-0035">
+              <unstructured_citation>Ryan , W. N. Doesken 2012 Drought of 2012 in Colorado, Colorado Climate Center, Department of Atmospheric Science http://ccc.atmos.colostate.edu/pdfs/climo_rpt_13_1.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0036|jgrd51913-cit-0036">
+              <author>Schoennagel</author>
+              <cYear>2012</cYear>
+              <article_title>Effects of mountain pine beetle on fuels and expected fire behavior in lodgepole pine forests, Colorado, USA</article_title>
+              <journal_title>PLoS One</journal_title>
+              <volume>7</volume>
+              <doi>10.1371/journal.pone.0030002</doi>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0037|jgrd51913-cit-0037">
+              <author>Schroeder</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.rse.2013.12.008</doi>
+              <article_title>The new VIIRS 375 m active fire detection data product: Algorithm description and initial assessment</article_title>
+              <journal_title>Remote Sens. Environ.</journal_title>
+              <volume>143</volume>
+              <first_page>85</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0038|jgrd51913-cit-0038">
+              <author>Scinocca</author>
+              <cYear>1989</cYear>
+              <article_title>Pulsating downslope windstorms</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>46</volume>
+              <first_page>2885</first_page>
+              <doi>10.1175/1520-0469(1989)046&lt;2885:PDW&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0039|jgrd51913-cit-0039">
+              <doi provider="crossref">10.2737/RMRS-RP-58</doi>
+              <unstructured_citation>Scott , J. H. 2006 Comparison of crown fire modeling systems used in three fire management applications Res. Pap. RMRS-RP-58</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0040|jgrd51913-cit-0040">
+              <unstructured_citation>Sharman , R. W. D. Hall T. Keller J. Wolff 2004 The operational prediction of mountain wave turbulence using a high resolution nonhydrostatic mesoscale model</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0041|jgrd51913-cit-0041">
+              <author>Taylor</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1139/x04-116</doi>
+              <article_title>Variation in wind and crown fire behavior in a northern jack pine-black spruce forest</article_title>
+              <journal_title>Can. J. For. Res.</journal_title>
+              <volume>34</volume>
+              <first_page>1561</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0042|jgrd51913-cit-0042">
+              <author>Trier</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/MWR-D-11-00353.1</doi>
+              <article_title>The influence of moist convection on a cold-season outbreak of near-cloud aviation turbulence</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>140</volume>
+              <first_page>2477</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0043|jgrd51913-cit-0043">
+              <author>Van Wagner</author>
+              <cYear>1977</cYear>
+              <doi provider="crossref">10.1139/x77-004</doi>
+              <article_title>Conditions for the start and spread of crown fire</article_title>
+              <journal_title>Can. J. For. Res.</journal_title>
+              <volume>7</volume>
+              <first_page>23</first_page>
+            </citation>
+            <citation key="10.1002/2014JD021993-BIB0044|jgrd51913-cit-0044">
+              <unstructured_citation>Whiteman , C. D. J. G. Whiteman 1974 An historical climatology of damaging downslope windstorms at Boulder, Colorado NOAA Tech. Rep. ERL 336-APCL,</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 07:48:04">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>18</volume>
+          </journal_volume>
+          <issue>15</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Black carbon-induced snow albedo reduction over the Tibetan Plateau: uncertainties from snow grain shape and aerosol–snow mixing state based on an updated SNICAR model</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Cenlin</given_name>
+              <surname>He</surname>
+              <ORCID>https://orcid.org/0000-0002-7367-2815</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mark G.</given_name>
+              <surname>Flanner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Fei</given_name>
+              <surname>Chen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michael</given_name>
+              <surname>Barlage</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kuo-Nan</given_name>
+              <surname>Liou</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Shichang</given_name>
+              <surname>Kang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jing</given_name>
+              <surname>Ming</surname>
+              <ORCID>https://orcid.org/0000-0001-5527-3768</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yun</given_name>
+              <surname>Qian</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We implement a set of new parameterizations into the widely used Snow, Ice, and Aerosol Radiative (SNICAR) model to account for effects of snow grain shape (spherical vs. nonspherical) and black carbon (BC)–snow mixing state (external vs. internal). We find that nonspherical snow grains lead to higher pure albedo but weaker BC-induced albedo reductions relative to spherical snow grains, while BC–snow internal mixing significantly enhances albedo reductions relative to external mixing. The combination of snow nonsphericity and internal mixing suggests an important interactive effect on BC-induced albedo reduction. Comparisons with observations of clean and BC-contaminated snow albedo show that model simulations accounting for both snow nonsphericity and BC–snow internal mixing perform better than those using the common assumption of spherical snow grains and external mixing. We further apply the updated SNICAR model with comprehensive in situ measurements of BC concentrations in the Tibetan Plateau snowpack to quantify the present-day (2000–2015) BC-induced snow albedo effects from a regional and seasonal perspective. The BC concentrations show distinct and substantial sub-regional and seasonal variations, with higher values in the non-monsoon season and low altitudes. As a result, the BC-induced regional mean snow albedo reductions and surface radiative effects vary by up to an order of magnitude across different sub-regions and seasons, with values of 0.7–30.7 and 1.4–58.4<span class="thinspace"></span>W<span class="thinspace"></span>m<sup>−2</sup> for BC externally mixed with fresh and aged snow spheres, respectively. The BC radiative effects are further complicated by uncertainty in snow grain shape and BC–snow mixing state. BC–snow internal mixing enhances the mean albedo effects over the plateau by 30–60<span class="thinspace"></span>% relative to external mixing, while nonspherical snow grains decrease the mean albedo effects by up to 31<span class="thinspace"></span>% relative to spherical grains. Based on this study, extensive measurements and improved model characterization of snow grain shape and aerosol–snow mixing state are urgently needed in order to precisely evaluate BC–snow albedo effects.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>15</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>11507</first_page>
+            <last_page>11527</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">91537211</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-18-11507-2018</doi>
+            <resource>https://www.atmos-chem-phys.net/18/11507/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/18/11507/2018/acp-18-11507-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2003JD003506</doi>
+              <unstructured_citation>Aoki, T., Hachikubo, A., and Hori, M.: Effects of snow physical parameters on shortwave broadband albedos. J. Geophys. Res., 108, 4616, https://doi.org/10.1029/2003JD003506, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2010JD015507</doi>
+              <unstructured_citation>Aoki, T., Kuchiki, K., Niwano, M., Kodama, Y., Hosaka, M., and Tanaka, T.: Physically based snow albedo model for calculating broadband albedos and the solar heating profile in snowpack for general circulation models, J. Geophys. Res., 116, D11114, https://doi.org/10.1029/2010JD015507, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2010JD015330</doi>
+              <unstructured_citation>Brandt, R. E., Warren, S. G., and Clarke, A. D.: A controlled snowmaking experiment testing the relation between black carbon content and reduction of snow albedo, 116, D08109, https://doi.org/10.1029/2010JD015330, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1080/02786820500421521</doi>
+              <unstructured_citation>Bond, T. C. and Bergstrom, R. W.: Light absorption by carbonaceous particles: An investigative review, Aerosol Sci. Technol., 40, 27–67, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2006JD007315</doi>
+              <unstructured_citation>Bond, T. C., Habib, G., and Bergstrom, R. W.: Limitations in the enhancement of visible light absorption due to mixing state, J. Geophys. Res.-Atmos., 111, D20211, https://doi.org/10.1029/2006jd007315, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/jgrd.50171</doi>
+              <unstructured_citation>Bond, T. C., Doherty, S. J., Fahey, D. W., Forster, P. M., Berntsen, T., DeAngelo, B. J., Flanner, M. G., Ghan, S., Kärcher, B., Koch, D., Kinne, S., Kondo, Y., Quinn, P. K., Sarofim, M. C., Schultz, M. G., Schulz, M., Venkataraman, C., Zhang, H., Zhang, S., Bellouin, N., Guttikunda, S. K., Hopke, P. K., Jacobson, M. Z., Kaiser, J. W., Klimont, Z., Lohmann, U., Schwarz, J. P., Shindell, D., Storelvmo, T., Warren, S. G., and Zender, C. S.: Bounding the role of black carbon in the climate system: A scientific assessment, J. Geophys. Res.-Atmos., 118, 1–173, https://doi.org/10.1002/jgrd.50171, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/JAS-D-15-0276.1</doi>
+              <unstructured_citation>Dang, C., Fu, Q., and Warren, S.: Effect of Snow Grain Shape on Snow Albedo, J. Atmos. Sci., 73, 3573–3583, https://doi.org/10.1175/JAS-D-15-0276.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/2017JD027070</doi>
+              <unstructured_citation>Dang, C., Warren, S. G., Fu, Q., Doherty, S. J., and Sturm, M.: Measurements of light-absorbing particles in snow across the Arctic, North America, and China: Effects on surface albedo, J. Geophys. Res.-Atmos., 122, 10149–10168, https://doi.org/10.1002/2017JD027070, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/acp-6-4321-2006</doi>
+              <unstructured_citation>Dentener, F., Kinne, S., Bond, T., Boucher, O., Cofala, J., Generoso, S., Ginoux, P., Gong, S., Hoelzemann, J. J., Ito, A., Marelli, L., Penner, J. E., Putaud, J.-P., Textor, C., Schulz, M., van der Werf, G. R., and Wilson, J.: Emissions of primary aerosol and precursor gases in the years 2000 and 1750 prescribed data-sets for AeroCom, Atmos. Chem. Phys., 6, 4321–4344, https://doi.org/10.5194/acp-6-4321-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/tc-11-2393-2017</doi>
+              <unstructured_citation>Di Mauro, B., Baccolo, G., Garzonio, R., Giardino, C., Massabò, D., Piazzalunga, A., Rossini, M., and Colombo, R.: Impact of impurities and cryoconite on the optical properties of the Morteratsch Glacier (Swiss Alps), The Cryosphere, 11, 2393–2409, https://doi.org/10.5194/tc-11-2393-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/jemt.10384</doi>
+              <unstructured_citation>Dominé, F., Lauzier, T., Cabanes, A., Legagneux, L., Kuhs, W. F., Techmer, K., and Heinrichs, T.: Snow metamorphism as revealed by scanning electron microscopy, Micros. Res. Tech., 62, 33–48, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2006JD008003</doi>
+              <unstructured_citation>Flanner, M. G., Zender, C. S., Randerson, J. T., and Rasch, P. J.: Present-day climate forcing and response from black carbon in snow, J. Geophys. Res.-Atmos., 112, D11202, https://doi.org/10.1029/2006jd008003, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-9-2481-2009</doi>
+              <unstructured_citation>Flanner, M. G., Zender, C. S., Hess, P. G., Mahowald, N. M., Painter, T. H., Ramanathan, V., and Rasch, P. J.: Springtime warming and reduced snow cover from carbonaceous particles, Atmos. Chem. Phys., 9, 2481–2497, https://doi.org/10.5194/acp-9-2481-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-12-4699-2012</doi>
+              <unstructured_citation>Flanner, M. G., Liu, X., Zhou, C., Penner, J. E., and Jiao, C.: Enhanced solar energy absorption by internally-mixed black carbon in snow grains, Atmos. Chem. Phys., 12, 4699–4721, https://doi.org/10.5194/acp-12-4699-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1137/0717021</doi>
+              <unstructured_citation>Fritsch, F. N. and Carlson, R. E.: Monotone Piecewise Cubic Interpolation, SIAM J. Num. Anal., 17, 238–246, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/2007JAS2289.1</doi>
+              <unstructured_citation>Fu, Q.: A new parameterization of an asymmetry factor of cirrus clouds for climate models, J. Atmos. Sci., 64, 4140–4150, https://doi.org/10.1175/2007JAS2289.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/1520-0469(1999)056&lt;2937:MOSAAB&gt;2.0.CO;2</doi>
+              <unstructured_citation>Fu, Q., Sun, W. B., and Yang, P.: On modeling of scattering and absorption by nonspherical cirrus ice particles in thermal infrared wavelengths. J. Atmos. Sci., 56, 2937–2947, https://doi.org/10.1175/1520-0469(1999)0562937:MOSAAB.2.0.CO;2, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/94JD01484</doi>
+              <unstructured_citation>Grenfell, T. C., Warren, S. G., and Mullen, P. C.: Reflection of solar radiation by the Antarctic snow surface at ultraviolet, visible, and near-infrared wavelengths, J. Geophys. Res., 99, 18669–18684, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2005JD005811</doi>
+              <unstructured_citation>Grenfell, T. C., Neshyba, S. P., and Warren, S. G.: Representation of a nonspherical ice particle by a collection of independent spheres for scattering and absorption of radiation: 3. Hollow columns and plates, J. Geophys. Res., 110, D17203, https://doi.org/10.1029/2005JD005811, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1038/nclimate1433</doi>
+              <unstructured_citation>Hadley, O. L. and Kirchstetter, T. W.: Black-carbon reduction of snow albedo, Nat. Clim. Change, 2, 437–440, https://doi.org/10.1038/NCLIMATE1433, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1073/pnas.2237157100</doi>
+              <unstructured_citation>Hansen, J., and Nazarenko, L.: Soot climate forcing via snow and ice albedos, P. Natl. Acad. Sci. USA, 101, 423–428, https://doi.org/10.1073/pnas.2237157100, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-14-7091-2014</doi>
+              <unstructured_citation>He, C., Li, Q. B., Liou, K. N., Zhang, J., Qi, L., Mao, Y., Gao, M., Lu, Z., Streets, D. G., Zhang, Q., Sarin, M. M., and Ram, K.: A global 3-D CTM evaluation of black carbon in the Tibetan Plateau, Atmos. Chem. Phys., 14, 7091–7112, https://doi.org/10.5194/acp-14-7091-2014, 2014a.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/2014GL062191</doi>
+              <unstructured_citation>He, C., Li, Q. B., Liou, K. N., Takano, Y., Gu, Y., Qi, L., Mao, Y. H., and Leung, L. R.: Black carbon radiative forcing over the Tibetan Plateau, Geophys. Res. Lett., 41, 7806–7813, https://doi.org/10.1002/2014GL062191, 2014b.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-15-11967-2015</doi>
+              <unstructured_citation>He, C., Liou, K. N., Takano, Y., Zhang, R., Levy Zamora, M., Yang, P., Li, Q., and Leung, L. R.: Variation of the radiative properties during black carbon aging: theoretical and experimental intercomparison, Atmos. Chem. Phys., 15, 11967–11980, https://doi.org/10.5194/acp-15-11967-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1016/j.jqsrt.2016.08.004</doi>
+              <unstructured_citation>He, C., Takano, Y., Liou, K. N., Yang, P., Li, Q., and Mackowski, D. W.: Intercomparison of the GOS approach, superposition T-matrix method, and laboratory measurements for black carbon optical properties during aging, J. Quant. Spectrosc. Radiat. Transfer., 184, 287–296, https://doi.org/10.1016/j.jqsrt.2016.08.004, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1002/2017GL072916</doi>
+              <unstructured_citation>He, C., Takano, Y., and Liou, K. N.: Close packing effects on clean and dirty snow albedo and associated climatic implications, Geophys. Res. Lett., 44, https://doi.org/10.1002/2017GL072916, 2017a.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/JCLI-D-17-0300.1</doi>
+              <unstructured_citation>He, C., Takano, Y., Liou, K. N., Yang, P., Li, Q., and Chen, F.: Impact of snow grain shape and black carbon-snow internal mixing on snow optical properties: Parameterizations for climate models, J. Climate, 30, 10019–10036, https://doi.org/10.1175/JCLI-D-17-0300.1, 2017b.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1002/2017JD027752</doi>
+              <unstructured_citation>He, C., Liou, K. N., Takano, Y., Yang, P., Qi, L., and Chen, F.: Impact of grain shape and multiple black carbon internal mixing on snow albedo: Parameterization and radiative effect analysis, J. Geophys. Res.-Atmos., 123, 1253–1268, https://doi.org/10.1002/2017JD027752, 2018a.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/2018GL077062</doi>
+              <unstructured_citation>He, C., Liou, K. N., and Takano, Y.: Resolving size distribution of black carbon internally mixed with snow: Impact on snow optical properties and albedo, Geophys. Res. Lett., 45, 2697–2705, https://doi.org/10.1002/2018GL077062, 2018b.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1126/science.1183188</doi>
+              <unstructured_citation>Immerzeel, W. W., van Beek, L. P. H., and Bierkens, M. F. P.: Climate Change Will Affect the Asian Water Towers, Science, 328, 1382–1385, https://doi.org/10.1126/science.1183188, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/tc-9-1685-2015</doi>
+              <unstructured_citation>Jacobi, H.-W., Lim, S., Ménégoz, M., Ginot, P., Laj, P., Bonasoni, P., Stocchi, P., Marinoni, A., and Arnaud, Y.: Black carbon in snow in the upper Himalayan Khumbu Valley, Nepal: observations and modeling of the impact on snow albedo, melting, and radiative forcing, The Cryosphere, 9, 1685–1699, https://doi.org/10.5194/tc-9-1685-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2004JD004945</doi>
+              <unstructured_citation>Jacobson, M. Z.: Climate response of fossil fuel and biofuel soot, accounting for soot's feedback to snow and sea ice albedo and emissivity, J. Geophys. Res.-Atmos., 109, D21201, https://doi.org/10.1029/2004jd004945, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1007/s00382-015-2509-1</doi>
+              <unstructured_citation>Ji, Z., Kang, S., Cong, Z., Zhang, Q., and Yao, T.: Simulation of carbonaceous aerosols over the Third Pole and adjacent regions: distribution, transportation, deposition, and climatic effects, Clim. Dynam., 45, 2831–2846, https://doi.org/10.1007/s00382-015-2509-1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1088/1748-9326/5/1/015101</doi>
+              <unstructured_citation>Kang, S., Xu, Y., You, Q., Fluhel, W.-A., Pepin, N., and Yao, T.: Review of climate and cryosphere change in the Tibetan Plateau, Environ. Res. Lett., 5, 015101, https://doi.org/10.1088/1748-9326/5/1/015101, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-11-2837-2011</doi>
+              <unstructured_citation>Kopacz, M., Mauzerall, D. L., Wang, J., Leibensperger, E. M., Henze, D. K., and Singh, K.: Origin and radiative forcing of black carbon transported to the Himalayas and Tibetan Plateau, Atmos. Chem. Phys., 11, 2837–2852, https://doi.org/10.5194/acp-11-2837-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/tc-7-1325-2013</doi>
+              <unstructured_citation>Kokhanovsky, A.: Spectral reflectance of solar light from dirty snow: a simple theoretical model and its validation. The Cryosphere, 7, 1325–1331, https://doi.org/10.5194/tc-7-1325-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1364/AO.43.001589</doi>
+              <unstructured_citation>Kokhanovsky, A. A. and Zege, E. P.: Scattering optics of snow, Appl. Optics, 43, 1589–1602, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1007/s00704-016-1860-4</doi>
+              <unstructured_citation>Lee, W.-L., Liou, K. N., He, C., Liang, H.-C., Wang, T.-C., Li, Q., Liu, Z., and Yue, Q.: Impact of absorbing aerosol deposition on snow albedo reduction over the southern Tibetan plateau based on satellite observations, Theor. Appl. Climatol., 129, 1373–1382, https://doi.org/10.1007/s00704-016-1860-4, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1038/ncomms12574</doi>
+              <unstructured_citation>Li, C., Bosch, C., Kang, S., Andersson, A., Chen, P., Zhang, Q., Cong, Z., Chen, B., Qin, D., and Gustafsson, Ö.: Sources of black carbon to the Himalayan-Tibetan Plateau glaciers, Nat. Commun., 7, 12574, https://doi.org/10.1038/ncomms12574, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1016/j.scitotenv.2017.02.169</doi>
+              <unstructured_citation>Li, X. F., Kang, S., He, X., Qu, B., Tripathee, L., Jing, Z., Paudyal, R., Li, Y., Zhang, Y., Yan, F., Li, G., and Li, C.: Light-absorbing impurities accelerate glacier melt in the Central Tibetan Plateau, Sci. Total Environ., 587–588, 482–490, https://doi.org/10.1016/j.scitotenv.2017.02.169, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1016/j.atmosres.2017.10.002</doi>
+              <unstructured_citation>Li, X., Kang, S., Zhang, G., Que, B., Tripatheea, L., Paudyal, R., Jing, Z., Zhang, Y., Yan, F., Li, G., Cui, X., Xu, R., Hu, Z., and Li, C.: Light-absorbing impurities in a southern Tibetan Plateau glacier: Variations and potential impact on snow albedo and radiative forcing, Atmos. Res., 200, 77–87, https://doi.org/10.1016/j.atmosres.2017.10.002, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Liou, K. N. and Yang, P.: Light Scattering by Ice Crystals: Fundamentals and Applications, 168–173, Cambridge Univ. Press, Cambridge, UK, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1016/j.jqsrt.2011.03.007</doi>
+              <unstructured_citation>Liou, K. N., Takano, Y., and Yang, P.: Light absorption and scattering by aggregates: Application to black carbon and snow grains, J. Quant. Spectrosc. Radiat. Transfer, 112, 1581–1594, https://doi.org/10.1016/j.jqsrt.2011.03.007, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1002/2014JD021665</doi>
+              <unstructured_citation>Liou, K. N., Takano, Y., He, C., Yang, P., Leung, R. L., Gu, Y., and Lee, W. L.: Stochastic parameterization for light absorption by internally mixed BC/dust in snow grains for application to climate models, J. Geophys. Res.-Atmos., 119, 7616–7632, https://doi.org/10.1002/2014JD021665, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1016/j.envpol.2013.06.009</doi>
+              <unstructured_citation>Long, C. M., Nascarella, M. A., and Valberg, P. A.: Carbon black vs. black carbon and other airborne materials containing elemental carbon: physical and chemical distinctions, Environ. Pollut., 181, 271–286, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2011GL049903</doi>
+              <unstructured_citation>Lu, Z. F., Streets, D. G., Zhang, Q., and Wang, S. W.: A novel backtrajectory analysis of the origin of black carbon transported to the Himalayas and Tibetan Plateau during 1996–2010, Geophys. Res. Lett., 39, L01809, https://doi.org/10.1029/2011gl049903, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/1520-0469(1974)031&lt;0003:TEOMOT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Manabe, S. and Terpstra, T. B.: The effects of mountains on the general circulation of the atmosphere as identified by numerical experiments, J. Atmos. Sci., 31, 3–42, 1974.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Marshall, S. E.: A physical parameterization of snow albedo for use in climate models, NCAR Cooperative Thesis, 123, 175&amp;amp;thinsp;pp., Boulder, CO, National Center for Atmospheric Research, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1126/science.1144856</doi>
+              <unstructured_citation>McConnell, J. R., Edwards, R., Kok, G. L., Flanner, M. G., Zender, C. S., Saltzman, E. S., Banta, J. R., Pasteris, D. R., Carter, M. M., and Kahl, J. D. W.: 20th-century industrial black carbon emissions altered arctic climate forcing, Science, 317, 1381–1384, https://doi.org/10.1126/science.1144856, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-13-3793-2013</doi>
+              <unstructured_citation>Meinander, O., Kazadzis, S., Arola, A., Riihelä, A., Räisänen, P., Kivi, R., Kontu, A., Kouznetsov, R., Sofiev, M., Svensson, J., Suokanerva, H., Aaltonen, V., Manninen, T., Roujean, J.-L., and Hautecoeur, O.: Spectral albedo of seasonal snow during intensive melt period at Sodankylä, beyond the Arctic Circle, Atmos. Chem. Phys., 13, 3793–3810, https://doi.org/10.5194/acp-13-3793-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/acp-10-4559-2010</doi>
+              <unstructured_citation>Menon, S., Koch, D., Beig, G., Sahu, S., Fasullo, J., and Orlikowski, D.: Black carbon aerosols and the third polar ice cap, Atmos. Chem. Phys., 10, 4559–4571, https://doi.org/10.5194/acp-10-4559-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/acp-8-1343-2008</doi>
+              <unstructured_citation>Ming, J., Cachier, H., Xiao, C., Qin, D., Kang, S., Hou, S., and Xu, J.: Black carbon record based on a shallow Himalayan ice core and its climatic implications, Atmos. Chem. Phys., 8, 1343–1352, https://doi.org/10.5194/acp-8-1343-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1016/j.atmosres.2008.09.007</doi>
+              <unstructured_citation>Ming, J., Xiao, C. D., Cachier, H., Qin, D. H., Qin, X., Li, Z. Q., and Pu, J. C.: Black Carbon (BC) in the snow of glaciers in west China and its potential effects on albedos, Atmos. Res., 92, 114–123, https://doi.org/10.1016/j.atmosres.2008.09.007, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1016/j.advwatres.2012.05.015</doi>
+              <unstructured_citation>Ming, J., Xiao, C. D., Du, Z. C., and Yang, X. G.: An overview of black carbon deposition in High Asia glaciers and its impacts on radiation balance, Adv. Water Res., 55, 80–87, https://doi.org/10.1016/j.advwatres.2012.05.015, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1016/j.atmosres.2017.07.004</doi>
+              <unstructured_citation>Niu, H. W., Kang, S. C., Zhang, Y. L., Shi, X. Y., Shi, X. F., Wang, S. J., Li, G., Yan, X., Pu, T., and He, Y.: Distribution of light-absorbing impurities in snow of glacier on Mt. Yulong, southeastern Tibetan Plateau, Atmos. Res., 197, 474–484, https://doi.org/10.1016/j.atmosres.2017.07.004, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Oleson, K., Lawrence, D. M., Bonan, G. B., Flanner, M. G., Kluzek, E., Lawrence, P. J., Levis, S., Swenson, S. C., Thornton, P. E., Dai, A., Decker, M., Dickinson, R., Feddema, J., Heald, C. L., Hoffman, F., Lamarque, J.-F., Mahowald, N., Niu, G.-Y., Qian, T., Randerson, J., Running, S., Sakaguchi, K., Slater, A., Stockli, R., Wang, A., Yang, Z.-L., and Zeng, X.: Technical description of version 4.5 of the Community Land Model (CLM), NCAR Technical Note NCAR/TN-503+STR, 420&amp;amp;thinsp;pp., https://doi.org/10.5065/D6RR1W7M, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1029/2007GL030284</doi>
+              <unstructured_citation>Painter, T. H., Barrett, A. P., Landry, C. C., Neff, J. C., Cassidy, M. P., Lawrence, C. R., McBride, K. E., and Farmer, G. L.: Impact of disturbed desert soils on duration of mountain snow cover, Geophys. Res. Lett., 34, L12502, https://doi.org/10.1029/2007GL030284, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1073/pnas.1302570110</doi>
+              <unstructured_citation>Painter, T. H., Flanner, M. G., Kaser, G., Marzeion, B., VanCuren, R. A., and Abdalati, W.: End of the Little Ice Age in the Alps forced by industrial black carbon, P. Natl. Acad. Sci. USA, 110, 15216–15221, https://doi.org/10.1073/pnas.1302570110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1002/2014JD022407</doi>
+              <unstructured_citation>Pedersen, C. A., Gallet, J.-C., Ström, J., Gerland, S., Hudson, S. R., Forsström, S., Isaksson, E., and Berntsen, T. K.: In situ observations of black carbon in snow and the corresponding spectral surface albedo reduction, J. Geophys. Res. Atmos., 120, 1476–1489, https://doi.org/10.1002/2014JD022407, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/tc-10-2655-2016</doi>
+              <unstructured_citation>Picard, G., Libois, Q., and Arnaud, L.: Refinement of the ice absorption spectrum in the visible using radiance profile measurements in Antarctic snow, The Cryosphere, 10, 2655–2672, https://doi.org/10.5194/tc-10-2655-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1029/2008JD011039</doi>
+              <unstructured_citation>Qian, Y., Gustafson Jr., W. I., Leung, L. Y. R., and Ghan, S. J.: Effects of soot-induced snow albedo change on snowpack and hydrological cycle in western United States based on Weather Research and Forecasting chemistry and regional climate simulations, J. Geophys. Res.-Atmos., 114, D03108, https://doi.org/10.1029/2008JD011039, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/acp-11-1929-2011</doi>
+              <unstructured_citation>Qian, Y., Flanner, M. G., Leung, L. R., and Wang, W.: Sensitivity studies on the impacts of Tibetan Plateau snowpack pollution on the Asian hydrological cycle and monsoon climate, Atmos. Chem. Phys., 11, 1929–1948, https://doi.org/10.5194/acp-11-1929-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1088/1748-9326/9/6/064001</doi>
+              <unstructured_citation>Qian, Y., Wang, H., Zhang, Flanner, M. G., and Rasch, P. J.: A Sensitivity Study on Modeling Black Carbon in Snow and its Radiative Forcing over the Arctic and Northern China, Environ. Res. Lett., 9, 064001, https://doi.org/10.1088/1748-9326/9/6/064001, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1007/s00376-014-0010-0</doi>
+              <unstructured_citation>Qian, Y., Yasunari, T. J., Doherty, S. J., Flanner, M. G., Lau, W. K., Ming, J., Wang, H., Wang, M., Warren, S. G., and Zhang, R.: Light-absorbing particles in snow and ice: Measurement and modeling of climatic and hydrological impact, Adv. Atmos. Sci., 32, 64–91, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1175/JCLI3694.1</doi>
+              <unstructured_citation>Qin, D. H., Liu, S. Y., and Li, P. J.: Snow cover distribution, variability, and response to climate change in western China, J. Clim., 19, 1820–1833, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.5194/acp-14-11117-2014</doi>
+              <unstructured_citation>Qu, B., Ming, J., Kang, S.-C., Zhang, G.-S., Li, Y.-W., Li, C.-D., Zhao, S.-Y., Ji, Z.-M., and Cao, J.-J.: The decreasing albedo of the Zhadang glacier on western Nyainqentanglha and the role of light-absorbing impurities, Atmos. Chem. Phys., 14, 11117–11128, https://doi.org/10.5194/acp-14-11117-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1175/JCLI3750.1</doi>
+              <unstructured_citation>Qu, X. and Hall, A.: Assessing Snow Albedo Feedback in Simulated Climate Change, J. Climate, 19, 2617–2630, https://doi.org/10.1175/JCLI3750.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1038/ngeo156</doi>
+              <unstructured_citation>Ramanathan, V. and Carmichael, G.: Global and regional climate changes due to black carbon, Nat. Geosci., 1, 221–227, https://doi.org/10.1038/Ngeo156, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.5194/tc-11-2919-2017</doi>
+              <unstructured_citation>Räisänen, P., Makkonen, R., Kirkevåg, A., and Debernard, J. B.: Effects of snow grain shape on climate simulations: sensitivity tests with the Norwegian Earth System Model, The Cryosphere, 11, 2919–2942, https://doi.org/10.5194/tc-11-2919-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1038/srep40501</doi>
+              <unstructured_citation>Schmale, J., Flanner, M., Kang, S., Sprenger, M., Zhang, Q., Guo, J., Li, Y., Schwikowski, M., and Farinotti, D.: Modulation of snow reflectance and snowmelt from Central Asian glaciers by anthropogenic black carbon, Sci. Rep.-UK, 7, 40501, https://doi.org/10.1038/srep40501, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1017/jog.2016.125</doi>
+              <unstructured_citation>Skiles, S. M. and Painter, T. H.: Daily evolution in dust and black carbon content, snow grain size, and snow albedo during snowmelt, Rocky Mountains, Colorado, J. Glaciol., 63, 118–132, https://doi.org/10.1017/jog.2016.125, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.5194/tc-7-365-2013</doi>
+              <unstructured_citation>Sterle, K. M., McConnell, J. R., Dozier, J., Edwards, R., and Flanner, M. G.: Retention and radiative forcing of black carbon in eastern Sierra Nevada snow, The Cryosphere, 7, 365–374, https://doi.org/10.5194/tc-7-365-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Svensson, J., Virkkula, A., Meinander, O., Kivekäs, N., Hannula, H.-R., Järvinen, O., Peltoniemi, J. I., Gritsevich, M., Heikkilä, A., Kontu, A., Neitola, K., Brus, D., Dagsson-Waldhauserova, P., Anttila, K., Vehkamäki, M., Hienola, A., de Leeuw, G., and Lihavainen, H.: Soot-doped natural snow and its albedo–results from field experiments, Boreal Environ. Res., 21, 481–503, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1029/JD094iD13p16287</doi>
+              <unstructured_citation>Toon, O. B., McKay, C. P., Ackerman, T. P., and Santhanam, K.: Rapid calculation of radiative heating rates and photodissociation rates in inhomogeneous multiple scattering atmospheres, J. Geophys. Res., 94, 16287–16301, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.5194/acp-15-1191-2015</doi>
+              <unstructured_citation>Wang, M., Xu, B., Cao, J., Tie, X., Wang, H., Zhang, R., Qian, Y., Rasch, P. J., Zhao, S., Wu, G., Zhao, H., Joswiak, D. R., Li, J., and Xie, Y.: Carbonaceous Aerosols Recorded in a Southeastern Tibetan Glacier: Analysis of Temporal Variations and Model Estimates of Sources and Radiative Forcing, Atmos. Chem. Phys., 15, 1191–1204, https://doi.org/10.5194/acp-15-1191-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/2012JD018291</doi>
+              <unstructured_citation>Wang, X., Doherty, S. J., and Huang, J.: Black carbon and other light-absorbing impurities in snow across northern China, J. Geophys. Res.-Atmos., 118, 1471–1492, https://doi.org/10.1029/2012JD018291, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.5194/acp-17-2279-2017</doi>
+              <unstructured_citation>Wang, X., Pu, W., Ren, Y., Zhang, X., Zhang, X., Shi, J., Jin, H., Dai, M., and Chen, Q.: Observations and model simulations of snow albedo reduction in seasonal snow due to insoluble light-absorbing particles during 2014 Chinese survey, Atmos. Chem. Phys., 17, 2279–2296, https://doi.org/10.5194/acp-17-2279-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1029/2007JD009744</doi>
+              <unstructured_citation>Warren, S. G. and Brandt, R. E.: Optical constants of ice from the ultraviolet to the microwave: A revised compilation, J. Geophys. Res., 113, D14220, https://doi.org/10.1029/2007JD009744, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1175/1520-0469(1980)037&lt;2734:AMFTSA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Warren, S. G. and Wiscombe, W. J.: A Model for the Spectral Albedo of Snow. 2. Snow Containing Atmospheric Aerosols, J. Atmos. Sci., 37, 2734–2745, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Wiscombe, W. J. and Warren, S. G.: A model for the spectral albedo of snow: I. Pure snow, J, Atmos. Sci., 37, 2712–2733, https://doi.org/10.1175/1520-0469(1980)037% 3C2712:AMFTSA% 3E2.0.CO;2, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.5194/acp-18-5529-2018</doi>
+              <unstructured_citation>Wu, L., Gu, Y., Jiang, J. H., Su, H., Yu, N., Zhao, C., Qian, Y., Zhao, B., Liou, K.-N., and Choi, Y.-S.: Impacts of aerosols on seasonal precipitation and snowpack in California based on convection-permitting WRF-Chem simulations, Atmos. Chem. Phys., 18, 5529–5547, https://doi.org/10.5194/acp-18-5529-2018, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1073/pnas.0910444106</doi>
+              <unstructured_citation>Xu, B. Q., Cao, J. J., Hansen, J., Yao, T. D., Joswia, D. R., Wang, N. L., Wu, G. J., Wang, M., Zhao, H. B., Yang, W., Liu, X. Q., and He, J. Q.: Black soot and the survival of Tibetan glaciers, P. Natl. Acad. Sci. USA, 106, 22114–22118, https://doi.org/10.1073/pnas.0910444106, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1002/2017JD027282</doi>
+              <unstructured_citation>Yang, J., Kang, S., Ji, Z., and Chen, D.: Modeling the origin of anthropogenic black carbon and its climatic effect over the Tibetan Plateau and surrounding regions, J. Geophys. Res.-Atmos., 123, 671–692, https://doi.org/10.1002/2017JD027282, 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1016/j.atmosenv.2015.03.016</doi>
+              <unstructured_citation>Yang, S., Xu, B., Cao, J., Zender, C. S., and Wang, M.: Climate effect of black carbon aerosol in a TP glacier, Atmos. Environ., 111, 71–78, https://doi.org/10.1016/j.atmosenv.2015.03.016, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1016/j.envdev.2012.04.002</doi>
+              <unstructured_citation>Yao, T., Thompson, L. G., Mosbrugger, V., Zhang, F., Ma, Y., Luo, T., Xu, B., Yang, X., Joswiak, D. R., Wang, W., Joswiak, M. E., Devkota, L. P., Tayal, S., Jilani, R., and Fayziev, R.: Third Pole Environment (TPE), Environ. Dev., 3, 52–64, https://doi.org/10.1016/j.envdev.2012.04.002, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.5194/acp-10-6603-2010</doi>
+              <unstructured_citation>Yasunari, T. J., Bonasoni, P., Laj, P., Fujita, K., Vuillermoz, E., Marinoni, A., Cristofanelli, P., Duchi, R., Tartari, G., and Lau, K. M.: Estimated impact of black carbon deposition during premonsoon season from Nepal Climate Observatory – Pyramid data and snow albedo changes over Himalayan glaciers, Atmos. Chem. Phys., 10, 6603–6615, https://doi.org/10.5194/acp-10-6603-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Yeh, T.-C., Gao, Y. X., Tang, M. C., Luo, S. W., Shen, C. B., Gao, D. Y., Song, Z. S., Qian, Y. F., Yuan, F. M., Li, G. Q., Ding, Y. H., Chen, Z. T., Zhou, M. Y., Yang, K. J., and Wang, Q. Q.: Meteorology of Qinhai-Xizhang (Tibetan) Plateau, Science Press, Beijing, 300&amp;amp;thinsp;pp., 1979 (in Chinese).</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.5194/acp-9-7691-2009</doi>
+              <unstructured_citation>Yu, F. and Luo, G.: Simulation of particle size distribution with a global aerosol model: contribution of nucleation to aerosol and CCN number concentrations, Atmos. Chem. Phys., 9, 7691–7710, https://doi.org/10.5194/acp-9-7691-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.5194/acp-14-11475-2014</doi>
+              <unstructured_citation>Zhao, C., Hu, Z., Qian, Y., Ruby Leung, L., Huang, J., Huang, M., Jin, J., Flanner, M. G., Zhang, R., Wang, H., Yan, H., Lu, Z., and Streets, D. G.: Simulating black carbon and dust and their radiative forcing in seasonal snow: a case study over North China with field campaign measurements, Atmos. Chem. Phys., 14, 11475–11491, https://doi.org/10.5194/acp-14-11475-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.5194/acp-15-6205-2015</doi>
+              <unstructured_citation>Zhang, R., Wang, H., Qian, Y., Rasch, P. J., Easter, R. C., Ma, P.-L., Singh, B., Huang, J., and Fu, Q.: Quantifying sources, transport, deposition, and radiative forcing of black carbon over the Himalayas and Tibetan Plateau, Atmos. Chem. Phys., 15, 6205–6223, https://doi.org/10.5194/acp-15-6205-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1002/2016JD026397</doi>
+              <unstructured_citation>Zhang, Y. L., Kang, S., Cong, Z., Schmale, J., Sprenger, M., Li, C., Yang, W., Gao, T., Sillanpää, M., Li, X., Liu, Y., Chen, P., and Zhang, X.: Light-absorbing impurities enhance glacier albedo reduction in the southeastern Tibetan Plateau, J. Geophys. Res.-Atmos., 122, 6915–6933, https://doi.org/10.1002/2016JD026397, 2017a.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1016/j.scitotenv.2017.07.100</doi>
+              <unstructured_citation>Zhang, Y. L., Kang, S., Li, C., Gao, T., Cong, Z., Sprenger, M., Liu, Y., Li, X., Guo, J., Sillanpää, M., Wang, K., Chen, J., Li, Y., and Sun, S.: Characteristics of black carbon in snow from Laohugou No. 12 glacier on the northern Tibetan Plateau, Sci. Total Environ., 607–608, 1237–1249, https://doi.org/10.1016/j.scitotenv.2017.07.100, 2017b.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.5194/tc-12-413-2018</doi>
+              <unstructured_citation>Zhang, Y., Kang, S., Sprenger, M., Cong, Z., Gao, T., Li, C., Tao, S., Li, X., Zhong, X., Xu, M., Meng, W., Neupane, B., Qin, X., and Sillanpää, M.: Black carbon and mineral dust in snow cover on the Tibetan Plateau, The Cryosphere, 12, 413–431, https://doi.org/10.5194/tc-12-413-2018, 2018.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-18-11507-2018-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/18/11507/2018/acp-18-11507-2018-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

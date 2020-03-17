@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1111" timestamp="2018-07-04 07:20:05">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Computer Graphics Forum</full_title>
+          <abbrev_title>Computer Graphics Forum</abbrev_title>
+          <issn>01677055</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>09</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>37</volume>
+          </journal_volume>
+          <issue>6</issue>
+          <doi_data>
+            <doi>10.1111/cgf.2018.37.issue-6</doi>
+            <resource>http://doi.wiley.com/10.1111/cgf.2018.37.issue-6</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Data Reduction Techniques for Simulation, Visualization and Data Analysis</title>
+            <subtitle>Survey on Scientific Data Reduction Techniques</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>S.</given_name>
+              <surname>Li</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <affiliation>University of Oregon; Eugene OR USA</affiliation>
+              <ORCID>http://orcid.org/0000-0001-8295-2248</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>N.</given_name>
+              <surname>Marsaglia</surname>
+              <affiliation>University of Oregon; Eugene OR USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>C.</given_name>
+              <surname>Garth</surname>
+              <affiliation>University of Kaiserslautern; Kaiserslautern Germany</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J.</given_name>
+              <surname>Woodring</surname>
+              <affiliation>Los Alamos National Laboratory; Los Alamos NM USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J.</given_name>
+              <surname>Clyne</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>H.</given_name>
+              <surname>Childs</surname>
+              <affiliation>University of Oregon; Eugene OR USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>09</month>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>30</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>422</first_page>
+            <last_page>447</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2018-03-30">http://onlinelibrary.wiley.com/termsAndConditions#vor</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1111/cgf.13336</doi>
+            <resource>http://doi.wiley.com/10.1111/cgf.13336</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1111/cgf.13336/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fcgf.13336</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1111/cgf.13336-BIB0001|cgf13336-cit-0001">
+              <author>Austin</author>
+              <volume_title>Proceedings of 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</volume_title>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1109/IPDPS.2016.67</doi>
+              <first_page>912</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0002|cgf13336-cit-0002">
+              <author>Agranovsky</author>
+              <volume_title>Proceedings of the IEEE Symposium on Large Data Visualization and Analysis (LDAV)</volume_title>
+              <cYear>2014</cYear>
+              <first_page>67</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0003|cgf13336-cit-0003">
+              <author>Ackerman</author>
+              <article_title>The visible human project</article_title>
+              <journal_title>Proceedings of the IEEE</journal_title>
+              <volume>86</volume>
+              <issue>3</issue>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1109/5.662875</doi>
+              <first_page>504</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0004|cgf13336-cit-0004">
+              <author>Ahrens</author>
+              <volume_title>Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis</volume_title>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1109/SC.2014.40</doi>
+              <first_page>424</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0005|cgf13336-cit-0005">
+              <author>Ahmed</author>
+              <article_title>Discrete cosine transform</article_title>
+              <journal_title>IEEE Transactions on Computers</journal_title>
+              <volume>100</volume>
+              <issue>1</issue>
+              <cYear>1974</cYear>
+              <doi provider="crossref">10.1109/T-C.1974.223784</doi>
+              <first_page>90</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0006|cgf13336-cit-0006">
+              <author>Bauer</author>
+              <article_title>In situ methods, infrastructures, and applications on high performance computing platforms</article_title>
+              <journal_title>Computer Graphics Forum</journal_title>
+              <volume>35</volume>
+              <issue>3</issue>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1111/cgf.12930</doi>
+              <first_page>577</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0007|cgf13336-cit-0007">
+              <author>Biswas</author>
+              <article_title>An information-aware framework for exploring multivariate data sets</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>19</volume>
+              <issue>12</issue>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1109/TVCG.2013.133</doi>
+              <first_page>2683</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0008|cgf13336-cit-0008">
+              <author>Biedert</author>
+              <volume_title>Proceedings of Eurographics Symposium on Parallel Graphics and Visualization, May 25-26</volume_title>
+              <cYear>2015</cYear>
+              <first_page>77</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0009|cgf13336-cit-0009">
+              <author>Bujack</author>
+              <volume_title>IEEE 5th Symposium on Large Data Analysis and Visualization (LDAV)</volume_title>
+              <cYear>2015</cYear>
+              <first_page>41</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0010|cgf13336-cit-0010">
+              <author>Bennett</author>
+              <article_title>Feature-based statistical analysis of combustion simulation data</article_title>
+              <journal_title>IEEE Transactions on Computer Graphics</journal_title>
+              <volume>17</volume>
+              <issue>12</issue>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1109/TVCG.2011.199</doi>
+              <first_page>1822</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0011|cgf13336-cit-0011">
+              <author>Beckmann</author>
+              <article_title>The R*-tree: An efficient and robust access method for points and rectangles</article_title>
+              <journal_title>ACM SIGMOD Record</journal_title>
+              <volume>19</volume>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1145/93605.98741</doi>
+              <first_page>322</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0012|cgf13336-cit-0012">
+              <unstructured_citation>Blosc an extremely fast http://www.blosc.org/ 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0013|cgf13336-cit-0013">
+              <unstructured_citation>Synthetic Benchmarks http://www.blosc.org/synthetic-benchmarks.html 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0014|cgf13336-cit-0014">
+              <author>Boyuka</author>
+              <volume_title>2014 14th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)</volume_title>
+              <cYear>2014</cYear>
+              <first_page>256</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0015|cgf13336-cit-0015">
+              <unstructured_citation>Bonwick J. Moore B. ZFS: The last word in file systems https://wiki.illumos.org/download/attachments/1146951/zfs_last.pdf 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0016|cgf13336-cit-0016">
+              <author>BAYER</author>
+              <article_title>Organization and maintenance of large ordered indexes</article_title>
+              <journal_title>Acta Informatica</journal_title>
+              <volume>1</volume>
+              <cYear>1972</cYear>
+              <doi provider="crossref">10.1007/BF00288683</doi>
+              <first_page>173</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0017|cgf13336-cit-0017">
+              <author>Brix</author>
+              <article_title>Adaptive multiresolution methods: Practical issues on data structures, implementation and parallelization</article_title>
+              <journal_title>ESAIM: Proceedings</journal_title>
+              <volume>34</volume>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1051/proc/201134003</doi>
+              <first_page>151</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0018|cgf13336-cit-0018">
+              <doi provider="crossref">10.1109/SC.2016.22</doi>
+              <unstructured_citation>Burtscher M. Mukka H. Yang A. Hesaaraki F. Real-time synthesis of compression algorithms for scientific data SC16: International Conference for High Performance Computing, Networking, Storage and Analysis 2016 264 275</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0019|cgf13336-cit-0019">
+              <author>Burtscher</author>
+              <article_title>FPC: A high-speed compressor for double-precision floating-point data</article_title>
+              <journal_title>IEEE Transactions on Computers</journal_title>
+              <volume>58</volume>
+              <issue>1</issue>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1109/TC.2008.131</doi>
+              <first_page>18</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0020|cgf13336-cit-0020">
+              <author>Ballester-Ripoll</author>
+              <article_title>Lossy volume compression using tucker truncation and thresholding</article_title>
+              <journal_title>Visual Computer</journal_title>
+              <volume>32</volume>
+              <issue>11</issue>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1007/s00371-015-1130-y</doi>
+              <first_page>1433</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0021|cgf13336-cit-0021">
+              <unstructured_citation>Btrfs compression FAQ https://btrfs.wiki.kernel.org/index.php/Compression 2016</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0022|cgf13336-cit-0022">
+              <unstructured_citation>Burtscher M. SPDP v1.0 http://cs.txstate.edu/burtscher/research/SPDPcompressor/ 2018</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0023|cgf13336-cit-0023">
+              <author>Bremer</author>
+              <article_title>Interactive exploration and analysis of large-scale simulations using topology-based data segmentation</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>17</volume>
+              <issue>9</issue>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1109/TVCG.2010.253</doi>
+              <first_page>1307</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0024|cgf13336-cit-0024">
+              <author>Baker</author>
+              <volume_title>Proceedings of the 1st International Workshop on Data Reduction for Big Scientific Data (DRBSD-1)</volume_title>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0025|cgf13336-cit-0025">
+              <author>Childs</author>
+              <volume_title>Proceedings of IEEE Visualization (VIS'05)</volume_title>
+              <cYear>2005</cYear>
+              <first_page>191</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0026|cgf13336-cit-0026">
+              <author>Childs</author>
+              <volume_title>VisIt: An End-User Tool for Visualization and Analyzing Very Large Data</volume_title>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1201/b12985-21</doi>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0027|cgf13336-cit-0027">
+              <unstructured_citation>Cignoni P. Costanza D. Montani C. Rocchini C. Scopigno R. Simplification of tetrahedral meshes with accurate error evaluation Proceedings Visualization 2000, VIS 2000 (Cat. No.00CH37145) 2000 85 92</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0028|cgf13336-cit-0028">
+              <author>Candes</author>
+              <article_title>Fast discrete curvelet transforms</article_title>
+              <journal_title>Multiscale Modeling &amp; Simulation</journal_title>
+              <volume>5</volume>
+              <issue>3</issue>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1137/05064182X</doi>
+              <first_page>861</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0029|cgf13336-cit-0029">
+              <author>Cohen</author>
+              <article_title>Biorthogonal bases of compactly supported wavelets</article_title>
+              <journal_title>Communications on Pure and Applied Mathematics</journal_title>
+              <volume>45</volume>
+              <issue>5</issue>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1002/cpa.3160450502</doi>
+              <first_page>485</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0030|cgf13336-cit-0030">
+              <author>Calderbank</author>
+              <article_title>Wavelet transforms that map integers to integers</article_title>
+              <journal_title>Applied and Computational Harmonic Analysis</journal_title>
+              <volume>5</volume>
+              <issue>3</issue>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1006/acha.1997.0238</doi>
+              <first_page>332</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0031|cgf13336-cit-0031">
+              <author>Chiang</author>
+              <volume_title>Proceedings of the IEEE 2001 Symposium on Parallel and Large-Data Visualization and Graphics</volume_title>
+              <cYear>2001</cYear>
+              <first_page>59</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0032|cgf13336-cit-0032">
+              <author>Cignoni</author>
+              <article_title>Adaptive tetrapuzzles: Efficient out-of-core construction and visualization of gigantic multiresolution polygonal models</article_title>
+              <journal_title>ACM Transactions on Graphics</journal_title>
+              <volume>23</volume>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1145/1015706.1015802</doi>
+              <first_page>796</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0033|cgf13336-cit-0033">
+              <author>Chan</author>
+              <article_title>Bitmap index design and evaluation</article_title>
+              <journal_title>ACM SIGMOD Record</journal_title>
+              <volume>27</volume>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1145/276305.276336</doi>
+              <first_page>355</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0034|cgf13336-cit-0034">
+              <author>Clyne</author>
+              <volume_title>High Performance Visualization: Enabling Extreme-Scale Scientific Insight</volume_title>
+              <cYear>2012</cYear>
+              <first_page>145</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0035|cgf13336-cit-0035">
+              <author>Clyne</author>
+              <article_title>Interactive desktop analysis of high resolution simulations: Application to turbulent plume dynamics and current sheet formation</article_title>
+              <journal_title>New Journal of Physics</journal_title>
+              <volume>9</volume>
+              <issue>8</issue>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1088/1367-2630/9/8/301</doi>
+              <first_page>301</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0036|cgf13336-cit-0036">
+              <author>Chen</author>
+              <volume_title>Proceedings of Visual Communications and Image Processing</volume_title>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1117/12.233203</doi>
+              <first_page>1302</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0037|cgf13336-cit-0037">
+              <author>Clyne</author>
+              <volume_title>Visualization and Data Analysis 2005</volume_title>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1117/12.586032</doi>
+              <first_page>284</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0038|cgf13336-cit-0038">
+              <author>Chrysafis</author>
+              <volume_title>Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP '00)</volume_title>
+              <cYear>2000</cYear>
+              <first_page>2035</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0039|cgf13336-cit-0039">
+              <author>Chen</author>
+              <article_title>Interactive, internet delivery of visualization via structured prerendered multiresolution imagery</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>14</volume>
+              <issue>2</issue>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1109/TVCG.2007.70428</doi>
+              <first_page>302</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0040|cgf13336-cit-0040">
+              <author>Chiueh</author>
+              <volume_title>Proceedings of Visualization '97</volume_title>
+              <cYear>1997</cYear>
+              <first_page>329</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0041|cgf13336-cit-0041">
+              <author>Di</author>
+              <volume_title>Proceedings of 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</volume_title>
+              <cYear>2016</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0042|cgf13336-cit-0042">
+              <unstructured_citation>Deutsch P. DEFLATE Compressed Data Format Specification Version 1.3 1996</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0043|cgf13336-cit-0043">
+              <author>Daubechies</author>
+              <article_title>Factoring wavelet transforms into lifting steps</article_title>
+              <journal_title>Journal of Fourier Analysis and Applications</journal_title>
+              <volume>4</volume>
+              <issue>3</issue>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1007/BF02476026</doi>
+              <first_page>247</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0044|cgf13336-cit-0044">
+              <author>Ellsworth</author>
+              <volume_title>Proceedings of the Conference on Visualization</volume_title>
+              <cYear>2004</cYear>
+              <first_page>353</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0045|cgf13336-cit-0045">
+              <unstructured_citation>Folk M. Cheng A. Yates K. HDF5: A file format and I/O library for high performance computing applications Proceedings of Supercomputing 1999 5 33</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0046|cgf13336-cit-0046">
+              <author>Fernandes</author>
+              <volume_title>Proceedings of IEEE 4th Symposium on Large Data Analysis and Visualization (LDAV)</volume_title>
+              <cYear>2014</cYear>
+              <first_page>59</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0047|cgf13336-cit-0047">
+              <author>Fout</author>
+              <article_title>Transform coding for hardware-accelerated volume rendering</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>13</volume>
+              <issue>6</issue>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1109/TVCG.2007.70516</doi>
+              <first_page>1600</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0048|cgf13336-cit-0048">
+              <author>Fout</author>
+              <article_title>An adaptive prediction-based approach to lossless compression of floating-point volume data</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>18</volume>
+              <issue>12</issue>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1109/TVCG.2012.194</doi>
+              <first_page>2295</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0049|cgf13336-cit-0049">
+              <unstructured_citation>Fowler J. E. QccPack: An open-source software library for quantization, compression, and coding Proc. SPIE, Applications of Digital Image Processing XXIII 2000 294 301</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0050|cgf13336-cit-0050">
+              <author>Frey</author>
+              <volume_title>Proceedings of 2013 XXVI Conference on Graphics, Patterns and Images</volume_title>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1109/SIBGRAPI.2013.26</doi>
+              <first_page>123</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0051|cgf13336-cit-0051">
+              <author>Fowler</author>
+              <volume_title>VVS '94: Proceedings of the 1994 Symposium on Volume Visualization</volume_title>
+              <cYear>1994</cYear>
+              <doi provider="crossref">10.1145/197938.197961</doi>
+              <first_page>43</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0052|cgf13336-cit-0052">
+              <author>Gersho</author>
+              <volume_title>Vector Quantization and Signal Compression</volume_title>
+              <cYear>1991</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0053|cgf13336-cit-0053">
+              <author>Gosink</author>
+              <article_title>An application of multivariate statistical analysis for query-driven visualization</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>17</volume>
+              <issue>3</issue>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1109/TVCG.2010.80</doi>
+              <first_page>264</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0054|cgf13336-cit-0054">
+              <author>Garland</author>
+              <volume_title>Proceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques</volume_title>
+              <cYear>1997</cYear>
+              <first_page>209</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0055|cgf13336-cit-0055">
+              <unstructured_citation>Gyulassy A. Natarajan V. Pascucci V. Bremer P. Hamann B. Topology-based simplification for feature extraction from 3D scalar fields Proceedings of 16th IEEE Visualization Conference, VIS 2005, October 23-28 2005 535 542</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0056|cgf13336-cit-0056">
+              <unstructured_citation>Gosink L. J. Bin-hash indexing: A parallel method for fast query processing 2008</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0057|cgf13336-cit-0057">
+              <author>Gong</author>
+              <volume_title>Proceedings of the 41st International Conference on Parallel Processing (ICPP)</volume_title>
+              <cYear>2012</cYear>
+              <first_page>239</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0058|cgf13336-cit-0058">
+              <unstructured_citation>Guthe S. Strasser W. Real-time decompression and visualization of animated volume data Proceedings of IEEE Visualization (VIS'01) 2001 349 572</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0059|cgf13336-cit-0059">
+              <author>Guthe</author>
+              <article_title>Advanced techniques for high-quality multi-resolution volume rendering</article_title>
+              <journal_title>Computers &amp; Graphics</journal_title>
+              <volume>28</volume>
+              <issue>1</issue>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1016/j.cag.2003.10.018</doi>
+              <first_page>51</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0060|cgf13336-cit-0060">
+              <author>Gosink</author>
+              <volume_title>Proceedings of 18th International Conference on Scientific and Statistical Database Management (SSDBM '06)</volume_title>
+              <cYear>2006</cYear>
+              <first_page>149</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0061|cgf13336-cit-0061">
+              <author>Guttman</author>
+              <volume_title>SIGMOD '84: Proceedings of the 1984 ACM SIGMOD International Conference on Management of Data</volume_title>
+              <cYear>1984</cYear>
+              <doi provider="crossref">10.1145/602259.602266</doi>
+              <first_page>47</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0062|cgf13336-cit-0062">
+              <author>Goeman</author>
+              <volume_title>Proceedings of the Seventh International Symposium on High-Performance Computer Architecture (HPCA)</volume_title>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1109/HPCA.2001.903264</doi>
+              <first_page>207</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0063|cgf13336-cit-0063">
+              <author>Guthe</author>
+              <volume_title>Proceedings of IEEE Visualization (VIS '02)</volume_title>
+              <cYear>2002</cYear>
+              <first_page>53</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0064|cgf13336-cit-0064">
+              <author>Gao</author>
+              <article_title>A parallel multiresolution volume rendering algorithm for large data visualization</article_title>
+              <journal_title>Parallel Computing</journal_title>
+              <volume>31</volume>
+              <issue>2</issue>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.parco.2005.02.005</doi>
+              <first_page>185</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0065|cgf13336-cit-0065">
+              <author>Ghavamnia</author>
+              <volume_title>Proceedings of the 6th Conference on Visualization</volume_title>
+              <cYear>1995</cYear>
+              <first_page>192</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0066|cgf13336-cit-0066">
+              <author>Garland</author>
+              <article_title>Quadric-based simplification in any dimension</article_title>
+              <journal_title>ACM Transactions on Graphics</journal_title>
+              <volume>24</volume>
+              <issue>2</issue>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1145/1061347.1061350</doi>
+              <first_page>209</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0067|cgf13336-cit-0067">
+              <unstructured_citation>The Gzip Home Page http://www.gzip.org/ 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0068|cgf13336-cit-0068">
+              <author>Hilbert</author>
+              <article_title>Ueber die stetige abbildung einer line auf ein flächenstück</article_title>
+              <journal_title>Mathematische Annalen</journal_title>
+              <volume>38</volume>
+              <issue>3</issue>
+              <cYear>1891</cYear>
+              <doi provider="crossref">10.1007/BF01199431</doi>
+              <first_page>459</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0069|cgf13336-cit-0069">
+              <author>Heine</author>
+              <article_title>A survey of topology-based methods in visualization</article_title>
+              <journal_title>Computer Graphics Forum</journal_title>
+              <volume>35</volume>
+              <issue>3</issue>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1111/cgf.12933</doi>
+              <first_page>643</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0070|cgf13336-cit-0070">
+              <author>Hoppe</author>
+              <volume_title>Proceedings of the 24th Annual Conference on Computer Graphics and Interactive Techniques</volume_title>
+              <cYear>1997</cYear>
+              <first_page>189</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0071|cgf13336-cit-0071">
+              <author>Hoppe</author>
+              <volume_title>Proceedings of Visualization '98</volume_title>
+              <cYear>1998</cYear>
+              <first_page>35</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0072|cgf13336-cit-0072">
+              <author>Huffman</author>
+              <article_title>A method for the construction of minimum-redundancy codes</article_title>
+              <journal_title>Proceedings of the IRE</journal_title>
+              <volume>40</volume>
+              <issue>9</issue>
+              <cYear>1952</cYear>
+              <doi provider="crossref">10.1109/JRPROC.1952.273898</doi>
+              <first_page>1098</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0073|cgf13336-cit-0073">
+              <author>Iverson</author>
+              <volume_title>Fast and Effective Lossy Compression Algorithms for Scientific Datasets</volume_title>
+              <cYear>2012</cYear>
+              <first_page>843</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0074|cgf13336-cit-0074">
+              <author>Ibarria</author>
+              <article_title>Out-of-core compression and decompression of large n-dimensional scalar fields</article_title>
+              <journal_title>Computer Graphics Forum</journal_title>
+              <volume>22</volume>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1111/1467-8659.00681</doi>
+              <first_page>343</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0075|cgf13336-cit-0075">
+              <author>Isenburg</author>
+              <article_title>Lossless compression of predicted floating-point geometry</article_title>
+              <journal_title>Computer-Aided Design</journal_title>
+              <volume>37</volume>
+              <issue>8</issue>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.cad.2004.09.015</doi>
+              <first_page>869</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0076|cgf13336-cit-0076">
+              <author>Ihm</author>
+              <volume_title>Proceedings of Graphics Interface</volume_title>
+              <cYear>1998</cYear>
+              <first_page>107</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0077|cgf13336-cit-0077">
+              <author>Islam</author>
+              <volume_title>Proceedings of Electronic Imaging '98</volume_title>
+              <cYear>1998</cYear>
+              <first_page>294</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0078|cgf13336-cit-0078">
+              <author>Ihm</author>
+              <article_title>Wavelet-based 3D compression scheme for interactive visualization of very large volume data</article_title>
+              <journal_title>Computer Graphics Forum</journal_title>
+              <volume>18</volume>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1111/1467-8659.00298</doi>
+              <first_page>3</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0079|cgf13336-cit-0079">
+              <unstructured_citation>The JasPer Project Home Page 2017 https://www.ece.uvic.ca/frodo/jasper/</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0080|cgf13336-cit-0080">
+              <unstructured_citation>jj2000 A pure Java JPEG 2000 image codec https://code.google.com/archive/p/jj2000/ 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0081|cgf13336-cit-0081">
+              <unstructured_citation>Kakadu Software http://kakadusoftware.com/ 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0082|cgf13336-cit-0082">
+              <author>Kolda</author>
+              <article_title>Tensor decompositions and applications</article_title>
+              <journal_title>SIAM Review</journal_title>
+              <volume>51</volume>
+              <issue>3</issue>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1137/07070111X</doi>
+              <first_page>455</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0083|cgf13336-cit-0083">
+              <author>Kim</author>
+              <volume_title>Proceedings of IEEE Conference on Shape Modeling Applications</volume_title>
+              <cYear>2004</cYear>
+              <first_page>209</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0084|cgf13336-cit-0084">
+              <author>Kim</author>
+              <volume_title>Proceedings of Data Compression Conference (DCC'97)</volume_title>
+              <cYear>1997</cYear>
+              <first_page>251</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0085|cgf13336-cit-0085">
+              <author>Kim</author>
+              <volume_title>Proceedings of the Seventh Pacific Conference on Computer Graphics and Applications</volume_title>
+              <cYear>1999</cYear>
+              <first_page>147</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0086|cgf13336-cit-0086">
+              <unstructured_citation>Kuo B. Wang W. Bruyere C. Scheitlin T. Middleton D. IEEE Visualization 2004 Contest http://vis.computer.org/vis2004contest/data.html 2018</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0087|cgf13336-cit-0087">
+              <author>Linde</author>
+              <article_title>An algorithm for vector quantizer design</article_title>
+              <journal_title>IEEE Transactions on Communications</journal_title>
+              <volume>28</volume>
+              <issue>1</issue>
+              <cYear>1980</cYear>
+              <doi provider="crossref">10.1109/TCOM.1980.1094577</doi>
+              <first_page>84</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0088|cgf13336-cit-0088">
+              <author>Lalgudi</author>
+              <volume_title>Proceedings of the International Conference on Image Processing (ICIP '05)</volume_title>
+              <cYear>2005</cYear>
+              <first_page>II</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0089|cgf13336-cit-0089">
+              <author>Lindstrom</author>
+              <article_title>Reducing disk storage of full-3D seismic waveform tomography (F3DT) through lossy online compression</article_title>
+              <journal_title>Computers &amp; Geosciences</journal_title>
+              <volume>93</volume>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1016/j.cageo.2016.04.009</doi>
+              <first_page>45</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0090|cgf13336-cit-0090">
+              <author>Lu</author>
+              <article_title>Multidimensional directional filter banks and surfacelets</article_title>
+              <journal_title>IEEE Transactions on Image Processing</journal_title>
+              <volume>16</volume>
+              <issue>4</issue>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1109/TIP.2007.891785</doi>
+              <first_page>918</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0091|cgf13336-cit-0091">
+              <unstructured_citation>Li S. Gruchalla K. Potter K. Clyne J. Childs H. Evaluating the efficacy of wavelet configurations on turbulent-flow data Proceedings of IEEE Symposium on Large Data Analysis and Visualization (LDAV) 2015 81 89</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0092|cgf13336-cit-0092">
+              <author>LaMar</author>
+              <volume_title>Proceedings of Electronic Imaging</volume_title>
+              <cYear>2000</cYear>
+              <first_page>365</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0093|cgf13336-cit-0093">
+              <author>Lindstrom</author>
+              <article_title>Fast and efficient compression of floating-point data</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>12</volume>
+              <issue>5</issue>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1109/TVCG.2006.143</doi>
+              <first_page>1245</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0094|cgf13336-cit-0094">
+              <author>Lindstrom</author>
+              <volume_title>Proceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques</volume_title>
+              <cYear>2000</cYear>
+              <first_page>259</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0095|cgf13336-cit-0095">
+              <author>Lindstrom</author>
+              <article_title>Fixed-rate compressed floating-point arrays</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>20</volume>
+              <issue>12</issue>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1109/TVCG.2014.2346458</doi>
+              <first_page>2674</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0096|cgf13336-cit-0096">
+              <unstructured_citation>Ling J. Kegelmeyer W. P. Aditya K. Kolla H. Reed K. A. Shead T. M. Davis W. L. Using feature importance metrics to detect events of interest in scientific computing applications Proceedings of 2017 IEEE 7th Symposium on Large Data Analysis and Visualization (LDAV) 2017 55 63</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0097|cgf13336-cit-0097">
+              <author>Lofstead</author>
+              <volume_title>Proceedings of the 6th International Workshop on Challenges of Large Applications in Distributed Environments</volume_title>
+              <cYear>2008</cYear>
+              <first_page>15</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0098|cgf13336-cit-0098">
+              <author>Li</author>
+              <volume_title>ISAV 2017: Proceedings of the In Situ Infrastructures for Enabling Extreme-Scale Analysis and Visualization Workshop</volume_title>
+              <cYear>2017</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0099|cgf13336-cit-0099">
+              <author>Lloyd</author>
+              <article_title>Least squares quantization in PCM</article_title>
+              <journal_title>IEEE Transactions on Information Theory</journal_title>
+              <volume>28</volume>
+              <issue>2</issue>
+              <cYear>1982</cYear>
+              <doi provider="crossref">10.1109/TIT.1982.1056489</doi>
+              <first_page>129</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0100|cgf13336-cit-0100">
+              <unstructured_citation>Li S. Marsaglia N. Chen V. Sewell C. Clyne J. Childs H. Achieving portable performance for wavelet compression using data parallel primitives Proceedings of EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV) 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0101|cgf13336-cit-0101">
+              <author>Liu</author>
+              <volume_title>Proceedings of Eurographics Conference on Visualization (EuroVis) - STARs</volume_title>
+              <cYear>2015</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0102|cgf13336-cit-0102">
+              <author>Loève</author>
+              <volume_title>Graduate Texts in Mathematics</volume_title>
+              <cYear>1978</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0103|cgf13336-cit-0103">
+              <author>Liu</author>
+              <volume_title>Proceedings of the Third International Symposium on 3D Data Processing, Visualization, and Transmission</volume_title>
+              <cYear>2006</cYear>
+              <first_page>647</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0104|cgf13336-cit-0104">
+              <author>Liu</author>
+              <volume_title>Proceedings of Data Compression Conference (DCC '07)</volume_title>
+              <cYear>2007</cYear>
+              <first_page>233</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0105|cgf13336-cit-0105">
+              <author>Landge</author>
+              <volume_title>Proceedings of International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2014, November 16-21</volume_title>
+              <cYear>2014</cYear>
+              <first_page>1020</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0106|cgf13336-cit-0106">
+              <author>Lindstrom</author>
+              <volume_title>Proceedings of the Conference on Visualization '01</volume_title>
+              <cYear>2001</cYear>
+              <first_page>121</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0107|cgf13336-cit-0107">
+              <author>Lu</author>
+              <volume_title>IEEE 5th Symposium on Large Data Analysis and Visualization (LDAV)</volume_title>
+              <cYear>2015</cYear>
+              <first_page>49</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0108|cgf13336-cit-0108">
+              <author>Lakshminarasimhan</author>
+              <volume_title>Proceedings of Euro-Par 2011 Parallel Processing</volume_title>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1007/978-3-642-23400-2_34</doi>
+              <first_page>366</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0109|cgf13336-cit-0109">
+              <author>Lakshminarasimhan</author>
+              <article_title>ISABELA for effective in situ compression of scientific data</article_title>
+              <journal_title>Concurrency and Computation: Practice and Experience</journal_title>
+              <volume>25</volume>
+              <issue>4</issue>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/cpe.2887</doi>
+              <first_page>524</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0110|cgf13336-cit-0110">
+              <unstructured_citation>Li S. Sane S. Orf L. Mininni P. Clyne J. Childs H. Spatiotemporal wavelet compression for visualization of scientific simulation data Proceedings of 2017 IEEE International Conference on Cluster Computing (CLUSTER) 2017 216 227</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0111|cgf13336-cit-0111">
+              <author>Lindstrom</author>
+              <article_title>Image-driven simplification</article_title>
+              <journal_title>ACM Transactions on Graphics</journal_title>
+              <volume>19</volume>
+              <issue>3</issue>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1145/353981.353995</doi>
+              <first_page>204</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0112|cgf13336-cit-0112">
+              <author>MacKay</author>
+              <volume_title>Information Theory, Inference and Learning Algorithms</volume_title>
+              <cYear>2003</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0113|cgf13336-cit-0113">
+              <author>Meyer</author>
+              <article_title>Query-driven visualization of time-varying adaptive mesh refinement data</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>14</volume>
+              <issue>6</issue>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1109/TVCG.2008.157</doi>
+              <first_page>1715</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0114|cgf13336-cit-0114">
+              <author>Myers</author>
+              <article_title>Partitioning a large simulation as it runs</article_title>
+              <journal_title>Technometrics</journal_title>
+              <volume>58</volume>
+              <issue>3</issue>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1080/00401706.2016.1158740</doi>
+              <first_page>329</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0115|cgf13336-cit-0115">
+              <author>Morton</author>
+              <volume_title>A Computer Oriented Geodetic Data Base and a New Technique in File Sequencing</volume_title>
+              <cYear>1966</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0116|cgf13336-cit-0116">
+              <author>Norton</author>
+              <volume_title>High Performance Visualization: Enabling Extreme-Scale Scientific Insight</volume_title>
+              <cYear>2012</cYear>
+              <first_page>415</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0117|cgf13336-cit-0117">
+              <author>Ning</author>
+              <volume_title>Proceedings of the 1992 Workshop on Volume Visualization</volume_title>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1145/147130.147152</doi>
+              <first_page>69</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0118|cgf13336-cit-0118">
+              <author>Ning</author>
+              <volume_title>Proceedings of IEEE Conference on Visualization (Visualization '93)</volume_title>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1109/VISUAL.1993.398845</doi>
+              <first_page>11</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0119|cgf13336-cit-0119">
+              <author>Nguyen</author>
+              <article_title>Rapid high quality compression of volume data for visualization</article_title>
+              <journal_title>Computer Graphics Forum</journal_title>
+              <volume>20</volume>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1111/1467-8659.00497</doi>
+              <first_page>49</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0120|cgf13336-cit-0120">
+              <author>O'Neil</author>
+              <volume_title>High Performance Transaction Systems</volume_title>
+              <cYear>1989</cYear>
+              <doi provider="crossref">10.1007/3-540-51085-0_42</doi>
+              <first_page>39</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0121|cgf13336-cit-0121">
+              <unstructured_citation>OpenJPEG An open-source JPEG2000 codec written http://www.openjpeg.org/ 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0122|cgf13336-cit-0122">
+              <unstructured_citation>Oracle Solaris Z. Administration Guide 2012</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0123|cgf13336-cit-0123">
+              <author>Papadomanolakis</author>
+              <volume_title>Proceedings of the 2006 ACM SIGMOD International Conference on Management of Data</volume_title>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1145/1142473.1142535</doi>
+              <first_page>551</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0124|cgf13336-cit-0124">
+              <author>Pascucci</author>
+              <volume_title>Proceedings of ACM/IEEE 2001 Conference on Supercomputing</volume_title>
+              <cYear>2001</cYear>
+              <first_page>45</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0125|cgf13336-cit-0125">
+              <author>Pearlman</author>
+              <article_title>Efficient, low-complexity image coding with a set-partitioning embedded block coder</article_title>
+              <journal_title>IEEE Transactions on Circuits and Systems for Video Technology</journal_title>
+              <volume>14</volume>
+              <issue>11</issue>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1109/TCSVT.2004.835150</doi>
+              <first_page>1219</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0126|cgf13336-cit-0126">
+              <author>Pulido</author>
+              <article_title>Survey and analysis of multiresolution methods for turbulence data</article_title>
+              <journal_title>Computers &amp; Fluids</journal_title>
+              <volume>125</volume>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1016/j.compfluid.2015.11.001</doi>
+              <first_page>39</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0127|cgf13336-cit-0127">
+              <author>Pajarola</author>
+              <article_title>Compressed progressive meshes</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>6</volume>
+              <issue>1</issue>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1109/2945.841122</doi>
+              <first_page>79</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0128|cgf13336-cit-0128">
+              <author>Pascucci</author>
+              <volume_title>High Performance Visualization: Enabling Extreme-Scale Scientific Insight</volume_title>
+              <cYear>2012</cYear>
+              <first_page>401</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0129|cgf13336-cit-0129">
+              <author>Rossignac</author>
+              <volume_title>Modeling in Computer Graphics</volume_title>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1007/978-3-642-78114-8_29</doi>
+              <first_page>455</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0130|cgf13336-cit-0130">
+              <author>Rodeh</author>
+              <article_title>BTRFS: The linux B-tree filesystem</article_title>
+              <journal_title>ACM Transactions on Storage</journal_title>
+              <volume>9</volume>
+              <issue>3</issue>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1145/2501620.2501623</doi>
+              <first_page>9:1</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0131|cgf13336-cit-0131">
+              <author>Rodríguez</author>
+              <volume_title>Eurographics 2013 - State of the Art Reports</volume_title>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0132|cgf13336-cit-0132">
+              <author>Renze</author>
+              <article_title>Generalized unstructured decimation [computer graphics]</article_title>
+              <journal_title>IEEE Computer Graphics and Applications</journal_title>
+              <volume>16</volume>
+              <issue>6</issue>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1109/38.544069</doi>
+              <first_page>24</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0133|cgf13336-cit-0133">
+              <author>Rodler</author>
+              <volume_title>Proceedings of the Seventh Pacific Conference on Computer Graphics and Applications</volume_title>
+              <cYear>1999</cYear>
+              <first_page>108</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0134|cgf13336-cit-0134">
+              <author>Rübel</author>
+              <volume_title>Proceedings of the 2008 ACM/IEEE Conference on Supercomputing</volume_title>
+              <cYear>2008</cYear>
+              <first_page>51</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0135|cgf13336-cit-0135">
+              <author>Salomon</author>
+              <volume_title>Data Compression: The Complete Reference</volume_title>
+              <cYear>2004</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0136|cgf13336-cit-0136">
+              <author>Sayood</author>
+              <volume_title>Introduction to Data Compression</volume_title>
+              <cYear>2012</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0137|cgf13336-cit-0137">
+              <author>Salloum</author>
+              <volume_title>ISAV 2015: Proceedings of the First Workshop on In Situ Infrastructures for Enabling Extreme-Scale Analysis and Visualization</volume_title>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1145/2828612.2828619</doi>
+              <first_page>41</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0138|cgf13336-cit-0138">
+              <unstructured_citation>Seward J. bzip2 and libbzip2 https://doi.org/www.bzip.org 1996</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0139|cgf13336-cit-0139">
+              <author>Shaffer</author>
+              <volume_title>Proceedings of the Conference on Visualization'01</volume_title>
+              <cYear>2001</cYear>
+              <first_page>127</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0140|cgf13336-cit-0140">
+              <author>Shapiro</author>
+              <article_title>Embedded image coding using zerotrees of wavelet coefficients</article_title>
+              <journal_title>IEEE Transactions on Signal Processing</journal_title>
+              <volume>41</volume>
+              <issue>12</issue>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1109/78.258085</doi>
+              <first_page>3445</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0141|cgf13336-cit-0141">
+              <author>Shannon</author>
+              <article_title>A mathematical theory of communication</article_title>
+              <journal_title>ACM SIGMOBILE Mobile Computing and Communications Review</journal_title>
+              <volume>5</volume>
+              <issue>1</issue>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1145/584091.584093</doi>
+              <first_page>3</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0142|cgf13336-cit-0142">
+              <doi provider="crossref">10.1109/ICDE.2012.114</doi>
+              <unstructured_citation>Schendel E. R. Jin Y. Shah N. Chen J. Chang C. S. Ku S. H. Ethier S. Klasky S. Latham R. Ross R. Samatova N. F. Isobar preconditioner for effective and high-throughput lossless data compression 2012 IEEE 28th International Conference on Data Engineering 2012 138 149</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0143|cgf13336-cit-0143">
+              <author>Strang</author>
+              <volume_title>Wavelets and Filter Banks</volume_title>
+              <cYear>1996</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0144|cgf13336-cit-0144">
+              <author>Said</author>
+              <volume_title>Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS'93)</volume_title>
+              <cYear>1993</cYear>
+              <first_page>279</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0145|cgf13336-cit-0145">
+              <author>Sellis</author>
+              <volume_title>Proceedings of the 13th International Conference on Very Large Data Bases</volume_title>
+              <cYear>1987</cYear>
+              <first_page>507</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0146|cgf13336-cit-0146">
+              <author>Sazeides</author>
+              <volume_title>Proceedings of the 30th Annual IEEE/ACM International Symposium on Microarchitecture</volume_title>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1109/MICRO.1997.645815</doi>
+              <first_page>248</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0147|cgf13336-cit-0147">
+              <author>Sasaki</author>
+              <volume_title>Proceedings of Parallel and Distributed Processing Symposium (IPDPS)</volume_title>
+              <cYear>2015</cYear>
+              <first_page>914</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0148|cgf13336-cit-0148">
+              <author>Sauer</author>
+              <article_title>A combined Eulerian-Lagrangian data representation for large-scale applications</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>23</volume>
+              <issue>10</issue>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1109/TVCG.2016.2620975</doi>
+              <first_page>2248</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0149|cgf13336-cit-0149">
+              <author>Schroeder</author>
+              <article_title>Decimation of triangle meshes</article_title>
+              <journal_title>ACM Siggraph Computer Graphics</journal_title>
+              <volume>26</volume>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1145/142920.134010</doi>
+              <first_page>65</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0150|cgf13336-cit-0150">
+              <author>Taubman</author>
+              <article_title>High performance scalable image compression with EBCOT</article_title>
+              <journal_title>IEEE Transactions on Image Processing</journal_title>
+              <volume>9</volume>
+              <issue>7</issue>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1109/83.847830</doi>
+              <first_page>1158</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0151|cgf13336-cit-0151">
+              <author>Tikhonova</author>
+              <article_title>Visualization by proxy: A novel framework for deferred interaction with volume data</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>16</volume>
+              <issue>6</issue>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1109/TVCG.2010.215</doi>
+              <first_page>1551</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0152|cgf13336-cit-0152">
+              <unstructured_citation>Tao D. Di S. Chen Z. Cappello F. Significantly improving lossy compression for scientific data sets based on multidimensional prediction and error-controlled quantization Proceedings of the 31st IEEE International Parallel and Distributed Processing Symposium 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0153|cgf13336-cit-0153">
+              <author>Trotts</author>
+              <article_title>Simplification of tetrahedral meshes with error bounds</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>5</volume>
+              <issue>3</issue>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1109/2945.795214</doi>
+              <first_page>224</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0154|cgf13336-cit-0154">
+              <author>Trotts</author>
+              <volume_title>Proceedings of Visualization '98</volume_title>
+              <cYear>1998</cYear>
+              <first_page>287</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0155|cgf13336-cit-0155">
+              <author>Totsuka</author>
+              <volume_title>Proceedings of the 20th Annual Conference on Computer Graphics and Interactive Techniques</volume_title>
+              <cYear>1993</cYear>
+              <first_page>271</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0156|cgf13336-cit-0156">
+              <author>Thompson</author>
+              <volume_title>Proceedings of IEEE Symposium on Large Data Analysis and Visualization (LDAV)</volume_title>
+              <cYear>2011</cYear>
+              <first_page>23</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0157|cgf13336-cit-0157">
+              <unstructured_citation>Tong X. Lee T. Y. Shen H. W. Salient time steps selection from large scale time-varying data sets with dynamic time warping Proceedings of IEEE Symposium on Large Data Analysis and Visualization (LDAV) 2012 49 56</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0158|cgf13336-cit-0158">
+              <author>Trott</author>
+              <volume_title>Proceedings of Visualization '96</volume_title>
+              <cYear>1996</cYear>
+              <first_page>385</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0159|cgf13336-cit-0159">
+              <author>Tang</author>
+              <volume_title>Proceedings of Electronic Imaging</volume_title>
+              <cYear>2003</cYear>
+              <first_page>1037</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0160|cgf13336-cit-0160">
+              <unstructured_citation>Tikhonova A. Yu H. Correa C. D. Chen J. H. Ma K.-L. A preview and exploratory technique for large-scale scientific simulations Proceedings of EuroGraphics Symposium on Parallel Graphics and Visualization (EGPGV) 2011 111 120</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0161|cgf13336-cit-0161">
+              <author>Usevitch</author>
+              <article_title>JPEG2000 compatible lossless coding of floating-point data</article_title>
+              <journal_title>Journal on Image and Video Processing</journal_title>
+              <volume>2007</volume>
+              <issue>1</issue>
+              <cYear>2007</cYear>
+              <first_page>22</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0162|cgf13336-cit-0162">
+              <author>Vo</author>
+              <article_title>Streaming simplification of tetrahedral meshes</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>13</volume>
+              <issue>1</issue>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1109/TVCG.2007.21</doi>
+              <first_page>145</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0163|cgf13336-cit-0163">
+              <author>Villasenor</author>
+              <volume_title>Proceedings of Data Compression Conference (DCC '96)</volume_title>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1109/DCC.1996.488345</doi>
+              <first_page>396</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0164|cgf13336-cit-0164">
+              <author>Wu</author>
+              <article_title>FastBit: Interactively searching massive data</article_title>
+              <journal_title>Journal of Physics: Conference Series</journal_title>
+              <volume>180</volume>
+              <cYear>2009</cYear>
+              <first_page>012053</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0165|cgf13336-cit-0165">
+              <author>Woodring</author>
+              <article_title>In-situ sampling of a large-scale particle simulation for interactive visualization and analysis</article_title>
+              <journal_title>Computer Graphics Forum</journal_title>
+              <volume>30</volume>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1111/j.1467-8659.2011.01964.x</doi>
+              <first_page>1151</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0166|cgf13336-cit-0166">
+              <author>Wang</author>
+              <volume_title>Introduction to orthogonal transforms: with applications in data processing and analysis</volume_title>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1017/CBO9781139015158</doi>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0167|cgf13336-cit-0167">
+              <author>Weiss</author>
+              <article_title>Simplex and diamond hierarchies: Models and applications</article_title>
+              <journal_title>Computer Graphics Forum</journal_title>
+              <volume>30</volume>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1111/j.1467-8659.2011.01853.x</doi>
+              <first_page>2127</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0168|cgf13336-cit-0168">
+              <unstructured_citation>Wu J. Kobbelt L. A stream algorithm for the decimation of massive meshes Proceedings of Graphics Interface 2003 185 192</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0169|cgf13336-cit-0169">
+              <author>Wu</author>
+              <volume_title>Proceedings of 15th International Conference on Scientific and Statistical Database Management</volume_title>
+              <cYear>2003</cYear>
+              <first_page>65</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0170|cgf13336-cit-0170">
+              <author>Weiss</author>
+              <article_title>Adaptive multilinear tensor product wavelets</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>22</volume>
+              <issue>1</issue>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1109/TVCG.2015.2467412</doi>
+              <first_page>985</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0171|cgf13336-cit-0171">
+              <unstructured_citation>Woodring J. Mniszewski S. Brislawn C. DeMarle D. Ahrens J. Revisiting wavelet compression for large-scale climate data using JPEG 2000 and ensuring data precision Proceedings of IEEE Symposium on Large Data Analysis and Visualization (LDAV) 2011 31 38</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0172|cgf13336-cit-0172">
+              <author>Witten</author>
+              <article_title>Arithmetic coding for data compression</article_title>
+              <journal_title>Communications of the ACM</journal_title>
+              <volume>30</volume>
+              <issue>6</issue>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1145/214762.214771</doi>
+              <first_page>520</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0173|cgf13336-cit-0173">
+              <author>Westenberg</author>
+              <article_title>Frequency domain volume rendering by the wavelet X-ray transform</article_title>
+              <journal_title>IEEE Transactions on Image Processing</journal_title>
+              <volume>9</volume>
+              <issue>7</issue>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1109/83.847837</doi>
+              <first_page>1249</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0174|cgf13336-cit-0174">
+              <author>Weiler</author>
+              <volume_title>Proceedings of the IEEE Symposium on Volume Visualization</volume_title>
+              <cYear>2000</cYear>
+              <first_page>7</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0175|cgf13336-cit-0175">
+              <author>Xia</author>
+              <volume_title>Proceedings of the 7th Conference on Visualization</volume_title>
+              <cYear>1996</cYear>
+              <first_page>327</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0176|cgf13336-cit-0176">
+              <author>Xu</author>
+              <article_title>Three-dimensional embedded subband coding with optimized truncation (3-D ESCOT)</article_title>
+              <journal_title>Applied and Computational Harmonic Analysis</journal_title>
+              <volume>10</volume>
+              <issue>3</issue>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1006/acha.2000.0345</doi>
+              <first_page>290</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0177|cgf13336-cit-0177">
+              <author>Yeo</author>
+              <article_title>Volume rendering of DCT-based compressed 3D scalar data</article_title>
+              <journal_title>IEEE Transactions on Visualization and Computer Graphics</journal_title>
+              <volume>1</volume>
+              <issue>1</issue>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1109/2945.468390</doi>
+              <first_page>29</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0178|cgf13336-cit-0178">
+              <unstructured_citation>Yang A. Mukka H. Hesaaraki F. Burtscher M. MPC: A massively parallel compression algorithm for scientific data Proceedings of 2015 IEEE International Conference on Cluster Computing 2015 381 389</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0179|cgf13336-cit-0179">
+              <author>Ye</author>
+              <volume_title>Proceedings of Eurographics Symposium on Parallel Graphics and Visualization</volume_title>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0180|cgf13336-cit-0180">
+              <author>Ye</author>
+              <volume_title>IEEE 5th Symposium on Large Data Analysis and Visualization (LDAV)</volume_title>
+              <cYear>2015</cYear>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0181|cgf13336-cit-0181">
+              <author>Zeng</author>
+              <article_title>Four-dimensional wavelet compression of arbitrarily sized echocardiographic data</article_title>
+              <journal_title>IEEE Transactions on Medical Imaging</journal_title>
+              <volume>21</volume>
+              <issue>9</issue>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1109/TMI.2002.804424</doi>
+              <first_page>1179</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0182|cgf13336-cit-0182">
+              <author>Ziv</author>
+              <article_title>A universal algorithm for sequential data compression</article_title>
+              <journal_title>IEEE Transactions on Information Theory</journal_title>
+              <volume>23</volume>
+              <issue>3</issue>
+              <cYear>1977</cYear>
+              <doi provider="crossref">10.1109/TIT.1977.1055714</doi>
+              <first_page>337</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0183|cgf13336-cit-0183">
+              <author>Ziv</author>
+              <article_title>Compression of individual sequences via variable-rate coding</article_title>
+              <journal_title>IEEE Transactions on Information Theory</journal_title>
+              <volume>24</volume>
+              <issue>5</issue>
+              <cYear>1978</cYear>
+              <doi provider="crossref">10.1109/TIT.1978.1055934</doi>
+              <first_page>530</first_page>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0184|cgf13336-cit-0184">
+              <unstructured_citation>zlib A massively spiffy yet delicately unobtrusive compression library https://zlib.net/ 2017</unstructured_citation>
+            </citation>
+            <citation key="10.1111/cgf.13336-BIB0185|cgf13336-cit-0185">
+              <author>Ziegler</author>
+              <volume_title>Proceedings of IEEE the 6th Workshop on Multimedia Signal Processing</volume_title>
+              <cYear>2004</cYear>
+              <first_page>39</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1175" timestamp="2017-08-01 12:56:28">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Monthly Weather Review</full_title>
+          <abbrev_title>Mon. Wea. Rev.</abbrev_title>
+          <issn media_type="print">0027-0644</issn>
+          <issn media_type="electronic">1520-0493</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>05</month>
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>145</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>An Eddy Injection Method for Large-Eddy Simulations of Tornado-Like Vortices</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>George H.</given_name>
+              <surname>Bryan</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nathan A.</given_name>
+              <surname>Dahl</surname>
+              <affiliation>Rosenstiel School of Marine and Atmospheric Science, University of Miami, Miami, Florida</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David S.</given_name>
+              <surname>Nolan</surname>
+              <affiliation>Rosenstiel School of Marine and Atmospheric Science, University of Miami, Miami, Florida</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Richard</given_name>
+              <surname>Rotunno</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>05</month>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1937</first_page>
+            <last_page>1961</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1175/MWR-D-16-0339.1</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Directorate for Geosciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000085</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1265899</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref start_date="2018-05-01" applies_to="vor">http://www.ametsoc.org/PUBSReuseLicenses</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1175/MWR-D-16-0339.1</doi>
+            <resource>http://journals.ametsoc.org/doi/10.1175/MWR-D-16-0339.1</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.ametsoc.org/doi/pdf/10.1175/MWR-D-16-0339.1</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">http://journals.ametsoc.org/doi/pdf/10.1175/MWR-D-16-0339.1</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

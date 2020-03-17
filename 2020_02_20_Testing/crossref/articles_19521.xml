@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Representing nighttime and minimum conductance in CLM4.5: global hydrology and carbon sensitivity analysis using  observational constraints</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Danica L.</given_name>
+              <surname>Lombardozzi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Melanie J. B.</given_name>
+              <surname>Zeppel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rosie A.</given_name>
+              <surname>Fisher</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ahmed</given_name>
+              <surname>Tawfik</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The terrestrial biosphere regulates climate through carbon, water, and energy exchanges with the atmosphere. Land-surface models estimate plant transpiration, which is actively regulated by stomatal pores, and provide projections essential for understanding Earth's carbon and water resources. Empirical evidence from 204 species suggests that significant amounts of water are lost through leaves at night, though land-surface models typically reduce stomatal conductance to nearly zero at night. Here, we test the sensitivity of carbon and water budgets in a global land-surface model, the Community Land Model (CLM) version 4.5, to three different methods of incorporating observed nighttime stomatal conductance values. We find that our modifications increase transpiration by up to 5<span class="thinspace"></span>% globally, reduce modeled available soil moisture by up to 50<span class="thinspace"></span>% in semi-arid regions, and increase the importance of the land surface in modulating energy fluxes. Carbon gain declines by up to  ∼ 4<span class="thinspace"></span>% globally and  &amp;gt; <span class="thinspace"></span>25<span class="thinspace"></span>% in semi-arid regions. We advocate for realistic constraints of minimum stomatal conductance in future climate simulations, and widespread field observations to improve parameterizations.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>23</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>321</first_page>
+            <last_page>331</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-10-321-2017</doi>
+            <resource>https://www.geosci-model-dev.net/10/321/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/10/321/2017/gmd-10-321-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Ball, J. T.: An Analysis of Stomatal Conductance, Stanford University, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1007/978-94-017-0519-6_48</doi>
+              <unstructured_citation>Ball, J. T., Woodrow, I. E., and Berry, J. A.: A Model Predicting Stomatal Conductance and its Contribution to the Control of Photosynthesis under Different Environmental Conditions, in: Progress in Photosynthesis Research, edited by: Biggins, J., 221–224, Springer Netherlands, https://doi.org/10.1007/978-94-017-0519-6_48, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1002/jgrg.20112</doi>
+              <unstructured_citation>Barnard, D. M. and Bauerle, W. L.: The implications of minimum stomatal conductance on modeling water flux in forest canopies, J. Geophys. Res.-Biogeo., 118, 1322–1333, https://doi.org/10.1002/jgrg.20112, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1093/treephys/19.13.853</doi>
+              <unstructured_citation>Benyon, R. G.: Nighttime water use in an irrigated Eucalyptus grandis plantation, Tree Phys., 19, 853–859, https://doi.org/10.1093/treephys/19.13.853, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2010JG001593</doi>
+              <unstructured_citation>Bonan, G. B., Lawrence, P. J., Oleson, K. W., Levis, S., Jung, M., Reichstein, M., Lawrence, D. M., and Swenson, S. C.: Improving canopy processes in the Community Land Model version 4 (CLM4) using global flux fields empirically inferred from FLUXNET data, J. Geophys. Res.-Biogeo., 116, G02014, https://doi.org/10.1029/2010JG001593, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2011JG001913</doi>
+              <unstructured_citation>Bonan, G. B., Oleson, K. W., Fisher, R. A., Lasslop, G., and Reichstein, M.: Reconciling leaf physiological traits and canopy flux data: Use of the TRY and FLUXNET databases in the Community Land Model version 4, J. Geophys. Res.-Biogeo., 117, G02026, https://doi.org/10.1029/2011JG001913, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/gmd-7-2193-2014</doi>
+              <unstructured_citation>Bonan, G. B., Williams, M., Fisher, R. A., and Oleson, K. W.: Modeling stomatal conductance in the earth system: linking leaf water-use efficiency and water transport along the soil–plant-atmosphere continuum, Geosci. Model Dev., 7, 2193–2222, https://doi.org/10.5194/gmd-7-2193-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Bowden, J. D. and Bauerle, W. L.: Measuring and modeling the variation in species-specific transpiration in temperate deciduous hardwoods, Tree Physiol., 28, 1675–1683, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1104/pp.106.092940</doi>
+              <unstructured_citation>Caird, M. A., Richards, J. H., and Donovan, L. A.: Nighttime stomatal conductance and transpiration in C-3 and C-4 plants, Plant Physiol., 143, 4–10, https://doi.org/10.1104/pp.106.092940, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/0168-1923(91)90002-8</doi>
+              <unstructured_citation>Collatz, G. J., Ball, J. T., Grivet, C., and Berry, J. A.: Physiological and environmental regulation of stomatal conductance, photosynthesis and transpiration: a model that includes a laminar boundary layer, Agr. Forest Meteorol., 54, 107–136, https://doi.org/10.1016/0168-1923(91)90002-8, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Dawson, T. E., Burgess, S. S. O., Tu, K. P., Oliveira, R. S., Santiago, L. S., Fisher, J. B., Simonin, K. A., and Ambrose, A. R.: Nighttime transpiration in woody plants from contrasting ecosystems, Tree Physiol., 27, 561–575, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1093/treephys/tpt091</doi>
+              <unstructured_citation>de Dios, V. R., Turnbull, M. H., Barbour, M. M., Ontedhu, J., Ghannoum, O., and Tissue, D. T.: Soil phosphorous and endogenous rhythms exert a larger impact than CO2 or temperature on nocturnal stomatal conductance in Eucalyptus tereticornis, Tree Physiol., 33, 1206–1215, https://doi.org/10.1093/treephys/tpt091, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/gmd-8-431-2015</doi>
+              <unstructured_citation>De Kauwe, M. G., Kala, J., Lin, Y.-S., Pitman, A. J., Medlyn, B. E., Duursma, R. A., Abramowitz, G., Wang, Y.-P., and Miralles, D. G.: A test of an optimal stomatal conductance scheme within the CABLE land surface model, Geosci. Model Dev., 8, 431–452, https://doi.org/10.5194/gmd-8-431-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2011GL048268</doi>
+              <unstructured_citation>Dirmeyer, P. A.: The terrestrial segment of soil moisture-climate coupling, Geophys. Res. Lett., 38, L16702, https://doi.org/10.1029/2011GL048268, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Fisher, J. B., Baldocchi, D. D., Misson, L., Dawson, T. E., and Goldstein, A. H.: What the towers don't see at night: nocturnal sap flow in trees and shrubs at two AmeriFlux sites in California, Tree Physiol., 27, 597–610, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1038/nature01843</doi>
+              <unstructured_citation>Hetherington, A. M. and Woodward, F. I.: The role of stomata in sensing and driving environmental change, Nature, 424, 901–908, https://doi.org/10.1038/nature01843, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1038/ngeo1032</doi>
+              <unstructured_citation>Hirschi, M., Seneviratne, S. I., Alexandrov, V., Boberg, F., Boroneant, C., Christensen, O. B., Formayer, H., Orlowsky, B., and Stepanek, P.: Observational evidence for soil-moisture impact on hot extremes in southeastern Europe, Nat. Geosci., 4, 17–21, https://doi.org/10.1038/NGEO1032, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1111/j.1365-3040.2007.01690.x</doi>
+              <unstructured_citation>Kattge, J. and Knorr, W.: Temperature acclimation in a biochemical model of photosynthesis: a reanalysis of data from 36 species, Plant Cell Environ., 30, 1176–1190, https://doi.org/10.1111/j.1365-3040.2007.01690.x, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/j.agrformet.2007.04.002</doi>
+              <unstructured_citation>Kirschbaum, M. U. F., Keith, H., Leuning, R., Cleugh, H. A., Jacobsen, K. L., van Gorsel, E., and Raison, R. J.: Modelling net ecosystem carbon and water exchange of a temperate Eucalyptus delegatensis forest using multiple constraints, Agr. Forest Meteorol., 145, 48–68, https://doi.org/10.1016/j.agrformet.2007.04.002, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Thornton, P. E., Swenson, S. C., Lawrence, P. J., Zeng, X., Yang, Z.-L., Levis, S., Sakaguchi, K., Bonan, G. B., and Slater, A. G.: Parameterization Improvements and Functional and Structural Advances in Version 4 of the Community Land Model, J. Adv. Model. Earth Syst., 3, M03001, https://doi.org/10.1029/2011MS000045, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1111/j.1365-3040.1995.tb00370.x</doi>
+              <unstructured_citation>Leuning, R.: A critical appraisal of a combined stomatal-photosynthesis model for C3 plants, Plant Cell Environ., 18, 339–355, https://doi.org/10.1111/j.1365-3040.1995.tb00370.x, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2011JD016276</doi>
+              <unstructured_citation>Li, H., Huang, M., Wigmosta, M. S., Ke, Y., Coleman, A. M., Leung, L. R., Wang, A., and Ricciuto, D. M.: Evaluating runoff simulations from the Community Land Model 4.0 using observations from flux towers and a mountainous watershed, J. Geophys. Res.-Atmos., 116, D24120, https://doi.org/10.1029/2011JD016276, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1111/j.1469-8137.2007.01970.x</doi>
+              <unstructured_citation>McLaughlin, S. B., Wullschleger, S. D., Sun, G., and Nosal, M.: Interactive effects of ozone and climate on water use, soil moisture content and streamflow in a southern Appalachian forest in the USA, New Phytol., 174, 125–136, https://doi.org/10.1111/j.1469-8137.2007.01970.x, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Medlyn, B. E., Robinson, A. P., Clement, R., and McMurtrie, R. E.: On the validation of models of forest CO2 exchange using eddy covariance data: some perils and pitfalls, Tree Physiol., 25, 839–857, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1111/j.1365-2486.2010.02375.x</doi>
+              <unstructured_citation>Medlyn, B. E., Duursma, R. A., Eamus, D., Ellsworth, D. S., Prentice, I. C., Barton, C. V. M., Crous, K. Y., De Angelis, P., Freeman, M., and Wingate, L.: Reconciling the optimal and empirical approaches to modelling stomatal conductance, Glob. Change Biol., 17, 2134–2144, https://doi.org/10.1111/j.1365-2486.2010.02375.x, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1038/ngeo2141</doi>
+              <unstructured_citation>Miralles, D. G., Teuling, A. J., van Heerwaarden, C. C., and Vilà-Guerau de Arellano, J.: Mega-heatwave temperatures due to combined soil desiccation and atmospheric heat accumulation, Nat. Geosci., 7, 345–349, https://doi.org/10.1038/ngeo2141, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Niyogi, D. S. and Raman, S.: Comparison of Four Different Stomatal Resistance Schemes Using FIFE Observations, J. Appl. Meteorol., 36, 903–917, https://doi.org/10.1175/1520-0450(1997)036&amp;amp;lt; 0903:COFDSR&amp;amp;gt;2.0.CO;2, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Oleson, K. W., Lawrence, D. M., Bonan, G. B., Drewniak, B., Huang, M., Koven, C. D., Levis, S., Li, F., Riley, W. J., Subin, Z. M., Swenson, S. C., Thornton, P. E., Bozbiyik, A., Fisher, R. A., Kluzek, E., Lamarque, J.-F., Lawrence, P. J., Leung, L. R., Lipscomb, W., Muszala, S., Ricciuto, D. M., Sacks, W. J., Sun, Y., Tang, J. Y., and Yang, Z.-L.: Technical Description of version 4.5 of the Community Land Model (CLM), NCAR Tech. Note, NCAR/TN-503+STR, https://doi.org/10.5065/D6RR1W7M, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1093/treephys/tpq009</doi>
+              <unstructured_citation>Phillips, N. G., Lewis, J. D., Logan, B. A., and Tissue, D. T.: Inter- and intra-specific variation in nocturnal water transport in Eucalyptus, Tree Physiol., 30, 586–596, https://doi.org/10.1093/treephys/tpq009, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1093/treephys/27.4.551</doi>
+              <unstructured_citation>Scholz, F. G., Bucci, S. J., Goldstein, G., Meinzer, F. C., Franco, A. C., and Miralles-Wilhelm, F.: Removal of nutrient limitations by long-term fertilization decreases nocturnal water loss in savanna trees, Tree Physiol., 27, 551–559, https://doi.org/10.1093/treephys/27.4.551, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Sellers, P. J., Randall, D. A., Collatz, G. J., Berry, J. A., Field, C. B., Dazlich, D. A., Zhang, C., Collelo, G. D., and Bounoua, L.: A Revised Land Surface Parameterization (SiB2) for Atmospheric GCMS. Part I: Model Formulation, J. Climate, 9, 676–705, https://doi.org/10.1175/1520-0442(1996)009&amp;amp;lt;0676:ARLSPF&amp;amp;gt;2.0.CO;2, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1016/j.agrformet.2008.01.015</doi>
+              <unstructured_citation>Van Gorsel, E., Leuning, R., Cleugh, H. A., Keith, H., Kirschbaum, M. U. F., and Suni, T.: Application of an alternative method to derive reliable estimates of nighttime respiration from eddy covariance measurements in moderately complex topography, Agr. Forest Meteorol., 148, 1174–1180, https://doi.org/10.1016/j.agrformet.2008.01.015, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/2012GL053038</doi>
+              <unstructured_citation>Wei, J. and Dirmeyer, P. A.: Dissecting soil moisture-precipitation coupling, Geophys. Res. Lett., 39, L19711, https://doi.org/10.1029/2012GL053038, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1038/nature10421</doi>
+              <unstructured_citation>Welp, L. R., Keeling, R. F., Meijer, H. A. J., Bollenbacher, A. F., Piper, S. C., Yoshimura, K., Francey, R. J., Allison, C. E., and Wahlen, M.: Interannual variability in the oxygen isotopes of atmopsheric CO2 driven by El Nino, Nature, 477, 579–582, https://doi.org/10.1038/nature10421, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1093/treephys/tpu089</doi>
+              <unstructured_citation>Zeppel, M. J. B., Lewis, J. D., Phillips, N. G., and Tissue, D. T.: Consequences of nocturnal water loss: a synthesis of regulating factors and implications for capacitance, embolism and use in models, Tree Physiol., 34, 1047–1055, https://doi.org/10.1093/treephys/tpu089, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/gmd-10-321-2017-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/10/321/2017/gmd-10-321-2017-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-14 09:21:10">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>9</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>First characterization and validation of FORLI-HNO&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt; vertical profiles
+retrieved from IASI/Metop</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Gaétane</given_name>
+              <surname>Ronsmans</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bavo</given_name>
+              <surname>Langerock</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Catherine</given_name>
+              <surname>Wespes</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James W.</given_name>
+              <surname>Hannigan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frank</given_name>
+              <surname>Hase</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tobias</given_name>
+              <surname>Kerzenmacher</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Emmanuel</given_name>
+              <surname>Mahieu</surname>
+              <ORCID>https://orcid.org/0000-0002-5251-0286</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthias</given_name>
+              <surname>Schneider</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Smale</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel</given_name>
+              <surname>Hurtmans</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martine</given_name>
+              <surname>De Mazière</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Cathy</given_name>
+              <surname>Clerbaux</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pierre-François</given_name>
+              <surname>Coheur</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Knowing the spatial and seasonal distributions of nitric acid (HNO<sub>3</sub>) around the globe is of great interest and allows us to comprehend the processes regulating stratospheric ozone, especially in the polar regions. Due to its unprecedented spatial and temporal sampling, the nadir-viewing Infrared Atmospheric Sounding Interferometer (IASI) is capable of sounding the atmosphere twice a day globally, with good spectral resolution and low noise. With the Fast Optimal Retrievals on Layers for IASI (FORLI) algorithm, we are retrieving, in near real time, columns as well as vertical profiles of several atmospheric species, among which is HNO<sub>3</sub>. We present in this paper the first characterization of the FORLI-HNO<sub>3</sub> profile products, in terms of vertical sensitivity and error budgets. We show that the sensitivity of IASI to HNO<sub>3</sub> is highest in the lower stratosphere (10–20<span class="thinspace"></span>km), where the largest amounts of HNO<sub>3</sub> are found, but that the vertical sensitivity of IASI only allows one level of information on the profile (degrees of freedom for signal, DOFS;  ∼ <span class="thinspace"></span>1). The sensitivity near the surface is negligible in most cases, and for this reason, a partial column (5–35<span class="thinspace"></span>km) is used for the analyses. Both vertical profiles and partial columns are compared to FTIR ground-based measurements from the Network for the Detection of Atmospheric Composition Change (NDACC) to characterize the accuracy and precision of the FORLI-HNO<sub>3</sub> product. The profile validation is conducted through the smoothing of the raw FTIR profiles by the IASI averaging kernels and gives good results, with a slight overestimation of IASI measurements in the upper troposphere/lower stratosphere (UTLS) at the six chosen stations (Thule, Kiruna, Jungfraujoch, Izaña, Lauder and Arrival Heights). The validation of the partial columns (5–35<span class="thinspace"></span>km) is also conclusive with a mean correlation of 0.93 between IASI and the FTIR measurements. An initial survey of the HNO<sub>3</sub> spatial and seasonal variabilities obtained from IASI measurements for a 1-year (2011) data set shows that the expected latitudinal gradient of concentrations from low to high latitudes and the large seasonal variability in polar regions (cycle amplitude around 30<span class="thinspace"></span>% of the seasonal signal, peak to peak) are well represented by IASI data.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>27</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>4783</first_page>
+            <last_page>4801</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-9-4783-2016</doi>
+            <resource>https://www.atmos-meas-tech.net/9/4783/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/9/4783/2016/amt-9-4783-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1016/j.rse.2011.01.018</doi>
+              <unstructured_citation>Antón, M., Loyola, D., Clerbaux, C., López, M., Vilaplana, J. M., Bañón, M., and Alados-Arboledas, L.: Validation of the MetOp-A total ozone data from GOME-2 and IASI using reference ground-based measurements at the Iberian Peninsula, Remote Sens. Environ., 115, 1380–1386, https://doi.org/10.1016/j.rse.2011.01.018, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1016/j.jqsrt.2012.02.028</doi>
+              <unstructured_citation>August, T., Klaes, D., Schlüssel, P., Hultberg, T., Crapeau, M., Arriaga, A., and Calbet, X.: IASI on Metop-A: Operational Level 2 retrievals after five years in orbit, J. Quant. Spectrosc. Ra., 13, 1340–1371, https://doi.org/10.1016/j.jqsrt.2012.02.028, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/JD091iD05p05477</doi>
+              <unstructured_citation>Austin, J., Garcia, R. R., Russell, J. M., Solomon, S., and Tuck, A. F.: On the Atmospheric Photochemistry of Nitric Acid, J. Geophys. Res., 91, 5477–5485, https://doi.org/10.1029/JD091iD05p05477, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/acp-6-897-2006</doi>
+              <unstructured_citation>Blumenstock, T., Kopp, G., Hase, F., Hochschild, G., Mikuteit, S., Raffalski, U., and Ruhnke, R.: Observation of unusual chlorine activation by ground-based infrared and microwave spectroscopy in the late Arctic winter 2000/01, Atmos. Chem. Phys., 6, 897–905, https://doi.org/10.5194/acp-6-897-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/amt-9-4327-2016</doi>
+              <unstructured_citation>Boynard, A., Hurtmans, D., Koukouli, M. E., Goutail, F., Bureau, J., Safieddine, S., Lerot, C., Hadji-Lazaro, J., Wespes, C., Pommereau, J.-P., Pazmino, A., Zyrichidou, I., Balis, D., Barbe, A., Mikhailenko, S. N., Loyola, D., Valks, P., Van Roozendael, M., Coheur, P.-F., and Clerbaux, C.: Seven years of IASI ozone retrievals from FORLI: validation with independent total column and vertical profile measurements, Atmos. Meas. Tech., 9, 4327–4353, https://doi.org/10.5194/amt-9-4327-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Cayla, F.-R.: L'interféromètre IASI: Un nouveau sondeur satellitaire à haute résolution, La Météorologie, 8, 23–39, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1038/ngeo678</doi>
+              <unstructured_citation>Chipperfield, M.: Atmospheric science: Nitrous oxide delays ozone recovery, Nat. Geosci., 2, 742–743, https://doi.org/10.1038/ngeo678, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/j.atmosenv.2013.01.057</doi>
+              <unstructured_citation>Clerbaux, C. and Crevoisier, C.: New Directions: Infrared remote sensing of the troposphere from satellite: Less, but better, Atmos. Environ., 72, 24–26, https://doi.org/10.1016/j.atmosenv.2013.01.057, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/acp-9-6041-2009</doi>
+              <unstructured_citation>Clerbaux, C., Boynard, A., Clarisse, L., George, M., Hadji-Lazaro, J., Herbin, H., Hurtmans, D., Pommier, M., Razavi, A., Turquety, S., Wespes, C., and Coheur, P.-F.: Monitoring of atmospheric composition using the thermal infrared IASI/MetOp sounder, Atmos. Chem. Phys., 9, 6041–6054, https://doi.org/10.5194/acp-9-6041-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/2014JD021907</doi>
+              <unstructured_citation>Cooper, M., Martin, R. V, Wespes, C., Coheur, P.-F., Clerbaux, C., and Murray, L. T.: Tropospheric nitric acid columns from the IASI satellite instrument interpreted with a chemical transport model: Implications for parametrizations of nitric oxide production by lightning, J. Geophys. Res., 119, 68–79, https://doi.org/10.1002/2014JD021907, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/acp-9-4797-2009</doi>
+              <unstructured_citation>Crevoisier, C., Chédin, A., Matsueda, H., Machida, T., Armante, R., and Scott, N. A.: First year of upper tropospheric integrated content of CO2 from IASI hyperspectral infrared observations, Atmos. Chem. Phys., 9, 4797–4810, https://doi.org/10.5194/acp-9-4797-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/acp-13-4279-2013</doi>
+              <unstructured_citation>Crevoisier, C., Nobileau, D., Armante, R., Crépeau, L., Machida, T., Sawa, Y., Matsueda, H., Schuck, T., Thonat, T., Pernin, J., Scott, N. A., and Chédin, A.: The 2007–2011 evolution of tropical methane in the mid-troposphere as seen from space by MetOp-A/IASI, Atmos. Chem. Phys., 13, 4279–4289, https://doi.org/10.5194/acp-13-4279-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-7-4367-2014</doi>
+              <unstructured_citation>Crevoisier, C., Clerbaux, C., Guidard, V., Phulpin, T., Armante, R., Barret, B., Camy-Peyret, C., Chaboureau, J.-P., Coheur, P.-F., Crépeau, L., Dufour, G., Labonnote, L., Lavanant, L., Hadji-Lazaro, J., Herbin, H., Jacquinet-Husson, N., Payan, S., Péquignot, E., Pierangelo, C., Sellitto, P., and Stubenrauch, C.: Towards IASI-New Generation (IASI-NG): impact of improved spectral resolution and radiometric noise on the retrieval of thermodynamic, chemistry and climate variables, Atmos. Meas. Tech., 7, 4367–4385, https://doi.org/10.5194/amt-7-4367-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1146/annurev.ea.07.050179.002303</doi>
+              <unstructured_citation>Crutzen, P. J.: The Role of NO and NO2 in the chemistry of the troposphere and stratosphere, Annu. Rev. Earth Planet. Sc., 7, 443–472, https://doi.org/10.1146/annurev.ea.07.050179.002303, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acpd-10-28687-2010</doi>
+              <unstructured_citation>Drdla, K. and Müller, R.: Temperature thresholds for polar stratospheric ozone loss, Atmos. Chem. Phys. Discuss., 10, 28687–28720, https://doi.org/10.5194/acpd-10-28687-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/amt-5-611-2012</doi>
+              <unstructured_citation>Dufour, G., Eremenko, M., Griesfeller, A., Barret, B., LeFlochmoën, E., Clerbaux, C., Hadji-Lazaro, J., Coheur, P.-F., and Hurtmans, D.: Validation of three different scientific ozone products retrieved from IASI spectra using ozonesondes, Atmos. Meas. Tech., 5, 611–630, https://doi.org/10.5194/amt-5-611-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/amt-6-2441-2013</doi>
+              <unstructured_citation>Fiorucci, I., Muscari, G., Froidevaux, L., and Santee, M. L.: Ground-based stratospheric O3 and HNO3 measurements at Thule, Greenland: an intercomparison with Aura MLS observations, Atmos. Meas. Tech., 6, 2441–2453, https://doi.org/10.5194/amt-6-2441-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/97JD02012</doi>
+              <unstructured_citation>Fischer, H., Waibel, A. E., Welling, M., Wienhold, F. G., Zenker, T., Crutzen, P. J., and Siegmund, P. C.: Observations of high concentration of total reactive nitrogen (NOy) and nitric acid (HNO3) in the lower Arctic stratosphere during the Stratosphere-Troposphere Experiment by Aircraft Measurements (STREAM) II campaign in February 1995, J. Geophys. Res., 102, 23559, https://doi.org/10.1029/97JD02012, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-6-5037-2006</doi>
+              <unstructured_citation>Flaud, J.-M., Brizzi, G., Carlotti, M., Perrin, A., and Ridolfi, M.: MIPAS database: Validation of HNO3 line parameters using MIPAS satellite measurements, Atmos. Chem. Phys., 6, 5037–5048, https://doi.org/10.5194/acp-6-5037-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/amt-5-2917-2012</doi>
+              <unstructured_citation>García, O. E., Schneider, M., Redondas, A., González, Y., Hase, F., Blumenstock, T., and Sepúlveda, E.: Investigating the long-term evolution of subtropical ozone profiles applying ground-based FTIR spectrometry, Atmos. Meas. Tech., 5, 2917–2931, https://doi.org/10.5194/amt-5-2917-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/amt-6-613-2013</doi>
+              <unstructured_citation>Gazeaux, J., Clerbaux, C., George, M., Hadji-Lazaro, J., Kuttippurath, J., Coheur, P.-F., Hurtmans, D., Deshler, T., Kovilakam, M., Campbell, P., Guidard, V., Rabier, F., and Thépaut, J.-N.: Intercomparison of polar ozone profiles by IASI/MetOp sounder with 2010 Concordiasi ozonesonde observations, Atmos. Meas. Tech., 6, 613–620, https://doi.org/10.5194/amt-6-613-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-9-8317-2009</doi>
+              <unstructured_citation>George, M., Clerbaux, C., Hurtmans, D., Turquety, S., Coheur, P.-F., Pommier, M., Hadji-Lazaro, J., Edwards, D. P., Worden, H., Luo, M., Rinsland, C., and McMillan, W.: Carbon monoxide distributions from the IASI/METOP mission: evaluation with other space-borne remote sensors, Atmos. Chem. Phys., 9, 8317–8330, https://doi.org/10.5194/acp-9-8317-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/91GL02310</doi>
+              <unstructured_citation>Gobbi, G. P., Deshler, T., Adriani, A., and Hofmann, D. J.: Evidence for denitrification in the 1990 Antarctic spring stratosphere: I, Lidar and temperature measurements, Geophys. Res. Lett., 18, 1995–1998, https://doi.org/10.1029/91GL02310, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/j.jqsrt.2008.07.004</doi>
+              <unstructured_citation>Gomez, L., Tran, H., Perrin, A., Gamache, R. R., Laraia, A., Orphal, J., and Hartmann, J. M.: Some improvements of the HNO3 spectroscopic parameters in the spectral region from 600 to 950 cm−1, J. Quant. Spectrosc. Ra., 110, 675–686, https://doi.org/10.1016/j.jqsrt.2008.07.004, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/2009JTECHA1230.1</doi>
+              <unstructured_citation>Hannigan, J. W., Coffey, M. T., and Goldman, A.: Semiautonomous FTS observation system for remote sensing of stratospheric and tropospheric gases, J. Atmos. Ocean. Technol., 26, 1814–1828, https://doi.org/10.1175/2009JTECHA1230.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1364/AO.38.003417</doi>
+              <unstructured_citation>Hase, F., Blumenstock, T., and Paton-Walsh, C.: Analysis of the instrumental line shape of high-resolution Fourier transform IR spectrometers with gas cell measurements and new retrieval software, Appl. Optics, 38, 3417–3422, https://doi.org/10.1364/AO.38.003417, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1016/j.jqsrt.2003.12.008</doi>
+              <unstructured_citation>Hase, F., Hannigan, J. W., Coffey, M. T., Goldman, A., Höpfner, M., Jones, N. B., and Wood, S. W.: Intercomparison of retrieval codes used for the analysis of high-resolution, ground-based FTIR measurements, J. Quant. Spectrosc. Ra., 7, 25–52, https://doi.org/10.1016/j.jqsrt.2003.12.008, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/BAMS-D-11-00027.1</doi>
+              <unstructured_citation>Hilton, F., Armante, R., August, T., Barnet, C., Bouchard, A., Camy-Peyret, C., and Zhou, D.: Hyperspectral Earth Observation from IASI: Five Years of Accomplishments, B. Am. Meteorol. Soc., 93, 347–370, https://doi.org/10.1175/BAMS-D-11-00027.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/acp-6-1201-2006</doi>
+              <unstructured_citation>Höpfner, M., Luo, B. P., Massoli, P., Cairo, F., Spang, R., Snels, M., Di Donfrancesco, G., Stiller, G., von Clarmann, T., Fischer, H., and Biermann, U.: Spectroscopic evidence for NAT, STS, and ice in MIPAS infrared limb emission measurements of polar stratospheric clouds, Atmos. Chem. Phys., 6, 1201–1219, https://doi.org/10.5194/acp-6-1201-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1016/j.jqsrt.2012.02.036</doi>
+              <unstructured_citation>Hurtmans, D., Coheur, P.-F., Wespes, C., Clarisse, L., Scharf, O., Clerbaux, C., and Turquety, S.: FORLI radiative transfer and retrieval code for IASI, J. Quant. Spectrosc. Ra., 113, 1391–1408, https://doi.org/10.1016/j.jqsrt.2012.02.036, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/1999JD900330</doi>
+              <unstructured_citation>Jucks, K. W., Johnson, D. G., Chance, K. V., Traub, W. A.,and Salawitch, R. J.: Nitric acid in the middle stratosphere as a function of altitude and aerosol loading, J. Geophys. Res., 104, 26715, https://doi.org/10.1029/1999JD900330, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/92JD02845</doi>
+              <unstructured_citation>Kasibhatla, P. S., Levy II, H., and Moxim, W. J.: Global NOx, HNO3, PAN, and NOy Distributions From Fossil Fuel Combustion Emissions: A Model Study, J. Geophys. Res., 98, 7165–7180, https://doi.org/10.1029/92JD02845, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/amt-5-2751-2012</doi>
+              <unstructured_citation>Kerzenmacher, T., Dils, B., Kumps, N., Blumenstock, T., Clerbaux, C., Coheur, P.-F., Demoulin, P., García, O., George, M., Griffith, D. W. T., Hase, F., Hadji-Lazaro, J., Hurtmans, D., Jones, N., Mahieu, E., Notholt, J., Paton-Walsh, C., Raffalski, U., Ridder, T., Schneider, M., Servais, C., and De Mazière, M.: Validation of IASI FORLI carbon monoxide retrievals using FTIR data from NDACC, Atmos. Meas. Tech., 5, 2751–2761, https://doi.org/10.5194/amt-5-2751-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-12-2899-2012</doi>
+              <unstructured_citation>Lambert, A., Santee, M. L., Wu, D. L., and Chae, J. H.: A-train CALIOP and MLS observations of early winter Antarctic polar stratospheric clouds and nitric acid in 2008, Atmos. Chem. Phys., 12, 2899–2931, https://doi.org/10.5194/acp-12-2899-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/JC088iC15p10785</doi>
+              <unstructured_citation>Logan, J. A.: Nitrogen oxides in the troposphere: Global and Regional Budgets, J. Geophys. Res., 8, 10785–10807, https://doi.org/10.1029/JC088iC15p10785, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/JC086iC08p07210</doi>
+              <unstructured_citation>Logan, J. A., Prather, M. J., Wofsy, S. C., and Mc Elroy, M. B.: Tropospheric chemistry: A global perspective, J. Geophys. Res., 86, 7210–7254, https://doi.org/10.1029/JC086iC08p07210, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1016/j.jastp.2007.09.011</doi>
+              <unstructured_citation>Lowe, D. and MacKenzie, A. R.: Polar stratospheric cloud microphysics and chemistry, J. Atmos. Sol.-Terr. Phy., 70, 13–40, https://doi.org/10.1016/j.jastp.2007.09.011, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1023/A:1005854926740</doi>
+              <unstructured_citation>Mahieu, E., Zander, R., Delbouille, L., Demoulin, P., Roland, G., and Servais, C.: Observed trends in total vertical column abundances of atmospheric gases from IR solar spectra recorded at the Jungfraujoch, J. Atmos. Chem., 2, 227–243, https://doi.org/10.1023/A:1005854926740, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1038/nature10556</doi>
+              <unstructured_citation>Manney, G. L., Santee, M. L., Rex, M., Livesey, N. J., Pitts, M. C., Veefkind, P., and Zinoviev, N. S.: Unprecedented Arctic ozone loss in 2011, Nature, 478, 469–475, https://doi.org/10.1038/nature10556, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/RG014i002p00143</doi>
+              <unstructured_citation>McElroy, M. B., Elkins, J. W., Wofsy, S. C., and Yung, Y. L.: Sources and sinks for atmospheric N2O, Rev. Geophys. Space Ge., 14, 143–150, https://doi.org/10.1029/RG014i002p00143, 1976.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1007/978-1-4020-8217-7</doi>
+              <unstructured_citation>Mohanakumar, K.: Stratosphere Troposphere Interactions – An Introduction, Springer, Netherlands, https://doi.org/10.1007/978-1-4020-8217-7, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1039/9781849733182</doi>
+              <unstructured_citation>Muller, R.: Stratospheric Ozone Depletion and Climate Change, Roy. Soc. Ch., https://doi.org/10.1039/9781849733182, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1038/218078a0</doi>
+              <unstructured_citation>Murcray, D. G., Kyle, T. G., Murcray, F. H., and Williams, W. J.: Nitric Acid and Nitrix Oxide in the Lower Stratospher, Nature, 218, 78–79, https://doi.org/10.1038/218078a0, 1968.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/S1352-2310(01)00354-5</doi>
+              <unstructured_citation>Neuman, J. A., Gao, R. S., Fahey, D. W., Holecek, J. C., Ridley, B. A., Walega, J. G., and Ray, E. A.: In situ measurements of HNO3, NOy, NO, and O3 in the lower stratosphere and upper troposphere. Atmos. Environ., 35, 5789–5797, https://doi.org/10.1016/S1352-2310(01)00354-5, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-9-7045-2009</doi>
+              <unstructured_citation>Orsolini, Y. J., Urban, J., and Murtagh, D. P.: Nitric acid in the stratosphere based on Odin observations from 2001 to 2009 – Part 2: High-altitude polar enhancements, Atmos. Chem. Phys., 9, 7045–7052, https://doi.org/10.5194/acp-9-7045-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-7-1915-2007</doi>
+              <unstructured_citation>Piccolo, C. and Dudhia, A.: Precision validation of MIPAS-Envisat products, Atmos. Chem. Phys., 7, 1915–1923, https://doi.org/10.5194/acp-7-1915-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1098/rstb.2011.0377</doi>
+              <unstructured_citation>Portmann, R. W., Daniel, J. S., and Ravishankara, A. R.: Stratospheric ozone depletion due to nitrous oxide: influences of other gases, Philos. T. R. Soc. Lond., 367, 1256–1264, https://doi.org/10.1098/rstb.2011.0377, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/95JD01296</doi>
+              <unstructured_citation>Pougatchev, N. S., Connor, B. J., and Rinsland, C. P.: Infrared measurements of the ozone vertical distribution above Kitt Peak, J. Geophys. Res., 100, 16689–16697, https://doi.org/10.1029/95JD01296, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/91JD00609</doi>
+              <unstructured_citation>Rinsland, C. P., Zander, R., and Demoulin, P.: Ground-based infrared measurements of HNO3 total column abundances: Long-term trend and variability, J. Geophys. Res., 96, 9379–9389, https://doi.org/10.1029/91JD00609, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/96GL01474</doi>
+              <unstructured_citation>Rinsland, C. P., Gunson, M. R., Salawitch, R. J., Michelsen, H. A., Zander, R., Newchurch, M. J., and Mahieu, E.: ATMOS/ATLAS-3 measurements of stratospheric chlorine and reactive nitrogen partitioning inside and outside the November 1994 Antarctic Vortex, Geophys. Res. Lett., 23, 2365–2368, https://doi.org/10.1029/96GL01474, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/98JD02515</doi>
+              <unstructured_citation>Rinsland, C. P., Jones, N. B., Connor, B. J., Logan, J. A., Pougatchev, N., Goldman, A., and Demoulin, P.: Northern and Southern Hemisphere Ground-Based Infrared Spectroscopic Measurements of Tropospheric Carbon Monoxide and Ethane, J. Geophys. Res., 103, 28197–28217, https://doi.org/10.1029/98JD02515, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1142/9789812813718</doi>
+              <unstructured_citation>Rodgers, C. D.: Inverse Methods for Atmospheric Sounding – Theory and Practice, Series on Atmospheric Oceanic and Planetary Physics, Vol. 2, World Scientific Publishing Co. Pte. Ltd, https://doi.org/10.1142/9789812813718, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1029/2002JD002299</doi>
+              <unstructured_citation>Rodgers, C. D. and Connor, B. J.: Intercomparison of remote sounding instruments, J. Geophys. Res., 108, 4116, https://doi.org/10.1029/2002JD002299, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1016/j.jqsrt.2004.10.008</doi>
+              <unstructured_citation>Rothman, L. S., Jacquemart, D., Barbe, A., Benner, D. C., Birk, M., Brown, L. R., and Wagner, G.: The HITRAN 2004 molecular spectroscopic database, J. Quant. Spectrosc. Ra., 96, 139–204, https://doi.org/10.1016/j.jqsrt.2004.10.008, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1016/j.jqsrt.2009.02.013</doi>
+              <unstructured_citation>Rothman, L. S., Gordon, I. E., Barbe, A., Benner, D. C., Bernath, P. F., Birk, M., and Vander Auwera, J.: The HITRAN 2008 molecular spectroscopic database, J. Quant. Spectrosc. Ra., 110, 533–572, https://doi.org/10.1016/j.jqsrt.2009.02.013, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/1998JD100089</doi>
+              <unstructured_citation>Santee, M. L., Manney, G. L., Froidevaux, L., Read, W. G., and Waters, J. W.: Six years of UARS Microwave Limb Sounder HNO3 observations?: Seasonal , interhemispheric , and interannual variations in the lower stratosphere, J. Geophys. Res., 104, 8225–8246, https://doi.org/10.1029/1998JD100089, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1029/2004JD004578</doi>
+              <unstructured_citation>Santee, M. L., Manney, G. L., Livesey, N. J., and Read, W. G.: Three-dimensional structure and evolution of stratospheric HNO3 based on UARS microwave limb sounder measurements, J. Geophys. Res.-Atmos., 109, 1–19, https://doi.org/10.1029/2004JD004578, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1029/2005GL022582</doi>
+              <unstructured_citation>Santee, M. L., Manney, G. L., Livesey, N. J., Froidevaux, L., MacKenzie, I. A., Pumphrey, H. C., and Harwood, R. S.: Polar processing and development of the 2004 Antarctic ozone hole: First results from MLS on Aura, Geophys. Res. Lett., 32, 1–4, https://doi.org/10.1029/2005GL022582, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1029/2007JD008721</doi>
+              <unstructured_citation>Santee, M. L., Lambert, A., Read, W. G., Livesey, N. J., Cofield, R. E., Cuddy, D. T., and Murtagh, D.: Validation of the Aura Microwave Limb Sounder HNO3 measurements, J. Geophys. Res., 112, 1–22, https://doi.org/10.1029/2007JD008721, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/acp-5-153-2005</doi>
+              <unstructured_citation>Schneider, M., Blumenstock, T., Chipperfield, M. P., Hase, F., Kouker, W., Reddmann, T., Ruhnke, R., Cuevas, E., and Fischer, H.: Subtropical trace gas profiles determined by ground-based FTIR spectroscopy at Izaña (28° N, 16° W): Five-year record, error analysis, and comparison with 3-D CTMs, Atmos. Chem. Phys., 5, 153–167, https://doi.org/10.5194/acp-5-153-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1029/1999RG900008</doi>
+              <unstructured_citation>Solomon, S.: Stratospheric ozone depletion: A review of concepts and history, Rev. Geophys., 37, 275–316, https://doi.org/10.1029/1999RG900008, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/1999RG000059</doi>
+              <unstructured_citation>Staehelin, J., Harris, N. R. P., Appenzeller, C., and Eberhard, J.: Ozone trends: A review, Rev. Geophys., 39, 231–290, https://doi.org/10.1029/1999RG000059, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1126/science.288.5470.1407</doi>
+              <unstructured_citation>Tabazadeh, A., Santee, M. L., Danilin, M. ., Pumphrey, H. C., Newman, P. A., Hamill, P. J., and Mergenthaler, J. L.: Quantifying Denitrification and its effects on Ozone recovery, Science, 288, 1407–1411, https://doi.org/10.1126/science.288.5470.1407, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/acp-9-7031-2009</doi>
+              <unstructured_citation>Urban, J., Pommier, M., Murtagh, D. P., Santee, M. L., and Orsolini, Y. J.: Nitric acid in the stratosphere based on Odin observations from 2001 to 2009 – Part 1: A global climatology, Atmos. Chem. Phys., 9, 7031–7044, https://doi.org/10.5194/acp-9-7031-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/acp-14-2905-2014</doi>
+              <unstructured_citation>Van Damme, M., Clarisse, L., Heald, C. L., Hurtmans, D., Ngadi, Y., Clerbaux, C., Dolman, A. J., Erisman, J. W., and Coheur, P. F.: Global distributions, time series and error characterization of atmospheric ammonia (NH3) from IASI satellite observations, Atmos. Chem. Phys., 14, 2905–2922, https://doi.org/10.5194/acp-14-2905-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.5194/acp-7-377-2007</doi>
+              <unstructured_citation>Vigouroux, C., De Mazière, M., Errera, Q., Chabrillat, S., Mahieu, E., Duchatelet, P., Wood, S., Smale, D., Mikuteit, S., Blumenstock, T., Hase, F., and Jones, N.: Comparisons between ground-based FTIR and MIPAS N2O and HNO3 profiles before and after assimilation in BASCOE, Atmos. Chem. Phys., 7, 377–396, https://doi.org/10.5194/acp-7-377-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1038/353707a0</doi>
+              <unstructured_citation>von Clarmann, T.: Chlorine in the stratosphere, Atmosfera, 26, 415–458, https://doi.org/10.1038/353707a0, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.5194/acp-7-4905-2007</doi>
+              <unstructured_citation>Wang, D. Y., Höpfner, M., Blom, C. E., Ward, W. E., Fischer, H., Blumenstock, T., Hase, F., Keim, C., Liu, G. Y., Mikuteit, S., Oelhaf, H., Wetzel, G., Cortesi, U., Mencaraglia, F., Bianchini, G., Redaelli, G., Pirre, M., Catoire, V., Huret, N., Vigouroux, C., De Mazière, M., Mahieu, E., Demoulin, P., Wood, S., Smale, D., Jones, N., Nakajima, H., Sugita, T., Urban, J., Murtagh, D., Boone, C. D., Bernath, P. F., Walker, K. A., Kuttippurath, J., Kleinböhl, A., Toon, G., and Piccolo, C.: Validation of MIPAS HNO3 operational data, Atmos. Chem. Phys., 7, 4905–4934, https://doi.org/10.5194/acp-7-4905-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.5194/acp-12-11095-2012</doi>
+              <unstructured_citation>Wegner, T., Grooß, J.-U., von Hobe, M., Stroh, F., Suminska-Ebersoldt, O., Volk, C. M., Hösen, E., Mitev, V., Shur, G., and Müller, R.: Heterogeneous chlorine activation on stratospheric aerosols and clouds in the Arctic polar vortex, Atmos. Chem. Phys., 12, 11095–11106, https://doi.org/10.5194/acp-12-11095-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2006JD008202</doi>
+              <unstructured_citation>Wespes, C., Hurtmans, D., Herbin, H., Barret, B., Turquety, S., Hadji-Lazaro, J., and Coheur, P. F.: First global distributions of nitric acid in the troposphere and the stratosphere derived from infrared satellite measurements, J. Geophys. Res.-Atmos., 112, 1–10, https://doi.org/10.1029/2006JD008202, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/acp-9-7949-2009</doi>
+              <unstructured_citation>Wespes, C., Hurtmans, D., Clerbaux, C., Santee, M. L., Martin, R. V., and Coheur, P. F.: Global distributions of nitric acid from IASI/MetOP measurements, Atmos. Chem. Phys., 9, 7949–7962, https://doi.org/10.5194/acp-9-7949-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.5194/acp-16-5721-2016</doi>
+              <unstructured_citation>Wespes, C., Hurtmans, D., Emmons, L. K., Safieddine, S., Clerbaux, C., Edwards, D. P., and Coheur, P.-F.: Ozone variability in the troposphere and the stratosphere from the first 6 years of IASI observations (2008–2013), Atmos. Chem. Phys., 16, 5721–5743, https://doi.org/10.5194/acp-16-5721-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.5194/acp-8-3529-2008</doi>
+              <unstructured_citation>Wolff, M. A., Kerzenmacher, T., Strong, K., Walker, K. A., Toohey, M., Dupuy, E., Bernath, P. F., Boone, C. D., Brohede, S., Catoire, V., von Clarmann, T., Coffey, M., Daffer, W. H., De Mazière, M., Duchatelet, P., Glatthor, N., Griffith, D. W. T., Hannigan, J., Hase, F., Höpfner, M., Huret, N., Jones, N., Jucks, K., Kagawa, A., Kasai, Y., Kramer, I., Küllmann, H., Kuttippurath, J., Mahieu, E., Manney, G., McElroy, C. T., McLinden, C., Mébarki, Y., Mikuteit, S., Murtagh, D., Piccolo, C., Raspollini, P., Ridolfi, M., Ruhnke, R., Santee, M., Senten, C., Smale, D., Tétard, C., Urban, J., and Wood, S.: Validation of HNO3, ClONO2, and N2O5 from the Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS), Atmos. Chem. Phys., 8, 3529–3562, https://doi.org/10.5194/acp-8-3529-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1029/2001JD000581</doi>
+              <unstructured_citation>Wood, S. W., Bodeker, G. E., Boyd, I. S., Jones, N. B., Connor, B. J., Johnston, P. V., and Sasano, Y.: Validation of version 5.20 ILAS HNO3, CH4, N2O, O3, and NO2 using ground-based measurements at Arrival Heights and Kiruna, J. Geophys. Res.-Atmos., 107, 1–11, https://doi.org/10.1029/2001JD000581, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1029/2004JD004665</doi>
+              <unstructured_citation>Wood, S. W., Batchelor, R. L., Goldman, A., Rinsland, C. P., Connor, B. J., Murcray, F. J., and Heuff, D. N.: Ground-based nitric acid measurements at Arrival Heights, Antarctica, using solar and lunar Fourier transform infrared observations, J. Geophys. Res.-Atmos., 109, 1–9, https://doi.org/10.1029/2004JD004665, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1016/j.scitotenv.2007.10.018</doi>
+              <unstructured_citation>Zander, R., Mahieu, E., Demoulin, P., Duchatelet, P., Roland, G., Servais, C., and Rinsland, C. P.: Our changing atmosphere: Evidence based on long-term infrared solar observations at the Jungfraujoch since 1950, Sci. Total Environ., 391, 184–195, https://doi.org/10.1016/j.scitotenv.2007.10.018, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

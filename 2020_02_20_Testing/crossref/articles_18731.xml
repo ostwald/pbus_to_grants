@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-14 05:44:11">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Earth System Science Data</full_title>
+          <abbrev_title>Earth Syst. Sci. Data</abbrev_title>
+          <issn media_type="electronic">1866-3516</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>8</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The Stratospheric Water and Ozone Satellite Homogenized (SWOOSH) database:
+a long-term database for climate studies</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Sean M.</given_name>
+              <surname>Davis</surname>
+              <ORCID>https://orcid.org/0000-0001-9276-6158</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Karen H.</given_name>
+              <surname>Rosenlof</surname>
+              <ORCID>https://orcid.org/0000-0002-0903-8270</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Birgit</given_name>
+              <surname>Hassler</surname>
+              <ORCID>https://orcid.org/0000-0003-2724-709X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dale F.</given_name>
+              <surname>Hurst</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>William G.</given_name>
+              <surname>Read</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Holger</given_name>
+              <surname>Vömel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Henry</given_name>
+              <surname>Selkirk</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Masatomo</given_name>
+              <surname>Fujiwara</surname>
+              <ORCID>https://orcid.org/0000-0001-5567-4692</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Robert</given_name>
+              <surname>Damadeo</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> In this paper, we describe the construction of the Stratospheric Water and Ozone Satellite Homogenized (SWOOSH) database, which includes vertically resolved ozone and water vapor data from a subset of the limb profiling satellite instruments operating since the 1980s. The primary SWOOSH products are zonal-mean monthly-mean time series of water vapor and ozone mixing ratio on pressure levels (12 levels per decade from 316 to 1<span class="thinspace"></span>hPa). The SWOOSH pressure level products are provided on several independent zonal-mean grids (2.5, 5, and 10°), and additional products include two coarse 3-D griddings (30° long<span class="thinspace"></span> × <span class="thinspace"></span>10° lat, 20°<span class="thinspace"></span> × <span class="thinspace"></span>5°) as well as a zonal-mean isentropic product. SWOOSH includes both individual satellite source data as well as a merged data product. A key aspect of the merged product is that the source records are homogenized to account for inter-satellite biases and to minimize artificial jumps in the record. We describe the SWOOSH homogenization process, which involves adjusting the satellite data records to a “reference” satellite using coincident observations during time periods of instrument overlap. The reference satellite is chosen based on the best agreement with independent balloon-based sounding measurements, with the goal of producing a long-term data record that is both homogeneous (i.e., with minimal artificial jumps in time) and accurate (i.e., unbiased). This paper details the choice of reference measurements, homogenization, and gridding process involved in the construction of the combined SWOOSH product and also presents the ancillary information stored in SWOOSH that can be used in future studies of water vapor and ozone variability. Furthermore, a discussion of uncertainties in the combined SWOOSH record is presented, and examples of the SWOOSH record are provided to illustrate its use for studies of ozone and water vapor variability on interannual to decadal timescales. The version 2.5 SWOOSH data are publicly available at <a href="http://dx.doi.org/10.7289/V5TD9VBX" target="_blank">doi:10.7289/V5TD9VBX</a>.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>28</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>461</first_page>
+            <last_page>490</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX13AK55G</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.7289/V5TD9VBX</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/essd-8-461-2016</doi>
+            <resource>https://www.earth-syst-sci-data.net/8/461/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.earth-syst-sci-data.net/8/461/2016/essd-8-461-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Angell, J. K. and Korshover, J.: Quasi-Biennial Variations in Temperature, Total Ozone, and Tropopause Height, J. Atmos. Sci., 21, 479–492, https://doi.org/10.1175/1520-0469(1964)021&amp;amp;lt;0479:Qbvitt&amp;amp;gt;2.0.Co;2, 1964.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Barath, F. T., Chavez, M. C., Cofield, R. E., Flower, D. A., Frerking, M. A., Gram, M. B., Harris, W. M., Holden, J. R., Jarnot, R. F., Kloezeman, W. G., Klose, G. J., Lau, G. K. K., Loo, M. S., Maddison, B. J., Mattauch, R. J., Mckinney, R. P., Peckham, G. E., Pickett, H. M., Siebes, G., Soltis, F. S., Suttie, R. A., Tarsala, J. A., Waters, J. W., and Wilson, W. J.: The Upper-Atmosphere Research Satellite Microwave Limb Sounder Instrument, J. Geophys. Res.-Atmos., 98, 10751–10762, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2005GL022386</doi>
+              <unstructured_citation>Bernath, P. F., McElroy, C. T., Abrams, M. C., Boone, C. D., Butler, M., Camy-Peyret, C., Carleer, M., Clerbaux, C., Coheur, P. F., Colin, R., DeCola, P., Bernath, P. F., McElroy, C. T., Abrams, M. C., Boone, C. D., Butler, M., Camy-Peyret, C., Carleer, M., Clerbaux, C., Coheur, P. F., Colin, R., DeCola, P., DeMaziere, M., Drummond, J. R., Dufour, D., Evans, W. F. J., Fast, H., Fussen, D., Gilbert, K., Jennings, D. E., Llewellyn, E. J., Lowe, R. P., Mahieu, E., McConnell, J. C., McHugh, M., McLeod, S. D., Michaud, R., Midwinter, C., Nassar, R., Nichitiu, F., Nowlan, C., Rinsland, C. P., Rochon, Y. J., Rowlands, N., Semeniuk, K., Simon, P., Skelton, R., Sloan, J. J., Soucy, M. A., Strong, K., Tremblay, P., Turnbull, D., Walker, K. A., Walkty, I., Wardle, D. A., Wehrle, V., Zander, R., and Zou, J.: Atmospheric Chemistry Experiment (ACE): Mission overview, Geophys. Res. Lett., 32, L15s01, https://doi.org/10.1029/2005gl022386, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2012GL052996</doi>
+              <unstructured_citation>Bian, J. C., Pan, L. L., Paulik, L., Vomel, H., Chen, H. B., and Lu, D. R.: In situ water vapor and ozone measurements in Lhasa and Kunming during the Asian summer monsoon, Geophys. Res. Lett., 39, L19808, https://doi.org/10.1029/2012gl052996, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/essd-5-31-2013</doi>
+              <unstructured_citation>Bodeker, G. E., Hassler, B., Young, P. J., and Portmann, R. W.: A vertically resolved, global, gap-free ozone database for assessing or constraining global climate model simulations, Earth Syst. Sci. Data, 5, 31–43, https://doi.org/10.5194/essd-5-31-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Butchart, N. and Remsberg, E. E.: The Area of the Stratospheric Polar Vortex as a Diagnostic for Tracer Transport on an Isentropic Surface, J. Atmos. Sci., 43, 1319–1339, https://doi.org/10.1175/1520-0469(1986)043&amp;amp;lt;1319:Taotsp&amp;amp;gt;2.0.Co;2, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/acp-11-11267-2011</doi>
+              <unstructured_citation>Cionni, I., Eyring, V., Lamarque, J. F., Randel, W. J., Stevenson, D. S., Wu, F., Bodeker, G. E., Shepherd, T. G., Shindell, D. T., and Waugh, D. W.: Ozone database in support of CMIP5 simulations: results and corresponding radiative forcing, Atmos. Chem. Phys., 11, 11267–11292, https://doi.org/10.5194/acp-11-11267-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/95JD01697</doi>
+              <unstructured_citation>Cunnold, D. M., Froidevaux, L., Russell, J. M., Connor, B., and Roche, A.: Overview of UARS ozone validation based primarily on intercomparisons among UARS and Stratospheric Aerosol and Gas Experiment II measurements, J. Geophys. Res., 101, 10335, https://doi.org/10.1029/95JD01697, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/amt-6-3539-2013</doi>
+              <unstructured_citation>Damadeo, R. P., Zawodny, J. M., Thomason, L. W., and Iyer, N.: SAGE version 7.0 algorithm: application to SAGE II, Atmos. Meas. Tech., 6, 3539–3561, https://doi.org/10.5194/amt-6-3539-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/acp-14-13455-2014</doi>
+              <unstructured_citation>Damadeo, R. P., Zawodny, J. M., and Thomason, L. W.: Reevaluation of stratospheric ozone trends from SAGE II data using a simultaneous temporal and spatial analysis, Atmos. Chem. Phys., 14, 13455–13470, https://doi.org/10.5194/acp-14-13455-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Dessler, A. E. and Kim, H.: Determination of the amount of water vapor entering the stratosphere based on Halogen Occultation Experiment (HALOE) data, J. Geophys. Res.-Atmos., 104, 30605–30607, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Forster, P. and Shine, K.: Stratospheric water vapour changes as a possible contributor to observed stratospheric cooling, Geophys. Res. Lett., 26, 3309–3312, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2007GL031994</doi>
+              <unstructured_citation>Forster, P. M., Bodeker, G., Schofield, R., Solomon, S., and Thompson, D.: Effects of ozone cooling in the tropical lower stratosphere and upper troposphere, Geophys. Res. Lett., 34, L23813, https://doi.org/10.1029/2007GL031994, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2007JD008771</doi>
+              <unstructured_citation>Froidevaux, L., Jiang, Y. B., Lambert, A., Livesey, N. J., Read, W. G., Waters, J. W., Browell, E. V., Hair, J. W., Avery, M. A., Mcgee, T. J., Twigg, L. W., Sumnicht, G. K., Jucks, K. W., Margitan, J. J., Sen, B., Stachnik, R. A., Toon, G. C., Bernath, P. F., Boone, C. D., Walker, K. A., Filipiak, M. J., Harwood, R. S., Fuller, R. A., Manney, G. L., Schwartz, M. J., Daffer, W. H., Drouin, B. J., Cofield, R. E., Cuddy, D. T., Jarnot, R. F., Knosp, B. W., Perun, V. S., Snyder, W. V., Stek, P. C., Thurstans, R. P., and Wagner, P. A.: Validation of Aura Microwave Limb Sounder stratospheric ozone measurements, J. Geophys. Res., 113, D15S20, https://doi.org/10.1029/2007JD008771, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-15-10471-2015</doi>
+              <unstructured_citation>Froidevaux, L., Anderson, J., Wang, H.-J., Fuller, R. A., Schwartz, M. J., Santee, M. L., Livesey, N. J., Pumphrey, H. C., Bernath, P. F., Russell III, J. M., and McCormick, M. P.: Global OZone Chemistry And Related trace gas Data records for the Stratosphere (GOZCARDS): methodology and sample results with a focus on HCl, H2O, and O3, Atmos. Chem. Phys., 15, 10471–10507, https://doi.org/10.5194/acp-15-10471-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2010JD014179</doi>
+              <unstructured_citation>Fujiwara, M., Vomel, H., Hasebe, F., Shiotani, M., Ogino, S. Y., Iwasaki, S., Nishi, N., Shibata, T., Shimizu, K., Nishimoto, E., Canossa, J. M. V., Selkirk, H. B., and Oltmans, S. J.: Seasonal to decadal variations of water vapor in the tropical lower stratosphere observed with balloon-borne cryogenic frost point hygrometers, J. Geophys. Res.-Atmos., 115, D18304, https://doi.org/10.1029/2010jd014179, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/JD089iD04p05125</doi>
+              <unstructured_citation>Gille, J. C. and Russell, J. M.: The Limb Infrared Monitor of the Stratosphere – Experiment Description, Performance, and Results, J. Geophys. Res.-Atmos., 89, 5125–5140, https://doi.org/10.1029/Jd089id04p05125, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Hardy, R. L.: Theory and Applications of the Multiquadric Biharmonic Method – 20 Years of Discovery 1968–1988, Comput. Math. Appl., 19, 163–208, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/95JD02933</doi>
+              <unstructured_citation>Harries, J. E., Russell III, J. M., Tuck, A. F., Gordley, L. L., Purcell, P., Stone, K., Bevilacqua, R. M., Gunson, M., Nedoluha, G., and Traub, W. A.: Validation of measurements of water vapor from the Halogen Occultation Experiment (HALOE), J. Geophys. Res., 101, 10205–10216, https://doi.org/10.1029/95JD02933, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-15-9965-2015</doi>
+              <unstructured_citation>Harris, N. R. P., Hassler, B., Tummon, F., Bodeker, G. E., Hubert, D., Petropavlovskikh, I., Steinbrecht, W., Anderson, J., Bhartia, P. K., Boone, C. D., Bourassa, A., Davis, S. M., Degenstein, D., Delcloo, A., Frith, S. M., Froidevaux, L., Godin-Beekmann, S., Jones, N., Kurylo, M. J., Kyrölä, E., Laine, M., Leblanc, S. T., Lambert, J.-C., Liley, B., Mahieu, E., Maycock, A., de Mazière, M., Parrish, A., Querel, R., Rosenlof, K. H., Roth, C., Sioris, C., Staehelin, J., Stolarski, R. S., Stübi, R., Tamminen, J., Vigouroux, C., Walker, K. A., Wang, H. J., Wild, J., and Zawodny, J. M.: Past changes in the vertical distribution of ozone – Part 3: Analysis and interpretation of trends, Atmos. Chem. Phys., 15, 9965–9982, https://doi.org/10.5194/acp-15-9965-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-13-4393-2013</doi>
+              <unstructured_citation>Hasebe, F., Inai, Y., Shiotani, M., Fujiwara, M., Vömel, H., Nishi, N., Ogino, S.-Y., Shibata, T., Iwasaki, S., Komala, N., Peter, T., and Oltmans, S. J.: Cold trap dehydration in the Tropical Tropopause Layer characterised by SOWER chilled-mirror hygrometer network data in the Tropical Pacific, Atmos. Chem. Phys., 13, 4393–4411, https://doi.org/10.5194/acp-13-4393-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/amt-7-1395-2014</doi>
+              <unstructured_citation>Hassler, B., Petropavlovskikh, I., Staehelin, J., August, T., Bhartia, P. K., Clerbaux, C., Degenstein, D., Mazière, M. D., Dinelli, B. M., Dudhia, A., Dufour, G., Frith, S. M., Froidevaux, L., Godin-Beekmann, S., Granville, J., Harris, N. R. P., Hoppel, K., Hubert, D., Kasai, Y., Kurylo, M. J., Kyrölä, E., Lambert, J.-C., Levelt, P. F., McElroy, C. T., McPeters, R. D., Munro, R., Nakajima, H., Parrish, A., Raspollini, P., Remsberg, E. E., Rosenlof, K. H., Rozanov, A., Sano, T., Sasano, Y., Shiotani, M., Smit, H. G. J., Stiller, G., Tamminen, J., Tarasick, D. W., Urban, J., van der A, R. J., Veefkind, J. P., Vigouroux, C., von Clarmann, T., von Savigny, C., Walker, K. A., Weber, M., Wild, J., and Zawodny, J. M.: Past changes in the vertical distribution of ozone – Part 1: Measurement techniques, uncertainties and availability, Atmos. Meas. Tech., 7, 1395–1427, https://doi.org/10.5194/amt-7-1395-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/jgrd.50752</doi>
+              <unstructured_citation>Hegglin, M. I., Tegtmeier, S., Anderson, J., Froidevaux, L., Fuller, R., Funke, B., Jones, A., Lingenfelser, G., Lumpe, J., Pendlebury, D., Remsberg, E., Rozanov, A., Toohey, M., Urban, J., von Clarmann, T., Walker, K. A., Wang, R., and Weigel, K.: SPARC Data Initiative: Comparison of water vapor climatologies from international satellite limb sounders, J. Geophys. Res.-Atmos., 118, 11824–11846, https://doi.org/10.1002/Jgrd.50752, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1038/ngeo2236</doi>
+              <unstructured_citation>Hegglin, M. I., Plummer, D. A., Shepherd, T. G., Scinocca, J. F., Anderson, J., Froidevaux, L., Funke, B., Hurst, D., Rozanov, A., Urban, J., von Clarmann, T., Walker, K. A., Wang, H. J., Tegtmeier, S., and Weigel, K.: Vertical structure of stratospheric water vapour trends derived from merged satellite data, Nat. Geosci., 7, 768–776, https://doi.org/10.1038/NGEO2236, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/amt-9-2497-2016</doi>
+              <unstructured_citation>Hubert, D., Lambert, J.-C., Verhoelst, T., Granville, J., Keppens, A., Baray, J.-L., Bourassa, A. E., Cortesi, U., Degenstein, D. A., Froidevaux, L., Godin-Beekmann, S., Hoppel, K. W., Johnson, B. J., Kyrölä, E., Leblanc, T., Lichtenberg, G., Marchand, M., McElroy, C. T., Murtagh, D., Nakane, H., Portafaix, T., Querel, R., Russell III, J. M., Salvador, J., Smit, H. G. J., Stebel, K., Steinbrecht, W., Strawbridge, K. B., Stübi, R., Swart, D. P. J., Taha, G., Tarasick, D. W., Thompson, A. M., Urban, J., van Gijsel, J. A. E., Van Malderen, R., von der Gathen, P., Walker, K. A., Wolfram, E., and Zawodny, J. M.: Ground-based assessment of the bias and long-term stability of 14 limb and occultation ozone profile data records, Atmos. Meas. Tech., 9, 2497–2534, https://doi.org/10.5194/amt-9-2497-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/2010JD015065</doi>
+              <unstructured_citation>Hurst, D. F., Oltmans, S. J., Vomel, H., Rosenlof, K. H., Davis, S. M., Ray, E. A., Hall, E. G., and Jordan, A. F.: Stratospheric water vapor trends over Boulder, Colorado: Analysis of the 30 year Boulder record, J. Geophys. Res.-Atmos., 116, D02306, https://doi.org/10.1029/2010JD015065, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1002/2013JD020757</doi>
+              <unstructured_citation>Hurst, D. F., Lambert, A., Read, W. G., Davis, S. M., Rosenlof, K. H., Hall, E. G., Jordan, A. F., and Oltmans, S. J.: Validation of Aura Microwave Limb Sounder stratospheric water vapor measurements by the NOAA frost point hygrometer, J. Geophys. Res.-Atmos., 119, 1612–1625, https://doi.org/10.1002/2013jd020757, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/amt-9-4447-2016</doi>
+              <unstructured_citation>Hurst, D. F., Read, W. G., Vömel, H., Selkirk, H. B., Rosenlof, K. H., Davis, S. M., Hall, E. G., Jordan, A. F., and Oltmans, S. J.: Recent divergences in stratospheric water vapor measurements by frost point hygrometers and the Aura Microwave Limb Sounder, Atmos. Meas. Tech., 9, 4447–4457, https://doi.org/10.5194/amt-9-4447-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/2015JD023752</doi>
+              <unstructured_citation>Jiang, J. H., Su, H., Zhai, C. X., Wu, L. T., Minschwaner, K., Molod, A. M., and Tompkins, A. M.: An assessment of upper troposphere and lower stratosphere water vapor in MERRA, MERRA2, and ECMWF reanalyses using Aura MLS observations, J. Geophys. Res.-Atmos., 120, 11468–11485, https://doi.org/10.1002/2015JD023752, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2007JD008776</doi>
+              <unstructured_citation>Jiang, Y. B., Froidevaux, L., Lambert, A., Livesey, N. J., Read, W. G., Waters, J. W., Bojkov, B., Leblanc, T., Mcdermid, I. S., Godin-Beekmann, S., Filipiak, M. J., Harwood, R. S., Fuller, R. A., Daffer, W. H., Drouin, B. J., Cofield, R. E., Cuddy, D. T., Jarnot, R. F., Knosp, B. W., Perun, V. S., Schwartz, M. J., Snyder, W. V., Stek, P. C., Thurstans, R. P., Wagner, P. A., Allaart, M., Andersen, S. B., Bodeker, G., Calpini, B., Claude, H., Coetzee, G., Davies, J., Backer, H. D., Dier, H., Fujiwara, M., Johnson, B., Kelder, H., Leme, N. P., König-Langlo, G., Kyro, E., Laneve, G., Fook, L. S., Merrill, J., Morris, G., Newchurch, M., Oltmans, S., Parrondos, M. C., Posny, F., Schmidlin, F., Skrivankova, P., Stubi, R., Tarasick, D., Thompson, A., Thouret, V., Viatte, P., Vömel, H., Gathen, P. v. D., Yela, M., and Zablocki, G.: Validation of Aura Microwave Limb Sounder Ozone by ozonesonde and lidar measurements, J. Geophys. Res., 112, D24S34, https://doi.org/10.1029/2007JD008776, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Khosravi, R., Lambert, A., Lee, H., Gille, J., Barnett, J., Francis, G., Edwards, D., Halvorson, C., Massie, S., Craig, C., Krinsky, C., McInerney, J., Stone, K., Eden, T., Nardi, B., Hepplewhite, C., Mankin, W., and Coffey, M.: Overview and characterization of retrievals of temperature, pressure, and atmospheric constituents from the High Resolution Dynamics Limb Sounder (HIRDLS) measurements, J. Geophys. Res.-Atmos., 114, D20304, https://doi.org/10.1029/2009jd011937, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Klekociuk, A. R., Tully, M. B., Krummel, P. B., Gies, H. P., Alexander, S. P., Fraser, P. J., Henderson, S. I., Javorniczky, J., Petelina, S. V., Shanklin, J. D., Schofield, R., and Stone, K. A.: The Antarctic ozone hole during 2012, Aust. Meteorol. Ocean, 64, 313–330, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Kley, D., Russell III, J. M., and Phillips, C. (Eds.): SPARC Assessment of Upper Tropospheric and Stratospheric Water Vapour, WMO/ICSU/IOC World Climate Research Programme (WCRP), France, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-14-2353-2014</doi>
+              <unstructured_citation>Kramarova, N. A., Nash, E. R., Newman, P. A., Bhartia, P. K., McPeters, R. D., Rault, D. F., Seftor, C. J., Xu, P. Q., and Labow, G. J.: Measuring the Antarctic ozone hole with the new Ozone Mapping and Profiler Suite (OMPS), Atmos. Chem. Phys., 14, 2353–2361, https://doi.org/10.5194/acp-14-2353-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2007JD008724</doi>
+              <unstructured_citation>Lambert, A., Read, W. G., Livesey, N. J., Santee, M. L., Manney, G. L., Froidevaux, L., Wu, D. L., Schwartz, M. J., Pumphrey, H. C., Jimenez, C., Nedoluha, G. E., Cofield, R. E., Cuddy, D. T., Daffer, W. H., Drouin, B. J., Fuller, R. A., Jarnot, R. F., Knosp, B. W., Pickett, H. M., Perun, V. S., Snyder, W. V., Stek, P. C., Thurstans, R. P., Wagner, P. A., Waters, J. W., Jucks, K. W., Toon, G. C., Stachnik, R. A., Bernath, P. F., Boone, C. D., Walker, K. A., Urban, J., Murtagh, D., Elkins, J. W., and Atlas, E.: Validation of the Aura Microwave Limb Sounder middle atmosphere water vapor and nitrous oxide measurements, J. Geophys. Res.-Atmos., 112, D24S36 https://doi.org/10.1029/2007JD008724, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/94GL01394</doi>
+              <unstructured_citation>Larsen, N., Knudsen, B., Mikkelsen, I. S., Jorgensen, T. S., and Eriksen, P.: Ozone Depletion in the Arctic Stratosphere in Early 1993, Geophys. Res. Lett., 21, 1611–1614, https://doi.org/10.1029/94gl01394, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1002/qj.49711448002</doi>
+              <unstructured_citation>Le Texier, H., Solomon, S., and Garcia, R. R.: The Role of Molecular-Hydrogen and Methane Oxidation in the Water-Vapor Budget of the Stratosphere, Q. J. Roy. Meteor. Soc., 114, 281–295, https://doi.org/10.1002/Qj.49711448002, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2002JD002273</doi>
+              <unstructured_citation>Livesey, N. J., Read, W. G., Froidevaux, L., Waters, J. W., Santee, M. L., Pumphrey, H. C., Wu, D. L., Shippony, Z., and Jarnot, R. F.: The UARS microwave limb sounder version 5 data set: Theory, characterization, and validation, J. Geophys. Res.-Atmos., 108, 4378 https://doi.org/10.1029/2002JD002273, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/2007JD008805</doi>
+              <unstructured_citation>Livesey, N. J., Filipiak, M. J., Froidevaux, L., Read, W. G., Lambert, A., Santee, M. L., Jiang, J. H., Pumphrey, H. C., Waters, J. W., Cofield, R. E., Cuddy, D. T., Daffer, W. H., Drouin, B. J., Fuller, R. A., Jarnot, R. F., Jiang, Y. B., Knosp, B. W., Li, Q. B., Perun, V. S., Schwartz, M. J., Snyder, W. V., Stek, P. C., Thurstans, R. P., Wagner, P. A., Avery, M., Browell, E. V., Cammas, J. P., Christensen, L. E., Diskin, G. S., Gao, R. S., Jost, H. J., Loewenstein, M., Lopez, J. D., Nedelec, P., Osterman, G. B., Sachse, G. W., and Webster, C. R.: Validation of Aura Microwave Limb Sounder O3 and CO observations in the upper troposphere and lower stratosphere, J. Geophys. Res., 113, D15S02, https://doi.org/10.1029/2007JD008805, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/95GL03591</doi>
+              <unstructured_citation>Manney, G. L., Froidevaux, L., Waters, J. W., Santee, M. L., Read, W. G., Flower, D. A., Jarnot, R. F., and Zurek, R. W.: Arctic ozone depletion observed by UARS MLS during the 1994-95 winter, Geophys. Res. Lett., 23, 85–88, https://doi.org/10.1029/95gl03591, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/2007JD008709</doi>
+              <unstructured_citation>Manney, G. L., Daffer, W. H., Zawodny, J. M., Bernath, P. F., Hoppel, K. W., Walker, K. A., Knosp, B. W., Boone, C., Remsberg, E. E., Santee, M. L., Harvey, V. L., Pawson, S., Jackson, D. R., Deaver, L., McElroy, C. T., McLinden, C. A., Drummond, J. R., Pumphrey, H. C., Lambert, A., Schwartz, M. J., Froidevaux, L., McLeod, S., Takacs, L. L., Suarez, M. J., Trepte, C. R., Cuddy, D. C., Livesey, N. J., Harwood, R. S., and Waters, J. W.: Solar occultation satellite data and derived meteorological products: Sampling issues and comparisons with Aura Microwave Limb Sounder, J. Geophys. Res.-Atmos., 112, D24s50, https://doi.org/10.1029/2007jd008709, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1038/nature10556</doi>
+              <unstructured_citation>Manney, G. L., Santee, M. L., Rex, M., Livesey, N. J., Pitts, M. C., Veefkind, P., Nash, E. R., Wohltmann, I., Lehmann, R., Froidevaux, L., Poole, L. R., Schoeberl, M. R., Haffner, D. P., Davies, J., Dorokhov, V., Gernandt, H., Johnson, B., Kivi, R., Kyro, E., Larsen, N., Levelt, P. F., Makshtas, A., McElroy, C. T., Nakajima, H., Parrondo, M. C., Tarasick, D. W., von der Gathen, P., Walker, K. A., and Zinoviev, N. S.: Unprecedented Arctic ozone loss in 2011, Nature, 478, 469–465, https://doi.org/10.1038/nature10556, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1002/qj.822</doi>
+              <unstructured_citation>Maycock, A. C., Shine, K. P., and Joshi, M. M.: The temperature response to stratospheric water vapour changes, Q. J. Roy. Meteorol. Soc., 137, 1070–1082, https://doi.org/10.1002/qj.822, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/0273-1177(87)90151-7</doi>
+              <unstructured_citation>McCormick, M. P.: Sage II: An overview, Adv. Space Res., 7, 219–226, https://doi.org/10.1016/0273-1177(87)90151-7, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/95JD03422</doi>
+              <unstructured_citation>Mote, P. W., Rosenlof, K. H., McIntyre, M. E., Carr, E. S., Gille, J. C., Holton, J. R., Kinnersley, J. S., Pumphrey, H. C., Russell, J. M., and Waters, J. W.: An atmospheric tape recorder: The imprint of tropical tropopause temperatures on stratospheric water vapor, J. Geophys. Res.-Atmos., 101, 3989–4006, https://doi.org/10.1029/95jd03422, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1002/2015EF000321</doi>
+              <unstructured_citation>Müller, R., Kunz, A., Hurst, D. F., Rolf, C., Kramer, M., and Riese, M.: The need for accurate long-term measurements of water vapor in the upper troposphere and lower stratosphere with global coverage, Earths Future, 4, 25–32, https://doi.org/10.1002/2015EF000321, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/96JD00066</doi>
+              <unstructured_citation>Nash, E. R., Newman, P. A., Rosenfield, J. E., and Schoeberl, M. R.: An objective determination of the polar vortex using Ertel's potential vorticity, J. Geophys. Res.-Atmos., 101, 9471–9478, https://doi.org/10.1029/96jd00066, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Nash, J., Oakley, T., Vömel, H., and Li, W.: WMO intercomparison of high quality radiosonde systems, available at: http://library.wmo.int/opac/index.php?lvl=notice_display&amp;amp;amp;id=15531#.V9wZY9z7K-w (last access: 19 September 2016), 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2004JD005483</doi>
+              <unstructured_citation>Nazaryan, H. and McCormick, M. P.: Comparisons of Stratospheric Aerosol and Gas Experiment (SAGE II) and Solar Backscatter Ultraviolet Instrument (SBUV/2) ozone profiles and trend estimates, J. Geophys. Res.-Atmos., 110, D17302, https://doi.org/10.1029/2004jd005483, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/2007JD008757</doi>
+              <unstructured_citation>Nedoluha, G. E., Gomez, R. M., Hicks, B. C., Bevilacqua, R. M., Russell, J. M., Connor, B. J., and Lambert, A.: A comparison of middle atmospheric water vapor as measured by WVMS, EOS-MLS, and HALOE, J. Geophys. Res.-Atmos., 112, D24S39, https://doi.org/10.1029/0007JD008757, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1002/2014GL061627</doi>
+              <unstructured_citation>Neely, R. R., Marsh, D. R., Smith, K. L., Davis, S. M., and Polvani, L. M.: Biases in southern hemisphere climate trends induced by coarsely specifying the temporal resolution of stratospheric ozone, Geophys. Res. Lett., 41, 8602–8610, https://doi.org/10.1002/2014GL061627, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1029/JC087iC11p08981</doi>
+              <unstructured_citation>Oltmans, S. J. and London, J.: The Quasi-Biennial Oscillation in Atmospheric Ozone, J. Geophys. Res.-Oc. Atm., 87, 8981–8989, https://doi.org/10.1029/Jc087ic11p08981, 1982.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1038/374146a0</doi>
+              <unstructured_citation>Oltmans, S. J. and Hofmann, D. J.: Increase in Lower-Stratospheric Water-Vapor at a Mid-Latitude Northern-Hemisphere Site from 1981 to 1994, Nature, 374, 146–149, https://doi.org/10.1038/374146a0, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1029/2000GL012133</doi>
+              <unstructured_citation>Oltmans, S. J., Vomel, H., Hofmann, D. J., Rosenlof, K. H., and Kley, D.: The increase in stratospheric water vapor from balloonborne, frostpoint hygrometer measurements at Washington, DC, and Boulder, Colorado, Geophys. Res. Lett., 27, 3453–3456, https://doi.org/10.1029/2000gl012133, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Pumphrey, H. C.: Validation of a new prototype water vapor retrieval for the UARS Microwave Limb Sounder, J. Geophys. Res.-Atmos., 104, 9399–9412, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Pumphrey, H. C., Clark, H. L., and Harwood, R. S.: Lower stratospheric water vapor measured by UARS MLS, Geophys. Res. Lett., 27, 1691–1694, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1029/2002JD002944</doi>
+              <unstructured_citation>Randall, C. E.: Validation of POAM III ozone: Comparisons with ozonesonde and satellite data, J. Geophys. Res., 108, 4367, https://doi.org/10.1029/2002JD002944, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Randel, W. J. and Wu, F.: Isolation of the ozone QBO in SAGE II data by singular-value decomposition, J. Atmos. Sci., 53, 2546–2559, https://doi.org/10.1175/1520-0469(1996)053&amp;amp;lt;2546:Iotoqi&amp;amp;gt;2.0.Co;2, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1029/2006JD007339</doi>
+              <unstructured_citation>Randel, W. J. and Wu, F.: A stratospheric ozone profile data set for 1979–2005: Variability, trends, and comparisons with column ozone data, J. Geophys. Res., 112, D06313, https://doi.org/10.1029/2006JD007339, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2005JD006744</doi>
+              <unstructured_citation>Randel, W. J., Wu, F., Vomel, H., Nedoluha, G. E., and Forster, P.: Decreases in stratospheric water vapor after 2001: Links to changes in the tropical tropopause and the Brewer-Dobson circulation, J. Geophys. Res.-Atmos., 111, D12312 https://doi.org/10.1029/2005JD006744, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1029/2007JD008752</doi>
+              <unstructured_citation>Read, W. G., Lambert, A., Bacmeister, J., Cofield, R. E., Christensen, L. E., Cuddy, D. T., Daffer, W. H., Drouin, B. J., Fetzer, E., Froidevaux, L., Fuller, R., Herman, R., Jarnot, R. F., Jiang, J. H., Jiang, Y. B., Kelly, K., Knosp, B. W., Kovalenko, L. J., Livesey, N. J., Liu, H. C., Manney, G. L., Pickett, H. M., Pumphrey, H. C., Rosenlof, K. H., Sabounchi, X., Santee, M. L., Schwartz, M. J., Snyder, W. V., Stek, P. C., Su, H., Takacs, L. L., Thurstans, R. P., Vomel, H., Wagner, P. A., Waters, J. W., Webster, C. R., Weinstock, E. M., and Wu, D. L.: Aura Microwave Limb Sounder upper tropospheric and lower stratospheric H2O and relative humidity with respect to ice validation, J. Geophys. Res.-Atmos., 112, D24S35 https://doi.org/10.1029/2007JD008752, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/JD089iD04p05161</doi>
+              <unstructured_citation>Remsberg, E. E., Russell, J. M., Gille, J. C., Gordley, L. L., Bailey, P. L., Planet, W. G., and Harries, J. E.: The Validation of Nimbus-7 Lims Measurements of Ozone, J. Geophys. Res.-Atmos., 89, 5161–5178, https://doi.org/10.1029/Jd089id04p05161, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1175/JCLI-D-11-00015.1</doi>
+              <unstructured_citation>Rienecker, M. M., Suarez, M. J., Gelaro, R., Todling, R., Bacmeister, J., Liu, E., Bosilovich, M. G., Schubert, S. D., Takacs, L., Kim, G. K., Bloom, S., Chen, J. Y., Collins, D., Conaty, A., Da Silva, A., Gu, W., Joiner, J., Koster, R. D., Lucchesi, R., Molod, A., Owens, T., Pawson, S., Pegion, P., Redder, C. R., Reichle, R., Robertson, F. R., Ruddick, A. G., Sienkiewicz, M., and Woollen, J.: MERRA: NASA's Modern-Era Retrospective Analysis for Research and Applications, J. Climate, 24, 3624–3648, https://doi.org/10.1175/Jcli-D-11-00015.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1029/2005GL022550</doi>
+              <unstructured_citation>Rind, D., Lerner, J., and Zawodny, J.: A complementary analysis for SAGE II data profiles, Geophys. Res. Lett., 32, L07812, https://doi.org/10.1029/2005GL022550, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1029/2000GL012502</doi>
+              <unstructured_citation>Rosenlof, K. H., Oltmans, S. J., Kley, D., Russell, J. M., Chiou, E. W., Chu, W. P., Johnson, D. G., Kelly, K. K., Michelsen, H. A., Nedoluha, G. E., Remsberg, E. E., Toon, G. C., and McCormick, M. P.: Stratospheric water vapor increases over the past half-century, Geophys. Res. Lett., 28, 1195–1198, https://doi.org/10.1029/2000gl012502, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/93JD00799</doi>
+              <unstructured_citation>Russell III, J. M., Gordley, L. L., Park, J. H., Drayson, S. R., Hesketh, W. D., Cicerone, R. J., Tuck, A. F., Frederick, J. E., Harries, J. E., and Crutzen, P. J.: The Halogen Occultation Experiment, J. Geophys. Res., 98, 10777–10797, https://doi.org/10.1029/93JD00799, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.5194/acp-15-829-2015</doi>
+              <unstructured_citation>Sakazaki, T., Shiotani, M., Suzuki, M., Kinnison, D., Zawodny, J. M., McHugh, M., and Walker, K. A.: Sunset–sunrise difference in solar occultation ozone measurements (SAGE II, HALOE, and ACE-FTS) and its relationship to tidal vertical winds, Atmos. Chem. Phys., 15, 829–843, https://doi.org/10.5194/acp-15-829-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Santer, B. D., Wigley, T. M. L., Boyle, J. S., Gaffen, D. J., Hnilo, J. J., Nychka, D., Parker, D. E., and Taylor, K. E.: Statistical significance of trends and trend differences in layer-average atmospheric temperature time series, J. Geophys. Res.-Atmos., 105, 7337–7356, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1029/2009JD013209</doi>
+              <unstructured_citation>Selkirk, H. B., Vomel, H., Canossa, J. M. V., Pfister, L., Diaz, J. A., Fernandez, W., Amador, J., Stolz, W., and Peng, G. S.: Detailed structure of the tropical upper troposphere and lower stratosphere as revealed by balloon sonde observations of water vapor, ozone, temperature, and winds during the NASA TCSP and TC4 campaigns, J. Geophys. Res.-Atmos., 115, D00j19, https://doi.org/10.1029/2009jd013209, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2006JD007308</doi>
+              <unstructured_citation>Smit, H. G. J., Straeter, W., Johnson, B. J., Oltmans, S. J., Davies, J., Tarasick, D. W., Hoegger, B., Stubi, R., Schmidlin, F. J., Northam, T., Thompson, A. M., Witte, J. C., Boyd, I., and Posny, F.: Assessment of the performance of ECC-ozonesondes under quasi-flight conditions in the environmental simulation chamber: Insights from the Juelich Ozone Sonde Intercomparison Experiment (JOSIE), J. Geophys. Res.-Atmos., 112, D19306 https://doi.org/10.1029/2006JD007308, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1126/science.1182488</doi>
+              <unstructured_citation>Solomon, S., Rosenlof, K. H., Portmann, R. W., Daniel, J. S., Davis, S. M., Sanford, T. J., and Plattner, G.-K.: Contributions of Stratospheric Water Vapor to Decadal Changes in the Rate of Global Warming, Science, 327, 1219–1223, https://doi.org/10.1126/science.1182488, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1002/2013JD019960</doi>
+              <unstructured_citation>Suzuki, J., Fujiwara, M., Nishizawa, T., Shirooka, R., Yoneyama, K., Katsumata, M., Matsui, I., and Sugimoto, N.: The occurrence of cirrus clouds associated with eastward propagating equatorial n = 0 inertio-gravity and Kelvin waves in November 2011 during the CINDY2011/DYNAMO campaign, J. Geophys. Res.-Atmos., 118, 12941–12947, https://doi.org/10.1002/2013JD019960, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1029/2004JD004859</doi>
+              <unstructured_citation>Taha, G., Thomason, L. W., and Burton, S. P.: Comparison of Stratospheric Aerosol and Gas Experiment (SAGE) II version 6.2 water vapor with balloon-borne and space-based instruments, J. Geophys. Res.-Atmos., 109, D18313, https://doi.org/10.1029/2004JD004859, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Tegtmeier, S., Hegglin, M. I., Anderson, J., Bourassa, A., Brohede, S., Degenstein, D., Froidevaux, L., Fuller, R., Funke, B., Gille, J., Jones, A., Kasai, Y., Kruger, K., Kyrola, E., Lingenfelser, G., Lumpe, J., Nardi, B., Neu, J., Pendlebury, D., Remsberg, E., Rozanov, A., Smith, L., Toohey, M., Urban, J., von Clarmann, T., Walker, K. A., and Wang, R. H. J.: SPARC Data Initiative: A comparison of ozone climatologies from international satellite limb sounders, J. Geophys. Res.-Atmos., 118, 12229–12247, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1029/2003JD004465</doi>
+              <unstructured_citation>Thomason, L. W.: A revised water vapor product for the Stratospheric Aerosol and Gas Experiment (SAGE) II version 6.2 data set, J. Geophys. Res., 109, D06312, https://doi.org/10.1029/2003JD004465, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/2003JD004465</doi>
+              <unstructured_citation>Thomason, L. W., Burton, S. P., Iyer, N., Zawodny, J. M., and Anderson, J.: A revised water vapor product for the Stratospheric Aerosol and Gas Experiment (SAGE) II version 6.2 data set, J. Geophys. Res.-Atmos., 109, D06312, https://doi.org/10.1029/2003jd004465, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.5194/acp-10-2159-2010</doi>
+              <unstructured_citation>Thomason, L. W., Moore, J. R., Pitts, M. C., Zawodny, J. M., and Chiou, E. W.: An evaluation of the SAGE III version 4 aerosol extinction coefficient and water vapor data products, Atmos. Chem. Phys., 10, 2159–2173, https://doi.org/10.5194/acp-10-2159-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1029/2011JD016911</doi>
+              <unstructured_citation>Thompson, A. M., Miller, S. K., Tilmes, S., Kollonige, D. W., Witte, J. C., Oltmans, S. J., Johnson, B. J., Fujiwara, M., Schmidlin, F. J., Coetzee, G. J. R., Komala, N., Maata, M., Mohamad, M. B., Nguyo, J., Mutai, C., Ogino, S. Y., Da Silva, F. R., Leme, N. M. P., Posny, F., Scheele, R., Selkirk, H. B., Shiotani, M., Stubi, R., Levrat, G., Calpini, B., Thouret, V., Tsuruta, H., Canossa, J. V., Vomel, H., Yonemura, S., Diaz, J. A., Thanh, N. T. T., and Ha, H. T. T.: Southern Hemisphere Additional Ozonesondes (SHADOZ) ozone climatology (2005–2009): Tropospheric and tropical tropopause layer (TTL) profiles with comparisons to OMI-based ozone products, J. Geophys. Res.-Atmos., 117, D23301, https://doi.org/10.1029/2011JD016911, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.5194/acp-15-3021-2015</doi>
+              <unstructured_citation>Tummon, F., Hassler, B., Harris, N. R. P., Staehelin, J., Steinbrecht, W., Anderson, J., Bodeker, G. E., Bourassa, A., Davis, S. M., Degenstein, D., Frith, S. M., Froidevaux, L., Kyrölä, E., Laine, M., Long, C., Penckwitt, A. A., Sioris, C. E., Rosenlof, K. H., Roth, C., Wang, H.-J., and Wild, J.: Intercomparison of vertically resolved merged satellite ozone data sets: interannual variability and long-term trends, Atmos. Chem. Phys., 15, 3021–3043, https://doi.org/10.5194/acp-15-3021-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1029/2007JD008698</doi>
+              <unstructured_citation>Vömel, H., Barnes, J. E., Forno, R. N., Fujiwara, M., Hasebe, F., Iwasaki, S., Kivi, R., Komala, N., Kyro, E., Leblanc, T., Morel, B., Ogino, S. Y., Read, W. G., Ryan, S. C., Saraspriya, S., Selkirk, H., Shiotani, M., Canossa, J. V., and Whiteman, D. N.: Validation of Aura Microwave Limb Sounder water vapor by balloon-borne Cryogenic Frost point Hygrometer measurements, J. Geophys. Res.-Atmos., 112, D24s37, https://doi.org/10.1029/2007jd008698, 2007a.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1029/2006JD007224</doi>
+              <unstructured_citation>Vömel, H., David, D. E., and Smith, K.: Accuracy of tropospheric and stratospheric water vapor measurements by the cryogenic frost point hygrometer: Instrumental details and observations, J. Geophys. Res.-Atmos., 112, D08305 https://doi.org/10.1029/2006JD007224, 2007b.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1029/2002JD002418</doi>
+              <unstructured_citation>Wang, H. J., Cunnold, D. M., Thomason, L. W., Zawodny, J. M., and Bodeker, G. E.: Assessment of SAGE version 6.1 ozone data quality, J. Geophys. Res., 107, https://doi.org/10.1029/2002JD002418, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Waters, J. W., Froidevaux, L., Harwood, R. S., Jarnot, R. F., Pickett, H. M., Read, W. G., Siegel, P. H., Cofield, R. E., Filipiak, M. J., Flower, D. A., Holden, J. R., Lau, G. K. K., Livesey, N. J., Manney, G. L., Pumphrey, H. C., Santee, M. L., Wu, D. L., Cuddy, D. T., Lay, R. R., Loo, M. S., Perun, V. S., Schwartz, M. J., Stek, P. C., Thurstans, R. P., Boyles, M. A., Chandra, K. M., Chavez, M. C., Chen, G. S., Chudasama, B. V., Dodge, R., Fuller, R. A., Girard, M. A., Jiang, J. H., Jiang, Y. B., Knosp, B. W., LaBelle, R. C., Lam, J. C., Lee, K. A., Miller, D., Oswald, J. E., Patel, N. C., Pukala, D. M., Quintero, O., Scaff, D. M., Van Snyder, W., Tope, M. C., Wagner, P. A., and Walch, M. J.: The Earth Observing System Microwave Limb Sounder (EOS MLS) on the Aura satellite, IEEE T. Geosci. Remote, 44, 1075–1092, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1029/91JD00517</doi>
+              <unstructured_citation>Zawodny, J. M. and McCormick, M. P.: Stratospheric Aerosol and Gas Experiment-Ii Measurements of the Quasi-Biennial Oscillations in Ozone and Nitrogen-Dioxide, J. Geophys. Res.-Atmos., 96, 9371–9377, https://doi.org/10.1029/91jd00517, 1991.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <titles>
+                <title>Stratospheric Water and OzOne Satellite Homogenized (SWOOSH) data set</title>
+              </titles>
+              <description>Data sets</description>
+              <doi>10.7289/V5TD9VBX</doi>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

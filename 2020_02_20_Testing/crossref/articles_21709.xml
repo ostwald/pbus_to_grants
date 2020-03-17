@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-11 06:14:04">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>18</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Sources and characteristics of summertime organic aerosol in the Colorado Front Range: perspective from measurements and WRF-Chem modeling</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Roya</given_name>
+              <surname>Bahreini</surname>
+              <ORCID>https://orcid.org/0000-0001-8292-5338</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ravan</given_name>
+              <surname>Ahmadov</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stu A.</given_name>
+              <surname>McKeen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kennedy T.</given_name>
+              <surname>Vu</surname>
+              <ORCID>https://orcid.org/0000-0002-3462-911X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justin H.</given_name>
+              <surname>Dingle</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eric C.</given_name>
+              <surname>Apel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Donald R.</given_name>
+              <surname>Blake</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicola</given_name>
+              <surname>Blake</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Teresa L.</given_name>
+              <surname>Campos</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chris</given_name>
+              <surname>Cantrell</surname>
+              <ORCID>https://orcid.org/0000-0002-3844-1560</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frank</given_name>
+              <surname>Flocke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alan</given_name>
+              <surname>Fried</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jessica B.</given_name>
+              <surname>Gilman</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alan J.</given_name>
+              <surname>Hills</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rebecca S.</given_name>
+              <surname>Hornbrook</surname>
+              <ORCID>https://orcid.org/0000-0002-6304-6554</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Greg</given_name>
+              <surname>Huey</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lisa</given_name>
+              <surname>Kaser</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian M.</given_name>
+              <surname>Lerner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roy L.</given_name>
+              <surname>Mauldin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Simone</given_name>
+              <surname>Meinardi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Denise D.</given_name>
+              <surname>Montzka</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dirk</given_name>
+              <surname>Richter</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jason R.</given_name>
+              <surname>Schroeder</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Meghan</given_name>
+              <surname>Stell</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David</given_name>
+              <surname>Tanner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James</given_name>
+              <surname>Walega</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Peter</given_name>
+              <surname>Weibring</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew</given_name>
+              <surname>Weinheimer</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The evolution of organic aerosols (OAs) and their precursors in the boundary layer (BL) of the Colorado Front Range during the Front Range Air Pollution and Photochemistry Éxperiment (FRAPPÉ, July–August 2014) was analyzed by in situ measurements and chemical transport modeling. Measurements indicated significant production of secondary OA (SOA), with enhancement ratio of OA with respect to carbon monoxide (CO) reaching 0.085±0.003<span class="thinspace"></span>µg<span class="thinspace"></span>m<sup>−3</sup> ppbv<sup>−1</sup>. At background mixing ratios of CO, up to  ∼ <span class="thinspace"></span>1.8<span class="thinspace"></span>µg<span class="thinspace"></span>m<sup>−3</sup> background OA was observed, suggesting significant non-combustion contribution to OA in the Front Range. The mean concentration of OA in plumes with a high influence of oil and natural gas (O&amp;amp;G) emissions was  ∼ <span class="thinspace"></span>40<span class="thinspace"></span>% higher than in urban-influenced plumes. Positive matrix factorization (PMF) confirmed a dominant contribution of secondary, oxygenated OA (OOA) in the boundary layer instead of fresh, hydrocarbon-like OA (HOA). Combinations of primary OA (POA) volatility assumptions, aging of semi-volatile species, and different emission estimates from the O&amp;amp;G sector were used in the Weather Research and Forecasting model coupled with Chemistry (WRF-Chem) simulation scenarios. The assumption of semi-volatile POA resulted in greater than a factor of 10 lower POA concentrations compared to PMF-resolved HOA. Including top-down modified O&amp;amp;G emissions resulted in substantially better agreements in modeled ethane, toluene, hydroxyl radical, and ozone compared to measurements in the high-O&amp;amp;G-influenced plumes. By including emissions from the O&amp;amp;G sector using the top-down approach, it was estimated that the O&amp;amp;G sector contributed to  &amp;lt; <span class="thinspace"></span>5<span class="thinspace"></span>% of total OA, but up to 38<span class="thinspace"></span>% of anthropogenic SOA (aSOA) in the region. The best agreement between the measured and simulated median OA was achieved by limiting the extent of biogenic hydrocarbon aging and consequently biogenic SOA (bSOA) production. Despite a lower production of bSOA in this scenario, contribution of bSOA to total SOA remained high at 40–54<span class="thinspace"></span>%. Future studies aiming at a better emissions characterization of POA and intermediate-volatility organic compounds (IVOCs) from the O&amp;amp;G sector are valuable.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>14</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>8293</first_page>
+            <last_page>8312</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Colorado Department of Public Health and Environment
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100007590</assertion>
+              </assertion>
+              <assertion name="award_number">6640-002</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-18-8293-2018</doi>
+            <resource>https://www.atmos-chem-phys.net/18/8293/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/18/8293/2018/acp-18-8293-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Abeleira, A., Pollack, I. B., Sive, B., Zhou, Y., Fischer, E. V., and Farmer, D. K.: Source characterization of volatile organic compounds in the Colorado Northern Front Range Metropolitan Area during spring and summer 2015, J. Geophys. Res.-Atmos., 122, 3595–3613, https://doi.org/10.1002/2016jd026227, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Adgate, J. L., Goldstein, B. D., and McKenzie, L. M.: Potential Public Health Hazards, Exposures and Health Effects from Unconventional Natural Gas Development, Environ. Sci. Technol., 48, 8307–8320, https://doi.org/10.1021/es404621d, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Ahmadov, R., McKeen, S., Trainer, M., Banta, R., Brewer, A., Brown, S., Edwards, P. M., de Gouw, J. A., Frost, G. J., Gilman, J., Helmig, D., Johnson, B., Karion, A., Koss, A., Langford, A., Lerner, B., Olson, J., Oltmans, S., Peischl, J., Pétron, G., Pichugina, Y., Roberts, J. M., Ryerson, T., Schnell, R., Senff, C., Sweeney, C., Thompson, C., Veres, P. R., Warneke, C., Wild, R., Williams, E. J., Yuan, B., and Zamora, R.: Understanding high wintertime ozone pollution events in an oil- and natural gas-producing region of the western US, Atmos. Chem. Phys., 15, 411–429, https://doi.org/10.5194/acp-15-411-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Ahmadov, R., McKeen, S. A., Robinson, A. L., Bahreini, R., Middlebrook, A. M., de Gouw, J. A., Meagher, J., Hsie, E.-Y., Edgerton, E., Shaw, S., and Trainer, M.: A volatility basis set model for summertime secondary organic aerosols over the eastern United States in 2006, J. Geophys. Res.-Atmos., 117, D06301, https://doi.org/10.1029/2011JD016831, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Apel, E. C., Hornbrook, R. S., Hills, A. J., Blake, N. J., Barth, M. C., Weinheimer, A., Cantrell, C., Rutledge, S. A., Basarab, B., Crawford, J., Diskin, G., Homeyer, C. R., Campos, T., Flocke, F., Fried, A., Blake, D. R., Brune, W., Pollack, I., Peischl, J., Ryerson, T., Wennberg, P. O., Crounse, J. D., Wisthaler, A., Mikoviny, T., Huey, G., Heikes, B., O'Sullivan, D., and Riemer, D. D.: Upper tropospheric ozone production from lightning NOx-impacted convection: Smoke ingestion case study from the DC3 campaign, J. Geophys. Res.-Atmos., 120, 2505–2523, https://doi.org/10.1002/2014JD022121, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Bahreini, R., Dunlea, E. J., Matthew, B. M., Simons, C., Docherty, K. S., DeCarlo, P. F., Jimenez, J. L., Brock, C. A., and Middlebrook, A. M.: Design and Operation of a Pressure-Controlled Inlet for Airborne Sampling with an Aerodynamic Aerosol Lens, Aerosol Sci. Technol., 42, 465–471, https://doi.org/10.1080/02786820802178514, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Bahreini, R., Ervens, B., Middlebrook, A. M., Warneke, C., de Gouw, J. A., DeCarlo, P. F., Jimenez, J. L., Atlas, E., Brioude, J., Brock, C. A., Fried, A., Holloway, J. S., Peischl, J., Richter, D., Ryerson, T. B., Stark, H., Walega, J., Weibring, P., Wollny, A. G., and Fehsenfeld, F. C.: Organic aerosol formation in urban and industrial plumes near Houston and Dallas, TX, J. Geophys. Res., 114, D00F16, https://doi.org/10.1029/2008JD011493, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Ban-Weiss, G. A., McLaughlin, J. P., Harley, R. A., Lunden, M. M., Kirchstetter, T. W., Kean, A. J., Strawa, A. W., Stevenson, E. D., and Kendall, G. R.: Long-term changes in emissions of nitrogen oxides and particulate matter from on-road gasoline and diesel vehicles, Atmos. Environ., 42, 220–232, https://doi.org/10.1016/j.atmosenv.2007.09.049, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Borbon, A., Gilman, J. B., Kuster, W. C., Grand, N., Chevaillier, S., Colomb, A., Dolgorouky, C., Gros, V., Lopez, M., Sarda-Esteve, R., Holloway, J., Stutz, J., Petetin, H., McKeen, S., Beekmann, M., Warneke, C., Parrish, D. D., and de Gouw, J. A.: Emission ratios of anthropogenic volatile organic compounds in northern mid-latitude megacities: Observations versus emission inventories in Los Angeles and Paris, J. Geophys. Res.-Atmos., 118, 2041–2057, https://doi.org/10.1002/jgrd.50059, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Encyclopaedia Britannica: Wet gas, available at: https://www.britannica.com/science/wet-gas (last access: 2018), 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Canagaratna, M. R., Jayne, J. T., Jimenez, J. L., Allan, J. D., Alfarra, M. R., Zhang, Q., Onasch, T. B., Drewnick, F., Coe, H., Middlebrook, A. M., Delia, A., Williams, L. R., Trimborn, A. M., Northway, M. J., DeCarlo, P. F., Kolb, C. E., Davidovits, P., and Worsnop, D. R.: Chemical and Microphysical Characterization of Ambient Aerosols with the Aerodyne Aerosol Mass Spectrometer, Mass Spectrom. Rev., 26, 185–222, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Carter, W. P. L. and Seinfeld, J. H.: Winter ozone formation and VOC incremental reactivities in the Upper Green River Basin of Wyoming, Atmos. Environ., 50, 255–266, https://doi.org/10.1016/j.atmosenv.2011.12.025, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Colman, J. J., Swanson, A. L., Meinardi, S., Sive, B. C., Blake, D. R., and Rowland, F. S.: Description of the analysis of a wide range of volatile organic compounds in whole air samples collected during PEM-Tropics A and B, Anal. Chem., 73, 3723–3731, https://doi.org/10.1021/ac010027g, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Day, D. A., Wooldridge, P. J., Dillon, M. B., Thornton, J. A., and Cohen, R. C.: A thermal dissociation laser-induced fluorescence instrument for in situ detection of NO2, peroxy nitrates, alkyl nitrates, and HNO3, J. Geophys. Res.-Atmos., 107, 4046, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>de Gouw, J. A., Brock, C. A., Atlas, E. L., Bates, T. S., Fehsenfeld, F. C., Goldan, P. D., Holloway, J. S., Kuster, W. C., Lerner, B. M., Matthew, B. M., Middlebrook, A. M., Onasch, T. B., Peltier, R. E., Quinn, P. K., Senff, C. J., Stohl, A., Sullivan, A. P., Trainer, M., Warneke, C., Weber, R. J., and Williams, E. J.: Sources of Particulate Matter in the Northeastern United States in Summer: 1. Direct Emissions and Secondary Formation of Organic Matter in Urban Plumes, J. Geophys. Res.-Atmos., 113, D08301, https://doi.org/10.1029/2007JD009243, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>de Gouw, J. A., Middlebrook, A. M., Warneke, C., Ahmadov, R., Atlas, E. L., Bahreini, R., Blake, D. R., Brock, C. A., Brioude, J., Fahey, D. W., Fehsenfeld, F. C., Holloway, J. S., Henaff, M. L., Lueb, R. A., McKeen, S. A., Meagher, J. F., Murphy, D. M., Paris, C., Parrish, D. D., Perring, A. E., Pollack, I. B., Ravishankara, A. R., Robinson, A. L., Ryerson, T. B., Schwarz, J. P., Spackman, J. R., Srinivisan, A., and Watts, L. A.: Organic Aerosol Formation Downwind from the Deepwater Horizon Oil Spill, Science, 331, 1295–1299, https://doi.org/10.1126/science.1200320, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>de Gouw, J. A. and Warneke, C.: Measurements of Volatile Organic Compounds in the Earth's Atmosphere Using Proton-Transfer-Reaction Mass Spectrometry, Mass Spectrom. Rev., 26, 223–257, https://doi.org/10.1002/mas.20119, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Dingle, J. H., Vu, K., Bahreini, R., Apel, E. C., Campos, T. L., Flocke, F., Fried, A., Herndon, S., Hills, A. J., Hornbrook, R. S., Huey, G., Kaser, L., Montzka, D. D., Nowak, J. B., Reeves, M., Richter, D., Roscioli, J. R., Shertz, S., Stell, M., Tanner, D., Tyndall, G., Walega, J., Weibring, P., and Weinheimer, A.: Aerosol optical extinction during the Front Range Air Pollution and Photochemistry Éxperiment (FRAPPÉ) 2014 summertime field campaign, Colorado, USA, Atmos. Chem. Phys., 16, 11207–11217, https://doi.org/10.5194/acp-16-11207-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Donahue, N. M. Robinson,, A. L., Stanier, C. O., and Pandis, S. N.: Coupled partitioning, dilution, and chemical aging of semivolatile organics, Environ. Sci. Technol., 40, 2635–2643, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Drewnick, F., Hings, S. S., DeCarlo, P., Jayne, J. T., Gonin, M., Fuhrer, K., Weimer, S., Jimenez, J. L., Borrmann, K. L. D. S., and Worsnop, D. R.: A new time-of-flight aerosol mass spectrometer (TOF-AMS) – Instrument description and first field deployment, Aerosol Sci. Technol., 39, 637–658, https://doi.org/10.1080/02786820500182040, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Edwards, P. M., Brown, S. S., Roberts, J. M., Ahmadov, R., Banta, R. M., deGouw, J. A., Dube, W. P., Field, R. A., Flynn, J. H., Gilman, J. B., Graus, M., Helmig, D., Koss, A., Langford, A. O., Lefer, B. L., Lerner, B. M., Li, R., Li, S. M., McKeen, S. A., Murphy, S. M., Parrish, D. D., Senff, C. J., Soltis, J., Stutz, J., Sweeney, C., Thompson, C. R., Trainer, M. K., Tsai, C., Veres, P. R., Washenfelder, R. A., Warneke, C., Wild, R. J., Young, C. J., Yuan, B., and Zamora, R.: High winter ozone pollution from carbonyl photolysis in an oil and gas basin, Nature, 514, p. 351, https://doi.org/10.1038/nature13767, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Ehn, M., Thornton, J. A., Kleist, E., Sipila, M., Junninen, H., Pullinen, I., Springer, M., Rubach, F., Tillmann, R., Lee, B., Lopez-Hilfiker, F., Andres, S., Acir, I.-H., Rissanen, M., Jokinen, T., Schobesberger, S., Kangasluoma, J., Kontkanen, J., Nieminen, T., Kurten, T., Nielsen, L. B., Jorgensen, S., Kjaergaard, H. G., Canagaratna, M., Maso, M. D., Berndt, T., Petaja, T., Wahner, A., Kerminen, V.-M., Kulmala, M., Worsnop, D. R., Wildt, J., and Mentel, T. F.: A large source of low-volatility secondary organic aerosol, Nature, 506, 476–479, https://doi.org/10.1038/nature13032, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Ensberg, J. J., Hayes, P. L., Jimenez, J. L., Gilman, J. B., Kuster, W. C., de Gouw, J. A., Holloway, J. S., Gordon, T. D., Jathar, S., Robinson, A. L., and Seinfeld, J. H.: Emission factor ratios, SOA mass yields, and the impact of vehicular emissions on SOA formation, Atmos. Chem. Phys., 14, 2383–2397, https://doi.org/10.5194/acp-14-2383-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Ervens, B. and Volkamer, R.: Glyoxal processing by aerosol multiphase chemistry: towards a kinetic modeling framework of secondary organic aerosol formation in aqueous particles, Atmos. Chem. Phys., 10, 8219–8244, https://doi.org/10.5194/acp-10-8219-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Fast, J. D., Allan, J., Bahreini, R., Craven, J., Emmons, L., Ferrare, R., Hayes, P. L., Hodzic, A., Holloway, J., Hostetler, C., Jimenez, J. L., Jonsson, H., Liu, S., Liu, Y., Metcalf, A., Middlebrook, A., Nowak, J., Pekour, M., Perring, A., Russell, L., Sedlacek, A., Seinfeld, J., Setyan, A., Shilling, J., Shrivastava, M., Springston, S., Song, C., Subramanian, R., Taylor, J. W., Vinoj, V., Yang, Q., Zaveri, R. A., and Zhang, Q.: Modeling regional aerosol and aerosol precursor variability over California and its sensitivity to emissions and long-range transport during the 2010 CalNex and CARES campaigns, Atmos. Chem. Phys., 14, 10013–10060, https://doi.org/10.5194/acp-14-10013-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Field, R. A., Soltis, J., McCarthy, M. C., Murphy, S., and Montague, D. C.: Influence of oil and gas field operations on spatial and temporal distributions of atmospheric non-methane hydrocarbons and their effect on ozone formation in winter, Atmos. Chem. Phys., 15, 3527–3542, https://doi.org/10.5194/acp-15-3527-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Field, R. A., Soltis, J., and Murphy, S.: Air quality concerns of unconventional oil and natural gas production, Environ. Sci.-Process. Imp., 16, 954–969, https://doi.org/10.1039/c4em00081a, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Gerbig, C., Schmitgen, S., Kley, D., Volz-Thomas, A., Dewey, K., and Haaks, D.: An improved fast-response vacuum-UV resonance fluorescence CO instrument, J. Geophys. Res.-Atmos., 104, 1699–1704, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Gilman, J. B., Lerner, B. M., Kuster, W. C., and de Gouw, J. A.: Source Signature of Volatile Organic Compounds from Oil and Natural Gas Operations in Northeastern Colorado, Environ. Sci. Technol., 47, 1297–1305, https://doi.org/10.1021/es304119a, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock, W. C., and Eder, B.: Fully coupled “online” chemistry within the WRF model, Atmos. Environ., 39, 6957–6975, https://doi.org/10.1016/j.atmosenv.2005.04.027, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Hallquist, M., Wenger, J. C., Baltensperger, U., Rudich, Y., Simpson, D., Claeys, M., Dommen, J., Donahue, N. M., George, C., Goldstein, A. H., Hamilton, J. F., Herrmann, H., Hoffmann, T., Iinuma, Y., Jang, M., Jenkin, M. E., Jimenez, J. L., Kiendler-Scharr, A., Maenhaut, W., McFiggans, G., Mentel, Th. F., Monod, A., Prévôt, A. S. H., Seinfeld, J. H., Surratt, J. D., Szmigielski, R., and Wildt, J.: The formation, properties and impact of secondary organic aerosol: current and emerging issues, Atmos. Chem. Phys., 9, 5155–5236, https://doi.org/10.5194/acp-9-5155-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Helmig, D., Rossabi, S., Hueber, J., Tans, P., Montzka, S. A., Masarie, K., Thoning, K., Plass-Duelmer, C., Claude, A., Carpenter, L. J., Lewis, A. C., Punjabi, S., Reimann, S., Vollmer, M. K., Steinbrecher, R., Hannigan, J., Emmons, L. K., Mahieu, E., Franco, B., Smale, D., and Pozzer, A.: Reversal of global atmospheric ethane and propane trends largely due to US oil and natural gas production, Nat. Geosci., 9, 490–495, https://doi.org/10.1038/ngeo2721, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Helmig, D., Thompson, C. R., Evans, J., Boylan, P., Hueber, J., and Park, J. H.: Highly Elevated Atmospheric Levels of Volatile Organic Compounds in the Uintah Basin, Utah, Environ. Sci. Technol., 48, 4707–4715, https://doi.org/10.1021/es405046r, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Hennigan, C. J., Miracolo, M. A., Engelhart, G. J., May, A. A., Presto, A. A., Lee, T., Sullivan, A. P., McMeeking, G. R., Coe, H., Wold, C. E., Hao, W.-M., Gilman, J. B., Kuster, W. C., de Gouw, J., Schichtel, B. A., Collett Jr., J. L., Kreidenweis, S. M., and Robinson, A. L.: Chemical and physical transformations of organic aerosol from the photo-oxidation of open biomass burning emissions in an environmental chamber, Atmos. Chem. Phys., 11, 7669–7686, https://doi.org/10.5194/acp-11-7669-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Hennigan, C. J., Sullivan, A. P., Collett, J. L., and Robinson, A. L.: Levoglucosan stability in biomass burning particles exposed to hydroxyl radicals, Geophys. Res. Lett., 37, L09806, https://doi.org/10.1029/2010gl043088, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Henze, D. K., Seinfeld, J. H., Ng, N. L., Kroll, J. H., Fu, T.-M., Jacob, D. J., and Heald, C. L.: Global modeling of secondary organic aerosol formation from aromatic hydrocarbons: high- vs. low-yield pathways, Atmos. Chem. Phys., 8, 2405–2420, https://doi.org/10.5194/acp-8-2405-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Hodzic, A. and Jimenez, J. L.: Modeling anthropogenically controlled secondary organic aerosols in a megacity: a simplified framework for global and climate models, Geosci. Model Dev., 4, 901–917, https://doi.org/10.5194/gmd-4-901-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Hodzic, A., Jimenez, J. L., Madronich, S., Canagaratna, M. R., DeCarlo, P. F., Kleinman, L., and Fast, J.: Modeling organic aerosols in a megacity: potential contribution of semi-volatile and intermediate volatility primary organic compounds to secondary organic aerosol formation, Atmos. Chem. Phys., 10, 5491–5514, https://doi.org/10.5194/acp-10-5491-2010, 2010a.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Hodzic, A., Jimenez, J. L., Madronich, S., Canagaratna, M. R., DeCarlo, P. F., Kleinman, L., and Fast, J.: Modeling organic aerosols in a megacity: potential contribution of semi-volatile and intermediate volatility primary organic compounds to secondary organic aerosol formation, Atmos. Chem. Phys., 10, 5491–5514, https://doi.org/10.5194/acp-10-5491-2010, 2010b.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Hornbrook, R. S., Crawford, J. H., Edwards, G. D., Goyea, O., Mauldin III, R. L., Olson, J. S., and Cantrell, C. A.: Measurements of tropospheric HO2 and RO2 by oxygen dilution modulation and chemical ionization mass spectrometry, Atmos. Meas. Tech., 4, 735–756, https://doi.org/10.5194/amt-4-735-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Huey, L. G., Dunlea, E. J., Lovejoy, E. R., Hanson, D. R., Norton, R. B., Fehsenfeld, F. C., and Howard, C. J.: A chemical ionization mass spectrometer for fast time response measurements of HNO3 in air, J. Geophys. Res.-Atmos., 103, 3355–3360, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Isaacman, G., Wilson, K. R., Chan, A. W. H., Worton, D. R., Kimmel, J. R., Nah, T., Hohaus, T., Gonin, M., Kroll, J. H., Worsnop, D. R., and Goldstein, A. H.: Improved Resolution of Hydrocarbon Structures and Constitutional Isomers in Complex Mixtures Using Gas Chromatography-Vacuum Ultraviolet-Mass Spectrometry, Anal. Chem., 84, 2335–2342, https://doi.org/10.1021/ac2030464, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Jathar, S. H., Friedman, B., Galang, A. A., Link, M. F., Brophy, P., Volckens, J., Eluri, S., and Farmer, D. K.: Linking Load, Fuel, and Emission Controls to Photochemical Production of Secondary Organic Aerosol from a Diesel Engine, Environ. Sci. Technol., 51, 1377–1386, https://doi.org/10.1021/acs.est.6b04602, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Jayne, J. T., Leard, D. C., Zhang, X., Davidovits, P., Smith, K. A., Kolb, C. E., and Worsnop, D. W.: Development of an Aerosol Mass Spectrometer for size and composition analysis of submicron particles, Aerosol Sci. Technol., 33, 49–70, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Kirchstetter, T. W., Preble, C. V., Hadley, O. L., Bond, T. C., and Apte, J. S.: Large reductions in urban black carbon concentrations in the United States between 1965 and 2000, Atmos. Environ., 151, 17–23, https://doi.org/10.1016/j.atmosenv.2016.11.001, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Koss, A., Yuan, B., Warneke, C., Gilman, J. B., Lerner, B. M., Veres, P. R., Peischl, J., Eilerman, S., Wild, R., Brown, S. S., Thompson, C. R., Ryerson, T., Hanisco, T., Wolfe, G. M., Clair, J. M. St., Thayer, M., Keutsch, F. N., Murphy, S., and de Gouw, J.: Observations of VOC emissions and photochemical products over US oil- and gas-producing regions using high-resolution H3O+ CIMS (PTR-ToF-MS), Atmos. Meas. Tech., 10, 2941–2968, https://doi.org/10.5194/amt-10-2941-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Koss, A. R., de Gouw, J., Warneke, C., Gilman, J. B., Lerner, B. M., Graus, M., Yuan, B., Edwards, P., Brown, S. S., Wild, R., Roberts, J. M., Bates, T. S., and Quinn, P. K.: Photochemical aging of volatile organic compounds associated with oil and natural gas extraction in the Uintah Basin, UT, during a wintertime ozone formation event, Atmos. Chem. Phys., 15, 5727–5741, https://doi.org/10.5194/acp-15-5727-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Kroll, J. H., Ng, N. L., Murphy, S. M., Flagan, R. C., and Seinfeld, J. H.: Secondary organic aerosol formation from isoprene photooxidation under high-NOx conditions, Geophys. Res. Lett., 32, L18808, https://doi.org/10.1029/2005GL023637, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Lim, Y. B. and Ziemann, P. J.: Products and mechanism of secondary organic aerosol formation from reactions of n-alkanes with OH radicals in the presence of NOx, Environ. Sci. Technol., 39, 9229-9236, https://doi.org/10.1021/es051447g, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Lindinger, W., Hansel, A., and Jordan, A.: On-line monitoring of volatile organic compounds at pptv levels by means of proton-transfer-reaction mass spectrometry (PTR-MS) medical applications, food control and environmental research, Int. J. Mass Spectrom., 173, 191–241, https://doi.org/10.1016/S0168-1176(97)00281-4, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Lopez-Hilfiker, F. D., Mohr, C., Ehn, M., Rubach, F., Kleist, E., Wildt, J., Mentel, Th. F., Lutz, A., Hallquist, M., Worsnop, D., and Thornton, J. A.: A novel method for online analysis of gas and particle composition: description and evaluation of a Filter Inlet for Gases and AEROsols (FIGAERO), Atmos. Meas. Tech., 7, 983–1001, https://doi.org/10.5194/amt-7-983-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Mauldin, R. L. I., Frost, G. J., Chen, G., Tanner, D. J., Prevot, A. S. H., Davis, D. D., and Eisele, F. L.: OH measurements during ACE-1: Observations and model comparisons, J. Geophys. Res., 103, 16713–16729, https://doi.org/10.1029/98JD00882, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>May, A. A., Presto, A. A., Hennigan, C. J., Nguyen, N. T., Gordon, T. D., and Robinson, A. L.: Gas-Particle Partitioning of Primary Organic Aerosol Emissions: (2) Diesel Vehicles, Environ. Sci. Technol., 47, 8288–8296, https://doi.org/10.1021/es400782j, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>McDuffie, E. E., Edwards, P. M., Gilman, J. B., Lerner, B. M., Dube, W. P., Trainer, M., Wolfe, D. E., Angevine, W. M., deGouw, J., Williams, E. J., Tevlin, A. G., Murphy, J. G., Fischer, E. V., McKeen, S., Ryerson, T. B., Peischl, J., Holloway, J. S., Aikin, K., Langford, A. O., Senff, C. J., Alvarez, R. J., Hall, S. R., Ullmann, K., Lantz, K. O., and Brown, S. S.: Influence of oil and gas emissions on summertime ozone in the Colorado Northern Front Range, J. Geophys. Res.-Atmos., 121, 8712–8729, https://doi.org/10.1002/2016jd025265, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>McLafferty, F. W. and Turecek, F.: Interpretation of Mass Spectra, Sausalito, CA, University Science Books, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Middlebrook, A. M., Bahreini, R., Jimenez, J. L., and Canagaratna, M. R.: Evaluation of composition-dependent collection efficiencies for the aerodyne aerosol mass spectrometer using field data, Aerosol Sci. Technol., 46, 258–271, 2012a.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Middlebrook, A. M., Murphy, D. M., Ahmadov, R., Atlas, E. L., Bahreini, R., Blake, D. R., Brioude, J., de Gouw, J. A., Fehsenfeld, F. C., Frost, G. J., Holloway, J. S., Lack, D. A., Langridge, J. M., Lueb, R. A., McKeen, S. A., Meagher, J. F., Meinardi, S., Neuman, J. A., Nowak, J. B., Parrish, D. D., Peischl, J., Perring, A. E., Pollack, I. B., Roberts, J. M., Ryerson, T. B., Schwarz, J. P., Spackman, J. R., Warneke, C., and Ravishankara, A. R.: Air quality implications of the Deepwater Horizon oil spill, P. Natl. Acad. Sci. USA, 109, 20280–20285, https://doi.org/10.1073/pnas.1110052108, 2012b.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Monks, P. S., Granier, C., Fuzzi, S., Stohl, A., Williams, M. L., Akimoto, H., Amann, M., Baklanov, A., Baltensperger, U., Bey, I., Blake, N., Blake, R. S., Carslaw, K., Cooper, O. R., Dentener, F., Fowler, D., Fragkou, E., Frost, G. J., Generoso, S., Ginoux, P., Grewe, V., Guenther, A., Hansson, H. C., Henne, S., Hjorth, J., Hofzumahaus, A., Huntrieser, H., Isaksen, I. S. A., Jenkin, M. E., Kaiser, J., Kanakidou, M., Klimont, Z., Kulmala, M., Laj, P., Lawrence, M. G., Lee, J. D., Liousse, C., Maione, M., McFiggans, G., Metzger, A., Mieville, A., Moussiopoulos, N., Orlando, J. J., O'Dowd, C. D., Palmer, P. I., Parrish, D. D., Petzold, A., Platt, U., Poschl, U., Prevot, A. S. H., Reeves, C. E., Reimann, S., Rudich, Y., Sellegri, K., Steinbrecher, R., Simpson, D., ten Brink, H., Theloke, J., van der Werf, G. R., Vautard, R., Vestreng, V., Vlachokostas, C., and von Glasow, R.: Atmospheric composition change – global and regional air quality, Atmos. Environ., 43, 5268–5350, https://doi.org/10.1016/j.atmosenv.2009.08.021, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>NASA: National Aeronautics and Space Administration, Airborne Science Data for Atmospheric composition, available at: http://www-air.larc.nasa.gov/cgi-bin/ArcView/discover-aq.co-2014?C130=1, last access: 11 April 2018.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Ng, N. L., Canagaratna, M. R., Jimenez, J. L., Zhang, Q., Ulbrich, I. M., and Worsnop, D. R.: Real-time methods for estimating organic component mass concentrations from aerosol mass spectrometer data, Environ. Sci. Technol., 45, 910–916, https://doi.org/10.1021/es102951k, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Ng, N. L., Canagaratna, M. R., Zhang, Q., Jimenez, J. L., Tian, J., Ulbrich, I. M., Kroll, J. H., Docherty, K. S., Chhabra, P. S., Bahreini, R., Murphy, S. M., Seinfeld, J. H., Hildebrandt, L., Donahue, N. M., DeCarlo, P. F., Lanz, V. A., Prévôt, A. S. H., Dinar, E., Rudich, Y., and Worsnop, D. R.: Organic aerosol components observed in Northern Hemispheric datasets from Aerosol Mass Spectrometry, Atmos. Chem. Phys., 10, 4625–4641, https://doi.org/10.5194/acp-10-4625-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Ng, N. L., Chhabra, P. S., Chan, A. W. H., Surratt, J. D., Kroll, J. H., Kwan, A. J., McCabe, D. C., Wennberg, P. O., Sorooshian, A., Murphy, S. M., Dalleska, N. F., Flagan, R. C., and Seinfeld, J. H.: Effect of NOx level on secondary organic aerosol (SOA) formation from the photooxidation of terpenes, Atmos. Chem. Phys., 7, 5159–5174, https://doi.org/10.5194/acp-7-5159-2007, 2007a.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Ng, N. L., Kroll, J. H., Chan, A. W. H., Chhabra, P. S., Flagan, R. C., and Seinfeld, J. H.: Secondary organic aerosol formation from m-xylene, toluene, and benzene, Atmos. Chem. Phys., 7, 3909–3922, https://doi.org/10.5194/acp-7-3909-2007, 2007b.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Odum, J. R., Jungkamp, T. P. W., Griffin, R. J., Flagan, R. C., and Seinfeld, J. H.: The atmospheric aerosol-forming potential of whole gasoline vapor, Science, 276, 96–99, https://doi.org/10.1126/science.276.5309.96, 1997a.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Odum, J. R., Jungkamp, T. P. W., Griffin, R. J., Forstner, H. J. L., Flagan, R. C., and Seinfeld, J. H.: Aromatics, reformulated gasoline, and atmospheric organic aerosol formation, Environ. Sci. Technol., 31, 1890–1897, 1997b.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Paatero, P.: A weighted non-negative least squares algorithm for three-way 'PARAFAC' factor analysis, Chemometr Intell Lab, 38, 223–242, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Paatero, P. and Tapper, U.: Positive Matrix Factorization – a Nonnegative Factor Model with Optimal Utilization of Error-Estimates of Data Values, Environmetrics, 5, 111–112, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Parrish, D. D., Trainer, M., Hereid, D., Williams, E. J., Olszyna, K. J., Harley, R. A., Meagher, J. F., and Fehsenfeld, F. C.: Decadal change in carbon monoxide to nitrogen oxide ratio in US vehicular emissions, J. Geophys. Res.-Atmos., 107, D12, https://doi.org/10.1029/2001JD000720, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Peischl, J., Ryerson T. B., Holloway, J. S., Parrish, D. D., Trainer, M., Frost, G. J., Aikin, K. C., Brown, S. S., Dube, W. P., Stark, H., and Fehsenfeld, F. C.: A top-down analysis of emissions from selected Texas power plants during TexAQS 2000 and 2006, J. Geophys. Res.-Atmos., 115, D16303, https://doi.org/10.1029/2009jd013527, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Pekney, N. J., Veloski, G., Reeder, M., Tamilia, J., Rupp, E., and Wetzel, A.: Measurement of atmospheric pollutants associated with oil and natural gas exploration and production activity in Pennsylvania's Allegheny National Forest, J. Air Waste Manage. Assoc., 64, 1062–1072, https://doi.org/10.1080/10962247.2014.897270, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Petron, G., Frost, G., Miller, B. R., Hirsch, A. I., Montzka, S. A., Karion, A., Trainer, M., Sweeney, C., Andrews, A. E., Miller, L., Kofler, J., Bar-Ilan, A., Dlugokencky, E. J., Patrick, L., Moore, C. T., Ryerson, T. B., Siso, C., Kolodzey, W., Lang, P. M., Conway, T., Novelli, P., Masarie, K., Hall, B., Guenther, D., Kitzis, D., Miller, J., Welsh, D., Wolfe, D., Neff, W., and Tans, P.: Hydrocarbon emissions characterization in the Colorado Front Range: A pilot study, J. Geophys. Res., 117, D04304, https://doi.org/10.1029/2011jd016360, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <unstructured_citation>Petron, G., Karion, A., Sweeney, C., Miller, B. R., Montzka, S. A., Frost, G. J., Trainer, M., Tans, P., Andrews, A., Kofler, J., Helmig, D., Guenther, D., Dlugokencky, E., Lang, P., Newberger, T., Wolter, S., Hall, B., Novelli, P., Brewer, A., Conley, S., Hardesty, M., Banta, R., White, A., Noone, D., Wolfe, D., and Schnell, R.: A new look at methane and nonmethane hydrocarbon emissions from oil and natural gas operations in the Colorado Denver-Julesburg Basin, J. Geophys. Res.-Atmos., 119, 6836–6852, https://doi.org/10.1002/2013jd021272, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Pfister, G., Flocke, F., Hornbrook, R., Orlando, J., Lee, S., and Schroeder, J.: Process-Based and Regional Source Impact Analysis for FRAPPÉ and DISCOVER – AQ 2014, available at: https://www.colorado.gov/airquality/tech_doc_repository.aspx?action=open&amp;amp;amp;file=FRAPPE-NCAR_Final_Report_July2017.pdf, last access: 5 December 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Powers, J. G., Klemp, J. B., Skamarock, W. C., Davis, C. A., Dudhia, J., Gill, D. O., Coen, J. L., Gochis, D. J., Ahmadov, R., Peckham, S. E., Grell, G. A., Michalakes, J., Trahan, S., Benjamin, S. G., Alexander, C. R., Dimego, G. J., Wang, W., Schwartz, C. S., Romine, G. S., Liu, Z. Q., Snyder, C., Chen, F., Barlage, M. J., Yu, W., and Duda, M. G.: THE WEATHER RESEARCH AND FORECASTING MODEL Overview, System Efforts, and Future Directions, B. Am. Meteorol. Soc., 8, 1717–1737, https://doi.org/10.1175/bams-d-15-00308.1, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Prenni, A. J., Day, D. E., Evanoski-Cole, A. R., Sive, B. C., Hecobian, A., Zhou, Y., Gebhart, K. A., Hand, J. L., Sullivan, A. P., Li, Y., Schurman, M. I., Desyaterik, Y., Malm, W. C., Collett Jr., J. L., and Schichtel, B. A.: Oil and gas impacts on air quality in federal lands in the Bakken region: an overview of the Bakken Air Quality Study and first results, Atmos. Chem. Phys., 16, 1401–1416, https://doi.org/10.5194/acp-16-1401-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <unstructured_citation>Rappenglück, B., Ackermann, L., Alvarez, S., Golovko, J., Buhr, M., Field, R. A., Soltis, J., Montague, D. C., Hauze, B., Adamson, S., Risch, D., Wilkerson, G., Bush, D., Stoeckenius, T., and Keslar, C.: Strong wintertime ozone events in the Upper Green River basin, Wyoming, Atmos. Chem. Phys., 14, 4909–4934, https://doi.org/10.5194/acp-14-4909-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Ren, X., Mao, J., Brune, W. H., Cantrell, C. A., Mauldin III, R. L., Hornbrook, R. S., Kosciuch, E., Olson, J. R., Crawford, J. H., Chen, G., and Singh, H. B.: Airborne intercomparison of HOx measurements using laser-induced fluorescence and chemical ionization mass spectrometry during ARCTAS, Atmos. Meas. Tech., 5, 2025–2037, https://doi.org/10.5194/amt-5-2025-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Richter, D., Weibring, P., Walega, J., Fried, A., Spuler, S. M., and Taubmans, M. S.: Compact highly sensitive multi-species airborne mid-IR spectrometer, Appl. Phys. B, 119, https://doi.org/10.1007/s00340-015-6038-8, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Ridley, B., Ott, L., Pickering, K., Emmons, L., Montzka. D., Weinheimer. A., Knapp. D., Grahek. F., Li. L., Heymsfield. G., McGill. M., Kucera. P., Mahoney. M. J., Baumgardner, D., Schultz, M., and Brasseur, G.: Florida thunderstorms: A faucet of reactive nitrogen to the upper troposphere, J. Geophys. Res.-Atmos., 109, D17305, https://doi.org/10.1029/2004JD004769, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Rocky Mountain Energy Forum: Wattenberg Field, available at: http://www.rockymountainenergyforum.com/ topics/wattenberg-field, last access: 20 June 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Rutter, A. P., Griffin, R. J., Cevik, B. K., Shakya, K. M., Gong, L. W., Kim, S., Flynn, J. H., and Lefer, B. L.: Sources of air pollution in a region of oil and gas exploration downwind of a large city, Atmos. Environ., 120, 89–99, https://doi.org/10.1016/j.atmosenv.2015.08.073, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Sather, M. E. and Cavender, K.: Update of long-term trends analysis of ambient 8-hour ozone and precursor monitoring data in the South Central U.S.; encouraging news, J. Environ. Monit., 14, 666–676, https://doi.org/10.1039/c2em10862c, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Shrivastava, M., Fast, J., Easter, R., Gustafson Jr., W. I., Zaveri, R. A., Jimenez, J. L., Saide, P., and Hodzic, A.: Modeling organic aerosols in a megacity: comparison of simple and complex representations of the volatility basis set approach, Atmos. Chem. Phys., 11, 6639–6662, https://doi.org/10.5194/acp-11-6639-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Sullivan, J. T., McGee, T. J., Langford, A. O., Alvarez II, R. J., Senff, C. J., Reddy, P. J., Thompson, A. M., Twigg, L. W., Sumnicht, G. K., Lee, P., Weinheimer, A., Knote, C., Long, R. W., and Hoff, R. M.: Quantifying the contributio of thermally drivern recirculation to a high-ozone event along the Colorado Front Range using lidar, J. Geophys. Res.-Atmos., 121, 10377–10390, https://doi.org/10.1002/2016JD025229, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Swarthout, R. F., Russo, R. S., Zhou, Y., Hart, A. H., and Sive, B. C.: ”Volatile organic compound distributions during the NACHTT campaign at the Boulder Atmospheric Observatory: Influence of urban and natural gas sources, J. Geophys. Res.-Atmos., 118, 10614–10637, https://doi.org/10.1002/jgrd.50722, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Swarthout, R. F., Russo, R. S., Zhou, Y., Miller, B. M., Mitchell, B., Horsman, E., Lipsky, E., McCabe, D. C., Baum, E., and Sive, B. C.: Impact of Marcellus Shale Natural Gas Development in Southwest Pennsylvania on Volatile Organic Compound Emissions and Regional Air Quality, Environ. Sci. Technol., 49, 3175–3184, https://doi.org/10.1021/es504315f, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Tsimpidi, A. P., Karydis, V. A., Zavala, M., Lei, W., Molina, L., Ulbrich, I. M., Jimenez, J. L., and Pandis, S. N.: Evaluation of the volatility basis-set approach for the simulation of organic aerosol formation in the Mexico City metropolitan area, Atmos. Chem. Phys., 10, 525–546, https://doi.org/10.5194/acp-10-525-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Ulbrich, I. M., Canagaratna, M. R., Zhang, Q., Worsnop, D. R., and Jimenez, J. L.: Interpretation of organic components from Positive Matrix Factorization of aerosol mass spectrometric data, Atmos. Chem. Phys., 9, 2891–2918, https://doi.org/10.5194/acp-9-2891-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>USEDC (U.S. Energy Development Corporation): Natural gas: dry vs. wet, available at: http://www.usenergydevcorp.com/media_downloads/Natural%20Gas%20Dry%20Vs%20Wet_050913.pdf, last access: 20 June 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <unstructured_citation>Vu, K. T., Dingle, J. H., Bahreini, R., Reddy, P. J., Apel, E. C., Campos, T. L., DiGangi, J. P., Diskin, G. S., Fried, A., Herndon, S. C., Hills, A. J., Hornbrook, R. S., Huey, G., Kaser, L., Montzka, D. D., Nowak, J. B., Pusede, S. E., Richter, D., Roscioli, J. R., Sachse, G. W., Shertz, S., Stell, M., Tanner, D., Tyndall, G. S., Walega, J., Weibring, P., Weinheimer, A. J., Pfister, G., and Flocke, F.: Impacts of the Denver Cyclone on regional air quality and aerosol formation in the Colorado Front Range during FRAPPÉ 2014, Atmos. Chem. Phys., 16, 12039–12058, https://doi.org/10.5194/acp-16-12039-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Warneke, C., de Gouw, J. A., Edwards, P. M., Holloway, J. S., Gilman, J. B., Kuster, W. C., Graus, M., Atlas, E., Blake, D., Gentner, D. R., Goldstein, A. H., Harley, R. A., Alvarez, S., Rappenglueck, B., Trainer, M., and Parrish, D. D.: Photochemical aging of volatile organic compounds in the Los Angeles basin: Weekday-weekend effect, J. Geophys. Res.-Atmos., 118, 5018–5028, https://doi.org/10.1002/jgrd.50423, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <unstructured_citation>Warneke, C., deGouw, J. A., Holloway, J. S., Peischl, J., Ryerson, T. B., Atlas, E., Blake, D., Trainer, M., and Parrish, D. D.: Multiyear trends in volatile organic compounds in Los Angeles, California: Five decades of decreasing emissions, J. Geophys. Res., 117, D00V17, https://doi.org/10.1029/2012JD017899, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <unstructured_citation>Warneke, C., Geiger, F., Edwards, P. M., Dube, W., Pétron, G., Kofler, J., Zahn, A., Brown, S. S., Graus, M., Gilman, J. B., Lerner, B. M., Peischl, J., Ryerson, T. B., de Gouw, J. A., and Roberts, J. M.: Volatile organic compound emissions from the oil and natural gas industry in the Uintah Basin, Utah: oil and gas well pad emissions compared to ambient air composition, Atmos. Chem. Phys., 14, 10977–10988, https://doi.org/10.5194/acp-14-10977-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>Warneke, C., McKeen, S. A., deGouw, J. A., Goldan, P. D., Kuster, W. C., Holloway, J. S., Williams, E. J., Lerner, B. M., Parrish, D. D., Trainer, M., Fehsenfeld, F. C., Kato, S., Atlas, E. L., Baker, A., and Blake, D. R.: Determination of urban volatile organic compound emission ratios and comparison with an emissions database, J. Geophys. Res.-Atmos., 112, D10S47, https://doi.org/10.1029/2006JD007930, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <unstructured_citation>Williams, B. J., Jayne, J. T., Lambe, A. T., Hohaus, T., Kimmel, J. R., Sueper, D., Brooks, W., Williams, L. R., Trimborn, A. M., Martinez, R. E., Hayes, P. L., Jimenez, J. L., Kreisberg, N. M., Hering, S. V., Worton, D. R., Goldstein, A. H., and Worsnop, D. R.: The First Combined Thermal Desorption Aerosol Gas Chromatograph-Aerosol Mass Spectrometer (TAG-AMS), Aerosol Sci. Technol., 48, 358–370, https://doi.org/10.1080/02786826.2013.875114, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Yatavelli, R. L. N., Lopez-Hilfiker, F., Wargo, J. D., Kimmel, J. R., Cubison, M. J., Bertram, T. H., Jimenez, J. L., Gonin, M., Worsnop, D. R., and Thornton, J. A.: A Chemical Ionization High-Resolution Time-of-Flight Mass Spectrometer Coupled to a Micro Orifice Volatilization Impactor (MOVI-HRToF-CIMS) for Analysis of Gas and Particle-Phase Organic Species, Aerosol Sci. Technol., 46, 1313–1327, https://doi.org/10.1080/02786826.2012.712236, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <unstructured_citation>Zhang, Q., Jimenez, J. L., Canagaratna, M. R., Allan, J. D., Coe, H., Ulbrich, I., Alfarra, M. R., Takami, A., Middlebrook, A. M., Sun, Y. L., Dzepina, K., Dunlea, E., Docherty, K., DeCarlo, P. F., Salcedo, D., Onasch, T., Jayne, J. T., Miyoshi, T., Shimono, A., Hatakeyama, S., Takegawa, N., Kondo, Y., Schneider, J., Drewnick, F., Borrmann, S., Weimer, S., Demerjian, K., Williams, P., Bower, K., Bahreini, R., Cottrell, L., Griffin, R. J., Rautiainen, J., Sun, J. Y., Zhang, Y. M., and Worsnop, D. R.: Ubiquity and dominance of oxygenated species in organic aerosols in anthropogenically-influenced Northern Hemisphere midlatitudes, Geophys. Res. Lett., 34, L13801, https://doi.org/10.1029/2007GL029979, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <unstructured_citation>Zhang, Q., Jimenez, J. L., Canagaratna, M. R., Ulbrich, I. M., Ng, N. L., Worsnop, D. R., and Sun, Y.: Understanding atmospheric organic aerosols via factor analysis of aerosol mass spectrometry: a review, Anal. Bioanal. Chem., 401, 3045–3067, https://doi.org/10.1007/s00216-11-5355-y, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <unstructured_citation>Zheng, W., Flocke, F. M., Tyndall, G. S., Swanson, A., Orlando, J. J., Roberts, J. M., Huey, L. G., and Tanner, D. J.: Characterization of a thermal decomposition chemical ionization mass spectrometer for the measurement of peroxy acyl nitrates (PANs) in the atmosphere, Atmos. Chem. Phys., 11, 6529–6547, https://doi.org/10.5194/acp-11-6529-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <unstructured_citation>Zhou, W., Cohan, D. S., and Henderson, B. H.: Slower ozone production in Houston, Texas following emission reductions: evidence from Texas Air Quality Studies in 2000 and 2006, Atmos. Chem. Phys., 14, 2777–2788, https://doi.org/10.5194/acp-14-2777-2014, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-18-8293-2018-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/18/8293/2018/acp-18-8293-2018-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

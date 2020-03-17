@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-06-14 01:28:55">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A new roughness length parameterization accounting for wind–wave (mis)alignment</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Sara</given_name>
+              <surname>Porchetta</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Orkun</given_name>
+              <surname>Temel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Domingo</given_name>
+              <surname>Muñoz-Esparza</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joachim</given_name>
+              <surname>Reuder</surname>
+              <ORCID>https://orcid.org/0000-0002-0802-4838</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jaak</given_name>
+              <surname>Monbaliu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeroen</given_name>
+              <surname>van Beeck</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicole</given_name>
+              <surname>van Lipzig</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Two-way feedback occurs between offshore wind and waves.
+However, the influence of the waves on the wind profile remains understudied,
+in particular the momentum transfer between the sea surface and the
+atmosphere. Previous studies showed that for swell waves it is possible to
+have increasing wind speeds in case of aligned wind–wave directions. However,
+the opposite is valid for opposed wind–wave directions, where a decrease in
+wind velocity is observed. Up to now, this behavior has not been included in
+most numerical models due to the lack of an appropriate parameterization of
+the resulting effective roughness length. Using an extensive data set of
+offshore measurements in the North Sea and the Atlantic Ocean, we show that
+the wave roughness length affecting the wind is indeed dependent on the
+alignment between the wind and wave directions. Moreover, we propose a new
+roughness length parameterization, taking into account the dependence on
+alignment, consisting of an enhanced roughness length for increasing
+misalignment. Using this new roughness length parameterization in numerical
+models might facilitate a better representation of offshore wind, which is
+relevant to many applications including offshore wind energy and climate
+modeling.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>20</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>6681</first_page>
+            <last_page>6700</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Fonds Wetenschappelijk Onderzoek
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100003130</assertion>
+              </assertion>
+              <assertion name="award_number">162015</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-19-6681-2019</doi>
+            <resource>https://www.atmos-chem-phys.net/19/6681/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/19/6681/2019/acp-19-6681-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1007/s10546-004-1984-4</doi>
+              <unstructured_citation>Anfossi, D., Oettl, D., Degrazie, G., and Goulart, A.: An analysis of sonic
+anemometer observations in low wind speed conditions, Bound.-Lay. Meteorol.,
+114, 179–203, https://doi.org/10.1007/s10546-004-1984-4, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2008GL037030</doi>
+              <unstructured_citation>Ardhuin, F., Chapron, B., and Collard, F.: Observation of swell dissipation
+across oceans, Geophys. Res. Lett., 36, L06607, https://doi.org/10.1029/2008GL037030,
+2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1017/S1350482799000961</doi>
+              <unstructured_citation>Barthelmie, R. J.: The effects of atmospheric stability on coastal wind
+climates, Meteorol. Appl., 6, 39–47, https://doi.org/10.1017/S1350482799000961, 1991. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Beeken, A., Neumann, T., and Westerhellweg, A.: Five years of operation of
+the first offshore wind research platform in the German Bight – FINO1, 9th
+German Wind Energy Conference, DEWEK, Bremen, Germany
+17–18 November 2010, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.9753/icce.v34.management.33</doi>
+              <unstructured_citation>Bolaños, R., Larsén, X. G., Petersen, O. S., Nielsen, J. R., Kelly, M.,
+Kofoed-Hansen, H., Du, J., Sørensen, O. R., Larsen, S. E., Hahmann, A. N.,
+and Badger, M.: Coupling atmospher and waves for coastal wind turbine design,
+Proceeding of the Coastal Engineering Conference, Coastal Engineering
+Conference, Korea, 15–20 June, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1016/j.ocemod.2016.10.006</doi>
+              <unstructured_citation>Bruneau, N. and Toumi, R.: A fully coupled atmosphere-ocean-wave model of the
+Caspian Sea, Ocean Model., 107, 97–111, https://doi.org/10.1016/j.ocemod.2016.10.006,
+2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Cathelain, M.: Development of a deterministic numerical model for the study
+of the coupling between an atmospheric flow and a sea state, PhD, L'Univesite
+Bretagne Loire, Rennes, 222 pp., 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/qj.49708135027</doi>
+              <unstructured_citation>Charnock, H.: Wind stress on a water surface, Q. J. Roy. Meteor. Soc., 81,
+639–640, https://doi.org/10.1002/qj.49708135027, 1955. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/BAMS-88-3-311</doi>
+              <unstructured_citation>Chen, S. S., Price, J. F., Zhao, W., Donelan, M. A., and Walsh, E. J.: The
+CBLAST-Hurricane Program and the Next-Generation Fully Coupled
+Atmosphere-Wave-Ocean Models for Hurricane Research and Prediction, B. Am.
+Meteorol. Soc., 88, 311–317, https://doi.org/10.1175/BAMS-88-3-311, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1575/1912/2065</doi>
+              <unstructured_citation>Crofoot, R. F.: Investigations of scalar transfer coeficients in fog during
+the Coupled Boundary Layers and Air-Sea Transfer experiment: A case study, MS
+thesis, WHOI/MIT Joint Program, Dept. of Applied Ocean Physics and
+Engineering, Woodshole, Massachusetts, US, 72 pp., 2004. a</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Dobrynin, M., Murawsky, J., and Yang S.: Evolution of the global wind wave
+climate in CMIP5 experiments, Geophys. Res. Lett., 39, L18606,
+https://doi.org/10.1029/2012GL05284, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Donelan, M. A.: The sea: the air-sea interaction, in: Ocean Engineering
+Science, edited by: LeMehaute B. and Hanes D. M., Wiley and Sons, New York,
+1990. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Donelan, M. A.: The dependence of the aerodynamic drag coefficient on wave
+parameters, Proc. First Int. Conf. on the Meteorology and Air–Sea
+Interaction of the Coastal Zone, Amer. Meteor. Soc., The Hague, the
+Netherlands, 381–387, 1982. a</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2000JC000715</doi>
+              <unstructured_citation>Drennan, W. M., Graber, H. C., Hauser, D., and Quentin, C.: On the wave age
+dependence of wind stress over pure wind seas, J. Geophys. Res., 108, 8062,
+https://doi.org/10.1029/2000JC000715, 2003. a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, aa, ab, ac, ad</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/JPO2704.1</doi>
+              <unstructured_citation>Drennan, W. M., Taylor, P., and Yelland, M.: Parameterizing the Sea Surface
+Roughness, J. Phys. Oceanogr., 35, 835–848, https://doi.org/10.1175/JPO2704.1, 2005. a, b, c, d, e, f</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/BAMS-88-3-341</doi>
+              <unstructured_citation>Edson, J., Crawford, T., Crescenti, J., Farrar, T., Frew, N., Gerbi, G.,
+Helmis, C., Hristov, T., Khelif, D., Jessup, A., Jonsson, H., Li, M., Mahrt,
+L., McGilles, W., Plueddemann, A., Shen, L., Skyllingstad, E., Stanton, T.,
+Sullivan, P., Sun, J., Trowbridge, J., Vickers, D., Wang, S., Wang, Q.,
+Weller, R., Wilkin, J., Williams III, A. J., Yue, D. K. P., and Zappa, C.:
+The coupled boundary layers and air-sea transfer experiment in low winds, B.
+Am. Meteorol. Soc., 88, 341–356, https://doi.org/10.1175/BAMS-88-3-341, 2007. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>European Wind Energy Association: Wind in our Sails – The coming of Europe's
+offshore wind energy industry, European Wind Energy Association, Brussels,
+93 pp., 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/JCLI-D-11-00621.1</doi>
+              <unstructured_citation>Fan, Y., Lin, S.-J., Held, I. M., Yu, Z., and Tolman, H. L.: Global Ocean
+Surface Wave Simulation Using a Coupled-Atmosphere-Wave Model, J. Climate,
+25, 6233–6252, https://doi.org/10.1175/JCLI-D-11-00621.1, 2012. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/amt-7-2273-2014</doi>
+              <unstructured_citation>Fratini, G. and Mauder, M.: Towards a consistent eddy-covariance processing:
+an intercomparison of EddyPro and TK3, Atmos. Meas. Tech., 7, 2273–2281,
+https://doi.org/10.5194/amt-7-2273-2014, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/1520-0450-39.10.1770</doi>
+              <unstructured_citation>Frederickson, P. A., Davidson, K. L., Zeisse, C. R., and Bendall, C. S.:
+Estimating the refractive index structure parameter over the ocean using bulk
+methods, J. Appl. Meteorol., 19, 1770–1783,
+https://doi.org/10.1175/1520-0450-39.10.1770, 2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.3989/scimar.03615.19F</doi>
+              <unstructured_citation>García-Nava, H., Ocampo-Torres, F., and Hwang, P. A.: On the
+parameterization of the drag coefficient in mixed seas, Advances in Spanish
+Physical Oceanography, Scientia Marina, Barcelona, Spain, September 2012,
+177–186, https://doi.org/10.3989/scimar.03615.19F, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Grachev, A. A., Fairall, C. W., Hare, J. E., Edson, J. B., and Miller, S. D.:
+Wind Stress Vector over Ocean Waves, J. Phys. Oceanogr., 33, 2408–2429,
+https://doi.org/10.1175/1520-0485(2003)033&amp;amp;lt;2408:WSVOOW&amp;amp;gt;2.0.CO;2, 2003. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/j.icarus.2013.04.004</doi>
+              <unstructured_citation>Hayes, A. G., Lorenz, R. D., Donelan, M. A., Manga, M., Lunine, J. I.,
+Schneider, T., Lamb, J. M., Fisher, W. W., Graves, S. D., Tolman, H. I.,
+Aharonson, O., Encrenaz, P. J., Ventura, B., Casarano, D., and Notarnicola,
+C.: Wind driven capillary gravity waves on Titan's lakes: Hard to detect or
+non-existent?, Icarus, 255, 403–412, https://doi.org/10.1016/j.icarus.2013.04.004, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JAS-D-15-0139.1</doi>
+              <unstructured_citation>Högström, U., Sahleé, E., Smedman, A. S., Rutgersson, A., Nilsson, E.,
+Kahma, K. K., and Drennan, W. M.: Surface stress over the ocean in
+swell-dominated conditions during moderate winds, J. Atmos. Sci., 72,
+4777–4795, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Hsu, S. A.: A Dynamic Roughness equation and Its Application to Wind Stress
+Determination at the Air-Sea Interface, J. Phys. Oceanogr., 4, 116–120,
+https://doi.org/10.1175/1520-0485(1974)004&amp;amp;lt;0116:ADREAI&amp;amp;gt;2.0.CO;2, 1973. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Janssen, P. A. E. M.: Quasi-Linear Theory of Wind Wave Generation Applied to
+Wave Forecasting, J. Phys. Oceanogr., 21, 1631–1642,
+https://doi.org/10.1175/1520-0485(1991)021&amp;amp;lt;1631:QLTOWW&amp;amp;gt;2.0.CO;2, 1991. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/JAMC-D-17-0137.1</doi>
+              <unstructured_citation>Jiménez, P. A. and Dudhia, J.: On the Need to Modify the Sea Surface
+Roughness Formulation over Shallow Waters, J. Appl. Meteorol. Climatol., 57,
+1101–1110, https://doi.org/10.1175/JAMC-D-17-0137.1, 2018. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Johnson, H. K. J., Hoejstrup, J., Vested, H. J., and Larsen, S. E.:
+Dependence of sea surface roughness on wind waves, J. Phys. Oceanogr., 28,
+1702–1716, https://doi.org/10.1175/1520-0485(1998)028&amp;amp;lt;1702:OTDOSS&amp;amp;gt;2.0.CO;2, 1998. a</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1016/j.egypro.2013.07.168</doi>
+              <unstructured_citation>Kalvig, S. M., Manger, E., and Kverneland, R.: A method for wave driven wind
+simulations with CFD, Energy Procedia, DeepWind, Norway, 24–25 January, 35,
+148–156, 2013. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Katsaros, K. B., Smith, S. D., and Oost, W. H.: HEXOS, Humidity Exchange Over
+the Sea, a Program for Research on Water-Vapor and Droplet Fluxes from Sea to
+Air at Moderate to High Wind Speeds, B. Am. Meteorol. Soc., 68, 466–476,
+https://doi.org/10.1175/1520-0477(1987)068&amp;amp;lt;0466:HEOTSA&amp;amp;gt;2.0.CO;2, 1987. a</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1002/we.1544</doi>
+              <unstructured_citation>Larsén, X. G., Badger, J., Hahmann, A. N., and Mortensennn, N. G.: The
+selective dynamical downscaling methohd for extreme-wind atlases, Wind
+Energy, 17, 657–669, https://doi.org/10.1002/we.1544, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1007/s10546-017-0329-z</doi>
+              <unstructured_citation>Li, Q., Bou-Zeid, E., Vercauteren, N., and Parlange, M.: Signatures of
+Air-Wave Interactions Over a Large Lake, Bound.-Lay. Meteorol., 167,
+445–468, https://doi.org/10.1007/s10546-017-0329-z, 2018. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/2010MWR3396.1</doi>
+              <unstructured_citation>Liu, B., Liu, H., Xie, L., Guan, C., and Zhao, D.: A
+Coupled-Atmosphere-Wave-Ocean Modeling System: Simulation of the Intensity of
+an Idealized Tropical Cyclone, Mon. Weather Rev., 139, 132–152,
+https://doi.org/10.1175/2010MWR3396.1, 2011. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1007/BF00119414</doi>
+              <unstructured_citation>Maat, N., Kraan, C., and Oost, W. A.: The Roughness of Wind Waves,
+Bound.-Lay. Meteorol., 54, 89–103, https://doi.org/10.1007/BF00119414, 1991. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/amt-9-4915-2016</doi>
+              <unstructured_citation>Mammarella, I., Peltola, O., Nordbo, A., Järvi, L., and Rannik, Ü.:
+Quantifying the uncertainty of eddy covariance fluxes due to the use of
+different software packages and combinations of processing steps in two
+contrasting ecosystems, Atmos. Meas. Tech., 9, 4915–4933,
+https://doi.org/10.5194/amt-9-4915-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1016/j.icarus.2006.09.004</doi>
+              <unstructured_citation>Mitri, G., Showman, A. P., Luline, J., and Lorenz, R. D.: Hydrocarbon lakes
+on Titan, Icarus, 186, 385–394, https://doi.org/10.1016/j.icarus.2006.09.004, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1007/BF00713145</doi>
+              <unstructured_citation>Monbaliu, J.: On the use of the Donelan wave spectral parameter as a measure
+for the roughness of wind waves, Bound.-Lay. Meteorol., 67, 277–291,
+https://doi.org/10.1007/BF00713145, 1994. a</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1063/1.4769201</doi>
+              <unstructured_citation>Muñoz-Esparza, D., Cañadillas, B., Neumann, T., and van Beeck, J.:
+Turbulent fluxes, stability and shear in the offshore environment: Mesoscale
+modelling and field observations at FINO1, J. Renew. Sustain. Ener., 4,
+063136, https://doi.org/10.1063/1.4769201, 2012. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Muñoz-Esparza, D.: Multiscale modelling of atmospheric flows: towards
+improving therepresentation of boundary layer physics, PhD, Université
+Libre de Bruxelles, Bruxelles, 214 pp., 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1002/qj.1898</doi>
+              <unstructured_citation>Nilsson, E. O., Rutgersson, A., Smedman, A.-S., and Sullivan, P. P.:
+Convective boundary-layer structure in the presence of wind-following swell,
+Q. J. Roy. Meteorol. Soc., 138, 1476–1489, https://doi.org/10.1002/qj.1898, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1007/s10546-010-9561-5</doi>
+              <unstructured_citation>Ocampo-Torres, F. J., García-Nava, H., Durazo, R., Osuna, P., Díaz
+Méndez, G. M., and Graber, H. C.: The INTOA Experiment: A Study of
+Ocean-Atmosphere Interactions Under Moderate to Strong Offshore Winds and
+Opposing Swell Conditions in the Gulf of Tehuantepec, Mexico, Bound.-Lay.
+Meteorol., 138, 433–451, https://doi.org/10.1007/s10546-010-9561-5, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.2172/1322012</doi>
+              <unstructured_citation>Patton, E. G., Kosović, B., Sullivan, P., Dudhia, J., Mahrt, L., Zagar, M.,
+and Gulstad, L.: Impacts of stratification and non-equilibrium winds and
+waves on hub-height winds, Final Technical Report, University Corporation for
+Atmospheric Research &amp;amp;amp; National Center for Atmospheric Research, Boulder,
+Colorado, 48 pp., 2015. a, b, c, d, e, f, g, h, i</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Phillips, O. M.: Dynamics of the Upper Ocean, 2nd edn., Cambridge University
+Press, 336 pp., 1977. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Powers, J. G. and Stoelinga, M.: A coupled Air-Sea Mesoscale Model:
+Experiments in Atmospheric Sensitivity to Marine Roughness, Mon. Weather
+Rev., 128, 208–228, https://doi.org/10.1175/1520-0493(2000)128&amp;amp;lt;0208:ACASMM&amp;amp;gt;2.0.CO;2,
+2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/94JC02215</doi>
+              <unstructured_citation>Rieder, K. F., Smith, J. A., and Weller, R.: Observed directional
+characteristics of the wind, wind stress, and surface waves on the open
+ocean, J. Geophys. Res., 99, 589–596, https://doi.org/10.1029/94JC02215, 1994. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/2009JAS2952.1</doi>
+              <unstructured_citation>Smedman, A. S., Högström, U., Sahleé, E., Drennan, W. M., Kahma, K.
+K., Pettersson, H., and Zhang, F.: Observational study of marine atmospheric
+boundary layer characteristics during swell, J. Atmos. Sci., 66, 2747–2763,
+2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1007/BF00122064</doi>
+              <unstructured_citation>Smith, S. D., Anderson, R. J., Oost, W. A., Kraan, C., Maat, N., DeCosmo, J.,
+Katsaros, K. B., Davidson, K. L., Bumke, K., Hasse, L., and Chadwick, H. M.:
+Sea Surface Wind Stresses and Drag Coefficients: the HEXOS Program,
+Bound.-Lay. Meteorol., 60, 109–142, 1992. a</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Skamarock, W., Klemp, J., Dudhia, J., Gill, D., Barker, D., Duda, M., Huang,
+X., Wang, W., and Powers, J.: A description of the advanced research WRF
+version 3, NCAR Tech. Note NCAR/TN-475+STR, National Center for Atmospheric
+Research (NCAR), Boulder, CO, 2008. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Stull, R. B.: An introduction to Boundary Layer Meteorology, Kluwer Academic
+Publishers, Dordrecht/Boston/London, 670 pp., 1988. a</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1017/S0022112099006965</doi>
+              <unstructured_citation>Sullivan, P. P., McWilliams, J. C., and Moeng, C.-H.: Simulation of turbulent
+flow over idealized water waves, J. Fluid. Mech., 404, 47–85, 2000. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1175/2007JAS2427.1</doi>
+              <unstructured_citation>Sullivan, P. P., Edson, J. B., Hristov, T., and McWilliams, J. C.: Large-Eddy
+Simulations and Observation of Atmospheric Marine Boundary Layers above
+Nonequilibrium Surface Waves, J. Atmos. Sci., 65, 1225–1245,
+https://doi.org/10.1175/2007JAS2427.1, 2008. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Taylor, P. and Yelland, M.: The Dependence of Sea Surface Roughness on the
+Height and Steepness of the Waves, J. Phys. Oceanogr., 31, 572–590,
+https://doi.org/10.1175/1520-0485(2001)031&amp;amp;lt;0572:TDOSSR&amp;amp;gt;2.0.CO;2, 2001. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1016/j.jweia.2018.01.002</doi>
+              <unstructured_citation>Temel, O., Bricteux, L., and van Beeck, J.: Coupled WRF-OpenFOAM study of
+wind flow over complex terrain, J. Wind Eng. Ind. Aerod., 174, 152–169,
+https://doi.org/10.1016/j.jweia.2018.01.002, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1023/A:1000472623187</doi>
+              <unstructured_citation>Vickers, D. and Mahrt, L.: Fetch limited drag coefficients, Bound.-Lay.
+Meteorol., 85, 53–79, https://doi.org/10.1023/A:1000472623187, 1997.
+ a, b</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1016/j.ocemod.2010.07.010</doi>
+              <unstructured_citation>Warner, J. C., Armstrong, B., He, R., and Zambon, J. B.: Development of a
+Coupled Ocean-Atmosphere-Wave-Sediment Transport (COAWST) Modeling System,
+Ocean Model., 35, 230–244, https://doi.org/10.1016/j.ocemod.2010.07.010, 2010. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1016/0167-6105(90)90007-Y</doi>
+              <unstructured_citation>Wijk, A. J. M., Beljaars, A. C. M., Holtslag, A. A. M., and Turkenburg, W.
+C.: Evalutaion of stability corrections in wind speed profiles over the North
+Sea, J. Wind Eng. Ind. Aerod., 33, 551–566,
+https://doi.org/10.1016/0167-6105(90)90007-Y, 1990. a</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>WindEurope Business Intelligence: The European offshore wind industry – Key
+trends and statistics 2016, Wind Europe, Brussels, 37 pp., 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1007/s11802-016-2804-4</doi>
+              <unstructured_citation>Zang, R., Huang, J., Wang, X., Zhang, J. A., and Huang, F.: Effects of
+Precipitation on Sonic Anemometer Measurements of Turbulent Fuxes in the
+Atmospheric Surface Layer, J. Ocean U. China 15, 389–398,
+https://doi.org/10.1007/s11802-016-2804-4, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Zeng, X., Zhao, M., and Dickinson, R.: Intercomparison of Bulk Aerodynamic
+Algorithms for the Computation of Sea Surface Fluxes Using TOGA COARE and TAO
+Data, J. Climate, 11, 2628–2644,
+https://doi.org/10.1175/1520-0442(1998)011&amp;amp;lt;2628:IOBAAF&amp;amp;gt;2.0.CO;2, 1998. a</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article corrigendum</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-19-6681-2019-corrigendum</doi>
+                <resource>https://www.atmos-chem-phys.net/19/6681/2019/acp-19-6681-2019-corrigendum.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

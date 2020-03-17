@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-27 07:50:35">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Nonlinear Processes in Geophysics</full_title>
+          <abbrev_title>Nonlin. Processes Geophys.</abbrev_title>
+          <issn media_type="electronic">1607-7946</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>25</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>OSSE for a sustainable marine observing network in the Sea of Marmara</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Ali</given_name>
+              <surname>Aydoğdu</surname>
+              <ORCID>https://orcid.org/0000-0002-1557-7502</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Timothy J.</given_name>
+              <surname>Hoar</surname>
+              <ORCID>https://orcid.org/0000-0001-7515-7510</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tomislava</given_name>
+              <surname>Vukicevic</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey L.</given_name>
+              <surname>Anderson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nadia</given_name>
+              <surname>Pinardi</surname>
+              <ORCID>https://orcid.org/0000-0003-4765-0775</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alicia</given_name>
+              <surname>Karspeck</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jonathan</given_name>
+              <surname>Hendricks</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nancy</given_name>
+              <surname>Collins</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Francesca</given_name>
+              <surname>Macchia</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Emin</given_name>
+              <surname>Özsoy</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> An observing system simulation experiment (OSSE) is presented in the Sea of Marmara. A high-resolution ocean circulation model (FESOM) and an ensemble data assimilation tool (DART) are coupled. The OSSE methodology is used to assess the possible impact of a FerryBox network in the eastern Sea of Marmara. A reference experiment without assimilation is performed. Then, synthetic temperature and salinity observations are assimilated along the track of the ferries in the second experiment. The results suggest that a FerryBox network in the Sea of Marmara has potential to improve the forecasts significantly. The salinity and temperature errors get smaller in the upper layer of the water column. The impact of the assimilation is negligible in the lower layer due to the strong stratification. The circulation in the Sea of Marmara, particularly the Bosphorus outflow, helps to propagate the error reduction towards the western basin where no assimilation is performed. Overall, the proposed FerryBox network can be a good start to designing an optimal sustained marine observing network in the Sea of Marmara for assimilation purposes.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>27</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>537</first_page>
+            <last_page>551</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/npg-25-537-2018</doi>
+            <resource>https://www.nonlin-processes-geophys.net/25/537/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.nonlin-processes-geophys.net/25/537/2018/npg-25-537-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Altıok, H., Sur, H. İ., and Yüce, H.: Variation of the cold intermediate water in the Black Sea exit of the Strait of Istanbul (Bosphorus) and its transfer through the strait, Oceanologia, 54, 233–254, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Anderson, J., Hoar, T., Raeder, K., Liu, H., Collins, N., Torn, R., and Avellano, A.: The data assimilation research testbed: A community facility, B. Am. Meteorol. Soc., 90, 1283–1296, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Anderson, J. L.: An ensemble adjustment Kalman filter for data assimilation, Mon. Weather Rev., 129, 2884–2903, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Anderson, J. L. and Anderson, S. L.: A Monte Carlo implementation of the nonlinear filtering problem to produce ensemble assimilations and forecasts, Mon. Weather Rev., 127, 2741–2758, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Arnold Jr., C. P. and Dey, C. H.: Observing-systems simulation experiments: Past, present, and future, B. Am. Meteorol. Soc., 67, 687–695, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Atlas, R.: Atmospheric observation and experiments to assess their usefulness in data assimilation, J. Meteor. Soc. Jpn, 75, 111–130, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Aydoğdu, A.: Advanced modeling and data assimilation methods for the design of sustained marine monitoring networks, Ph.D. thesis, Università Ca'Foscari Venezia, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/j.jmarsys.2016.03.002</doi>
+              <unstructured_citation>Aydoğdu, A., Pinardi, N., Pistoia, J., Martinelli, M., Belardinelli, A., and Sparnocchia, S.: Assimilation experiments for the Fishery Observing System in the Adriatic Sea, J. Mar. Syst., 162, 126–136, https://doi.org/10.1016/j.jmarsys.2016.03.002, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Beşiktepe, Ş. T., Sur, H. I., Özsoy, E., Latif, M. A., Oğuz, T., and Ünlüata, Ü.: The circulation and hydrography of the Marmara Sea, Prog. Oceanogr., 34, 285–334, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/2013JC009480</doi>
+              <unstructured_citation>Book, J. W., Jarosz, E., Chiggiato, J., and Beşiktepe, Ş.: The oceanic response of the Turkish Straits System to an extreme drop in atmospheric pressure, J. Geophys. Res.-Oceans, 119, 3629–3644, https://doi.org/10.1002/2013JC009480, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1007/s10236-011-0485-5</doi>
+              <unstructured_citation>Chiggiato, J., Jarosz, E., Book, J. W., Dykes, J., Torrisi, L., Poulain, P. M., Gerin, R., Horstmann, J., and Beşiktepe, Ş.: Dynamics of the circulation in the Sea of Marmara: Numerical modeling experiments and observations from the Turkish straits system experiment, Ocean Dynam., 62, 139–159, https://doi.org/10.1007/s10236-011-0485-5, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Danilov, S., Kivman, G., and Schröter, J.: A finite-element ocean model: principles and evaluation, Ocean Modell., 6, 125–150, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Gaspari, G. and Cohn, S. E.: Construction of correlation functions in two and three dimensions, Q. J. Roy. Meteorol. Soc., 125, 723–757, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1016/j.jmarsys.2011.02.020</doi>
+              <unstructured_citation>Grayek, S., Staneva, J., Schulz-Stellenfleth, J., Petersen, W., and Stanev, E. V.: Use of FerryBox surface temperature and salinity measurements to improve model based state estimates for the German Bight, J. Mar. Syst., 88, 45–59, https://doi.org/10.1016/j.jmarsys.2011.02.020, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Gürses, Ö., Aydoğdu, A., Pinardi, N., and Özsoy, E.: A finite element modeling study of the Turkish Straits System, in: The Sea of Marmara – Marine Biodiversity, Fisheries, Conservations and Governance, edited by: Öztürk, B., Çağatay, M. N., Balkis, N., Balkis, N., and Öztürk, B., 169–184, TUDAV Publication, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Halliwell Jr., G., Srinivasan, A., Kourafalou, V., Yang, H., Willey, D., Le Hénaff, M., and Atlas, R.: Rigorous evaluation of a fraternal twin ocean OSSE system for the Open Gulf of Mexico, J. Atmos. Ocean. Tech., 31, 105–130, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1016/j.pocean.2014.09.004</doi>
+              <unstructured_citation>Halliwell Jr., G., Kourafalou, V., Le Hénaff, M., Shay, L., and Atlas, R.: OSSE impact analysis of airborne ocean surveys for improving upper-ocean dynamical and thermodynamical forecasts in the Gulf of Mexico, Prog. Oceanogr., 130, 32–46, https://doi.org/10.1016/j.pocean.2014.09.004, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Hoteit, I., Hoar, T., Gopalakrishnan, G., Collins, N., Anderson, J., Cornuelle, B., Köhl, A., and Heimbach, P.: A MITgcm/DART ensemble analysis and prediction system with application to the Gulf of Mexico, Dynam. Atmos. Ocean., 63, 1–23, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Houtekamer, P. L. and Mitchell, H. L.: Data assimilation using an ensemble Kalman filter technique, Mon. Weather Rev., 126, 796–811, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Huang, R. X.: Real Freshwater Flux as a Natural Boundary Condition for the Salinity Balance and Thermohaline Circulation Forced by Evaporation and Precipitation, J. Phys. Oceanogr., 23, 2428–2446, https://doi.org/10.1175/1520-0485(1993)023&amp;amp;lt;2428:RFFAAN&amp;amp;gt;2.0.CO;2, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Hüsrevoğlu, S.: Modeling Of The Dardanelles Strait Lower-layer Flow Into The Marmara Sea, Master's thesis, Institute of Marine Sciences, METU, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2010JC006861</doi>
+              <unstructured_citation>Jarosz, E., Teague, W. J., Book, J. W., and Beşiktepe, Ş.: On flow variability in the Bosphorus Strait, J. Geophys. Res.-Oceans (1978–2012), 116, C08038, https://doi.org/10.1029/2010JC006861, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/2012JC008348</doi>
+              <unstructured_citation>Jarosz, E., Teague, W. J., Book, J. W., and Beşiktepe, Ş.: Observations on the characteristics of the exchange flow in the Dardanelles Strait, J. Geophys. Res.-Oceans, 117, c11012, https://doi.org/10.1029/2012JC008348, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JCLI-D-12-00402.1</doi>
+              <unstructured_citation>Karspeck, A. R., Yeager, S., Danabasoglu, G., Hoar, T., Collins, N., Raeder, K., Anderson, J., and Tribbia, J.: An Ensemble Adjustment Kalman Filter for the CCSM4 Ocean Component, J. Climate, 26, 7392–7413, https://doi.org/10.1175/JCLI-D-12-00402.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1016/j.jmarsys.2014.03.013</doi>
+              <unstructured_citation>Korres, G., Ntoumas, M., Potiris, M., and Petihakis, G.: Assimilating Ferry Box data into the Aegean Sea model, J. Mar. Syst., 140, 59–72, https://doi.org/10.1016/j.jmarsys.2014.03.013, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Masutani, M., Schlatter, T. W., Errico, R. M., Stoffelen, A., Andersson, E., Lahoz, W., Woollen, J. S., Emmitt, G. D., Riishøjgaard, L.-P., and Lord, S. J.: Observing system simulation experiments, in: Data Assimilation, 647–679, Springer, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Özsoy, E., Di Iorio, D., Gregg, M. C., and Backhaus, J. O.: Mixing in the Bosphorus Strait and the Black Sea continental shelf: observations and a model of the dense water outflow, J. Mar. Syst., 31, 99–135, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1016/j.jmarsys.2014.07.003</doi>
+              <unstructured_citation>Petersen, W.: FerryBox systems: State-of-the-art in Europe and future development, J. Mar. Syst., 140, Part A, 4–12, https://doi.org/10.1016/j.jmarsys.2014.07.003, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1175/JCLI-D-11-00395.1</doi>
+              <unstructured_citation>Raeder, K., Anderson, J. L., Collins, N., Hoar, T. J., Kay, J. E., Lauritzen, P. H., and Pincus, R.: DART/CAM: An Ensemble Data Assimilation System for CESM Atmospheric Models, J. Climate, 25, 6304–6317, https://doi.org/10.1175/JCLI-D-11-00395.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1007/s10236-017-1039-2</doi>
+              <unstructured_citation>Sannino, G., Sözer, A., and Özsoy, E.: A high-resolution modelling study of the Turkish Straits System, Ocean Dynam., 67, 397–432, https://doi.org/10.1007/s10236-017-1039-2, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/WAF-D-15-0103.1</doi>
+              <unstructured_citation>Schwartz, C. S., Romine, G. S., Sobash, R. A., Fossell, K. R., and Weisman, M. L.: NCAR's Experimental Real-Time Convection-Allowing Ensemble Prediction System, Weather Forecast., 30, 1645–1654, https://doi.org/10.1175/WAF-D-15-0103.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1016/j.ecss.2007.02.015</doi>
+              <unstructured_citation>Seppälä, J., Ylöstalo, P., Kaitala, S., Hällfors, S., Raateoja, M., and Maunula, P.: Ship-of-opportunity based phycocyanin fluorescence monitoring of the filamentous cyanobacteria bloom dynamics in the Baltic Sea, Estuarine, Coast. Shelf Sci., 73, 489–500, https://doi.org/10.1016/j.ecss.2007.02.015, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1080/01431160600815533</doi>
+              <unstructured_citation>Sørensen, K., Grung, M., and Röttgers, R.: An intercomparison of in vitro chlorophyll a determinations for MERIS level 2 data validation, Int. J. Remote Sens., 28, 537–554, https://doi.org/10.1080/01431160600815533, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Sözer, A. and Özsoy, E.: Modeling of the Bosphorus exchange flow dynamics, Ocean Dynam., 1–23, https://doi.org/10.1007/s10236-016-1026-z, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Stanev, E. V., Grashorn, S., and Zhang, Y. J.: Cascading ocean basins: numerical simulations of the circulation and interbasin exchange in the Azov-Black-Marmara-Mediterranean Seas system, Ocean Dynam., 1–23, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Tuğrul, S., Beşiktepe, T., and Salihoğlu, I.: Nutrient exchange fluxes between the Aegean and Black Seas through the Marmara Sea, Mediterranean Marine Science, 3, 33–42, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Ünlüata, Ü., Oğuz, T., Latif, M., and Özsoy, E.: On the physical oceanography of the Turkish Straits, in: The physical oceanography of sea straits, 25–60, Springer, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2007JC004482</doi>
+              <unstructured_citation>Wang, Q., Danilov, S., and Schröter, J.: Finite element ocean circulation model based on triangular prismatic elements, with application in studying the effect of topography representation, J. Geophys. Res.-Oceans (1978–2012), 113, C05015, https://doi.org/10.1029/2007JC004482, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-12 23:23:09">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>21</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Evaluation of a cosmic-ray neutron sensor network  for improved land surface model prediction</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Roland</given_name>
+              <surname>Baatz</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Harrie-Jan</given_name>
+              <surname>Hendricks Franssen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xujun</given_name>
+              <surname>Han</surname>
+              <ORCID>https://orcid.org/0000-0002-8290-9837</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tim</given_name>
+              <surname>Hoar</surname>
+              <ORCID>https://orcid.org/0000-0001-7515-7510</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Heye Reemt</given_name>
+              <surname>Bogena</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Harry</given_name>
+              <surname>Vereecken</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> In situ soil moisture sensors provide highly accurate but very local soil moisture measurements, while remotely sensed soil moisture is strongly affected by vegetation and surface roughness. In contrast, cosmic-ray neutron sensors (CRNSs) allow highly accurate soil moisture estimation on the field scale which could be valuable to improve land surface model predictions. In this study, the potential of a network of CRNSs installed in the 2354<span class="thinspace"></span>km<sup>2</sup> Rur catchment (Germany) for estimating soil hydraulic parameters and improving soil moisture states was tested. Data measured by the CRNSs were assimilated with the local ensemble transform Kalman filter in the Community Land Model version 4.5. Data of four, eight and nine CRNSs were assimilated for the years 2011 and 2012 (with and without soil hydraulic parameter estimation), followed by a verification year 2013 without data assimilation. This was done using (i) a regional high-resolution soil map, (ii) the FAO soil map and (iii) an erroneous, biased soil map as input information for the simulations. For the regional soil map, soil moisture characterization was only improved in the assimilation period but not in the verification period. For the FAO soil map and the biased soil map, soil moisture predictions improved strongly to a root mean square error of 0.03<span class="thinspace"></span>cm<sup>3</sup><span class="thinspace"></span>cm<sup>−3</sup> for the assimilation period and 0.05<span class="thinspace"></span>cm<sup>3</sup><span class="thinspace"></span>cm<sup>−3</sup> for the evaluation period. Improvements were limited by the measurement error of CRNSs (0.03<span class="thinspace"></span>cm<sup>3</sup><span class="thinspace"></span>cm<sup>−3</sup>). The positive results obtained with data assimilation of nine CRNSs were confirmed by the jackknife experiments with four and eight CRNSs used for assimilation. The results demonstrate that assimilated data of a CRNS network can improve the characterization of soil moisture content on the catchment scale by updating spatially distributed soil hydraulic parameters of a land surface model.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>16</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>2509</first_page>
+            <last_page>2530</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Deutsche Forschungsgemeinschaft
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001659</assertion>
+              </assertion>
+              <assertion name="award_number">TRR32</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-21-2509-2017</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/21/2509/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/21/2509/2017/hess-21-2509-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1002/2013WR014258</doi>
+              <unstructured_citation>Ajami, H., McCabe, M. F., Evans, J. P., and Stisen, S.: Assessing the impact of model spin-up on surface water-groundwater interactions using an integrated hydrologic model, Water Resour. Res., 50, 2636–2656, https://doi.org/10.1002/2013wr014258, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Anderson, J. L.: An ensemble adjustment Kalman filter for data assimilation, Mon. Weather Rev., 129, 2884–2903, https://doi.org/10.1175/1520-0493(2001)129&amp;amp;lt;2884:Aeakff&amp;amp;gt;2.0.Co;2, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/hess-20-3859-2016</doi>
+              <unstructured_citation>Avery, W. A., Finkenbiner, C., Franz, T. E., Wang, T. J., Nguy-Robertson, A. L., Suyker, A., Arkebauer, T., and Munoz-Arriola, F.: Incorporation of globally available datasets into the roving cosmic-ray neutron probe method for estimating field-scale soil water content, Hydrol. Earth Syst. Sci., 20, 3859–3872, https://doi.org/10.5194/hess-20-3859-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1016/j.jhydrol.2014.02.026</doi>
+              <unstructured_citation>Baatz, R., Bogena, H. R., Hendricks Franssen, H. J., Huisman, J. A., Qu, W., Montzka, C., and Vereecken, H.: Calibration of a catchment scale cosmic-ray probe network: A comparison of three parameterization methods, J. Hydrol., 516, 231–244, https://doi.org/10.1016/j.jhydrol.2014.02.026, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1002/2014WR016443</doi>
+              <unstructured_citation>Baatz, R., Bogena, H. R., Hendricks Franssen, H. J., Huisman, J. A., Montzka, C., and Vereecken, H.: An empirical vegetation correction for soil water content quantification using cosmic ray probes, Water Resour. Res., 51, 2030–2046, https://doi.org/10.1002/2014WR016443, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2011WR011542</doi>
+              <unstructured_citation>Bateni, S. M. and Entekhabi, D.: Surface heat flux estimation with the ensemble Kalman smoother: Joint estimation of state and parameters, Water Resour. Res., 48, W08521, https://doi.org/10.1029/2011wr011542, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/JHM-D-14-0158.1</doi>
+              <unstructured_citation>Best, M. J., Abramowitz, G., Johnson, H. R., Pitman, A. J., Balsamo, G., Boone, A., Cuntz, M., Decharme, B., Dirmeyer, P. A., Dong, J., Ek, M., Guo, Z., Haverd, V., Van den Hurk, B. J. J., Nearing, G. S., Pak, B., Peters-Lidard, C., Santanello, J. A., Stevens, L., and Vuichard, N.: The Plumbing of Land Surface Models: Benchmarking Model Performance, J. Hydrometeorol., 16, 1425–1442, https://doi.org/10.1175/Jhm-D-14-0158.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Bogena, H. R., Herbst, M., Hake, J. F., Kunkel, R., Montzka, C., Pütz, T., Vereecken, H., and Wendland, F.: MOSYRUR – Water balance analysis in the Rur basin, in: Schriften des Forschungszentrums Jülich, Reihe Umwelt/Environment, Forschungszentrum Jülich, Jülich, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1002/wrcr.20463</doi>
+              <unstructured_citation>Bogena, H. R., Huisman, J. A., Baatz, R., Hendricks-Franssen, H. J., and Vereecken, H.: Accuracy of the cosmic-ray soil water content probe in humid forest ecosystems: The worst case scenario, Water Resour. Res., 49, 5778–5791, https://doi.org/10.1002/wrcr.20463, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2000GB001360</doi>
+              <unstructured_citation>Bonan, G. B., Levis, S., Kergoat, L., and Oleson, K. W.: Landscapes as patches of plant functional types: An integrating concept for climate and ecosystem models, Global Biogeochem. Cy., 16, 1021, https://doi.org/10.1029/2000GB001360, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Brutsaert, W.: Hydrology: an introduction, Cambridge University Press, Cambridge, New York, 605 pp., 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Burgers, G., van Leeuwen, P. J., and Evensen, G.: Analysis scheme in the ensemble Kalman filter, Mon. Weather Rev., 126, 1719–1724, https://doi.org/10.1175/1520-0493(1998)126&amp;amp;lt;1719:Asitek&amp;amp;gt;2.0.Co;2, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/JAM2463.1</doi>
+              <unstructured_citation>Chen, F., Manning, K. W., LeMone, M. A., Trier, S. B., Alfieri, J. G., Roberts, R., Tewari, M., Niyogi, D., Horst, T. W., Oncley, S. P., Basara, J. B., and Blanken, P. D.: Description and evaluation of the characteristics of the NCAR high-resolution land data assimilation system, J. Appl. Meteorol. Clim., 46, 694–713, https://doi.org/10.1175/Jam2463.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1016/j.advwatres.2005.09.007</doi>
+              <unstructured_citation>Chen, Y. and Zhang, D. X.: Data assimilation for transient flow in geologic formations via ensemble Kalman filter, Adv. Water Resour., 29, 1107–1122, https://doi.org/10.1016/j.advwatres.2005.09.007, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/WR014i004p00601</doi>
+              <unstructured_citation>Clapp, R. B. and Hornberger, G. M.: Empirical Equations for Some Soil Hydraulic-Properties, Water Resour. Res., 14, 601–604, https://doi.org/10.1029/Wr014i004p00601, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/WR020i006p00682</doi>
+              <unstructured_citation>Cosby, B. J., Hornberger, G. M., Clapp, R. B., and Ginn, T. R.: A Statistical Exploration of the Relationships of Soil-Moisture Characteristics to the Physical-Properties of Soils, Water Resour. Res., 20, 682–690, https://doi.org/10.1029/Wr020i006p00682, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Crow, W. T.: Correcting land surface model predictions for the impact of temporally sparse rainfall rate measurements using an ensemble Kalman filter and surface brightness temperature observations, J. Hydrometeorol., 4, 960–973, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/2011RG000372</doi>
+              <unstructured_citation>Crow, W. T., Berg, A. A., Cosh, M. H., Loew, A., Mohanty, B. P., Panciera, R., de Rosnay, P., Ryu, D., and Walker, J. P.: Upscaling Sparse Ground-Based Soil Moisture Observations for the Validation of Coarse-Resolution Satellite Soil Moisture Products, Rev. Geophys., 50, Rg2002, https://doi.org/10.1029/2011rg000372, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/hess-20-4895-2016</doi>
+              <unstructured_citation>De Lannoy, G. J. M. and Reichle, R. H.: Assimilation of SMOS brightness temperatures or soil moisture retrievals into a land surface model, Hydrol. Earth Syst. Sci., 20, 4895–4911, https://doi.org/10.5194/hess-20-4895-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2011WR010588</doi>
+              <unstructured_citation>De Lannoy, G. J. M., Reichle, R. H., Arsenault, K. R., Houser, P. R., Kumar, S., Verhoest, N. E. C., and Pauwels, V. R. N.: Multiscale assimilation of Advanced Microwave Scanning Radiometer-EOS snow water equivalent and Moderate Resolution Imaging Spectroradiometer snow cover fraction observations in northern Colorado, Water Resour. Res., 48, W01522, https://doi.org/10.1029/2011wr010588, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2008JD011650</doi>
+              <unstructured_citation>Draper, C. S., Mahfouf, J. F., and Walker, J. P.: An EKF assimilation of AMSR-E soil moisture into the ISBA land surface scheme, J. Geophys. Res.-Atmos., 114, D20104, https://doi.org/10.1029/2008JD011650, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2004WR003449</doi>
+              <unstructured_citation>Dunne, S. and Entekhabi, D.: An ensemble-based reanalysis approach to land data assimilation, Water Resour. Res., 41, W02013, https://doi.org/10.1029/2004wr003449, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/97WR03499</doi>
+              <unstructured_citation>Eltahir, E. A. B.: A soil moisture rainfall feedback mechanism 1. Theory and observations, Water Resour. Res., 34, 765–776, https://doi.org/10.1029/97wr03499, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1002/2012WR013443</doi>
+              <unstructured_citation>Erdal, D., Neuweiler, I., and Wollschlager, U.: Using a bias aware EnKF to account for unresolved structure in an unsaturated zone model, Water Resour. Res., 50, 132–147, https://doi.org/10.1002/2012wr013443, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1016/j.advwatres.2015.09.008</doi>
+              <unstructured_citation>Erdal, D., Rahman, M. A., and Neuweiler, I.: The importance of state transformations when using the ensemble Kalman filter for unsaturated flow modeling: Dealing with strong nonlinearities, Adv. Water Resour., 86, 354–365, https://doi.org/10.1016/j.advwatres.2015.09.008, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1002/hyp.10929</doi>
+              <unstructured_citation>Evans, J. G., Ward, H. C., Blake, J. R., Hewitt, E. J., Morrison, R., Fry, M., Ball, L. A., Doughty, L. C., Libre, J. W., Hitt, O. E., Rylett, D., Ellis, R. J., Warwick, A. C., Brooks, M., Parkes, M. A., Wright, G. M. H., Singer, A. C., Boorman, D. B., and Jenkins, A.: Soil water content in southern England derived from a cosmic-ray soil moisture observing system – COSMOS-UK, Hydrol. Process., 30, 4987–4999, https://doi.org/10.1002/hyp.10929, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/94JC00572</doi>
+              <unstructured_citation>Evensen, G.: Sequential Data Assimilation with a Nonlinear Quasi-Geostrophic Model Using Monte-Carlo Methods to Forecast Error Statistics, J. Geophys. Res.-Oceans., 99, 10143–10162, https://doi.org/10.1029/94jc00572, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>FAO: ISRIC ISSCAS Harmonized World Soil Database v1.2, Rome, Italy, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2012WR011871</doi>
+              <unstructured_citation>Franz, T. E., Zreda, M., Ferre, T. P. A., Rosolem, R., Zweck, C., Stillman, S., Zeng, X., and Shuttleworth, W. J.: Measurement depth of the cosmic ray soil moisture probe affected by hydrogen from various sources, Water Resour. Res., 48, W08515, https://doi.org/10.1029/2012wr011871, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1002/wrcr.20530</doi>
+              <unstructured_citation>Franz, T. E., Zreda, M., Ferre, T. P. A., and Rosolem, R.: An assessment of the effect of horizontal soil moisture heterogeneity on the area-average measurement of cosmic-ray neutrons, Water Resour. Res., 49, 6450–6458, https://doi.org/10.1002/Wrcr.20530, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Geologischer Dienst Nordrhein-Westfalen: Informationssystem Bodenkarte 50, 1 : 50 000, Geologischer Dienst Nordrhein-Westfalen, Krefeld, Germany, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/hess-16-1349-2012</doi>
+              <unstructured_citation>Han, X., Li, X., Franssen, H. J. H., Vereecken, H., and Montzka, C.: Spatial horizontal correlation characteristics in the land data assimilation of soil moisture, Hydrol. Earth Syst. Sci., 16, 1349–1363, https://doi.org/10.5194/hess-16-1349-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/hess-19-615-2015</doi>
+              <unstructured_citation>Han, X., Franssen, H. J. H., Rosolem, R., Jin, R., Li, X., and Vereecken, H.: Correction of systematic model forcing bias of CLM using assimilation of cosmic-ray Neutrons and land surface temperature: a study in the Heihe Catchment, China, Hydrol. Earth Syst. Sci., 19, 615–629, https://doi.org/10.5194/hess-19-615-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.jhydrol.2016.05.050</doi>
+              <unstructured_citation>Han, X., Franssen, H. J. H., Bello, M. A. J., Rosolem, R., Bogena, H., Alzamora, F. M., Chanzy, A., and Vereecken, H.: Simultaneous Soil Moisture and Properties Estimation for a Drip Irrigated Field by Assimilating Cosmic-ray Neutron Intensity, J. Hydrol., 539, 611–624, https://doi.org/10.1016/j.jhydrol.2016.05.050, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.2136/vzj2012.0072</doi>
+              <unstructured_citation>Han, X. J., Franssen, H. J. H., Li, X., Zhang, Y. L., Montzka, C., and Vereecken, H.: Joint Assimilation of Surface Temperature and L-Band Microwave Brightness Temperature in Land Data Assimilation, Vadose Zone J., 12, 3, https://doi.org/10.2136/vzj2012.0072, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1002/2013WR014586</doi>
+              <unstructured_citation>Han, X. J., Franssen, H. J. H., Montzka, C., and Vereecken, H.: Soil moisture and soil properties estimation in the Community Land Model with synthetic brightness temperature observations, Water Resour. Res., 50, 6081–6105, https://doi.org/10.1002/2013WR014586, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1002/2013WR015138</doi>
+              <unstructured_citation>Hawdon, A., McJannet, D., and Wallace, J.: Calibration and correction procedures for cosmic-ray neutron soil moisture probes located across Australia, Water Resour. Res., 50, 5029–5043, https://doi.org/10.1002/2013WR015138, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2007WR006505</doi>
+              <unstructured_citation>Hendricks Franssen, H. J. and Kinzelbach, W.: Real-time groundwater flow modeling with the Ensemble Kalman Filter: Joint estimation of states and parameters and the filter inbreeding problem, Water Resour. Res., 44, W09408, https://doi.org/10.1029/2007wr006505, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1016/j.physd.2006.11.008</doi>
+              <unstructured_citation>Hunt, B. R., Kostelich, E. J., and Szunyogh, I.: Efficient data assimilation for spatiotemporal chaos: A local ensemble transform Kalman filter, Physica D, 230, 112–126, https://doi.org/10.1016/j.physd.2006.11.008, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/hess-19-3203-2015</doi>
+              <unstructured_citation>Iwema, J., Rosolem, R., Baatz, R., Wagener, T., and Bogena, H. R.: Investigating temporal field sampling strategies for site-specific calibration of three soil moisture-neutron intensity parameterisation methods, Hydrol. Earth Syst. Sci., 19, 3203–3216, https://doi.org/10.5194/hess-19-3203-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1109/36.789610</doi>
+              <unstructured_citation>Jackson, T. J., Le Vine, D. M., Hsu, A. Y., Oldak, A., Starks, P. J., Swift, C. T., Isham, J. D., and Haken, M.: Soil moisture mapping at regional scales using microwave radiometry: The Southern Great Plains Hydrology Experiment, IEEE T. Geosci. Remote, 37, 2136–2151, https://doi.org/10.1109/36.789610, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1109/TGRS.2012.2184548</doi>
+              <unstructured_citation>Kerr, Y. H., Waldteufel, P., Richaume, P., Wigneron, J. P., Ferrazzoli, P., Mahmoodi, A., Al Bitar, A., Cabot, F., Gruhier, C., Juglea, S. E., Leroux, D., Mialon, A., and Delwart, S.: The SMOS Soil Moisture Retrieval Algorithm, IEEE T. Geosci. Remote, 50, 1384–1403, https://doi.org/10.1109/Tgrs.2012.2184548, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1016/j.catena.2014.05.005</doi>
+              <unstructured_citation>Kirkpatrick, J. B., Green, K., Bridle, K. L., and Venn, S. E.: Patterns of variation in Australian alpine soils and their relationships to parent material, vegetation formation, climate and topography, Catena, 121, 186–194, https://doi.org/10.1016/j.catena.2014.05.005, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1002/2015WR017169</doi>
+              <unstructured_citation>Kohli, M., Schron, M., Zreda, M., Schmidt, U., Dietrich, P., and Zacharias, S.: Footprint characteristics revised for field-scale soil moisture monitoring with cosmic-ray neutrons, Water Resour. Res., 51, 5772–5790, https://doi.org/10.1002/2015WR017169, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1016/j.jhydrol.2014.11.042</doi>
+              <unstructured_citation>Korres, W., Reichenau, T. G., Fiener, P., Koyama, C. N., Bogena, H. R., Comelissen, T., Baatz, R., Herbst, M., Diekkruger, B., Vereecken, H., and Schneider, K.: Spatio-temporal soil moisture patterns – A meta-analysis using plot to catchment scale data, J. Hydrol., 520, 326–341, https://doi.org/10.1016/j.jhydrol.2014.11.042, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1126/science.1100217</doi>
+              <unstructured_citation>Koster, R. D., Dirmeyer, P. A., Guo, Z. C., Bonan, G., Chan, E., Cox, P., Gordon, C. T., Kanae, S., Kowalczyk, E., Lawrence, D., Liu, P., Lu, C. H., Malyshev, S., McAvaney, B., Mitchell, K., Mocko, D., Oki, T., Oleson, K., Pitman, A., Sud, Y. C., Taylor, C. M., Verseghy, D., Vasic, R., Xue, Y. K., Yamada, T., and Team, G.: Regions of strong coupling between soil moisture and precipitation, Science, 305, 1138–1140, https://doi.org/10.1126/science.1100217, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/2010WR010261</doi>
+              <unstructured_citation>Kumar, S. V., Reichle, R. H., Harrison, K. W., Peters-Lidard, C. D., Yatheendradas, S., and Santanello, J. A.: A comparison of methods for a priori bias correction in soil moisture data assimilation, Water Resour. Res., 48, W03515, https://doi.org/10.1029/2010wr010261, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/gmd-9-1341-2016</doi>
+              <unstructured_citation>Kurtz, W., He, G. W., Kollet, S. J., Maxwell, R. M., Vereecken, H., and Franssen, H. J. H.: TerrSysMP-PDAF (version 1.0): a modular high-performance data assimilation framework for an integrated land surface-subsurface model, Geosci. Model Dev., 9, 1341–1360, https://doi.org/10.5194/gmd-9-1341-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1007/s00382-007-0278-1</doi>
+              <unstructured_citation>Lawrence, D. M. and Slater, A. G.: Incorporating organic soil into a global climate model, Clim. Dynam., 30, 145–160, https://doi.org/10.1007/s00382-007-0278-1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.2136/vzj2014.06.0060</doi>
+              <unstructured_citation>Lee, J. H.: Spatial-Scale Prediction of the SVAT Soil Hydraulic Variables Characterizing Stratified Soils on the Tibetan Plateau from an EnKF Analysis of SAR Soil Moisture, Vadose Zone J., 13, 11, https://doi.org/10.2136/vzj2014.06.0060, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1016/j.jhydrol.2008.02.018</doi>
+              <unstructured_citation>Montzka, C., Canty, M., Kunkel, R., Menz, G., Vereecken, H., and Wendland, F.: Modelling the water balance of a mesoscale catchment basin using remotely sensed land cover data, J. Hydrol., 353, 322–334, https://doi.org/10.1016/j.jhydrol.2008.02.018, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1016/j.jhydrol.2011.01.020</doi>
+              <unstructured_citation>Montzka, C., Moradkhani, H., Weihermuller, L., Franssen, H. J. H., Canty, M., and Vereecken, H.: Hydraulic parameter estimation by remotely-sensed top soil moisture observations with the particle filter, J. Hydrol., 399, 410–421, https://doi.org/10.1016/j.jhydrol.2011.01.020, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.3390/s121216291</doi>
+              <unstructured_citation>Montzka, C., Pauwels, V. R. N., Franssen, H. J. H., Han, X. J., and Vereecken, H.: Multivariate and Multiscale Data Assimilation in Terrestrial Systems: A Review, Sensors-Basel, 12, 16291–16333, https://doi.org/10.3390/s121216291, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.2136/vzj2012.0040</doi>
+              <unstructured_citation>Montzka, C., Grant, J. P., Moradkhani, H., Franssen, H. J. H., Weihermuller, L., Drusch, M., and Vereecken, H.: Estimation of Radiative Transfer Parameters from L-Band Passive Microwave Brightness Temperatures Using Advanced Data Assimilation, Vadose Zone J., 12, 3, https://doi.org/10.2136/vzj2012.0040, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1016/j.advwatres.2004.09.002</doi>
+              <unstructured_citation>Moradkhani, H., Sorooshian, S., Gupta, H. V., and Houser, P. R.: Dual state-parameter estimation of hydrological models using ensemble Kalman filter, Adv. Water Resour., 28, 135–147, https://doi.org/10.1016/j.advwatres.2004.09.002, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1175/JHM-D-15-0063.1</doi>
+              <unstructured_citation>Nearing, G. S., Mocko, D. M., Peters-Lidard, C. D., Kumar, S. V., and Xia, Y. L.: Benchmarking NLDAS-2 Soil Moisture and Evapotranspiration to Separate Uncertainty Contributions, J. Hydrometeorol., 17, 745–759, https://doi.org/10.1175/Jhm-D-15-0063.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Oglesby, R. J. and Erickson, D. J.: Soil-Moisture and the Persistence of North-American Drought, J. Climate, 2, 1362–1380, https://doi.org/10.1175/1520-0442(1989)002&amp;amp;lt;1362:Smatpo&amp;amp;gt;2.0.Co;2, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Oleson, K., Lawrence, D. M., Bonan, G. B., Drewniak, B., Huang, M., Koven, C. D., Levis, S., Li, F., Riley, J. M., Subin, Z. M., Swenson, S., Thornton, P. E., Bozbiyik, A., Fisher, R., Heald, C. L., Kluzek, E., Lamarque, J.-F., Lawrence, P. J., Leung, L. R., Lipscomb, W., Muszala, S. P., Ricciuto, D. M., Sacks, W. J., Sun, Y., Tang, J., and Yang, Z.-L.: Technical description of version 4.5 of the Community Land Model (CLM), NCAR Technical Note NCAR/TN-503+STR, NCAR, Boulder, Colorado, 1–435, https://doi.org/10.5065/D6RR1W7M, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1016/S1002-0160(15)60054-6</doi>
+              <unstructured_citation>Patil, N. G. and Singh, S. K.: Pedotransfer Functions for Estimating Soil Hydraulic Properties: A Review, Pedosphere, 26, 417–430, https://doi.org/10.1016/S1002-0160(15)60054-6, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1109/TGRS.2008.2007849</doi>
+              <unstructured_citation>Pauwels, V. R. N., Balenzano, A., Satalino, G., Skriver, H., Verhoest, N. E. C., and Mattia, F.: Optimization of Soil Hydraulic Model Parameters Using Synthetic Aperture Radar Data: An Integrated Multidisciplinary Approach, IEEEE T. Geosci. Remote, 47, 455–467, https://doi.org/10.1109/Tgrs.2008.2007849, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Pelowitz, D. B.: MCNPX user's manual, version 5, Rep. LA-CP-05-0369, Los Alamos National Laboratory, Los Alamos, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Ray, N. H.: Gas Chromatography. 1. The Separation and Estimation of Volatile Organic Compounds by Gas-Liquid Partition Chromatography, J. Appl. Chem., 4, 21–25, 1954.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1016/j.advwatres.2008.01.001</doi>
+              <unstructured_citation>Reichle, R. H.: Data assimilation methods in the Earth sciences, Adv. Water Resour., 31, 1411–1418, https://doi.org/10.1016/j.advwatres.2008.01.001, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Reichle, R. H., McLaughlin, D. B., and Entekhabi, D.: Hydrologic data assimilation with the ensemble Kalman filter, Mon. Weather Rev., 130, 103–114, https://doi.org/10.1175/1520-0493(2002)130&amp;amp;lt;0103:Hdawte&amp;amp;gt;2.0.Co;2, 2002a.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Reichle, R. H., Walker, J. P., Koster, R. D., and Houser, P. R.: Extended versus ensemble Kalman filtering for land data assimilation, J. Hydrometeorol., 3, 728–740, https://doi.org/10.1175/1525-7541(2002)003&amp;amp;lt;0728:Evekff&amp;amp;gt;2.0.Co;2, 2002b.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1175/2010JHM1262.1</doi>
+              <unstructured_citation>Reichle, R. H., Kumar, S. V., Mahanama, S. P. P., Koster, R. D., and Liu, Q.: Assimilation of Satellite-Derived Skin Temperature Observations into Land Surface Models, J. Hydrometeorol., 11, 1103–1122, https://doi.org/10.1175/2010jhm1262.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.2136/vzj2007.0143</doi>
+              <unstructured_citation>Robinson, D. A., Campbell, C. S., Hopmans, J. W., Hornbuckle, B. K., Jones, S. B., Knight, R., Ogden, F., Selker, J., and Wendroth, O.: Soil moisture measurement for ecological and hydrological watershed-scale observatories: A review, Vadose Zone J., 7, 358–389,https://doi.org/10.2136/Vzj2007.0143, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.5194/hess-18-4363-2014</doi>
+              <unstructured_citation>Rosolem, R., Hoar, T., Arellano, A., Anderson, J. L., Shuttleworth, W. J., Zeng, X., and Franz, T. E.: Translating aboveground cosmic-ray neutron intensity to high-frequency soil moisture profiles at sub-kilometer scale, Hydrol. Earth Syst. Sci., 18, 4363–4379, https://doi.org/10.5194/hess-18-4363-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>scilands GmbH: Digital Elevation Model 10 without anthropogenic landforms, Göttingen, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1038/nature05095</doi>
+              <unstructured_citation>Seneviratne, S. I., Luthi, D., Litschi, M., and Schar, C.: Land–atmosphere coupling and climate change in Europe, Nature, 443, 205–209, https://doi.org/10.1038/Nature05095, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1016/j.earscirev.2010.02.004</doi>
+              <unstructured_citation>Seneviratne, S. I., Corti, T., Davin, E. L., Hirschi, M., Jaeger, E. B., Lehner, I., Orlowsky, B., and Teuling, A. J.: Investigating soil moisture–climate interactions in a changing climate: A review, Earth-Sci. Rev., 99, 125–161, https://doi.org/10.1016/j.earscirev.2010.02.004, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1002/2013WR014070</doi>
+              <unstructured_citation>Shi, Y. N., Davis, K. J., Zhang, F. Q., Duffy, C. J., and Yu, X.: Parameter estimation of a physically based land surface hydrologic model using the ensemble Kalman filter: A synthetic experiment, Water Resour. Res., 50, 706–724, https://doi.org/10.1002/2013wr014070, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1016/j.advwatres.2015.06.009</doi>
+              <unstructured_citation>Shi, Y. N., Davis, K. J., Zhang, F. Q., Duffy, C. J., and Yu, X.: Parameter estimation of a physically-based land surface hydrologic model using an ensemble Kalman filter: A multivariate real-data experiment, Adv. Water Resour., 83, 421–427, https://doi.org/10.1016/j.advwatres.2015.06.009, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1175/MWR-D-14-00029.1</doi>
+              <unstructured_citation>Shrestha, P., Sulis, M., Masbou, M., Kollet, S., and Simmer, C.: A Scale-Consistent Terrestrial Systems Modeling Platform Based on COSMO, CLM, and ParFlow, Mon. Weather Rev., 142, 3466–3483, https://doi.org/10.1175/Mwr-D-14-00029.1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.5194/hess-17-3205-2013</doi>
+              <unstructured_citation>Shuttleworth, J., Rosolem, R., Zreda, M., and Franz, T.: The COsmic-ray Soil Moisture Interaction Code (COSMIC) for use in data assimilation, Hydrol. Earth Syst. Sci., 17, 3205–3217, https://doi.org/10.5194/hess-17-3205-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1175/BAMS-D-13-00134.1</doi>
+              <unstructured_citation>Simmer, C., Thiele-Eich, I., Masbou, M., Amelung, W., Bogena, H., Crewell, S., Diekkruger, B., Ewert, F., Franssen, H. J. H., Huisman, J. A., Kemna, A., Klitzsch, N., Kollet, S., Langensiepen, M., Lohnert, U., Rahman, A. S. M. M., Rascher, U., Schneider, K., Schween, J., Shao, Y. P., Shrestha, P., Stiebler, M., Sulis, M., Vanderborght, J., Vereecken, H., van der Kruk, J., Waldhoff, G., and Zerenner, T.: Monitoring and modeling the terrestrial system from pores to catchment, The Transregional Collaborative Research Center on Patterns in the Soil–Vegetation–Atmosphere System, B. Am. Meteorol. Soc., 96, 1765–1787, https://doi.org/10.1175/Bams-D-13-00134.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.2136/vzj2013.05.0083</doi>
+              <unstructured_citation>Song, X. H., Shi, L. S., Ye, M., Yang, J. Z., and Navon, I. M.: Numerical Comparison of Iterative Ensemble Kalman Filters for Unsaturated Flow Inverse Modeling, Vadose Zone J., 13, 2, https://doi.org/10.2136/vzj2013.05.0083, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.5194/hess-17-4995-2013</doi>
+              <unstructured_citation>Sun, Y., Hou, Z., Huang, M., Tian, F., and Leung, L. R.: Inverse modeling of hydrologic parameters using surface flux and runoff observations in the Community Land Model, Hydrol. Earth Syst. Sci., 17, 4995–5011, https://doi.org/10.5194/hess-17-4995-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.2136/vzj2013.06.0101</doi>
+              <unstructured_citation>Temimi, M., Lakhankar, T., Zhan, X. W., Cosh, M. H., Krakauer, N., Fares, A., Kelly, V., Khanbilvardi, R., and Kumassi, L.: Soil Moisture Retrieval Using Ground-Based L-Band Passive Microwave Observations in Northeastern USA, Vadose Zone J., 13, 3, https://doi.org/10.2136/vzj2013.06.0101, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1029/2008WR006829</doi>
+              <unstructured_citation>Vereecken, H., Huisman, J. A., Bogena, H., Vanderborght, J., Vrugt, J. A., and Hopmans, J. W.: On the value of soil moisture measurements in vadose zone hydrology: A review, Water Resour. Res., 44, W00d06, https://doi.org/10.1029/2008wr006829, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.2136/vzj2015.09.0131</doi>
+              <unstructured_citation>Vereecken, H., Schnepf, A., Hopmans, J. W., Javaux, M., Or, D., Roose, D. O. T., Vanderborght, J., Young, M. H., Amelung, W., Aitkenhead, M., Allison, S. D., Assouline, S., Baveye, P., Berli, M., Bruggemann, N., Finke, P., Flury, M., Gaiser, T., Govers, G., Ghezzehei, T., Hallett, P., Franssen, H. J. H., Heppell, J., Horn, R., Huisman, J. A., Jacques, D., Jonard, F., Kollet, S., Lafolie, F., Lamorski, K., Leitner, D., McBratney, A., Minasny, B., Montzka, C., Nowak, W., Pachepsky, Y., Padarian, J., Romano, N., Roth, K., Rothfuss, Y., Rowe, E. C., Schwen, A., Simunek, J., Tiktak, A., Van Dam, J., van der Zee, S. E. A. T. M., Vogel, H. J., Vrugt, J. A., Wohling, T., and Young, I. M.: Modeling Soil Processes: Review, Key Challenges, and New Perspectives, Vadose Zone J., 15, 5, https://doi.org/10.2136/vzj2015.09.0131, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1111/ejss.12162</doi>
+              <unstructured_citation>Villarreyes, C. A. R., Baroni, G., and Oswald, S. E.: Inverse modelling of cosmic-ray soil moisture for field-scale soil hydraulic parameters, Eur. J. Soil Sci., 65, 876–886, https://doi.org/10.1111/ejss.12162, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1029/2004WR003059</doi>
+              <unstructured_citation>Vrugt, J. A., Diks, C. G. H., Gupta, H. V., Bouten, W., and Verstraten, J. M.: Improved treatment of uncertainty in hydrologic modeling: Combining the strengths of global optimization and data assimilation, Water Resour. Res., 41, W01017, https://doi.org/10.1029/2004wr003059, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Waldhoff, G.: Enhanced Land Use Classification of 2009 for the Rur catchment, CRC/TR32 Database (TR32DB), Cologne, https://doi.org/10.5880/TR32DB.2, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1016/j.wace.2015.05.001</doi>
+              <unstructured_citation>Whan, K., Zscheischler, J., Orth, R., Shongwe, M., Rahimi, M., Asare, E. O., and Seneviratne, S. I.: Impact of soil moisture on extreme maximum temperatures in Europe, Weather Clim. Extr., 9, 57–67, https://doi.org/10.1016/j.wace.2015.05.001, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1016/j.jhydrol.2011.01.011</doi>
+              <unstructured_citation>Wu, C. C. and Margulis, S. A.: Feasibility of real-time soil state and flux characterization for wastewater reuse using an embedded sensor network data assimilation approach, J. Hydrol., 399, 313–325, https://doi.org/10.1016/j.jhydrol.2011.01.011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.2136/vzj2011.0176</doi>
+              <unstructured_citation>Wu, C. C. and Margulis, S. A.: Real-Time Soil Moisture and Salinity Profile Estimation Using Assimilation of Embedded Sensor Datastreams, Vadose Zone J., 12, 1, https://doi.org/10.2136/vzj2011.0176, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.2136/vzj2010.0139</doi>
+              <unstructured_citation>Zacharias, S., Bogena, H., Samaniego, L., Mauder, M., Fuss, R., Putz, T., Frenzel, M., Schwank, M., Baessler, C., Butterbach-Bahl, K., Bens, O., Borg, E., Brauer, A., Dietrich, P., Hajnsek, I., Helle, G., Kiese, R., Kunstmann, H., Klotz, S., Munch, J. C., Papen, H., Priesack, E., Schmid, H. P., Steinbrecher, R., Rosenbaum, U., Teutsch, G., and Vereecken, H.: A Network of Terrestrial Environmental Observatories in Germany, Vadose Zone J., 10, 955–973, https://doi.org/10.2136/Vzj2010.0139, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.1029/2008GL035655</doi>
+              <unstructured_citation>Zreda, M., Desilets, D., Ferre, T. P. A., and Scott, R. L.: Measuring soil moisture content non-invasively at intermediate spatial scale using cosmic-ray neutrons, Geophys. Res. Lett., 35, L21402, https://doi.org/10.1029/2008GL035655, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.5194/hess-17-1065-2013</doi>
+              <unstructured_citation>Zreda, M., Shuttleworth, W. J., Zeng, X., Zweck, C., Desilets, D., Franz, T., and Rosolem, R.: COSMOS: the COsmic-ray Soil Moisture Observing System (vol. 16, pg. 4079, 2012), Hydrol. Earth Syst. Sci., 17, 1065–1066, https://doi.org/10.5194/hess-17-1065-2013, 2012.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

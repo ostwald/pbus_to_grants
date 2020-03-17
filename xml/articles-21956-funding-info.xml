@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:osm="http://nldr.library.ucar.edu/metadata/osm" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" version="3.6">
+  <genre>article</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Geophysical Research Letters</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+      <title>Geophys. Res. Lett.</title>
+    </titleInfo>
+    <identifier type="issn">00948276</identifier>
+    <part>
+      <extent unit="page">
+        <list>7257-7267</list>
+        <start>7257</start>
+        <end>7267</end>
+      </extent>
+      <detail type="volume">
+        <number>45</number>
+      </detail>
+      <detail type="issue">
+        <number>15</number>
+      </detail>
+    </part>
+  </relatedItem>
+  <titleInfo>
+    <title>A comparison of model-based ionospheric and ocean tidal magnetic signals with observatory data</title>
+  </titleInfo>
+  <name usage="primary" type="personal">
+    <namePart type="given">N. R.</namePart>
+    <namePart type="family">Schnepf</namePart>
+    <affiliation>Department of Geological Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+    <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+    <nameIdentifier type="ORCID">0000-0003-1489-7958</nameIdentifier>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">M.</namePart>
+    <namePart type="family">Nair</namePart>
+    <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+    <affiliation>National Centers for Environmental Information, National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Astrid</namePart>
+    <namePart type="family">Maute</namePart>
+    <affiliation>University Corporation For Atmospheric Research (UCAR):National Center for Atmospheric Research (NCAR):High Altitude Observatory (HAO):Geospace Frontiers (GEOSPACE)</affiliation>
+    <nameIdentifier type="ORCID">0000-0003-3393-0987</nameIdentifier>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+    <nameIdentifier type="UPID">7880</nameIdentifier>
+  </name>
+  <name type="personal">
+    <namePart type="given">Nicholas M.</namePart>
+    <namePart type="family">Pedatella</namePart>
+    <affiliation>University Corporation For Atmospheric Research (UCAR):National Center for Atmospheric Research (NCAR):High Altitude Observatory (HAO):Geospace Frontiers (GEOSPACE)</affiliation>
+    <nameIdentifier type="ORCID">0000-0002-8878-5126</nameIdentifier>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+    <nameIdentifier type="UPID">16632</nameIdentifier>
+  </name>
+  <name type="personal">
+    <namePart type="given">A.</namePart>
+    <namePart type="family">Kuvshinov</namePart>
+    <affiliation>Institute of Geophysics, ETH Zurich; Zurich Switzerland</affiliation>
+    <nameIdentifier type="ORCID">0000-0002-4341-2123</nameIdentifier>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart type="given">Arthur D.</namePart>
+    <namePart type="family">Richmond</namePart>
+    <affiliation>University Corporation For Atmospheric Research (UCAR):National Center for Atmospheric Research (NCAR):High Altitude Observatory (HAO):Geospace Frontiers (GEOSPACE)</affiliation>
+    <nameIdentifier type="ORCID">0000-0002-6708-1023</nameIdentifier>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+    <nameIdentifier type="UPID">12020</nameIdentifier>
+  </name>
+  <identifier type="ark">ark:/85065/d7x92f50</identifier>
+  <identifier type="doi">10.1029/2018GL078487</identifier>
+  <abstract>Observed tidal geomagnetic field variations are due to a combination of electric currents in the ionosphere, ocean, and their induced counterparts. Using these variations to constrain subsurface electrical conductivity in oceanic regions is a promising frontier; however, properly separating the ionospheric and oceanic tidal contributions of the magnetic field is critical for this. We compare semidiurnal lunar tidal magnetic signals (i.e., the signals due to the M-2 tidal mode) estimated from 64 global observatories to physics-based forward models of the ionospheric M-2 magnetic field and the oceanic M-2 magnetic field. At ground level, predicted ionospheric M-2 amplitudes are strongest in the horizontal components, whereas the predicted oceanic amplitudes are strongest in the vertical direction. There is good agreement between the predicted and estimated M-2 phases for the Y component; however, the F and X components experience deviations that may be indicative of unmodeled ionospheric processes or unmodeled coastal effects. Overall, we find that the agreement between the physics-based model predictions and the observations is very encouraging for electromagnetic sensing applications, especially since the predicted ionospheric vertical component is very weak.</abstract>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-03</dateIssued>
+  </originInfo>
+  <name type="corporate">
+    <namePart>National Aeronautics and Space Administration</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">funder</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>National Science Foundation (NSF)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">funder</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <language>
+    <languageTerm type="code" authority="rfc5646">en</languageTerm>
+  </language>
+  <note type="funding">National Science Foundation (NSF): AGS-1135446</note>
+  <note type="funding">National Aeronautics and Space Administration (NASA): NNX13AF77G</note>
+  <extension>
+    <osm:classification>Refereed</osm:classification>
+  </extension>
+  <extension>
+    <osm:collectionKey>articles</osm:collectionKey>
+  </extension>
+  <recordInfo>
+    <recordOrigin>Originated from CrossRef/DOI importer. Human value add metadata. Transformed using ncarcleanup_mods.xsl.</recordOrigin>
+    <recordContentSource>NCAR Library and Archives</recordContentSource>
+  </recordInfo>
+  <physicalDescription>
+    <note type="version">Publisher's final version</note>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">Copyright 2018 American Geophysical Union.</accessCondition>
+  <extension>
+    <osm:collaboration>UCAR, University and Other</osm:collaboration>
+  </extension>
+</mods>

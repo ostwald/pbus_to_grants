@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1175" timestamp="2019-12-23 16:19:05">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of the Atmospheric Sciences</full_title>
+          <abbrev_title>J. Atmos. Sci.</abbrev_title>
+          <issn media_type="print">0022-4928</issn>
+          <issn media_type="electronic">1520-0469</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>10</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>76</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Impact of Vertical Wind Shear on Gravity Wave Propagation in the Land–Sea-Breeze Circulation at the Equator</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Yu</given_name>
+              <surname>Du</surname>
+              <affiliation>School of Atmospheric Sciences, and Guangdong Province Key Laboratory for Climate Change and Natural Disaster Studies, Sun Yat-sen University, Guangzhou, and Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), Zhuhai, China</affiliation>
+              <ORCID authenticated="true">http://orcid.org/0000-0001-8828-5431</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Richard</given_name>
+              <surname>Rotunno</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Fuqing</given_name>
+              <surname>Zhang</surname>
+              <affiliation>Department of Meteorology and Atmospheric Science, and Center for Advanced Data Assimilation and Predictability Techniques, The Pennsylvania State University, University Park, Pennsylvania</affiliation>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>The impact of vertical wind shear on the land–sea-breeze circulation at the equator is explored using idealized 2D numerical simulations and a simple 2D linear analytical model. Both the idealized and linear analytical models indicate Doppler shifting and attenuation effects coexist under the effect of vertical wind shear for the propagation of gravity waves that characterize the land–sea-breeze circulation. Without a background wind, the idealized sea breeze has two ray paths of gravity waves that extend outward and upward from the coast. A uniform background wind causes a tilting of the two ray paths due to Doppler shifting. With vertical shear in the background wind, the downstream ray path of wave propagation can be rapidly attenuated near a certain level, whereas the upstream ray path is not attenuated and the amplitudes even increase with height. The downstream attenuation level is found to descend with increasing linear wind shear. The present analytical model establishes that the attenuation level corresponds to the critical level where the background wind is equal to the horizontal gravity wave phase speed. The upstream gravity wave ray path can propagate upward without attenuation as there is no critical level there.</p>
+          </abstract>
+          <publication_date media_type="print">
+            <month>10</month>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>3247</first_page>
+            <last_page>3265</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1175/JAS-D-19-0069.1</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">The National Key Research and Development Program of China</assertion>
+              <assertion name="award_number">2018YFC150750</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">41875055</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Natural Science Foundation of China
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001809</assertion>
+              </assertion>
+              <assertion name="award_number">41861164027</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. National Science Foundation
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1712290</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref start_date="2019-10-04" applies_to="vor">http://www.ametsoc.org/PUBSReuseLicenses</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1175/JAS-D-19-0069.1</doi>
+            <resource>http://journals.ametsoc.org/doi/10.1175/JAS-D-19-0069.1</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.ametsoc.org/doi/pdf/10.1175/JAS-D-19-0069.1</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

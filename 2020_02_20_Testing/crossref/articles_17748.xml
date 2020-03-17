@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-04-03 09:52:29">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Global Biogeochemical Cycles</full_title>
+          <abbrev_title>Global Biogeochem. Cycles</abbrev_title>
+          <issn>08866236</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>10</month>
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>29</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Explicitly representing soil microbial processes in Earth system models</title>
+            <subtitle>Soil microbes in earth system models</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>William R.</given_name>
+              <surname>Wieder</surname>
+              <affiliation>Climate and Global Dynamics Division; National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Steven D.</given_name>
+              <surname>Allison</surname>
+              <affiliation>Department of Ecology and Evolutionary Biology; University of California; Irvine California USA</affiliation>
+              <affiliation>Department of Earth System Science; University of California; Irvine California USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Eric A.</given_name>
+              <surname>Davidson</surname>
+              <affiliation>Appalachian Laboratory; University of Maryland Center for Environmental Science; Frostburg Maryland USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Katerina</given_name>
+              <surname>Georgiou</surname>
+              <affiliation>Department of Chemical and Biomolecular Engineering; University of California; Berkeley California USA</affiliation>
+              <affiliation>Earth Sciences Division; Lawrence Berkeley National Laboratory; Berkeley California USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Oleksandra</given_name>
+              <surname>Hararuk</surname>
+              <affiliation>Natural Resources Canada; Canadian Forest Service, Pacific Forestry Centre; Victoria British Columbia Canada</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Yujie</given_name>
+              <surname>He</surname>
+              <affiliation>Department of Earth System Science; University of California; Irvine California USA</affiliation>
+              <affiliation>Department of Earth, Atmospheric and Planetary Sciences; Purdue University; West Lafayette Indiana USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Francesca</given_name>
+              <surname>Hopkins</surname>
+              <affiliation>Department of Earth System Science; University of California; Irvine California USA</affiliation>
+              <affiliation>Jet Propulsion Laboratory; California Institute of Technology; Pasadena California USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Yiqi</given_name>
+              <surname>Luo</surname>
+              <affiliation>Department of Microbiology &amp; Plant Biology; University of Oklahoma; Norman Oklahoma USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Matthew J.</given_name>
+              <surname>Smith</surname>
+              <affiliation>Computational Science Laboratory; Microsoft Research; Cambridge UK</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Benjamin</given_name>
+              <surname>Sulman</surname>
+              <affiliation>Department of Biology; Indiana University; Bloomington Indiana USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Katherine</given_name>
+              <surname>Todd-Brown</surname>
+              <affiliation>Department of Microbiology &amp; Plant Biology; University of Oklahoma; Norman Oklahoma USA</affiliation>
+              <affiliation>Pacific Northwest National Laboratory; Richland Washington USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-3109-8130</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ying-Ping</given_name>
+              <surname>Wang</surname>
+              <affiliation>CSIRO Ocean and Atmosphere Flagship; Aspendale Victoria Australia</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jianyang</given_name>
+              <surname>Xia</surname>
+              <affiliation>Department of Microbiology &amp; Plant Biology; University of Oklahoma; Norman Oklahoma USA</affiliation>
+              <affiliation>Tiantong National Forest Ecosystem Observation and Research Station, School of Ecological and Environmental Sciences; East China Normal University; Shanghai China</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Xiaofeng</given_name>
+              <surname>Xu</surname>
+              <affiliation>Department of Biological Sciences; University of Texas at El Paso; Texas USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>10</month>
+            <year>2015</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>26</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>1782</first_page>
+            <last_page>1800</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">National Science Foundation Research Coordination (RCN)</assertion>
+              <assertion name="award_number">DEB 0840964</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Department of Energy DE</assertion>
+              <assertion name="award_number">SC0008270</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">U.S. Department of Agriculture/National Institute of Food and Agriculture</assertion>
+              <assertion name="award_number">2015-67003-23485</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">U.S. Department of Energy,Terrestrial Ecosystem Science (TES) Program</assertion>
+              <assertion name="award_number">DE-SC0014374</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm" start_date="2015-09-01">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2015GB005188</doi>
+            <resource>http://doi.wiley.com/10.1002/2015GB005188</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2015GB005188/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015GB005188</resource>
+              </item>
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015GB005188</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2015GB005188-BIB0001|gbc20351-cit-0001">
+              <author>Adair</author>
+              <cYear>2008</cYear>
+              <article_title>Simple three-pool model accurately describes patterns of long-term litter decomposition in diverse climates</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>14</volume>
+              <issue>11</issue>
+              <first_page>2636</first_page>
+              <doi>10.1111/J.1365-2486.2008.01674.X</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0002|gbc20351-cit-0002">
+              <author>Allison</author>
+              <cYear>2012</cYear>
+              <article_title>A trait-based approach for modelling microbial litter decomposition</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>15</volume>
+              <issue>9</issue>
+              <first_page>1058</first_page>
+              <doi>10.1111/j.1461-0248.2012.01807.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0003|gbc20351-cit-0003">
+              <author>Allison</author>
+              <cYear>2014</cYear>
+              <article_title>Modeling adaptation of carbon use efficiency in microbial communities</article_title>
+              <journal_title>Front. Microbiol.</journal_title>
+              <volume>5</volume>
+              <first_page>571</first_page>
+              <doi>10.3389/fmicb.2014.00571</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0004|gbc20351-cit-0004">
+              <author>Allison</author>
+              <cYear>2010</cYear>
+              <article_title>Soil-carbon response to warming dependent on microbial physiology</article_title>
+              <journal_title>Nat. Geosci.</journal_title>
+              <volume>3</volume>
+              <issue>5</issue>
+              <first_page>336</first_page>
+              <doi>10.1038/ngeo846</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0005|gbc20351-cit-0005">
+              <author>Amundson</author>
+              <cYear>2003</cYear>
+              <article_title>Global patterns of the isotopic composition of soil and plant nitrogen</article_title>
+              <journal_title>Global Biogeochem. Cycles</journal_title>
+              <volume>17</volume>
+              <issue>1</issue>
+              <doi>10.1029/2002GB001903</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0006|gbc20351-cit-0006">
+              <author>Bahn</author>
+              <cYear>2012</cYear>
+              <article_title>“Stable isotopes and biogeochemical cycles in terrestrial ecosystems” preface</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>9</volume>
+              <issue>10</issue>
+              <first_page>3979</first_page>
+              <doi>10.5194/bg-9-3979-2012</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0007|gbc20351-cit-0007">
+              <author>Behrens</author>
+              <cYear>2008</cYear>
+              <article_title>Linking microbial phylogeny to metabolic activity at the single-cell level by using enhanced element labeling-catalyzed reporter deposition fluorescence in situ hybridization (EL-FISH) and NanoSIMS</article_title>
+              <journal_title>Appl. Environ. Microbiol.</journal_title>
+              <volume>74</volume>
+              <issue>10</issue>
+              <first_page>3143</first_page>
+              <doi>10.1128/AEM.00191-08</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0008|gbc20351-cit-0008">
+              <author>Blagodatskaya</author>
+              <cYear>2010</cYear>
+              <article_title>Elevated atmospheric CO2 increases microbial growth rates in soil: Results of three CO2 enrichment experiments</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>16</volume>
+              <issue>2</issue>
+              <first_page>836</first_page>
+              <doi>10.1111/j.1365-2486.2009.02006.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0009|gbc20351-cit-0009">
+              <author>Bonan</author>
+              <cYear>2011</cYear>
+              <article_title>Improving canopy processes in the Community Land Model version 4 (CLM4) using global flux fields empirically inferred from FLUXNET data</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>116</volume>
+              <doi>10.1029/2010JG001593</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0010|gbc20351-cit-0010">
+              <author>Bonan</author>
+              <cYear>2012</cYear>
+              <article_title>Reconciling leaf physiological traits and canopy flux data: Use of the TRY and FLUXNET databases in the Community Land Model version 4</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>117</volume>
+              <doi>10.1029/2011JG001913</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0011|gbc20351-cit-0011">
+              <author>Bonan</author>
+              <cYear>2013</cYear>
+              <article_title>Evaluating litter decomposition in earth system models with long-term litterbag experiments: An example using the Community Land Model version 4 (CLM4)</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>19</volume>
+              <first_page>957</first_page>
+              <doi>10.1111/gcb.12031</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0012|gbc20351-cit-0012">
+              <author>Bonan</author>
+              <cYear>2014</cYear>
+              <article_title>Modeling stomatal conductance in the earth system: Linking leaf water-use efficiency and water transport along the soil-plant-atmosphere continuum</article_title>
+              <journal_title>Geosci. Model Dev.</journal_title>
+              <volume>7</volume>
+              <issue>5</issue>
+              <first_page>2193</first_page>
+              <doi>10.5194/gmd-7-2193-2014</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0013|gbc20351-cit-0013">
+              <author>Bond-Lamberty</author>
+              <cYear>2010</cYear>
+              <article_title>A global database of soil respiration data</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>7</volume>
+              <issue>6</issue>
+              <first_page>1915</first_page>
+              <doi>10.5194/bg-7-1915-2010</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0014|gbc20351-cit-0014">
+              <author>Bradford</author>
+              <cYear>2013</cYear>
+              <article_title>Thermal adaptation of decomposer communities in warming soils</article_title>
+              <journal_title>Front. Microbiol.</journal_title>
+              <volume>4</volume>
+              <first_page>333</first_page>
+              <doi>10.3389/fmicb.2013.00333</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0015|gbc20351-cit-0015">
+              <author>Bradford</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1093/acprof:oso/9780199575923.003.0017</doi>
+              <volume_title>Soil Ecology and Ecosystem Services</volume_title>
+              <first_page>189</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0016|gbc20351-cit-0016">
+              <author>Bradford</author>
+              <cYear>2008</cYear>
+              <article_title>Thermal adaptation of soil microbial respiration to elevated temperature</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>11</volume>
+              <issue>12</issue>
+              <first_page>1316</first_page>
+              <doi>10.1111/j.1461-0248.2008.01251.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0017|gbc20351-cit-0017">
+              <author>Bradford</author>
+              <cYear>2010</cYear>
+              <article_title>Thermal adaptation of heterotrophic soil respiration in laboratory microcosms</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>16</volume>
+              <issue>5</issue>
+              <first_page>1576</first_page>
+              <doi>10.1111/j.1365-2486.2009.02040.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0018|gbc20351-cit-0018">
+              <author>Burns</author>
+              <cYear>1982</cYear>
+              <article_title>Enzyme activity in soil: Location and a possible role in microbial ecology</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>14</volume>
+              <issue>5</issue>
+              <first_page>423</first_page>
+              <doi>10.1016/0038-0717(82)90099-2</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0019|gbc20351-cit-0019">
+              <author>Butler</author>
+              <cYear>2012</cYear>
+              <article_title>Soil warming alters nitrogen cycling in a New England forest: Implications for ecosystem function and structure</article_title>
+              <journal_title>Oecologia</journal_title>
+              <volume>168</volume>
+              <issue>3</issue>
+              <first_page>819</first_page>
+              <doi>10.1007/s00442-011-2133-7</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0020|gbc20351-cit-0020">
+              <author>Carvalhais</author>
+              <cYear>2014</cYear>
+              <article_title>Global covariation of carbon turnover times with climate in terrestrial ecosystems</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>514</volume>
+              <issue>7521</issue>
+              <first_page>213</first_page>
+              <doi>10.1038/nature13731</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0021|gbc20351-cit-0021">
+              <author>Ciais</author>
+              <cYear>2013</cYear>
+              <volume_title>Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</volume_title>
+              <first_page>465</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0022|gbc20351-cit-0022">
+              <author>Cotrufo</author>
+              <cYear>2013</cYear>
+              <article_title>The Microbial Efficiency-Matrix Stabilization (MEMS) framework integrates plant litter decomposition with soil organic matter stabilization: Do labile plant inputs form stable soil organic matter?</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>19</volume>
+              <issue>4</issue>
+              <first_page>988</first_page>
+              <doi>10.1111/gcb.12113</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0023|gbc20351-cit-0023">
+              <author>Crowther</author>
+              <cYear>2013</cYear>
+              <article_title>Thermal acclimation in widespread heterotrophic soil microbes</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>16</volume>
+              <issue>4</issue>
+              <first_page>469</first_page>
+              <doi>10.1111/ele.12069</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0024|gbc20351-cit-0024">
+              <author>Crowther</author>
+              <cYear>2015</cYear>
+              <article_title>Biotic interactions mediate soil microbial feedbacks to climate change</article_title>
+              <journal_title>Proc. Natl. Acad. Sci. U.S.A.</journal_title>
+              <volume>112</volume>
+              <issue>22</issue>
+              <first_page>7033</first_page>
+              <doi>10.1073/pnas.1502956112</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0025|gbc20351-cit-0025">
+              <author>Davidson</author>
+              <cYear>2006</cYear>
+              <article_title>Temperature sensitivity of soil carbon decomposition and feedbacks to climate change</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>440</volume>
+              <first_page>165</first_page>
+              <doi>10.1038/nature04514</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0026|gbc20351-cit-0026">
+              <author>Davidson</author>
+              <cYear>2012</cYear>
+              <article_title>The Dual Arrhenius and Michaelis-Menten kinetics model for decomposition of soil organic matter at hourly to seasonal time scales</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>18</volume>
+              <issue>1</issue>
+              <first_page>371</first_page>
+              <doi>10.1111/j.1365-2486.2011.02546.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0027|gbc20351-cit-0027">
+              <author>Davidson</author>
+              <cYear>2014</cYear>
+              <article_title>A big-microsite framework for soil carbon modeling</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>20</volume>
+              <issue>12</issue>
+              <first_page>3610</first_page>
+              <doi>10.1111/gcb.12718</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0028|gbc20351-cit-0028">
+              <author>Dijkstra</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1016/j.soilbio.2011.05.018</doi>
+              <article_title>Effect of temperature on metabolic activity of intact microbial communities: Evidence for altered metabolic pathway activity but not for increased maintenance respiration and reduced carbon use efficiency</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>43</volume>
+              <issue>10</issue>
+              <first_page>2023</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0029|gbc20351-cit-0029">
+              <author>Drake</author>
+              <cYear>2011</cYear>
+              <article_title>Increases in the flux of carbon belowground stimulate nitrogen uptake and sustain the long-term enhancement of forest productivity under elevated CO2</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>14</volume>
+              <issue>4</issue>
+              <first_page>349</first_page>
+              <doi>10.1111/j.1461-0248.2011.01593.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0030|gbc20351-cit-0030">
+              <author>Drake</author>
+              <cYear>2013</cYear>
+              <article_title>Stoichiometry constrains microbial response to root exudation-Insights from a model and a field experiment in a temperate forest</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>10</volume>
+              <issue>2</issue>
+              <first_page>821</first_page>
+              <doi>10.5194/bg-10-821-2013</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0031|gbc20351-cit-0031">
+              <author>Dungait</author>
+              <cYear>2012</cYear>
+              <article_title>Soil organic matter turnover is governed by accessibility not recalcitrance</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>18</volume>
+              <issue>6</issue>
+              <first_page>1781</first_page>
+              <doi>10.1111/j.1365-2486.2012.02665.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0032|gbc20351-cit-0032">
+              <author>Elser</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1111/j.1461-0248.2007.01113.x</doi>
+              <article_title>Global analysis of nitrogen and phosphorus limitation of primary producers in freshwater, marine and terrestrial ecosystems</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>10</volume>
+              <issue>12</issue>
+              <first_page>1135</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0033|gbc20351-cit-0033">
+              <author>Enquist</author>
+              <cYear>2015</cYear>
+              <volume_title>Advances in Ecological Research</volume_title>
+              <first_page>249</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0034|gbc20351-cit-0034">
+              <author>Exbrayat</author>
+              <cYear>2014</cYear>
+              <article_title>Response of microbial decomposition to spin-up explains CMIP5 soil carbon range until 2100</article_title>
+              <journal_title>Geosci. Model Dev.</journal_title>
+              <volume>7</volume>
+              <issue>6</issue>
+              <first_page>2683</first_page>
+              <doi>10.5194/gmd-7-2683-2014</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0035|gbc20351-cit-0035">
+              <author>FAO</author>
+              <cYear>2012</cYear>
+              <volume_title>Harmonized World Soil Database (Version 1.2)</volume_title>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0036|gbc20351-cit-0036">
+              <author>Farquhar</author>
+              <cYear>1980</cYear>
+              <doi provider="crossref">10.1007/BF00386231</doi>
+              <article_title>A biochemical model of photosynthetic CO2 assimilation in leaves of C3 species</article_title>
+              <journal_title>Planta</journal_title>
+              <volume>149</volume>
+              <first_page>78</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0037|gbc20351-cit-0037">
+              <author>Fierer</author>
+              <cYear>2007</cYear>
+              <article_title>Toward an ecological classification of soil bacteria</article_title>
+              <journal_title>Ecology</journal_title>
+              <volume>88</volume>
+              <issue>6</issue>
+              <first_page>1354</first_page>
+              <doi>10.1890/05-1839</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0038|gbc20351-cit-0038">
+              <author>Fierer</author>
+              <cYear>2012</cYear>
+              <article_title>Comparative metagenomic, phylogenetic and physiological analyses of soil microbial communities across nitrogen gradients</article_title>
+              <journal_title>ISME J.</journal_title>
+              <volume>6</volume>
+              <issue>5</issue>
+              <first_page>1007</first_page>
+              <doi>10.1038/ismej.2011.159</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0039|gbc20351-cit-0039">
+              <author>Fisher</author>
+              <cYear>2015</cYear>
+              <article_title>Taking off the training wheels: The properties of a dynamic vegetation model without climate envelopes</article_title>
+              <journal_title>Geosci. Model Dev. Discuss.</journal_title>
+              <volume>8</volume>
+              <issue>4</issue>
+              <first_page>3293</first_page>
+              <doi>10.5194/gmdd-8-3293-2015</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0040|gbc20351-cit-0040">
+              <author>Fog</author>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1111/j.1469-185X.1988.tb00725.x</doi>
+              <article_title>The effect of added nitrogen on the rate of decomposition of organic matter</article_title>
+              <journal_title>Biol. Rev.</journal_title>
+              <volume>63</volume>
+              <first_page>433</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0041|gbc20351-cit-0041">
+              <author>Fontaine</author>
+              <cYear>2004</cYear>
+              <article_title>Carbon input to soil may decrease soil carbon content</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>7</volume>
+              <issue>4</issue>
+              <first_page>314</first_page>
+              <doi>10.1111/j.1461-0248.2004.00579.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0042|gbc20351-cit-0042">
+              <author>Franks</author>
+              <cYear>2009</cYear>
+              <article_title>Planktonic ecosystem models: Perplexing parameterizations and a failure to fail</article_title>
+              <journal_title>J. Plankton Res.</journal_title>
+              <volume>31</volume>
+              <issue>11</issue>
+              <first_page>1299</first_page>
+              <doi>10.1093/plankt/fbp069</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0043|gbc20351-cit-0043">
+              <author>Frey</author>
+              <cYear>2004</cYear>
+              <article_title>Chronic nitrogen enrichment affects the structure and function of the soil microbial community in temperate hardwood and pine forests</article_title>
+              <journal_title>For. Ecol. Manage.</journal_title>
+              <volume>196</volume>
+              <issue>1</issue>
+              <first_page>159</first_page>
+              <doi>10.1016/j.foreco.2004.03.018</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0044|gbc20351-cit-0044">
+              <author>Frey</author>
+              <cYear>2008</cYear>
+              <article_title>Microbial biomass, functional capacity, and community structure after 12 years of soil warming</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>40</volume>
+              <issue>11</issue>
+              <first_page>2904</first_page>
+              <doi>10.1016/j.soilbio.2008.07.020</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0045|gbc20351-cit-0045">
+              <author>Frey</author>
+              <cYear>2013</cYear>
+              <article_title>The temperature response of soil microbial efficiency and its feedback to climate</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>3</volume>
+              <first_page>395</first_page>
+              <doi>10.1038/nclimate1796</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0046|gbc20351-cit-0046">
+              <author>Gallo</author>
+              <cYear>2004</cYear>
+              <article_title>Microbial community structure and oxidative enzyme activity in nitrogen-amended north temperate forest soils</article_title>
+              <journal_title>Microb. Ecol.</journal_title>
+              <volume>48</volume>
+              <issue>2</issue>
+              <first_page>218</first_page>
+              <doi>10.1007/s00248-003-9001-x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0047|gbc20351-cit-0047">
+              <author>German</author>
+              <cYear>2012</cYear>
+              <article_title>The Michaelis-Menten kinetics of soil extracellular enzymes in response to temperature: A cross-latitudinal study</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>18</volume>
+              <issue>4</issue>
+              <first_page>1468</first_page>
+              <doi>10.1111/j.1365-2486.2011.02615.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0048|gbc20351-cit-0048">
+              <author>Grandy</author>
+              <cYear>2008</cYear>
+              <article_title>Molecular C dynamics downstream: The biochemical decomposition sequence and its impact on soil organic matter structure and function</article_title>
+              <journal_title>Sci. Total Environ.</journal_title>
+              <volume>404</volume>
+              <issue>2-3</issue>
+              <first_page>297</first_page>
+              <doi>10.1016/j.scitotenv.2007.11.013</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0049|gbc20351-cit-0049">
+              <author>Grandy</author>
+              <cYear>2009</cYear>
+              <article_title>The influence of microbial communities, management, and soil texture on soil organic matter chemistry</article_title>
+              <journal_title>Geoderma</journal_title>
+              <volume>150</volume>
+              <issue>3-4</issue>
+              <first_page>278</first_page>
+              <doi>10.1016/j.geoderma.2009.02.007</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0050|gbc20351-cit-0050">
+              <author>Hagerty</author>
+              <cYear>2014</cYear>
+              <article_title>Accelerated microbial turnover but constant growth efficiency with warming in soil</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>4</volume>
+              <issue>10</issue>
+              <first_page>903</first_page>
+              <doi>10.1038/nclimate2361</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0051|gbc20351-cit-0051">
+              <author>Hall</author>
+              <cYear>2010</cYear>
+              <article_title>Evidence for a temperature acclimation mechanism in bacteria: An empirical test of a membrane-mediated trade-off</article_title>
+              <journal_title>Funct. Ecol.</journal_title>
+              <volume>24</volume>
+              <issue>4</issue>
+              <first_page>898</first_page>
+              <doi>10.1111/j.1365-2435.2010.01707.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0052|gbc20351-cit-0052">
+              <author>Hararuk</author>
+              <cYear>2014</cYear>
+              <article_title>Improvement of global litter turnover rate predictions using a Bayesian MCMC approach</article_title>
+              <journal_title>Ecosphere</journal_title>
+              <volume>5</volume>
+              <first_page>163</first_page>
+              <doi>10.1890/ES14-00092.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0053|gbc20351-cit-0053">
+              <author>Hararuk</author>
+              <cYear>2014</cYear>
+              <article_title>Evaluation and improvement of a global land model against soil carbon data using a Bayesian Markov chain Monte Carlo method</article_title>
+              <journal_title>J. Geophys. Res. Biogeosci.</journal_title>
+              <volume>119</volume>
+              <first_page>403</first_page>
+              <doi>10.1002/2013JG002535</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0054|gbc20351-cit-0054">
+              <author>Hararuk</author>
+              <cYear>2015</cYear>
+              <article_title>Microbial models with data-driven parameters predict stronger soil carbon responses to climate change</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>21</volume>
+              <first_page>2439</first_page>
+              <doi>10.1111/gcb.12827</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0055|gbc20351-cit-0055">
+              <unstructured_citation>Harmon , M. 2013 LTER Intersite Fine Litter Decomposition Experiment (LIDET), 1990 to 2002 http://andrewsforest.oregonstate.edu/data/abstract.cfm?dbcode=TD023</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0056|gbc20351-cit-0056">
+              <author>Harmon</author>
+              <cYear>2009</cYear>
+              <article_title>Long-term patterns of mass loss during the decomposition of leaf and fine root litter: An intersite comparison</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>15</volume>
+              <issue>5</issue>
+              <first_page>1320</first_page>
+              <doi>10.1111/j.1365-2486.2008.01837.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0057|gbc20351-cit-0057">
+              <author>Hawkes</author>
+              <cYear>2015</cYear>
+              <article_title>Resilience vs. historical contingency in microbial responses to environmental change</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>18</volume>
+              <issue>7</issue>
+              <first_page>612</first_page>
+              <doi>10.1111/ele.12451</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0058|gbc20351-cit-0058">
+              <author>He</author>
+              <cYear>2014</cYear>
+              <article_title>The implications of microbial and substrate limitation for the fates of carbon in different organic soil horizon types of boreal forest ecosystems: A mechanistically based model analysis</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>11</volume>
+              <issue>16</issue>
+              <first_page>4477</first_page>
+              <doi>10.5194/bg-11-4477-2014</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0059|gbc20351-cit-0059">
+              <author>Hengl</author>
+              <cYear>2014</cYear>
+              <article_title>SoilGrids1km-Global soil information based on automated mapping</article_title>
+              <journal_title>PLoS One</journal_title>
+              <volume>9</volume>
+              <issue>8</issue>
+              <doi>10.1371/journal.pone.0105992</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0060|gbc20351-cit-0060">
+              <author>Hinckley</author>
+              <cYear>2014</cYear>
+              <article_title>Digging into the world beneath our feet: Bridging across scales in the age of global change</article_title>
+              <journal_title>Eos Trans. AGU</journal_title>
+              <volume>95</volume>
+              <issue>11</issue>
+              <first_page>96</first_page>
+              <doi>10.1002/2014EO110004</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0061|gbc20351-cit-0061">
+              <author>Hobbie</author>
+              <cYear>2008</cYear>
+              <article_title>Nitrogen effects on decomposition: A five-year experiment in eight temperate sites</article_title>
+              <journal_title>Ecology</journal_title>
+              <volume>89</volume>
+              <issue>9</issue>
+              <first_page>2633</first_page>
+              <doi>10.1890/07-1119.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0062|gbc20351-cit-0062">
+              <author>Hobbie</author>
+              <cYear>2012</cYear>
+              <article_title>Response of decomposing litter and its microbial community to multiple forms of nitrogen enrichment</article_title>
+              <journal_title>Ecol. Monogr.</journal_title>
+              <volume>82</volume>
+              <issue>3</issue>
+              <first_page>389</first_page>
+              <doi>10.1890/11-1600.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0063|gbc20351-cit-0063">
+              <author>Hopkins</author>
+              <cYear>2012</cYear>
+              <article_title>Warming accelerates decomposition of decadal-cycling soil carbon</article_title>
+              <journal_title>Proc. Natl. Acad. Sci. U.S.A.</journal_title>
+              <volume>109</volume>
+              <issue>26</issue>
+              <first_page>E1753</first_page>
+              <doi>10.1073/pnas.1120603109</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0064|gbc20351-cit-0064">
+              <author>Hopkins</author>
+              <cYear>2014</cYear>
+              <article_title>Increased belowground carbon inputs and warming promote loss of soil organic carbon through complementary microbial responses</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>76</volume>
+              <first_page>57</first_page>
+              <doi>10.1016/j.soilbio.2014.04.028</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0065|gbc20351-cit-0065">
+              <author>Houlton</author>
+              <cYear>2008</cYear>
+              <article_title>A unifying framework for dinitrogen fixation in the terrestrial biosphere</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>454</volume>
+              <issue>7202</issue>
+              <first_page>327</first_page>
+              <doi>10.1038/nature07028</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0066|gbc20351-cit-0066">
+              <author>Houlton</author>
+              <cYear>2015</cYear>
+              <article_title>Representation of nitrogen in climate change forecasts</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>5</volume>
+              <issue>5</issue>
+              <first_page>398</first_page>
+              <doi>10.1038/nclimate2538</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0067|gbc20351-cit-0067">
+              <author>Hugelius</author>
+              <cYear>2013</cYear>
+              <article_title>The northern circumpolar soil carbon database: Spatially distributed datasets of soil coverage and soil carbon storage in the northern permafrost regions</article_title>
+              <journal_title>Earth Syst. Sci. Data</journal_title>
+              <volume>5</volume>
+              <issue>1</issue>
+              <first_page>3</first_page>
+              <doi>10.5194/essd-5-3-2013</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0068|gbc20351-cit-0068">
+              <author>Hungate</author>
+              <cYear>2009</cYear>
+              <article_title>Assessing the effect of elevated carbon dioxide on soil carbon: A comparison of four meta-analyses</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>15</volume>
+              <first_page>2020</first_page>
+              <doi>10.1111/j.1365-2486.2009.01866.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0069|gbc20351-cit-0069">
+              <author>Ise</author>
+              <cYear>2006</cYear>
+              <article_title>The global-scale temperature and moisture dependencies of soil organic carbon decomposition: An analysis using a mechanistic decomposition model</article_title>
+              <journal_title>Biogeochemistry</journal_title>
+              <volume>80</volume>
+              <issue>3</issue>
+              <first_page>217</first_page>
+              <doi>10.1007/s10533-006-9019-5</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0070|gbc20351-cit-0070">
+              <author>Janssens</author>
+              <cYear>2010</cYear>
+              <article_title>Reduction of forest soil respiration in response to nitrogen deposition</article_title>
+              <journal_title>Nat. Geosci.</journal_title>
+              <volume>3</volume>
+              <issue>5</issue>
+              <first_page>315</first_page>
+              <doi>10.1038/ngeo844</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0071|gbc20351-cit-0071">
+              <author>Jenkinson</author>
+              <cYear>1977</cYear>
+              <doi provider="crossref">10.1097/00010694-197705000-00005</doi>
+              <article_title>The turnover of soil organic matter in some of the Rothamsted classical experiments</article_title>
+              <journal_title>Soil Sci.</journal_title>
+              <volume>123</volume>
+              <issue>5</issue>
+              <first_page>298</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0072|gbc20351-cit-0072">
+              <author>Jenkinson</author>
+              <cYear>1987</cYear>
+              <article_title>Modelling the turnover of organic matter in long-term experiments at Rothamsted</article_title>
+              <journal_title>INTECOL Bull.</journal_title>
+              <volume>15</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0073|gbc20351-cit-0073">
+              <author>Kaiser</author>
+              <cYear>2014</cYear>
+              <article_title>Microbial community dynamics alleviate stoichiometric constraints during litter decay</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>17</volume>
+              <issue>6</issue>
+              <first_page>680</first_page>
+              <doi>10.1111/ele.12269</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0074|gbc20351-cit-0074">
+              <author>Karhu</author>
+              <cYear>2014</cYear>
+              <article_title>Temperature sensitivity of soil respiration rates enhanced by microbial community response</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>513</volume>
+              <issue>7516</issue>
+              <first_page>81</first_page>
+              <doi>10.1038/nature13604</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0075|gbc20351-cit-0075">
+              <author>Kayler</author>
+              <cYear>2011</cYear>
+              <article_title>Application of δ13C and δ15N isotopic signatures of organic matter fractions sequentially separated from adjacent arable and forest soils to identify carbon stabilization mechanisms</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>8</volume>
+              <issue>10</issue>
+              <first_page>2895</first_page>
+              <doi>10.5194/bg-8-2895-2011</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0076|gbc20351-cit-0076">
+              <author>Keiser</author>
+              <cYear>2011</cYear>
+              <article_title>The effect of resource history on the functioning of soil microbial communities is maintained across time</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>8</volume>
+              <issue>6</issue>
+              <first_page>1477</first_page>
+              <doi>10.5194/bg-8-1477-2011</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0077|gbc20351-cit-0077">
+              <author>Kleber</author>
+              <cYear>2011</cYear>
+              <article_title>Old and stable soil organic matter is not necessarily chemically recalcitrant: Implications for modeling concepts and temperature sensitivity</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>17</volume>
+              <issue>2</issue>
+              <first_page>1097</first_page>
+              <doi>10.1111/j.1365-2486.2010.02278.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0078|gbc20351-cit-0078">
+              <author>Knorr</author>
+              <cYear>2005</cYear>
+              <article_title>Nitrogen additions and litter decomposition: A meta-analysis</article_title>
+              <journal_title>Ecology</journal_title>
+              <volume>86</volume>
+              <issue>12</issue>
+              <first_page>3252</first_page>
+              <doi>10.1890/05-0150</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0079|gbc20351-cit-0079">
+              <author>Knutti</author>
+              <cYear>2013</cYear>
+              <article_title>Robustness and uncertainties in the new CMIP5 climate model projections</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>3</volume>
+              <issue>4</issue>
+              <first_page>369</first_page>
+              <doi>10.1038/nclimate1716</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0080|gbc20351-cit-0080">
+              <author>Koven</author>
+              <cYear>2013</cYear>
+              <article_title>The effect of vertically-resolved soil biogeochemistry and alternate soil C and N models on C dynamics of CLM4</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>10</volume>
+              <first_page>7109</first_page>
+              <doi>10.5194/bg-10-7109-2013</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0081|gbc20351-cit-0081">
+              <author>Koven</author>
+              <cYear>2015</cYear>
+              <article_title>Controls on terrestrial carbon feedbacks by productivity vs. turnover in the CMIP5 Earth System Models</article_title>
+              <journal_title>Biogeosci. Discuss.</journal_title>
+              <volume>12</volume>
+              <first_page>5757</first_page>
+              <doi>10.5194/bgd-12-5757-2015</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0082|gbc20351-cit-0082">
+              <author>Kramer</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1016/j.soilbio.2010.02.021</doi>
+              <article_title>Recent (&lt;4 year old) leaf litter is not a major source of microbial carbon in a temperate forest mineral soil</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>42</volume>
+              <issue>7</issue>
+              <first_page>1028</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0083|gbc20351-cit-0083">
+              <author>Kuzyakov</author>
+              <cYear>2015</cYear>
+              <article_title>Microbial hotspots and hot moments in soil: Concept &amp; review</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>83</volume>
+              <first_page>184</first_page>
+              <doi>10.1016/j.soilbio.2015.01.025</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0084|gbc20351-cit-0084">
+              <author>Lajtha</author>
+              <cYear>2014</cYear>
+              <article_title>Litter and root manipulations provide insights into soil organic matter dynamics and stability</article_title>
+              <journal_title>Soil Sci. Soc. Am. J.</journal_title>
+              <volume>78</volume>
+              <issue>S1</issue>
+              <first_page>S261</first_page>
+              <doi>10.2136/sssaj2013.08.0370nafsc</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0085|gbc20351-cit-0085">
+              <author>Lawrence</author>
+              <cYear>2009</cYear>
+              <article_title>Does adding microbial mechanisms of decomposition improve soil organic matter models? A comparison of four models using data from a pulsed rewetting experiment</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>41</volume>
+              <issue>9</issue>
+              <first_page>1923</first_page>
+              <doi>10.1016/j.soilbio.2009.06.016</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0086|gbc20351-cit-0086">
+              <author>LeBauer</author>
+              <cYear>2008</cYear>
+              <article_title>Nitrogen limitation of net primary productivity in terrestrial ecosystems is globally distributed</article_title>
+              <journal_title>Ecology</journal_title>
+              <volume>89</volume>
+              <issue>2</issue>
+              <first_page>371</first_page>
+              <doi>10.1890/06-2057.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0087|gbc20351-cit-0087">
+              <author>Li</author>
+              <cYear>2014</cYear>
+              <article_title>Soil carbon sensitivity to temperature and carbon use efficiency compared across microbial-ecosystem models of varying complexity</article_title>
+              <journal_title>Biogeochemistry</journal_title>
+              <volume>119</volume>
+              <issue>1-3</issue>
+              <first_page>67</first_page>
+              <doi>10.1007/s10533-013-9948-8</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0088|gbc20351-cit-0088">
+              <author>Liu</author>
+              <cYear>2010</cYear>
+              <article_title>A global perspective on belowground carbon dynamics under nitrogen enrichment</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>13</volume>
+              <issue>7</issue>
+              <first_page>819</first_page>
+              <doi>10.1111/j.1461-0248.2010.01482.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0089|gbc20351-cit-0089">
+              <author>Lu</author>
+              <cYear>2011</cYear>
+              <article_title>Minor stimulation of soil carbon storage by nitrogen addition: A meta-analysis</article_title>
+              <journal_title>Agric., Ecosyst. Environ.</journal_title>
+              <volume>140</volume>
+              <issue>1-2</issue>
+              <first_page>234</first_page>
+              <doi>10.1016/J.Agee.2010.12.010</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0091|gbc20351-cit-0091">
+              <author>Luo</author>
+              <cYear>2001</cYear>
+              <article_title>Acclimatization of soil respiration to warming in a tall grass prairie</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>413</volume>
+              <issue>6856</issue>
+              <first_page>622</first_page>
+              <doi>10.1038/35098065</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0092|gbc20351-cit-0092">
+              <author>Luo</author>
+              <cYear>2011</cYear>
+              <article_title>Ecological forecasting and data assimilation in a Data-Rich Era</article_title>
+              <journal_title>Ecol. Appl.</journal_title>
+              <volume>21</volume>
+              <first_page>1429</first_page>
+              <doi>10.1890/09-1275.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0090|gbc20351-cit-0090">
+              <author>Luo</author>
+              <cYear>2012</cYear>
+              <article_title>A framework for benchmarking land models</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>9</volume>
+              <issue>10</issue>
+              <first_page>3857</first_page>
+              <doi>10.5194/bg-9-3857-2012</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0094|gbc20351-cit-0094">
+              <author>Manzoni</author>
+              <cYear>2014</cYear>
+              <article_title>Invariant soil water potential at zero microbial respiration explained by hydrological discontinuity in dry soils</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>7151</first_page>
+              <doi>10.1002/2014GL061467</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0093|gbc20351-cit-0093">
+              <author>Manzoni</author>
+              <cYear>2009</cYear>
+              <article_title>Soil carbon and nitrogen mineralization: Theory and models across scales</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>41</volume>
+              <issue>7</issue>
+              <first_page>1355</first_page>
+              <doi>10.1016/j.soilbio.2009.02.031</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0095|gbc20351-cit-0095">
+              <author>Melillo</author>
+              <cYear>2002</cYear>
+              <article_title>Soil warming and carbon-cycle feedbacks to the climate system</article_title>
+              <journal_title>Science</journal_title>
+              <volume>298</volume>
+              <issue>5601</issue>
+              <first_page>2173</first_page>
+              <doi>10.1126/science.1074153</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0096|gbc20351-cit-0096">
+              <author>Melillo</author>
+              <cYear>2011</cYear>
+              <article_title>Soil warming, carbon-nitrogen interactions, and forest carbon budgets</article_title>
+              <journal_title>Proc. Natl. Acad. Sci. U.S.A.</journal_title>
+              <volume>108</volume>
+              <issue>23</issue>
+              <first_page>9508</first_page>
+              <doi>10.1073/pnas.1018189108</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0097|gbc20351-cit-0097">
+              <author>Miller</author>
+              <cYear>2005</cYear>
+              <article_title>Episodic rewetting enhances carbon and nitrogen release from chaparral soils</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>37</volume>
+              <issue>12</issue>
+              <first_page>2195</first_page>
+              <doi>10.1016/J.Soilbio.2005.03.021</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0098|gbc20351-cit-0098">
+              <author>Miltner</author>
+              <cYear>2012</cYear>
+              <article_title>SOM genesis: Microbial biomass as a significant source</article_title>
+              <journal_title>Biogeochemistry</journal_title>
+              <volume>111</volume>
+              <issue>1-3</issue>
+              <first_page>41</first_page>
+              <doi>10.1007/s10533-011-9658-z</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0099|gbc20351-cit-0099">
+              <author>Monod</author>
+              <cYear>1949</cYear>
+              <article_title>The growth of bacterial cultures</article_title>
+              <journal_title>Annu. Rev. Microbiol.</journal_title>
+              <volume>3</volume>
+              <issue>1</issue>
+              <first_page>371</first_page>
+              <doi>10.1146/annurev.mi.03.100149.002103</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0100|gbc20351-cit-0100">
+              <author>Moorcroft</author>
+              <cYear>2001</cYear>
+              <article_title>A method for scaling vegetation dynamics: The ecosystem demography model (ED)</article_title>
+              <journal_title>Ecol. Monogr.</journal_title>
+              <volume>71</volume>
+              <issue>4</issue>
+              <first_page>557</first_page>
+              <doi>10.1890/0012-9615(2001)071[0557:Amfsvd]2.0.Co;2</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0101|gbc20351-cit-0101">
+              <author>Moore</author>
+              <cYear>2008</cYear>
+              <article_title>Litter decomposition and nitrogen and phosphorus dynamics in peatlands and uplands over 12 years in central Canada</article_title>
+              <journal_title>Oceologia</journal_title>
+              <volume>157</volume>
+              <issue>2</issue>
+              <first_page>318</first_page>
+              <doi>10.1007/s00442-008-1076-0</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0102|gbc20351-cit-0102">
+              <author>Moorhead</author>
+              <cYear>2000</cYear>
+              <article_title>Simulated patterns of litter decay predict patterns of extracellular enzyme activities</article_title>
+              <journal_title>Appl. Soil Ecol.</journal_title>
+              <volume>14</volume>
+              <issue>1</issue>
+              <first_page>71</first_page>
+              <doi>10.1016/S0929-1393(99)00043-8</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0103|gbc20351-cit-0103">
+              <author>Moorhead</author>
+              <cYear>2006</cYear>
+              <article_title>A theoretical model of litter decay and microbial interaction</article_title>
+              <journal_title>Ecol. Monogr.</journal_title>
+              <volume>76</volume>
+              <issue>2</issue>
+              <first_page>151</first_page>
+              <doi>10.1890/0012-9615(2006)076[0151:Atmold]2.0.Co;2</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0104|gbc20351-cit-0104">
+              <author>Neff</author>
+              <cYear>2002</cYear>
+              <article_title>Variable effects of nitrogen additions on the stability and turnover of soil carbon</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>419</volume>
+              <issue>6910</issue>
+              <first_page>915</first_page>
+              <doi>10.1038/nature01136</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0105|gbc20351-cit-0105">
+              <author>Norby</author>
+              <cYear>2011</cYear>
+              <article_title>Ecological lessons from Free-Air CO2 Enrichment (FACE) experiments</article_title>
+              <journal_title>Annu. Rev. Ecol. Evol. Syst.</journal_title>
+              <volume>42</volume>
+              <issue>1</issue>
+              <first_page>181</first_page>
+              <doi>10.1146/annurev-ecolsys-102209-144647</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0106|gbc20351-cit-0106">
+              <author>Norby</author>
+              <cYear>2004</cYear>
+              <article_title>Fine-root production dominates response of a deciduous forest to atmospheric CO2 enrichment</article_title>
+              <journal_title>Proc. Natl. Acad. Sci. U.S.A.</journal_title>
+              <volume>101</volume>
+              <issue>26</issue>
+              <first_page>9689</first_page>
+              <doi>10.1073/pnas.0403491101</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0107|gbc20351-cit-0107">
+              <author>Olson</author>
+              <cYear>1963</cYear>
+              <doi provider="crossref">10.2307/1932179</doi>
+              <article_title>Energy storage and the balance of producers and decomposers in ecological systems</article_title>
+              <journal_title>Ecology</journal_title>
+              <volume>44</volume>
+              <first_page>322</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0108|gbc20351-cit-0108">
+              <author>Parnas</author>
+              <cYear>1975</cYear>
+              <article_title>Model for decomposition of organic material by microorganisms</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>7</volume>
+              <issue>2</issue>
+              <first_page>161</first_page>
+              <doi>10.1016/0038-0717(75)90014-0</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0109|gbc20351-cit-0109">
+              <author>Parton</author>
+              <cYear>1987</cYear>
+              <article_title>Analysis of factors controlling soil organic-matter levels in Great-Plains grasslands</article_title>
+              <journal_title>Soil Sci. Soc. Am. J.</journal_title>
+              <volume>51</volume>
+              <issue>5</issue>
+              <first_page>1173</first_page>
+              <doi>10.2136/sssaj1987.03615995005100050015x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0110|gbc20351-cit-0110">
+              <author>Parton</author>
+              <cYear>1988</cYear>
+              <article_title>Dynamics of C, N, P and S in grassland soils-A model</article_title>
+              <journal_title>Biogeochemistry</journal_title>
+              <volume>5</volume>
+              <issue>1</issue>
+              <first_page>109</first_page>
+              <doi>10.1007/Bf02180320</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0111|gbc20351-cit-0111">
+              <author>Parton</author>
+              <cYear>2007</cYear>
+              <article_title>Global-scale similarities in nitrogen release patterns during long-term decomposition</article_title>
+              <journal_title>Science</journal_title>
+              <volume>315</volume>
+              <issue>5810</issue>
+              <first_page>361</first_page>
+              <doi>10.1126/science.1134853</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0112|gbc20351-cit-0112">
+              <author>Paul</author>
+              <cYear>1996</cYear>
+              <volume_title>Soil Organic Matter in Temperate Agroecosystems: Long-Term Experiments in North America</volume_title>
+              <first_page>432</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0113|gbc20351-cit-0113">
+              <author>Paustian</author>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.2136/sssaj1992.03615995005600020023x</doi>
+              <article_title>Modeling soil organic-matter in organic-amended and nitrogen-fertilized long-term plots</article_title>
+              <journal_title>Soil Sci. Soc. Am. J.</journal_title>
+              <volume>56</volume>
+              <issue>2</issue>
+              <first_page>476</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0114|gbc20351-cit-0114">
+              <author>Phillips</author>
+              <cYear>2011</cYear>
+              <article_title>Enhanced root exudation induces microbial feedbacks to N cycling in a pine forest under long-term CO2 fumigation</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>14</volume>
+              <issue>2</issue>
+              <first_page>187</first_page>
+              <doi>10.1111/j.1461-0248.2010.01570.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0115|gbc20351-cit-0115">
+              <author>Phillips</author>
+              <cYear>2012</cYear>
+              <article_title>Roots and fungi accelerate carbon and nitrogen cycling in forests exposed to elevated CO2</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>15</volume>
+              <issue>9</issue>
+              <first_page>1042</first_page>
+              <doi>10.1111/j.1461-0248.2012.01827.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0116|gbc20351-cit-0116">
+              <author>Qian</author>
+              <cYear>2006</cYear>
+              <article_title>Simulation of global land surface conditions from 1948 to 2004. Part I: Forcing data and evaluations</article_title>
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <volume>7</volume>
+              <issue>5</issue>
+              <first_page>953</first_page>
+              <doi>10.1175/JHM540.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0117|gbc20351-cit-0117">
+              <author>Ramirez</author>
+              <cYear>2012</cYear>
+              <article_title>Consistent effects of nitrogen amendments on soil microbial communities and processes across biomes</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>18</volume>
+              <issue>6</issue>
+              <first_page>1918</first_page>
+              <doi>10.1111/j.1365-2486.2012.02639.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0118|gbc20351-cit-0118">
+              <author>Randerson</author>
+              <cYear>1996</cYear>
+              <article_title>Substrate limitations for heterotrophs: Implications for models that estimate the seasonal cycle of atmospheric CO2</article_title>
+              <journal_title>Global Biogeochem. Cycles</journal_title>
+              <volume>10</volume>
+              <issue>4</issue>
+              <first_page>585</first_page>
+              <doi>10.1029/96GB01981</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0119|gbc20351-cit-0119">
+              <author>Rastetter</author>
+              <cYear>2001</cYear>
+              <article_title>Resource optimization and symbiotic N fixation</article_title>
+              <journal_title>Ecosystems</journal_title>
+              <volume>4</volume>
+              <issue>4</issue>
+              <first_page>369</first_page>
+              <doi>10.1007/s10021-001-0018-z</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0120|gbc20351-cit-0120">
+              <author>Rastetter</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1890/03-5303</doi>
+              <article_title>Carbon sequestration in terrestrial ecosystems under elevated CO2 and temperature: Role of dissolved organic N loss</article_title>
+              <journal_title>Ecol. Appl.</journal_title>
+              <volume>15</volume>
+              <first_page>71</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0121|gbc20351-cit-0121">
+              <author>Rayner</author>
+              <cYear>2005</cYear>
+              <article_title>Two decades of terrestrial carbon fluxes from a carbon cycle data assimilation system (CCDAS)</article_title>
+              <journal_title>Global Biogeochem. Cycles</journal_title>
+              <volume>19</volume>
+              <doi>10.1029/2004GB002254</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0122|gbc20351-cit-0122">
+              <author>Reich</author>
+              <cYear>2006</cYear>
+              <article_title>Carbon-nitrogen interactions in terrestrial ecosystems in response to rising atmospheric carbon dioxide</article_title>
+              <journal_title>Annu. Rev. Ecol. Evol. Syst.</journal_title>
+              <volume>37</volume>
+              <first_page>611</first_page>
+              <doi>10.1146/annurev.ecolsys.37.091305.110039</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0123|gbc20351-cit-0123">
+              <author>Resat</author>
+              <cYear>2012</cYear>
+              <article_title>Modeling microbial dynamics in heterogeneous environments: Growth on soil carbon sources</article_title>
+              <journal_title>Microb. Ecol.</journal_title>
+              <volume>63</volume>
+              <issue>4</issue>
+              <first_page>883</first_page>
+              <doi>10.1007/s00248-011-9965-x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0124|gbc20351-cit-0124">
+              <author>Reynolds</author>
+              <cYear>1996</cYear>
+              <article_title>The ecological significance of plasticity in root weight ratio in response to nitrogen: Opinion</article_title>
+              <journal_title>Plant Soil</journal_title>
+              <volume>185</volume>
+              <issue>1</issue>
+              <first_page>75</first_page>
+              <doi>10.1007/BF02257566</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0125|gbc20351-cit-0125">
+              <author>Riley</author>
+              <cYear>2014</cYear>
+              <article_title>Long residence times of rapidly decomposable soil organic matter: Application of a multi-phase, multi-component, and vertically resolved model (BAMS1) to soil carbon dynamics</article_title>
+              <journal_title>Geosci. Model Dev.</journal_title>
+              <volume>7</volume>
+              <issue>4</issue>
+              <first_page>1335</first_page>
+              <doi>10.5194/gmd-7-1335-2014</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0126|gbc20351-cit-0126">
+              <author>Saiya-Cork</author>
+              <cYear>2002</cYear>
+              <article_title>The effects of long term nitrogen deposition on extracellular enzyme activity in an Acer saccharum forest soil</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>34</volume>
+              <issue>9</issue>
+              <first_page>1309</first_page>
+              <doi>10.1016/s0038-0717(02)00074-3</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0127|gbc20351-cit-0127">
+              <author>Scheibe</author>
+              <cYear>2009</cYear>
+              <article_title>Coupling a genome-scale metabolic model with a reactive transport model to describe in situ uranium bioremediation</article_title>
+              <journal_title>Microb. Biotechnol.</journal_title>
+              <volume>2</volume>
+              <issue>2</issue>
+              <first_page>274</first_page>
+              <doi>10.1111/j.1751-7915.2009.00087.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0128|gbc20351-cit-0128">
+              <author>Schimel</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1016/B978-012631260-7/50015-7</doi>
+              <volume_title>Global Biogeochemical Cycles in the Climate System</volume_title>
+              <first_page>177</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0130|gbc20351-cit-0130">
+              <author>Schimel</author>
+              <cYear>2012</cYear>
+              <article_title>Microbial control over carbon cycling in soil</article_title>
+              <journal_title>Front. Microbiol.</journal_title>
+              <volume>3</volume>
+              <first_page>348</first_page>
+              <doi>10.3389/fmicb.2012.00348</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0129|gbc20351-cit-0129">
+              <author>Schimel</author>
+              <cYear>2003</cYear>
+              <article_title>The implications of exoenzyme activity on microbial carbon and nitrogen limitation in soil: A theoretical model</article_title>
+              <journal_title>Soil Biol. Biochem.</journal_title>
+              <volume>35</volume>
+              <issue>4</issue>
+              <first_page>549</first_page>
+              <doi>10.1016/s0038-0717(03)00015-4</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0131|gbc20351-cit-0131">
+              <author>Schmidt</author>
+              <cYear>2011</cYear>
+              <article_title>Persistence of soil organic matter as an ecosystem property</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>478</volume>
+              <issue>7367</issue>
+              <first_page>49</first_page>
+              <doi>10.1038/nature10386</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0132|gbc20351-cit-0132">
+              <author>Serna-Chavez</author>
+              <cYear>2013</cYear>
+              <article_title>Global drivers and patterns of microbial abundance in soil</article_title>
+              <journal_title>Global Ecol. Biogeogr.</journal_title>
+              <volume>22</volume>
+              <issue>10</issue>
+              <first_page>1162</first_page>
+              <doi>10.1111/geb.12070</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0133|gbc20351-cit-0133">
+              <author>Sierra</author>
+              <cYear>2011</cYear>
+              <article_title>Decomposition of heterogeneous organic matter and its long-term stabilization in soils</article_title>
+              <journal_title>Ecol. Monogr.</journal_title>
+              <volume>81</volume>
+              <issue>4</issue>
+              <first_page>619</first_page>
+              <doi>10.1890/11-0811.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0134|gbc20351-cit-0134">
+              <author>Sierra</author>
+              <cYear>2012a</cYear>
+              <article_title>Models of soil organic matter decomposition: The SoilR package, version 1.0</article_title>
+              <journal_title>Geosci. Model Dev.</journal_title>
+              <volume>5</volume>
+              <issue>4</issue>
+              <first_page>1045</first_page>
+              <doi>10.5194/gmd-5-1045-2012</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0135|gbc20351-cit-0135">
+              <author>Sierra</author>
+              <cYear>2012b</cYear>
+              <article_title>Predicting decadal trends and transient responses of radiocarbon storage and fluxes in a temperate forest soil</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>9</volume>
+              <first_page>3013</first_page>
+              <doi>10.5194/bg-9-3013-2012</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0136|gbc20351-cit-0136">
+              <author>Sihi</author>
+              <cYear>2015</cYear>
+              <article_title>Comparing models of microbial-substrate interactions and their response to warming</article_title>
+              <journal_title>Biogeosci. Discuss.</journal_title>
+              <volume>12</volume>
+              <issue>13</issue>
+              <first_page>10,857</first_page>
+              <doi>10.5194/bgd-12-10857-2015</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0137|gbc20351-cit-0137">
+              <author>Sinsabaugh</author>
+              <cYear>2008</cYear>
+              <article_title>Stoichiometry of soil enzyme activity at global scale</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>11</volume>
+              <issue>11</issue>
+              <first_page>1252</first_page>
+              <doi>10.1111/j.1461-0248.2008.01245.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0138|gbc20351-cit-0138">
+              <author>Sinsabaugh</author>
+              <cYear>2014</cYear>
+              <article_title>Extracellular enzyme kinetics scale with resource availability</article_title>
+              <journal_title>Biogeochemistry</journal_title>
+              <volume>121</volume>
+              <first_page>287</first_page>
+              <doi>10.1007/s10533-014-0030-y</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0139|gbc20351-cit-0139">
+              <author>Sinsabaugh</author>
+              <cYear>2015</cYear>
+              <article_title>Scaling microbial biomass, metabolism and resource supply</article_title>
+              <journal_title>Biogeochemistry</journal_title>
+              <volume>122</volume>
+              <first_page>175</first_page>
+              <doi>10.1007/s10533-014-0058-z</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0140|gbc20351-cit-0140">
+              <author>Sinsabaugh</author>
+              <cYear>1994</cYear>
+              <article_title>Enzymic analysis of microbial pattern and process</article_title>
+              <journal_title>Biol. Fertil. Soils</journal_title>
+              <volume>17</volume>
+              <issue>1</issue>
+              <first_page>69</first_page>
+              <doi>10.1007/BF00418675</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0141|gbc20351-cit-0141">
+              <author>Sistla</author>
+              <cYear>2014</cYear>
+              <article_title>Responses of a tundra system to warming using SCAMPS: A stoichiometrically coupled, acclimating microbe-plant-soil model</article_title>
+              <journal_title>Ecol. Monogr.</journal_title>
+              <volume>84</volume>
+              <issue>1</issue>
+              <first_page>151</first_page>
+              <doi>10.1890/12-2119.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0142|gbc20351-cit-0142">
+              <author>Sitch</author>
+              <cYear>2015</cYear>
+              <article_title>Recent trends and drivers of regional sources and sinks of carbon dioxide</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>12</volume>
+              <issue>3</issue>
+              <first_page>653</first_page>
+              <doi>10.5194/bg-12-653-2015</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0143|gbc20351-cit-0143">
+              <author>Smith</author>
+              <cYear>2002</cYear>
+              <article_title>When is a measured soil organic matter fraction equivalent to a model pool?</article_title>
+              <journal_title>Eur. J. Soil Sci.</journal_title>
+              <volume>53</volume>
+              <issue>3</issue>
+              <first_page>405</first_page>
+              <doi>10.1046/j.1365-2389.2002.00458.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0144|gbc20351-cit-0144">
+              <author>Smith</author>
+              <cYear>2013</cYear>
+              <article_title>The climate dependence of the terrestrial carbon cycle, including parameter and structural uncertainties</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>10</volume>
+              <issue>1</issue>
+              <first_page>583</first_page>
+              <doi>10.5194/Bg-10-583-2013</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0145|gbc20351-cit-0145">
+              <author>Stark</author>
+              <cYear>1995</cYear>
+              <article_title>Mechanisms for soil moisture effects on activity of nitrifying bacteria</article_title>
+              <journal_title>Appl. Environ. Microbiol.</journal_title>
+              <volume>61</volume>
+              <issue>1</issue>
+              <first_page>218</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0146|gbc20351-cit-0146">
+              <author>Stone</author>
+              <cYear>2012</cYear>
+              <article_title>Temperature sensitivity of soil enzyme kinetics under N-fertilization in two temperate forests</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>18</volume>
+              <issue>3</issue>
+              <first_page>1173</first_page>
+              <doi>10.1111/j.1365-2486.2011.02545.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0147|gbc20351-cit-0147">
+              <author>Strigul</author>
+              <cYear>2008</cYear>
+              <article_title>Scaling from trees to forests: Tractable macroscopic equations for forest dynamics</article_title>
+              <journal_title>Ecol. Monogr.</journal_title>
+              <volume>78</volume>
+              <issue>4</issue>
+              <first_page>523</first_page>
+              <doi>10.1890/08-0082.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0148|gbc20351-cit-0148">
+              <author>Sulman</author>
+              <cYear>2014</cYear>
+              <article_title>Microbe-driven turnover offsets mineral-mediated storage of soil carbon under elevated CO2</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>4</volume>
+              <issue>12</issue>
+              <first_page>1099</first_page>
+              <doi>10.1038/nclimate2436</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0150|gbc20351-cit-0150">
+              <author>Tang</author>
+              <cYear>2014</cYear>
+              <article_title>Weaker soil carbon-climate feedbacks resulting from microbial and abiotic interactions</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>5</volume>
+              <issue>1</issue>
+              <first_page>56</first_page>
+              <doi>10.1038/nclimate2438</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0149|gbc20351-cit-0149">
+              <author>Tang</author>
+              <cYear>2009</cYear>
+              <article_title>A global sensitivity analysis and Bayesian inference framework for improving the parameter estimation and prediction of a process-based Terrestrial Ecosystem Model</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>114</volume>
+              <doi>10.1029/2009JD011724</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0151|gbc20351-cit-0151">
+              <author>Tenney</author>
+              <cYear>1929</cYear>
+              <doi provider="crossref">10.1097/00010694-192907000-00005</doi>
+              <article_title>Composition of natural organic materials and their decomposition in the soil: IV. The nature and rapidity of decomposition of the various organic complexes in different plant materials, under aerobic conditions</article_title>
+              <journal_title>Soil Sci.</journal_title>
+              <volume>28</volume>
+              <issue>1</issue>
+              <first_page>55</first_page>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0152|gbc20351-cit-0152">
+              <author>Todd-Brown</author>
+              <cYear>2013</cYear>
+              <article_title>Causes of variation in soil carbon predictions from CMIP5 Earth system models and comparison with observations</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>10</volume>
+              <first_page>1717</first_page>
+              <doi>10.5194/bg-10-1717-2013</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0153|gbc20351-cit-0153">
+              <author>Todd-Brown</author>
+              <cYear>2014</cYear>
+              <article_title>Changes in soil organic carbon storage predicted by Earth system models during the 21st century</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>11</volume>
+              <issue>8</issue>
+              <first_page>2341</first_page>
+              <doi>10.5194/bg-11-2341-2014</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0154|gbc20351-cit-0154">
+              <author>Torn</author>
+              <cYear>1997</cYear>
+              <article_title>Mineral control of soil organic carbon storage and turnover</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>389</volume>
+              <issue>6647</issue>
+              <first_page>170</first_page>
+              <doi>10.1038/38260</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0155|gbc20351-cit-0155">
+              <author>Torn</author>
+              <cYear>2002</cYear>
+              <article_title>Organic carbon and carbon isotopes in modern and 100-year-old-soil archives of the Russian steppe</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>8</volume>
+              <issue>10</issue>
+              <first_page>941</first_page>
+              <doi>10.1046/j.1365-2486.2002.00477.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0156|gbc20351-cit-0156">
+              <author>Treseder</author>
+              <cYear>2008</cYear>
+              <article_title>Nitrogen additions and microbial biomass: A meta-analysis of ecosystem studies</article_title>
+              <journal_title>Ecol. Lett.</journal_title>
+              <volume>11</volume>
+              <issue>10</issue>
+              <first_page>1111</first_page>
+              <doi>10.1111/j.1461-0248.2008.01230.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0157|gbc20351-cit-0157">
+              <author>Treseder</author>
+              <cYear>2012</cYear>
+              <article_title>Integrating microbial ecology into ecosystem models: Challenges and priorities</article_title>
+              <journal_title>Biogeochemistry</journal_title>
+              <volume>109</volume>
+              <issue>1</issue>
+              <first_page>7</first_page>
+              <doi>10.1007/s10533-011-9636-5</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0158|gbc20351-cit-0158">
+              <author>Groenigen</author>
+              <cYear>2014</cYear>
+              <article_title>Faster decomposition under increased atmospheric CO2 limits soil carbon storage</article_title>
+              <journal_title>Science</journal_title>
+              <volume>344</volume>
+              <issue>6183</issue>
+              <first_page>508</first_page>
+              <doi>10.1126/science.1249534</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0159|gbc20351-cit-0159">
+              <author>Van Veen</author>
+              <cYear>1981</cYear>
+              <article_title>Organic carbon dynamics in grassland soils. 1. Background information and computer simulation</article_title>
+              <journal_title>Can. J. Soil Sci.</journal_title>
+              <volume>61</volume>
+              <issue>2</issue>
+              <first_page>185</first_page>
+              <doi>10.4141/cjss81-024</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0160|gbc20351-cit-0160">
+              <unstructured_citation>Viovy , N. 2014 CRUNCEP dataset, version 5 http://dods.extra.cea.fr/data/p529viov/cruncep/readme.htm</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0161|gbc20351-cit-0161">
+              <author>Waldrop</author>
+              <cYear>2004</cYear>
+              <article_title>Nitrogen deposition modifies soil carbon storage through changes in microbial enzymatic activity</article_title>
+              <journal_title>Ecol. Appl.</journal_title>
+              <volume>14</volume>
+              <issue>4</issue>
+              <first_page>1172</first_page>
+              <doi>10.1890/03-5120</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0162|gbc20351-cit-0162">
+              <author>Wang</author>
+              <cYear>2013</cYear>
+              <article_title>Development of microbial-enzyme-mediated decomposition model parameters through steady-state and dynamic analyses</article_title>
+              <journal_title>Ecol. Appl.</journal_title>
+              <volume>23</volume>
+              <issue>1</issue>
+              <first_page>255</first_page>
+              <doi>10.1890/12-0681.1</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0163|gbc20351-cit-0163">
+              <author>Wang</author>
+              <cYear>2015a</cYear>
+              <article_title>Microbial dormancy improves development and experimental validation of ecosystem model</article_title>
+              <journal_title>ISME J.</journal_title>
+              <volume>9</volume>
+              <issue>1</issue>
+              <first_page>226</first_page>
+              <doi>10.1038/ismej.2014.120</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0164|gbc20351-cit-0164">
+              <author>Wang</author>
+              <cYear>2007</cYear>
+              <article_title>A model of biogeochemical cycles of carbon, nitrogen, and phosphorus including symbiotic nitrogen fixation and phosphatase production</article_title>
+              <journal_title>Global Biogeochem. Cycles</journal_title>
+              <volume>21</volume>
+              <doi>10.1029/2006GB002797</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0165|gbc20351-cit-0165">
+              <author>Wang</author>
+              <cYear>2009</cYear>
+              <article_title>A review of applications of model-data fusion to studies of terrestrial carbon fluxes at different scales</article_title>
+              <journal_title>Agric. For. Meteorol.</journal_title>
+              <volume>149</volume>
+              <issue>11</issue>
+              <first_page>1829</first_page>
+              <doi>10.1016/j.agrformet.2009.07.009</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0166|gbc20351-cit-0166">
+              <author>Wang</author>
+              <cYear>2014</cYear>
+              <article_title>Oscillatory behavior of two nonlinear microbial models of soil carbon decomposition</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>11</volume>
+              <issue>7</issue>
+              <first_page>1817</first_page>
+              <doi>10.5194/bg-11-1817-2014</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0167|gbc20351-cit-0167">
+              <author>Wang</author>
+              <cYear>2015b</cYear>
+              <article_title>Responses of two nonlinear microbial models to warming or increased carbon input</article_title>
+              <journal_title>Biogeosci. Discuss.</journal_title>
+              <volume>12</volume>
+              <first_page>14,647</first_page>
+              <doi>10.5194/bgd-12-14647-2015</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0168|gbc20351-cit-0168">
+              <author>Wieder</author>
+              <cYear>2013</cYear>
+              <article_title>Global soil carbon projections are improved by modelling microbial processes</article_title>
+              <journal_title>Nat. Clim. Change</journal_title>
+              <volume>3</volume>
+              <issue>10</issue>
+              <first_page>909</first_page>
+              <doi>10.1038/nclimate1951</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0169|gbc20351-cit-0169">
+              <author>Wieder</author>
+              <cYear>2014a</cYear>
+              <article_title>Evaluating soil biogeochemistry parameterizations in Earth system models with observations</article_title>
+              <journal_title>Global Biogeochem. Cycles</journal_title>
+              <volume>28</volume>
+              <first_page>211</first_page>
+              <doi>10.1002/2013GB004665</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0170|gbc20351-cit-0170">
+              <author>Wieder</author>
+              <cYear>2014b</cYear>
+              <article_title>Integrating microbial physiology and physio-chemical principles in soils with the MIcrobial-MIneral Carbon Stabilization (MIMICS) model</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>11</volume>
+              <first_page>3899</first_page>
+              <doi>10.5194/bg-11-3899-2014</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0171|gbc20351-cit-0171">
+              <unstructured_citation>Wieder , W. R. J. Boehnert G. B. Bonan M. Langseth 2014c Regridded harmonized world soil database v1.2 http://daac.ornl.gov 10.3334/ORNLDAAC/1247</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0172|gbc20351-cit-0172">
+              <author>Wieder</author>
+              <cYear>2015</cYear>
+              <article_title>Representing life in the Earth system with soil microbial functional traits in the MIMICS model</article_title>
+              <journal_title>Geosci. Model Dev. Discuss.</journal_title>
+              <volume>8</volume>
+              <issue>2</issue>
+              <first_page>2011</first_page>
+              <doi>10.5194/gmdd-8-2011-2015</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0173|gbc20351-cit-0173">
+              <author>Wutzler</author>
+              <cYear>2008</cYear>
+              <article_title>Colimitation of decomposition by substrate and decomposers-A comparison of model formulations</article_title>
+              <journal_title>Biogeosciences</journal_title>
+              <volume>5</volume>
+              <issue>3</issue>
+              <first_page>749</first_page>
+              <doi>10.5194/bg-5-749-2008</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0174|gbc20351-cit-0174">
+              <author>Xia</author>
+              <cYear>2008</cYear>
+              <article_title>Global response patterns of terrestrial plant species to nitrogen addition</article_title>
+              <journal_title>New Phytol.</journal_title>
+              <volume>179</volume>
+              <issue>2</issue>
+              <first_page>428</first_page>
+              <doi>10.1111/j.1469-8137.2008.02488.x</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0175|gbc20351-cit-0175">
+              <author>Xia</author>
+              <cYear>2013</cYear>
+              <article_title>Traceable components of terrestrial carbon storage capacity in biogeochemical models</article_title>
+              <journal_title>Global Change Biol.</journal_title>
+              <volume>19</volume>
+              <issue>7</issue>
+              <first_page>2104</first_page>
+              <doi>10.1111/gcb.12172</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0176|gbc20351-cit-0176">
+              <author>Xu</author>
+              <cYear>2011</cYear>
+              <article_title>TOUGHREACT version 2.0: A simulator for subsurface reactive transport under non-isothermal multiphase flow conditions</article_title>
+              <journal_title>Comput. Geosci.</journal_title>
+              <volume>37</volume>
+              <issue>6</issue>
+              <first_page>763</first_page>
+              <doi>10.1016/j.cageo.2010.10.007</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0177|gbc20351-cit-0177">
+              <author>Xu</author>
+              <cYear>2006</cYear>
+              <article_title>Probabilistic inversion of a terrestrial ecosystem model: Analysis of uncertainty in parameter estimation and model prediction</article_title>
+              <journal_title>Global Biogeochem. Cycles</journal_title>
+              <volume>20</volume>
+              <doi>10.1029/2005GB002468</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0178|gbc20351-cit-0178">
+              <author>Xu</author>
+              <cYear>2013</cYear>
+              <article_title>A global analysis of soil microbial biomass carbon, nitrogen and phosphorus in terrestrial ecosystems</article_title>
+              <journal_title>Global Ecol. Biogeogr.</journal_title>
+              <volume>22</volume>
+              <issue>6</issue>
+              <first_page>737</first_page>
+              <doi>10.1111/geb.12029</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0179|gbc20351-cit-0179">
+              <author>Yang</author>
+              <cYear>2009</cYear>
+              <article_title>Integration of nitrogen cycle dynamics into the Integrated Science Assessment Model for the study of terrestrial ecosystem responses to global change</article_title>
+              <journal_title>Global Biogeochem. Cycles</journal_title>
+              <volume>23</volume>
+              <doi>10.1029/2009GB003474</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0180|gbc20351-cit-0180">
+              <author>Zaehle</author>
+              <cYear>2014</cYear>
+              <article_title>Evaluation of 11 terrestrial carbon-nitrogen cycle models against observations from two temperate Free-Air CO2 Enrichment studies</article_title>
+              <journal_title>New Phytol.</journal_title>
+              <volume>202</volume>
+              <issue>3</issue>
+              <first_page>803</first_page>
+              <doi>10.1111/nph.12697</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0181|gbc20351-cit-0181">
+              <author>Zhang</author>
+              <cYear>2008</cYear>
+              <article_title>Rates of litter decomposition in terrestrial ecosystems: Global patterns and controlling factors</article_title>
+              <journal_title>J. Plant Ecol.</journal_title>
+              <volume>1</volume>
+              <issue>2</issue>
+              <first_page>85</first_page>
+              <doi>10.1093/jpe/rtn002</doi>
+            </citation>
+            <citation key="10.1002/2015GB005188-BIB0182|gbc20351-cit-0182">
+              <author>Zhang</author>
+              <cYear>2014</cYear>
+              <article_title>Assessing five evolving microbial enzyme models against field measurements from a semiarid savannah-What are the mechanisms of soil respiration pulses?</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>41</volume>
+              <first_page>6428</first_page>
+              <doi>10.1002/2014GL061399</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

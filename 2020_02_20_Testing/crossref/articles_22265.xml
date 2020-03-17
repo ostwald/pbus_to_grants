@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.3390" timestamp="2018-12-18 02:48:55">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Sensors</full_title>
+          <abbrev_title>Sensors</abbrev_title>
+          <issn media_type="electronic">1424-8220</issn>
+          <coden>SENSC9</coden>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>12</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>18</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Coordinated Unmanned Aircraft System (UAS) and Ground-Based Weather Measurements to Predict Lagrangian Coherent Structures (LCSs)</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Peter</given_name>
+              <surname>Nolan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James</given_name>
+              <surname>Pinto</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Javier</given_name>
+              <surname>González-Rocha</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Anders</given_name>
+              <surname>Jensen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christina</given_name>
+              <surname>Vezzi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sean</given_name>
+              <surname>Bailey</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gijs</given_name>
+              <surname>de Boer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Constantin</given_name>
+              <surname>Diehl</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roger</given_name>
+              <surname>Laurence</surname>
+              <suffix>III</suffix>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Craig</given_name>
+              <surname>Powers</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hosein</given_name>
+              <surname>Foroutan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Shane</given_name>
+              <surname>Ross</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David</given_name>
+              <surname>Schmale</surname>
+              <suffix>III</suffix>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>Concentrations of airborne chemical and biological agents from a hazardous release are not spread uniformly. Instead, there are regions of higher concentration, in part due to local atmospheric flow conditions which can attract agents. We equipped a ground station and two rotary-wing unmanned aircraft systems (UASs) with ultrasonic anemometers. Flights reported here were conducted 10 to 15 m above ground level (AGL) at the Leach Airfield in the San Luis Valley, Colorado as part of the Lower Atmospheric Process Studies at Elevation—a Remotely-Piloted Aircraft Team Experiment (LAPSE-RATE) campaign in 2018. The ultrasonic anemometers were used to collect simultaneous measurements of wind speed, wind direction, and temperature in a fixed triangle pattern; each sensor was located at one apex of a triangle with ∼100 to 200 m on each side, depending on the experiment. A WRF-LES model was used to determine the wind field across the sampling domain. Data from the ground-based sensors and the two UASs were used to detect attracting regions (also known as Lagrangian Coherent Structures, or LCSs), which have the potential to transport high concentrations of agents. This unique framework for detection of high concentration regions is based on estimates of the horizontal wind gradient tensor. To our knowledge, our work represents the first direct measurement of an LCS indicator in the atmosphere using a team of sensors. Our ultimate goal is to use environmental data from swarms of sensors to drive transport models of hazardous agents that can lead to real-time proper decisions regarding rapid emergency responses. The integration of real-time data from unmanned assets, advanced mathematical techniques for transport analysis, and predictive models can help assist in emergency response decisions in the future.</p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>15</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>4448</first_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">s18124448</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006445</assertion>
+              </assertion>
+              <assertion name="award_number">AGS 1520825</assertion>
+              <assertion name="award_number">DMS 1821145</assertion>
+              <assertion name="award_number">AGS 1807199</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Department of Energy
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100008972</assertion>
+              </assertion>
+              <assertion name="award_number">DE-SC0018985</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <free_to_read/>
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.3390/s18124448</doi>
+            <resource>http://www.mdpi.com/1424-8220/18/12/4448</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://www.mdpi.com/1424-8220/18/12/4448/pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi>10.3390/s16071072</doi>
+            </citation>
+            <citation key="ref2">
+              <doi>10.3390/atmos8090176</doi>
+            </citation>
+            <citation key="ref3">
+              <doi>10.1007/s00024-018-1767-3</doi>
+            </citation>
+            <citation key="ref4">
+              <doi>10.1890/120150</doi>
+            </citation>
+            <citation key="ref5">
+              <author>Hill</author>
+              <article_title>Small, Radio-Controlled Aircraft as a Platform for Meteorological Sensors</article_title>
+              <journal_title>Atmos. Technol.</journal_title>
+              <cYear>1974</cYear>
+              <volume>6</volume>
+              <first_page>114</first_page>
+            </citation>
+            <citation key="ref6">
+              <doi>10.1175/JTECH-D-13-00236.1</doi>
+            </citation>
+            <citation key="ref7">
+              <doi>10.2514/6.2018-1844</doi>
+            </citation>
+            <citation key="ref8">
+              <doi>10.2514/6.2013-5201</doi>
+            </citation>
+            <citation key="ref9">
+              <doi>10.1016/j.measurement.2018.01.027</doi>
+            </citation>
+            <citation key="ref10">
+              <doi>10.1109/sieds.2017.7937739</doi>
+            </citation>
+            <citation key="ref11">
+              <doi>10.1175/jtech-d-17-0186.1</doi>
+            </citation>
+            <citation key="ref12">
+              <doi>10.1109/sieds.2014.6829915</doi>
+            </citation>
+            <citation key="ref13">
+              <doi>10.1109/JSEN.2009.2030652</doi>
+            </citation>
+            <citation key="ref14">
+              <doi>10.1016/j.proeng.2016.11.274</doi>
+            </citation>
+            <citation key="ref15">
+              <doi>10.1016/j.sna.2015.09.036</doi>
+            </citation>
+            <citation key="ref16">
+              <doi>10.1175/JTECH-D-16-0177.1</doi>
+            </citation>
+            <citation key="ref17"/>
+            <citation key="ref18"/>
+            <citation key="ref19">
+              <doi>10.3390/atmos8100195</doi>
+            </citation>
+            <citation key="ref20">
+              <author>González-Rocha</author>
+              <article_title>Sensing Wind from Quadrotor Motion</article_title>
+              <journal_title>J. Guid. Control Dyn.</journal_title>
+              <cYear>2018</cYear>
+            </citation>
+            <citation key="ref21">
+              <doi>10.1016/j.physd.2005.10.007</doi>
+            </citation>
+            <citation key="ref22">
+              <author>Schindler</author>
+              <article_title>Ridge concepts for the visualization of Lagrangian coherent structures</article_title>
+              <series_title>Topological Methods in Data Analysis and Visualization II</series_title>
+              <cYear>2012</cYear>
+              <first_page>221</first_page>
+            </citation>
+            <citation key="ref23">
+              <doi>10.1002/nme.3101</doi>
+            </citation>
+            <citation key="ref24">
+              <doi>10.1063/1.3624930</doi>
+            </citation>
+            <citation key="ref25">
+              <doi>10.1016/j.cnsns.2012.09.017</doi>
+            </citation>
+            <citation key="ref26">
+              <doi>10.1016/j.physd.2013.05.003</doi>
+            </citation>
+            <citation key="ref27">
+              <doi>10.5194/npg-22-663-2015</doi>
+            </citation>
+            <citation key="ref28">
+              <doi>10.1016/j.cnsns.2014.07.011</doi>
+            </citation>
+            <citation key="ref29"/>
+            <citation key="ref30">
+              <doi>10.1063/1.4951720</doi>
+            </citation>
+            <citation key="ref31"/>
+            <citation key="ref32">
+              <unstructured_citation>
+                <font>A Description of the Advanced Research WRF Version 3, NCAR Technical Note TN-475+STR</font>
+                <u>http://opensky.ucar.edu/islandora/object/technotes%3A500/datastream/PDF/view</u>
+              </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi>10.1016/j.jcp.2007.01.037</doi>
+            </citation>
+            <citation key="ref34">
+              <doi>10.1029/2018GL078642</doi>
+            </citation>
+            <citation key="ref35">
+              <doi>10.1175/JAS-D-13-0356.1</doi>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>
+                <font>On the Application of the Eddy Viscosity Concept in the Inertial Sub-Range of Turbulence</font>
+                <u>http://dx.doi.org/10.5065/D67H1GGQ</u>
+              </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi>10.1175/MWR-D-15-0242.1</doi>
+            </citation>
+            <citation key="ref38">
+              <doi>10.1063/PT.3.1886</doi>
+            </citation>
+            <citation key="ref39">
+              <doi>10.1146/annurev-phyto-080614-115942</doi>
+            </citation>
+            <citation key="ref40">
+              <doi>10.1038/scientificamerican0217-40</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

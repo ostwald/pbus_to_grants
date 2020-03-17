@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1002" timestamp="2019-08-08 01:07:16">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Concurrency and Computation: Practice and Experience</full_title>
+          <abbrev_title>Concurrency Computat.: Pract. Exper.</abbrev_title>
+          <issn>15320626</issn>
+        </journal_metadata>
+        <journal_issue>
+          <contributors>
+            <person_name contributor_role="editor" sequence="first">
+              <given_name>Nancy</given_name>
+              <surname>Wilkins-Diehr</surname>
+            </person_name>
+            <person_name contributor_role="editor" sequence="additional">
+              <given_name>Amit</given_name>
+              <surname>Majumdar</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>09</month>
+            <day>10</day>
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>26</volume>
+          </journal_volume>
+          <issue>13</issue>
+          <doi_data>
+            <doi>10.1002/cpe.v26.13</doi>
+            <resource>http://doi.wiley.com/10.1002/cpe.v26.13</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>National Center for Atmospheric Research storage accounting and analysis possibilities</title>
+            <subtitle>NCAR STORAGE ACCOUNTING AND ANALYSIS POSSIBILITIES</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>David L.</given_name>
+              <surname>Hart</surname>
+              <affiliation>Computational and Information Systems Laboratory; National Center for Atmospheric Research; PO Box 3000 Boulder CO 80307 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Pam</given_name>
+              <surname>Gillman</surname>
+              <affiliation>Computational and Information Systems Laboratory; National Center for Atmospheric Research; PO Box 3000 Boulder CO 80307 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Erich</given_name>
+              <surname>Thanhardt</surname>
+              <affiliation>Computational and Information Systems Laboratory; National Center for Atmospheric Research; PO Box 3000 Boulder CO 80307 USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>09</month>
+            <day>10</day>
+            <year>2014</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>05</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>2210</first_page>
+            <last_page>2224</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="funder_name">
+              National Science Foundation
+              <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+            </assertion>
+            <assertion name="award_number">AGS-0753581</assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm" start_date="2015-09-01">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/cpe.3228</doi>
+            <resource>http://doi.wiley.com/10.1002/cpe.3228</resource>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcpe.3228</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/cpe.3228-BIB0001|cpe3228-cit-0001">
+              <author>Hart</author>
+              <article_title>Measuring TeraGrid: workload characterization for a high-performance computing federation</article_title>
+              <journal_title>IJHPCA</journal_title>
+              <cYear>2011</cYear>
+              <volume>24</volume>
+              <issue>4</issue>
+              <first_page>451</first_page>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0002|cpe3228-cit-0002">
+              <doi provider="crossref">10.1145/2484762.2484802</doi>
+              <unstructured_citation>Hart DL Gillman P Thanhardt E NCAR storage accounting and analysis possibilities XSEDE '13: Proceedings of the Conference on Extreme Science and Engineering Discovery Environment: Gateway to Discovery 2013 10.1145/2484762.2484802</unstructured_citation>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0003|cpe3228-cit-0003">
+              <unstructured_citation>Carson LK Hart DL Nunes K Muriki K Charging for storage usage: SDSC's solution 2008 http://archive.teragrid.org/events/teragrid08/archive/www.tacc.utexas.edu/tg08/index3cc6.html?abstractID=65&amp;m_b_c=paperSchedule</unstructured_citation>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0004|cpe3228-cit-0004">
+              <unstructured_citation>TeraGrid Implementation of storage resource accounting in TGCDB 2010 http://software.teragrid.org/amie/doc/NPU-storage.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0005|cpe3228-cit-0005">
+              <doi provider="crossref">10.1109/WETICE.2007.4407170</doi>
+              <unstructured_citation>Scibilia F Accounting of storage resources in gLite based infrastructures Proceedings of the 16th IEEE International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises 2007 273 278 10.1109/WETICE.2007.116</unstructured_citation>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0006|cpe3228-cit-0006">
+              <author>Cristofori</author>
+              <article_title>A grid storage accounting system based on DGAS and HLRmon</article_title>
+              <journal_title>Journal of Physics: Conference Series</journal_title>
+              <cYear>2012</cYear>
+              <volume>396</volume>
+              <issue>3</issue>
+              <first_page>032029</first_page>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0007|cpe3228-cit-0007">
+              <author>Canal</author>
+              <article_title>Gratia: new challenges in grid accounting</article_title>
+              <journal_title>Journal of Physics: Conference Series</journal_title>
+              <cYear>2011</cYear>
+              <volume>331</volume>
+              <first_page>062028</first_page>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0008|cpe3228-cit-0008">
+              <unstructured_citation>Jensen HT Millar P Müller-Pfefferkorn R Nilsen JK Zsolt M Zappi R Definition of a storage accounting record 2011 21 http://cds.cern.ch/record/1352472 http://www.ogf.org/documents/GFD.201.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0009|cpe3228-cit-0009">
+              <unstructured_citation>HPSS Collaboration HPSS: high-performance storage system 2012 http://www.hpss-collaboration.org/</unstructured_citation>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0010|cpe3228-cit-0010">
+              <unstructured_citation>Fadden S An introduction to GPFS version 3.5 2012 http://www-03.ibm.com/systems/resources/introduction-to-gpfs-3-5.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1002/cpe.3228-BIB0011|cpe3228-cit-0011">
+              <unstructured_citation>NCAR computational and information systems laboratory Use and storage policies 2013 http://www2.cisl.ucar.edu/docs/hpss/policies</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

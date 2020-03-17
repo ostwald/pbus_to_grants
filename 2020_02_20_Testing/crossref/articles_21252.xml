@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-02-08 10:50:45">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>18</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Comparison of global observations and trends of total precipitable water derived from microwave radiometers and COSMIC radio occultation from 2006 to 2013</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Shu-Peng</given_name>
+              <surname>Ho</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Liang</given_name>
+              <surname>Peng</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Carl</given_name>
+              <surname>Mears</surname>
+              <ORCID>https://orcid.org/0000-0002-6020-9354</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Richard A.</given_name>
+              <surname>Anthes</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We compare atmospheric total precipitable water (TPW) derived from
+the
+SSM/I (Special Sensor Microwave Imager) and SSMIS (Special Sensor Microwave
+Imager/Sounder) radiometers and WindSat to collocated TPW estimates derived
+from COSMIC (Constellation System for Meteorology, Ionosphere, and Climate)
+radio occultation (RO) under clear and cloudy conditions over the oceans from
+June 2006 to December 2013. Results show that the mean microwave (MW)
+radiometer – COSMIC TPW differences range from 0.06 to 0.18 mm for clear
+skies, from
+0.79 to 0.96 mm for cloudy skies, from 0.46 to 0.49 mm for cloudy but non-precipitating
+conditions, and from 1.64 to 1.88 mm for precipitating conditions. Because RO
+measurements are not significantly affected by clouds and precipitation, the
+biases mainly result from MW retrieval uncertainties under cloudy and
+precipitating conditions. All COSMIC and MW radiometers detect a positive TPW
+trend over these 8 years. The trend using all COSMIC observations
+collocated with MW pixels for this data set is 1.79 mm decade<span class="inline-formula"><sup>−1</sup></span>, with a 95 %
+confidence interval of (0.96, 2.63), which is in close agreement with the
+trend estimated by the collocated MW observations (1.78 mm decade<span class="inline-formula"><sup>−1</sup></span> with a
+95 % confidence interval of 0.94, 2.62). The sample of MW and RO pairs used
+in this study is highly biased toward middle latitudes (40–60<span class="inline-formula"><sup>∘</sup></span> N and 40–65<span class="inline-formula"><sup>∘</sup></span> S), and thus these trends are
+not representative of global average trends. However, they are representative
+of the latitudes of extratropical storm tracks and the trend values are
+approximately 4 to 6 times the global average trends, which are
+approximately 0.3 mm decade<span class="inline-formula"><sup>−1</sup></span>. In addition, the close agreement of these two
+trends from independent observations, which represent an increase in TPW in
+our data set of about 6.9 %, are a strong indication of the positive water
+vapor–temperature feedback on a warming planet in regions where precipitation
+from extratropical storms is already large.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>10</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>259</first_page>
+            <last_page>274</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">NSF CAS AGS-1033112</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-18-259-2018</doi>
+            <resource>https://www.atmos-chem-phys.net/18/259/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/18/259/2018/acp-18-259-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/amt-4-1077-2011</doi>
+              <unstructured_citation>Anthes, R. A.: Exploring Earth's atmosphere with radio occultation:
+contributions to weather, climate and space weather, Atmos. Meas. Tech., 4,
+1077–1103, https://doi.org/10.5194/amt-4-1077-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/BAMS-89-3-313</doi>
+              <unstructured_citation>Anthes, R. A., Bernhardt, P., Chen, Y., Cucurull, L., Dymond, K., Ector, D.,
+Healy, S., Ho, S.-P., Hunt, D., Kuo, Y.-H., Liu, H., Manning, K., McCormick,
+C., Meehan, T., Randel, W., Rocken, C. R., Schreiner, W., Sokolovskiy, S.,
+Syndergaard, S., Thompson, D., Trenberth, K., Wee, T.-K., and Zeng, Z.: The
+COSMIC/FORMOSAT-3 Mission: Early Results, B. Am. Meteorol. Soc., 89,
+313–333, https://doi.org/10.1175/BAMS-89-3-313, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-12-5309-2012</doi>
+              <unstructured_citation>Biondi, R., Randel, W. J., Ho, S.-P., Neubert, T., and Syndergaard, S.:
+Thermal structure of intense convective clouds derived from GPS radio
+occultations, Atmos. Chem. Phys., 12, 5309–5318,
+https://doi.org/10.5194/acp-12-5309-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Biondi, R., Ho, S.-P., Randel, W., Neubert, T., and Syndergaard, S.: Tropical
+cyclone cloud-top heights and vertical temperature structure detection using
+GPS radio occultation measurements, J. Geophys. Res., 118, 1–13,
+https://doi.org/10.1002/jgrd.50448, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/amt-6-2777-2013</doi>
+              <unstructured_citation>Bock, O., Bosser, P., Bourcy, T., David, L., Goutail, F., Hoareau, C.,
+Keckhut, P., Legain, D., Pazmino, A., Pelon, J., Pipis, K., Poujol, G.,
+Sarkissian, A., Thom, C., Tournois, G., and Tzanos, D.: Accuracy assessment
+of water vapour measurements from in situ and remote sensing techniques
+during the DEMEVAP 2011 campaign at OHP, Atmos. Meas. Tech., 6, 2777–2802,
+https://doi.org/10.5194/amt-6-2777-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/1520-0450(2001)040&lt;1984:COAIET&gt;2.0.CO;2</doi>
+              <unstructured_citation>Cober, S. G., Isaac, G. A., and Strapp, J. W.: Characterizations of aircraft
+icing environments that include supercooled large drops, J. Appl. Meteorol.,
+40, 1984–2002, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P.,
+Kobayashi, S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P.,
+Bechtold, P., Beljaars, A. C. M., van de Berg, L., Bidlot, J., Bormann, N.,
+Delsol, C., Dragani, R., Fuentes, M., Geer, A. J., Haimberger, L., Healy, S.
+B., Hersbach, H., Hólm, E. V., Isaksen, L., Kållberg, P., Köhler,
+M., Matricardi, M., McNally, A. P., Monge-Sanz, B. M., Morcrette, J.-J.,
+Park, B.-K., Peubey, C., de Rosnay, P., Tavolato, C., Thepaut, J.-N., and
+Vitart, F.: The ERA-Interim reanalysis: configuration and performance of the
+data assimilation system, Q. J. Roy. Meteor. Soc., 137, 553–597,
+https://doi.org/10.1002/qj.828, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2008JD010989</doi>
+              <unstructured_citation>Durre, I., Williams Jr., C. N., Yin, X., and Vose, R. S.: Radiosonde-based
+trends in precipitable water over the Northern Hemisphere: An update, J.
+Geophys. Res., 114, D05112, https://doi.org/10.1029/2008JD010989, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/2007JAMC1712.1</doi>
+              <unstructured_citation>Elsaesser, G. S. and Kummerow, C. D.: Towards a fully parametric retrieval of
+the non-raining parameters over the global ocean, J. Appl. Meteorol. Clim.,
+47, 1590–1598 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2005JD006598</doi>
+              <unstructured_citation>Fetzer, E. J., Lambrigtsen, B. H., Eldering, A., Aumann, H. H., and Chahine,
+M. T.: Biases in total precipitable water vapor climatologies from
+atmospheric infrared sounder and advanced microwave scanning radiometer, J.
+Geophys. Res., 111, D09S16, https://doi.org/10.1029/2005JD006598, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2008JD010000</doi>
+              <unstructured_citation>Fetzer, E. J., Read, W. G., Waliser, D., Kahn, B. H., Tian, B., Vömel,
+H., Irion, F. W., Su, H., Eldering, A., Juarez, M. T., Jiang, J., and Dang,
+V.: Comparison of upper tropospheric water vapor observations from the
+Microwave Limb Sounder and Atmospheric Infrared Sounder, J. Geophys. Res.,
+113, D22110, https://doi.org/10.1029/2008JD010000, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1146/annurev.energy.25.1.441</doi>
+              <unstructured_citation>Held, I. M. and Soden, B. J.: Water vapor feedback and global warming, Annu.
+Rev. Energ. Env., 25, 441–475, https://doi.org/10.1146/annurev.energy.25.1.441, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;3457:OAPOPS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Heymsfield, A. J., Bansemer, A., Field, P. R., Durden, S. L., Stith, J. L.,
+Dye, J. E., Hall, W., and Grainger, C. A.: Observations and parameterizations
+of particle size distributions in deep tropical cirrus and stratiform
+precipitating clouds: Results from in situ observations in TRMM field
+campaigns, J. Atmos. Sci., 59, 3457–3491,
+https://doi.org/10.1175/1520-0469(2002)059&amp;amp;lt;3457:OAPOPS&amp;amp;gt;2.0.CO;2, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Hilburn, K. A.: Including temperature effects in the F15 RADCAL Beacon
+correction. RSS Technical Report 051209, Remote Sensing Systems, Santa Rosa,
+CA, available at:
+http://images.remss.com/papers/rsstech/2009_051209_Hilburn_F15_RADCAL.pdf
+(last access: December 2012), 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2008GL034914</doi>
+              <unstructured_citation>Hilburn, K. A. and Wentz, F. J.: Mitigating the impact of RADCAL beacon
+contamination on F15 SSM/I ocean retrievals, Geophys. Res. Lett., 35, L18806,
+https://doi.org/10.1029/2008GL034914, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/JTECH2071.1</doi>
+              <unstructured_citation>Ho, S.-P., Kuo, Y.-H., and Sokolovskiy, S.: Improvement of the temperature
+and moisture retrievals in the lower troposphere using AIRS and GPS radio
+occultation measurements, J. Atmos. Ocean. Tech., 24, 1726–1739,
+https://doi.org/10.1175/JTECH2071.1, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2009JD011969</doi>
+              <unstructured_citation>Ho, S.-P., Kirchengast, G., Leroy, S., Wickert, J., Mannucci, A. J., Steiner,
+A. K., Hunt, D., Schreiner, W., Sokolovskiy, S., Ao, C. O., Borsche, M., von
+Engeln, A., Foelsche, U., Heise, S., Iijima, B., Kuo, Y.-H., Kursinski, R.,
+Pirscher, B., Ringer, M., Rocken, C., and Schmidt, T.: Estimating the
+Uncertainty of using GPS Radio Occultation Data for Climate Monitoring:
+Inter-comparison of CHAMP Refractivity Climate Records 2002–2006 from
+Different Data Centers, J. Geophys. Res., 114, D23107,
+https://doi.org/10.1029/2009JD011969, 2009a. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.3319/TAO.2007.12.06.01(F3C)</doi>
+              <unstructured_citation>Ho, S.-P., Goldberg, M., Kuo, Y.-H., Zou, C.-Z., and Schreiner, W.:
+Calibration of Temperature in the Lower Stratosphere from Microwave
+Measurements using COSMIC Radio Occultation Data: Preliminary Results, Terr.
+Atmos. Ocean. Sci., 20, 87–100, https://doi.org/10.3319/TAO.2007.12.06.01(F3C), 2009b. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Ho, S.-P., Kuo, Y.-H., Schreiner, W., and Zhou, X.: Using SI-traceable Global
+Positioning System Radio Occultation Measurements for Climate Monitoring, in:
+States of the Climate in 2009, B. Am. Meteorol. Sci., 91, S36–S37, 2010a. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.3390/rs2051320</doi>
+              <unstructured_citation>Ho, S.-P., Zhou, X., Kuo, Y.-H., Hunt, D., and Wang, J.-H.: Global Evaluation
+of Radiosonde Water Vapor Systematic Biases using GPS Radio Occultation from
+COSMIC and ECMWF Analysis, Remote Sensing, 2, 1320–1330, 2010b. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2012JD017665</doi>
+              <unstructured_citation>Ho, S.-P., Hunt, D., Steiner, A. K., Mannucci, A. J., Kirchengast, G.,
+Gleisner, H., Heise, S., von Engeln, A., Marquardt, C., Sokolovskiy, S.,
+Schreiner, W., Scherllin-Pirscher, B., Ao, C., Wickert, J., Syndergaard, S.,
+Lauritsen, K. B., Leroy, S., Kursinski, E. R., Kuo, Y.-H., Foelsche, U.,
+Schmidt, T., and Gorbunov, M.: Reproducibility of GPS Radio Occultation Data
+for Climate Monitoring: Profile-to-Profile Inter-comparison of CHAMP Climate
+Records 2002 to 2008 from Six Data Centers, J. Geophys. Res., 117, D18111,
+https://doi.org/10.1029/2012JD017665, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/grl.50885</doi>
+              <unstructured_citation>Huang, C.-Y., Teng, W.-H., Ho, S.-P., and Kuo, Y.-H.: Global Variation of
+COSMIC Precipitable Water over Land: Comparisons with Ground-based GPS
+Measurements and NCEP Reanalyses, Geophys. Res. Lett., 40, 5327–5331,
+https://doi.org/10.1002/grl.50885, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>IPCC: Climate Change 2013: The Physical Science Basis. Contribution of
+Working Group I to the Fifth Assessment Report of the Intergovernmental Panel
+on Climate Change (IPCC), edited by: Stocker, T. F., Qin, D., Plattner,
+G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V.,
+and Midgley, P. M., Cambridge University Press, Cambridge, UK and New York,
+NY, USA, 1535 pp., https://doi.org/10.1017/CBO9781107415324, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2007GL030429</doi>
+              <unstructured_citation>John, V. O. and Soden, B. J.: Temperature and humidity biases in global
+climate models and their impacts on climate feedbacks, Geophys. Res. Lett.,
+34, L18605, https://doi.org/10.1029/2007GL030736, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Knuteson, R., Bedka, S., Roman, J., Tobin, D., Turner, D., and Revercomb, H.:
+AIRS and IASI Precipitable Water Vapor (PWV) Absolute Accuracy at Tropical,
+Mid-Latitude, and Arctic Ground-Truth Sites. Presented at the International
+TOVS Study Conference, 14–10 April 2010, Monterey, CA, USA, available at:
+http://cimss.ssec.wisc.edu/itwg/itsc/itsc17/ (last access: November
+2016), 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/97JD01569</doi>
+              <unstructured_citation>Kursinski, E. R., Hajj, G. A., Schofield, J. T., and Linfield, R. P.:
+Observing Earth's atmosphere with radio occultation measurements using the
+Global Positioning System, J. Geophys. Res., 102, 23429–23465, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/acp-10-411-2010</doi>
+              <unstructured_citation>Larar, A. M., Smith, W. L., Zhou, D. K., Liu, X., Revercomb, H., Taylor, J.
+P., Newman, S. M., and Schlüssel, P.: IASI spectral radiance validation
+inter-comparisons: case study assessment from the JAIVEx field campaign,
+Atmos. Chem. Phys., 10, 411–430, https://doi.org/10.5194/acp-10-411-2010,
+2010. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/JTECH-D-15-0246.1</doi>
+              <unstructured_citation>Leroy, D., Fontaine, E., Schwarzenboeck, A., Strapp, J. W., Korolev, A.,
+McFarquhar, G., Dupuy, R., Gourbeyre, C., Lilie, L., Protat, A., Delanoë,
+J., Dezitter, F., and Grandin, A.: Ice crystal sizes in high ice water
+content clouds. Part 2: Statistics of mass diameter percentiles in tropical
+convection observed during the HAIC/HIWC project, J. Atmos. Ocean. Tech., 34,
+117–136, https://doi.org/10.1175/JTECH-D-15-0246.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1175/2009MWR2986.1</doi>
+              <unstructured_citation>Lin, L., Zou, X., Anthes, R., and Kuo, Y.-H.: COSMIC GPS cloudy profiles,
+Mon. Weather Rev., 138, 1104–1118, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/1520-0442(1998)011&lt;1002:UORTDI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Luers, J. K. and Eskridge, R. E.: Use of radiosonde temperature data in
+climate studies, J. Climate, 11, 1002–1019, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/2011MWR3342.1</doi>
+              <unstructured_citation>Ma, Z., Kuo, Y.-H., Ralph, F. M., Neiman, P. J., Wick, G. A., Sukovich, E.,
+and Wang, B.: Assimilation of GPS radio occultation data for an intense
+atmospheric river with the NCEP regional GSI system, Mon. Weather Rev., 139,
+2170–2183, https://doi.org/10.1175/2011MWR3342.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/2012BAMSStateoftheClimate.1</doi>
+              <unstructured_citation>Mears, C., Wang, J., Ho, S.-P., Zhang, L., and Zhou, X.: Global Climate
+Hydrological cycle, Total column water vapor, in: State of the Climate in
+2011, B. Am. Meteorol. Soc., 93, S25–S26,
+https://doi.org/10.1175/2012BAMSStateoftheClimate.1, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/2014JD022694</doi>
+              <unstructured_citation>Mears, C., Wang, J., Smith, D., and Wentz, F. J.: Intercomparison of total
+precipitable water measurements made by satellite- borne microwave
+radiometers and ground-based GPS instruments, J. Geophys. Res.-Atmos., 120,
+2492–2504, https://doi.org/10.1002/2014JD022694, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/2017BAMSStateoftheClimate.1</doi>
+              <unstructured_citation>Mears C., Ho, S.-P., Peng, L., and Wang, J.: Total Column Water Vapor, in:
+State of the Climate in 2016, B. Am. Meteorol. Sci., 98, S93–S98,
+https://doi.org/10.1175/2017BAMSStateoftheClimate.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2008GL037068</doi>
+              <unstructured_citation>Milz, M., Buehler, S. A., and John, V. O.: Comparison of AIRS and AMSU-B
+monthly mean estimates of upper tropopsheric humidity, Geophys. Res. Lett.,
+36, L10804, https://doi.org/10.1029/2008GL037068, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/2008MWR2550.1</doi>
+              <unstructured_citation>Neiman, P. J., Ralph, F. M., Wick, G. A., Kuo, Y.-H., Wee, T.-K., Ma, Z.,
+Taylor, G. H., and Dettinger, M. D.: Diagnosis of an intense atmospheric
+river impacting the Pacific Northwest: Storm summary and offshore vertical
+structure observed with COSMIC satellite retrievals, Mon. Weather Rev., 136,
+4398–4420, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/acp-4-111-2004</doi>
+              <unstructured_citation>Noël, S., Buchwitz, M., and Burrows, J. P.: First retrieval of global
+water vapour column amounts from SCIAMACHY measurements, Atmos. Chem. Phys.,
+4, 111–125, https://doi.org/10.5194/acp-4-111-2004, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/acp-10-1215-2010</doi>
+              <unstructured_citation>Palm, M., Melsheimer, C., Noël, S., Heise, S., Notholt, J., Burrows, J.,
+and Schrems, O.: Integrated water vapor above Ny Ålesund, Spitsbergen: a
+multi-sensor intercomparison, Atmos. Chem. Phys., 10, 1215–1226,
+https://doi.org/10.5194/acp-10-1215-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acp-9-6453-2009</doi>
+              <unstructured_citation>Pougatchev, N., August, T., Calbet, X., Hultberg, T., Oduleye, O.,
+Schlüssel, P., Stiller, B., Germain, K. St., and Bingham, G.: IASI
+temperature and water vapor retrievals – error assessment and validation,
+Atmos. Chem. Phys., 9, 6453–6458, https://doi.org/10.5194/acp-9-6453-2009,
+2009. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/2008JD011230</doi>
+              <unstructured_citation>Prasad, A. K. and Singh, R. P.: Validation of MODIS Terra, AIRS, NCEP/DOE
+AMIP-II Reanalysis-2, and AERONET Sun photometer derived integrated
+precipitable water vapor using ground-based GPS receivers over India, J.
+Geophys. Res., 114, D05107, https://doi.org/10.1029/2008JD011230, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/JCLI-D-13-00736.1</doi>
+              <unstructured_citation>Roman, J., Knuteson, R., and Ackerman, S.: Time-to-detect trends in
+precipitable water vapor with varying measurement errors, J. Climate, 27,
+8259–8275, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2012GL053071</doi>
+              <unstructured_citation>Scherllin-Pirscher, B., Deser, C., Ho, S.-P., Chou, C., Randel, W., and Kuo,
+Y.-W.: The vertical and spatial structure of ENSO in the upper troposphere
+and lower stratosphere from GPS radio occultation measurements, Geophys. Res.
+Lett., 39, L20801, https://doi.org/10.1029/2012GL053071, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1080/01431169008955055</doi>
+              <unstructured_citation>Schlüessel, P. and Emery, W. J.: Atmospheric water vapour over oceans
+from SSM/I measurements, Int. J. Remote Sens., 11, 753–766, 1990. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2009JD012585</doi>
+              <unstructured_citation>Sherwood, S. C., Ingram, W., Tsushima, Y., Satoh, M., Roberts, M., Vidale, P.
+L., and Gorman, P. A. O.: Relative humidity changes in a warmer climate, J.
+Geophys. Res., 115, D09104, https://doi.org/10.1029/2009JD012585, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/JCLI3799.1</doi>
+              <unstructured_citation>Soden, B. J. and Held, I. M.: Assessment of climate feedbacks in coupled
+ocean-atmosphere models, J. Climate, 19, 3354–3360, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/1520-0442(1996)009&lt;1235:AAOSAR&gt;2.0.CO;2</doi>
+              <unstructured_citation>Soden, B. J. and Lanzante, J. R.: An assessment of satellite and radiosonde
+climatologies of upper-tropospheric water vapor, J. Climate, 9, 1235–1250,
+1996. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1126/science.296.5568.727</doi>
+              <unstructured_citation>Soden, B. J., Wetherald, R. T., Stenchikov, G. L., and Robock, A.: Global
+cooling after the eruption of Mount Pinatubo: A test of climate feedback by
+water vapor, Science, 296, 727–730, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/2008JD010053</doi>
+              <unstructured_citation>Sohn, B.-J. and Bennartz, R.: Contribution of water vapor to observational
+estimates of longwave cloud radiative forcing, J. Geophys. Res., 113, D20107,
+https://doi.org/10.1029/2008JD010053, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/1520-0442(2003)016&lt;3229:ESODII&gt;2.0.CO;2</doi>
+              <unstructured_citation>Sohn, B. J. and Smith, E. A.: Explaining sources of discrepancy in SSM/I
+water vapor algorithms, J. Climate, 16, 3229–3255,
+https://doi.org/10.1175/1520-0442(2003)016&amp;amp;lt;3229:ESODII&amp;amp;gt;2.0.CO;2, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1002/jgrd.50371</doi>
+              <unstructured_citation>Teng, W.-H., Huang, C.-Y., Ho, S.-P., Kuo, Y.-H., and Zhou, X.-J.:
+Characteristics of Global Precipitable Water in ENSO Events Revealed by
+COSMIC Measurements, J. Geophys. Res., 118, 1–15, https://doi.org/10.1002/jgrd.50371,
+2013.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1007/s003820050219</doi>
+              <unstructured_citation>Trenberth K. E. and Guillemot, C. J.: Evaluation of the atmospheric moisture
+and hydrological cycle in the NCEP/NCAR reanalyses, Clim. Dynam., 14,
+213–231, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1007/s00382-005-0017-4</doi>
+              <unstructured_citation>Trenberth, K. E., Fasullo, J., and Smith, L.: Trends and variability in
+column integrated atmospheric water vapor, Clim. Dynam., 24, 741–758, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1175/2007JCLI1944.1</doi>
+              <unstructured_citation>Wang, J. and Zhang, L.: Systematic Errors in Global Radiosonde Precipitable
+Water Data from Comparisons with Ground-Based GPS Measurements, J. Climate,
+21, 2218–2238, https://doi.org/10.1175/2007JCLI1944.1, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Wang, J., Zhang, L., Dai, A., Van Hove, T., and Van Baelen, J.: A
+near-global, 8-year, 2-hourly data set of atmospheric precipitable water from
+ground-based GPS measurements, J. Geophys. Res., 112, D11107,
+https://doi.org/10.1029/2006JD007529, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1175/2009JAMC2218.1</doi>
+              <unstructured_citation>Wang, L., Wu, X., Goldberg, M., Cao, C., Li, Y., and Sohn, S.-H.: Comparison
+of AIRS and IASI Radiances Using GOES Imagers as Transfer Radiometers toward
+Climate Data Records, J. Appl. Meteorol. Clim., 49, 478–492, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/96JC01751</doi>
+              <unstructured_citation>Wentz, F. J.: A well-calibrated ocean algorithm for SSM/I, J. Geophys. Res.,
+102, 8703–8718, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Wentz, F. J.: SSM/I version-7 calibration report, Remote Sensing Systems,
+Tech. Rep. 011012, Santa Rosa, CA, USA, 46 pp., 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1175/JCLI-D-15-0155.1</doi>
+              <unstructured_citation>Wentz, F. J.: A 17-Year climate record of environmental parameters derived
+from the Tropical Rainfall Measuring Mission (TRMM) microwave imager, J.
+Climate, 20, 6882–6902, https://doi.org/10.1175/JCLI-D-15-0155.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1038/35000184</doi>
+              <unstructured_citation>Wentz, F. J. and Schabel, M.: Precise climate monitoring using complementary
+satellite data sets, Nature, 403, 414–416, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1175/1520-0469(1998)055&lt;1613:SIRRWA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Wentz, F. J. and Spencer, R. W.: SSM/I rain retrievals within a unified
+all-weather ocean algorithm, J. Atmos. Sci., 56, 1613–1627, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1126/science.1140746</doi>
+              <unstructured_citation>Wentz, F. J., Riccardulli, L., Hilburn, K., and Mears, C.: How much more rain
+will global warming bring?, Science, 317, 233–235, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/2008GL035126</doi>
+              <unstructured_citation>Wick, G. A., Kuo, Y.-H., Ralph, F. M., Wee, T.-K., Neiman, P. J., and Ma, Z.:
+Intercomparison of integrated water vapor retrievals from SSM/I and COSMIC,
+Geophys. Res. Lett., 28, 3263–3266, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1029/2011JD016452</doi>
+              <unstructured_citation>Yang, S. and Zou, X.: Assessments of cloud liquid water contributions to GPS
+RO refractivity using measurements from COSMIC and CloudSat, J. Geophys.
+Res., 117, D06219, https://doi.org/10.1029/2011JD016452, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1029/2012JD017685</doi>
+              <unstructured_citation>Zeng, Z., Ho, S.-P., and Sokolovskiy, S.: The Structure and Evolution of
+Madden-Julian Oscillation from FORMOSAT-3/COSMIC Radio Occultation Data, J.
+Geophys. Res., 117, D22108, https://doi.org/10.1029/2012JD017685, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1175/JAS-D-11-0199.1</doi>
+              <unstructured_citation>Zou, X., Yang, S., and Ray, P. S.: Impacts of ice clouds on GPS radio
+occultation measurements, J. Atmos. Sci., 69, 3670–3682, 2012. </unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

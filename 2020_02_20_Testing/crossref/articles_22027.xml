@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-11-26 12:10:56">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Geophysical Research: Atmospheres</full_title>
+          <abbrev_title>J. Geophys. Res. Atmos.</abbrev_title>
+          <issn>2169897X</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>09</month>
+            <day>16</day>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>123</volume>
+          </journal_volume>
+          <issue>17</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Mapping the Lateral Development of Lightning Flashes From Orbit</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Michael</given_name>
+              <surname>Peterson</surname>
+              <affiliation>Cooperative Institute for Climate and Satellites-Maryland, Earth System Science Interdisciplinary Center; University of Maryland; College Park MD USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-7683-0655</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Scott</given_name>
+              <surname>Rudlosky</surname>
+              <affiliation>NOAA/NESDIS/STAR; College Park MD USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Wiebke</given_name>
+              <surname>Deierling</surname>
+              <affiliation>Department of Aerospace Engineering Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-7756-7019</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>09</month>
+            <day>16</day>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>12</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>9674</first_page>
+            <last_page>9687</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX17AH63G</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Oceanic and Atmospheric Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000192</assertion>
+              </assertion>
+              <assertion name="award_number">NA14NES4320003</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2018-09-12">http://onlinelibrary.wiley.com/termsAndConditions#vor</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1029/2018JD028583</doi>
+            <resource>http://doi.wiley.com/10.1029/2018JD028583</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1029/2018JD028583/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2018JD028583</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1029/2018JD028583-BIB0001|jgrd54909-cit-0002">
+              <author>Bitzer</author>
+              <cYear>2017</cYear>
+              <article_title>Global distribution and properties of continuing current in lightning</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>122</volume>
+              <first_page>1033</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0002|jgrd54909-cit-0003">
+              <unstructured_citation>Blakeslee , R. J. Christian , H. J. Stewart , M. F. Mach , D. M. Bateman , M. Walker , T. D. 2014 Lightning Imaging Sensor (LIS) for the International Space Station (ISS): Mission description and science goals XV Int. Conf. Atmos. Electricity</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0003|jgrd54909-cit-0004">
+              <author>Boccippio</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1175/1520-0426(2000)017&lt;0441:TOTDOI&gt;2.0.CO;2</doi>
+              <article_title>The Optical Transient Detector (OTD): Instrument characteristics and cross-sensor validation</article_title>
+              <journal_title>Journal of Atmospheric and Oceanic Technology</journal_title>
+              <volume>17</volume>
+              <issue>4</issue>
+              <first_page>441</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0004|jgrd54909-cit-0005">
+              <author>Bruning</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/JAS-D-12-0289.1</doi>
+              <article_title>Theory and observations of controls on lightning flash size spectra</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>70</volume>
+              <issue>12</issue>
+              <first_page>4012</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0005|jgrd54909-cit-0006">
+              <author>Carey</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1029/2003JD004371</doi>
+              <article_title>Lightning location relative to storm structure in a leading-line, trailing-stratiform mesoscale convective system</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>110</volume>
+              <first_page>D03105</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0006|jgrd54909-cit-0007">
+              <author>Cecil</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.atmosres.2012.06.028</doi>
+              <article_title>Gridded lightning climatology from TRMM-LIS and OTD: Dataset description</article_title>
+              <journal_title>Atmospheric Research</journal_title>
+              <volume>135-136</volume>
+              <first_page>404</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0007|jgrd54909-cit-0008">
+              <cYear>2000</cYear>
+              <volume_title>Algorithm theoretical basis document (ATBD) for the Lightning Imaging Sensor (LIS)</volume_title>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0036|jgrd54909-cit-0037">
+              <author>Coleman</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1029/2002JD002718</doi>
+              <article_title>Effects of charge and electrostatic potential on lightning propagation</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>108</volume>
+              <issue>D9</issue>
+              <first_page>4298</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0009|jgrd54909-cit-0010">
+              <author>Ely</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1029/2007JD008445</doi>
+              <article_title>Evolution of the total lightning structure in a leading-line, trailing-stratiform mesoscale convective system over Houston, Texas</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>113</volume>
+              <first_page>D08114</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0010|jgrd54909-cit-0011">
+              <author>Goodman</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.atmosres.2013.01.006</doi>
+              <article_title>The GOES-R geostationary lightning mapper (GLM)</article_title>
+              <journal_title>Journal of the Atmospheric Research</journal_title>
+              <volume>125-126</volume>
+              <first_page>34</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0011|jgrd54909-cit-0012">
+              <author>Hill</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2011JD015818</doi>
+              <article_title>High-speed video observations of a lightning stepped leader</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>116</volume>
+              <first_page>D16117</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0012|jgrd54909-cit-0013">
+              <author>Koshak</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1175/2010JTECHA1405.1</doi>
+              <article_title>Optical characteristics of OTD flashes and the implications for flash-type discrimination</article_title>
+              <journal_title>Journal of Atmospheric and Oceanic Technology</journal_title>
+              <volume>27</volume>
+              <issue>11</issue>
+              <first_page>1822</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0013|jgrd54909-cit-0014">
+              <author>Lang</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1175/BAMS-D-16-0061.1</doi>
+              <article_title>WMO world record lightning extremes: Longest reported flash distance and longest reported flash duration</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>98</volume>
+              <issue>6</issue>
+              <first_page>1153</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0014|jgrd54909-cit-0015">
+              <author>Lang</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1029/2006JD007709</doi>
+              <article_title>Kinematic, microphysical, and electrical aspects of an asymmetric bow echo mesoscale convective system observed during STEPS</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>113</volume>
+              <first_page>D08213</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0015|jgrd54909-cit-0016">
+              <author>Lang</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2004GL019823</doi>
+              <article_title>Origins of positive cloud-to-ground lightning in the stratiform region of a mesoscale convective system</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>31</volume>
+              <first_page>L10105</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0016|jgrd54909-cit-0017">
+              <author>Mach</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1029/2006JD007787</doi>
+              <article_title>Performance assessment of the Optical Transient Detector and Lightning Imaging Sensor</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>112</volume>
+              <first_page>D09210</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0017|jgrd54909-cit-0018">
+              <author>Marshall</author>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1175/1520-0477(1993)074&lt;2159:TTOVES&gt;2.0.CO;2</doi>
+              <article_title>Two types of vertical electrical structures in stratiform precipitation regions of mesoscale convective systems</article_title>
+              <journal_title>Bulletin of the American Meteorological Society</journal_title>
+              <volume>74</volume>
+              <issue>11</issue>
+              <first_page>2159</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0018|jgrd54909-cit-0019">
+              <author>Marshall</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1029/2008JD010637</doi>
+              <article_title>Electrical evolution during the decay stage of New Mexico thunderstorms</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>114</volume>
+              <first_page>D02209</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0019|jgrd54909-cit-0020">
+              <author>Peterson</author>
+              <cYear>2017</cYear>
+              <article_title>The properties of optical lightning flashes and the clouds they illuminate</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>122</volume>
+              <first_page>423</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0020|jgrd54909-cit-0021">
+              <author>Peterson</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2011JD015908</doi>
+              <article_title>Global statistics of lightning in anvil and stratiform regions over the tropics and subtropics observed by TRMM</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>116</volume>
+              <first_page>D23201</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0021|jgrd54909-cit-0022">
+              <author>Peterson</author>
+              <cYear>2013</cYear>
+              <article_title>Characteristics of lightning flashes with exceptional illuminated areas, durations, and optical powers and surrounding storm properties in the tropics and inner subtropics</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>118</volume>
+              <first_page>11,727</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0022|jgrd54909-cit-0023">
+              <author>Peterson</author>
+              <cYear>2017</cYear>
+              <article_title>The evolution and structure of extreme optical lightning flashes</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>122</volume>
+              <first_page>13,370</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0023|jgrd54909-cit-0024">
+              <author>Rakov</author>
+              <cYear>1990</cYear>
+              <doi provider="crossref">10.1029/JD095iD10p16561</doi>
+              <article_title>Waveforms of first and subsequent leaders in negative lightning flashes</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>95</volume>
+              <issue>D10</issue>
+              <first_page>16,561</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0024|jgrd54909-cit-0025">
+              <author>Rison</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1029/1999GL010856</doi>
+              <article_title>A GPS-based three-dimensional lightning mapping system: Initial observations in central New Mexico</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>26</volume>
+              <issue>23</issue>
+              <first_page>3573</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0025|jgrd54909-cit-0026">
+              <author>Rudlosky</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1175/JTECH-D-16-0243.1</doi>
+              <article_title>GLD360 performance relative to TRMM LIS</article_title>
+              <journal_title>Journal of Atmospheric and Oceanic Technology</journal_title>
+              <volume>34</volume>
+              <issue>6</issue>
+              <first_page>1307</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0026|jgrd54909-cit-0027">
+              <author>Rutledge</author>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1988)116&lt;1393:CTGLAI&gt;2.0.CO;2</doi>
+              <article_title>Cloud-to-ground lightning activity in the 10-11 June 1985 mesoscale convective system observed during the Oklahoma-Kansas PRESTORM project</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>116</volume>
+              <issue>7</issue>
+              <first_page>1393</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0027|jgrd54909-cit-0028">
+              <author>Schonland</author>
+              <cYear>1935</cYear>
+              <doi provider="crossref">10.1098/rspa.1935.0210</doi>
+              <article_title>Progressive lightning II</article_title>
+              <journal_title>Proceedings of the Royal Society of London, Series A</journal_title>
+              <volume>152</volume>
+              <issue>877</issue>
+              <first_page>595</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0028|jgrd54909-cit-0029">
+              <author>Schuur</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1175/1520-0469(2000)057&lt;1983:EOSRIM&gt;2.0.CO;2</doi>
+              <article_title>Electrification of stratiform regions in mesoscale convective systems. Part II: Two-dimensional numerical model simulations of a symmetric MCS</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>57</volume>
+              <issue>13</issue>
+              <first_page>1983</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0029|jgrd54909-cit-0030">
+              <author>Stolzenburg</author>
+              <cYear>1994</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1994)122&lt;1777:HDOEAM&gt;2.0.CO;2</doi>
+              <article_title>Horizontal distribution of electrical and meteorological conditions across the stratiform region of a mesoscale convective system</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>122</volume>
+              <issue>8</issue>
+              <first_page>1777</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0030|jgrd54909-cit-0031">
+              <author>Thomas</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/1999GL010845</doi>
+              <article_title>Comparison of ground-based 3-dimensional lightning mapping observations with satellite-based LIS observations in Oklahoma</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>27</volume>
+              <issue>12</issue>
+              <first_page>1703</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0031|jgrd54909-cit-0032">
+              <author>Thomson</author>
+              <cYear>1982</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1982)039&lt;2051:TEOCOT&gt;2.0.CO;2</doi>
+              <article_title>The effects of clouds on the light produced by lightning</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>39</volume>
+              <issue>9</issue>
+              <first_page>2051</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0032|jgrd54909-cit-0033">
+              <author>Uman</author>
+              <cYear>1987</cYear>
+              <volume_title>The lightning discharge</volume_title>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0033|jgrd54909-cit-0034">
+              <author>Velde</author>
+              <cYear>2013</cYear>
+              <article_title>Asymmetries in bidirectional leader development of lightning flashes</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>118</volume>
+              <first_page>13,504</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0034|jgrd54909-cit-0035">
+              <author>Williams</author>
+              <cYear>1989</cYear>
+              <doi provider="crossref">10.1029/JD094iD11p13213</doi>
+              <article_title>The relationship between lightning type and convective state of thunderclouds</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>94</volume>
+              <issue>D11</issue>
+              <first_page>13,213</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028583-BIB0035|jgrd54909-cit-0036">
+              <author>Winn</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2011JD015998</doi>
+              <article_title>Lightning leader stepping, K changes, and other observations near an intracloud flash</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>116</volume>
+              <first_page>D23115</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

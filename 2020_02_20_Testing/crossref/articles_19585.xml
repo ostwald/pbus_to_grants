@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-14 05:21:23">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>21</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Evaluation of snow data assimilation using the ensemble Kalman filter for seasonal streamflow prediction in the western United States</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Chengcheng</given_name>
+              <surname>Huang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew J.</given_name>
+              <surname>Newman</surname>
+              <ORCID>https://orcid.org/0000-0001-8796-0861</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martyn P.</given_name>
+              <surname>Clark</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew W.</given_name>
+              <surname>Wood</surname>
+              <ORCID>https://orcid.org/0000-0002-6231-0085</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Xiaogu</given_name>
+              <surname>Zheng</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> In this study, we examine the potential of snow water equivalent data assimilation (DA) using the ensemble Kalman filter (EnKF) to improve seasonal streamflow predictions. There are several goals of this study. First, we aim to examine some empirical aspects of the EnKF, namely the observational uncertainty estimates and the observation transformation operator. Second, we use a newly created ensemble forcing dataset to develop ensemble model states that provide an estimate of model state uncertainty. Third, we examine the impact of varying the observation and model state uncertainty on forecast skill. We use basins from the Pacific Northwest, Rocky Mountains, and California in the western United States with the coupled Snow-17 and Sacramento Soil Moisture Accounting (SAC-SMA) models. We find that most EnKF implementation variations result in improved streamflow prediction, but the methodological choices in the examined components impact predictive performance in a non-uniform way across the basins. Finally, basins with relatively higher calibrated model performance (&amp;gt;<span class="thinspace"></span>0.80<span class="thinspace"></span>NSE) without DA generally have lesser improvement with DA, while basins with poorer historical model performance show greater improvements.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>31</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>635</first_page>
+            <last_page>650</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                China Scholarship Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100004543</assertion>
+              </assertion>
+              <assertion name="award_number">201406040164</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Bureau of Reclamation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006450</assertion>
+              </assertion>
+              <assertion name="award_number">Cooperative Agreement</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5065/D6MW2F4D</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5065/D6TH8JR2</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-21-635-2017</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/21/635/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/21/635/2017/hess-21-635-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Anderson, E.: Calibration of conceptual hydrologic models for use in river forecasting, Office of Hydrologic Development, US National Weather Service, Silver Spring, MD, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Anderson, E. A.: “NWSRFS Forecast Procedures”, NOAA Technical Memorandum, NWS HYDRO-14, Office of Hydrologic Development, Hydrology Laboratory, NWS/NOAA, Silver Spring, MD, 1972.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Anderson, E. A.: National Weather Service River Forecast System: Snow accumulation and ablation model, 17 US Department of Commerce, National Oceanic and Atmospheric Administration, National Weather Service, 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1016/j.advwatres.2005.08.004</doi>
+              <unstructured_citation>Andreadis, K. M. and Lettenmaier, D. P.: Assimilating remotely sensed snow observations into a macroscale hydrology model, Adv. Water Resour., 29, 872–886, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1016/j.atmosres.2010.09.013</doi>
+              <unstructured_citation>Arheimer, B., Lindström, G., and Olsson, J.: A systematic review of sensitivities in the Swedish flood-forecasting system, Atmos. Res., 100, 275–284, https://doi.org/10.1016/j.atmosres.2010.09.013, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1038/nature04141</doi>
+              <unstructured_citation>Barnett, T. P., Adam, J. C., and Lettenmaier, D. P.: Potential impacts of a warming climate on water availability in snow-dominated regions, Nature, 438, 303–309, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Barrett, A. P.: National operational hydrologic remote sensing center snow data assimilation system (SNODAS) products at NSIDC, National Snow and Ice Data Center, Cooperative Institute for Research in Environmental Sciences, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/hess-20-4375-2016</doi>
+              <unstructured_citation>Bergeron, J. M., Trudel, M., and Leconte, R.: Combined assimilation of streamflow and snow water equivalent for mid-term ensemble streamflow forecasts in snow-dominated regions, Hydrol. Earth Syst. Sci., 20, 4375–4389, https://doi.org/10.5194/hess-20-4375-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Burnash, R. and Singh, V.: The NWS river forecast system-catchment modeling, Computer Models of Watershed Hydrology, 311–366, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Burnash, R. J., Ferral, R. L., and McGuire, R. A.: A generalized streamflow simulation system, conceptual modeling for digital computers, US Department of Commerce National Weather Service and State of California Department of Water Resources, California Department of Water Resources: California Cooperative Snow Surveys, California Department of Water Resources, available at: http://cdec.water.ca.gov/snow/ (last access: 15 July 2015), 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1016/j.jhydrol.2004.03.036</doi>
+              <unstructured_citation>Carpenter, T. M. and Georgakakos, K. P.: Impacts of parametric and radar rainfall uncertainty on the ensemble streamflow simulations of a distributed hydrologic model, J. Hydrol., 298, 202–221, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/1525-7541(2004)005&lt;0015:UOMNWP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Clark, M. P. and Hay, L. E.: Use of medium-range numerical weather prediction model output to produce forecasts of streamflow, J. Hydrometeorol., 5, 15–32, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1016/j.advwatres.2008.06.005</doi>
+              <unstructured_citation>Clark, M. P., Rupp, D. E, Woods, R. A., Zheng, X., Ibbitt, R. P., Slater, A. G., Schmidt, J., and Uddstrom, M. J.: Hydrological data assimilation with the ensemble Kalman filter: Use of streamflow observations to update states in a distributed hydrological model, Adv. Water Resour., 31, 1309–1324, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1080/01431161.2011.640964</doi>
+              <unstructured_citation>Dietz, A. J., Kuenzer, C., Gessner, U., and Dech, S.: Remote sensing of snow–a review of available methods, Int. J. Remote Sens., 33, 4094–4134, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/91WR02985</doi>
+              <unstructured_citation>Duan, Q., Sorooshian, S., and Gupta, V.: Effective and efficient global optimization for conceptual rainfall-runoff models, Water Resour. Res, 28, 1015–1031, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.2166/nh.2003.0008</doi>
+              <unstructured_citation>Engeset, R. V., Udnæs, H. C., Guneriussen, T., Koren, H., Malnes, E., Solberg, R., and Alfnes, E.: Improving runoff simulations using satellite-observed time-series of snow covered area, Nord. Hydrol., 34, 281–294, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/94JC00572</doi>
+              <unstructured_citation>Evensen, G.: Sequential data assimilation with a nonlinear quasi-geostrophic model using Monte Carlo methods to forecast error statistics, J. Geophys. Res.-Oceans, 99, 10143–10162, https://doi.org/10.1029/94JC00572, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1007/s10236-003-0036-9</doi>
+              <unstructured_citation>Evensen, G.: The ensemble Kalman filter: Theoretical formulation and practical implementation, Ocean Dynam., 53, 343–367, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.2118/106184-MS</doi>
+              <unstructured_citation>Evensen, G., Hove, J., Meisingset, H., Reiso, E., Seim, K. S., and Espelid, Ø.: Using the EnKF for assisted history matching of a North Sea reservoir model, SPE Reservoir Simulation Symposium, Society of Petroleum Engineers, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1016/j.jhydrol.2014.07.008</doi>
+              <unstructured_citation>Franz, K. J., Hogue, T. S., Barik, M., and He, M.: Assessment of SWE data assimilation for ensemble streamflow predictions, J. Hydrol., 519, 2737–2746, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/hess-20-3895-2016</doi>
+              <unstructured_citation>Griessinger, N., Seibert, J., Magnusson, J., and Jonas, T.: Assessing the benefit of snow data assimilation for runoff modeling in Alpine catchments, Hydrol. Earth Syst. Sci., 20, 3895–3905, https://doi.org/10.5194/hess-20-3895-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/hess-16-815-2012</doi>
+              <unstructured_citation>He, M., Hogue, T. S., Margulis, S. A., and Franz, K. J.: An integrated uncertainty and ensemble-based data assimilation approach for improved operational streamflow predictions, Hydrol. Earth Syst. Sci., 16, 815–831, https://doi.org/10.5194/hess-16-815-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.2151/jmsj1965.75.1B_181</doi>
+              <unstructured_citation>Ide, K., Courtier, P., Ghil, M., and Lorenc, A. C.: Unified notation of data assimilation: operational, sequential and variational, J. Meterol. Soc. Jpn., 75, 181–189, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JHM-D-14-0193.1</doi>
+              <unstructured_citation>Jörg-Hess, S., Griessinger, N., and Zappa, M.: Probabilistic Forecasts of Snow Water Equivalent and Runoff in Mountainous Areas, J. Hydrometeorol., 16, 2169–2186, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/JHM-D-15-0019.1</doi>
+              <unstructured_citation>Lundquist, J. D., Hughes, M., Henn, B., Gutmann, E. D., Livneh, B., Dozier, J., and Neiman, P.: High-Elevation Precipitation Patterns: Using Snow Measurements to Assess Daily Gridded Datasets across the Sierra Nevada, California, J. Hydrometeorol., 16, 177–1792, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/JHM-D-11-046.1</doi>
+              <unstructured_citation>Mahanama, S., Livneh, B., Koster, R., Lettenmaier, D., and Reichle, R.: Soil moisture, snow, and seasonal streamflow forecasts in the United States, J. Hydrometeorol., 13, 189–203, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1061/(ASCE)0733-9496(2006)132:2(97)</doi>
+              <unstructured_citation>McGuire, M., Wood, A. W., Hamlet, A. F., and Lettenmaier, D. P.: Use of satellite data for streamflow and reservoir storage forecasts in the Snake River Basin, J. Water Resour. Plan. Manage., 132, 97–110, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2003JD003823</doi>
+              <unstructured_citation>Mitchell, K. E., Lohmann, D., Houser, P. R., Wood, E. F., Schaake, J. C., Robock, A., Cosgrove, B. A., Sheffield, J., Duan, Q., Luo, L., and Higgins, R. W.: The multi-institution North American Land Data Assimilation System (NLDAS): Utilizing multiple GCIP products and partners in a continental distributed hydrological modeling system, J. Geophys. Res.-Atmos, 109, D07S90, https://doi.org/10.1029/2003JD003823, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.3390/s8052986</doi>
+              <unstructured_citation>Moradkhani, H.: Hydrologic remote sensing and land surface data assimilation, Sensors, 8, 2986–3004, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1016/j.advwatres.2004.09.002</doi>
+              <unstructured_citation>Moradkhani, H., Sorooshian, S., Gupta, H. V., and Houser, P. R.: Dual state–parameter estimation of hydrological models using ensemble Kalman filter, Adv. Water Resour., 28, 135–147, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/1520-0493(1987)115&lt;1330:AGFFFV&gt;2.0.CO;2</doi>
+              <unstructured_citation>Murphy, A. H. and Winkler, R. L.: A general framework for forecast verification, Mon. Weather Rev., 115, 1330–1338, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Newman, A., Sampson, K., Clark, M. P., Bock, A., Viger, R. J., and Blodgett, D.: A large-sample watershed-scale hydrometeorological dataset for the contiguous USA, Boulder, CO: UCAR/NCAR, https://doi.org/10.5065/D6MW2F4D, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/hess-19-209-2015</doi>
+              <unstructured_citation>Newman, A. J., Clark, M. P., Sampson, K., Wood, A., Hay, L. E., Bock, A., Viger, R. J., Blodgett, D., Brekke, L., Arnold, J. R., Hopson, T., and Duan, Q.: Development of a large-sample watershed-scale hydrometeorological data set for the contiguous USA: data set characteristics and assessment of regional variability in hydrologic model performance, Hydrol. Earth Syst. Sci., 19, 209–223, https://doi.org/10.5194/hess-19-209-2015, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/JHM-D-15-0026.1</doi>
+              <unstructured_citation>Newman, A. J., Clark, M. P., Craig, J., Nijssen, B., Wood, A., Gutmann, E., Mizukami, N., Brekke, L., and Arnold, J. R.: Gridded ensemble precipitation and temperature estimates for the contiguous United States, J. Hydrometeorol., 16, 2481–2500, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Newman, A. J., Clark, M. P., Craig, J., Nijssen, B., Wood, A., and Gutmann, E.: Gridded Ensemble Precipitation and Temperature Estimates over the Contiguous United States, Boulder, CO: UCAR/NCAR-CISL-CDP, https://doi.org/10.5065/D6TH8JR2, 2015c.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2003JD003994</doi>
+              <unstructured_citation>Pan, M., Sheffield, J., Wood, E. F., Mitchell, K. E., Houser, P. R., Schaake, J. C., Robock, A., Lohmann, D., Cosgrove, B., Duan, Q., and Luo, L.: Snow process modeling in the North American Land Data Assimilation System (NLDAS): 2. Evaluation of model simulated snow water equivalent, J. Geophys. Res.-Atmos., 108, 8850, https://doi.org/10.1029/2003JD003994, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/1525-7541(2003)004&lt;0627:RVAOHA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Seo, D. J., Koren, V., and Cajina, N.: Real-Time Variational Assimilation of Hydrologic and Hydrometeorological Data into Operational Hydrologic Forecasting, J. Hydrometeorol., 4, 627–641, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1016/S0022-1694(96)03142-3</doi>
+              <unstructured_citation>Singh, P. and Kumar, N.: Impact assessment of climate change on the hydrological response of a snow and glacier melt runoff dominated Himalayan river, J. Hydrol., 193, 316–350, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/JHM505.1</doi>
+              <unstructured_citation>Slater, A. G. and Clark, M. P.: Snow data assimilation via an ensemble Kalman filter, J. Hydrometeorol., 7, 478–493, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1016/j.jhydrol.2014.08.061</doi>
+              <unstructured_citation>Staudinger, M. and Seibert, J.: Predictability of low flow – An assessment with simulation experiments, J. Hydrol., 519, 1383–1393, https://doi.org/10.1016/j.jhydrol.2014.08.061, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/2009JD013035</doi>
+              <unstructured_citation>Su, H., Yang, Z. L., Dickinson, R. E., Wilson, C. R., and Niu, G. Y.: Multisensor snow data assimilation at the continental scale: The value of Gravity Recovery and Climate Experiment terrestrial water storage information, J. Geophys. Res.-Atmos., 115, D10104, https://doi.org/10.1029/2009JD013035, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2003JD003765</doi>
+              <unstructured_citation>Sun, C., Walker, J. P., and Houser, P. R.: A methodology for snow data assimilation in a land surface model, J. Geophys. Res.-Atmos., 109, D08108, https://doi.org/10.1029/2003JD003765, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1016/j.rse.2011.08.014</doi>
+              <unstructured_citation>Takala, M., Luojus, K., Pulliainen, J., Derksen, C., Lemmetyinen, J., Kärnä, J.P., Koskinen, J., and Bojkov, B.: Estimating northern hemisphere snow water equivalent for climate research through assimilation of space-borne radiometer data and ground-based measurements, Remote Sens. Environ., 115, 3517–3529, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>USGS Water Data Team: USGS Surface-Water Data for USA, US Department of the Interior, US Geological Survey, available at: https://waterdata.usgs.gov/nwis/sw, last access: 9 April 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/JHM504.1</doi>
+              <unstructured_citation>Vrugt, J. A., Gupta, H. V., Nualláin, B., and Bouten, W.: Real-time data assimilation for operational ensemble streamflow forecasting, J. Hydrometeorol., 7, 548–565, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/BAMS-87-12-1699</doi>
+              <unstructured_citation>Wood, A. W. and Lettenmaier, D. P.: A new approach for seasonal hydrologic forecasting in the western US, B. Am. Meteorol. Soc., 87, 1699–1712, https://doi.org/10.1175/BAMS-87-12-1699, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/2004JD004508</doi>
+              <unstructured_citation>Wood, A., Kumar, A., and Lettenmaier, D.: A retrospective assessment of NCEP climate model-based ensemble hydrologic forecasting in the western United States, J. Geophys. Res., 110, D04105, https://doi.org/10.1029/2004JD004508, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/2008GL034648</doi>
+              <unstructured_citation>Wood, A. W. and Lettenmaier, D. P.: An ensemble approach for attribution of hydrologic prediction uncertainty, Geophys. Res. Lett., 35, L14401, https://doi.org/10.1029/2008GL034648, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/JHM-D-14-0213.1</doi>
+              <unstructured_citation>Wood, A. W., Hopson, T., Newman, A., Brekke, L., Arnold, J., and Clark, M.: Quantifying Streamflow Forecast Skill Elasticity to Initial Condition and Climate Prediction Skill, J. Hydrometeorol., 17, 651–668, https://doi.org/10.1175/JHM-D-14-0213.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1002/qj.2000</doi>
+              <unstructured_citation>Wu, G., Zheng, X., Wang, L., Zhang, S., Liang, X., and Li, Y.: A new structure for error covariance matrices and their adaptive estimation in EnKF assimilation, Q. J. Roy. Meteorol. Soc., 139, 795–804, https://doi.org/10.1002/qj.2000, 2012.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/hess-21-635-2017-supplement</doi>
+                <resource>https://www.hydrol-earth-syst-sci.net/21/635/2017/hess-21-635-2017-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

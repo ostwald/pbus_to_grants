@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-08 12:02:07">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>15</volume>
+          </journal_volume>
+          <issue>21</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Modeling particle nucleation and growth over northern California during the 2010 CARES campaign</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Lupascu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R.</given_name>
+              <surname>Easter</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>R.</given_name>
+              <surname>Zaveri</surname>
+              <ORCID>https://orcid.org/0000-0001-9874-8807</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M.</given_name>
+              <surname>Shrivastava</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M.</given_name>
+              <surname>Pekour</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Tomlinson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Q.</given_name>
+              <surname>Yang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>H.</given_name>
+              <surname>Matsui</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Hodzic</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Q.</given_name>
+              <surname>Zhang</surname>
+              <ORCID>https://orcid.org/0000-0002-5203-8778</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J. D.</given_name>
+              <surname>Fast</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Accurate representation of the aerosol lifecycle requires adequate modeling of the particle number concentration and size distribution in addition to their mass, which is often the focus of aerosol modeling studies. This paper compares particle number concentrations and size distributions as predicted by three empirical nucleation parameterizations in the Weather Research and Forecast coupled with chemistry (WRF-Chem) regional model using 20 discrete size bins ranging from 1 nm to 10 μm. Two of the parameterizations are based on H<sub>2</sub>SO<sub>4</sub>, while one is based on both H<sub>2</sub>SO<sub>4</sub> and organic vapors. Budget diagnostic terms for transport, dry deposition, emissions, condensational growth, nucleation, and coagulation of aerosol particles have been added to the model and are used to analyze the differences in how the new particle formation parameterizations influence the evolving aerosol size distribution. The simulations are evaluated using measurements collected at surface sites and from a research aircraft during the Carbonaceous Aerosol and Radiative Effects Study (CARES) conducted in the vicinity of Sacramento, California. <br><br> While all three parameterizations captured the temporal variation of the size distribution during observed nucleation events as well as the spatial variability in aerosol number, all overestimated by up to a factor of 2.5 the total particle number concentration for particle diameters greater than 10 nm. Using the budget diagnostic terms, we demonstrate that the combined H<sub>2</sub>SO<sub>4</sub> and low-volatility organic vapor parameterization leads to a different diurnal variability of new particle formation and growth to larger sizes compared to the parameterizations based on only H<sub>2</sub>SO<sub>4</sub>. At the CARES urban ground site, peak nucleation rates are predicted to occur around 12:00 Pacific (local) standard time (PST) for the H<sub>2</sub>SO<sub>4</sub> parameterizations, whereas the highest rates were predicted at 08:00 and 16:00 PST when low-volatility organic gases are included in the parameterization. This can be explained by higher anthropogenic emissions of organic vapors at these times as well as lower boundary-layer heights that reduce vertical mixing. The higher nucleation rates in the H<sub>2</sub>SO<sub>4</sub>-organic parameterization at these times were largely offset by losses due to coagulation. Despite the different budget terms for ultrafine particles, the 10–40 nm diameter particle number concentrations from all three parameterizations increased from 10:00 to 14:00 PST and then decreased later in the afternoon, consistent with changes in the observed size and number distribution. We found that newly formed particles could explain up to 20–30 % of predicted cloud condensation nuclei at 0.5 % supersaturation, depending on location and the specific nucleation parameterization. A sensitivity simulation using 12 discrete size bins ranging from 1 nm to 10 μm diameter gave a reasonable estimate of particle number and size distribution compared to the 20 size bin simulation, while reducing the associated computational cost by ~ 36 %.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>06</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>12283</first_page>
+            <last_page>12313</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-15-12283-2015</doi>
+            <resource>https://www.atmos-chem-phys.net/15/12283/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/15/12283/2015/acp-15-12283-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Andreae, M. O. and Rosenfeld, D.: Aerosol–cloud–precipitation interactions. Part 1. The nature and sources of cloud-active aerosols, Earth-Sci. Rev., 89, 13–41, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Archer-Nicholls, S., Lowe, D., Utembe, S., Allan, J., Zaveri, R. A., Fast, J. D., Hodnebrog, Ø., Denier van der Gon, H., and McFiggans, G.: Gaseous chemistry and aerosol mechanism developments for version 3.5.1 of the online regional model, WRF-Chem, Geosci. Model Dev., 7, 2557–2579, https://doi.org/10.5194/gmd-7-2557-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Asmi, E., Kivekäs, N., Kerminen, V.-M., Komppula, M., Hyvärinen, A.-P., Hatakka, J., Viisanen, Y., and Lihavainen, H.: Secondary new particle formation in Northern Finland Pallas site between the years 2000 and 2010, Atmos. Chem. Phys., 11, 12959–12972, https://doi.org/10.5194/acp-11-12959-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Betha, R., Spracklen, D. V., and Balasubramanian, R.: Observations of new aerosol particle formation in a tropical urban atmosphere, Atmos. Environ., 71, 340–351, https://doi.org/10.1016/j.atmosenv.2013.01.049, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Boulon, J., Sellegri, K., Hervo, M., Picard, D., Pichon, J.-M., Fréville, P., and Laj, P.: Investigation of nucleation events vertical extent: a long term study at two different altitude sites, Atmos. Chem. Phys., 11, 5625–5639, https://doi.org/10.5194/acp-11-5625-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Boy, M., Karl, T., Turnipseed, A., Mauldin, R. L., Kosciuch, E., Greenberg, J., Rathbone, J., Smith, J., Held, A., Barsanti, K., Wehner, B., Bauer, S., Wiedensohler, A., Bonn, B., Kulmala, M., and Guenther, A.: New particle formation in the Front Range of the Colorado Rocky Mountains, Atmos. Chem. Phys., 8, 1577–1590, https://doi.org/10.5194/acp-8-1577-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Carter, W. P. L.:. Implementation of the SAPRC-99 chemical mechanism into the models-3 framework, report to the United States Environmental Protection Agency, available at: http://www.cert.ucr.edu/ carter/absts.htm#s99mod3 (last access: July 2015), 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Cui, Y. Y., Hodzic, A., Smith, J. N., Ortega, J., Brioude, J., Matsui, H., Levin, E. J. T., Turnipseed, A., Winkler, P., and de Foy, B.: Modeling ultrafine particle growth at a pine forest site influenced by anthropogenic pollution during BEACHON-RoMBAS 2011, Atmos. Chem. Phys., 14, 11011–11029, https://doi.org/10.5194/acp-14-11011-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Ehn, M., Thornton, J. A., Kleist, E., Sipilä, M., Junninen, H., Pullinen, I., Springer, M., Rubach, F., Tillmann, R., Lee, B., Lopez-Hilfiker, F., Andres, S., Acir, I.-H., Rissanen, M., Jokinen, T., Schobesberger, S., Kangasluoma, J., Kontkanen, J., Nieminen, T., Kurten, T., Nielsen, L. B., Jorgensen, S., Kjaergaard, H. G., Canagaratna, M., Maso, M. D., Berndt, T., Petaja, T., Wahner, A., Kerminen, V.-M., Kulmala, M., Worsnop, D. R., Wildt, J., and Mentel, T. F.: A large source of low-volatility secondary organic aerosol, Nature, 506, 476–479, https://doi.org/10.1038/nature13032, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G., Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando, J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.: Description and evaluation of the Model for Ozone and Related chemical Tracers, version 4 (MOZART-4), Geosci. Model Dev., 3, 43–67, https://doi.org/10.5194/gmd-3-43-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Fast, J. D., Gustafson Jr., W. I., Easter Jr., R. C., Zaveri, R. A., Barnard, J. C., Chapman, E. G., Grell, G., and Peckham, S. E.: Evolution of ozone, particulates, and aerosol direct radiative forcing in the vicinity of Houston using a fully coupled meteorology–chemistry–aerosol model, J. Geophys. Res.-Atmos., 111, D21305, https://doi.org/10.1029/2005JD006721, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Fast, J. D., Gustafson Jr., W. I., Berg, L. K., Shaw, W. J., Pekour, M., Shrivastava, M., Barnard, J. C., Ferrare, R. A., Hostetler, C. A., Hair, J. A., Erickson, M., Jobson, B. T., Flowers, B., Dubey, M. K., Springston, S., Pierce, R. B., Dolislager, L., Pederson, J., and Zaveri, R. A.: Transport and mixing patterns over Central California during the carbonaceous aerosol and radiative effects study (CARES), Atmos. Chem. Phys., 12, 1759–1783, https://doi.org/10.5194/acp-12-1759-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Fast, J. D., Allan, J., Bahreini, R., Craven, J., Emmons, L., Ferrare, R., Hayes, P. L., Hodzic, A., Holloway, J., Hostetler, C., Jimenez, J. L., Jonsson, H., Liu, S., Liu, Y., Metcalf, A., Middlebrook, A., Nowak, J., Pekour, M., Perring, A., Russell, L., Sedlacek, A., Seinfeld, J., Setyan, A., Shilling, J., Shrivastava, M., Springston, S., Song, C., Subramanian, R., Taylor, J. W., Vinoj, V., Yang, Q., Zaveri, R. A., and Zhang, Q.: Modeling regional aerosol and aerosol precursor variability over California and its sensitivity to emissions and long-range transport during the 2010 CalNex and CARES campaigns, Atmos. Chem. Phys., 14, 10013–10060, https://doi.org/10.5194/acp-14-10013-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock, W. C., and Eder, B.: Fully coupled online chemistry within the WRF model, Atmos. Environ., 39, 6957–6975, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Guenther, A., Karl, T., Harley, P., Wiedinmyer, C., Palmer, P. I., and Geron, C.: Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature), Atmos. Chem. Phys., 6, 3181–3210, https://doi.org/10.5194/acp-6-3181-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Hoppel, W. A., Frick, G. M., Fitzgerald, J. W., and Larson, R. E.: Marine boundary layer measurements of new particle formation and the effects nonprecipitating clouds have on aerosol size distribution, J. Geophys. Res., 99, 14443–14459, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Iacono, M. J., Delamere, J. S., Mlawer, E. J., Shephard, M. W., Clough, S. A., and Collins, W. D.: Radiative forcing by long-lived greenhouse gases: calculations with the AER radiative transfer models, J. Geophys. Res., 113, D13103, https://doi.org/10.1029/2008JD009944, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>IPCC 2007 – Denman, K. L., Brasseur, G., Chidthaisong, A., Ciais, P., Cox, P. M., Dickinson, R. E., Hauglustaine, D., Heinze, C., Holland, E., Jacob, D., Lohmann, U., Ramachandran, S., da Silva Dias, P. L., Wofsy, S. C., and Zhang, X.: Couplings between changes in the climate system and biogeochemistry, in: Climate Change 2007: the Physical Science Basis, contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Solomon, S., Qin, D., Manning, M., Chen, Z., Marquis, M., Averyt, K. B., Tignor, M., and Miller, H. L., Cambridge University Press, Cambridge, UK, and New York, NY, USA, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>IPCC 2013 – Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G., Forster, P., Kerminen, V.-M., Kondo, Y., Liao, H., Lohmann, U., Rasch, P., Satheesh, S. K., Sherwood, S., Stevens, B., and Zhang, X. Y.: Clouds and aerosols, in: Climate Change 2013: the Physical Science Basis, contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge, UK, and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Janjic, Z. I.: Nonsingular Implementation of the Mellor–Yamada Level 2.5 Scheme in the NCEP Meso model, Technical Report, National Centers for Environmental Prediction, Office Note No. 437, 61 pp., available at: http://www.emc.ncep.noaa.gov/officenotes/newernotes/on437.pdf (last access: July 2015), 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Jeong, C. H., Hopke, P. K., Chalupa, D., and Utell, M.: Characteristics of nucleation and growth events of ultrafine particles measured in Rochester, NY, Environ. Sci. Technol., 38, 1933–1940, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Jeong, C.-H., Evans, G. J., McGuire, M. L., Chang, R. Y.-W., Abbatt, J. P. D., Zeromskiene, K., Mozurkewich, M., Li, S.-M., and Leaitch, W. R.: Particle formation and growth at five rural and urban sites, Atmos. Chem. Phys., 10, 7979–7995, https://doi.org/10.5194/acp-10-7979-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Jokinen, T., Berndt, T., Makkonen, R., Kerminen, V.-M., Junninen, H., Paasonen, P., Stratmann, F., Hermann, H., Guenther, A., Worsnop, D. R., Kulmala, M., Ehn, M., and Sipilä, M.: Production of extremely low volatile organic compounds from biogenic emissions: Measured yields and atmospheric implications, Proc. Nat. Acad. Sci., 112, 7123–7128, https://doi.org/10.1073/pnas.1423977112, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Jung, J. G., Pandis, S. N., Adams, P. J.: Evaluation of Nucleation Theories in a Sulfur-Rich Environment, Aerosol Sci. Tech., 42, 7, 495–504, https://doi.org/10.1080/02786820802187085, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Jung, J., Fountoukis, C., Adams, P. J., and Pandis, S. N.: Simulation of in situ ultrafine particle formation in the eastern United States using PMCAMx-UF, J. Geophys. Res., 115, D03203, https://doi.org/10.1029/2009JD012313, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Kain, J. S.: The Kain–Fritsch convective parameterization: an update, J. Appl. Meteorol., 43, 170–181, https://doi.org/10.1175/1520-0450(2004)0432.0.CO;2, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Kazil, J., Harrison, R. G., and Lovejoy, E. R.: Tropospheric new particle formation and the role of ions, Space Sci. Rev., 137, 241–255, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Kerminen, V.-M. and Kulmala, M.: Analytical formulae connecting the &amp;quot;real&amp;quot; and the &amp;quot;apparent&amp;quot; nucleation rate and the nuclei number concentration for atmospheric nucleation events, J. Aerosol Sci., 33, 609–662, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Kerminen, V.-M., Paramonov, M., Anttila, T., Riipinen, I., Fountoukis, C., Korhonen, H., Asmi, E., Laakso, L., Lihavainen, H., Swietlicki, E., Svenningsson, B., Asmi, A., Pandis, S. N., Kulmala, M., and Petäjä, T.: Cloud condensation nuclei production associated with atmospheric nucleation: a synthesis based on existing literature and new results, Atmos. Chem. Phys., 12, 12037–12059, https://doi.org/10.5194/acp-12-12037-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Kirkby, J., Curtius, J., Almeida, J., Dunne, E., Duplissy, J., Ehrhart, S., Franchin, A., Gagné, S., Ickes, L., Kürten, A., Kupc, A., Metzger, A., Riccobono, F., Rondo, L., Schobesberger, S., Tsagkogeorgas, G., Wimmer, D., Amorim, A., Bianchi, F., Breitenlechner, M., David, A., Dommen, J., Downard, A., Ehn, M., Flagan, R. C., Haider, S., Hansel, A., Hauser, D. Jud, W., Junninen, H., Kreissl, F., Kvashin, A., Laaksonen, A., Lehtipalo, K., Lima, J., Lovejoy, E. R., Makhmutov, V., Mathot, S., Mikkilä, J., Minginette, P., Mogo, S., Nieminen, T., Onnela, A., Pereira, P., Petäjä, T., Schnitzhofer, R., Seinfeld, J. H., Sipilä, M., Stozhkov, Y., Stratmann, F., Tomé, A., Vanhanen, J., Viisanen, Y., Vrtala, A., Wagner, P. E., Walther, H., Weingartner, E., Wex, H., Winkler, P. M., Carslaw, K. S., Worsnop, D. R., and Kulmala, M.: Role of sulphuric acid, ammonia and galactic cosmic rays in atmospheric aerosol nucleation, Nature, 476, 429–433, https://doi.org/10.1038/nature10343, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Kristensson, A., Dal Maso, M., Swietlicki, E., Hussein, T., Zhou, J., Kerminen, V.-M., and Kulmala, M.: Characterization of new particle formation events at a background site in Southern Sweden: relation to air mass history, Tellus B, 60, 330–344, https://doi.org/10.1111/j.1600-0889.2008.00345.x, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Kuang, C., McMurry, P. H., McCormick, A. V., and Eisele, F. L.: Dependence of nucleation rates on sulfuric acid concentration in diverse atmospheric locations, J. Geophys. Res., 113, D10209, https://doi.org/10.1029/2007JD009253, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Kuang, C., McMurry, P. H., and McCormick, A. V.: Determination of cloud condensation nuclei production from measured new particle formation events, Geophys. Res. Lett., 36, L09822, https://doi.org/10.1029/2009GL037584, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Kuang, C., Riipinen, I., Sihto, S.-L., Kulmala, M., McCormick, A. V., and McMurry, P. H.: An improved criterion for new particle formation in diverse atmospheric environments, Atmos. Chem. Phys., 10, 8469–8480, https://doi.org/10.5194/acp-10-8469-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Kuang, C., Chen, M., Zhao, J., Smith, J., McMurry, P. H., and Wang, J.: Size and time-resolved growth rate measurements of 1 to 5 nm freshly formed atmospheric nuclei, Atmos. Chem. Phys., 12, 3573–3589, https://doi.org/10.5194/acp-12-3573-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Kulmala, M., Laaksonen, A., and Pirjola, L.: Parameterizations for sulphuric acid/water nucleation rates, J. Geophys. Res.,103, 8301–8307, https://doi.org/10.1029/97JD03718, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Kulmala, M., Lehtinen, K. E. J., and Laaksonen, A.: Cluster activation theory as an explanation of the linear dependence between formation rate of 3nm particles and sulphuric acid concentration, Atmos. Chem. Phys., 6, 787–793, https://doi.org/10.5194/acp-6-787-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Kuwata, M., Kondo, Y., Miyazaki, Y., Komazaki, Y., Kim, J. H., Yum, S. S., Tanimoto, H., and Matsueda, H.: Cloud condensation nuclei activity at Jeju Island, Korea in spring 2005, Atmos. Chem. Phys., 8, 2933–2948, https://doi.org/10.5194/acp-8-2933-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Lee, Y. H., Pierce, J. R., and Adams, P. J.: Representation of nucleation mode microphysics in a global aerosol model with sectional microphysics, Geosci. Model Dev., 6, 1221–1232, https://doi.org/10.5194/gmd-6-1221-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Levin, E. J. T., Prenni, A. J., Petters, M. D., Kreidenweis, S. M., Sullivan, R. C., Atwood, S. A., Ortega, J., DeMott, P. J., and Smith, J. N.: An annual cycle of size-resolved aerosol hygroscopicity at a forested site in Colorado, J. Geophys. Res., 117, 06201, https://doi.org/10.1029/2011JD016854, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Makkonen, R., Asmi, A., Korhonen, H., Kokkola, H., Järvenoja, S., Räisänen, P., Lehtinen, K. E. J., Laaksonen, A., Kerminen, V.-M., Järvinen, H., Lohmann, U., Bennartz, R., Feichter, J., and Kulmala, M.: Sensitivity of aerosol concentrations and cloud properties to nucleation and secondary organic distribution in ECHAM5-HAM global circulation model, Atmos. Chem. Phys., 9, 1747–1766, https://doi.org/10.5194/acp-9-1747-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Matsui, H., Koike, M., Kondo, Y., Takegawa, N., Wiedensohler, A., Fast, J. D., and Zaveri, R. A.: Impact of new particle formation on the concentrations of aerosols and cloud condensation nuclei around Beijing, J. Geophys. Res., 116, D19208, https://doi.org/10.1029/2011JD016025, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Matsui, H., Koike, M., Takegawa, N., Kondo, Y., Takami, A., Takamura, T., Yoon, S., Kim, S.-W., Lim, H.-C., and Fast, J. D.: Spatial and temporal variations of new particle formation in East Asia using an NPF-explicit WRF-chem model: north–south contrast in new particle formation frequency, J. Geophys. Res.-Atmos., 118, 11647–11663, https://doi.org/10.1002/jgrd.50821, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>McMurry, P. H.: Photochemical aerosol formation from SO2: a theoretical analysis of smog chamber data, J. Colloid Interf. Sci., 78, 513–527, https://doi.org/10.1016/0021-9797(80)90589-5, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>McMurry, P. H. and Friedlander, S. K.: New particle formation in the presence of an aerosol, Atmos. Environ., 13, 1635–1651, 1979.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>McMurry, P. H., Woo, K. S., Weber, R., Chen, D.-R., and Pui, D. Y. H.: Size distributions of 3–10 nm atmospheric particles: implications for nucleation mechanisms, Philos. T. Roy. Soc. A, 358, 2625–2642, https://doi.org/10.1098/rsta.2000.0673, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Mei, F., Setyan, A., Zhang, Q., and Wang, J.: CCN activity of organic aerosols observed downwind of urban emissions during CARES, Atmos. Chem. Phys., 13, 12155–12169, https://doi.org/10.5194/acp-13-12155-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Merikanto, J., Napari, I., Vehkamäki, H., Anttila, T., and Kulmala, M.: New parameterization of sulfuric acid–ammonia–water ternary nucleation rates at tropospheric conditions, J. Geophys. Res., 112, D15207, https://doi.org/10.1029/2006JD007977, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Merikanto, J., Spracklen, D. V., Mann, G. W., Pickering, S. J., and Carslaw, K. S.: Impact of nucleation on global CCN, Atmos. Chem. Phys., 9, 8601–8616, https://doi.org/10.5194/acp-9-8601-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Metzger, A., Verheggen, B., Dommen, J., Duplissy, J., Prevot, A. S., Weingartner, E., Riipinen, I., Kulmala, M., Spracklen, D. V., Carslaw, K. S., and Baltensperger, U.: Evidence for the role of organics in aerosol particle formation under atmospheric conditions, P. Natl. Acad. Sci. USA, 107, 6646–6651, https://doi.org/10.1073/pnas.0911330107, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Morrison, H., Thompson, G., and Tatarskii, V.: Impact of cloud microphysics on the development of trailing stratiform precipitation in a simulated squall line: comparison of one- and two-moment schemes, Mon. Weather Rev., 137, 991–1007, https://doi.org/10.1175/2008MWR2556.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Napari, I., Noppel, M., Vehkamäki, H., and Kulmala, M.: Parameterization of ternary nucleation rates forH2SO4-NH3-H2O vapors, J. Geophys. Res., 107, 4381, https://doi.org/10.1029/2002JD002132, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>O'Dowd, C. D. and Hoffmann, T.: Coastal new particle formation: a review of the current state-of-the-art, Environ. Chem., 2, 245–255, https://doi.org/10.1071/EN05077, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Paasonen, P., Nieminen, T., Asmi, E., Manninen, H. E., Petäjä, T., Plass-Dülmer, C., Flentje, H., Birmili, W., Wiedensohler, A., Hõrrak, U., Metzger, A., Hamed, A., Laaksonen, A., Facchini, M. C., Kerminen, V.-M., and Kulmala, M.: On the roles of sulphuric acid and low-volatility organic vapours in the initial steps of atmospheric new particle formation, Atmos. Chem. Phys., 10, 11223–11242, https://doi.org/10.5194/acp-10-11223-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Patoulias, D., Fountoukis, C., Riipinen, I., and Pandis, S. N.: The role of organic condensation on ultrafine particle growth during nucleation events, Atmos. Chem. Phys., 15, 6337–6350, https://doi.org/10.5194/acp-15-6337-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Pierce, J. R. and Adams, P. J.: Uncertainty in global CCN concentrations from uncertain aerosol nucleation and primary emission rates, Atmos. Chem. Phys., 9, 1339–1356, https://doi.org/10.5194/acp-9-1339-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Pierce, J. R., Riipinen, I., Kulmala, M., Ehn, M., Petäjä, T., Junninen, H., Worsnop, D. R., and Donahue, N. M.: Quantification of the volatility of secondary organic compounds in ultrafine particles during nucleation events, Atmos. Chem. Phys., 11, 9019–9036, https://doi.org/10.5194/acp-11-9019-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Pierce, J. R., Leaitch, W. R., Liggio, J., Westervelt, D. M., Wainwright, C. D., Abbatt, J. P. D., Ahlm, L., Al-Basheer, W., Cziczo, D. J., Hayden, K. L., Lee, A. K. Y., Li, S.-M., Russell, L. M., Sjostedt, S. J., Strawbridge, K. B., Travis, M., Vlasenko, A., Wentzell, J. J. B., Wiebe, H. A., Wong, J. P. S., and Macdonald, A. M.: Nucleation and condensational growth to CCN sizes during a sustained pristine biogenic SOA event in a forested mountain valley, Atmos. Chem. Phys., 12, 3147–3163, https://doi.org/10.5194/acp-12-3147-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Place Jr., P. F., Ziemba, L. D., and Griffin, R. J.: Observations of nucleation-mode particle events and size distributions at a rural New England site, Atmos. Environ., 44, 88–94, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Reddington, C. L., Carslaw, K. S., Spracklen, D. V., Frontoso, M. G., Collins, L., Merikanto, J., Minikin, A., Hamburger, T., Coe, H., Kulmala, M., Aalto, P., Flentje, H., Plass-Dülmer, C., Birmili, W., Wiedensohler, A., Wehner, B., Tuch, T., Sonntag, A., O'Dowd, C. D., Jennings, S. G., Dupuy, R., Baltensperger, U., Weingartner, E., Hansson, H.-C., Tunved, P., Laj, P., Sellegri, K., Boulon, J., Putaud, J.-P., Gruening, C., Swietlicki, E., Roldin, P., Henzing, J. S., Moerman, M., Mihalopoulos, N., Kouvarakis, G., Ždímal, V., Zíková, N., Marinoni, A., Bonasoni, P., and Duchi, R.: Primary versus secondary contributions to particle number concentrations in the European boundary layer, Atmos. Chem. Phys., 11, 12007–12036, https://doi.org/10.5194/acp-11-12007-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Riccobono, F., Schoberberger, S., Scott, C. E., Dommen, J., Ortega, I. K., Rondo, L., Almeida, J., Amorim, A., Bianchi, F., Breitenlechner, M., David, A., Downard, A., Dunne, E. M., Duplissy, J., Ehrhardt, S., Flagan, R. C., Franchin, A., Hansel, A., Juuninen, H., Kajos, M., Keskinen, H., Kupc, A., Kürten, A., Kvashin, A. N., Laaksonen, A., Lehtipalo, K., Makkmutov, V., Mathot, S., Nieminen, T., Onnela, A., Petäjä, T., Praplan, A. P., Santos, F. D., Schallhart, S., Seinfeld, J. H., Sipilä, M., Spracklen, D. V., Stozhkov, Y., Stratmann, F., Tomé, A., Tsagkogeorgas, G., Vaattlovaara, P., Viisanen, Y., Vrtala, A., Wagner, P. E., Weingartner, E., Wex, H., Wimmer, D., Carslaw, K. S., Curtius, J., Donahue, N. M., Kirkby, J., Kulmala, M., Worsnop, D. R., and Baltensperger, U.: Oxidation products of biogenic emissions contribute to nucleation of atmospheric particles, Science, 344, 717–721, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Riipinen, I., Sihto, S.-L., Kulmala, M., Arnold, F., Dal Maso, M., Birmili, W., Saarnio, K., Teinilä, K., Kerminen, V.-M., Laaksonen, A., and Lehtinen, K. E. J.: Connections between atmospheric sulphuric acid and new particle formation during QUEST III–IV campaigns in Heidelberg and Hyytiälä, Atmos. Chem. Phys., 7, 1899–1914, https://doi.org/10.5194/acp-7-1899-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Riipinen, I., Pierce, J. R., Yli-Juuti, T., Nieminen, T., Häkkinen, S., Ehn, M., Junninen, H., Lehtipalo, K., Petäjä, T., Slowik, J., Chang, R., Shantz, N. C., Abbatt, J., Leaitch, W. R., Kerminen, V.-M., Worsnop, D. R., Pandis, S. N., Donahue, N. M., and Kulmala, M.: Organic condensation: a vital link connecting aerosol formation to cloud condensation nuclei (CCN) concentrations, Atmos. Chem. Phys., 11, 3865–3878, https://doi.org/10.5194/acp-11-3865-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Ritter, M., Müller, M. D., Tsai, M.-Y., and Parlow, E.: Air pollution modeling over very complex terrain: an evaluation of WRF-Chem over Switzerland for two 1 year periods, Atmos. Res., 132–133, 209–222, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Schobesberger, S., Junninen, H., Bianchi, F., Lönn, G., Ehn, M., Lehtipalo, K., Dommen, J., Ehrhart, S., Ortega, I. K., Franchin, A., Nieminen, T., Riccobono, F., Hutterli, M., Duplissy, J., Almeida, J., Amorim, A., Breitenlechner, M., Downard, A. J., Dunne, E. M., Flagan, R. C., Kajos, M., Keskinen, H., Kirkby, J., Kupc, A., Kürten, A., Kurtén, T., Laaksonen, A., Mathot, S., Onnela, A., Praplan, A. P., Rondo, L., Santos, F. D., Schallhart, S., Schnitzhofer, R., Sipilä, M., Tomé, A., Tsagkogeorgas, G., Vehkamäki, H., Wimmer, D., Baltensperger, U., Carslaw, K. S., Curtius, J., Hansel, A., Petäjä, T., Kulmala, M., Donahue, N. M., and Worsnop, D. R.: Molecular understanding of atmospheric particle formation from sulfuric acid and large oxidized organic molecules, P. Natl. Acad. Sci. USA, 110, 17223–17228, https://doi.org/10.1073/pnas.1306973110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Sem, G. J.: Design and performance characteristics of three continuous-flow condensation particle counters: a summary, Atmos. Res., 62, 267–294, https://doi.org/10.1016/S0169-8095(02)00014-5, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Setyan, A., Zhang, Q., Merkel, M., Knighton, W. B., Sun, Y., Song, C., Shilling, J. E., Onasch, T. B., Herndon, S. C., Worsnop, D. R., Fast, J. D., Zaveri, R. A., Berg, L. K., Wiedensohler, A., Flowers, B. A., Dubey, M. K., and Subramanian, R.: Characterization of submicron particles influenced by mixed biogenic and anthropogenic emissions using high-resolution aerosol mass spectrometry: results from CARES, Atmos. Chem. Phys., 12, 8131–8156, https://doi.org/10.5194/acp-12-8131-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Setyan, A., Song, C., Merkel, M., Knighton, W. B., Onasch, T. B., Canagaratna, M. R., Worsnop, D. R., Wiedensohler, A., Shilling, J. E., and Zhang, Q.: Chemistry of new particle growth in mixed urban and biogenic emissions – insights from CARES, Atmos. Chem. Phys., 14, 6477–6494, https://doi.org/10.5194/acp-14-6477-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Shaw, W., Allwine, K. J., Fritz, B. G., Rutz, F. C., Rishel, J. P., and Chapman, E. G.: An evaluation of the wind erosion module in DUSTRAN, Atmos. Environ., 42, 1907–1921, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Shrivastava, M., Fast, J., Easter, R., Gustafson Jr., W. I., Zaveri, R. A., Jimenez, J. L., Saide, P., and Hodzic, A.: Modeling organic aerosols in a megacity: comparison of simple and complex representations of the volatility basis set approach, Atmos. Chem. Phys., 11, 6639–6662, https://doi.org/10.5194/acp-11-6639-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Shrivastava, M., Zelenyuk, A., Imre, D., Easter, R., Beranek, J., Zaveri, R. A., and Fast, J.: Implications of low volatility SOA and gas-phase fragmentation reactions on SOA loadings and their spatial and temporal evolution in the atmosphere, J. Geophys. Res.-Atmos., 118, 3328–3342, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <unstructured_citation>Shrivastava, M., Easter, R. C., Liu, X., Zelenyuk, A., Singh, B., Zhang, K., Ma, P. L., Chand, D., Ghan, S. J., Jiminez, J. L., Zhang, Q., Fast, J. D., Rasch, P. J., and Tiitta, P.: Global transformation and fate of SOA: Implications of Low Volatility SOA and Gas-Phase Fragmentation Reactions, J. Geophys. Res.-Atmos., 120, 4169–4195, https://doi.org/10.1002/2014JD022563, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Sihto, S.-L., Kulmala, M., Kerminen, V.-M., Dal Maso, M., Petäjä, T., Riipinen, I., Korhonen, H., Arnold, F., Janson, R., Boy, M., Laaksonen, A., and Lehtinen, K. E. J.: Atmospheric sulphuric acid and aerosol formation: implications from atmospheric measurements for nucleation and early growth mechanisms, Atmos. Chem. Phys., 6, 4079–4091, https://doi.org/10.5194/acp-6-4079-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Sihto, S.-L., Mikkilä, J., Vanhanen, J., Ehn, M., Liao, L., Lehtipalo, K., Aalto, P. P., Duplissy, J., Petäjä, T., Kerminen, V.-M., Boy, M., and Kulmala, M.: Seasonal variation of CCN concentrations and aerosol activation properties in boreal forest, Atmos. Chem. Phys., 11, 13269–13285, https://doi.org/10.5194/acp-11-13269-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Smith, J. N., Dunn, M. J., VanReken, T. M., Iida, K., Stolzenburg, M. R., McMurry, P. H., and Huey, L. G.: Chemical composition of atmospheric nanoparticles formed from nucleation in Tecamac, Mexico: evidence for an important role for organic species in nanoparticle growth, Geophys. Res. Lett., 35, L04808, https://doi.org/10.1029/2007GL032523, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <unstructured_citation>Spracklen, D. V., Pringle, K. J., Carslaw, K. S., Chipperfield, M. P., and Mann, G. W.: A global off-line model of size-resolved aerosol microphysics: I. Model development and prediction of aerosol properties, Atmos. Chem. Phys., 5, 2227–2252, https://doi.org/10.5194/acp-5-2227-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Spracklen, D. V., Carslaw, K. S., Kulmala, M., Kerminen, V.-M., Mann, G. W., and Sihto, S.-L.: The contribution of boundary layer nucleation events to total particle concentrations on regional and global scales, Atmos. Chem. Phys., 6, 5631–5648, https://doi.org/10.5194/acp-6-5631-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Spracklen, D. V., Carslaw, K. S., Kulmala, M., Kerminen, V.-M., Sihto, S.-L., Riipinen, I., Merikanto, J., Mann, G. W., Chipperfield, M. P., Wiedensohler, A., Birmili, W., and Lihavainen, H.: Contribution of particle formation to global cloud condensation nuclei concentrations, Geophys. Res. Lett., 35, L06808, https://doi.org/10.1029/2007GL033038, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Spracklen, D. V., Carslaw, K. S., Merikanto, J., Mann, G. W., Reddington, C. L., Pickering, S., Ogren, J. A., Andrews, E., Baltensperger, U., Weingartner, E., Boy, M., Kulmala, M., Laakso, L., Lihavainen, H., Kivekäs, N., Komppula, M., Mihalopoulos, N., Kouvarakis, G., Jennings, S. G., O'Dowd, C., Birmili, W., Wiedensohler, A., Weller, R., Gras, J., Laj, P., Sellegri, K., Bonn, B., Krejci, R., Laaksonen, A., Hamed, A., Minikin, A., Harrison, R. M., Talbot, R., and Sun, J.: Explaining global surface aerosol number concentrations in terms of primary emissions and particle formation, Atmos. Chem. Phys., 10, 4775–4793, https://doi.org/10.5194/acp-10-4775-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Turco, R. P., Zhao, J.-X., and Yu, F.: A new source of tropospheric aerosols: Ion-ion recombination, Geophys. Res. Lett., 25, 635–638, https://doi.org/10.1029/98GL00253, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Vehkamäki, H., Kulmala, M., Napari, I., Lehtinen, K. E. J., Timmreck, C., Noppel, M., and Laaksonen, A.: An improved parameterization for sulfuric acid-water nucleation rates for tropospheric and stratospheric conditions, J. Geophys. Res., 107, 4622, https://doi.org/10.1029/2002JD002184, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Venzac, H., Sellegri, K., Villani, P., Picard, D., and Laj, P.: Seasonal variation of aerosol size distributions in the free troposphere and residual layer at the puy de Dôme station, France, Atmos. Chem. Phys., 9, 1465–1478, https://doi.org/10.5194/acp-9-1465-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Westervelt, D. M., Pierce, J. R., Riipinen, I., Trivitayanurak, W., Hamed, A., Kulmala, M., Laaksonen, A., Decesari, S., and Adams, P. J.: Formation and growth of nucleated particles into cloud condensation nuclei: model-measurement comparison, Atmos. Chem. Phys., 13, 7645–7663, https://doi.org/10.5194/acp-13-7645-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Westervelt, D. M., Pierce, J. R., and Adams, P. J.: Analysis of feedbacks between nucleation rate, survival probability and cloud condensation nuclei formation, Atmos. Chem. Phys., 14, 5577–5597, https://doi.org/10.5194/acp-14-5577-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Wexler, A. S., Lurmann, F. W., and Seinfeld, J. H.: Modeling urban and regional aerosols. I. Model development, Atmos. Environ., 28, 531–546, https://doi.org/10.1016/1352-2310(94)90129-5, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Wiedensohler, A., Chen, Y. F., Nowak, A., Wehner, B., Achtert, P., Berghof, M., Birmili, W., Wu, Z. J., Hu, M., Zhu, T., Takegawa, N., Kita, K., Kondo, Y., Lou, S. R., Hofzumahaus, A., Holland, F., Wahner, A., Gunthe, S. S., Rose, D., Su, H., and Pöschl, U.: Rapid aerosol particle growth and increase of cloud condensation nucleus activity by secondary aerosol formation and condensation: a case study for regional air pollution in northeastern China, J. Geophys. Res., 114, 00G08, https://doi.org/10.1029/2008JD010884, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Yli-Juuti, T., Nieminen, T., Hirsikko, A., Aalto, P. P., Asmi, E., Hõrrak, U., Manninen, H. E., Patokoski, J., Dal Maso, M., Petäjä, T., Rinne, J., Kulmala, M., and Riipinen, I.: Growth rates of nucleation mode particles in Hyytiälä during 2003–2009: variation with particle size, season, data analysis method and ambient conditions, Atmos. Chem. Phys., 11, 12865–12886, https://doi.org/10.5194/acp-11-12865-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Yli-Juuti, T., Barsanti, K., Hildebrandt Ruiz, L., Kieloaho, A.-J., Makkonen, U., Petäjä, T., Ruuskanen, T., Kulmala, M., and Riipinen, I.: Model for acid-base chemistry in nanoparticle growth (MABNAG), Atmos. Chem. Phys., 13, 12507–12524, https://doi.org/10.5194/acp-13-12507-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Yu, F.: A secondary organic aerosol formation model considering successive oxidation aging and kinetic condensation of organic compounds: global scale implications, Atmos. Chem. Phys., 11, 1083–1099, https://doi.org/10.5194/acp-11-1083-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <unstructured_citation>Yu, F. and Turco, R. P.: Ultrafine aerosol formation via ion-mediated nucleation, Geophys. Res. Lett., 27, 883–886, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Yu, F. and Turco, R. P.: From molecular clusters to nanoparticles: role of ambient ionization in tropospheric aerosol formation, J. Geophys. Res., 106, 4797–4814, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <unstructured_citation>Yu, F., Wang, Z., Luo, G., and Turco, R.: Ion-mediated nucleation as an important global source of tropospheric aerosols, Atmos. Chem. Phys., 8, 2537–2554, https://doi.org/10.5194/acp-8-2537-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <unstructured_citation>Yu, F., Luo, G., Pryor, S. C., Pillai, P. R., Lee, S. H., Ortega, J., Schwab, J. J., Hallar, A. G., Leaitch, W. R., Aneja, V. P., Smith, J. N., Walker, J. T., Hogrefe, O., and Demerjian, K. L.: Spring and summer contrast in new particle formation over nine forest areas in North America, Atmos. Chem. Phys. Discuss., 15, 21271–21298, https://doi.org/10.5194/acpd-15-21271-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>Yue, D. L., Hu, M., Zhang, R. Y., Wu, Z. J., Su, H., Wang, Z. B., Peng, J. F., He, L. Y., Huang, X. F., Gong, Y. G., and Wiedensohler, A.: Potential contribution of new particle formation to cloud condensation nuclei in Beijing, Atmos. Environ., 45, 6070–6077, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <unstructured_citation>Zaveri, R. A., Easter Jr., R. C., Fast, J. D., and Peters, L. K.: Model for Simulating Aerosol Interactions and Chemistry (MOSAIC), J. Geophys. Res.-Atmos., 113, D13204, https://doi.org/10.1029/2007JD008782, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Zaveri, R. A., Shaw, W. J., Cziczo, D. J., Schmid, B., Ferrare, R. A., Alexander, M. L., Alexandrov, M., Alvarez, R. J., Arnott, W. P., Atkinson, D. B., Baidar, S., Banta, R. M., Barnard, J. C., Beranek, J., Berg, L. K., Brechtel, F., Brewer, W. A., Cahill, J. F., Cairns, B., Cappa, C. D., Chand, D., China, S., Comstock, J. M., Dubey, M. K., Easter, R. C., Erickson, M. H., Fast, J. D., Floerchinger, C., Flowers, B. A., Fortner, E., Gaffney, J. S., Gilles, M. K., Gorkowski, K., Gustafson, W. I., Gyawali, M., Hair, J., Hardesty, R. M., Harworth, J. W., Herndon, S., Hiranuma, N., Hostetler, C., Hubbe, J. M., Jayne, J. T., Jeong, H., Jobson, B. T., Kassianov, E. I., Kleinman, L. I., Kluzek, C., Knighton, B., Kolesar, K. R., Kuang, C., Kubátová, A., Langford, A. O., Laskin, A., Laulainen, N., Marchbanks, R. D., Mazzoleni, C., Mei, F., Moffet, R. C., Nelson, D., Obland, M. D., Oetjen, H., Onasch, T. B., Ortega, I., Ottaviani, M., Pekour, M., Prather, K. A., Radney, J. G., Rogers, R. R., Sandberg, S. P., Sedlacek, A., Senff, C. J., Senum, G., Setyan, A., Shilling, J. E., Shrivastava, M., Song, C., Springston, S. R., Subramanian, R., Suski, K., Tomlinson, J., Volkamer, R., Wallace, H. W., Wang, J., Weickmann, A. M., Worsnop, D. R., Yu, X.-Y., Zelenyuk, A., and Zhang, Q.: Overview of the 2010 Carbonaceous Aerosols and Radiative Effects Study (CARES), Atmos. Chem. Phys., 12, 7647–7687, https://doi.org/10.5194/acp-12-7647-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <unstructured_citation>Zaveri, R. A., Easter, R. C., Shilling, J. E., and Seinfeld, J. H.: Modeling kinetic partitioning of secondary organic aerosol and size distribution dynamics: representing effects of volatility, phase state, and particle-phase reaction, Atmos. Chem. Phys., 14, 5153–5181, https://doi.org/10.5194/acp-14-5153-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <unstructured_citation>Zhang, Y., Liu, P., Liu, X.-H., Jacobson, M. Z., McMurry, P. H., Yu, F., Yu, S., and Schere, K. L.: A comparative study of nucleation parameterizations: 2. Three dimensional model application and evaluation, J. Geophys. Res., 115, D20213, https://doi.org/10.1029/2010JD014151, 2010a.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <unstructured_citation>Zhang, Y., McMurry, P. H., Yu, F., and Jacobson, M. Z.: A comparative study of nucleation parameterizations: 1. examination and evaluation of the formulations, J. Geophys. Res., 115, D20212, https://doi.org/10.1029/2010JD014150, 2010b.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <unstructured_citation>Ziemba, L. D., Griffin, R. J., and Talbot, R. W.: Observations of elevated particle number concentration events at a rural site in northern New England, J. Geophys. Res., 111, D23S24, https://doi.org/10.1029/2006JD007607, 2006.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

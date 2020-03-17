@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-12 13:56:57">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>The Cryosphere</full_title>
+          <abbrev_title>The Cryosphere</abbrev_title>
+          <issn media_type="electronic">1994-0424</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Process-level model evaluation: a snow and heat transfer metric</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Andrew G.</given_name>
+              <surname>Slater</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David M.</given_name>
+              <surname>Lawrence</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Charles D.</given_name>
+              <surname>Koven</surname>
+              <ORCID>https://orcid.org/0000-0002-3367-0065</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Land models require evaluation in order to understand results and guide future development. Examining functional relationships between model variables can provide insight into the ability of models to capture fundamental processes and aid in minimizing uncertainties or deficiencies in model forcing. This study quantifies the proficiency of land models to appropriately transfer heat from the soil through a snowpack to the atmosphere during the cooling season (Northern Hemisphere: October–March). Using the basic physics of heat diffusion, we investigate the relationship between seasonal amplitudes of soil versus air temperatures due to insulation from seasonal snow. Observations demonstrate the anticipated exponential relationship of attenuated soil temperature amplitude with increasing snow depth and indicate that the marginal influence of snow insulation diminishes beyond an <q>effective snow depth</q> of about 50<span class="thinspace"></span>cm. A snow and heat transfer metric (SHTM) is developed to quantify model skill compared to observations. Land models within the CMIP5 experiment vary widely in SHTM scores, and deficiencies can often be traced to model structural weaknesses. The SHTM value for individual models is stable over 150 years of climate, 1850–2005, indicating that the metric is insensitive to climate forcing and can be used to evaluate each model's representation of the insulation process.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>20</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>989</first_page>
+            <last_page>996</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Department of Energy
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000015</assertion>
+              </assertion>
+              <assertion name="award_number">DE-FC03-97ER62402/A010</assertion>
+              <assertion name="award_number">DE-AC02-05CH11231</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">PLR-1304152</assertion>
+              <assertion name="award_number">PLR-1304220</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/tc-11-989-2017</doi>
+            <resource>https://www.the-cryosphere.net/11/989/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.the-cryosphere.net/11/989/2017/tc-11-989-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/2008JCLI2378.1</doi>
+              <unstructured_citation>Abramowitz, G., Leuning, R., Clark, M., and Pitman, A.: Evaluating the Performance of Land Surface Models, J. Clim., 21, 5468–5481, https://doi.org/10.1175/2008JCLI2378.1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2006JF000593</doi>
+              <unstructured_citation>Anisimov, O. A., Lobanov, V. A., Reneva, S. A., Shiklomanov, N. I., Zhang, T., and Nelson, F. E.: Uncertainties in gridded air temperature fields and effects on predictive active layer modeling, J. Geophys. Res.-Earth Surf., 112, F02S14, https://doi.org/10.1029/2006JF000593, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/gmd-4-677-2011</doi>
+              <unstructured_citation>Best, M. J., Pryor, M., Clark, D. B., Rooney, G. G., Essery, R. L. H., Ménard, C. B., Edwards, J. M., Hendry, M. A., Porson, A., Gedney, N., Mercado, L. M., Sitch, S., Blyth, E., Boucher, O., Cox, P. M., Grimmond, C. S. B., and Harding, R. J.: The Joint UK Land Environment Simulator (JULES), model description – Part 1: Energy and water fluxes, Geosci. Model Dev., 4, 677–699, https://doi.org/10.5194/gmd-4-677-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Brown, R. and Brasnett, B.: Canadian Meteorological Centre (CMC) Daily Snow Depth Analysis Data. ©Environment Canada, 2010, Boulder, Colorado USA: National Snow and Ice Data Center, Digital media, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/tc-9-1505-2015</doi>
+              <unstructured_citation>Chadburn, S. E., Burke, E. J., Essery, R. L. H., Boike, J., Langer, M., Heikenfeld, M., Cox, P. M., and Friedlingstein, P.: Impact of model developments on present and future simulations of permafrost in a global land-surface model, The Cryosphere, 9, 1505–1521, https://doi.org/10.5194/tc-9-1505-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/2015WR017096</doi>
+              <unstructured_citation>Clark, M. P., Fan, Y., Lawrence, D. M., Adam, J. C., Bolster, D., Gochis, D. J., Hooper, R. P., Kumar, M., Leung, L. R., Mackay, D. S., Maxwell, R. M., Shen, C., Swenson, S. C., and Zeng, X.: Improving the representation of hydrologic processes in Earth System Models, Water Resour. Res., 51, 5929–5956, https://doi.org/10.1002/2015WR017096, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/JCLI-D-11-00004.1</doi>
+              <unstructured_citation>Decker, M., Brunke, M. A., Wang, Z., Sakaguchi, K., Zeng, X., and Bosilovich, M. G.: Evaluation of the Reanalysis Products from GSFC, NCEP, and ECMWF Using Flux Tower Observations, J. Clim., 25, 1916–1944, https://doi.org/10.1175/JCLI-D-11-00004.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P., Kobayashi, S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P., and Bechtold, P.: The ERA-Interim reanalysis: configuration and performance of the data assimilation system, Q. J. Roy. Meteorol. Soc., 137, 553–597, https://doi.org/10.1002/qj.828, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1111/j.1365-2486.2006.01259.x</doi>
+              <unstructured_citation>Dutta, K., Schuur, E. A. G., Neff, J. C., and Zimov, S. A.: Potential carbon release from permafrost soils of Northeastern Siberia, Glob. Change Biol., 12, 2336–2351, https://doi.org/10.1111/j.1365-2486.2006.01259.x, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/tc-9-1343-2015</doi>
+              <unstructured_citation>Ekici, A., Chadburn, S., Chaudhary, N., Hajdu, L. H., Marmy, A., Peng, S., Boike, J., Burke, E., Friend, A. D., Hauck, C., Krinner, G., Langer, M., Miller, P. A., and Beer, C.: Site-level model intercomparison of high latitude and high altitude soil thermal dynamics in tundra and barren landscapes, The Cryosphere, 9, 1343–1361, https://doi.org/10.5194/tc-9-1343-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Essery, R. L. H., Best, M. J., and Cox, P. M.: MOSES 2.2 Technical Documentation, Hadley Centre technical note 30, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/bg-11-4271-2014</doi>
+              <unstructured_citation>Fisher, J. B., Sikka, M., Oechel, W. C., Huntzinger, D. N., Melton, J. R., Koven, C. D., Ahlström, A., Arain, M. A., Baker, I., Chen, J. M., Ciais, P., Davidson, C., Dietze, M., El-Masri, B., Hayes, D., Huntingford, C., Jain, A. K., Levy, P. E., Lomas, M. R., Poulter, B., Price, D., Sahoo, A. K., Schaefer, K., Tian, H., Tomelleri, E., Verbeeck, H., Viovy, N., Wania, R., Zeng, N., and Miller, C. E.: Carbon cycle uncertainty in the Alaskan Arctic, Biogeosciences, 11, 4271–4288, https://doi.org/10.5194/bg-11-4271-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.21236/ADA203969</doi>
+              <unstructured_citation>Foster, D. and Davy, R.: Global Snow Depth Climatology, US Air Force Enviro. Tech. Appl. Cent., Scott Air Force Base, Illinois, USA, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1002/hyp.6989</doi>
+              <unstructured_citation>Gupta, H. V., Wagener, T., and Liu, Y.:Reconciling theory with observations: elements of a diagnostic approach to model evaluation, Hydrol. Process., 22, 3802–3813, https://doi.org/10.1002/hyp.6989, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1046/j.1365-2486.2000.06021.x</doi>
+              <unstructured_citation>Hobbie, S. E., Schimel, J. P., Trumbore, S. E., and Randerson, J. R.: Controls over carbon storage and turnover in high-latitude soils, Glob. Change Biol., 6, 196–210, https://doi.org/10.1046/j.1365-2486.2000.06021.x, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.2151/jmsj.2015-001</doi>
+              <unstructured_citation>Kobayashi, S., Yukinari, O. T. A., Harada, Y., Ebita, A., Moriya, M., Onoda, H., Onogi, K., Kamahori, H., Kobayashi, C., Miyaoka, K., and Takahashi, K.: The JRA-55 Reanalysis: General Specifications and Basic Characteristics, J. Meteorol. Soc. Jpn. Ser II, 93, 5–48, https://doi.org/10.2151/jmsj.2015-001, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/JCLI-D-12-00228.1</doi>
+              <unstructured_citation>Koven, C., Riley, W., and Stern, A.: Analysis of permafrost thermal dynamics and response to climate change in the CMIP5 Earth System Models, J. Clim., 126, 1877–1900, https://doi.org/10.1175/JCLI-D-12-00228.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1098/rsta.2014.0423</doi>
+              <unstructured_citation>Koven, C. D., Schuur, E. A. G., Schädel, C., Bohn, T. J., Burke, E. J., Chen, G., Chen, X., Ciais, P., Grosse, G., Harden, J. W., Hayes, D. J., Hugelius, G., Jafarov, E. E., Krinner, G., Kuhry, P., Lawrence, D. M., MacDougall, A. H., Marchenko, S. S., McGuire, A. D., Natali, S. M., Nicolsky, D. J., Olefeldt, D., Peng, S., Romanovsky, V. E., Schaefer, K. M., Strauss, J., Treat, C. C., and Turetsky, M.: A simplified, data-constrained approach to estimate the permafrost carbon-climate feedback., Philos. Transact. A Math. Phys. Eng. Sci., 373, https://doi.org/10.1098/rsta.2014.0423, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1007/s00382-007-0278-1</doi>
+              <unstructured_citation>Lawrence, D. M. and Slater, A. G.: Incorporating organic soil into a global climate model, Clim. Dyn., 30, 145–160, https://doi.org/10.1007/s00382-007-0278-1, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1007/s00382-009-0537-4</doi>
+              <unstructured_citation>Lawrence, D. M. and Slater, A. G.: The contribution of snow condition trends to future ground climate, Clim. Dyn., 34, 969–981, https://doi.org/10.1007/s00382-009-0537-4, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/JCLI-D-11-00334.1</doi>
+              <unstructured_citation>Lawrence, D. M., Slater, A. G., and Swenson, S. C.: Simulation of Present-Day and Future Permafrost and Seasonally Frozen Ground Conditions in CCSM4, J. Clim., 25, 2207–2225, https://doi.org/10.1175/JCLI-D-11-00334.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1088/1748-9326/10/9/094011</doi>
+              <unstructured_citation>Lawrence, D. M., Koven, C. D., Swenson, S. C., Riley, W. J., and Slater, A. G.: Permafrost thaw and resulting soil moisture changes regulate projected high-latitude CO2 and CH4 emissions, Environ. Res. Lett., 10, 94011, https://doi.org/10.1088/1748-9326/10/9/094011, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.3189/002214308786570881</doi>
+              <unstructured_citation>Luetschg, M., Lehning, M., and Haeberli, W.: A sensitivity study of factors influencing warm/thin permafrost in the Swiss Alps, J. Glaciol., 54, 696–704, https://doi.org/10.3189/002214308786570881, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Lunardini, V. J.: Heat Transfer in Cold Climates, Van Nostrand Reinhold, New York, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/bg-9-3857-2012</doi>
+              <unstructured_citation>Luo, Y. Q., Randerson, J. T., Abramowitz, G., Bacour, C., Blyth, E., Carvalhais, N., Ciais, P., Dalmonech, D., Fisher, J. B., Fisher, R., Friedlingstein, P., Hibbard, K., Hoffman, F., Huntzinger, D., Jones, C. D., Koven, C., Lawrence, D., Li, D. J., Mahecha, M., Niu, S. L., Norby, R., Piao, S. L., Qi, X., Peylin, P., Prentice, I. C., Riley, W., Reichstein, M., Schwalm, C., Wang, Y. P., Xia, J. Y., Zaehle, S., and Zhou, X. H.: A framework for benchmarking land models, Biogeosciences, 9, 3857–3874, https://doi.org/10.5194/bg-9-3857-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/JHM-D-15-0013.1</doi>
+              <unstructured_citation>Ménard, C. B., Ikonen, J., Rautiainen, K., Aurela, M., Arslan, A. N., and Pulliainen, J.: Effects of Meteorological and Ancillary Data, Temporal Averaging, and Evaluation Methods on Model Performance and Uncertainty in a Land Surface Model, J. Hydrometeorol., 16, 2559–2576, https://doi.org/10.1175/JHM-D-15-0013.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1038/nature04555</doi>
+              <unstructured_citation>Monson, R. K., Lipson, D. L., Burns, S. P., Turnipseed, A. A., Delany, A. C., Williams, M. W., and Schmidt, S. K.: Winter forest soil respiration controlled by climate and microbial community composition, Nature, 439, 711–714, https://doi.org/10.1038/nature04555, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Mudryk, L. R., Derksen, C., Kushner, P. J., and Brown, R.: Characterization of Northern Hemisphere snow water equivalent datasets, 1981–2010, J. Climate, 28, 8037–8051, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/acp-15-5987-2015</doi>
+              <unstructured_citation>Prentice, I. C., Liang, X., Medlyn, B. E., and Wang, Y.-P.: Reliable, robust and realistic: the three R's of next-generation land-surface modelling, Atmos. Chem. Phys., 15, 5987–6005, https://doi.org/10.5194/acp-15-5987-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Press, W., Teukolsky, S., Vetterling, W., and Flannery, B.: Numerical Recipes: The Art of Scientific Computing, Cambridge University Press, New York, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/JCLI-D-11-00015.1</doi>
+              <unstructured_citation>Rienecker, M. M., Suarez, M. J., Gelaro, R., Todling, R., Bacmeister, J., Liu, E., Bosilovich, M. G., Schubert, S. D., Takacs, L., Kim, G.-K., Bloom, S., Chen, J., Collins, D., Conaty, A., da Silva, A., Gu, W., Joiner, J., Koster, R. D., Lucchesi, R., Molod, A., Owens, T., Pawson, S., Pegion, P., Redder, C. R., Reichle, R., Robertson, F. R., Ruddick, A. G., Sienkiewicz, M., and Woollen, J.: MERRA: NASA's Modern-Era Retrospective Analysis for Research and Applications, J. Climate, 24, 3624–3648, https://doi.org/10.1175/JCLI-D-11-00015.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/2010BAMS3001.1</doi>
+              <unstructured_citation>Saha, S., Moorthi, S., Pan, H., Wu, X., Wang, J., Nadiga, S., Tripp, P., Kistler, R., Woollen, J., Behringer, D., Liu, H., Stokes, D., Grumbine, R., Gayno, G., Wang, J., Hou, Y., Chuang, H., Juang, H. H., Sela, J., Iredell, M., Treadon, R., Kleist, D., Van Delst, P., Keyser, D., Derber, J., Ek, M., Meng, J., Wei, H., Yang, R., Lord, S., Van Den Dool, H., Kumar, A., Wang, W., Long, C., Chelliah, M., Xue, Y., Huang, B., Schemm, J., Ebisuzaki, W., Lin, R., Xie, P., Chen, M., Zhou, S., Higgins, W., Zou, C., Liu, Q., Chen, Y., Han, Y., Cucurull, L., Reynolds, R. W., Rutledge, G., and Goldberg, M.: The NCEP Climate Forecast System Reanalysis, B. Am. Meteorol. Soc., 91, 1015–1057, https://doi.org/10.1175/2010BAMS3001.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1038/nature14338</doi>
+              <unstructured_citation>Schuur, E., McGuire, A., Schaedel, C., Grosse, G., Harden, J., Hayes, D., Hugelius, G., Koven, C., Kuhry, P., Lawrence, D., Natali, S., Olefeldt, D., Romanovsky, V., Schaefer, K., Turetsky, M., Treat, C., and Vonk, J.: Climate change and the permafrost carbon feedback, Nature, 520, 171–179, https://doi.org/10.1038/nature14338, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/0168-1923(92)90121-J</doi>
+              <unstructured_citation>Sharratt, B., Baker, D., Wall, D., Skaggs, R., and Ruschy, D.:Snow Depth Required for Near Steady-State Soil Temperatures, Agric. For. Meteorol., 57, 243–251, https://doi.org/10.1016/0168-1923(92)90121-J, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.3103/S1068373915020016</doi>
+              <unstructured_citation>Sherstyukov, A. B. and Sherstyukov, B. G.: Spatial features and new trends in thermal conditions of soil and depth of its seasonal thawing in the permafrost zone, Russ. Meteorol. Hydrol., 40, 73–78, https://doi.org/10.3103/S1068373915020016, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/JHM-D-15-0087.1</doi>
+              <unstructured_citation>Slater, A. G.: Surface Solar Radiation in North America: A Comparison of Observations, Reanalyses, Satellite, and Derived Products, J. Hydrometeorol., 17, 401–420, https://doi.org/10.1175/JHM-D-15-0087.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/JCLI-D-12-00341.1</doi>
+              <unstructured_citation>Slater, A. G. and Lawrence, D. M.: Diagnosing Present and Future Permafrost from Climate Models, J. Climate, 26, 5608–5623, https://doi.org/10.1175/JCLI-D-12-00341.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Slater, A. G., Schlosser, C. A., Desborough, C. E., Pitman, A. J., Henderson-Sellers, A. A., Robock, A. A., Vinnikov, K., Entin, J. J., Mitchell, K. K., Chen, F. F., Boone, A. A., Etchevers, P. P., Habets, F. F., Noilhan, J. J., Braden, H. H., Cox, P. M., de Rosnay, P. P., Dickinson, R. E., Yang, Z. L., Dai, Y. J., Zeng, Q. Q., Duan, Q. Q., Koren, V. V., Schaake, S. S., Gedney, N. N., Gusev, Y. M., Nasonova, O. N., Kim, J. J., Kowalczyk, E. A., Shmakin, A. B., Smirnova, T. G., Verseghy, D. D., Wetzel, P. P., and Xue, Y. Y.: The representation of snow in land surface schemes: Results from PILPS 2(d), J. Hydrometeorol., 2, 7–25, https://doi.org/10.1175/1525-7541(2001)002&amp;amp;lt;0007:TROSIL&amp;amp;gt;2.0.CO;2, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Sturm, M., Holmgren, J., and Liston, G. E.: A seasonal snow cover classification system for local to global applications, J. Clim., 8, 1261–1283, https://doi.org/10.1175/1520-0442(1995)008, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1016/j.rse.2011.08.014</doi>
+              <unstructured_citation>Takala, M., Luojus, K., Pulliainen, J., Derksen, C., Lemmetyinen, J., Karna, J.-P., Koskinen, J., and Bojkov, B.: Estimating northern hemisphere snow water equivalent for climate research through assimilation of space-borne radiometer data and ground-based measurements, Remote Sens. Environ., 115, 3517–3529, https://doi.org/10.1016/j.rse.2011.08.014, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An Overview Of CMIP5 And The Experiment Design, B. Am. Meteorol. Soc., 93, 485–498, https://doi.org/10.1175/BAMS-D-11-00094.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1017/CBO9780511564505</doi>
+              <unstructured_citation>Yershov, E.: General Geocryology, Cambridge University Press, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/bg-12-5811-2015</doi>
+              <unstructured_citation>Yi, Y., Kimball, J. S., Rawlins, M. A., Moghaddam, M., and Euskirchen, E. S.: The role of snow cover affecting boreal-arctic soil freeze-thaw and carbon dynamics, Biogeosciences, 12, 5811–5829, https://doi.org/10.5194/bg-12-5811-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2004RG000157</doi>
+              <unstructured_citation>Zhang, T.: Influence of the seasonal snow cover on the ground thermal regime: An overview, Rev. Geophys., 43, 1–23, https://doi.org/10.1029/2004RG000157, 2005.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

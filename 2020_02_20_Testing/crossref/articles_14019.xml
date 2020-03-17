@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1088" timestamp="2017-06-22 06:28:52">
+    <crossref>
+      <journal>
+        <journal_metadata>
+          <full_title>The Astrophysical Journal</full_title>
+          <abbrev_title>ApJ</abbrev_title>
+          <issn media_type="print">2041-8205</issn>
+          <issn media_type="electronic">2041-8213</issn>
+        </journal_metadata>
+        <journal_issue>
+          <!-- contributors -->
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>10</day>
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>785</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A THREE-DIMENSIONAL BABCOCK-LEIGHTON SOLAR DYNAMO MODEL</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Mark S.</given_name>
+              <surname>Miesch</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mausumi</given_name>
+              <surname>Dikpati</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>27</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>L8</first_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm" start_date="2014-03-27">http://iopscience.iop.org/info/page/text-and-data-mining</license_ref>
+            <license_ref applies_to="vor" start_date="2014-03-27">http://iopscience.iop.org/page/copyright</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1088/2041-8205/785/1/L8</doi>
+            <timestamp>2017020812565200</timestamp>
+            <resource>http://stacks.iop.org/2041-8205/785/i=1/a=L8?key=crossref.ae31448cdc71115dbe1288e2fc47e15b</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource mime_type="application/pdf">http://stacks.iop.org/2041-8205/785/i=1/a=L8/pdf</resource>
+              </item>
+              <item crawler="iParadigms">
+                <resource mime_type="text/html">http://stacks.iop.org/2041-8205/785/i=1/a=L8?key=crossref.ae31448cdc71115dbe1288e2fc47e15b</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">http://stacks.iop.org/2041-8205/785/i=1/a=L8/pdf</resource>
+              </item>
+              <item>
+                <resource mime_type="text/html">http://stacks.iop.org/2041-8205/785/i=1/a=L8?key=crossref.ae31448cdc71115dbe1288e2fc47e15b</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

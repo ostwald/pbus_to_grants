@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1007" timestamp="2019-03-21 20:03:03">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Boundary-Layer Meteorology</full_title>
+          <abbrev_title>Boundary-Layer Meteorol</abbrev_title>
+          <issn media_type="print">0006-8314</issn>
+          <issn media_type="electronic">1573-1472</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>8</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>168</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Assessment of Planetary-Boundary-Layer Schemes in the Weather Research and Forecasting Model Within and Above an Urban Canopy Layer</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Enrico</given_name>
+              <surname>Ferrero</surname>
+              <ORCID>http://orcid.org/0000-0002-6317-4900</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Stefano</given_name>
+              <surname>Alessandrini</surname>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Francois</given_name>
+              <surname>Vandenberghe</surname>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>3</month>
+            <day>22</day>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>8</month>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>289</first_page>
+            <last_page>319</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">349</identifier>
+          </publisher_item>
+          <crossmark>
+            <crossmark_version>1</crossmark_version>
+            <crossmark_policy>10.1007/springer_crossmark_policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>link.springer.com</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <crossmark_domain_exclusive>false</crossmark_domain_exclusive>
+            <custom_metadata>
+              <assertion group_label="Article History" group_name="ArticleHistory" label="Received" name="received" order="1">5 April 2017</assertion>
+              <assertion group_label="Article History" group_name="ArticleHistory" label="Accepted" name="accepted" order="2">8 March 2018</assertion>
+              <assertion group_label="Article History" group_name="ArticleHistory" label="First Online" name="first_online" order="3">22 March 2018</assertion>
+              <program name="AccessIndicators">
+                <license_ref applies_to="tdm">http://www.springer.com/tdm</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.1007/s10546-018-0349-3</doi>
+            <timestamp>20190322010224925</timestamp>
+            <resource content_version="vor">http://link.springer.com/10.1007/s10546-018-0349-3</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/s10546-018-0349-3.pdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="text/html">http://link.springer.com/article/10.1007/s10546-018-0349-3/fulltext.html</resource>
+              </item>
+              <item>
+                <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/s10546-018-0349-3.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="349_CR1">
+              <journal_title>Int J Env Poll</journal_title>
+              <author>A Bisignano</author>
+              <volume>62</volume>
+              <issue>2/3/4</issue>
+              <first_page>200</first_page>
+              <cYear>2017</cYear>
+              <doi>10.1504/IJEP.2017.089406</doi>
+              <unstructured_citation>Bisignano A, Ferrero E, Alessandrini S, Mortarini L (2017) Model chain for buoyant plume dispersion. Int J Env Poll 62(2/3/4):200–213</unstructured_citation>
+            </citation>
+            <citation key="349_CR2">
+              <journal_title>Mon Weather Rev</journal_title>
+              <author>P Bougeault</author>
+              <volume>117</volume>
+              <issue>8</issue>
+              <first_page>1872</first_page>
+              <cYear>1989</cYear>
+              <doi>10.1175/1520-0493(1989)117&lt;1872:POOITI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bougeault P, Lacarrere P (1989) Parametrization of orography-induced turbulence in a mesobeta-scale model. Mon Weather Rev 117(8):1872–1890</unstructured_citation>
+            </citation>
+            <citation key="349_CR3">
+              <journal_title>Phys Fluids</journal_title>
+              <author>S Byggstoyl</author>
+              <volume>29</volume>
+              <first_page>1430</first_page>
+              <cYear>1986</cYear>
+              <doi>10.1063/1.865660</doi>
+              <unstructured_citation>Byggstoyl S, Kollmann W (1986) A closure model for conditioned stress equations and its application to turbulent shear flows. Phys Fluids 29:1430–1440</unstructured_citation>
+            </citation>
+            <citation key="349_CR4">
+              <journal_title>J Astrophys</journal_title>
+              <author>V Canuto</author>
+              <volume>392</volume>
+              <first_page>218</first_page>
+              <cYear>1992</cYear>
+              <doi>10.1086/171420</doi>
+              <unstructured_citation>Canuto V (1992) Turbulent convection with overshootings: reynolds stress approach. J Astrophys 392:218–232</unstructured_citation>
+            </citation>
+            <citation key="349_CR5">
+              <journal_title>Phys Fluids</journal_title>
+              <author>V Canuto</author>
+              <volume>11</volume>
+              <first_page>678</first_page>
+              <cYear>1999</cYear>
+              <doi>10.1063/1.869939</doi>
+              <unstructured_citation>Canuto V, Dubovikov M, Yu G (1999) A dynamical model for turbulence. IX: reynolds stresses for shear-driven flows. Phys Fluids 11:678–691</unstructured_citation>
+            </citation>
+            <citation key="349_CR6">
+              <journal_title>J Phys Oceanogr</journal_title>
+              <author>V Canuto</author>
+              <volume>31</volume>
+              <first_page>1413</first_page>
+              <cYear>2001</cYear>
+              <doi>10.1175/1520-0485(2001)031&lt;1413:OTPIOP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Canuto V, Howard A, Cheng Y, Dubovikov M (2001) Ocean turbulence part I: one-point closure model momentum and heat vertical diffusivities. J Phys Oceanogr 31:1413–1426</unstructured_citation>
+            </citation>
+            <citation key="349_CR7">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>V Canuto</author>
+              <volume>62</volume>
+              <first_page>1645</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1175/JAS3420.1</doi>
+              <unstructured_citation>Canuto V, Cheng Y, Howard A (2005) What causes divergences in local second-order models? J Atmos Sci 62:1645–1651</unstructured_citation>
+            </citation>
+            <citation key="349_CR8">
+              <journal_title>Meteorol Atmos Phys</journal_title>
+              <author>JC Chang</author>
+              <volume>87</volume>
+              <first_page>167</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1007/s00703-003-0070-7</doi>
+              <unstructured_citation>Chang JC, Hanna SR (2004) Air quality model performance evaluation. Meteorol Atmos Phys 87:167–196</unstructured_citation>
+            </citation>
+            <citation key="349_CR9">
+              <journal_title>J Geophys Res</journal_title>
+              <author>F Chen</author>
+              <volume>101</volume>
+              <first_page>7251</first_page>
+              <cYear>1996</cYear>
+              <doi>10.1029/95JD02165</doi>
+              <unstructured_citation>Chen F, Mitchell K, Schaake J, Xue Y, Pan H, Koren Duan Y, Ek M, Betts A (1996) Modeling of land-surface evaporation by four schemes and comparison with FIFE observations. J Geophys Res 101:7251–7268</unstructured_citation>
+            </citation>
+            <citation key="349_CR10">
+              <journal_title>Int J Climatol</journal_title>
+              <author>F Chen</author>
+              <volume>31</volume>
+              <first_page>273</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1002/joc.2158</doi>
+              <unstructured_citation>Chen F, Kusaka H, Bornstein R, Ching J, Grimmond CSB, Grossman-Clarke S, Loridan T, Manning KW, Martilli A, Miao S, Sailor D, Salamanca FP, Taha H, Tewari M, Wang X, Wyszogrodzkia AA, Zhangh C (2011) The integrated WRF/urban modelling system: development evaluation and applications to urban environmental problems. Int J Climatol 31:273–288</unstructured_citation>
+            </citation>
+            <citation key="349_CR11">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>Y Cheng</author>
+              <volume>51</volume>
+              <first_page>2384</first_page>
+              <cYear>1994</cYear>
+              <doi>10.1175/1520-0469(1994)051&lt;2384:SSSTAN&gt;2.0.CO;2</doi>
+              <unstructured_citation>Cheng Y, Canuto V (1994) Stably stratified shear turbulence: A new model for the energy dissipation length scale. J Atmos Sci 51:2384–2396</unstructured_citation>
+            </citation>
+            <citation key="349_CR12">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>Y Cheng</author>
+              <volume>62</volume>
+              <first_page>2189</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1175/JAS3474.1</doi>
+              <unstructured_citation>Cheng Y, Canuto V, Howard A (2005) Non-local convective PBL model based on new third- and fourth-order moments. J Atmos Sci 62:2189–2204</unstructured_citation>
+            </citation>
+            <citation key="349_CR13">
+              <journal_title>J Geophys Res Atmos</journal_title>
+              <author>NM Colonna</author>
+              <volume>114</volume>
+              <first_page>148</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1029/2008JD010682</doi>
+              <unstructured_citation>Colonna NM, Ferrero E, Rizza U (2009) Nonlocal boundary layer: The pure buoyancy-driven and the buoyancy-shear-driven cases. J Geophys Res Atmos 114:148–227</unstructured_citation>
+            </citation>
+            <citation key="349_CR14">
+              <journal_title>Weather Forecast</journal_title>
+              <author>MC Coniglio</author>
+              <volume>28</volume>
+              <issue>3</issue>
+              <first_page>842</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1175/WAF-D-12-00103.1</doi>
+              <unstructured_citation>Coniglio MC, Correia J, Marsh P, Patrick T, Kong F (2013) Verification of convection-allowing WRF model forecasts of the planetary boundary layer using sounding observations. Weather Forecast 28(3):842–862</unstructured_citation>
+            </citation>
+            <citation key="349_CR15">
+              <journal_title>J Geophys Res</journal_title>
+              <author>J Deardorff</author>
+              <volume>77</volume>
+              <first_page>5900</first_page>
+              <cYear>1972</cYear>
+              <doi>10.1029/JC077i030p05900</doi>
+              <unstructured_citation>Deardorff J (1972) Theoretical expression for the countergradient vertical heat flux. J Geophys Res 77:5900–5904</unstructured_citation>
+            </citation>
+            <citation key="349_CR16">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>R Dimitrova</author>
+              <volume>159</volume>
+              <issue>3</issue>
+              <first_page>589</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1007/s10546-015-0095-8</doi>
+              <unstructured_citation>Dimitrova R, Silver Z, Zsedrovits T, Hocut CM, Leo LS, Di Sabatino S, Fernando HJS (2016) Assessment of planetary boundary-layer schemes in the Weather Research and Forecasting mesoscale model using MATERHORN field data. Boundary-Layer Meteorol 159(3):589–609</unstructured_citation>
+            </citation>
+            <citation key="349_CR17">
+              <journal_title>J Fluid Mech</journal_title>
+              <author>P Durbin</author>
+              <volume>249</volume>
+              <first_page>465</first_page>
+              <cYear>1993</cYear>
+              <doi>10.1017/S0022112093001259</doi>
+              <unstructured_citation>Durbin P (1993) A Reynolds stress model for near wall turbulence. J Fluid Mech 249:465–498</unstructured_citation>
+            </citation>
+            <citation key="349_CR18">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>E Ferrero</author>
+              <volume>116</volume>
+              <first_page>461</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1007/s10546-004-7742-9</doi>
+              <unstructured_citation>Ferrero E (2005) Third-order moments for shear driven boundary layers. Boundary-Layer Meteorol 116:461–466</unstructured_citation>
+            </citation>
+            <citation key="349_CR19">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>E Ferrero</author>
+              <volume>63</volume>
+              <first_page>2653</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1175/JAS3789.1</doi>
+              <unstructured_citation>Ferrero E, Colonna N (2006) Nonlocal treatment of the buoyancy-shear-driven boundary layer. J Atmos Sci 63:2653–2662</unstructured_citation>
+            </citation>
+            <citation key="349_CR20">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>E Ferrero</author>
+              <volume>61</volume>
+              <first_page>1434</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1175/1520-0469(2004)061&lt;1434:TROTNT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Ferrero E, Racca M (2004) The role of the non-local transport in modelling the shear-driven atmospheric boundary layer. J Atmos Sci 61:1434–1445</unstructured_citation>
+            </citation>
+            <citation key="349_CR21">
+              <journal_title>Q J R Meteorol Soc</journal_title>
+              <author>M Garcìa-Dìez</author>
+              <volume>139</volume>
+              <issue>671</issue>
+              <first_page>501</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1002/qj.1976</doi>
+              <unstructured_citation>Garcìa-Dìez M, Fernandez J, Fita L, Yagüe C (2013) Seasonal dependence of WRF model biases and sensitivity to PBL schemes over Europe. Q J R Meteorol Soc 139(671):501–514</unstructured_citation>
+            </citation>
+            <citation key="349_CR22">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>V Gryanik</author>
+              <volume>62</volume>
+              <first_page>2632</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1175/JAS3457.1</doi>
+              <unstructured_citation>Gryanik V, Hartmann J, Raasch S, Schoroter M (2005) A refinement of the Millionschikov quasi-normality hypothesis for convective boundary layer turbulence. J Atmos Sci 62:2632–2638</unstructured_citation>
+            </citation>
+            <citation key="349_CR23">
+              <journal_title>Int J Climatol</journal_title>
+              <author>R Hamdia</author>
+              <volume>28</volume>
+              <first_page>973</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1002/joc.1598</doi>
+              <unstructured_citation>Hamdia R, Schayes G (2008) Sensitivity study of the urban heat island intensity to urban characteristics. Int J Climatol 28:973–982</unstructured_citation>
+            </citation>
+            <citation key="349_CR24">
+              <journal_title>J Clim</journal_title>
+              <author>A Holtslag</author>
+              <volume>6</volume>
+              <first_page>1825</first_page>
+              <cYear>1993</cYear>
+              <doi>10.1175/1520-0442(1993)006&lt;1825:LVNBLD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Holtslag A, Boville B (1993) Local versus non-local boundary layer diffusion in a global climate model. J Clim 6:1825–1842</unstructured_citation>
+            </citation>
+            <citation key="349_CR25">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>A Holtslag</author>
+              <volume>48</volume>
+              <first_page>1690</first_page>
+              <cYear>1991</cYear>
+              <doi>10.1175/1520-0469(1991)048&lt;1690:EDACTI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Holtslag A, Moeng C (1991) Eddy diffusivity and countergradient transport in the convective atmospheric boundary layer. J Atmos Sci 48:1690–1700</unstructured_citation>
+            </citation>
+            <citation key="349_CR26">
+              <journal_title>Mon Weather Rev</journal_title>
+              <author>S Hong</author>
+              <volume>134</volume>
+              <issue>9</issue>
+              <first_page>2318</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1175/MWR3199.1</doi>
+              <unstructured_citation>Hong S, Noh Y, Dudhia J (2006) A new vertical diffusion package with an explicit treatment of entrainment processes. Mon Weather Rev 134(9):2318–2341</unstructured_citation>
+            </citation>
+            <citation key="349_CR27">
+              <journal_title>J Appl Meteorol Climatol</journal_title>
+              <author>X-M Hu</author>
+              <volume>49</volume>
+              <first_page>1831</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1175/2010JAMC2432.1</doi>
+              <unstructured_citation>Hu X-M, Nielsen-Gammon JW, Zhang F (2010) Evaluation of three planetary boundary layer schemes in the WRF model. J Appl Meteorol Climatol 49:1831–1843</unstructured_citation>
+            </citation>
+            <citation key="349_CR28">
+              <journal_title>Mon Weather Rev</journal_title>
+              <author>ZI Janjic</author>
+              <volume>118</volume>
+              <issue>7</issue>
+              <first_page>1429</first_page>
+              <cYear>1990</cYear>
+              <doi>10.1175/1520-0493(1990)118&lt;1429:TSMCPP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Janjic ZI (1990) The step-mountain coordinate: physical package. Mon Weather Rev 118(7):1429–1443</unstructured_citation>
+            </citation>
+            <citation key="349_CR29">
+              <author>ZI Janjic</author>
+              <first_page>61</first_page>
+              <cYear>2001</cYear>
+              <volume_title>Nonsingular Implementation of the Mellor-Yamada Level 25 Scheme in the NCEP Meso model. Technical report</volume_title>
+              <unstructured_citation>Janjic ZI (2001) Nonsingular Implementation of the Mellor-Yamada Level 25 Scheme in the NCEP Meso model. Technical report. National Center for Environmental Prediction, College Park, p 61</unstructured_citation>
+            </citation>
+            <citation key="349_CR30">
+              <journal_title>Phys Fluids</journal_title>
+              <author>W Jones</author>
+              <volume>31</volume>
+              <first_page>3589</first_page>
+              <cYear>1988</cYear>
+              <doi>10.1063/1.866876</doi>
+              <unstructured_citation>Jones W, Musange P (1988) Closure of the Reynolds stress and scalar flux equations. Phys Fluids 31:3589–3604</unstructured_citation>
+            </citation>
+            <citation key="349_CR31">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>M Kleczek</author>
+              <volume>152</volume>
+              <first_page>213</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1007/s10546-014-9925-3</doi>
+              <unstructured_citation>Kleczek M, Steeneveld GJ, Holtslag A (2014) Evaluation of the Weather Research and Forecasting mesoscale model for GABLS3: impact of boundary-layer schemes boundary conditions and spin-up. Boundary-Layer Meteorol 152:213–243</unstructured_citation>
+            </citation>
+            <citation key="349_CR32">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>AK Luhar</author>
+              <volume>130</volume>
+              <first_page>249</first_page>
+              <cYear>2009</cYear>
+              <doi>10.1007/s10546-008-9341-7</doi>
+              <unstructured_citation>Luhar AK, Hurley PJ, Rayner KN (2009) Modelling near-surface low winds over land under stable conditions: sensitivity tests flux-gradient relationships and stability parametrs. Boundary-Layer Meteorol 130:249–274</unstructured_citation>
+            </citation>
+            <citation key="349_CR33">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>A Martilli</author>
+              <volume>104</volume>
+              <first_page>261</first_page>
+              <cYear>2002</cYear>
+              <doi>10.1023/A:1016099921195</doi>
+              <unstructured_citation>Martilli A, Clappier A, Rotach MW (2002) An urban surface exchange parametrisation for mesoscale models. Boundary-Layer Meteorol 104:261–304</unstructured_citation>
+            </citation>
+            <citation key="349_CR34">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>GL Mellor</author>
+              <volume>31</volume>
+              <first_page>1791</first_page>
+              <cYear>1974</cYear>
+              <doi>10.1175/1520-0469(1974)031&lt;1791:AHOTCM&gt;2.0.CO;2</doi>
+              <unstructured_citation>Mellor GL, Yamada T (1974) A hierarchy of turbulence closure models for planetary boundary layers. J Atmos Sci 31:1791–1806</unstructured_citation>
+            </citation>
+            <citation key="349_CR35">
+              <journal_title>Rev Geophys</journal_title>
+              <author>G Mellor</author>
+              <volume>20</volume>
+              <first_page>851</first_page>
+              <cYear>1982</cYear>
+              <doi>10.1029/RG020i004p00851</doi>
+              <unstructured_citation>Mellor G, Yamada T (1982) Development of a turbulence closure model for geophysical fluid problems. Rev Geophys 20:851–875</unstructured_citation>
+            </citation>
+            <citation key="349_CR36">
+              <journal_title>J Geophys Res</journal_title>
+              <author>G Miguez-Macho</author>
+              <volume>109</volume>
+              <first_page>D13104</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1029/2003JD004495</doi>
+              <unstructured_citation>Miguez-Macho G, Stenchikov GL, Robock A (2004) Spectral nudging to eliminate the effects of domain position and geometry in regional climate model simulations. J Geophys Res 109:D13104</unstructured_citation>
+            </citation>
+            <citation key="349_CR37">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>C Moeng</author>
+              <volume>51</volume>
+              <first_page>999</first_page>
+              <cYear>1994</cYear>
+              <doi>10.1175/1520-0469(1994)051&lt;0999:ACOSAB&gt;2.0.CO;2</doi>
+              <unstructured_citation>Moeng C, Sullivan P (1994) A comparison of shear- and buoyancy-driven planetary boundary layer flows. J Atmos Sci 51:999–1022</unstructured_citation>
+            </citation>
+            <citation key="349_CR38">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>C Moeng</author>
+              <volume>46</volume>
+              <first_page>2311</first_page>
+              <cYear>1989</cYear>
+              <doi>10.1175/1520-0469(1989)046&lt;2311:EOTTAD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Moeng C, Wyngaard J (1989) Evaluation of turbulent transport and dissipation closures in second-order modelling. J Atmos Sci 46:2311–2330</unstructured_citation>
+            </citation>
+            <citation key="349_CR39">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>P Monti</author>
+              <volume>59</volume>
+              <first_page>2513</first_page>
+              <cYear>2002</cYear>
+              <doi>10.1175/1520-0469(2002)059&lt;2513:OOFATI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Monti P, Fernando HJS, Princevac M, Chan WC, Kowalewski TA, Pardyjak ER (2002) Observations of flow and turbulence in the nocturnal boundary layer over a slope. J Atmos Sci 59:2513–2534</unstructured_citation>
+            </citation>
+            <citation key="349_CR40">
+              <journal_title>Adv Sci Res</journal_title>
+              <author>L Mortarini</author>
+              <volume>3</volume>
+              <first_page>91</first_page>
+              <cYear>2009</cYear>
+              <doi>10.5194/asr-3-91-2009</doi>
+              <unstructured_citation>Mortarini L, Ferrero E, Richiardone R, Falabino S, Anfossi D, Trini Castelli S, Carretto E (2009) Assessment of dispersion parametrizations through wind data measured by three sonic anemometers in a urban canopy. Adv Sci Res 3:91–98</unstructured_citation>
+            </citation>
+            <citation key="349_CR41">
+              <journal_title>Q J R Meteorol Soc</journal_title>
+              <author>L Mortarini</author>
+              <volume>139</volume>
+              <first_page>1059</first_page>
+              <cYear>2013</cYear>
+              <doi>10.1002/qj.2015</doi>
+              <unstructured_citation>Mortarini L, Ferrero E, Falabino S, Trini Castelli S, Richiardone R, Anfossi D (2013) Low-frequency processes and turbulence structure in a perturbed boundary layer. Q J R Meteorol Soc 139:1059–1072</unstructured_citation>
+            </citation>
+            <citation key="349_CR42">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>M Nakanishi</author>
+              <volume>112</volume>
+              <issue>1</issue>
+              <first_page>1</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1023/B:BOUN.0000020164.04146.98</doi>
+              <unstructured_citation>Nakanishi M, Niino H (2004) An improved Mellor–Yamada level-3 model with condensation physics: its design and verification. Boundary-Layer Meteorol 112(1):1–31</unstructured_citation>
+            </citation>
+            <citation key="349_CR43">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>MA Nelson</author>
+              <volume>158</volume>
+              <first_page>285</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1007/s10546-015-0091-z</doi>
+              <unstructured_citation>Nelson MA, Brown MJ, Halverson SA, Bieringer PE, Annunzio A, Bieberbach G, Meech S (2016) A case study of the weather research and forecasting model applied to the joint urban 2003 tracer field experiment. Part 1: wind and turbulence. Boundary-Layer Meteorol 158:285–309</unstructured_citation>
+            </citation>
+            <citation key="349_CR44">
+              <journal_title>J Appl Meteorol</journal_title>
+              <author>JE Pleim</author>
+              <volume>46</volume>
+              <issue>9</issue>
+              <first_page>1383</first_page>
+              <cYear>2007</cYear>
+              <doi>10.1175/JAM2539.1</doi>
+              <unstructured_citation>Pleim JE (2007a) A combined local and non-local closure model for the atmospheric boundary layer, part I: model description and testing. J Appl Meteorol 46(9):1383–1395</unstructured_citation>
+            </citation>
+            <citation key="349_CR45">
+              <journal_title>J Appl Meteorol</journal_title>
+              <author>JE Pleim</author>
+              <volume>46</volume>
+              <issue>9</issue>
+              <first_page>1396</first_page>
+              <cYear>2007</cYear>
+              <doi>10.1175/JAM2534.1</doi>
+              <unstructured_citation>Pleim JE (2007b) A combined local and non-local closure model for the atmospheric boundary layer, part II: application and evaluation in a mesoscale meteorological model. J Appl Meteorol 46(9):1396–1409</unstructured_citation>
+            </citation>
+            <citation key="349_CR46">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>R Richiardone</author>
+              <volume>142</volume>
+              <first_page>425</first_page>
+              <cYear>2012</cYear>
+              <doi>10.1007/s10546-011-9688-z</doi>
+              <unstructured_citation>Richiardone R, Manfrin M, Ferrarese S, Francone C, Fernicola V, Gavioso RM, Mortarini L (2012) Influence of the sonic anemometer temperature calibration on turbulent heat-flux measurements. Boundary-Layer Meteorol 142:425–442</unstructured_citation>
+            </citation>
+            <citation key="349_CR47">
+              <journal_title>Bull Am Meteorol Soc</journal_title>
+              <author>M Rodell</author>
+              <volume>85</volume>
+              <first_page>381</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1175/BAMS-85-3-381</doi>
+              <unstructured_citation>Rodell M, Houser PR, Jambor U et al (2004) The global land data assimilation system. Bull Am Meteorol Soc 85:381–394</unstructured_citation>
+            </citation>
+            <citation key="349_CR48">
+              <journal_title>Atmos Environ</journal_title>
+              <author>M Rotach</author>
+              <volume>33</volume>
+              <first_page>4001</first_page>
+              <cYear>1999</cYear>
+              <doi>10.1016/S1352-2310(99)00141-7</doi>
+              <unstructured_citation>Rotach M (1999) On the influence of the urban roughness sublayer on turbulence and dispersion. Atmos Environ 33:4001–4008</unstructured_citation>
+            </citation>
+            <citation key="349_CR49">
+              <journal_title>J Appl Meteorol</journal_title>
+              <author>Y-A Roulet</author>
+              <volume>44</volume>
+              <first_page>1484</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1175/JAM2273.1</doi>
+              <unstructured_citation>Roulet Y-A, Martilli A, Rotach MW, Clappier A (2005) Validation of an urban surface exchange parametrization for mesoscale models—1D case in a street canyon. J Appl Meteorol 44:1484–1498</unstructured_citation>
+            </citation>
+            <citation key="349_CR50">
+              <journal_title>Bull Am Meteorol Soc</journal_title>
+              <author>S Saha</author>
+              <volume>91</volume>
+              <issue>8</issue>
+              <first_page>1015</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1175/2010BAMS3001.1</doi>
+              <unstructured_citation>Saha S, Moorthi S, Pan HL, Wu X, Wang J, Nadiga S, Tripp P, Kistler R, Woollen J, Behringer D, Liu H (2010) The NCEP climate forecast system reanalysis. Bull Am Meteorol Soc 91(8):1015–1057</unstructured_citation>
+            </citation>
+            <citation key="349_CR51">
+              <journal_title>Theor Appl Climatol</journal_title>
+              <author>F Salamanca</author>
+              <volume>99</volume>
+              <first_page>345</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1007/s00704-009-0143-8</doi>
+              <unstructured_citation>Salamanca F, Martilli A (2010) A new building energy model coupled with an urban canopy parametrization for urban climate simulations—part II: validation with one dimension off-line simulations. Theor Appl Climatol 99:345–356</unstructured_citation>
+            </citation>
+            <citation key="349_CR52">
+              <journal_title>Theor Appl Climatol</journal_title>
+              <author>F Salamanca</author>
+              <volume>99</volume>
+              <first_page>331</first_page>
+              <cYear>2010</cYear>
+              <doi>10.1007/s00704-009-0142-9</doi>
+              <unstructured_citation>Salamanca F, Krpo A, Martilli A, Clappier A (2010) A new building energy model coupled with an urban canopy parametrization for urban climate simulations—part I: formulation verification and sensitivity analysis of the model. Theor Appl Climatol 99:331–344</unstructured_citation>
+            </citation>
+            <citation key="349_CR53">
+              <journal_title>J Clim</journal_title>
+              <author>G Schmidt</author>
+              <volume>19</volume>
+              <first_page>153</first_page>
+              <cYear>2006</cYear>
+              <doi>10.1175/JCLI3612.1</doi>
+              <unstructured_citation>Schmidt G, Ruedy R, Hansen JE, Aleinov I, Bell N, Bauer M, Bauer S, Cairns B, Canuto V, Cheng Y, Del Genio A (2006) Present day atmospheric simulations using GISS ModelE: comparison to in situ satellite and reanalysis data. J Clim 19:153–192</unstructured_citation>
+            </citation>
+            <citation key="349_CR54">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>HH Shin</author>
+              <volume>139</volume>
+              <first_page>261</first_page>
+              <cYear>2011</cYear>
+              <doi>10.1007/s10546-010-9583-z</doi>
+              <unstructured_citation>Shin HH, Hong S-Y (2011) Intercomparison of planetary boundary-layer parametrizations in the WRF model for a single day from CASES-99. Boundary-Layer Meteorol 139:261–281</unstructured_citation>
+            </citation>
+            <citation key="349_CR55">
+              <journal_title>J Comput Phys</journal_title>
+              <author>WC Skamarock</author>
+              <volume>227</volume>
+              <issue>7</issue>
+              <first_page>3465</first_page>
+              <cYear>2008</cYear>
+              <doi>10.1016/j.jcp.2007.01.037</doi>
+              <unstructured_citation>Skamarock WC, Klemp JB (2008) A time-split nonhydrostatic atmospheric model for weather research and forecasting applications. J Comput Phys 227(7):3465–3485</unstructured_citation>
+            </citation>
+            <citation key="349_CR56">
+              <journal_title>Phys Fluids</journal_title>
+              <author>C Speziale</author>
+              <volume>8</volume>
+              <first_page>781</first_page>
+              <cYear>1996</cYear>
+              <doi>10.1063/1.868861</doi>
+              <unstructured_citation>Speziale C, Abid R, Blaisdell G (1996) On the consistency of Reynolds stress turbulence closures with hydrodynamic stability theory. Phys Fluids 8:781–788</unstructured_citation>
+            </citation>
+            <citation key="349_CR57">
+              <journal_title>Mon Weather Rev</journal_title>
+              <author>DR Stauffer</author>
+              <volume>118</volume>
+              <first_page>1250</first_page>
+              <cYear>1990</cYear>
+              <doi>10.1175/1520-0493(1990)118&lt;1250:UOFDDA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Stauffer DR, Seaman NL (1990) Use of four-dimensional data assimilation in a limited-area mesoscale model part I: experiments with synoptic-scale data. Mon Weather Rev 118:1250–1277</unstructured_citation>
+            </citation>
+            <citation key="349_CR58">
+              <journal_title>Q J R Meteorol Soc</journal_title>
+              <author>HAM Sterk</author>
+              <volume>142</volume>
+              <first_page>821</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1002/qj.2684</doi>
+              <unstructured_citation>Sterk HAM, Steeneveld GJ, Bosveld FC, Vihma T, Andersond PS, Holtslag AAM (2016) Clear-sky stable boundary layers with low winds over snow-covered surfaces part 2: process sensitivity. Q J R Meteorol Soc 142:821–835</unstructured_citation>
+            </citation>
+            <citation key="349_CR59">
+              <author>RB Stull</author>
+              <cYear>1988</cYear>
+              <volume_title>An introduction to boundary layer meteorology</volume_title>
+              <doi>10.1007/978-94-009-3027-8</doi>
+              <unstructured_citation>Stull RB (1988) An introduction to boundary layer meteorology. Kluwer, Netherlands</unstructured_citation>
+            </citation>
+            <citation key="349_CR60">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>S Sukoriansky</author>
+              <volume>117</volume>
+              <issue>2</issue>
+              <first_page>231</first_page>
+              <cYear>2005</cYear>
+              <doi>10.1007/s10546-004-6848-4</doi>
+              <unstructured_citation>Sukoriansky S, Galperin B, Perov V (2005) Application of a new spectral theory of stably stratified turbulence to the atmospheric boundary layer over sea ice. Boundary-Layer Meteorol 117(2):231–257</unstructured_citation>
+            </citation>
+            <citation key="349_CR61">
+              <journal_title>Bull Am Meteorol Soc</journal_title>
+              <author>JER Thiébaux</author>
+              <volume>84</volume>
+              <first_page>645</first_page>
+              <cYear>2003</cYear>
+              <doi>10.1175/BAMS-84-5-645</doi>
+              <unstructured_citation>Thiébaux JER, Wang W, Katz B (2003) A new high-resolution blended real-time global sea surface temperature analysis. Bull Am Meteorol Soc 84:645–656</unstructured_citation>
+            </citation>
+            <citation key="349_CR62">
+              <journal_title>Q J R Meteorol Soc</journal_title>
+              <author>S Trini Castelli</author>
+              <volume>140</volume>
+              <first_page>2023</first_page>
+              <cYear>2014</cYear>
+              <doi>10.1002/qj.2271</doi>
+              <unstructured_citation>Trini Castelli S, Falabino S, Mortarini L, Ferrero E, Richiardone R, Anfossi D (2014) Experimental investigation of surface-layer parametrs in low wind-speed conditions in a suburban area. Q J R Meteorol Soc 140:2023–2036</unstructured_citation>
+            </citation>
+            <citation key="349_CR63">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>S Trini-Castelli</author>
+              <volume>100</volume>
+              <first_page>405</first_page>
+              <cYear>2001</cYear>
+              <doi>10.1023/A:1019208518127</doi>
+              <unstructured_citation>Trini-Castelli S, Ferrero E, Anfossi D (2001) Turbulence closure in neutral boundary layers over complex terrain. Boundary-Layer Meteorol 100:405–419</unstructured_citation>
+            </citation>
+            <citation key="349_CR64">
+              <journal_title>Boundary-Layer Meteorol</journal_title>
+              <author>DHP Vogelezang</author>
+              <volume>81</volume>
+              <first_page>245</first_page>
+              <cYear>1996</cYear>
+              <doi>10.1007/BF02430331</doi>
+              <unstructured_citation>Vogelezang DHP, Holtslag AAM (1996) Evaluation and model impacts of alternative boundary-layer height formulations. Boundary-Layer Meteorol 81:245–269</unstructured_citation>
+            </citation>
+            <citation key="349_CR65">
+              <journal_title>Boundary-layer Meteorol</journal_title>
+              <author>W Wang</author>
+              <volume>161</volume>
+              <first_page>375</first_page>
+              <cYear>2016</cYear>
+              <doi>10.1007/s10546-016-0175-4</doi>
+              <unstructured_citation>Wang W, Shen X, Huang W (2016) A comparison of boundary-layer characteristics simulated using different parametrization schemes. Boundary-layer Meteorol 161:375–403</unstructured_citation>
+            </citation>
+            <citation key="349_CR66">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>JC Wyngaard</author>
+              <volume>61</volume>
+              <first_page>1816</first_page>
+              <cYear>2004</cYear>
+              <doi>10.1175/1520-0469(2004)061&lt;1816:TNMITT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Wyngaard JC (2004) Toward numerical modelling in the “Terra Incognita”. J Atmos Sci 61:1816–1826</unstructured_citation>
+            </citation>
+            <citation key="349_CR67">
+              <journal_title>Phys Fluids</journal_title>
+              <author>J Wyngaard</author>
+              <volume>A3</volume>
+              <first_page>155</first_page>
+              <cYear>1991</cYear>
+              <doi>10.1063/1.857874</doi>
+              <unstructured_citation>Wyngaard J, Weil J (1991) Transport asymmetry in skewed turbulence. Phys Fluids A3:155–162</unstructured_citation>
+            </citation>
+            <citation key="349_CR68">
+              <author>SS Zilitinkevich</author>
+              <first_page>53</first_page>
+              <cYear>1995</cYear>
+              <volume_title>Air pollution theory and simulation, air pollution III</volume_title>
+              <unstructured_citation>Zilitinkevich SS (1995) Non-local turbulent transport: pollution dispersion aspects of coherent structure of convective flows. In: Power H, Moussiopoulos N, Brebbia CA (eds) Air pollution theory and simulation, air pollution III. Computational Mechanics Publications, Berlin, pp 53–60</unstructured_citation>
+            </citation>
+            <citation key="349_CR69">
+              <journal_title>J Atmos Sci</journal_title>
+              <author>S Zilitinkevich</author>
+              <volume>56</volume>
+              <first_page>3463</first_page>
+              <cYear>1999</cYear>
+              <doi>10.1175/1520-0469(1999)056&lt;3463:TOTANT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Zilitinkevich S, Gryanik V, Lykossov V, Mironov D (1999) Third-order transport and nonlocal turbulence closures for convective boundary layers. J Atmos Sci 56:3463–3477</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

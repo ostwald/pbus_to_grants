@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 01:07:04">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>17</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Dust radiative effects on atmospheric thermodynamics and tropical cyclogenesis over the Atlantic Ocean using WRF-Chem coupled with an AOD data assimilation system</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Chen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zhiquan</given_name>
+              <surname>Liu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Chris</given_name>
+              <surname>Davis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yu</given_name>
+              <surname>Gu</surname>
+              <ORCID>https://orcid.org/0000-0002-3412-0794</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This study investigated the dust radiative effects on atmospheric thermodynamics and tropical cyclogenesis over the Atlantic Ocean using the Weather Research and Forecasting Model with Chemistry (WRF-Chem) coupled with an aerosol data assimilation (DA) system. MODIS AOD (aerosol optical depth) data were assimilated with the Gridpoint Statistical Interpolation (GSI) three-dimensional variational (3DVAR) DA scheme to depict the Saharan dust outbreak events in the 2006 summer. Comparisons with Ozone Monitoring Instrument (OMI), AErosol RObotic NETwork (AERONET), and Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation (CALIPSO) observations showed that the system was capable of reproducing the dust distribution. Two sets of 180<span class="thinspace"></span>h forecasts were conducted with the dust radiative effects activated (RE_ON) and inactivated (RE_OFF) respectively. Differences between the RE_ON and RE_OFF forecasts showed that low-altitude (high-altitude) dust inhibits (favors) convection owing to changes in convective inhibition (CIN). Heating in dust layers immediately above the boundary layer increases inhibition, whereas sufficiently elevated heating allows cooling above the boundary layer that reduces convective inhibition. Semi-direct effects in which clouds are altered by thermodynamic changes are also noted, which then alter cloud-radiative temperature (<i>T</i>) changes. The analysis of a tropical cyclone (TC) suppression case on 5 September shows evidence of enhanced convective inhibition by direct heating in dust, but it also suggests that the low-predictability dynamics of moist convection reduces the determinism of the effects of dust on timescales of TC development (days).</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>30</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>7917</first_page>
+            <last_page>7939</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-17-7917-2017</doi>
+            <resource>https://www.atmos-chem-phys.net/17/7917/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/17/7917/2017/acp-17-7917-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1126/science.288.5468.1042</doi>
+              <unstructured_citation>Ackerman, A. S., Toon, O. B., Stevens, D. E., Heymsfield, A. J., Ramanathan, V., and Welton, E. J.: Reduction of tropical cloudiness by soot, Science, 288, 1042–1047, https://doi.org/10.1126/science.288.5468.1042, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/2013JD020188</doi>
+              <unstructured_citation>Ahn, C., Torres, O., and Jethva, H.: Assessment of OMI near-UV aerosol optical depth over land, J. Geophys. Res.-Atmos., 119, 2457–2473, https://doi.org/10.1002/2013jd020188, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-10-7325-2010</doi>
+              <unstructured_citation>Barnard, J. C., Fast, J. D., Paredes-Miranda, G., Arnott, W. P., and Laskin, A.: Technical Note: Evaluation of the WRF-Chem “Aerosol Chemical to Aerosol Optical Properties” Module using data from the MILAGRO campaign, Atmos. Chem. Phys., 10, 7325–7340, https://doi.org/10.5194/acp-10-7325-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1002/2014JD022441</doi>
+              <unstructured_citation>Bretl, S., Reutter, P., Raible, C. C., Ferrachat, S., Poberaj, C. S., Revell, L. E., and Lohmann, U.: The influence of absorbed solar radiation by Saharan dust on hurricane genesis, J. Geophys. Res.-Atmos., 120, 1902–1917, https://doi.org/10.1002/2014jd022441, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/1520-0469(1980)037&lt;0193:RHRFSD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Carlson, T. N. and Benjamin, S. G.: Radiative Heating Rates for Saharan Dust, J. Atmos. Sci., 37, 193–213, https://doi.org/10.1175/1520-0469(1980)037&amp;amp;lt;0193:Rhrfsd&amp;amp;gt;2.0.Co;2, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/gmd-7-2709-2014</doi>
+              <unstructured_citation>Chen, D., Liu, Z., Schwartz, C. S., Lin, H.-C., Cetola, J. D., Gu, Y., and Xue, L.: The impact of aerosol optical depth assimilation on aerosol forecasts and radiative effects during a wild fire event over the United States, Geosci. Model Dev., 7, 2709–2715, https://doi.org/10.5194/gmd-7-2709-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2010JD014158</doi>
+              <unstructured_citation>Chen, S. H., Wang, S. H., and Waylonis, M.: Modification of Saharan air layer and environmental shear over the eastern Atlantic Ocean by dust-radiation effects, J. Geophys. Res.-Atmos., 115, D21202, https://doi.org/10.1029/2010jd014158, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2000JD900385</doi>
+              <unstructured_citation>Chin, M., Savoie, D. L., Huebert, B. J., Bandy, A. R., Thornton, D. C., Bates, T. S., Quinn, P. K., Saltzman, E. S., and De Bruyn, W. J.: Atmospheric sulfur cycle simulated in the global model GOCART: Comparison with field observations and regional budgets, J. Geophys. Res.-Atmos., 105, 24689–24712, https://doi.org/10.1029/2000jd900385, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;0461:TAOTFT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Chin, M., Ginoux, P., Kinne, S., Torres, O., Holben, B. N., Duncan, B. N., Martin, R. V., Logan, J. A., Higurashi, A., and Nakajima, T.: Tropospheric aerosol optical thickness from the GOCART model and comparisons with satellite and Sun photometer measurements, J. Atmos. Sci., 59, 461–483, https://doi.org/10.1175/1520-0469(2002)059&amp;amp;lt;0461:Taotft&amp;amp;gt;2.0.Co;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/j.atmosres.2013.11.007</doi>
+              <unstructured_citation>Choobari, O. A., Zawar-Reza, P., and Sturman, A.: The global distribution of mineral dust and its impacts on the climate system: A review, Atmos. Res., 138, 152–165, https://doi.org/10.1016/j.atmosres.2013.11.007, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Chou, M.-D. and Suarez, M. J.: An efficient thermal infrared radiation parameterization for use in general circulation models, NASA Tech. Memo., TM 104606, vol. 3, 25 pp., NASA Goddard Space Flight Cent., Greenbelt, Md., USA, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2000JD900507</doi>
+              <unstructured_citation>Collins, W. D., Rasch, P. J., Eaton, B. E., Khattatov, B. V., Lamarque, J. F., and Zender, C. S.: Simulating aerosols using a chemical transport model with assimilation of satellite aerosol retrievals: Methodology for INDOEX, J. Geophys. Res.-Atmos., 106, 7313–7336, https://doi.org/10.1029/2000jd900507, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1256/qj.03.64</doi>
+              <unstructured_citation>Cook, J. and Highwood, E. J.: Climate response to tropospheric absorbing aerosols in an intermediate general-circulation model, Q. J. Roy. Meteor. Soc., 130, 175–191, https://doi.org/10.1256/qj.03.64, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/BAMS-85-3-353</doi>
+              <unstructured_citation>Dunion, J. P. and Velden, C. S.: The impact of the Saharan air layer on Atlantic tropical cyclone activity, B. Am. Meteorol. Soc., 85, 353–365, https://doi.org/10.1175/Bams-85-3-353, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/1999JD900923</doi>
+              <unstructured_citation>Eck, T. F., Holben, B. N., Reid, J. S., Dubovik, O., Smirnov, A., O'Neill, N. T., Slutsker, I., and Kinne, S.: Wavelength dependence of the optical depth of biomass burning, urban, and desert dust aerosols, J. Geophys. Res.-Atmos., 104, 31333–31349, https://doi.org/10.1029/1999jd900923, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2006GL026408</doi>
+              <unstructured_citation>Evan, A. T., Dunion, J., Foley, J. A., Heidinger, A. K., and Velden, C. S.: New evidence for a relationship between Atlantic tropical cyclone activity and African dust outbreaks, Geophys. Res. Lett., 33, L19813, https://doi.org/10.1029/2006gl026408, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/1520-0469(1993)050&lt;2008:POTRPO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Fu, Q. and Liou, K. N.: Parameterization of the Radiative Properties of Cirrus Clouds, J. Atmos. Sci., 50, 2008–2025, https://doi.org/10.1175/1520-0469(1993)050&amp;amp;lt;2008:Potrpo&amp;amp;gt;2.0.Co;2, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/2000JD000053</doi>
+              <unstructured_citation>Ginoux, P., Chin, M., Tegen, I., Prospero, J. M., Holben, B., Dubovik, O., and Lin, S. J.: Sources and distributions of dust aerosols simulated with the GOCART model, J. Geophys. Res.-Atmos., 106, 20255–20273, https://doi.org/10.1029/2000jd000053, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Grassl, H.: Albedo Reduction and Radiative Heating of Clouds by Absorbing Aerosol Particles, Contrib. Atmos. Phys., 48, 199–210, 1975.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2002GL015311</doi>
+              <unstructured_citation>Grell, G. A. and Devenyi, D.: A generalized approach to parameterizing convection combining ensemble and data assimilation techniques, Geophys. Res. Lett., 29, 1693, https://doi.org/10.1029/2002gl015311, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.04.027</doi>
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock, W. C., and Eder, B.: Fully coupled “online” chemistry within the WRF model, Atmos. Environ., 39, 6957–6975, https://doi.org/10.1016/j.atmosenv.2005.04.027, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2009JD013427</doi>
+              <unstructured_citation>Gu, Y., Liou, K. N., Chen, W., and Liao, H.: Direct climate effect of black carbon in China and its impact on dust storms, J. Geophys. Res.-Atmos., 115, D00k14, https://doi.org/10.1029/2009jd013427, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1007/s00382-015-2706-y</doi>
+              <unstructured_citation>Gu, Y., Xue, Y., De Sales, F., and Liou, K. N.: A GCM investigation of dust aerosol impact on the regional climate of North Africa and South/East Asia, Clim. Dynam., 46, 2353–2370, https://doi.org/10.1007/s00382-015-2706-y, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Han, Y., van Delst, P., Liu, Q., Weng, F., Yan, B., Treadon, R., and Derber, J.: JCSDA Community Radiative Transfer Model (CRTM) – Version 1, NOAA Tech. Rep. NESDIS 122, 33 pp., NOAA Silver Spring, Md., USA, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1029/96JD03436</doi>
+              <unstructured_citation>Hansen, J., Sato, M., and Ruedy, R.: Radiative forcing and climate response, J. Geophys. Res.-Atmos., 102, 6831–6864, https://doi.org/10.1029/96jd03436, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1002/jgrd.50546</doi>
+              <unstructured_citation>Hazra, A., Mukhopadhyay, P., Taraphdar, S., Chen, J. P., and Cotton, W. R.: Impact of aerosols on tropical cyclones: An investigation using convection-permitting model simulation, J. Geophys. Res.-Atmos., 118, 7157–7168, https://doi.org/10.1002/jgrd.50546, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1109/TGRS.2004.824067</doi>
+              <unstructured_citation>Hsu, N. C., Tsay, S. C., King, M. D., and Herman, J. R.: Aerosol properties over bright-reflecting source regions, IEEE T. Geosci. Remote., 42, 557–569, https://doi.org/10.1109/Tgrs.2004.824067, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2008GL034072</doi>
+              <unstructured_citation>Jenkins, G. S., Pratt, A. S., and Heymsfield, A.: Possible linkages between Saharan dust and tropical cyclone rain band invigoration in the eastern Atlantic during NAMMA-06, Geophys. Res. Lett., 35, L08815, https://doi.org/10.1029/2008gl034072, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1256/qj.03.61</doi>
+              <unstructured_citation>Johnson, B. T., Shine, K. P., and Forster, P. M.: The semi-direct aerosol effect: Impact of absorbing aerosols on marine stratocumulus, Q. J. Roy. Meteor. Soc., 130, 1407–1422, https://doi.org/10.1256/qj.03.61, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/WAF1017.1</doi>
+              <unstructured_citation>Jones, T. A., Cecil, D. J., and Dunion, J.: The environmental and inner-core conditions governing the intensity of Hurricane Erin (2001), Weather Forecast., 22, 708–725, https://doi.org/10.1175/Waf1017.1, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/1520-0469(1988)045&lt;3102:AANSOT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Karyampudi, V. M. and Carlson, T. N.: Analysis and Numerical Simulations of the Saharan Air Layer and Its Effect on Easterly Wave Disturbances, J. Atmos. Sci., 45, 3102–3136, https://doi.org/10.1175/1520-0469(1988)045&amp;amp;lt;3102:Aansot&amp;amp;gt;2.0.Co;2, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/1520-0493(2002)130&lt;3100:SSIOTS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Karyampudi, V. M. and Pierce, H. F.: Synoptic-scale influence of the Saharan air layer on tropical cyclogenesis over the eastern Atlantic, Mon. Weather Rev., 130, 3100–3128, https://doi.org/10.1175/1520-0493(2002)130&amp;amp;lt;3100:Ssiots&amp;amp;gt;2.0.Co;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1126/science.1126232</doi>
+              <unstructured_citation>Kaufman, Y. J. and Koren, I.: Smoke and pollution aerosol effect on cloud cover, Science, 313, 655–658, https://doi.org/10.1126/science.1126232, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-10-7685-2010</doi>
+              <unstructured_citation>Koch, D. and Del Genio, A. D.: Black carbon semi-direct effects on cloud cover: review and synthesis, Atmos. Chem. Phys., 10, 7685–7696, https://doi.org/10.5194/acp-10-7685-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2005GL023187</doi>
+              <unstructured_citation>Koren, I., Kaufman, Y. J., Rosenfeld, D., Remer, L. A., and Rudich, Y.: Aerosol invigoration and restructuring of Atlantic convective clouds, Geophys. Res. Lett., 32, L14828, https://doi.org/10.1029/2005gl023187, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1126/science.1159185</doi>
+              <unstructured_citation>Koren, I., Martins, J. V., Remer, L. A., and Afargan, H.: Smoke invigoration versus inhibition of clouds over the Amazon, Science, 321, 946–949, https://doi.org/10.1126/science.1159185, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/1520-0493(1993)121&lt;1703:ACOIMA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Landsea, C. W.: A Climatology of Intense (or Major) Atlantic Hurricanes, Mon. Weather Rev., 121, 1703–1713, https://doi.org/10.1175/1520-0493(1993)121&amp;amp;lt;1703:Acoima&amp;amp;gt;2.0.Co;2, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1007/s00382-006-0114-z</doi>
+              <unstructured_citation>Lau, K. M., Kim, M. K., and Kim, K. M.: Asian summer monsoon anomalies induced by aerosol direct forcing: the role of the Tibetan Plateau, Clim. Dynam., 26, 855–864, https://doi.org/10.1007/s00382-006-0114-z, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/angeo-27-4023-2009</doi>
+              <unstructured_citation>Lau, K. M., Kim, K. M., Sud, Y. C., and Walker, G. K.: A GCM study of the response of the atmospheric water cycle of West Africa and the Atlantic to Saharan dust radiative forcing, Ann. Geophys., 27, 4023–4037, https://doi.org/10.5194/angeo-27-4023-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/JAS3808.1</doi>
+              <unstructured_citation>Liu, Q. H. and Weng, F. Z.: Advanced doubling-adding method for radiative transfer in planetary atmospheres, J. Atmos. Sci., 63, 3459–3465, https://doi.org/10.1175/Jas3808.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/2011JD016159</doi>
+              <unstructured_citation>Liu, Z. Q., Liu, Q. H., Lin, H. C., Schwartz, C. S., Lee, Y. H., and Wang, T. J.: Three-dimensional variational assimilation of MODIS aerosol optical depth: Implementation and application to a dust storm over East Asia, J. Geophys. Res.-Atmos., 116, D23206, https://doi.org/10.1029/2011jd016159, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2000GL012051</doi>
+              <unstructured_citation>Lohmann, U. and Feichter, J.: Can the direct and semi-direct aerosol effect compete with the indirect effect on a global scale?, Geophys. Res. Lett., 28, 159–161, https://doi.org/10.1029/2000gl012051, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/1520-0493(1992)120&lt;1747:TNMCSS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Parrish, D. F. and Derber, J. C.: The National-Meteorological-Centers Spectral Statistical-Interpolation Analysis System, Mon. Weather Rev., 120, 1747–1763, https://doi.org/10.1175/1520-0493(1992)120&amp;amp;lt;1747:Tnmcss&amp;amp;gt;2.0.Co;2, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/2008WAF2007090.1</doi>
+              <unstructured_citation>Pratt, A. S. and Evans, J. L.: Potential Impacts of the Saharan Air Layer on Numerical Model Forecasts of North Atlantic Tropical Cyclogenesis, Weather Forecast., 24, 420–435, https://doi.org/10.1175/2008waf2007090.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2000JD900047</doi>
+              <unstructured_citation>Quijano, A. L., Sokolik, I. N., and Toon, O. B.: Radiative heating rates and direct radiative forcing by mineral dust in cloudy atmospheric conditions, J. Geophys. Res.-Atmos., 105, 12207–12219, https://doi.org/10.1029/2000jd900047, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1126/science.1064034</doi>
+              <unstructured_citation>Ramanathan, V., Crutzen, P. J., Kiehl, J. T., and Rosenfeld, D.: Atmosphere – Aerosols, climate, and the hydrological cycle, Science, 294, 2119–2124, https://doi.org/10.1126/science.1064034, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/2009JAS3123.1</doi>
+              <unstructured_citation>Reale, O., Lau, W. K., Kim, K. M., and Brin, E.: Atlantic Tropical Cyclogenetic Processes during SOP-3 NAMMA in the GEOS-5 Global Data Assimilation and Forecast System, J. Atmos. Sci., 66, 3563–3578, https://doi.org/10.1175/2009jas3123.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1002/2014GL059918</doi>
+              <unstructured_citation>Reale, O., Lau, K. M., da Silva, A., and Matsui, T.: Impact of assimilated and interactive aerosol on tropical cyclogenesis, Geophys. Res. Lett., 41, 3282–3288, https://doi.org/10.1002/2014gl059918, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/JAS3385.1</doi>
+              <unstructured_citation>Remer, L. A., Kaufman, Y. J., Tanre, D., Mattoo, S., Chu, D. A., Martins, J. V., Li, R. R., Ichoku, C., Levy, R. C., Kleidman, R. G., Eck, T. F., Vermote, E., and Holben, B. N.: The MODIS aerosol algorithm, products, and validation, J. Atmos. Sci., 62, 947–973, https://doi.org/10.1175/Jas3385.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1126/science.1160606</doi>
+              <unstructured_citation>Rosenfeld, D., Lohmann, U., Raga, G. B., O'Dowd, C. D., Kulmala, M., Fuzzi, S., Reissell, A., and Andreae, M. O.: Flood or drought: How do aerosols affect precipitation?, Science, 321, 1309–1313, https://doi.org/10.1126/science.1160606, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1002/2013JD020937</doi>
+              <unstructured_citation>Schwartz, C. S., Liu, Z. Q., Lin, H. C., and Cetola, J. D.: Assimilating aerosol observations with a “hybrid” variational-ensemble data assimilation system, J. Geophys. Res.-Atmos., 119, 4043–4069, https://doi.org/10.1002/2013JD020937, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1029/2009GL037634</doi>
+              <unstructured_citation>Shu, S. J. and Wu, L. G.: Analysis of the influence of Saharan air layer on tropical cyclone intensity using AIRS/Aqua data, Geophys. Res. Lett., 36, L09809, https://doi.org/10.1029/2009gl037634, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1029/98JD00049</doi>
+              <unstructured_citation>Sokolik, I. N., Toon, O. B., and Bergstrom, R. W.: Modeling the radiative characteristics of airborne mineral aerosols at infrared wavelengths, J. Geophys. Res.-Atmos., 103, 8813–8826, https://doi.org/10.1029/98jd00049, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/acp-8-2763-2008</doi>
+              <unstructured_citation>Su, J., Huang, J., Fu, Q., Minnis, P., Ge, J., and Bi, J.: Estimation of Asian dust aerosol effect on cloud radiation forcing using Fu-Liou radiative model and CERES measurements, Atmos. Chem. Phys., 8, 2763–2771, https://doi.org/10.5194/acp-8-2763-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1029/2008GL034529</doi>
+              <unstructured_citation>Sun, D. L., Lau, K. M., and Kafatos, M.: Contrasting the 2007 and 2005 hurricane seasons: Evidence of possible impacts of Saharan dry air and dust on tropical cyclone activity in the Atlantic basin, Geophys. Res. Lett., 35, L15405, https://doi.org/10.1029/2008gl034529, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1175/2009JCLI2738.1</doi>
+              <unstructured_citation>Sun, D. L., Lau, W. K. M., Kafatos, M., Boybeyi, Z., Leptoukh, G., Yang, C. W., and Yang, R. X.: Numerical Simulations of the Impacts of the Saharan Air Layer on Atlantic Tropical Cyclone Development, J. Climate, 22, 6230–6250, https://doi.org/10.1175/2009jcli2738.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1038/nclimate2144</doi>
+              <unstructured_citation>Wang, Y., Lee, K. H., Lin, Y., Levy, M., and Zhang, R. Y.: Distinct effects of anthropogenic aerosols on tropical cyclones, Nat. Clim. Change, 4, 368–373, https://doi.org/10.1038/Nclimate2144, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1175/2009JTECHA1281.1</doi>
+              <unstructured_citation>Winker, D. M., Vaughan, M. A., Omar, A., Hu, Y. X., Powell, K. A., Liu, Z. Y., Hunt, W. H., and Young, S. A.: Overview of the CALIPSO Mission and CALIOP Data Processing Algorithms, J. Atmos. Ocean. Tech., 26, 2310–2323, https://doi.org/10.1175/2009JTECHA1281.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1175/2009JCLI2847.1</doi>
+              <unstructured_citation>Wong, S., Dessler, A. E., Mahowald, N. M., Yang, P., and Feng, Q.: Maintenance of Lower Tropospheric Temperature Inversion in the Saharan Air Layer by Dust and Dry Anomaly, J. Climate, 22, 5149–5162, https://doi.org/10.1175/2009jcli2847.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2007GL029564</doi>
+              <unstructured_citation>Wu, L. G.: Impact of Saharan air layer on hurricane peak intensity, Geophys. Res. Lett., 34, L09802, https://doi.org/10.1029/2007gl029564, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1175/1520-0493(2002)130&lt;2905:TDVAWS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Wu, W. S., Purser, R. J., and Parrish, D. F.: Three-dimensional variational analysis with spatially inhomogeneous covariances, Mon. Weather Rev., 130, 2905–2916, https://doi.org/10.1175/1520-0493(2002)130&amp;amp;lt;2905:Tdvaws&amp;amp;gt;2.0.Co;2, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.2151/sola.2011-034</doi>
+              <unstructured_citation>Yang, S., Shi, G. Y., Chen, L., Wang, B., and Yang, H. L.: Evaluation of Moderate-Resolution Imaging Spectroradiometer (MODIS) Deep Blue Aerosol Products Using Ground-Based Measurements over Beijing, Sola, 7, 133–136, https://doi.org/10.2151/sola.2011-034, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1029/2009GL037276</doi>
+              <unstructured_citation>Zhang, H. N., McFarquhar, G. M., Cotton, W. R., and Deng, Y.: Direct and indirect impacts of Saharan dust acting as cloud condensation nuclei on tropical cyclone eyewall development, Geophys. Res. Lett., 36, L06802, https://doi.org/10.1029/2009gl037276, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.5194/acp-10-8821-2010</doi>
+              <unstructured_citation>Zhao, C., Liu, X., Leung, L. R., Johnson, B., McFarlane, S. A., Gustafson Jr., W. I., Fast, J. D., and Easter, R.: The spatial distribution of mineral dust and its shortwave radiative forcing over North Africa: modeling sensitivities to dust emissions and aerosol size treatments, Atmos. Chem. Phys., 10, 8821–8838, https://doi.org/10.5194/acp-10-8821-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1029/2007JD008427</doi>
+              <unstructured_citation>Zhu, A., Ramanathan, V., Li, F., and Kim, D.: Dust plumes over the Pacific, Indian, and Atlantic oceans: Climatology and radiative impact, J. Geophys. Res.-Atmos., 112, D16208, https://doi.org/10.1029/2007jd008427, 2007.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

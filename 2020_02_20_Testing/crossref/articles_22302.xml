@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2019-02-14 11:00:51">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Geophysical Research: Atmospheres</full_title>
+          <abbrev_title>J. Geophys. Res. Atmos.</abbrev_title>
+          <issn>2169897X</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>01</month>
+            <day>16</day>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>124</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Balance of Emission and Dynamical Controls on Ozone During the Korea-United States Air Quality Campaign From Multiconstituent Satellite Data Assimilation</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>K.</given_name>
+              <surname>Miyazaki</surname>
+              <affiliation>Japan Agency for Marine-Earth Science and Technology; Yokohama Japan</affiliation>
+              <ORCID>https://orcid.org/0000-0002-1466-4655</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>T.</given_name>
+              <surname>Sekiya</surname>
+              <affiliation>Japan Agency for Marine-Earth Science and Technology; Yokohama Japan</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>D.</given_name>
+              <surname>Fu</surname>
+              <affiliation>Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>K. W.</given_name>
+              <surname>Bowman</surname>
+              <affiliation>Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-8659-1117</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>S. S.</given_name>
+              <surname>Kulawik</surname>
+              <affiliation>Bay Area Environmental Research Institute; Sonoma CA USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>K.</given_name>
+              <surname>Sudo</surname>
+              <affiliation>Japan Agency for Marine-Earth Science and Technology; Yokohama Japan</affiliation>
+              <affiliation>Graduate School of Environmental Studies; Nagoya University; Nagoya Japan</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>T.</given_name>
+              <surname>Walker</surname>
+              <affiliation>Department of Civil and Environmental Engineering; Carleton University; Ottawa Ontario Canada</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Y.</given_name>
+              <surname>Kanaya</surname>
+              <affiliation>Japan Agency for Marine-Earth Science and Technology; Yokohama Japan</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>M.</given_name>
+              <surname>Takigawa</surname>
+              <affiliation>Japan Agency for Marine-Earth Science and Technology; Yokohama Japan</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>K.</given_name>
+              <surname>Ogochi</surname>
+              <affiliation>Japan Agency for Marine-Earth Science and Technology; Yokohama Japan</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>H.</given_name>
+              <surname>Eskes</surname>
+              <affiliation>Royal Netherlands Meteorological Institute (KNMI); De Bilt Netherlands</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>K. F.</given_name>
+              <surname>Boersma</surname>
+              <affiliation>Royal Netherlands Meteorological Institute (KNMI); De Bilt Netherlands</affiliation>
+              <affiliation>Meteorological and Air Quality Department; Wageningen University; Wageningen Netherlands</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A. M.</given_name>
+              <surname>Thompson</surname>
+              <affiliation>NASA/Goddard Space Flight Center; Greenbelt MD USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-7829-0920</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>B.</given_name>
+              <surname>Gaubert</surname>
+              <affiliation>Atmospheric Chemistry Observations and&amp; Modeling (ACOM) Laboratory; National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-6595-0686</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J.</given_name>
+              <surname>Barre</surname>
+              <affiliation>European Centre for Medium-Range Weather Forecasts; Reading UK</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>L. K.</given_name>
+              <surname>Emmons</surname>
+              <affiliation>Atmospheric Chemistry Observations and&amp; Modeling (ACOM) Laboratory; National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-2325-6212</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>01</month>
+            <day>16</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>03</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>387</first_page>
+            <last_page>413</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Japan Society for the Promotion of Science
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001691</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Ministry of the Environment
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100006120</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Japan Society for the Promotion of Science London
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000646</assertion>
+              </assertion>
+              <assertion name="award_number">18H01285</assertion>
+              <assertion name="award_number">26287117</assertion>
+              <assertion name="award_number">26220101</assertion>
+              <assertion name="award_number">15K05296</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNN13D455T</assertion>
+              <assertion name="award_number">NNX16AD96G</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2019-01-03">http://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1029/2018JD028912</doi>
+            <resource>http://doi.wiley.com/10.1029/2018JD028912</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1029/2018JD028912/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2018JD028912</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1029/2018JD028912-BIB0001|jgrd55088-cit-0002">
+              <author>Akimoto</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1126/science.1092666</doi>
+              <article_title>Global air quality and pollution</article_title>
+              <journal_title>Science</journal_title>
+              <volume>302</volume>
+              <first_page>1716</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0002|jgrd55088-cit-0003">
+              <author>Andres</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1029/98JD02091</doi>
+              <article_title>A time-averaged inventory of subaerial volcanic sulfur emissions</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>103</volume>
+              <issue>D19</issue>
+              <first_page>25,251</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0003|jgrd55088-cit-0004">
+              <author>Bocquet</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.5194/acp-15-5325-2015</doi>
+              <article_title>Data assimilation in atmospheric chemistry models: Current status and future prospects for coupled chemistry meteorology models</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>15</volume>
+              <first_page>5325</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0004|jgrd55088-cit-0005">
+              <unstructured_citation>Boersma , K. F. Eskes , H. Richter , A. De Smedt , I. Lorente , A. Beirle , S. 2017a QA4ECV NO 2 tropospheric and stratospheric vertical column data from OMI (version 1.1) [data set] http://doi.org/10.21944/qa4ecv-no2-omi-v1.1</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0005|jgrd55088-cit-0006">
+              <unstructured_citation>Boersma , K. F. Eskes , H. Richter , A. De Smedt , I. Lorente , A. Beirle , S. 2017b QA4ECV NO 2 tropospheric and stratospheric vertical column data from GOME-2A (version 1.1) [data set] http://doi.org/10.21944/qa4ecv-no2-gome2a-v1.1</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0006|jgrd55088-cit-0007">
+              <author>Boersma</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2003JD003962</doi>
+              <article_title>Error analysis for tropospheric NO2 retrieval from space</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>109</volume>
+              <first_page>D04311</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0007|jgrd55088-cit-0008">
+              <author>Boersma</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.5194/amt-4-1905-2011</doi>
+              <article_title>An improved tropospheric NO2 column retrieval algorithm for the Ozone Monitoring Instrument</article_title>
+              <journal_title>Atmospheric Measurement Techniques</journal_title>
+              <volume>4</volume>
+              <first_page>1905</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0008|jgrd55088-cit-0009">
+              <author>Boersma</author>
+              <cYear>2018</cYear>
+              <article_title>Improving algorithms and uncertainty estimates for satellite NO2 retrievals: Results from the Quality Assurance for Essential Climate Variables (QA4ECV) project</article_title>
+              <journal_title>Atmospheric Measurement Techniques Discussions</journal_title>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0009|jgrd55088-cit-0010">
+              <unstructured_citation>Boersma , K. F. van Geffen , J. Eskes , H. van der A , R. De Smedt , I. Van Roozendael , M. 2017 Product specification document for the QA4ECV NO2 ECV precursor product http://temis.nl/qa4ecv/no2col/QA4ECV_NO2_PSD_v1.1.compressed.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0010|jgrd55088-cit-0011">
+              <author>Bovensmann</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1999)056&lt;0127:SMOAMM&gt;2.0.CO;2</doi>
+              <article_title>SCIAMACHY: Mission objectives and measurement modes</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>56</volume>
+              <first_page>127</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0011|jgrd55088-cit-0012">
+              <author>Bowman</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.atmosenv.2013.07.007</doi>
+              <article_title>Toward the next generation of air quality monitoring: Ozone</article_title>
+              <journal_title>Atmospheric Environment</journal_title>
+              <volume>80</volume>
+              <first_page>571</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0012|jgrd55088-cit-0013">
+              <author>Bowman</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5194/acp-13-4057-2013</doi>
+              <article_title>Evaluation of ACCMIP outgoing longwave radiation from tropospheric ozone using TES satellite observations</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>13</volume>
+              <first_page>4057</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0013|jgrd55088-cit-0014">
+              <author>Brune</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1995)052&lt;3328:MOAHIT&gt;2.0.CO;2</doi>
+              <article_title>Measuring OH and HO2 in the troposphere by laser induced fluorescence at low pressure</article_title>
+              <journal_title>Journal of the Atmospheric Sciences</journal_title>
+              <volume>52</volume>
+              <first_page>3328</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0014|jgrd55088-cit-0015">
+              <author>Callies</author>
+              <cYear>2000</cYear>
+              <article_title>GOME-2-MetOp's second generation sensor for operational ozone monitoring</article_title>
+              <journal_title>ESA Bulletin European Space</journal_title>
+              <volume>102</volume>
+              <first_page>28</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0015|jgrd55088-cit-0016">
+              <author>Castellanos</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.5194/acp-14-3929-2014</doi>
+              <article_title>Satellite observations indicate substantial spatiotemporal variability in biomass burning NOx emission factors for South America</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>14</volume>
+              <first_page>3929</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0016|jgrd55088-cit-0017">
+              <author>Clerbaux</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.5194/acp-9-6041-2009</doi>
+              <article_title>Monitoring of atmospheric composition using the thermal infrared IASI/MetOp sounder</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>9</volume>
+              <first_page>6041</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0017|jgrd55088-cit-0018">
+              <author>Crippa</author>
+              <cYear>2018</cYear>
+              <article_title>Gridded emissions of air pollutants for the period 1970-2012 within EDGAR v4.3.2</article_title>
+              <journal_title>Earth System Science Data Discussions</journal_title>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0018|jgrd55088-cit-0019">
+              <author>Crounse</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1021/ac0604235</doi>
+              <article_title>Measurement of gas-phase hydroperoxides by chemical ionization mass spectrometry</article_title>
+              <journal_title>Analytical Chemistry</journal_title>
+              <volume>78</volume>
+              <first_page>6726</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0019|jgrd55088-cit-0020">
+              <author>Dee</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <article_title>The ERA-Interim reanalysis: Configuration and performance of the data assimilation system</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>137</volume>
+              <first_page>553</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0020|jgrd55088-cit-0021">
+              <author>Deeter</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/amt-10-2533-2017</doi>
+              <article_title>A climate-scale satellite record for carbon monoxide: The MOPITT version 7 product</article_title>
+              <journal_title>Atmospheric Measurement Techniques</journal_title>
+              <volume>10</volume>
+              <first_page>2533</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0021|jgrd55088-cit-0022">
+              <author>Ding</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-10125-2017</doi>
+              <article_title>Intercomparison of NOx emission inventories over East Asia</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>10,125</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0022|jgrd55088-cit-0023">
+              <author>Ding</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1002/2017GL076788</doi>
+              <article_title>Maritime NOx emissions over Chinese seas derived from satellite observations</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>45</volume>
+              <first_page>2031</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0023|jgrd55088-cit-0024">
+              <author>Eskes</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.5194/acp-3-1285-2003</doi>
+              <article_title>Averaging kernels for DOAS total-column satellite retrievals</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>3</volume>
+              <first_page>1285</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0024|jgrd55088-cit-0025">
+              <author>Fioletov</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-12597-2017</doi>
+              <article_title>Multi-source SO2 emission retrievals and consistency of satellite and surface measurements with reported emissions</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>12,597</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0025|jgrd55088-cit-0026">
+              <author>Fioletov</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/acp-16-11497-2016</doi>
+              <article_title>A global catalogue of large SO2 sources and emissions derived from the Ozone Monitoring Instrument</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>16</volume>
+              <first_page>11,497</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0026|jgrd55088-cit-0027">
+              <author>Flemming</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-1945-2017</doi>
+              <article_title>The CAMS Interim Reanalysis of carbon monoxide, ozone and aerosol for 2003-2015</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>1945</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0027|jgrd55088-cit-0028">
+              <author>Flemming</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.5194/acp-11-1961-2011</doi>
+              <article_title>Forecasts and assimilation experiments of the Antarctic ozone hole 2008</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>11</volume>
+              <first_page>1961</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0028|jgrd55088-cit-0029">
+              <author>Fu</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/amt-9-2567-2016</doi>
+              <article_title>High resolution tropospheric carbon monoxide profiles retrieved from CrIS and TROPOMI</article_title>
+              <journal_title>Atmospheric Measurement Techniques</journal_title>
+              <volume>9</volume>
+              <first_page>2567</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0029|jgrd55088-cit-0030">
+              <author>Fu</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.5194/amt-11-5587-2018</doi>
+              <article_title>Retrievals of tropospheric ozone profiles from the synergism of AIRS and OMI: Methodology and validation</article_title>
+              <journal_title>Atmospheric Measurement Techniques</journal_title>
+              <volume>11</volume>
+              <first_page>5587</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0030|jgrd55088-cit-0031">
+              <author>Fu</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5194/acp-13-3445-2013</doi>
+              <article_title>Characterization of ozone profiles derived from Aura TES and OMI radiances</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>13</volume>
+              <issue>6</issue>
+              <first_page>3445</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0031|jgrd55088-cit-0032">
+              <author>Gaubert</author>
+              <cYear>2016</cYear>
+              <article_title>Toward a chemical reanalysis in a coupled chemistry-climate model: An evaluation of MOPITT CO assimilation and its impact on tropospheric composition</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>121</volume>
+              <first_page>7310</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0032|jgrd55088-cit-0033">
+              <author>George</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.5194/acp-9-8317-2009</doi>
+              <article_title>Carbon monoxide distributions from the IASI/METOP mission: Evaluation with other space-borne remote sensors</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>9</volume>
+              <first_page>8317</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0033|jgrd55088-cit-0034">
+              <author>Graedel</author>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1029/92GB02793</doi>
+              <article_title>A compilation of inventories of emissions to the atmosphere</article_title>
+              <journal_title>Global Biogeochemical Cycles</journal_title>
+              <volume>7</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0036|jgrd55088-cit-0037">
+              <cYear>2013</cYear>
+              <volume_title>Tropospheric emission spectrometer TES level 2 (L2) data user's guide, D-38042, version 5.0</volume_title>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0037|jgrd55088-cit-0038">
+              <author>Houtekamer</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1256/qj.05.135</doi>
+              <article_title>Ensemble Kalman filtering</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <volume>131</volume>
+              <first_page>3269</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0038|jgrd55088-cit-0039">
+              <author>Houtekamer</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1175/MWR-D-15-0440.1</doi>
+              <article_title>Review of the ensemble Kalman filter for atmospheric data assimilation</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <volume>144</volume>
+              <first_page>4489</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0039|jgrd55088-cit-0040">
+              <author>Huey</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1002/mas.20118</doi>
+              <article_title>Measurement of trace atmospheric species by chemical ionization mass spectrometry: Speciation of reactive nitrogen and future directions</article_title>
+              <journal_title>Mass Spectrometry Reviews</journal_title>
+              <volume>26</volume>
+              <issue>2</issue>
+              <first_page>166</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0040|jgrd55088-cit-0041">
+              <author>Hunt</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1016/j.physd.2006.11.008</doi>
+              <article_title>Efficient data assimilation for spatiotemporal chaos: A local ensemble transform Kalman filter</article_title>
+              <journal_title>Physica D</journal_title>
+              <volume>230</volume>
+              <first_page>112</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0041|jgrd55088-cit-0042">
+              <author>Inness</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5194/acp-13-4073-2013</doi>
+              <article_title>The MACC reanalysis: An 8yr data set of atmospheric composition</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>13</volume>
+              <first_page>4073</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0042|jgrd55088-cit-0043">
+              <author>Janssens-Maenhout</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.5194/acp-15-11411-2015</doi>
+              <article_title>HTAP v2.2: A mosaic of regional and global emission grid maps for 2008 and 2010 to study hemispheric transport of air pollution</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>15</volume>
+              <first_page>11,411</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0043|jgrd55088-cit-0044">
+              <author>Jiang</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1073/pnas.1801191115</doi>
+              <article_title>Unexpected slowdown of US pollutant emission reduction in the last decade</article_title>
+              <journal_title>Proceedings of the National Academy of Sciences</journal_title>
+              <volume>115</volume>
+              <issue>20</issue>
+              <first_page>5099</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0044|jgrd55088-cit-0045">
+              <author>Jiang</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-4565-2017</doi>
+              <article_title>A 15-year record of CO emissions constrained by MOPITT CO observations</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>4565</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0045|jgrd55088-cit-0046">
+              <author>Jones</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1029/2003JD003702</doi>
+              <article_title>Potential of observations from the Tropospheric Emission Spectrometer to constrain continental sources of carbon monoxide</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>108</volume>
+              <first_page>4789</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0046|jgrd55088-cit-0047">
+              <author>Kanaya</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.5194/acp-9-7711-2009</doi>
+              <article_title>Rates and regimes of photochemical ozone production over Central East China in June 2006: A box model analysis using comprehensive measurements of ozone precursors</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>9</volume>
+              <first_page>7711</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0047|jgrd55088-cit-0048">
+              <author>Kanaya</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.4209/aaqr.2015.04.0220</doi>
+              <article_title>Diagnosis of photochemical ozone production rates and limiting factors in continental outflow air masses reaching Fukue Island, Japan: Ozone-Control Implications</article_title>
+              <journal_title>Aerosol and Air Quality Research</journal_title>
+              <volume>16</volume>
+              <first_page>430</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0048|jgrd55088-cit-0049">
+              <author>Kim</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.atmosenv.2013.05.042</doi>
+              <article_title>Verification of NOx emission inventory over South Korea using sectoral activity data and satellite observation of NO2 vertical column densities</article_title>
+              <journal_title>Atmospheric Environment</journal_title>
+              <volume>77</volume>
+              <first_page>496</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0049|jgrd55088-cit-0050">
+              <author>Koukouli</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.5194/amt-11-1817-2018</doi>
+              <article_title>Updated SO2 emission estimates over China using OMI/Aura observations</article_title>
+              <journal_title>Atmospheric Measurement Techniques</journal_title>
+              <volume>11</volume>
+              <first_page>1817</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0050|jgrd55088-cit-0051">
+              <author>Krotkov</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/acp-16-4605-2016</doi>
+              <article_title>Aura OMI observations of regional SO2 and NO2 pollution changes from 2005 to 2015</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>16</volume>
+              <first_page>4605</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0051|jgrd55088-cit-0052">
+              <author>Lahoz</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.3389/fenvs.2014.00016</doi>
+              <article_title>Data assimilation: Making sense of Earth observation</article_title>
+              <journal_title>Frontiers in Environmental Science</journal_title>
+              <volume>2</volume>
+              <first_page>16</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0052|jgrd55088-cit-0053">
+              <author>Lee</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.5572/ajae.2011.5.4.278</doi>
+              <article_title>Korean national emissions inventory system and 2007 air pollutant emissions</article_title>
+              <journal_title>Asian Journal of Atmospheric Environment</journal_title>
+              <volume>5</volume>
+              <first_page>278</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0053|jgrd55088-cit-0054">
+              <author>Lee</author>
+              <cYear>2014</cYear>
+              <article_title>Transport of NOx in East Asia identified by satellite and in situ measurements and Lagrangian particle dispersion model simulations</article_title>
+              <journal_title>Journal of Geophysical Research :; Atmospheres</journal_title>
+              <volume>119</volume>
+              <first_page>2574</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0054|jgrd55088-cit-0055">
+              <author>Levelt</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1109/TGRS.2006.872336</doi>
+              <article_title>Science objectives of the Ozone Monitoring Instrument</article_title>
+              <journal_title>Geoscience &amp; Remote Sensing</journal_title>
+              <volume>44</volume>
+              <first_page>1199</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0055|jgrd55088-cit-0056">
+              <author>Levelt</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.5194/acp-18-5699-2018</doi>
+              <article_title>The Ozone Monitoring Instrument: Overview of 14 years in space</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>18</volume>
+              <first_page>5699</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0056|jgrd55088-cit-0057">
+              <author>Li</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/2013GL058134</doi>
+              <article_title>A fast and sensitive new satellite SO2 retrieval algorithm based on principal component analysis: Application to the ozone monitoring instrument</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>40</volume>
+              <first_page>6314</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0057|jgrd55088-cit-0058">
+              <author>Li</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1038/s41598-017-14639-8</doi>
+              <article_title>India is overtaking China as the world's largest emitter of anthropogenic sulfur dioxide</article_title>
+              <journal_title>Scientific Reports</journal_title>
+              <volume>7</volume>
+              <first_page>14,304</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0058|jgrd55088-cit-0059">
+              <author>Ling</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-9115-2017</doi>
+              <article_title>OMI-measured increasing SO2 emissions due to energy industry expansion and relocation in northwestern China</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>9115</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0059|jgrd55088-cit-0060">
+              <author>Liu</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-9261-2017</doi>
+              <article_title>NOx emission trends over Chinese cities estimated from OMI observations during 2005 to 2015</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>9261</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0060|jgrd55088-cit-0061">
+              <author>Livesey</author>
+              <cYear>2011</cYear>
+              <volume_title>Aura Microwave Limb Sounder (MLS), version 3.3 level 2 data quality and description document, Tech. Rep. JPL D-33509</volume_title>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0061|jgrd55088-cit-0062">
+              <author>Luo</author>
+              <cYear>2013</cYear>
+              <article_title>Carbon monoxide (CO) vertical profiles derived from joined TES and MLS measurements</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>118</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0062|jgrd55088-cit-0063">
+              <author>Mao</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5194/acp-13-509-2013</doi>
+              <article_title>Radical loss in the atmosphere from Cu-Fe redox coupling in aerosols</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>13</volume>
+              <first_page>509</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0063|jgrd55088-cit-0064">
+              <author>Mijling</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5194/acp-13-12003-2013</doi>
+              <article_title>Regional nitrogen oxides emission trends in East Asia observed from space</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>13</volume>
+              <first_page>12,003</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0064|jgrd55088-cit-0065">
+              <author>Millet</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1029/2007JD008950</doi>
+              <article_title>Spatial distribution of isoprene emissions from North America derived from formaldehyde column measurements by the OMI satellite sensor</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>113</volume>
+              <first_page>D02307</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0065|jgrd55088-cit-0066">
+              <author>Miyazaki</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-8285-2017</doi>
+              <article_title>Evaluation of ACCMIP ozone simulations and ozonesonde sampling biases using a satellite-based multi-constituent chemical reanalysis</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>8285</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0066|jgrd55088-cit-0067">
+              <author>Miyazaki</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/grl.50894</doi>
+              <article_title>Constraints on surface NOx emissions by assimilating satellite observations of multiple species</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>40</volume>
+              <first_page>4745</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0067|jgrd55088-cit-0068">
+              <author>Miyazaki</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-807-2017</doi>
+              <article_title>Decadal changes in global surface NOx emissions from multi-constituent satellite data assimilation</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>807</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0068|jgrd55088-cit-0069">
+              <author>Miyazaki</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.5194/acp-14-3277-2014</doi>
+              <article_title>Global lightning NOx production estimated by an assimilation of multiple satellite datasets</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>14</volume>
+              <first_page>3277</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0069|jgrd55088-cit-0070">
+              <author>Miyazaki</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.5194/acp-12-2263-2012</doi>
+              <article_title>Global NOx emission estimates derived from an assimilation of OMI tropospheric NO2 columns</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>12</volume>
+              <first_page>2263</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0070|jgrd55088-cit-0071">
+              <author>Miyazaki</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.5194/acp-15-8315-2015</doi>
+              <article_title>A tropospheric chemistry reanalysis for the years 2005-2012 based on an assimilation of OMI, MLS, TES, and MOPITT satellite data</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>15</volume>
+              <first_page>8315</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0071|jgrd55088-cit-0072">
+              <author>Miyazaki</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.5194/acp-12-9545-2012</doi>
+              <article_title>Simultaneous assimilation of satellite NO2, O3, CO, and HNO3 data for the analysis of tropospheric chemical composition and emissions</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>12</volume>
+              <first_page>9545</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0072|jgrd55088-cit-0073">
+              <author>Morgenstern</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/gmd-10-639-2017</doi>
+              <article_title>Review of the global models used within phase 1 of the Chemistry-Climate Model Initiative (CCMI)</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>10</volume>
+              <first_page>639</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0073|jgrd55088-cit-0074">
+              <author>Myhre</author>
+              <cYear>2013</cYear>
+              <volume_title>Climate Change 2013 (2013), The physical science basis. Contribution of Working Group I to the Fifth Assessment Report of the Inter-governmental Panel on Climate Change</volume_title>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0074|jgrd55088-cit-0075">
+              <author>Na</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.atmosenv.2005.06.005</doi>
+              <article_title>Source contribution to aromatic VOC concentration and ozone formation potential in the atmosphere of Seoul</article_title>
+              <journal_title>Atmospheric Environment</journal_title>
+              <volume>39</volume>
+              <first_page>5517</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0075|jgrd55088-cit-0076">
+              <author>Oikawa</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1038/ncomms9753</doi>
+              <article_title>Unusually high soil nitrogen oxide emissions influence air quality in a high-temperature agricultural region</article_title>
+              <journal_title>Nature Communications</journal_title>
+              <volume>6</volume>
+              <first_page>8753</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0076|jgrd55088-cit-0077">
+              <author>Parrington</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1029/2008GL036935</doi>
+              <article_title>Impact of the assimilation of ozone from the Tropospheric Emission Spectrometer on surface ozone across North America</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>36</volume>
+              <first_page>L04802</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0077|jgrd55088-cit-0078">
+              <author>Price</author>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1029/92JD00719</doi>
+              <article_title>A simple lightning parameterization for calculating global lightning distributions</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>97</volume>
+              <first_page>9919</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0078|jgrd55088-cit-0079">
+              <author>Qu</author>
+              <cYear>2017</cYear>
+              <article_title>Monthly top-down NOx emissions for China (2005-2012): A hybrid inversion method and trend analysis</article_title>
+              <journal_title>Journal of Geophysical Research: Atmospheres</journal_title>
+              <volume>122</volume>
+              <first_page>4600</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0079|jgrd55088-cit-0080">
+              <author>Randerson</author>
+              <cYear>2018</cYear>
+              <volume_title>Global Fire Emissions Database, version 4, (GFEDv4)</volume_title>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0081|jgrd55088-cit-0082">
+              <author>Richter</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1016/S0273-1177(02)00100-X</doi>
+              <article_title>Tropospheric NO2 from GOME measurements</article_title>
+              <journal_title>Advances in Space Research</journal_title>
+              <volume>29</volume>
+              <issue>11</issue>
+              <first_page>1673</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0082|jgrd55088-cit-0083">
+              <author>Sekiya</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.5194/gmd-11-959-2018</doi>
+              <article_title>Global high-resolution simulations of tropospheric nitrogen dioxide using CHASER V4.0</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>11</volume>
+              <first_page>959</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0083|jgrd55088-cit-0084">
+              <author>Stevenson</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5194/acp-13-3063-2013</doi>
+              <article_title>Tropospheric ozone changes, radiative forcing and attribution to emissions in the Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP)</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>13</volume>
+              <first_page>3063</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0084|jgrd55088-cit-0085">
+              <author>Strode</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.5194/acp-16-7285-2016</doi>
+              <article_title>Interpreting space-based trends in carbon monoxide with multiple models</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>16</volume>
+              <first_page>7285</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0085|jgrd55088-cit-0086">
+              <author>Tang</author>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.5194/acp-18-11007-2018</doi>
+              <article_title>Evaluating high-resolution forecasts of atmospheric CO and CO2 from a global prediction system during KORUS-AQ field campaign</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>18</volume>
+              <first_page>11,007</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0086|jgrd55088-cit-0087">
+              <author>Thornton</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1021/ac9908905</doi>
+              <article_title>Atmospheric NO2: In situ laser-induced fluorescence detection at parts per trillion mixing ratios</article_title>
+              <journal_title>Analytical Chemistry</journal_title>
+              <volume>72</volume>
+              <first_page>528</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0087|jgrd55088-cit-0088">
+              <author>Valin</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.5194/acp-11-11647-2011</doi>
+              <article_title>Effects of model resolution on the interpretation of satellite NO2 observations</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>11</volume>
+              <first_page>11,647</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0088|jgrd55088-cit-0089">
+              <author>A</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.5194/acp-17-1775-2017</doi>
+              <article_title>Cleaning up the air: Effectiveness of air quality policy for SO2 and NOx emissions in China</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>17</volume>
+              <first_page>1775</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0091|jgrd55088-cit-0092">
+              <author>Verstraeten</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1038/ngeo2493</doi>
+              <article_title>Rapid increases in tropospheric ozone production and export from China</article_title>
+              <journal_title>Nature Geoscience</journal_title>
+              <volume>8</volume>
+              <first_page>690</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0092|jgrd55088-cit-0093">
+              <author>Vinken</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.5194/acp-14-10363-2014</doi>
+              <article_title>Worldwide biogenic soil NOx emissions inferred from OMI NO2 observations</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>14</volume>
+              <first_page>10,363</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0093|jgrd55088-cit-0094">
+              <author>Wang</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/S1001-0742(11)60724-9</doi>
+              <article_title>Air quality management in China: Issues, challenges, and options</article_title>
+              <journal_title>Journal of Environmental Sciences</journal_title>
+              <volume>24</volume>
+              <first_page>2</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0094|jgrd55088-cit-0095">
+              <author>Wang</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1088/1748-9326/10/11/114015</doi>
+              <article_title>Satellite measurements oversee China's sulfur dioxide emission reductions from coal-fired power plants</article_title>
+              <journal_title>Environmental Research Letters</journal_title>
+              <volume>10</volume>
+              <first_page>114015</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0096|jgrd55088-cit-0097">
+              <author>Warner</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.5194/acp-10-9521-2010</doi>
+              <article_title>Improved agreement of AIRS tropospheric carbon monoxide products with other EOS sensors using optimal estimation retrievals</article_title>
+              <journal_title>Atmospheric Chemistry and Physics</journal_title>
+              <volume>10</volume>
+              <first_page>9521</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0097|jgrd55088-cit-0098">
+              <author>Watanabe</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.5194/gmd-4-845-2011</doi>
+              <article_title>MIROC-ESM 2010: Model description and basic results of CMIP5-20c3m experiments</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <volume>4</volume>
+              <first_page>845</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0098|jgrd55088-cit-0099">
+              <author>Weibring</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1364/OE.15.013476</doi>
+              <article_title>First demonstration of a high performance difference frequency spectrometer on airborne platforms</article_title>
+              <journal_title>Optics Express</journal_title>
+              <volume>15</volume>
+              <first_page>13,476</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0099|jgrd55088-cit-0100">
+              <author>Weinheimer</author>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1029/93GL02627</doi>
+              <article_title>Stratospheric NOy measurements on the NASA DC-8 during AASE-II</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>20</volume>
+              <first_page>2563</first_page>
+            </citation>
+            <citation key="10.1029/2018JD028912-BIB0100|jgrd55088-cit-0101">
+              <author>Woo</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.atmosenv.2011.10.042</doi>
+              <article_title>Development of an anthropogenic emissions processing system for Asia using SMOKE</article_title>
+              <journal_title>Atmospheric Environment</journal_title>
+              <volume>58</volume>
+              <first_page>5</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

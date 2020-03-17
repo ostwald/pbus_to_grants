@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-14 10:00:18">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Advances in Statistical Climatology, Meteorology and Oceanography</full_title>
+          <abbrev_title>Adv. Stat. Clim. Meteorol. Oceanogr.</abbrev_title>
+          <issn media_type="electronic">2364-3587</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>2</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Evaluating NARCCAP model performance for frequencies of severe-storm environments</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Eric</given_name>
+              <surname>Gilleland</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Melissa</given_name>
+              <surname>Bukovsky</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christopher L.</given_name>
+              <surname>Williams</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Seth</given_name>
+              <surname>McGinnis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Caspar M.</given_name>
+              <surname>Ammann</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Barbara G.</given_name>
+              <surname>Brown</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Linda O.</given_name>
+              <surname>Mearns</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> An important topic for climate change investigation is the behavior of severe weather under future scenarios. Given the fine-scale nature of the phenomena, such changes can only be analyzed indirectly, for example, through large-scale indicators of environments conducive to severe weather. Climate models can account for changing physics over time, but if they cannot capture the relevant distributional properties of the current climate, then their use for inferring future regimes is limited. In this study, high-resolution climate models from the North American Regional Climate Change Assessment Program (NARCCAP) are evaluated for the present climate state using cutting-edge spatial verification techniques recently popularized in the meteorology literature. While climate models are not intended to predict variables on a day-by-day basis, like weather models, they should be expected to mimic distributional properties of these processes, which is how they are increasingly used and therefore this study assesses the degree to which the models are actually suitable for this purpose. Of particular value for social applications would be to better simulate extremes, rather than inferring means of variables, which may only change by small increments thereby making it difficult to interpret in terms of the impact on society. In this study, it is found that the relatively high-resolution NARCCAP climate model runs capture areas, spatial patterns, and placement of the most common severe-storm environments reasonably well, but all of them underpredict the spatial extent of these high-frequency zones. Some of the models generally perform better than others, but some models capture spatial patterns of the highest frequency severe-storm environment areas better than they do more moderate frequency regions.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>04</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>137</first_page>
+            <last_page>153</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1243030</assertion>
+              <assertion name="award_number">Weather and Climate Impacts Assessment Science Program</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5065/D6RN35ST</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/ascmo-2-137-2016</doi>
+            <resource>https://www.adv-stat-clim-meteorol-oceanogr.net/2/137/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.adv-stat-clim-meteorol-oceanogr.net/2/137/2016/ascmo-2-137-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1002/env.741</doi>
+              <unstructured_citation>Aberg, S., Lindgren, F., Malmberg, A., Holst, J., and Holst, U.: An image warping approach to spatio-temporal modelling, Environmetrics, 16, 833–848, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/wrcr.20498</doi>
+              <unstructured_citation>AghaKouchak, A. and Mehran, A.: Extended contingency table: Performance metrics for satellite observations and climate model simulations, Water Resour. Res., 49, 7144–7149, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>AghaKouchak, A., Nasrollahi, N., Li, J., Imam, B., and Sorooshian, S.: Geometrical Characterization of Precipitation Patterns, J. Hydrometeorol., 12, 274–285, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/2009WAF2222298.1</doi>
+              <unstructured_citation>Ahijevych, D., Gilleland, E., Brown, B. G., and Ebert, E. E.: Application of Spatial Verification Methods to Idealized and NWP-Gridded Precipitation Forecasts, Weather Forecast., 24, 1485–1497, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/MWR-D-14-00337.1</doi>
+              <unstructured_citation>Alemohammad, S. H., McLaughlin, D. B., and Entekhabi, D.: Quantifying Precipitation Uncertainty for Land Data Assimilation Applications, Mon. Weather Rev., 143, 3276–3299, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/1520-0493(1998)126&lt;1469:TUODWO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Alexander, G. D., Weinman, J. A., and Schols, J. L.: The Use of Digital Warping of Microwave Integrated Water Vapor Imagery to Improve Forecasts of Marine Extratropical Cyclones, Mon. Weather Rev., 126, 1469–1496, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/qj.2871</doi>
+              <unstructured_citation>Arbogast, P., Pannekoucke, O., Raynaud, L., Lalanne, R., and Mémin, E.: Object-oriented processing of CRM precipitation forecasts by stochastic filtering, Q. J. Roy. Meteor. Soc., qJ-15-0353.R2, https://doi.org/10.1002/qj.2871, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Baddeley, A. J.: Errors in binary images and an Lp version of the Hausdorff metric, Nieuw Arch. Wiskunde, 10, 157–183, 1992a.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Baddeley, A. J.: Robust Computer Vision Algorithms, chap. An error metric for binary images, 59–78, edited by: Forstner, W. and Ruwiedel, S., Wichmann, 402 pp., 1992b.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.18637/jss.v012.i06</doi>
+              <unstructured_citation>Baddeley, A. J. and Turner, R.: spatstat: An R package for analyzing spatial point patterns, J. Stat. Softw., 12, 1–42, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Baddeley, A. J., Rubak, E., and Turner, R.: Spatial Point Patterns: Methodology and Applications with R, Chapman and Hall/CRC Reference, 810 pp., 408 B/W Illustrations, ISBN-13: 9781482210200, CAT# K21641, available at: https://www.crcpress.com/Spatial-Point-Patterns-Methodology-and-Applications-with-R/Baddeley-Rubak-Turner/p/book/9781482210200, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1016/S0169-8095(03)00045-0</doi>
+              <unstructured_citation>Brooks, H. E., Lee, J. W., and Craven, J. P.: The spatial distribution of severe thunderstorm and tornado environments from global reanalysis data, Atmos. Res., 67–68, 73–94, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1002/9781119960003.ch6</doi>
+              <unstructured_citation>Brown, B. G., Gilleland, E., and Ebert, E. E.: Forecasts of Spatial Fields, chap. 6, 95–117, in: Forecast Verification: A Practitioner's Guide in Atmospheric Science, edited by: Jolliffe, I. T. and Stephenson, D. B., John Wiley &amp;amp;amp; Sons, Ltd, 274 pp., 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/JCLI-D-11-00588.1</doi>
+              <unstructured_citation>Bukovsky, M. S.: Temperature trends in the NARCCAP Regional Climate Models, J. Climate, 25, 3985–3991, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/2010JCLI3447.1</doi>
+              <unstructured_citation>Bukovsky, M. S. and Karoly, D. J.: A Regional Modeling Study of Climate Change Impacts on Warm-Season Precipitation in the Central United States, J. Climate, 24, 1985–2002, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/JCLI-D-12-00538.1</doi>
+              <unstructured_citation>Bukovsky, M. S., Gochis, D. J., and Mearns, L. O.: Towards Assessing NARCCAP Regional Climate Model Credibility for the North American Monsoon: Current Climate Simulations, J. Climate, 26, 8802–8826, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/2010JAMC2388.1</doi>
+              <unstructured_citation>Caldwell, P.: California wintertime precipitation bias in Regional and Global Climate Models, J. Appl. Meteorol. Clim., 49, 2147–2158, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/WAF-D-10-05008.1</doi>
+              <unstructured_citation>Carley, J. R., Schwedler, B. R. J., Baldwin, M. E., and Trapp, R. J.: A proposed model-based methodology for feature-specific prediction for high-impact weather, Weather Forecast., 26, 243–249, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/MWR3145.1</doi>
+              <unstructured_citation>Davis, C., Brown, B., and Bullock, R.: Object-Based Verification of Precipitation Forecasts. Part I: Methodology and Application to Mesoscale Rain Areas, Mon. Weather Rev., 134, 1772–1784, 2006a.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/MWR3146.1</doi>
+              <unstructured_citation>Davis, C., Brown, B., and Bullock, R.: Object-Based Verification of Precipitation Forecasts. Part II: Application to Convective Rain Systems, Mon. Weather Rev., 134, 1785–1795, 2006b.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/2009WAF2222241.1</doi>
+              <unstructured_citation>Davis, C. A., Brown, B. G., Bullock, R., and Halley-Gotway, J.: The Method for Object-Based Diagnostic Evaluation (MODE) Applied to Numerical Forecasts from the 2005 NSSL/SPC Spring Program, Weather Forecast., 24, 1252–1267, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1007/s00382-013-1717-9</doi>
+              <unstructured_citation>de Elía, R., Biner, S., and Frigon, A.: Interannual variability and expected regional climate change over North America, Clim. Dynam., 41, 1245, https://doi.org/10.1007/s00382-013-1717-9, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Diebold, F. X. and Mariano, R. S.: Comparing Predictive Accuracy, J. Bus. Econ. Stat., 13, 253–263, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1073/pnas.1307758110</doi>
+              <unstructured_citation>Diffenbaugh, N. S., Scherer, M., and Trapp, R. J.: Robust increases in severe thunderstorm environments in response to greenhouse forcing, P. Natl. Acad. Sci. USA, 110, 16361–16366, https://doi.org/10.1073/pnas.1307758110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Dryden, I. L. and Mardia, K. V.: Statistical shape analysis, John Wiley &amp;amp;amp; Sons, Chichester, ISBN-10: 0470699620, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1007/s00382-014-2277-3</doi>
+              <unstructured_citation>Elsner, J. B., Elsner, S. C., and Jagger, T. H.: The increasing efficiency of tornado days in the United States, Clim. Dynam., 45, 651–659, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>EMC: National Centers for Environmental Prediction (NCEP), North American Regional Reanalysis (NARR), available at: http://www.emc.ncep.noaa.gov/mmb/rreanl/, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>ESMF Joint Specification Team: Balaji, V., Boville, B., Collins, N., Craig, T., Cruz, C., da Silva, A., DeLuca, C., Eaton, B., Hallberg, B., Hill, C., Iredell, M., Jacob, R., Jones, P., Kauffman, B., Larson, J., Michalakes, J., Neckels, D., Panaccione, C., Rosinski, J., Schwab, E., Smithline, S., Suarez, M., Swift, S., Theurich, G., Vasquez, S., Wolfe, J., Yang, W., Young, M., and Zaslavsky, L.: ESMF Reference Manual for Fortran, version 6.3.Orp1, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/joc.3769</doi>
+              <unstructured_citation>Gensini, V. A., Ramseyer, C., and Mote, T. L.: Future convective environments using NARCCAP, Int. J. Climatol., 34, 1699–1705, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/WAF-D-10-05061.1</doi>
+              <unstructured_citation>Gilleland, E.: Spatial Forecast Verification: Baddeley's Delta Metric Applied to the ICP Test Cases, Weather Forecast., 26, 409–415, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/MWR-D-12-00155.1</doi>
+              <unstructured_citation>Gilleland, E.: Testing Competing Precipitation Forecasts Accurately and Efficiently: The Spatial Prediction Comparison Test, Mon. Weather Rev., 141, 340–355, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Gilleland, E.: SpatialVx: Spatial Forecast Verification, National Center for Atmospheric Research, Boulder, Colorado, USA, R package version 0.5, 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Gilleland, E.: A new characterization in the spatial verification framework for false alarms, misses, and overall patterns, Weather Forecast., available at: http://journals.ametsoc.org/page/eors, accepted, 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1175/2009WAF2222269.1</doi>
+              <unstructured_citation>Gilleland, E., Ahijevych, D., Brown, B. G., Casati, B., and Ebert, E. E.: Intercomparison of Spatial Forecast Verification Methods, Weather Forecast., 24, 1416–1430, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/2010BAMS2819.1</doi>
+              <unstructured_citation>Gilleland, E., Ahijevych, D. A., Brown, B. G., and Ebert, E. E.: Verifying Forecasts Spatially, B. Am. Meteorol. Soc., 91, 1365–1373, 2010a.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Gilleland, E., Chen, L., DePersio, M., Do, G., Eilertson, K., Jin, Y., Lang, E., Lindgren, F., Lindström, J., Smith, R., and Xia, C.: Spatial forecast verification: image warping, Tech. Rep. NCAR/TN-482+STR, NCAR, 2010b.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/2010WAF2222365.1</doi>
+              <unstructured_citation>Gilleland, E., Lindström, J., and Lindgren, F.: Analyzing the image warp forecast verification method on precipitation fields from the ICP, Weather Forecast., 25, 1249–1262, 2010c.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/env.2234</doi>
+              <unstructured_citation>Gilleland, E., Brown, B., and Ammann, C.: Spatial extreme value analysis to project extremes of large-scale indicators for severe weather, Environmetrics, 24, 418–432, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1111/1467-9868.00295</doi>
+              <unstructured_citation>Glasbey, C. A. and Mardia, K. V.: A penalized likelihood approach to image warping, J. R. Statist. Soc. B, 63, 465–514, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1002/env.1050</doi>
+              <unstructured_citation>Heaton, M. J., Katzfuss, M., Ramachandar, S., Pedings, K., Gilleland, E., Mannshardt-Shamseldin, E., and Smith, R. L.: Spatio-temporal models for large-scale indicators of extreme weather, Environmetrics, 22, 294–303, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1198/TECH.2011.10136</doi>
+              <unstructured_citation>Hering, A. S. and Genton, M. G.: Comparing Spatial Predictions, Technometrics, 53, 414–425, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/1520-0450(1996)035&lt;1177:ATFASO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Hoffman, R. N. and Grassotti, C.: A Technique for Assimilating SSM/I Observations of Marine Atmospheric Storms: Tests with ECMWF Analyses, J. Appl. Meteorol., 35, 1177–1188, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/1520-0493(1995)123&lt;2758:DROFE&gt;2.0.CO;2</doi>
+              <unstructured_citation>Hoffman, R. N., Liu, Z., Louis, J.-F., and Grassoti, C.: Distortion Representation of Forecast Errors, Mon. Weather Rev., 123, 2758–2770, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/BAMS-83-11-1631</doi>
+              <unstructured_citation>Kanamitsu, M., Ebisuzaki, W., Woollen, J., Yang, S.-K., Hnilo, J. J., Fiorino, M., and Potter, G. L.: NCEP–DOE AMIP-II Reanalysis (R-2), B. Am. Meteorol. Soc., 83, 1631–1643, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/MWR3457.1</doi>
+              <unstructured_citation>Keil, C. and Craig, G. C.: A Displacement-Based Error Measure Applied in a Regional Ensemble Forecasting System, Mon. Weather Rev., 135, 3248–3259, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/2009WAF2222247.1</doi>
+              <unstructured_citation>Keil, C. and Craig, G. C.: A Displacement and Amplitude Score Employing an Optical Flow Technique, Weather Forecast., 24, 1297–1308, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Kleiber, W., Sain, S., and Wiltberger, M.: Model Calibration via Deformation, SIAM/ASA Journal on Uncertainty Quantification, 2, 545–563, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1002/2014WR016607</doi>
+              <unstructured_citation>Koch, J., Jensen, K. H., and Stisen, S.: Toward a true spatial model evaluation in distributed hydrological modeling: Kappa statistics, Fuzzy theory, and EOF-analysis benchmarked by the human perception and evaluated against a modeling case study, Water Resour. Res., 51, 1225–1246, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1002/2015JD024482</doi>
+              <unstructured_citation>Koch, J., Siemann, A., Stisen, S., and Sheffield, J.: Spatial validation of large-scale land surface models against monthly land surface temperature patterns using innovative performance metrics, J. Geophys. Res.-Atmos., 121, 5430–5452, https://doi.org/10.1002/2015JD024482, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1002/2012GL053964</doi>
+              <unstructured_citation>Levy, A. A. L., Ingram, W., Jenkinson, M., Huntingford, C., Hugo Lambert, F., and Allen, M.: Can correcting feature location in simulated mean climate improve agreement on projected changes?, Geophys. Res. Lett., 40, 354–358, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1080/01431161.2014.999170</doi>
+              <unstructured_citation>Li, J., Hsu, K., AghaKouchak, A., and Sorooshian, S.: An object-based approach for verification of precipitation estimation, Int. J. Remote Sens., 36, 513–529, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.3390/rs8070547</doi>
+              <unstructured_citation>Li, J., Hsu, K.-L., AghaKouchak, A., and Sorooshian, S.: Object-based assessment of satellite precipitation products, Remote Sens., 8, 547, https://doi.org/10.3390/rs8070547, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.4236/ajcc.2013.23A005</doi>
+              <unstructured_citation>Mannshardt, E. and Gilleland, E.: Extremes of Severe Storm Environments under a Changing Climate, American J. Climate Change, 2, 47–61, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1175/2010WAF2222351.1</doi>
+              <unstructured_citation>Marzban, C. and Sandgathe, S.: Optical Flow for Verification, Weather Forecast., 25, 1479–1494, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1029/2009EO360002</doi>
+              <unstructured_citation>Mearns, L. O., Gutowski, W. J., Leung, L.-Y., McGinnis, S., Nunes, A. M. B., and Qian, Y.: A regional climate change assessment program for North America, Eos, 90, 311–312, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5065/D6RN35ST</doi>
+              <unstructured_citation>Mearns, L., McGinnis, S., Arritt, R., Biner, S., Duffy, P., Gutowski, W., Held, I., Jones, R., Leung, R., Nunes, A., Snyder, M., Caya, D., Correia, J., Flory, D., Herzmann, D., Laprise, R., Moufouma-Okia, W., Takle, G., Teng, H., Thompson, J., Tucker, S., Wyman, B., Anitha, A., Buja, L., Macintosh, C., McDaniel, L., O'Brien, T., Qian, Y., Sloan, L., Strand, G., and Zoellick, C.: The North American Regional Climate change Assessment Program dataset, National Center for Atmospheric Research Earth Grid data portal, Boulder, Colorado, USA, https://doi.org/10.5065/D6RN35ST, 2007, updated 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1175/BAMS-87-3-343</doi>
+              <unstructured_citation>Mesinger, F., DiMego, G., Kalnay, E., Mitchell, K., Shafran, P. C., Ebisuzaki, W., Jović, D., Woollen, J., Rogers, E., Berbery, E. H., Ek, M. B., Fan, Y., Grumbine, R., Higgins, W., Li, H., Lin, Y., Manikin, G., Parrish, D., and Shi, W.: North American Regional Reanalysis, B. Am. Meteorol. Soc., 87, 343–360, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Nakicenvoic, N. and Swart, R.: Special Report on Emissions Scenarios. A Special Report of Working Group III of the Intergovernmental Panel on Climate Change, Cambridge University Press, Cambridge, 612 pp., 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1256/qj.02.18</doi>
+              <unstructured_citation>Nehrkorn, T., Hoffman, R. N., Grassotti, C., and Louis, J.-F.: Feature calibration and alignment to represent model forecast errors: Empirical regularization, Q. J. Roy. Meteor. Soc., 129, 195–218, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1175/MWR-D-14-00127.1</doi>
+              <unstructured_citation>Nehrkorn, T., Woods, B. K., Hoffman, R. N., and Auligné, T.: Correcting for position errors in variational data assimilation, Mon. Weather Rev., 143, 1368–1381, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1002/qj.334</doi>
+              <unstructured_citation>Park, Y.-Y., Buizza, R., and Leutbecher, M.: TIGGE: Preliminary results on comparing and combining ensembles, Q. J. Roy. Meteor. Soc., 134, 2029–2050, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>R Core Team: R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing, Vienna, Austria, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1175/WAF-D-11-00032.1</doi>
+              <unstructured_citation>Schwedler, B. R. J. and Baldwin, M. E.: Diagnosing the Sensitivity of Binary Image Measures to Bias, Location, and Event Frequency within a Forecast Verification Framework, Weather Forecast., 26, 1032–1044, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1002/met.1478</doi>
+              <unstructured_citation>Skok, G.: Analysis of Fraction Skill Score properties for a displaced rainband in a rectangular domain, Meteorol. Appl., 22, 477–484, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Skok, G.: Analysis of Fraction Skill Score properties for a displaced rainy grid point in a rectangular domain, Atmos. Res., 169, Part B, 556–565, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1002/qj.2849</doi>
+              <unstructured_citation>Skok, G. and Roberts, N.: Analysis of Fractions Skill Score properties for random precipitation fields and ECMWF forecasts, Q. J. Roy. Meteor. Soc., https://doi.org/10.1002/qj.2849, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1175/WAF969.1</doi>
+              <unstructured_citation>Thompson, R. L., Mead, C. M., and Edwards, R.: Effective Storm-Relative Helicity and Bulk Shear in Supercell Thunderstorm Environments, Weather Forecast., 22, 102–115, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1038/ncomms10668</doi>
+              <unstructured_citation>Tippett, M. K. and Cohen, J. E.: Tornado outbreak variability follows Taylor's power law of fluctuation scaling and increases dramatically with severity, Nat. Commun., 7, 10668, https://doi.org/10.1038/ncomms10668, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1175/JCLI-D-13-00345.1</doi>
+              <unstructured_citation>Tippett, M. K., Sobel, A. H., Camargo, S. J., and Allen, J. T.: An empirical relation between U.S. tornado activity and monthly environmental parameters, J. Climate, 27, 2983–2999, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1007/s40641-015-0006-6</doi>
+              <unstructured_citation>Tippett, M. K., Allen, J. T., Gensini, V. A., and Brooks, H. E.: Climate and Hazardous Convective Weather, Current Climate Change Reports, 1, 60–73, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1073/pnas.0705494104</doi>
+              <unstructured_citation>Trapp, R. J., Diffenbaugh, N. S., Brooks, H. E., Baldwin, M. E., Robinson, E. D., and Pal, J. S.: Changes in severe thunderstorm environment frequency during the 21st century caused by anthropogenically enhanced global radiative forcing, P. Natl. Acad. Sci. USA, 104, 19719–19723, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1029/2008GL036203</doi>
+              <unstructured_citation>Trapp, R. J., Diffenbaugh, N. S., and Gluhovsky, A.: Transient response of severe thunderstorm forcing to elevated greenhouse gas concentrations, Geophys. Res. Lett., 36, L01703, https://doi.org/10.1029/2008GL036203, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1175/2009JCLI2697.1</doi>
+              <unstructured_citation>van Klooster, S. L. and Roebber, P. J.: Surface-based convective potential in the contiguous United States in a business-as-usual future climate, J. Climate, 22, 3317–3330, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Venugopal, V., Basu, S., and Foufoula-Georgiou, E.: A new metric for comparing precipitation patterns with an application to ensemble forecasts, J. Geophys. Res., 110, D08111, 11 pp., 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1109/97.995823</doi>
+              <unstructured_citation>Wang, Z. and Bovik, A. C.: A universal image quality index, IEEE Signal Process. Lett., 9, 81–84, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1111/j.2041-210X.2011.00153.x</doi>
+              <unstructured_citation>Warton, D. I., Duursma, R. A., Falster, D. S., and Taskinen, S.: smatr 3 – an R package for estimation and inference about allometric lines, Methods in Ecology and Evolution, 3, 257–259, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Weniger, M., Kapp, F., and Friederichs, P.: Spatial Verification Using Wavelet Transforms: A Review, arXiv preprint arXiv:1605.03395, 27 pp., 2016.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <titles>
+                <title>The North American Regional Climate change Assessment   Program dataset</title>
+              </titles>
+              <description>Data sets</description>
+              <doi>10.5065/D6RN35ST</doi>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-02-01 09:57:46">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>18</volume>
+          </journal_volume>
+          <issue>16</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Constraining nucleation, condensation, and chemistry in oxidation flow reactors using size-distribution measurements and aerosol microphysical modeling</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Anna L.</given_name>
+              <surname>Hodshire</surname>
+              <ORCID>https://orcid.org/0000-0002-5099-3659</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brett B.</given_name>
+              <surname>Palm</surname>
+              <ORCID>https://orcid.org/0000-0001-5548-0812</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M. Lizabeth</given_name>
+              <surname>Alexander</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Qijing</given_name>
+              <surname>Bian</surname>
+              <ORCID>https://orcid.org/0000-0002-1511-9026</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pedro</given_name>
+              <surname>Campuzano-Jost</surname>
+              <ORCID>https://orcid.org/0000-0003-3930-010X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eben S.</given_name>
+              <surname>Cross</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Douglas A.</given_name>
+              <surname>Day</surname>
+              <ORCID>https://orcid.org/0000-0003-3213-4233</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Suzane S.</given_name>
+              <surname>de Sá</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alex B.</given_name>
+              <surname>Guenther</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Armin</given_name>
+              <surname>Hansel</surname>
+              <ORCID>https://orcid.org/0000-0002-1062-2394</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James F.</given_name>
+              <surname>Hunter</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Werner</given_name>
+              <surname>Jud</surname>
+              <ORCID>https://orcid.org/0000-0003-4267-0435</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas</given_name>
+              <surname>Karl</surname>
+              <ORCID>https://orcid.org/0000-0003-2869-9426</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Saewung</given_name>
+              <surname>Kim</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jesse H.</given_name>
+              <surname>Kroll</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeong-Hoo</given_name>
+              <surname>Park</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zhe</given_name>
+              <surname>Peng</surname>
+              <ORCID>https://orcid.org/0000-0002-6823-452X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roger</given_name>
+              <surname>Seco</surname>
+              <ORCID>https://orcid.org/0000-0002-2078-9956</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James N.</given_name>
+              <surname>Smith</surname>
+              <ORCID>https://orcid.org/0000-0003-4677-8224</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jose L.</given_name>
+              <surname>Jimenez</surname>
+              <ORCID>https://orcid.org/0000-0001-6203-1847</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey R.</given_name>
+              <surname>Pierce</surname>
+              <ORCID>https://orcid.org/0000-0002-4241-838X</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Oxidation flow reactors (OFRs) allow the concentration of a given atmospheric
+oxidant to be increased beyond ambient levels in order to study secondary
+organic aerosol (SOA) formation and aging over varying periods of equivalent
+aging by that oxidant. Previous studies have used these reactors to determine
+the bulk OA mass and chemical evolution. To our knowledge, no OFR study has
+focused on the interpretation of the evolving aerosol size distributions. In
+this study, we use size-distribution measurements of the OFR and an aerosol
+microphysics model to learn about size-dependent processes in the OFR.
+Specifically, we use OFR exposures between 0.09 and 0.9 equivalent days of OH
+aging from the 2011 BEACHON-RoMBAS and GoAmazon2014/5 field campaigns. We use
+simulations in the TOMAS (TwO-Moment Aerosol Sectional) microphysics box
+model to constrain the following parameters in the OFR: (1) the rate constant
+of gas-phase functionalization reactions of organic compounds with OH,
+(2) the rate constant of gas-phase fragmentation reactions of organic
+compounds with OH, (3) the reactive uptake coefficient for heterogeneous
+fragmentation reactions with OH, (4) the nucleation rate constants for three
+different nucleation schemes, and (5) an effective<span id="page12434"/> accommodation coefficient
+that accounts for possible particle diffusion limitations of particles larger
+than 60<span class="thinspace"></span>nm in diameter.</p> <p>We find the best model-to-measurement agreement when the accommodation
+coefficient of the larger particles (<span class="inline-formula"><i>D</i><sub>p</sub></span><span class="thinspace"></span>&amp;gt;<span class="thinspace"></span>60<span class="thinspace"></span>nm) was 0.1 or
+lower (with an accommodation coefficient of 1 for smaller particles), which
+suggests a diffusion limitation in the larger particles. When using these
+low accommodation-coefficient values, the model agrees with measurements
+when using a published <span class="inline-formula">H<sub>2</sub>SO<sub>4</sub></span>-organics nucleation mechanism and
+previously published values of rate constants for gas-phase oxidation
+reactions. Further, gas-phase fragmentation was found to have a significant
+impact upon the size distribution, and including fragmentation was necessary
+for accurately simulating the distributions in the OFR. The model was
+insensitive to the value of the reactive uptake coefficient on these aging
+timescales. Monoterpenes and isoprene could explain 24<span class="thinspace"></span>%–95<span class="thinspace"></span>% of the
+observed change in total volume of aerosol in the OFR, with ambient
+semivolatile and intermediate-volatility organic compounds (S/IVOCs)
+appearing to explain the remainder of the change in total volume. These
+results provide support to the mass-based findings of previous OFR studies,
+give insight to important size-distribution dynamics in the OFR, and enable
+the design of future OFR studies focused on new particle formation and/or
+microphysical processes.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>28</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>12433</first_page>
+            <last_page>12460</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Biological and Environmental Research
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006206</assertion>
+              </assertion>
+              <assertion name="award_number">DE-SC0016559</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Climate Program Office
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100007298</assertion>
+              </assertion>
+              <assertion name="award_number">#NA17OAR430001</assertion>
+              <assertion name="award_number">NA10OAR4310106</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Environmental Protection Agency
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000139</assertion>
+              </assertion>
+              <assertion name="award_number">83587701-0</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Austrian Science Fund
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100002428</assertion>
+              </assertion>
+              <assertion name="award_number">L518-N20</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5065/D61V5CDP</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-18-12433-2018</doi>
+            <resource>https://www.atmos-chem-phys.net/18/12433/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/18/12433/2018/acp-18-12433-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2001JD001010</doi>
+              <unstructured_citation>Adams, P. J. and Seinfeld, J. H.: Predicting global aerosol size
+distributions in general circulation models, J. Geophys. Res., 107,
+4370, https://doi.org/10.1029/2001JD001010, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1038/nature12663</doi>
+              <unstructured_citation>Almeida, J., Schobesberger, S., Kurten, A., Ortega, I. K., Kupiainen-Maatta,
+O., Praplan, A. P., Adamov, A., Amorim, A., Bianchi, F., Breitenlechner, M.,
+David, A., Dommen, J., Donahue, N. M., Downard, A., Dunne, E., Duplissy, J.,
+Ehrhart, S., Flagan, R. C., Franchin, A., Guida, R., Hakala, J., Hansel, A.,
+Heinritzi, M., Henschel, H., Jokinen, T., Junninen, H., Kajos, M.,
+Kangasluoma, J., Keskinen, H., Kupc, A., Kurten, T., Kvashin, A. N.,
+Laaksonen, A., Lehtipalo, K., Leiminger, M., Leppa, J., Loukonen, V.,
+Makhmutov, V., Mathot, S., McGrath, M. J., Nieminen, T., Olenius, T.,
+Onnela, A., Petaja, T., Riccobono, F., Riipinen, I., Rissanen, M., Rondo,
+L., Ruuskanen, T., Santos, F. D., Sarnela, N., Schallhart, S., Schnitzhofer,
+R., Seinfeld, J. H., Simon, M., Sipila, M., Stozhkov, Y., Stratmann, F.,
+Tome, A., Trostl, J., Tsagkogeorgas, G., Vaattovaara, P., Viisanen, Y.,
+Virtanen, A., Vrtala, A., Wagner, P. E., Weingartner, E., Wex, H.,
+Williamson, C., Wimmer, D., Ye, P., Yli-Juuti, T., Carslaw, K. S., Kulmala,
+M., Curtius, J., Baltensperger, U., Worsnop, D. R., Vehkamaki, H., and
+Kirkby, J.: Molecular understanding of sulphuric acid-amine particle
+nucleation in the atmosphere, Nature, 502, 359–363,
+https://doi.org/10.1038/nature12663, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1021/jp510489z</doi>
+              <unstructured_citation>Arangio, A. M., Slade, J. H., Berkemeier, T., Pöschl, U., Knopf, D. A.,
+and Shiraiwa, M.: Multiphase Chemical Kinetics of OH Radical Uptake by
+Molecular Organic Markers of Biomass Burning Aerosols: Humidity and
+Temperature Dependence, Surface Reaction, and Bulk Diffusion, J. Phys. Chem.
+A, 119, 4533–4544, https://doi.org/10.1021/jp510489z, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1021/cr0206420</doi>
+              <unstructured_citation>Atkinson, R. and Arey, J.: Atmospheric Degradation of Volatile Organic
+Compounds, Chem. Rev., 103, 4605–4638, https://doi.org/10.1021/cr0206420, 2003a. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1016/S1352-2310(03)00391-1</doi>
+              <unstructured_citation>Atkinson, R. and Arey, J.: Gas-phase tropospheric chemistry of biogenic
+volatile organic compounds: a review, Atmos. Environ., 37,
+197–219, https://doi.org/10.1016/S1352-2310(03)00391-1, 2003b. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Atmospheric Radiation Measurement (ARM) Climate Research Facility: Observations and Modeling of the Green Ocean
+Amazon (GoAmazon), available at: https://www.arm.gov/research/campaigns/amf2014goamazon, last access: August 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/acp-10-4521-2010</doi>
+              <unstructured_citation>Bae, M.-S., Schwab, J. J., Hogrefe, O., Frank, B. P., Lala, G. G., and Demerjian, K. L.: Characteristics of size distributions
+at urban and rural locations in New York, Atmos. Chem. Phys., 10, 4521–4535, https://doi.org/10.5194/acp-10-4521-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/j.atmosenv.2004.03.035</doi>
+              <unstructured_citation>Barsanti, K. C. and Pankow, J. F.: Thermodynamics of the formation of
+atmospheric organic particulate matter by accretion reactions – Part 1:
+aldehydes and ketones, Atmos. Environ., 38, 4371–4382,
+https://doi.org/10.1016/j.atmosenv.2004.03.035, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1038/ngeo2599</doi>
+              <unstructured_citation>Bateman, A. P., Gong, Z., Liu, P., Sato, B., Cirino, G., Zhang, Y., Artaxo,
+P., Bertram, A. K., Manzi, A. O., Rizzo, L. V., Souza, R. A. F., Zaveri, R.
+A., and Martin, S. T.: Sub-micrometre particulate matter is primarily in
+liquid form over Amazon rainforest, Nat. Geosci., 9, 34–37,
+https://doi.org/10.1038/ngeo2599, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/acp-17-1759-2017</doi>
+              <unstructured_citation>Bateman, A. P., Gong, Z., Harder, T. H., de Sá, S. S., Wang, B., Castillo, P., China, S., Liu, Y., O'Brien, R. E., Palm, B. B., Shiu, H.-W.,
+Cirino, G. G., Thalman, R., Adachi, K., Alexander, M. L., Artaxo, P., Bertram, A. K., Buseck, P. R., Gilles, M. K., Jimenez, J. L., Laskin, A.,
+Manzi, A. O., Sedlacek, A., Souza, R. A. F., Wang, J., Zaveri, R., and Martin, S. T.: Anthropogenic influences on the physical state of submicron
+particulate matter over a tropical forest, Atmos. Chem. Phys., 17, 1759–1773, https://doi.org/10.5194/acp-17-1759-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/acp-17-5459-2017</doi>
+              <unstructured_citation>Bian, Q., Jathar, S. H., Kodros, J. K., Barsanti, K. C., Hatch, L. E., May, A. A., Kreidenweis, S. M., and Pierce, J. R.: Secondary organic
+aerosol formation in biomass-burning plumes: theoretical analysis of lab studies and ambient plumes, Atmos. Chem. Phys., 17, 5459–5475, https://doi.org/10.5194/acp-17-5459-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Boucher, O., Randall, D., Artaxo, P., Bretherton, C., Feingold, G., Forster,
+P., Kerminen, V. M., Kondo, Y., Liao, H., Lohmann, U., Rasch, P., Satheesh,
+S. K., Sherwood, S., Stevens, B., and Zhang, X. Y.: Clouds and Aerosols, in:
+Climate Change 2013: The Physical Science Basis, Contribution of Working
+Group I to the Fifth Assessment Report of the Intergovernmental Panel on
+Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G. K., Tignor,
+M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P.
+M., Cambridge University Press, Cambridge, UK, and New York, NY, USA, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-11-1895-2011</doi>
+              <unstructured_citation>Cappa, C. D. and Wilson, K. R.: Evolution of organic aerosol mass spectra upon heating: implications for OA phase and partitioning
+behavior, Atmos. Chem. Phys., 11, 1895–1911, https://doi.org/10.5194/acp-11-1895-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-11-10553-2011</doi>
+              <unstructured_citation>Chacon-Madrid, H. J. and Donahue, N. M.: Fragmentation vs. functionalization: chemical aging and organic aerosol formation,
+Atmos. Chem. Phys., 11, 10553–10563, https://doi.org/10.5194/acp-11-10553-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1039/c0cp00200c</doi>
+              <unstructured_citation>Chacon-Madrid, H. J., Presto, A. A., and Donahue, N. M.: Functionalization
+vs. fragmentation: n-aldehyde oxidation mechanisms and secondary organic
+aerosol formation, Phys. Chem. Chem. Phys., 12, 13975–13982,
+https://doi.org/10.1039/C0CP00200C, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Charlson, R. J., Schwartz, S. E., Hales, J. M., Cess, R. D., Coakley, J. A.,
+Hansen, J. E., and Hofmann, D. J.: Climate forcing by anthropogenic
+aerosols, Science, 255, 423–430, 1992. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1073/pnas.1210285109</doi>
+              <unstructured_citation>Chen, M., Titcombe, M., Jiang, J., Jen, C., Kuang, C., Fischer, M. L.,
+Eisele, F. L., Siepmann, J. I., Hanson, D. R., Zhao, J., and McMurry, P. H.:
+Acid-base chemical reaction model for nucleation rates in the polluted
+atmospheric boundary layer, P. Natl. Acad. Sci. USA, 109,
+18713–187138, https://doi.org/10.1073/pnas.1210285109, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Clement, A. C., Burgman, R., and Norris, J. R.: Observational and Model
+Evidence for Positive Low-Level Cloud Feedback, Science, 325, 460–464,
+2009. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-13-7845-2013</doi>
+              <unstructured_citation>Cross, E. S., Hunter, J. F., Carrasquillo, A. J., Franklin, J. P., Herndon, S. C., Jayne, J. T., Worsnop, D. R., Miake-Lye, R. C.,
+and Kroll, J. H.: Online measurements of the emissions of intermediate-volatility and semi-volatile organic compounds from aircraft,
+Atmos. Chem. Phys., 13, 7845–7858, https://doi.org/10.5194/acp-13-7845-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2001JD001053</doi>
+              <unstructured_citation>Dal Maso, M., Kulmala, M., Lehtinen, K. E. J., Mäkelä, J. M., Aalto,
+P., and O'Dowd, C. D.: Condensation and coagulation sinks and formation of
+nucleation mode particles in coastal and boreal forest boundary layers, J.
+Geophys. Res.-Atmos., 107, D19, https://doi.org/10.1029/2001JD001053, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1021/es052297c</doi>
+              <unstructured_citation>Donahue, N. M., Robinson, A. L., Stanier, C. O., and Pandis, S. N.: Coupled
+Partitioning, Dilution, and Chemical Aging of Semivolatile Organics,
+Environ. Sci. Technol., 40, 2635–2643, https://doi.org/10.1021/es052297c, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-13-8585-2013</doi>
+              <unstructured_citation>Fry, J. L., Draper, D. C., Zarzana, K. J., Campuzano-Jost, P., Day, D. A., Jimenez, J. L., Brown, S. S., Cohen, R. C., Kaser, L.,
+Hansel, A., Cappellin, L., Karl, T., Hodzic Roux, A., Turnipseed, A., Cantrell, C., Lefer, B. L., and Grossberg, N.: Observations
+of gas- and aerosol-phase organic nitrates at BEACHON-RoMBAS 2011, Atmos. Chem. Phys., 13, 8585–8605, https://doi.org/10.5194/acp-13-8585-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1021/cr500648z</doi>
+              <unstructured_citation>George, C., Ammann, M., D'Anna, B., Donaldson, D. J., and Nizkorodov, S. A.:
+Heterogeneous Photochemistry in the Atmosphere, Chem. Rev., 115 4218–4258,
+https://doi.org/10.1021/cr500648z, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>George, I. J. and Abbatt, J. P. D.: Heterogeneous oxidation of atmospheric
+aerosol particles by gas-phase radicals, Nat. Chem., 2, 713–722,
+2010. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1021/es072476p</doi>
+              <unstructured_citation>Goldstein, A. H. and Galbally, I. E.: Known and Unexplored Organic
+Constituents in the Earth's Atmosphere, Environ. Sci. Technol., 41,
+1514–1521, https://doi.org/10.1021/es072476p, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1016/j.jasms.2010.02.006</doi>
+              <unstructured_citation>Graus, M., Müller, M., and Hansel, A.: High Resolution PTR-TOF:
+Quantification and Formula Confirmation of VOC in Real Time, J. Am. Soc. Mass. Spectr., 21, 1037–1044, https://doi.org/10.1016/j.jasms.2010.02.006, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/gmd-5-1471-2012</doi>
+              <unstructured_citation>Guenther, A. B., Jiang, X., Heald, C. L., Sakulyanontvittaya, T., Duhl, T., Emmons, L. K., and Wang, X.: The Model of Emissions of Gases and Aerosols
+from Nature version 2.1 (MEGAN2.1): an extended and updated framework for modeling biogenic emissions, Geosci. Model Dev., 5, 1471–1492, https://doi.org/10.5194/gmd-5-1471-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.4209/aaqr.2015.05.0341</doi>
+              <unstructured_citation>Hallar, A. G., Petersen, R., Mccubbin, I. B., Lowenthal, D., Lee, S.,
+Andrews, E., and Yu, F.: Climatology of New Particle Formation and
+Corresponding Precursors at Storm Peak Laboratory, Aerosol Air Qual. Res.,
+16, 816–826, https://doi.org/10.4209/aaqr.2015.05.0341, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1021/es302060y</doi>
+              <unstructured_citation>Henry, K. M., Lohaus, T., and Donahue, N. M.: Organic Aerosol Yields from
+α-Pinene Oxidation: Bridging the Gap between First-Generation Yields
+and Aging Chemistry, Environ. Sci. Technol., 46, 12347–12354,
+https://doi.org/10.1021/es302060y, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Hodshire, A. L., Bian, Q., Jimenez, J. L., and Pierce, J. R.: Model code for
+“Constraining nucleation, condensation, and chemistry in oxidation flow reactors using size-distribution measurements
+and aerosol microphysical modeling”, available at: https://dspace.library.colostate.edu/handle/10217/190133, last access: August 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-16-11563-2016</doi>
+              <unstructured_citation>Hu, W., Palm, B. B., Day, D. A., Campuzano-Jost, P., Krechmer, J. E., Peng, Z., de Sá, S. S., Martin, S. T., Alexander, M. L., Baumann, K.,
+Hacker, L., Kiendler-Scharr, A., Koss, A. R., de Gouw, J. A., Goldstein, A. H., Seco, R., Sjostedt, S. J., Park, J.-H., Guenther, A. B., Kim, S.,
+Canonaco, F., Prévôt, A. S. H., Brune, W. H., and Jimenez, J. L.: Volatility and lifetime against OH heterogeneous reaction of ambient
+isoprene-epoxydiols-derived secondary organic aerosol (IEPOX-SOA), Atmos. Chem. Phys., 16, 11563–11580, https://doi.org/10.5194/acp-16-11563-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1038/ngeo3018</doi>
+              <unstructured_citation>Hunter, J. F., Day, D. A., Palm, B. B., Yatavelli, R. L. N., Chan, A. W. H.,
+Kaser, L., Cappellin, L., Hayes, P. L., Cross, E. S., Carrasquillo, A. J.,
+Campuzano-Jost, P., Stark, H., Zhao, Y., Hohaus, T., Smith, J. N., Hansel,
+A., Karl, T., Goldstein, A. H., Guenther, A., Worsnop, D. R., Thornton, J.
+A., Heald, C. L., Jimenez, J. L., and Kroll, J. H.: Comprehensive
+characterization of atmospheric organic carbon at a forested site, Nat.
+Geosci.,
+10, 748–753, https://doi.org/10.1038/ngeo3018, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/acp-14-5771-2014</doi>
+              <unstructured_citation>Jathar, S. H., Donahue, N. M., Adams, P. J., and Robinson, A. L.: Testing secondary organic aerosol models using smog chamber data for
+complex precursor mixtures: influence of precursor volatility and molecular structure, Atmos. Chem. Phys., 14, 5771–5780,
+https://doi.org/10.5194/acp-14-5771-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1002/2014JD021592</doi>
+              <unstructured_citation>Jen, C. N., McMurry, P. H., and Hanson, D. R.: Stabilization of sulfuric acid
+dimers by ammonia, methylamine, dimethylamine, and trimethylamine, J.
+Geophys. Res.-Atmos., 119, 7502–7514, https://doi.org/10.1002/2014JD021592, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Jimenez, J. L.: Jimenez Group Peer-Reviewed Journal Publications, available at: http://cires1.colorado.edu/jimenez/group_pubs.html, last access: August 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1126/science.1180353</doi>
+              <unstructured_citation>Jimenez, J. L., Canagaratna, M. R., Donahue, N. M., Prevot, A. S. H., Zhang,
+Q., Kroll, J. H., DeCarlo, P. F., Allan, J. D., Coe, H., Ng, N. L., Aiken, A.
+C., Docherty, K. S., Ulbrich, I. M., Grieshop, A. P., Robinson, A. L.,
+Duplissy, J., Smith, J. D., Wilson, K. R., Lanz, V. A., Hueglin, C., Sun, Y.
+L., Tian, J., Laaksonen, A., Raatikainen, T., Rautiainen, J., Vaattovaara,
+P., Ehn, M., Kulmala, M., Tomlinson, J. M., Collins, D. R., Cubison, M. J.,
+Dunlea, E. J., Huffman, J. A., Onasch, T. B., Alfarra, M. R., Williams, P.
+I., Bower, K., Kondo, Y., Schneider, J., Drewnick, F., Borrmann, S., Weimer,
+S., Demerjian, K., Salcedo, D., Cottrell, L., Griffin, R., Takami, A.,
+Miyoshi, T., Hatakeyama, S., Shimono, A., Sun, J. Y., Zhang, Y. M., Dzepina,
+K., Kimmel, J. R., Sueper, D., Jayne, J. T., Herndon, S. C., Trimborn, A. M.,
+Williams, L. R., Wood, E. C., Middlebrook, A. M., Kolb, C. E., Baltensperger,
+U., and Worsnop, D. R.: Evolution of organic aerosols in the atmosphere,
+Science, 326, 1525–1529, https://doi.org/10.1126/science.1180353, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1073/pnas.1423977112</doi>
+              <unstructured_citation>Jokinen, T., Berndt, T., Makkonen, R., Kerminen, V.-M., Junninen, H.,
+Paasonen, P., Stratmann, F., Herrmann, H., Guenther, A. B., Worsnop, D. R.,
+Kulmala, M., Ehn, M., and Sipilä, M.: Production of extremely low
+volatile organic compounds from biogenic emissions: Measured yields and
+atmospheric implications, P. Natl. Acad. Sci. USA, 112, 7123–7128,
+https://doi.org/10.1073/pnas.1423977112, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/acp-5-1489-2005</doi>
+              <unstructured_citation>Joutsensaari, J., Loivamäki, M., Vuorinen, T., Miettinen, P., Nerg, A.-M., Holopainen, J. K., and Laaksonen, A.: Nanoparticle
+formation by ozonolysis of inducible plant volatiles, Atmos. Chem. Phys., 5, 1489–1495, https://doi.org/10.5194/acp-5-1489-2005, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acp-11-6013-2011</doi>
+              <unstructured_citation>Kanawade, V. P., Jobson, B. T., Guenther, A. B., Erupe, M. E., Pressley, S. N., Tripathi, S. N., and Lee, S.-H.: Isoprene suppression
+of new particle formation in a mixed deciduous forest, Atmos. Chem. Phys., 11, 6013–6027, https://doi.org/10.5194/acp-11-6013-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-7-5727-2007</doi>
+              <unstructured_citation>Kang, E., Root, M. J., Toohey, D. W., and Brune, W. H.: Introducing the concept of Potential Aerosol Mass (PAM),
+Atmos. Chem. Phys., 7, 5727–5744, https://doi.org/10.5194/acp-7-5727-2007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-12-11877-2012</doi>
+              <unstructured_citation>Karl, T., Hansel, A., Cappellin, L., Kaser, L., Herdlinger-Blatt, I., and Jud, W.: Selective measurements of isoprene and 2-methyl-3-buten-2-ol
+based on NO+ ionization mass spectrometry, Atmos. Chem. Phys., 12, 11877–11884, https://doi.org/10.5194/acp-12-11877-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/acp-13-2893-2013</doi>
+              <unstructured_citation>Kaser, L., Karl, T., Schnitzhofer, R., Graus, M., Herdlinger-Blatt, I. S., DiGangi, J. P., Sive, B., Turnipseed, A., Hornbrook, R. S.,
+Zheng, W., Flocke, F. M., Guenther, A., Keutsch, F. N., Apel, E., and Hansel, A.: Comparison of different real time VOC measurement
+techniques in a ponderosa pine forest, Atmos. Chem. Phys., 13, 2893–2906, https://doi.org/10.5194/acp-13-2893-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1021/acs.est.5b02031</doi>
+              <unstructured_citation>Krechmer, J. E., Coggon, M. M., Massoli, P., Nguyen, T. B., Crounse, J. D.,
+Hu, W., Day, D. A., Tyndall, G. S., Henze, D. K., Rivera-Rios, J. C., Nowak,
+J. B., Kimmel, J. R., Mauldin, R. L., Stark, H., Jayne, J. T., Sipila, M.,
+Junninen, H., St Clair, J. M., Zhang, X., Feiner, P. A., Zhang, L., Miller,
+D. O., Brune, W. H., Keutsch, F. N., Wennberg, P. O., Seinfeld, J. H.,
+Worsnop, D. R., Jimenez, J. L., and Canagaratna, M. R.: Formation of Low
+Volatility Organic Compounds and Secondary Organic Aerosol from Isoprene
+Hydroxyhydroperoxide Low-NO Oxidation Atmospheric aerosols can have
+detrimental effects on human health 1 and are known to affect global climate
+both directly and indirectly. 2 Secondary Organic Aerosol (SOA) forms in
+the, Environ. Sci. Technol, 49, 10330–10339, https://doi.org/10.1021/acs.est.5b02031,
+2015. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1021/acs.est.6b00606</doi>
+              <unstructured_citation>Krechmer, J. E. Pagonis, D. P., Ziemann, P. J., and Jimenez, J. L. L.:
+Quantification of gas-wall partitioning in Teflon environmental chambers
+using rapid bursts of low-volatility oxidized species generated in-situ,
+Environ. Sci. Technol., 50, 5757–5765, https://doi.org/10.1021/acs.est.6b00606, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1039/b905289e</doi>
+              <unstructured_citation>Kroll, J. H., Smith, J. D., Che, D. L., Kessler, S. H., Worsnop, D. R., and Wilson, K. R.: Measurement of fragmentation and functionalization
+pathways in the heterogeneous oxidation of oxidized organic aerosol, Phys.
+Chem. Chem. Phys., 11, 7759, https://doi.org/10.1039/b916865f, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1038/nchem.948</doi>
+              <unstructured_citation>Kroll, J. H., Donahue, N. M., Jimenez, J. L., Kessler, S. H., Canagaratna,
+M. R., Wilson, K. R., Altieri, K. E., Mazzoleni, L. R., Wozniak, A. S.,
+Bluhm, H., Mysak, E. R., Smith, J. D., Kolb, C. E., and Worsnop, D. R.:
+Carbon oxidation state as a metric for describing the chemistry of
+atmospheric organic aerosol, Nat. Chem., 3, 133–139,
+https://doi.org/10.1038/nchem.948, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1021/acs.jpca.5b06946</doi>
+              <unstructured_citation>Kroll, J. H., Lim, C. Y., Kessler, S. H., and Wilson, K. R.: Heterogeneous
+Oxidation of Atmospheric Organic Aerosol: Kinetics of Changes to the Amount
+and Oxidation State of Particle- Phase Organic Carbon, J. Phys. Chem. A,
+119, 10767–10783, https://doi.org/10.1021/acs.jpca.5b06946, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Kulmala, M., Laaksonen, A., and Pirjola, L.: Parameterizations for sulfuric
+acid/water nucleation rates, J. Geophys. Res., 103, 8301–8307, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1029/2001JD000900</doi>
+              <unstructured_citation>Kulmala, M., Korhonen, P., Napari, I., Karlsson, A., Berresheim, H., and
+O'Dowd, C. D.: Aerosol formation during PARFORCE: Ternary nucleation of
+H2SO4, NH3, and H2O, J. Geophys. Res., 107, 8111, https://doi.org/10.1029/2001JD000900,
+2002. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-6-787-2006</doi>
+              <unstructured_citation>Kulmala, M., Lehtinen, K. E. J., and Laaksonen, A.: Cluster activation theory as an explanation of the linear dependence
+between formation rate of 3nm particles and sulphuric acid concentration, Atmos. Chem. Phys., 6, 787–793, https://doi.org/10.5194/acp-6-787-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2002JD002140</doi>
+              <unstructured_citation>Laakso, L., Makela, J. M., Pirjola, L., and Kulmala, M.: Model studies on
+ion-induced nucleation in the atmosphere, J. Geophys. Res., 107, 4427,
+https://doi.org/10.1029/2002JD002140, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/amt-4-445-2011</doi>
+              <unstructured_citation>Lambe, A. T., Ahern, A. T., Williams, L. R., Slowik, J. G., Wong, J. P. S., Abbatt, J. P. D., Brune, W. H., Ng, N. L., Wright, J. P., Croasdale, D. R.,
+Worsnop, D. R., Davidovits, P., and Onasch, T. B.: Characterization of aerosol photooxidation flow reactors: heterogeneous oxidation, secondary organic
+aerosol formation and cloud condensation nuclei activity measurements, Atmos. Meas. Tech., 4, 445–461, https://doi.org/10.5194/amt-4-445-2011,
+2011a. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/acp-11-8913-2011</doi>
+              <unstructured_citation>Lambe, A. T., Onasch, T. B., Massoli, P., Croasdale, D. R., Wright, J. P., Ahern, A. T., Williams, L. R., Worsnop, D. R., Brune, W. H., and Davidovits, P.:
+Laboratory studies of the chemical composition and cloud condensation nuclei (CCN) activity of secondary organic aerosol (SOA) and oxidized primary
+organic aerosol (OPOA), Atmos. Chem. Phys., 11, 8913–8928, https://doi.org/10.5194/acp-11-8913-2011, 2011b. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1021/es300274t</doi>
+              <unstructured_citation>Lambe, A. T., Onasch, T. B., Croasdale, D. R., Wright, J. P., Martin, A. T.,
+Franklin, J. P., Massoli, P., Kroll, J. H., Canagaratna, M. R., Brune, W.
+H., Worsnop, D. R., and Davidovits, P.: Transitions from Functionalization to
+Fragmentation Reactions of Laboratory Secondary Organic Aerosol (SOA)
+Generated from the OH Oxidation of Alkane Precursors, Environ. Sci.
+Technol., 46, 5430–5437, https://doi.org/10.1021/es300274t, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-15-3063-2015</doi>
+              <unstructured_citation>Lambe, A. T., Chhabra, P. S., Onasch, T. B., Brune, W. H., Hunter, J. F., Kroll, J. H., Cummings, M. J., Brogan, J. F., Parmar, Y., Worsnop, D. R.,
+Kolb, C. E., and Davidovits, P.: Effect of oxidant concentration, exposure time, and seed particles on secondary organic aerosol chemical
+composition and yield, Atmos. Chem. Phys., 15, 3063–3075, https://doi.org/10.5194/acp-15-3063-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/amt-10-2283-2017</doi>
+              <unstructured_citation>Lambe, A., Massoli, P., Zhang, X., Canagaratna, M., Nowak, J., Daube, C., Yan, C., Nie, W., Onasch, T., Jayne, J., Kolb, C., Davidovits, P.,
+Worsnop, D., and Brune, W.: Controlled nitric oxide production via O(1D)+N2O reactions for use in oxidation flow reactor studies,
+Atmos. Meas. Tech., 10, 2283–2298, https://doi.org/10.5194/amt-10-2283-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1002/2016JD024844</doi>
+              <unstructured_citation>Lee, S.-H., Uin, J., Guenther, A. B., de Gouw, J. A., Yu, F., Nadykto, A.
+B., Herb, J., Ng, N. L., Koss, A., Brune, W. H., Baumann, K., Kanawade, V.
+P., Keutsch, F. N., Nenes, A., Olsen, K., Goldstein, A., and Ouyang, Q.:
+Isoprene suppression of new particle formation: Potential mechanisms and
+implications, J. Geophys. Res.-Atmos., 121, 14621–14635,
+https://doi.org/10.1002/2016JD024844, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1021/jp509534k</doi>
+              <unstructured_citation>Li, R., Palm, B. B., Ortega, A. M., Hlywiak, J., Hu, W., Peng, Z., Day, D.
+A., Knote, C., Brune, W. H., de Gouw, J. A., and Jimenez, J. L.: Modeling the
+Radical Chemistry in an Oxidation Flow Reactor: Radical Formation and 5
+Recycling, Sensitivities, and the OH Exposure Estimation Equation, J. Phys.
+Chem. A, 119, 4418–4432, https://doi.org/10.1021/jp509534k, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1134/S199079311202008X</doi>
+              <unstructured_citation>Liu, Y., Ivanov, A. V., Zelenov, V. V., and Molina, M. J.: Temperature
+dependence of OH uptake by carbonaceous surfaces of atmospheric importance,
+Russ. J. Phys. Chem. B, 6, 327–332, https://doi.org/10.1134/s199079311202008x, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1073/pnas.1524136113</doi>
+              <unstructured_citation>Liu, Y., Brito, J., Dorris, M. R., Rivera-Rios, J. C., Seco, R., Bates, K.
+H., Artaxo, P., Duvoisin, S., Keutsch, F. N., Kim, S., Goldstein, A. H.,
+Guenther, A. B., Manzi, A. O., Souza, R. A. F., Springston, S. R., Watson,
+T. B., McKinney, K. A., and Martin, S. T.: Isoprene photochemistry over the
+Amazon rainforest, P. Natl. Acad. Sci. USA, 113, 6125–6130,
+https://doi.org/10.1073/pnas.1524136113, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.5194/acp-17-13037-2017</doi>
+              <unstructured_citation>Maclean, A. M., Butenhoff, C. L., Grayson, J. W., Barsanti, K., Jimenez, J. L., and Bertram, A. K.: Mixing times of organic molecules within
+secondary organic aerosol particles: a global planetary boundary layer perspective, Atmos. Chem. Phys., 17, 13037–13048, https://doi.org/10.5194/acp-17-13037-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/2008RG000280</doi>
+              <unstructured_citation>Martin, S. T., Andreae, M. O., Artaxo, P., Baumgardner, D., Chen, Q.,
+Goldstein, A. H., Guenther, A., Heald, C. L., Mayol-Bracero, O. L., McMurry,
+P. H., Pauliquevis, T., Pöschl, U., Prather, K. A., Roberts, G. C.,
+Saleska, S. R., Silva Dias, M. A., Spracklen, D. V., Swietlicki, E., and
+Trebs, I.: Sources and properties of Amazonian aerosol particles, Rev.
+Geophys., 48, RG2002,
+https://doi.org/10.1029/2008RG000280, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/acp-16-4785-2016</doi>
+              <unstructured_citation>Martin, S. T., Artaxo, P., Machado, L. A. T., Manzi, A. O., Souza, R. A. F., Schumacher, C., Wang, J., Andreae, M. O., Barbosa, H. M. J., Fan, J.,
+Fisch, G., Goldstein, A. H., Guenther, A., Jimenez, J. L., Pöschl, U., Silva Dias, M. A., Smith, J. N., and Wendisch, M.: Introduction: Observations
+and Modeling of the Green Ocean Amazon (GoAmazon2014/5), Atmos. Chem. Phys., 16, 4785–4797, https://doi.org/10.5194/acp-16-4785-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1175/BAMS-D-15-00221.1</doi>
+              <unstructured_citation>Martin, S. T., Artaxo, P., Machado, L., Manzi, A. O., Souza, R. A. F.,
+Schumacher, C., Wang, J., Biscaro, T., Brito, J., Calheiros, A., Jardine,
+K., Medeiros, A., Portela, B., de Sá, S. S., Adachi, K., Aiken, A. C.,
+Albrecht, R., Alexander, L., Andreae, M. O., Barbosa, H. M. J., Buseck, P.,
+Chand, D., Comstock, J. M., Day, D. A., Dubey, M., Fan, J., Fast, J., Fisch,
+G., Fortner, E., Giangrande, S., Gilles, M., Goldstein, A. H., Guenther, A.,
+Hubbe, J., Jensen, M., Jimenez, J. L., Keutsch, F. N., Kim, S., Kuang, C.,
+Laskin, A., McKinney, K., Mei, F., Miller, M., Nascimento, R., Pauliquevis,
+T., Pekour, M., Peres, J., Petäjä, T., Pöhlker, C., Pöschl,
+U., Rizzo, L., Schmid, B., Shilling, J. E., Dias, M. A. S., Smith, J. N.,
+Tomlinson, J. M., Tóta, J., and Wendisch, M.: The Green Ocean Amazon
+Experiment (GoAmazon2014/5) Observes Pollution Affecting Gases, Aerosols,
+Clouds, and Rainfall over the Rain Forest, B. Am. Meteorol. Soc., 98,
+981–997, https://doi.org/10.1175/BAMS-D-15-00221.1, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1021/es00142a006</doi>
+              <unstructured_citation>McMurry, P. H. and Grosjean, D.: Gas and aerosol wall losses in Teflon film
+smog chambers, Environ. Sci. Technol., 19, 1176–1182,
+https://doi.org/10.1021/es00142a006, 1985. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.5194/acp-8-5465-2008</doi>
+              <unstructured_citation>McNeill, V. F., Yatavelli, R. L. N., Thornton, J. A., Stipe, C. B., and Landgrebe, O.: Heterogeneous OH oxidation of palmitic acid in single
+component and internally mixed aerosol particles: vaporization and the role of particle phase, Atmos. Chem. Phys., 8, 5465–5476, https://doi.org/10.5194/acp-8-5465-2008, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1073/pnas.0911330107</doi>
+              <unstructured_citation>Metzger, A., Verheggen, B., Dommen, J., Duplissy, J., Prevot, A. S. H.,
+Weingartner, E., Riipinen, I., Kulmala, M., Spracklen, D. V., Carslaw, K. S.,
+and Baltensperger, U.: Evidence for the role of organics in aerosol particle
+formation under atmospheric conditions, P. Natl. Acad. Sci. USA, 107,
+6646–6651, https://doi.org/10.1073/pnas.0911330107, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1002/2015JD023538</doi>
+              <unstructured_citation>Merikanto, J., Duplissy, J., Määttänen, A., Henschel, H.,
+Donahue, N. M., Brus, D., Schobesberger, S., Kulmala, M., and Vehkamäki,
+H.: Effect of ions on sulfuric acid-water binary particle formation: 1.
+Theory for kinetic- and nucleation-type particle formation and atmospheric
+implications, J. Geophys. Res.-Atmos., 121, 1736–1751,
+https://doi.org/10.1002/2015JD023538, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.5194/acp-14-5825-2014</doi>
+              <unstructured_citation>Murphy, B. N., Donahue, N. M., Robinson, A. L., and Pandis, S. N.: A naming convention for atmospheric organic
+aerosol, Atmos. Chem. Phys., 14, 5825–5839, https://doi.org/10.5194/acp-14-5825-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2006JD007340</doi>
+              <unstructured_citation>Murphy, D. M., Cziczo, D. J., Froyd, K. D., Hudson, P. K., Matthew, B. M.,
+Middlebrook, A. M., Peltier, R. E., Sullivan, A., Thomson, D. S., and Weber,
+R. J.: Single-particle mass spectrometry of tropospheric aerosol particles,
+J. Geophys. Res., 111, D23S32, https://doi.org/10.1029/2006jd007340, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1029/2002JD002132</doi>
+              <unstructured_citation>Napari, I., Noppel, M., Vehkamaki, H., and Kulmala, M.: Parametrization of
+ternary nucleation rates for H2SO4-NH3-H2O vapors, J. Geophys. Res., 107,
+4381, https://doi.org/10.1029/2002JD002132, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.5065/D61V5CDP</doi>
+              <unstructured_citation>National Center for Atmospheric Research Atmospheric Chemistry Observations and Modeling (NCAR-ACOM):
+Manitou Experimental Forest Observatory Field Site, available at: https://doi.org/10.5065/D61V5CDP, last access: August
+2018. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.5194/acp-13-11551-2013</doi>
+              <unstructured_citation>Ortega, A. M., Day, D. A., Cubison, M. J., Brune, W. H., Bon, D., de Gouw, J. A., and Jimenez, J. L.: Secondary organic aerosol
+formation and primary organic aerosol oxidation from biomass-burning smoke in a flow reactor during FLAME-3, Atmos. Chem. Phys., 13,
+11551–11571, https://doi.org/10.5194/acp-13-11551-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.5194/acp-16-7411-2016</doi>
+              <unstructured_citation>Ortega, A. M., Hayes, P. L., Peng, Z., Palm, B. B., Hu, W., Day, D. A., Li, R., Cubison, M. J., Brune, W. H., Graus, M., Warneke, C., Gilman, J. B.,
+Kuster, W. C., de Gouw, J., Gutiérrez-Montes, C., and Jimenez, J. L.: Real-time measurements of secondary organic aerosol formation and aging from
+ambient air in an oxidation flow reactor in the Los Angeles area, Atmos. Chem. Phys., 16, 7411–7433, https://doi.org/10.5194/acp-16-7411-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.5194/acp-14-6345-2014</doi>
+              <unstructured_citation>Ortega, J., Turnipseed, A., Guenther, A. B., Karl, T. G., Day, D. A., Gochis, D., Huffman, J. A., Prenni, A. J., Levin, E. J. T., Kreidenweis, S. M.,
+DeMott, P. J., Tobo, Y., Patton, E. G., Hodzic, A., Cui, Y. Y., Harley, P. C., Hornbrook, R. S., Apel, E. C., Monson, R. K., Eller, A. S. D.,
+Greenberg, J. P., Barth, M. C., Campuzano-Jost, P., Palm, B. B., Jimenez, J. L., Aiken, A. C., Dubey, M. K., Geron, C., Offenberg, J., Ryan, M. G.,
+Fornwalt, P. J., Pryor, S. C., Keutsch, F. N., DiGangi, J. P., Chan, A. W. H., Goldstein, A. H., Wolfe, G. M., Kim, S., Kaser, L., Schnitzhofer, R.,
+Hansel, A., Cantrell, C. A., Mauldin, R. L., and Smith, J. N.: Overview of the Manitou Experimental Forest Observatory: site description and
+selected science results from 2008 to 2013, Atmos. Chem. Phys., 14, 6345–6367, https://doi.org/10.5194/acp-14-6345-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.5194/acp-16-2943-2016</doi>
+              <unstructured_citation>Palm, B. B., Campuzano-Jost, P., Ortega, A. M., Day, D. A., Kaser, L., Jud, W., Karl, T., Hansel, A., Hunter, J. F., Cross, E. S., Kroll, J. H., Peng, Z.,
+Brune, W. H., and Jimenez, J. L.: In situ secondary organic aerosol formation from ambient pine forest air using an oxidation flow reactor,
+Atmos. Chem. Phys., 16, 2943–2970, https://doi.org/10.5194/acp-16-2943-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.5194/acp-17-5331-2017</doi>
+              <unstructured_citation>Palm, B. B., Campuzano-Jost, P., Day, D. A., Ortega, A. M., Fry, J. L., Brown, S. S., Zarzana, K. J., Dube, W., Wagner, N. L., Draper, D. C., Kaser, L.,
+Jud, W., Karl, T., Hansel, A., Gutiérrez-Montes, C., and Jimenez, J. L.: Secondary organic aerosol formation from in situ OH, O3, and NO3
+oxidation of
+ambient forest air in an oxidation flow reactor, Atmos. Chem. Phys., 17, 5331–5354, https://doi.org/10.5194/acp-17-5331-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.5194/acp-18-467-2018</doi>
+              <unstructured_citation>Palm, B. B., de Sá, S. S., Day, D. A., Campuzano-Jost, P., Hu, W., Seco, R., Sjostedt, S. J., Park, J.-H., Guenther, A. B., Kim, S., Brito, J.,
+Wurm, F., Artaxo, P., Thalman, R., Wang, J., Yee, L. D., Wernis, R., Isaacman-VanWertz, G., Goldstein, A. H., Liu, Y., Springston, S. R., Souza, R.,
+Newburn, M. K., Alexander, M. L., Martin, S. T., and Jimenez, J. L.: Secondary organic aerosol formation from ambient air in an oxidation flow
+reactor in central Amazonia, Atmos. Chem. Phys., 18, 467–493, https://doi.org/10.5194/acp-18-467-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Pankow, J. F.: An absorption model of gas/particle partitioning of organic
+compounds in the atmosphere, Atmos. Environ., 28, 185–188, 1994. </unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Pankow, J. F.: Gas/particle partitioning of neutral and ionizing compounds
+to single and multi-phase aerosol particles. 1. Unified modeling framework,
+Atmos. Environ., 37, 3323–3333, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1021/jp8012317</doi>
+              <unstructured_citation>Park, J. H., Ivanov, A. V., and Molina, M. J.: Effect of Relative Humidity
+on OH Uptake by Surfaces of Atmospheric Importance, J. Phys. Chem. A, 112,
+6968–6977, https://doi.org/10.1021/jp8012317, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1126/science.1172910</doi>
+              <unstructured_citation>Paulot, F., Crounse, J. D., Kjaergaard, H. G., Kürten, A., St. Clair, J.
+M., Seinfeld, J. H., and Wennberg, P. O.: Unexpected Epoxide Formation in the
+Gas-Phase Photooxidation of Isoprene, Science, 325, 730–733, https://doi.org/10.1126/science.1172910, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.5194/acp-17-11991-2017</doi>
+              <unstructured_citation>Peng, Z. and Jimenez, J. L.: Modeling of the chemistry in oxidation flow reactors with high initial NO,
+Atmos. Chem. Phys., 17, 11991–12010, https://doi.org/10.5194/acp-17-11991-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.5194/amt-8-4863-2015</doi>
+              <unstructured_citation>Peng, Z., Day, D. A., Stark, H., Li, R., Lee-Taylor, J., Palm, B. B., Brune, W. H., and Jimenez, J. L.: HOx radical chemistry in
+oxidation flow reactors with low-pressure mercury lamps systematically examined by modeling, Atmos. Meas. Tech., 8, 4863–4890,
+https://doi.org/10.5194/amt-8-4863-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.5194/acp-16-4283-2016</doi>
+              <unstructured_citation>Peng, Z., Day, D. A., Ortega, A. M., Palm, B. B., Hu, W., Stark, H., Li, R., Tsigaridis, K., Brune, W. H., and Jimenez, J. L.: Non-OH chemistry
+in oxidation flow reactors for the study of atmospheric chemistry systematically examined by modeling, Atmos. Chem. Phys., 16, 4283–4305,
+https://doi.org/10.5194/acp-16-4283-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1021/acsearthspacechem.7b00070</doi>
+              <unstructured_citation>Peng, Z., Palm, B. B., Day, D. A., Talukdar, R. K., Hu, W., Lambe, A. T.,
+Brune, W. H., and Jimenez, J. L.: Model Evaluation of New Techniques for
+Maintaining High-NO Conditions in Oxidation Flow Reactors for the Study of
+OH-Initiated Atmospheric Chemistry, ACS Earth Sp. Chem., 2, 72–86,
+https://doi.org/10.1021/acsearthspacechem.7b00070, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.5194/acp-9-1339-2009</doi>
+              <unstructured_citation>Pierce, J. R. and Adams, P. J.: Uncertainty in global CCN concentrations from uncertain aerosol nucleation and primary emission rates,
+Atmos. Chem. Phys., 9, 1339–1356, https://doi.org/10.5194/acp-9-1339-2009, 2009a. </unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1080/02786820802587896</doi>
+              <unstructured_citation>Pierce, J. R. and Adams, P. J.: A Computationally Efficient Aerosol
+Nucleation/ Condensation Method: Pseudo-Steady-State Sulfuric Acid, Aerosol
+Sci. Technol., 43, 216–226, https://doi.org/10.1080/02786820802587896, 2009b. </unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.5194/acp-11-9019-2011</doi>
+              <unstructured_citation>Pierce, J. R., Riipinen, I., Kulmala, M., Ehn, M., Petäjä, T., Junninen, H., Worsnop, D. R., and Donahue, N. M.: Quantification of the v
+olatility of secondary organic compounds in ultrafine particles during nucleation events, Atmos. Chem. Phys., 11, 9019–9036,
+https://doi.org/10.5194/acp-11-9019-2011, 20011. </unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.3390/atmos4020072</doi>
+              <unstructured_citation>Pillai, P., Khlystov, A., Walker, J., and Aneja, V.: Observation and Analysis
+of Particle Nucleation at a Forest Site in Southeastern US, Atmos., 4,
+72–93, https://doi.org/10.3390/atmos4020072, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Pinder, R. W., Adams, P. J., and Pandis, S. N.: Ammonia emission controls as
+a cost-effective strategy for reducing atmospheric particulate matter in the
+eastern United States, Environ. Sci. Technol., 41, 380–386, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.5194/acp-7-2199-2007</doi>
+              <unstructured_citation>Pun, B. K. and Seigneur, C.: Investigative modeling of new pathways for secondary organic aerosol formation, Atmos. Chem. Phys.,
+7, 2199–2216, https://doi.org/10.5194/acp-7-2199-2007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.1126/science.1243527</doi>
+              <unstructured_citation>Riccobono, F., Schobesberger, S., Scott, C. E., Dommen, J., Ortega, I. K.,
+Rondo, L., Almeida, J., Amorim, A., Bianchi, F.,&amp;lt;span id=&amp;quot;page12459&amp;quot;/&amp;gt; Breitenlechner, M., David,
+A., Downard, A., Dunne, E. M., Duplissy, J., Ehrhart, S., Flagan, R. C.,
+Franchin, A., Hansel, A., Junninen, H., Kajos, M., Keskinen, H., Kupc, A.,
+Kurten, A., Kvashin, A. N., Laaksonen, A., Lehtipalo, K., Makhmutov, V.,
+Mathot, S., Nieminen, T., Onnela, A., Petaja, T., Praplan, A. P., Santos, F.
+D., Schallhart, S., Seinfeld, J. H., Sipila, M., Spracklen, D. V., Stozhkov,
+Y., Stratmann, F., Tome, A., Tsagkogeorgas, G., Vaattovaara, P., Viisanen,
+Y., Vrtala, A., Wagner, P. E., Weingartner, E., Wex, H., Wimmer, D.,
+Carslaw, K. S., Curtius, J., Donahue, N. M., Kirkby, J., Kulmala, M.,
+Worsnop, D. R., and Baltensperger, U.: Oxidation Products of Biogenic
+Emissions Contribute to Nucleation of Atmospheric Particles, Science, 344, 717–721, https://doi.org/10.1126/science.1243527, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.5194/acp-7-1899-2007</doi>
+              <unstructured_citation>Riipinen, I., Sihto, S.-L., Kulmala, M., Arnold, F., Dal Maso, M., Birmili, W., Saarnio, K., Teinilä, K., Kerminen, V.-M., Laaksonen, A., and
+Lehtinen, K. E. J.: Connections between atmospheric sulphuric acid and new particle formation during QUEST III–IV campaigns in Heidelberg
+and Hyytiälä, Atmos. Chem. Phys., 7, 1899–1914, https://doi.org/10.5194/acp-7-1899-2007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.5194/acp-11-3865-2011</doi>
+              <unstructured_citation>Riipinen, I., Pierce, J. R., Yli-Juuti, T., Nieminen, T., Häkkinen, S., Ehn, M., Junninen, H., Lehtipalo, K., Petäjä, T., Slowik, J., Chang, R.,
+Shantz, N. C., Abbatt, J., Leaitch, W. R., Kerminen, V.-M., Worsnop, D. R., Pandis, S. N., Donahue, N. M., and Kulmala, M.: Organic condensation:
+a vital link connecting aerosol formation to cloud condensation nuclei (CCN) concentrations, Atmos. Chem. Phys., 11, 3865–3878,
+https://doi.org/10.5194/acp-11-3865-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Rosenfeld, D., Lohmann, U., Raga, G. B., O'Dowd, C. D., Kulmala, M., Fuzzi,
+S., Reissell, A., and Andreae, M. O.: Flood or Drought: How Do Aerosols
+Affect Precipitation?, Science, 312, 1309–1313, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <unstructured_citation>Seinfeld, J. H. and Pandis, S. N.: Atmospheric Chemistry and Physics, 2nd
+ed., John Wiley and Sons, New York, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.1029/2012GL054008</doi>
+              <unstructured_citation>Shiraiwa, M. and Seinfeld, J. H.: Equilibration timescale of atmospheric
+secondary organic aerosol partitioning, Geophys. Res. Lett., 39, 1–6,
+https://doi.org/10.1029/2012GL054008, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1073/pnas.1103045108</doi>
+              <unstructured_citation>Shiraiwa, M., Ammann, M., Koop, T., and Pöschl, U.: Gas uptake and chemical
+aging of semisolid organic aerosol particles, P. Natl. Acad. Sci. USA,
+108, 11003–11008, https://doi.org/10.1073/pnas.1103045108, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.1002/jgrd.50160</doi>
+              <unstructured_citation>Shrivastava, M., Zelenyuk, A., Imre, D., Easter, R., Beranek, J., Zaveri, R.
+A., and Fast, J.: Implications of low volatility SOA and gas-phase
+fragmentation reactions on SOA loadings and their spatial and temporal
+evolution in the atmosphere, J. Geophys. Res.-Atmos., 118, 3328–3342,
+https://doi.org/10.1002/jgrd.50160, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.1002/2014JD022563</doi>
+              <unstructured_citation>Shrivastava, M. K., Easter, R. C., Liu, X., Zelenyuk, A., Singh, B., Zhang,
+Kai, Ma, P.-L., Chand, D., Ghan, S. J., Jimenez, J.-L., Zhang, Q., Fast, J.
+D., Rasch, P., and Tiitta, P.: Global transformation and fate of SOA:
+Implications of low-volatility SOA and gas-phase fragmentation reactions,
+J. Geophys. Res.-Atmos., 120, 4169–4195, https://doi.org/10.1002/2014JD022563, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1002/2015MS000554</doi>
+              <unstructured_citation>Shrivastava, M. Zhao, C., Easter, R., C., Qian, Y., Zelenyuk, A., Fast, J., Liu, Y., Zhang, Q., and Guenther, A.: Sensitivity analysis
+of simulated SOA loadings using a variance?based statistical approach, J. Adv. Model. Earth Syst., 8, 499–519, https://doi.org/10.1002/2015MS000554, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.1002/2016RG000540</doi>
+              <unstructured_citation>Shrivastava, M., Cappa, C. D., Fan, J., Goldstein, A. H., Guenther, A. B.,
+Jimenez, J. L., Kuang, C., Laskin, A., Martin, S. T., Ng, N. L., Petaja, T.,
+Pierce, J. R., Rasch, P. J., Roldin, P., Seinfeld, J. H., Shilling, J.,
+Smith, J. N., Thornton, J. A., Volkamer, R., Wang, J., Worsnop, D. R.,
+Zaveri, R. A., Zelenyuk, A., and Zhang, Q.: Recent advances in understanding
+secondary organic aerosol: Implications for global climate forcing, Rev.
+Geophys., 55, 509–559, https://doi.org/10.1002/2016RG000540, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <doi provider="crossref">10.5194/acp-6-4079-2006</doi>
+              <unstructured_citation>Sihto, S.-L., Kulmala, M., Kerminen, V.-M., Dal Maso, M., Petäjä, T., Riipinen, I., Korhonen, H., Arnold, F., Janson, R., Boy, M., Laaksonen, A.,
+and Lehtinen, K. E. J.: Atmospheric sulphuric acid and aerosol formation: implications from atmospheric measurements for nucleation
+and early growth mechanisms, Atmos. Chem. Phys., 6, 4079–4091, https://doi.org/10.5194/acp-6-4079-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.1039/c3cp44695f</doi>
+              <unstructured_citation>Slade, J. H. and Knopf, D. A.: Heterogeneous OH oxidation of biomass burning
+organic aerosol surrogate compounds: assessment of volatilisation products
+and the role of OH concentration on the reactive uptake kinetics, Phys.
+Chem. Chem. Phys., 15, 5898–5915, https://doi.org/10.1039/c3cp44695f, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.5194/acp-6-5631-2006</doi>
+              <unstructured_citation>Spracklen, D. V., Carslaw, K. S., Kulmala, M., Kerminen, V.-M., Mann, G. W., and Sihto, S.-L.: The contribution of boundary layer
+nucleation events to total particle concentrations on regional and global scales, Atmos. Chem. Phys., 6, 5631–5648,
+https://doi.org/10.5194/acp-6-5631-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1029/2007GL033038</doi>
+              <unstructured_citation>Spracklen, D. V., Carslaw, K. S., Kulmala, M., Kerminen, V.-M., Sihto,
+S.-L., Riipinen, I., Merikanto, J., Mann, G. W., Chipperfield, M. P.,
+Wiedensohler, A., Birmili, W., and Lihavainen, H.: Contribution of particle
+formation to global cloud condensation nuclei concentrations, Geophys. Res.
+Lett., 35, L06808, https://doi.org/10.1029/2007GL033038, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.5194/acp-10-4775-2010</doi>
+              <unstructured_citation>Spracklen, D. V., Carslaw, K. S., Merikanto, J., Mann, G. W., Reddington, C. L., Pickering, S., Ogren, J. A., Andrews, E., Baltensperger, U.,
+Weingartner, E., Boy, M., Kulmala, M., Laakso, L., Lihavainen, H., Kivekäs, N., Komppula, M., Mihalopoulos, N., Kouvarakis, G., Jennings, S. G.,
+O'Dowd, C., Birmili, W., Wiedensohler, A., Weller, R., Gras, J., Laj, P., Sellegri, K., Bonn, B., Krejci, R., Laaksonen, A., Hamed, A.,
+Minikin, A., Harrison, R. M., Talbot, R., and Sun, J.: Explaining global surface aerosol number concentrations in terms of primary
+emissions and particle formation, Atmos. Chem. Phys., 10, 4775–4793, https://doi.org/10.5194/acp-10-4775-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.1021/acs.est.7b00160</doi>
+              <unstructured_citation>Stark, H., Yatavelli, R. L. N., Thompson, S. L., Kang, H., Krechmer, J. E.,
+Kimmel, J. R., Palm, B. B., Hu, W., Hayes, P. L., Day, D. A.,
+Campuzano-Jost, P., Canagaratna, M. R., Jayne, J. T., Worsnop, D. R., and
+Jimenez, J. L.: Impact of Thermal Decomposition on Thermal Desorption
+Instruments: Advantage of Thermogram Analysis for Quantifying Volatility
+Distributions of Organic Species, Environ. Sci. Technol., 51,
+8491–8500, https://doi.org/10.1021/acs.est.7b00160, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <doi provider="crossref">10.1021/es502239v</doi>
+              <unstructured_citation>Tkacik, D. S., Lambe, A. T., Jathar, S., Li, X., Presto, A. A., Zhao, Y.,
+Blake, D., Meinardi, S., Jayne, J. T., Croteau, P. L., and Robinson, A. L.:
+Secondary Organic Aerosol Formation from in-Use Motor Vehicle Emissions
+Using a Potential Aerosol Mass Reactor, Environ. Sci. Technol., 48,
+11235–11242, https://doi.org/10.1021/es502239v, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <doi provider="crossref">10.5194/acp-10-525-2010</doi>
+              <unstructured_citation>Tsimpidi, A. P., Karydis, V. A., Zavala, M., Lei, W., Molina, L., Ulbrich, I. M., Jimenez, J. L., and Pandis, S. N.: Evaluation of the
+volatility basis-set approach for the simulation of organic aerosol formation in the Mexico City metropolitan area,
+Atmos. Chem. Phys., 10, 525–546, https://doi.org/10.5194/acp-10-525-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <doi provider="crossref">10.1073/pnas.1013391108</doi>
+              <unstructured_citation>Vaden, T. D., Imre, D., Beranek, J., Shrivastava, M., and Zelenyuk, A.:
+Evaporation kinetics and phase of laboratory and ambient secondary organic
+aerosol, P. Natl. Acad. Sci. USA, 108, 2190–2195,
+https://doi.org/10.1073/pnas.1013391108, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <doi provider="crossref">10.5194/acp-6-4403-2006</doi>
+              <unstructured_citation>VanReken, T. M., Greenberg, J. P., Harley, P. C., Guenther, A. B., and Smith, J. N.: Direct measurement of particle formation and
+growth from the oxidation of biogenic emissions, Atmos. Chem. Phys., 6, 4403–4413, https://doi.org/10.5194/acp-6-4403-2006, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <doi provider="crossref">10.1029/2002JD002184</doi>
+              <unstructured_citation>Vehkamaki, H., Kulmala, M., Napari, I., Lehtinen, K. E. J., Timmreck, C.,
+Noppel, M., and Laaksonen, A.: An improved parameterization for sulfuric
+acid-water nucleation rates for tropospheric and stratospheric conditions,
+J. Geophys. Res., 107, 4622, https://doi.org/10.1029/2002JD002184, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <doi provider="crossref">10.1038/nature09455</doi>
+              <unstructured_citation>Virtanen, A., Joutsensaari, J., Koop, T., Kannosto, J., Yli-Pirilä, P.,
+Leskinen, J., Mäkelä, J. M., Holopainen, J. K., Pöschl, U.,
+Kulmala, M., Worsnop, D. R., and Laaksonen, A.: An amorphous solid state of
+biogenic secondary organic aerosol particles, Nature, 467, 824–827,
+https://doi.org/10.1038/nature09455, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <doi provider="crossref">10.5194/acp-11-8759-2011</doi>
+              <unstructured_citation>Virtanen, A., Kannosto, J., Kuuluvainen, H., Arffman, A., Joutsensaari, J., Saukko, E., Hao, L., Yli-Pirilä, P., Tiitta, P., Holopainen, J. K.,
+Keskinen, J., Worsnop, D. R., Smith, J. N., and Laaksonen, A.: Bounce behavior of freshly nucleated biogenic secondary organic aerosol
+particles, Atmos. Chem. Phys., 11, 8759–8766, https://doi.org/10.5194/acp-11-8759-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <doi provider="crossref">10.1038/nature19819</doi>
+              <unstructured_citation>Wang, J., Artaxo, P., and Brito, J.: Amazon boundary layer aerosol
+concentration sustained by vertical transport during rainfall, Nature,
+539, 416–419, https://doi.org/10.1038/nature19819, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <doi provider="crossref">10.5194/acp-14-5577-2014</doi>
+              <unstructured_citation>Westervelt, D. M., Pierce, J. R., and Adams, P. J.: Analysis of feedbacks between nucleation rate, survival probability and
+cloud condensation nuclei formation, Atmos. Chem. Phys., 14, 5577–5597, https://doi.org/10.5194/acp-14-5577-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <doi provider="crossref">10.1039/C1CP22716E</doi>
+              <unstructured_citation>Wilson, K. R., Smith, J. D., Kessler, S. H., and Kroll, J. H.: The
+statistical evolution of multiple generations of oxidation products in the
+photochemical aging of chemically reduced organic aerosol, Phys. Chem. Chem.
+Phys., 14, 1468–1479, https://doi.org/10.1039/C1CP22716E, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref120">
+              <doi provider="crossref">10.5194/acp-14-1527-2014</doi>
+              <unstructured_citation>Yatavelli, R. L. N., Stark, H., Thompson, S. L., Kimmel, J. R., Cubison, M. J., Day, D. A., Campuzano-Jost, P., Palm, B. B., Hodzic, A.,
+Thornton, J. A., Jayne, J. T., Worsnop, D. R., and Jimenez, J. L.: Semicontinuous measurements of gas-particle partitioning of organic
+acids in a ponderosa pine forest using a MOVI-HRToF-CIMS, Atmos. Chem. Phys., 14, 1527–1546, https://doi.org/10.5194/acp-14-1527-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref121">
+              <doi provider="crossref">10.5194/acp-6-5193-2006</doi>
+              <unstructured_citation>Yu, F.: From molecular clusters to nanoparticles: second-generation ion-mediated nucleation model,
+Atmos. Chem. Phys., 6, 5193–5211, https://doi.org/10.5194/acp-6-5193-2006, 2006.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref122">
+              <doi provider="crossref">10.5194/acp-15-13993-2015</doi>
+              <unstructured_citation>Yu, F., Luo, G., Pryor, S. C., Pillai, P. R., Lee, S. H., Ortega, J., Schwab, J. J., Hallar, A. G., Leaitch, W. R., Aneja, V. P., Smith, J. N.,
+Walker, J. T., Hogrefe, O., and Demerjian, K. L.: Spring and summer contrast in new particle formation over nine forest areas in North
+America, Atmos. Chem. Phys., 15, 13993–14003, https://doi.org/10.5194/acp-15-13993-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref123">
+              <doi provider="crossref">10.5194/acp-17-4997-2017</doi>
+              <unstructured_citation>Yu, F., Luo, G., Nadykto, A. B., and Herb, J.: Impact of temperature
+dependence on the possible contribution of organics to new particle formation
+in the atmosphere, Atmos. Chem. Phys., 17, 4997–5005,
+https://doi.org/10.5194/acp-17-4997-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref124">
+              <doi provider="crossref">10.1029/2005JD005968</doi>
+              <unstructured_citation>Yu, F. Q.: Effect of ammonia on new particle formation: A
+kinetic H2SO4-H2O-NH3 nucleation model constrained by laboratory
+measurements, J. Geophys. Res., 111, D01204, https://doi.org/10.1029/2005JD005968,
+2006. </unstructured_citation>
+            </citation>
+            <citation key="ref125">
+              <doi provider="crossref">10.5194/acp-14-5153-2014</doi>
+              <unstructured_citation>Zaveri, R. A., Easter, R. C., Shilling, J. E., and Seinfeld, J. H.: Modeling kinetic partitioning of secondary organic aerosol and size
+distribution dynamics: representing effects of volatility, phase state, and particle-phase reaction, Atmos. Chem. Phys., 14, 5153–5181,
+https://doi.org/10.5194/acp-14-5153-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref126">
+              <doi provider="crossref">10.1021/acs.est.7b04623</doi>
+              <unstructured_citation>Zaveri, R. A., Shilling, J. E., Zelenyuk, A., Liu, J., Bell, D. M., D'Ambro,
+E. L., Gaston, C. J., Thornton, J. A., Laskin, A., Lin, P., Wilson, J.,
+Easter, R. C., Wang, J., Bertram, A. K., Martin, S. T., Seinfeld, J. H., and
+Worsnop, D. R.: Growth Kinetics and Size Distribution Dynamics of Viscous
+Secondary Organic Aerosol, Environ. Sci. Technol.,
+52, 1191–1199, https://doi.org/10.1021/acs.est.7b04623, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref127">
+              <doi provider="crossref">10.1126/science.1095139</doi>
+              <unstructured_citation>Zhang, R., Suh, I., Zhao, J., Zhang, D., Fortner, E. C., Tie, X., Molina, L.
+T., and Molina, M. J.: Atmospheric New Particle Formation Enhanced by Organic
+Acids, Science, 304, 1487–1490, https://doi.org/10.1126/science.1095139, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref128">
+              <unstructured_citation>Zhang, Q., Jimenez, J. L., Canagaratna, M. R., Allan, J. D., Coe, H.,
+Ulbrich, I., Alfarra, M. R., Takami, A., Middlebrook, A. M., Sun, Y. L.,
+Dzepina, K., Dunlea, E., Docherty, K., De- Carlo, P. F., Salcedo, D.,
+Onasch, T., Jayne, J. T., Miyoshi, T., Shimono, A., Hatakeyama, S.,
+Takegawa, N., Kondo, Y., Schneider, J., Drewnick, F., Borrmann, S., Weimer,
+S., Demerjian, K., Williams, P., Bower, K., Bahreini, R., Cottrell, L.,
+Griffin, R. J., Rautiainen, J., Sun, J. Y., Zhang, Y. M., and Worsnop, D.
+R.: Ubiquity and dominance of oxygenated species in organic aerosols in
+anthropogenically-influenced Northern Hemisphere midlatitudes, Geophys. Res.
+Lett., 34, L13801, https://doi.org/10.1029/2007GL029979, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref129">
+              <doi provider="crossref">10.1080/02786826.2012.679344</doi>
+              <unstructured_citation>Zhang, X., Pandis, S. N., and Seinfeld, J. H.: Diffusion-Limited Versus
+Quasi-Equilibrium Aerosol Growth, Aerosol Sci. Technol., 46, 874–885,
+https://doi.org/10.1080/02786826.2012.679344, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref130">
+              <doi provider="crossref">10.1073/pnas.1404727111</doi>
+              <unstructured_citation>Zhang, X., Cappa, C. D., Jathar, S. H., McVay, R. C., Ensberg, J. J.,
+Kleeman, M. J., and Seinfeld, J. H.: Influence of vapor wall loss in
+laboratory chambers on yields of secondary organic aerosol, P. Natl.
+Acad. Sci. USA, 111, 5802–5807, https://doi.org/10.1073/pnas.1404727111, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref131">
+              <doi provider="crossref">10.1039/c2cs35122f</doi>
+              <unstructured_citation>Ziemann, P. J. and Atkinson, R.: Kinetics, products, and mechanisms of
+secondary organic aerosol formation, Chem. Soc. Rev., 41, 6582,
+https://doi.org/10.1039/c2cs35122f, 2012. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/acp-18-12433-2018-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/18/12433/2018/acp-18-12433-2018-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The PMIP4 contribution to CMIP6 –  Part 2: Two interglacials, scientific objective and experimental design for Holocene and  Last Interglacial simulations</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Bette L.</given_name>
+              <surname>Otto-Bliesner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pascale</given_name>
+              <surname>Braconnot</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sandy P.</given_name>
+              <surname>Harrison</surname>
+              <ORCID>https://orcid.org/0000-0001-5687-1903</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel J.</given_name>
+              <surname>Lunt</surname>
+              <ORCID>https://orcid.org/0000-0003-3585-6928</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ayako</given_name>
+              <surname>Abe-Ouchi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Samuel</given_name>
+              <surname>Albani</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Patrick J.</given_name>
+              <surname>Bartlein</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Emilie</given_name>
+              <surname>Capron</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Anders E.</given_name>
+              <surname>Carlson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrea</given_name>
+              <surname>Dutton</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hubertus</given_name>
+              <surname>Fischer</surname>
+              <ORCID>https://orcid.org/0000-0002-2787-4221</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Heiko</given_name>
+              <surname>Goelzer</surname>
+              <ORCID>https://orcid.org/0000-0002-5878-9599</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Aline</given_name>
+              <surname>Govin</surname>
+              <ORCID>https://orcid.org/0000-0001-8512-5571</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alan</given_name>
+              <surname>Haywood</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Fortunat</given_name>
+              <surname>Joos</surname>
+              <ORCID>https://orcid.org/0000-0002-9483-6030</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Allegra N.</given_name>
+              <surname>LeGrande</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>William H.</given_name>
+              <surname>Lipscomb</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gerrit</given_name>
+              <surname>Lohmann</surname>
+              <ORCID>https://orcid.org/0000-0003-2089-733X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Natalie</given_name>
+              <surname>Mahowald</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christoph</given_name>
+              <surname>Nehrbass-Ahles</surname>
+              <ORCID>https://orcid.org/0000-0002-4009-4633</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Francesco S. R.</given_name>
+              <surname>Pausata</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jean-Yves</given_name>
+              <surname>Peterschmitt</surname>
+              <ORCID>https://orcid.org/0000-0003-3486-3157</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Steven J.</given_name>
+              <surname>Phipps</surname>
+              <ORCID>https://orcid.org/0000-0001-5657-8782</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hans</given_name>
+              <surname>Renssen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Qiong</given_name>
+              <surname>Zhang</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Two interglacial epochs are included in the suite of Paleoclimate Modeling Intercomparison Project (PMIP4) simulations in the Coupled Model Intercomparison Project (CMIP6). The experimental protocols for simulations of the mid-Holocene (<i>midHolocene</i>, 6000 years before present) and the Last Interglacial (<i>lig127k</i>, 127<span class="thinspace"></span>000 years before present) are described here. These equilibrium simulations are designed to examine the impact of changes in orbital forcing at times when atmospheric greenhouse gas levels were similar to those of the preindustrial period and the continental configurations were almost identical to modern ones. These simulations test our understanding of the interplay between radiative forcing and atmospheric circulation, and the connections among large-scale and regional climate changes giving rise to phenomena such as land–sea contrast and high-latitude amplification in temperature changes, and responses of the monsoons, as compared to today. They also provide an opportunity, through carefully designed additional sensitivity experiments, to quantify the strength of atmosphere, ocean, cryosphere, and land-surface feedbacks. Sensitivity experiments are proposed to investigate the role of freshwater forcing in triggering abrupt climate changes within interglacial epochs. These feedback experiments naturally lead to a focus on climate evolution during interglacial periods, which will be examined through transient experiments. Analyses of the sensitivity simulations will also focus on interactions between extratropical and tropical circulation, and the relationship between changes in mean climate state and climate variability on annual to multi-decadal timescales. The comparative abundance of paleoenvironmental data and of quantitative climate reconstructions for the Holocene and Last Interglacial make these two epochs ideal candidates for systematic evaluation of model performance, and such comparisons will shed new light on the importance of external feedbacks (e.g., vegetation, dust) and the ability of state-of-the-art models to simulate climate changes realistically.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>07</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>3979</first_page>
+            <last_page>4003</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-10-3979-2017</doi>
+            <resource>https://www.geosci-model-dev.net/10/3979/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/10/3979/2017/gmd-10-3979-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Albani, S., Mahowald, N. M., Winckler, G., Anderson, R. F., Bradtmiller, L. I., Delmonte, B., François, R., Goman, M., Heavens, N. G., Hesse, P. P., Hovan, S. A., Kang, S. G., Kohfeld, K. E., Lu, H., Maggi, V., Mason, J. A., Mayewski, P. A., McGee, D., Miao, X., Otto-Bliesner, B. L., Perry, A. T., Pourmand, A., Roberts, H. M., Rosenbloom, N., Stevens, T., and Sun, J.: Twelve thousand years of dust: the Holocene global dust cycle constrained by natural archives, Clim. Past, 11, 869–903, https://doi.org/10.5194/cp-11-869-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Albani, S., Mahowald, N. M., Murphy, L. N., Raiswell, R., Moore, J. K., Anderson, R. F., McGee, D., Bradtmiller, L. I., Delmonte, B., Hesse, P. P., and Mayewski, P. A.: Paleodust variability since the Last Glacial Maximum and implications for iron inputs to the ocean, Geophys. Res. Lett., 43, 3944–3954, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Anderson, P., Bermike, O., Bigelow, N., Brigham-Grette, J., Duvall, M., Edwards, M., Frechette, B., Funder, S., Johnsen, S., Knies, J., Koerner, R., Lozhkin, A., Marshall, S., Matthiessen, J., Macdonald, G., Miller, G., Montoya, M., Muhs, D., Otto-Bliesner, B., Overpeck, J., Reeh, N., Sejrup, H. P., Spielhagen, R., Turner, C., Velichko, A., and Mem, C. A.-L. I. P.: Last Interglacial Arctic warmth confirms polar amplification of climate change, Quaternary Sci. Rev., 25, 1383–1400, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Andrews, J. T., Keigwin, L., Hall, F., and Jennings, A. E.: Abrupt deglaciation events and holocene palaeoceanography from high-resolution cores, Cartwright Saddle, Labrador Shelf, Canada, J. Quaternary Sci., 14, 383–397, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Andrews, J. T., MacLean, B., Kerwin, M., Manley, W., Jennings, A. E., and Hall, F.: Final stages in the collapse of the Laurentide Ice Sheet, Hudson Strait, Canada, NWT: C-14 AMS dates, seismic stratigraphy, and magnetic susceptibility logs, Quaternary Sci. Rev., 14, 983–1004, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Bakker, P., Stone, E. J., Charbit, S., Gröger, M., Krebs-Kanzow, U., Ritz, S. P., Varma, V., Khon, V., Lunt, D. J., Mikolajewicz, U., Prange, M., Renssen, H., Schneider, B., and Schulz, M.: Last interglacial temperature evolution – a model inter-comparison, Clim. Past, 9, 605–619, https://doi.org/10.5194/cp-9-605-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Barber, D. C., Dyke, A., Hillaire-Marcel, C., Jennings, A. E., Andrews, J. T., Kerwin, M. W., Bilodeau, G., McNeely, R., Southon, J., Morehead, M. D., and Gagnon, J. M.: Forcing of the cold event of 8,200 years ago by catastrophic drainage of Laurentide lakes, Nature, 400, 344–348, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Bartlein, P. J., Harrison, S. P., Brewer, S., Connor, S., Davis, B. A. S., Gajewski, K., Guiot, J., Harrison-Prentice, T. I., Henderson, A., Peyron, O., Prentice, I. C., Scholze, M., Seppa, H., Shuman, B., Sugita, S., Thompson, R. S., Viau, A. E., Williams, J., and Wu, H.: Pollen-based continental climate reconstructions at 6 and 21 ka: a global synthesis, Clim. Dynam., 37, 775–802, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Bauch, H. A.: Interglacial climates and the Atlantic meridional overturning circulation: is there an Arctic controversy?, Quaternary Sci. Rev., 63, 1–22, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Bauch, H. A. and Erlenkeuser, H.: A “critical” climatic evaluation of last interglacial (MIS 5e) records from the Norwegian Sea, Polar Res., 27, 135–151, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Bazin, L., Landais, A., Lemieux-Dudon, B., Toyé Mahamadou Kele, H., Veres, D., Parrenin, F., Martinerie, P., Ritz, C., Capron, E., Lipenkov, V., Loutre, M.-F., Raynaud, D., Vinther, B., Svensson, A., Rasmussen, S. O., Severi, M., Blunier, T., Leuenberger, M., Fischer, H., Masson-Delmotte, V., Chappellaz, J., and Wolff, E.: An optimized multi-proxy, multi-site Antarctic ice and gas orbital chronology (AICC2012): 120–800 ka, Clim. Past, 9, 1715–1731, https://doi.org/10.5194/cp-9-1715-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Bennike, O., Bolshiyanov, D., Dowdeswell, J., Elverhoi, A., Geirsdottir, A., Hicks, S., Hubberton, H., Ingolfsson, O., Miller, G., and Members, C. P.: Holocene paleoclimate data from the Arctic: testing models of global climate change, Quaternary Sci. Rev., 20, 1275–1287, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Bereiter, B., Eggleston, S., Schmitt, J., Nehrbass-Ahles, C., Stocker, T. F., Fischer, H., Kipfstuhl, S., and Chappellaz, J.: Revision of the EPICA Dome C CO2 record from 800 to 600 kyr before present, Geophys. Res. Lett., 42, 542–549, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Berger, A. L.: Long-term variations of caloric insolation resulting from the earth's orbital elements, Quaternary Res., 9, 139–167, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Berger, A. and Loutre, M. F.: insolation values for the climate of the last 10 000 000 years, Quaternary Sci. Rev., 10, 297–317, https://doi.org/10.1016/0277-3791(91)90033-q, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Bigelow, N. H., Brubaker, L. B., Edwards, M. E., Harrison, S. P., Prentice, I. C., Anderson, P. M., Andreev, A. A., Bartlein, P. J., Christensen, T. R., Cramer, W., Kaplan, J. O., Lozhkin, A. V., Matveyeva, N. V., Murray, D. F., McGuire, A. D., Razzhivin, V. Y., Ritchie, J. C., Smith, B., Walker, D. A., Gajewski, K., Wolf, V., Holmqvist, B. H., Igarashi, Y., Kremenetskii, K., Paus, A., Pisaric, M. F. J., and Volkova, V. S.: Climate change and Arctic ecosystems: 1. Vegetation changes north of 55° N between the last glacial maximum, mid-Holocene, and present, J. Geophys. Res., 108, 8170, https://doi.org/10.1029/2002JD002558, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Binney, H., Edwards, M., Macias-Fauria, M., Lozhkin, A., Anderson, P., Kaplan, J. O., Andreev, A., Bezrukova, E., Blyakharchuk, T., Jankovska, V., Khazina, I., Krivonogov, S., Kremenetski, K., Nield, J., Novenko, E., Ryabogina, N., Solovieva, N., Willis, K., and Zernitskaya, V.: Vegetation of Eurasia from the last glacial maximum to present: Key biogeographic patterns, Quaternary Sci. Rev., 157, 80–97, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Blaschek, M., Bakker, P., and Renssen, H.: The influence of Greenland ice sheet melting on the Atlantic meridional overturning circulation during past and future warm periods: a model study, Clim. Dynam., 44, 2137–2157, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Blunier, T., Chappellaz, J., Schwander, J., Stauffer, B., and Raynaud, D.: Variations in atmospheric methane concentration during the Holocene epoch, Nature, 374, 46–49, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Braconnot, P., Joussaume, S., Marti, O., and de Noblet, N.: Synergistic feedbacks from ocean and vegetation on the African monsoon response to mid-Holocene insolation, Geophys. Res. Lett., 26, 2481–2484, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Braconnot, P., Otto-Bliesner, B., Harrison, S., Joussaume, S., Peterchmitt, J.-Y., Abe-Ouchi, A., Crucifix, M., Driesschaert, E., Fichefet, Th., Hewitt, C. D., Kageyama, M., Kitoh, A., Loutre, M.-F., Marti, O., Merkel, U., Ramstein, G., Valdes, P., Weber, L., Yu, Y., and Zhao, Y.: Results of PMIP2 coupled simulations of the Mid-Holocene and Last Glacial Maximum – Part 2: feedbacks with emphasis on the location of the ITCZ and mid- and high latitudes heat budget, Clim. Past, 3, 279–296, https://doi.org/10.5194/cp-3-279-2007, 2007a.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Braconnot, P., Otto-Bliesner, B., Harrison, S., Joussaume, S., Peterchmitt, J.-Y., Abe-Ouchi, A., Crucifix, M., Driesschaert, E., Fichefet, Th., Hewitt, C. D., Kageyama, M., Kitoh, A., Laîné, A., Loutre, M.-F., Marti, O., Merkel, U., Ramstein, G., Valdes, P., Weber, S. L., Yu, Y., and Zhao, Y.: Results of PMIP2 coupled simulations of the Mid-Holocene and Last Glacial Maximum – Part 1: experiments and large-scale features, Clim. Past, 3, 261–277, https://doi.org/10.5194/cp-3-261-2007, 2007b.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Braconnot, P., Marzin, C., Grégoire, L., Mosquet, E., and Marti, O.: Monsoon response to changes in Earth's orbital parameters: comparisons between simulations of the Eemian and of the Holocene, Clim. Past, 4, 281–294, https://doi.org/10.5194/cp-4-281-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Braconnot, P., Harrison, S. P., Kageyama, M., Bartlein, P. J., Masson-Delmotte, V., Abe-Ouchi, A., Otto-Bliesner, B., and Zhao, Y.: Evaluation of climate models using palaeoclimatic data, Nature Climate Change, 2, 417–424, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Brewer, S., Guiot, J., Sanchez-Goni, M. F., and Klotz, S.: The climate in Europe during the Eemian: a multi-method approach using pollen data, Quaternary Sci. Rev., 27, 2303–2315, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Brook, E. J.: Methane Measurements from the GISP2 and Siple Dome Ice Cores, National Snow and Ice Data Center, Boulder, CO, USA, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Bruno, M. and Joos, F.: Terrestrial carbon storage during the past 200 years: A Monte Carlo analysis of CO2 data from ice core and atmospheric measurements, Global Biogeochem. Cy., 11, 111–124, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Buiron, D., Chappellaz, J., Stenni, B., Frezzotti, M., Baumgartner, M., Capron, E., Landais, A., Lemieux-Dudon, B., Masson-Delmotte, V., Montagnat, M., Parrenin, F., and Schilt, A.: TALDICE-1 age scale of the Talos Dome deep ice core, East Antarctica, Clim. Past, 7, 1–16, https://doi.org/10.5194/cp-7-1-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Capron, E., Govin, A., Stone, E. J., Masson-Delmotte, V., Mulitza, S., Otto-Bliesner, B., Rasmussen, T. L., Sime, L. C., Waelbroeck, C., and Wolff, E. W.: Temporal and spatial structure of multi-millennial temperature changes at high latitudes during the Last Interglacial, Quaternary Sci. Rev., 103, 116–133, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Capron, E., Govin, A., Feng, R., Otto-Bliesner, B., and Wolff, E. W.: Critical evaluation of climate syntheses to benchmark CMIP6/PMIP4 127 ka Last Interglacial simulations in the high-latitude regions, Quaternary Sci. Rev., 168, 137–150, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Carlson, A. E.: Why there was not a Younger Dryas-like event during the Penultimate Deglaciation, Quaternary Sci. Rev., 27, 882–887, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Carlson, A. E. and Winsor, K.: Northern Hemisphere ice-sheet responses to past climate warming, Nat. Geosci., 5, 607–613, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Carlson, A. E., Stoner, J. S., Donnelly, J. P., and Hillaire-Marcel, C.: Response of the southern Greenland Ice Sheet during the last two deglaciations, Geology, 36, 359–362, 2008a.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Carlson, A. E., Legrande, A. N., Oppo, D. W., Came, R. E., Schmidt, G. A., Anslow, F. S., Licciardi, J. M., and Obbink, E. A.: Rapid early Holocene deglaciation of the Laurentide ice sheet, Nat. Geosci., 1, 620–624, 2008b.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Carlson, A. E., Clark, P. U., Haley, B. A., and Klinkhammer, G. P.: Routing of western Canadian Plains runoff during the 8.2 ka cold event, Geophys. Res. Lett., 36, L14704, https://doi.org/10.1029/2009GL038778, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Carlson, A. E., Winsor, K., Ullman, D. J., Brook, E. J., Rood, D. H., Axford, Y., LeGrande, A. N., Anslow, F. S., and Sinclair, G.: Earliest Holocene south Greenland ice sheet retreat within its late Holocene extent, Geophys. Res. Lett., 41, 5514–5521, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Carre, M., Sachs, J. P., Purca, S., Schauer, A. J., Braconnot, P., Falcon, R. A., Julien, M., and Lavallee, D.: Holocene history of ENSO variance and asymmetry in the eastern tropical Pacific, Science, 345, 1045–1048, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Castaneda, I. S., Mulitza, S., Schefuss, E., dos Santos, R. A. L., Damste, J. S. S., and Schouten, S.: Wet phases in the Sahara/Sahel region and human migration patterns in North Africa, P. Natl. Acad. Sci. USA, 106, 20159–20163, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Chappellaz, J., Blunier, T., Kints, S., Dallenbach, A., Barnola, J. M., Schwander, J., Raynaud, D., and Stauffer, B.: Changes in the atmospheric CH4 gradient between Greenland and Antarctica during the Holocene, J. Geophys. Res.-Atmos., 102, 15987–15997, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Clark, C. D., Knight, J. K., and Gray, J. T.: Geomorphological reconstruction of the Labrador Sector of the Laurentide Ice Sheet, Quaternary Sci. Rev., 19, 1343–1366, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Clark, P. U., Shakun, J. D., Baker, P. A., Bartlein, P. J., Brewer, S., Brook, E., Carlson, A. E., Cheng, H., Kaufman, D. S., Liu, Z. Y., Marchitto, T. M., Mix, A. C., Morrill, C., Otto-Bliesner, B. L., Pahnke, K., Russell, J. M., Whitlock, C., Adkins, J. F., Blois, J. L., Clark, J., Colman, S. M., Curry, W. B., Flower, B. P., He, F., Johnson, T. C., Lynch-Stieglitz, J., Markgraf, V., McManus, J., Mitrovica, J. X., Moreno, P. I., and Williams, J. W.: Global climate evolution during the last deglaciation, P. Natl. Acad. Sci. USA, 109, E1134–E1142, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Clarke, G. K. C., Leverington, D. W., Teller, J. T., and Dyke, A. S.: Paleohydraulics of the last outburst flood from glacial Lake Agassiz and the 8200 BP cold event, Quaternary Sci. Rev., 23, 389–407, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Clarke, G. K. C., Bush, A. B. G., and Bush, J. W. M.: Freshwater Discharge, Sediment Transport, and Modeled Climate Impacts of the Final Drainage of Glacial Lake Agassiz, J. Climate, 22, 2161–2180, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Claussen, M. and Gayler, V.: The greening of the Sahara during the mid-Holocene: results of an interactive atmosphere-biome model, Global Ecol. Biogeogr., 6, 369–377, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Coe, M. T. and Harrison, S. P.: The water balance of northern Africa during the mid-Holocene: an evaluation of the 6 ka BP PMIP experiments, Clim. Dynam., 19, 155–166, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>COHMAP Members: Climatic changes of the last 18,000 years: observations and model simulations, Science, 241, 1043–1052, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Collins, W. J., Lamarque, J.-F., Schulz, M., Boucher, O., Eyring, V., Hegglin, M. I., Maycock, A., Myhre, G., Prather, M., Shindell, D., and Smith, S. J.: AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6, Geosci. Model Dev., 10, 585–607, https://doi.org/10.5194/gmd-10-585-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Colville, E. J., Carlson, A. E., Beard, B. L., Hatfield, R. G., Stoner, J. S., Reyes, A. V., and Ullman, D. J.: Sr-Nd-Pb Isotope Evidence for Ice-Sheet Presence on Southern Greenland During the Last Interglacial, Science, 333, 620–623, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Cortese, G., Abelmann, A., and Gersonde, R.: The last five glacial-interglacial transitions: A high-resolution 450,000-year record from the subantarctic Atlantic, Paleoceanography, 22, PA4203, https://doi.org/10.1029/2007pa001457, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Dallmeyer, A., Claussen, M., and Otto, J.: Contribution of oceanic and vegetation feedbacks to Holocene climate change in monsoonal Asia, Clim. Past, 6, 195–218, https://doi.org/10.5194/cp-6-195-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Daniau, A. L., Bartlein, P. J., Harrison, S. P., Prentice, I. C., Brewer, S., Friedlingstein, P., Harrison-Prentice, T. I., Inoue, J., Izumi, K., Marlon, J. R., Mooney, S., Power, M. J., Stevenson, J., Tinner, W., Andric, M., Atanassova, J., Behling, H., Black, M., Blarquez, O., Brown, K. J., Carcaillet, C., Colhoun, E. A., Colombaroli, D., Davis, B. A. S., D'Costa, D., Dodson, J., Dupont, L., Eshetu, Z., Gavin, D. G., Genries, A., Haberle, S., Hallett, D. J., Hope, G., Horn, S. P., Kassa, T. G., Katamura, F., Kennedy, L. M., Kershaw, P., Krivonogov, S., Long, C., Magri, D., Marinova, E., McKenzie, G. M., Moreno, P. I., Moss, P., Neumann, F. H., Norstrom, E., Paitre, C., Rius, D., Roberts, N., Robinson, G. S., Sasaki, N., Scott, L., Takahara, H., Terwilliger, V., Thevenon, F., Turner, R., Valsecchi, V. G., Vanniere, B., Walsh, M., Williams, N., and Zhang, Y.: Predictability of biomass burning in response to climate changes, Global Biogeochem. Cy., 26, GB4007, https://doi.org/10.1029/2011GB004249, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Davis, B. A. S., Brewer, S., Stevenson, A. C., Guiot, J., and Data, C.: The temperature of Europe during the Holocene reconstructed from pollen data, Quaternary Sci. Rev., 22, 1701–1716, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Davis, B. A. S., Collins, P. M., and Kaplan, J. O.: The age and post-glacial development of the modern European vegetation: a plant functional approach based on pollen data, Veg. Hist. Archaeobot., 24, 303–317, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>DeConto, R. M. and Pollard, D.: Contribution of Antarctica to past and future sea-level rise, Nature, 531, 591–597, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>deMenocal, P., Ortiz, J., Guilderson, T., Adkins, J., Sarnthein, M., Baker, L., and Yarusinsky, M.: Abrupt onset and termination of the African Humid Period: rapid climate responses to gradual insolation forcing, Quaternary Sci. Rev., 19, 347–361, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Drake, N. A., Blench, R. M., Armitage, S. J., Bristow, C. S., and White, K. H.: Ancient watercourses and biogeography of the Sahara explain the peopling of the desert, P. Natl. Acad. Sci. USA, 108, 458–462, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Dufresne, J.-L., Foujols, M.-A., Denvil, S., Caubel, A., Marti, O., Aumont, O., Balkanski, Y., Bekki, S., Bellenger, H., Benshila, R., Bony, S., Bopp, L., Braconnot, P., Brockmann, P., Cadule, P., Cheruy, F., Codron, F., Cozic, A., Cugnet, D., de Noblet, N., Duvel, J.-P., Ethe, C., Fairhead, L., Fichefet, T., Flavoni, S., Friedlingstein, P., Grandpeix, J.-Y., Guez, L., Guilyardi, E., Hauglustaine, D., Hourdin, F., Idelkadi, A., Ghattas, J., Joussaume, S., Kageyama, M., Krinner, G., Labetoulle, S., Lahellec, A., Lefebvre, M.-P., Lefevre, F., Levy, C., Li, Z. X., Lloyd, J., Lott, F., Madec, G., Mancip, M., Marchand, M., Masson, S., Meurdesoif, Y., Mignot, J., Musat, I., Parouty, S., Polcher, J., Rio, C., Schulz, M., Swingedouw, D., Szopa, S., Talandier, C., Terray, P., Viovy, N., and Vuichard, N.: Climate change projections using the IPSL-CM5 Earth System Model: from CMIP3 to CMIP5, Clim. Dynam., 40, 2123–2165, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Dutton, A., Carlson, A. E., Long, A. J., Milne, G. A., Clark, P. U., DeConto, R., Horton, B. P., Rahmstorf, S., and Raymo, M. E.: Sea-level rise due to polar ice-sheet mass loss during past warm periods, Science, 349, https://doi.org/10.1126/science.aaa4019, 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Dutton, A., Webster, J. M., Zwartz, D., Lambeck, K., and Wohlfarth, B.: Tropical tales of polar ice: evidence of Last Interglacial polar ice sheet retreat recorded by fossil reefs of the granitic Seychelles islands, Quaternary Sci. Rev., 107, 182–196, 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Edwards, M. E., Hamilton, T. D., Elias, S. A., Bigelow, N. H., and Krumhardt, A. P.: Interglacial extension of the boreal forest limit in the Noatak Valley, northwest Alaska: Evidence from an exhumed river-cut bluff and debris apron, Arct. Antarct. Alp. Res., 35, 460–468, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Ellison, C. R. W., Chapman, M. R., and Hall, I. R.: Surface and deep ocean interactions during the cold climate event 8200 years ago, Science, 312, 1929–1932, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Emile-Geay, J. and Tingley, M.: Inferring climate variability from nonlinear proxies: application to palaeo-ENSO studies, Clim. Past, 12, 31–50, https://doi.org/10.5194/cp-12-31-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Emile-Geay, J., Cobb, K. M., Carre, M., Braconnot, P., Leloup, J., Zhou, Y., Harrison, S. P., Correge, T., McGregor, H. V., Collins, M., Driscoll, R., Elliot, M., Schneider, B., and Tudhope, A.: Links between tropical Pacific seasonal, interannual and orbital variability during the Holocene, Nat. Geosci., 9, 168–173, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Engelstaedter, S., Kohfeld, K. E., Tegen, I., and Harrison, S. P.: Controls of dust emissions by vegetation and topographic depressions: An evaluation using dust storm frequency data Geophys. Res. Lett., 30, 1294, https://doi.org/10.1029/2002GL016471, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Enting, I. G.: On the use of smoothing splines to filter CO2 data, J. Geophys. Res.-Atmos., 92, 10977–10984, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>EPICA Community Members: One-to-one coupling of glacial climate variability in Greenland and Antarctica, Nature, 444, 195–198, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Esper, O. and Gersonde, R.: New tools for the reconstruction of Pleistocene Antarctic sea ice, Palaeogeogr. Palaeocl., 399, 260–283, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Eyring, V., Bony, S., Meehl, G. A., Senior, C. A., Stevens, B., Stouffer, R. J., and Taylor, K. E.: Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization, Geosci. Model Dev., 9, 1937–1958, https://doi.org/10.5194/gmd-9-1937-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Fernández-Donado, L., González-Rouco, J. F., Raible, C. C., Ammann, C. M., Barriopedro, D., García-Bustamante, E., Jungclaus, J. H., Lorenz, S. J., Luterbacher, J., Phipps, S. J., Servonnat, J., Swingedouw, D., Tett, S. F. B., Wagner, S., Yiou, P., and Zorita, E.: Large-scale temperature response to external forcing in simulations and reconstructions of the last millennium, Clim. Past, 9, 393–421, https://doi.org/10.5194/cp-9-393-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Flantua, S. G. A., Hooghiemstra, H., Grimm, E. C., Behling, H., Bush, M. B., Gonzalez-Arango, C., Gosling, W. D., Ledru, M. P., Lozano-Garcia, S., Maldonado, A., Prieto, A. R., Rull, V., and Van Boxel, J. H.: Updated site compilation of the Latin American Pollen Database, Rev. Palaeobot. Palyno., 223, 104–115, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Flato, G., Marotzke, J., Abiodun, B., Braconnot, P., Chou, S. C., Collins, W., Cox, P., Driouech, F., Emori, S., Eyring, V., Forest, C., Gleckler, P., Guilyardi, E., Jakob, C., Kattsov, V., Reason, C., and Rummukainen, M.: Evaluation of Climate Models, in: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <unstructured_citation>Flückiger, J., Monnin, E., Stauffer, B., Schwander, J., Stocker, T. F., Chappellaz, J., Raynaud, D., and Barnola, J. M.: High-resolution Holocene N2O ice core record and its relationship with CH4 and CO2, Global Biogeochem. Cy., 16, https://doi.org/10.1029/2001gb001417, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Folland, C. K., Karl, T. R., and Vinnikov, K. Y.: Observed climate variations and change, in: Climate Change: The IPCC Scientific Assessment, edited by: Houghton, J. T., Jenkins, G. J., and Ephraums, J., 195–238, Cambridge Univ. Press, New York, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Folland, C. I., Karl, T. R., Christy, J. R., Clarke, R. A., Gruza, G. V., Jouzel, J., Mann, M. E., Oerlemans, J., Salinger, M. J., and Wang, S.-W.: Observed climate variability and change, in: Climate Change 2001: The scientific basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Houghton, J. T., Ding, Y., Griggs, D. J., Noguer, M., van der Linden, P. J., Dai, X., Maskell, K., and Johnson, C. A., Cambridge University Press, Cambridge, United Kingdom and New York, NY, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Gajewski, K.: Impact of Holocene climate variability on Arctic vegetation, Global Planet. Change, 133, 272–287, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <unstructured_citation>Goelzer, H., Huybrechts, P., Loutre, M.-F., and Fichefet, T.: Impact of ice sheet meltwater fluxes on the climate evolution at the onset of the Last Interglacial, Clim. Past, 12, 1721–1737, https://doi.org/10.5194/cp-12-1721-2016, 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Goelzer, H., Huybrechts, P., Loutre, M.-F., and Fichefet, T.: Last Interglacial climate and sea-level evolution from a coupled ice sheet–climate model, Clim. Past, 12, 2195–2213, https://doi.org/10.5194/cp-12-2195-2016, 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Goni, M. F. S., Loutre, M. F., Crucifx, M., Peyron, O., Santos, L., Duprat, J., Malaize, B., Turon, J. L., and Peypouquet, J. P.: Increasing vegetation and climate gradient in Western Europe over the Last Glacial Inception (122–110 ka): data-model comparison, Earth Planet. Sc. Lett., 231, 111–130, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Govin, A., Braconnot, P., Capron, E., Cortijo, E., Duplessy, J.-C., Jansen, E., Labeyrie, L., Landais, A., Marti, O., Michel, E., Mosquet, E., Risebrobakken, B., Swingedouw, D., and Waelbroeck, C.: Persistent influence of ice sheet melting on high northern latitude climate during the early Last Interglacial, Clim. Past, 8, 483–507, https://doi.org/10.5194/cp-8-483-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Govin, A., Varma, V., and Prange, M.: Astronomically forced variations in western African rainfall (21° N–20° S) during the Last Interglacial period, Geophys. Res. Lett., 41, 2117–2125, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Govin, A., Capron, E., Tzedakis, P. C., Verheyden, S., Ghaleb, B., Hillaire-Marcel, C., St-Onge, G., Stoner, J. S., Bassinot, F., Bazin, L., Blunier, T., Combourieu-Nebout, N., El Ouahabi, A., Genty, D., Gersonde, R., Jimenez-Amat, P., Landais, A., Martrat, B., Masson-Delmotte, V., Parrenin, F., Seidenkrantz, M.-S., Veres, D., Waelbroeck, C., and Zahn, R.: Sequence of events from the onset to the demise of the Last Interglacial: Evaluating strengths and limitations of chronologies used in climatic archives, Quaternary Sci. Rev., 129, 1–36, https://doi.org/10.1016/j.quascirev.2015.09.018, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Grant, K. M., Rohling, E. J., Bar-Matthews, M., Ayalon, A., Medina-Elizalde, M., Ramsey, C. B., Satow, C., and Roberts, A. P.: Rapid coupling between ice volume and polar temperature over the past 150,000 years, Nature, 491, 744–747, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Harrison, S. P. and Bartlein, P. J.: Records from the past, lessons for the future: what the palaeo-record implies about mechanisms of global change, in: The Future of the World's Climates, edited by: Henderson-Sellers, A. and McGuffie, K., 403–436, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Harrison, S. P., Jolly, D., Laarif, F., Abe-Ouchi, A., Dong, B., Herterich, K., Hewitt, C., Joussaume, S., Kutzbach, J. E., Mitchell, J., De Noblet, N., and Valdes, P.: Intercomparison of simulated global vegetation distributions in response to 6 kyr BP orbital forcing, J. Climate, 11, 2721–2742, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Harrison, S. P., Bartlein, P. J., Brewer, S., Prentice, I. C., Boyd, M., Hessler, I., Holmgren, K., Izumi, K., and Willis, K.: Climate model benchmarking with glacial and mid-Holocene climates, Clim. Dynam., 43, 671–688, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Harrison, S. P., Bartlein, P. J., Izumi, K., Li, G., Annan, J., Hargreaves, J., Braconnot, P., and Kageyama, M.: Evaluation of CMIP5 palaeo-simulations to improve climate projections, Nature Climate Change, 5, 735–743, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Haywood, A. M., Dowsett, H. J., Dolan, A. M., Rowley, D., Abe-Ouchi, A., Otto-Bliesner, B., Chandler, M. A., Hunter, S. J., Lunt, D. J., Pound, M., and Salzmann, U.: The Pliocene Model Intercomparison Project (PlioMIP) Phase 2: scientific objectives and experimental design, Clim. Past, 12, 663–675, https://doi.org/10.5194/cp-12-663-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Hegerl, G. C., Zwiers, F. W., Braconnot, P., Gillett, N. P., Luo, Y., Marengo Orsini, J. A., Nicholls, N., Penner, J. E., and Stott, P. A.: Understanding and Attributing Climate Change, in: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Solomon, S., Qin, D., Manning, M., Chen, Z., Marquis, M., Averyt, K. B., Tignor, M., and Miller, H. L., Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Hély, C., Lézine, A.-M., and contributors, A.: Holocene changes in African vegetation: tradeoff between climate and water availability, Clim. Past, 10, 681–686, https://doi.org/10.5194/cp-10-681-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <unstructured_citation>Hemming, S. R.: Heinrich events: Massive late pleistocene detritus layers of the North Atlantic and their global climate imprint, Rev. Geophys., 42, RG1005, https://doi.org/10.1029/2003RG000128, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Herbert, A. V. and Harrison, S. P.: Evaluation of a modern-analogue methodology for reconstructing Australian palaeoclimate from pollen, Rev. Palaeobot. Palyno., 226, 65–77, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <unstructured_citation>Herrington, A. R. and Poulsen, C. J.: Terminating the Last Interglacial: The Role of Ice Sheet-Climate Feedbacks in a GCM Asynchronously Coupled to an Ice Sheet Model, J. Climate, 25, 1871–1882, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <unstructured_citation>Hessler, I., Harrison, S. P., Kucera, M., Waelbroeck, C., Chen, M.-T., Anderson, C., de Vernal, A., Fréchette, B., Cloke-Hayes, A., Leduc, G., and Londeix, L.: Implication of methodological uncertainties for mid-Holocene sea surface temperature reconstructions, Clim. Past, 10, 2237–2252, https://doi.org/10.5194/cp-10-2237-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>Hillaire-Marcel, C., de Vernal, A., and Piper, D. J. W.: Lake Agassiz final drainage event in the northwest North Atlantic, Geophys. Res. Lett., 34, L15601, https://doi.org/10.1029/2007GL030396, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <unstructured_citation>Hoffman, J. S., Clark, P. U., Parnell, A. C., and He, F.: Regional and global sea-surface temperatures during the last interglaciation, Science, 355, 276–279, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Holden, P. B., Edwards, N. R., Wolff, E. W., Lang, N. J., Singarayer, J. S., Valdes, P. J., and Stocker, T. F.: Interhemispheric coupling, the West Antarctic Ice Sheet and warm Antarctic interglacials, Clim. Past, 6, 431–443, https://doi.org/10.5194/cp-6-431-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <unstructured_citation>Hooghiemstra, H., Stalling, H., Agwu, C. O. C., and Dupont, L. M.: Vegetational and climatic changes at the northern fringe of the sahara 250,000–5000 years bp – evidence from 4 marine pollen records located between Portugal and the Canary-Islands, Rev. Palaeobot. Palyno., 74, 1–53, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <unstructured_citation>Ivanovic, R. F., Gregoire, L. J., Kageyama, M., Roche, D. M., Valdes, P. J., Burke, A., Drummond, R., Peltier, W. R., and Tarasov, L.: Transient climate simulations of the deglaciation 21–9 thousand years before present (version 1) – PMIP4 Core experiment design and boundary conditions, Geosci. Model Dev., 9, 2563–2587, https://doi.org/10.5194/gmd-9-2563-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <unstructured_citation>Jansen, E., Overpeck, J., Briffa, K. R., Duplessy, J. C., Joos, F., Masson-Delmotte, V., Olago, D., Otto-Bliesner, B., Peltier, W. R., Rahmstorf, S., Ramesh, R., Raynaud, D., Rind, D., Solomina, O., Villalba, R., and Zhang, D.: Palaeoclimate, in: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Solomon, S., Qin, D., Manning, M., Chen, Z., Marquis, M., Averyt, K. B., Tignor, M., and Miller, H. L., Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <unstructured_citation>Jochum, M., Jahn, A., Peacock, S., Bailey, D. A., Fasullo, J. T., Kay, J., Levis, S., and Otto-Bliesner, B.: True to Milankovitch: Glacial Inception in the New Community Climate System Model, J. Climate, 25, 2226–2239, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <unstructured_citation>Jonkers, L. and Kucera, M.: Global analysis of seasonality in the shell flux of extant planktonic Foraminifera, Biogeosciences, 12, 2207–2226, https://doi.org/10.5194/bg-12-2207-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <unstructured_citation>Joos, F. and Spahni, R.: Rates of change in natural and anthropogenic radiative forcing over the past 20,000 years, P. Natl. Acad. Sci. USA, 105, 1425–1430, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <unstructured_citation>Joussaume, S. and Braconnot, P.: Sensitivity of paleoclimate simulation results to season definitions, J. Geophys. Res.-Atmos., 102, 1943–1956, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <unstructured_citation>Joussaume, S. and Taylor, K. E.: Status of the Paleoclimate Modeling Intercomparison Project, in: Proceedings of the first international AMIP scientific conference, Monterey, USA, 425–430, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <unstructured_citation>Joussaume, S., Taylor, K. E., Braconnot, P., Mitchell, J. F. B., Kutzbach, J. E., Harrison, S. P., Prentice, I. C., Broccoli, A. J., Abe-Ouchi, A., Bartlein, P. J., Bonfils, C., Dong, B., Guiot, J., Herterich, K., Hewitt, C. D., Jolly, D., Kim, J. W., Kislov, A., Kitoh, A., Loutre, M. F., Masson, V., McAvaney, B., McFarlane, N., de Noblet, N., Peltier, W. R., Peterschmitt, J. Y., Pollard, D., Rind, D., Royer, J. F., Schlesinger, M. E., Syktus, J., Thompson, S., Valdes, P., Vettoretti, G., Webb, R. S., and Wyputta, U.: Monsoon changes for 6000 years ago: Results of 18 simulations from the Paleoclimate Modeling Intercomparison Project (PMIP), Geophys. Res. Lett., 26, 859–862, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <unstructured_citation>Jouzel, J., Masson-Delmotte, V., Cattani, O., Dreyfus, G., Falourd, S., Hoffmann, G., Minster, B., Nouet, J., Barnola, J.-M., Fisher, H., Gallet, J.-C., Johnsen, S., Leuenberger, M., Loulergue, L., Luethi, D., Oerter, H., Parrenin, F., Raisbeck, G., Raynaud, D., Schilt, A., Schwander, J., Selmo, J., Souchez, R., Spahni, R., Stauffer, B., Steffensen, J. P., Stenni, B., Stocker, T. F., Tison, J.-L., Werner, M., and Wolff, E. W.: Orbital and millennial Antarctic climate variability over the past 800,000 years, Science, 317, 793–796, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <unstructured_citation>Jungclaus, J. H., Bard, E., Baroni, M., Braconnot, P., Cao, J., Chini, L. P., Egorova, T., Evans, M., González-Rouco, J. F., Goosse, H., Hurtt, G. C., Joos, F., Kaplan, J. O., Khodri, M., Klein Goldewijk, K., Krivova, N., LeGrande, A. N., Lorenz, S. J., Luterbacher, J., Man, W., Maycock, A. C., Meinshausen, M., Moberg, A., Muscheler, R., Nehrbass-Ahles, C., Otto-Bliesner, B. I., Phipps, S. J., Pongratz, J., Rozanov, E., Schmidt, G. A., Schmidt, H., Schmutz, W., Schurer, A., Shapiro, A. I., Sigl, M., Smerdon, J. E., Solanki, S. K., Timmreck, C., Toohey, M., Usoskin, I. G., Wagner, S., Wu, C.-J., Yeo, K. L., Zanchettin, D., Zhang, Q., and Zorita, E.: The PMIP4 contribution to CMIP6 – Part 3: The last millennium, scientific objective, and experimental design for the PMIP4 past1000 simulations, Geosci. Model Dev., 10, 4005–4033, https://doi.org/10.5194/gmd-10-4005-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <unstructured_citation>Kageyama, M., Braconnot, P., Harrison, S. P., Haywood, A. M., Jungclaus, J., Otto-Bliesner, B. L., Peterschmitt, J.-Y., Abe-Ouchi, A., Albani, S., Bartlein, P. J., Brierley, C., Crucifix, M., Dolan, A., Fernandez-Donado, L., Fischer, H., Hopcroft, P. O., Ivanovic, R. F., Lambert, F., Lunt, D. J., Mahowald, N. M., Peltier, W. R., Phipps, S. J., Roche, D. M., Schmidt, G. A., Tarasov, L., Valdes, P. J., Zhang, Q., and Zhou, T.: PMIP4-CMIP6: the contribution of the Paleoclimate Modelling Intercomparison Project to CMIP6, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-106, in review, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <unstructured_citation>Kageyama, M., Albani, S., Braconnot, P., Harrison, S. P., Hopcroft, P. O., Ivanovic, R. F., Lambert, F., Marti, O., Peltier, W. R., Peterschmitt, J.-Y., Roche, D. M., Tarasov, L., Zhang, X., Brady, E. C., Haywood, A. M., LeGrande, A. N., Lunt, D. J., Mahowald, N. M., Mikolajewicz, U., Nisancioglu, K. H., Otto-Bliesner, B. L., Renssen, H., Tomas, R. A., Zhang, Q., Abe-Ouchi, A., Bartlein, P. J., Cao, J., Li, Q., Lohmann, G., Ohgaito, R., Shi, X., Volodin, E., Yoshida, K., Zhang, X., and Zheng, W.: The PMIP4 contribution to CMIP6 – Part 4: Scientific objectives and experimental design of the PMIP4-CMIP6 Last Glacial Maximum experiments and PMIP4 sensitivity experiments, Geosci. Model Dev., 10, 4035–4055, https://doi.org/10.5194/gmd-10-4035-2017, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref110">
+              <unstructured_citation>Kerwin, M. W.: A regional stratigraphic isochron (ca 8000 C-14 yr BP) from final deglaciation of Hudson Strait, Quat. Res., 46, 89–98, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref111">
+              <unstructured_citation>Kohfeld, K. and Harrison, S. P.: How well can we simulate past climates? Evaluating the models using global palaeoenvironmental datasets, Quaternary Sci. Rev., 19, 321–346, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref112">
+              <unstructured_citation>Konare, A., Zakey, A. S., Solmon, F., Giorgi, F., Rauscher, S., Ibrah, S., and Bi, X.: A regional climate modeling study of the effect of desert dust on the West African monsoon, J. Geophys. Res.-Atmos., 113, D12206, https://doi.org/10.1029/2007jd009322, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref113">
+              <unstructured_citation>Krinner, G., Boucher, O., and Balkanski, Y.: Ice-free glacial northern Asia due to dust deposition on snow, Clim. Dynam., 27, 613–625, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref114">
+              <unstructured_citation>Kutzbach, J. E. and Gallimore, R. G.: Sensitivity of a coupled atmosphere mixed layer ocean model to changes in orbital forcing at 9000 years BP, J. Geophys. Res.-Atmos., 93, 803–821, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref115">
+              <unstructured_citation>Kutzbach, J. E. and Street-Perrott, F. A.: Milankovitch forcing of fluctuations in the level of tropical lakes from 18 to 0 kyr BP, Nature, 317, 130–134, 1985.</unstructured_citation>
+            </citation>
+            <citation key="ref116">
+              <unstructured_citation>Lajeunesse, P. and St-Onge, G.: The subglacial origin of the lake Agassiz-Ojibway final outburst flood, Nat. Geosci., 1, 184–188, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref117">
+              <unstructured_citation>Larrasoana, J. C., Roberts, A. P., and Rohling, E. J.: Dynamics of Green Sahara periods and their role in Hominin evolution, PLoS ONE, 8, e76514, https://doi.org/10.1371/journal.pone.0076514, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref118">
+              <unstructured_citation>Larsen, N. K., Kjaer, K. H., Lecavalier, B., Bjork, A. A., Colding, S., Huybrechts, P., Jakobsen, K. E., Kjeldsen, K. K., Knudsen, K. L., Odgaard, B. V., and Olsen, J.: The response of the southern Greenland ice sheet to the Holocene thermal maximum, Geology, 43, 291–294, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref119">
+              <unstructured_citation>Leduc, G., Schneider, R., Kim, J. H., and Lohmann, G.: Holocene and Eemian sea surface temperature trends as revealed by alkenone and Mg/Ca paleothermometry, Quaternary Sci. Rev., 29, 989–1004, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref120">
+              <unstructured_citation>Lewis, C. F. M., Miller, A. A. L., Levac, E., Piper, D. J. W., and Sonnichsen, G. V.: Lake Agassiz outburst age and routing by Labrador Current and the 8.2 cal ka cold event, Quatern. Int., 260, 83–97, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref121">
+              <unstructured_citation>Lezine, A. M., Hely, C., Grenier, C., Braconnot, P., and Krinner, G.: Sahara and Sahel vulnerability to climate changes, lessons from Holocene hydrological data, Quaternary Sci. Rev., 30, 3001–3012, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref122">
+              <unstructured_citation>Li, G., Harrison, S. P., Prentice, I. C., and Falster, D.: Simulation of tree-ring widths with a model for primary production, carbon allocation, and growth, Biogeosciences, 11, 6711–6724, https://doi.org/10.5194/bg-11-6711-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref123">
+              <unstructured_citation>Licciardi, J. M., Teller, J. T., and Clark, P. U.: Freshwater Routing by the Laurentide Ice Sheet During the Last Deglaciation, in: Mechanisms of Global Climate Change at Millennial Time Scales, edited by: Clark, P. U., Webb, R. S., and Keigwin, L. D., Geophysical Monograph, 112, 177–201, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref124">
+              <unstructured_citation>LIGA members: The last interglacial in high latitudes of the Northern Hemisphere: Terrestrial and marine evidence, Quatern. Int., 10–12, 9–28, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref125">
+              <unstructured_citation>Liu, Z. Y., Zhu, J., Rosenthal, Y., Zhang, X., Otto-Bliesner, B. L., Timmermann, A., Smith, R. S., Lohmann, G., Zheng, W. P., and Timm, O. E.: The Holocene temperature conundrum, P. Natl. Acad. Sci. USA, 111, E3501–E3505, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref126">
+              <unstructured_citation>Loulergue, L., Schilt, A., Spahni, R., Masson-Delmotte, V., Blunier, T., Lemieux, B., Barnola, J. M., Raynaud, D., Stocker, T. F., and Chappellaz, J.: Orbital and millennial-scale features of atmospheric CH4 over the past 800,000 years, Nature, 453, 383–386, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref127">
+              <unstructured_citation>Loutre, M. F., Fichefet, T., Goosse, H., Huybrechts, P., Goelzer, H., and Capron, E.: Factors controlling the last interglacial climate as simulated by LOVECLIM1.3, Clim. Past, 10, 1541–1565, https://doi.org/10.5194/cp-10-1541-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref128">
+              <unstructured_citation>Lozhkin, A. V. and Anderson, P. M.: The last interglaciation in northeast Siberia, Quat. Res., 43, 147–158, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref129">
+              <unstructured_citation>Luan, Y. H., Braconnot, P., Yu, Y. Q., and Zheng, W. P.: Tropical Pacific mean state and ENSO changes: sensitivity to freshwater flux and remnant ice sheets at 9.5 ka BP, Clim. Dynam., 44, 661–678, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref130">
+              <unstructured_citation>Lunt, D. J., Abe-Ouchi, A., Bakker, P., Berger, A., Braconnot, P., Charbit, S., Fischer, N., Herold, N., Jungclaus, J. H., Khon, V. C., Krebs-Kanzow, U., Langebroek, P. M., Lohmann, G., Nisancioglu, K. H., Otto-Bliesner, B. L., Park, W., Pfeiffer, M., Phipps, S. J., Prange, M., Rachmayani, R., Renssen, H., Rosenbloom, N., Schneider, B., Stone, E. J., Takahashi, K., Wei, W., Yin, Q., and Zhang, Z. S.: A multi-model assessment of last interglacial temperatures, Clim. Past, 9, 699–717, https://doi.org/10.5194/cp-9-699-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref131">
+              <unstructured_citation>Marchant, R., Cleef, A., Harrison, S. P., Hooghiemstra, H., Markgraf, V., van Boxel, J., Ager, T., Almeida, L., Anderson, R., Baied, C., Behling, H., Berrio, J. C., Burbridge, R., Björck, S., Byrne, R., Bush, M., Duivenvoorden, J., Flenley, J., De Oliveira, P., van Geel, B., Graf, K., Gosling, W. D., Harbele, S., van der Hammen, T., Hansen, B., Horn, S., Kuhry, P., Ledru, M.-P., Mayle, F., Leyden, B., Lozano-García, S., Melief, A. M., Moreno, P., Moar, N. T., Prieto, A., van Reenen, G., Salgado-Labouriau, M., Schäbitz, F., Schreve-Brinkman, E. J., and Wille, M.: Pollen-based biome reconstructions for Latin America at 0, 6000 and 18 000 radiocarbon years ago, Clim. Past, 5, 725–767, https://doi.org/10.5194/cp-5-725-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref132">
+              <unstructured_citation>Marcott, S. A., Shakun, J. D., Clark, P. U., and Mix, A. C.: A Reconstruction of Regional and Global Temperature for the Past 11,300 Years, Science, 339, 1198–1201, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref133">
+              <unstructured_citation>Marino, G., Rohling, E. J., Rodriguez-Sanz, L., Grant, K. M., Heslop, D., Roberts, A. P., Stanford, J. D., and Yu, J.: Bipolar seesaw control on last interglacial sea level, Nature, 522, 197–201, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref134">
+              <unstructured_citation>Marlon, J. R., Bartlein, P. J., Daniau, A. L., Harrison, S. P., Maezumi, S. Y., Power, M. J., Tinner, W., and Vanniere, B.: Global biomass burning: a synthesis and review of Holocene paleofire records and their controls, Quaternary Sci. Rev., 65, 5–25, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref135">
+              <unstructured_citation>Marzeion, B., Jarosch, A. H., and Hofer, M.: Past and future sea-level change from the surface mass balance of glaciers, The Cryosphere, 6, 1295–1322, https://doi.org/10.5194/tc-6-1295-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref136">
+              <unstructured_citation>Marzin, C., Braconnot, P., and Kageyama, M.: Relative impacts of insolation changes, meltwater fluxes and ice sheets on African and Asian monsoons during the Holocene, Clim. Dynam., 41, 2267–2286, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref137">
+              <unstructured_citation>Masson-Delmotte, V.. Kageyama, M., Braconnot, P., Charbit, S., Krinner, G., Ritz, C., Guilyardi, E., Jouzel, J., Abe-Ouchi, A., Crucifix, M. Gladstone, R. M., Hewitt, C. D., Kitoh, A., LeGrande, A. N., Marti, O., Merkel, U., Motoi, T., Ohgaito, R., Otto-Bliesner, B., Peltier, W. R., Ross, I., Valdes, P. J., Vettoretti, G., Weber, S. L.,Wolk, F., and Yu, Y.: Past and future polar amplification of climate change: climate model intercomparisons and ice-core constraints, Clim. Dynam., 26, 513–529, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref138">
+              <unstructured_citation>Masson-Delmotte, V., Stenni, B., Blunier, T., Cattani, O., Chappellaz, J., Cheng, H., Dreyfus, G., Edwards, R. L., Falourd, S., Govin, A., Kawamura, K., Johnsen, S. J., Jouzel, J., Landais, A., Lemieux-Dudon, B., Lourantou, A., Marshall, G., Minster, B., Mudelsee, M., Pol, K., Rothlisberger, R., Selmo, E., and Waelbroeck, C.: Abrupt change of Antarctic moisture origin at the end of Termination II, P. Natl. Acad. Sci. USA, 107, 12091–12094, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref139">
+              <unstructured_citation>Masson-Delmotte, V., Schulz, M., Abe-Ouchi, A., Beer, J., Ganopolski, A., Gonzalez Rouco, J., Jansen, E., Lambeck, K., Luterbacher, J., Naish, T., Osborn, T., Otto-Bliesner, B., Quinn, T., Ramesh, R., Rojas, M., Shao, X., and Timmermann, A.: Information from paleoclimate archvies, in: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref140">
+              <unstructured_citation>Mauri, A., Davis, B. A. S., Collins, P. M., and Kaplan, J. O.: The influence of atmospheric circulation on the mid-Holocene climate of Europe: a data–model comparison, Clim. Past, 10, 1925–1938, https://doi.org/10.5194/cp-10-1925-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref141">
+              <unstructured_citation>McGee, D., deMenocal, P. B., Winckler, G., Stuut, J. B. W., and Bradtmiller, L. I.: The magnitude, timing and abruptness of changes in North African dust deposition over the last 20,000 yr, Earth Planet. Sc. Lett., 371–372, 163–176, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref142">
+              <unstructured_citation>McKay, N. P., Overpeck, J. T., and Otto-Bliesner, B. L.: The role of ocean thermal expansion in Last Interglacial sea level rise, Geophys. Res. Lett., 38, L14605, https://doi.org/10.1029/2011GL048280, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref143">
+              <unstructured_citation>McKay, R., Naish, T., Powell, R., Barrett, P., Scherer, R., Talarico, F., Kyle, P., Monien, D., Kuhn, G., Jackolski, C., and Williams, T.: Pleistocene variability of Antarctic Ice Sheet extent in the Ross Embayment, Quaternary Sci. Rev., 34, 93–112, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref144">
+              <unstructured_citation>McManus, J. F., Oppo, D. W., and Cullen, J. L.: A 0.5-million-year record of millennial-scale climate variability in the North Atlantic, Science, 283, 971–975, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref145">
+              <unstructured_citation>Mercer, J. H.: West Antarctic Ice Sheet And CO2 greenhouse effect – threat of disaster, Nature, 271, 321–325, 1978.</unstructured_citation>
+            </citation>
+            <citation key="ref146">
+              <unstructured_citation>Miller, R. L., Perlwitz, J., and Tegen, I.: Feedback upon dust emission by dust radiative forcing through the planetary boundary layer, J. Geophys. Res.-Atmos., 109, D24209, https://doi.org/10.1029/2004JD004912, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref147">
+              <unstructured_citation>Mitchell, L., Brook, E., Lee, J. E., Buizert, C., and Sowers, T.: Constraints on the Late Holocene Anthropogenic Contribution to the Atmospheric Methane Budget, Science, 342, 964–966, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref148">
+              <unstructured_citation>Moberg, A.: Comparisons of simulated and observed Northern Hemisphere temperature variations during the past millennium – selected lessons learned and problems encountered, Tellus B, 65, https://doi.org/10.3402/tellusb.v65i0.19921, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref149">
+              <unstructured_citation>Monnin, E., Indermuhle, A., Dallenbach, A., Fluckiger, J., Stauffer, B., Stocker, T. F., Raynaud, D., and Barnola, J. M.: Atmospheric CO2 concentrations over the last glacial termination, Science, 291, 112–114, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref150">
+              <unstructured_citation>Monnin, E., Steig, E. J., Siegenthaler, U., Kawamura, K., Schwander, J., Stauffer, B., Stocker, T. F., Morse, D. L., Barnola, J. M., Bellier, B., Raynaud, D., and Fischer, H.: Evidence for substantial accumulation rate variability in Antarctica during the Holocene, through synchronization of CO2 in the Taylor Dome, Dome C and DML ice cores, Earth Planet. Sc. Lett., 224, 45–54, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref151">
+              <unstructured_citation>Mor, A. S., Yam, R., Bianchi, C., Kunz-Pirrung, M., Gersonde, R., and Shemesh, A.: Variable sequence of events during the past seven terminations in two deep-sea cores from the Southern Ocean, Quaternary Res., 77, 317–325, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref152">
+              <unstructured_citation>Morrill, C., LeGrande, A. N., Renssen, H., Bakker, P., and Otto-Bliesner, B. L.: Model sensitivity to North Atlantic freshwater forcing at 8.2 ka, Clim. Past, 9, 955–968, https://doi.org/10.5194/cp-9-955-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref153">
+              <unstructured_citation>Muschitiello, F., Zhang, Q., Sundqvist, H. S., Davies, F. J., and Renssen, H.: Arctic climate response to the termination of the African Humid Period, Quaternary Sci. Rev., 125, 91–97, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref154">
+              <unstructured_citation>Myhre, G., Highwood, E. J., Shine, K. P., and Stordal, F.: New estimates of radiative forcing due to well mixed greenhouse gases, Geophys. Res. Lett., 25, 2715–2718, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref155">
+              <unstructured_citation>NEEM Community Members: Eemian interglacial reconstructed from a Greenland folded ice core, Nature, 493, 489–494, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref156">
+              <unstructured_citation>NGRIP Project Members: High-resolution record of Northern Hemisphere climate extending into the last interglacial period, Nature, 431, 147–151, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref157">
+              <unstructured_citation>Nicholl, J. A. L., Hodell, D. A., Naafs, B. D. A., Hillaire-Marcel, C., Channell, J. E. T., and Romero, O. E.: A Laurentide outburst flooding event during the last interglacial period, Nat. Geosci., 5, 901–904, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref158">
+              <unstructured_citation>Notz, D., Jahn, A., Holland, M., Hunke, E., Massonnet, F., Stroeve, J., Tremblay, B., and Vancoppenolle, M.: The CMIP6 Sea-Ice Model Intercomparison Project (SIMIP): understanding sea ice through climate-model simulations, Geosci. Model Dev., 9, 3427–3446, https://doi.org/10.5194/gmd-9-3427-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref159">
+              <unstructured_citation>Nowicki, S. M. J., Payne, A., Larour, E., Seroussi, H., Goelzer, H., Lipscomb, W., Gregory, J., Abe-Ouchi, A., and Shepherd, A.: Ice Sheet Model Intercomparison Project (ISMIP6) contribution to CMIP6, Geosci. Model Dev., 9, 4521–4545, https://doi.org/10.5194/gmd-9-4521-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref160">
+              <unstructured_citation>Oliver, K. I. C., Hoogakker, B. A. A., Crowhurst, S., Henderson, G. M., Rickaby, R. E. M., Edwards, N. R., and Elderfield, H.: A synthesis of marine sediment core δ13C data over the last 150 000 years, Clim. Past, 6, 645–673, https://doi.org/10.5194/cp-6-645-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref161">
+              <unstructured_citation>Otto, J., Raddatz, T., Claussen, M., Brovkin, V., and Gayler, V.: Separation of atmosphere-ocean-vegetation feedbacks and synergies for mid-Holocene climate, Geophys. Res. Lett., 36, L09701, https://doi.org/10.1029/2009gl037482, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref162">
+              <unstructured_citation>Otto-Bliesner, B. L., Rosenbloom, N., Stone, E. J., McKay, N. P., Lunt, D. J., Brady, E. C., and Overpeck, J. T.: How warm was the last interglacial? New model-data comparisons, Philos. T. R. Soc. A, 371, 2001, https://doi.org/10.1098/rsta.2013.0097, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref163">
+              <unstructured_citation>Pausata, F. S. R., Messori, G., and Zhang, Q.: Impacts of dust reduction on the northward expansion of the African monsoon during the Green Sahara period, Earth Planet. Sc. Lett., 434, 298–307, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref164">
+              <unstructured_citation>Perez-Sanz, A., Li, G., González-Sampériz, P., and Harrison, S. P.: Evaluation of modern and mid-Holocene seasonal precipitation of the Mediterranean and northern Africa in the CMIP5 simulations, Clim. Past, 10, 551–568, https://doi.org/10.5194/cp-10-551-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref165">
+              <unstructured_citation>Perlwitz, J., Tegen, I., and Miller, R. L.: Interactive soil dust aerosol model in the GISS GCM 1. Sensitivity of the soil dust cycle to radiative properties of soil dust aerosols, J. Geophys. Res.-Atmos., 106, 18167–18192, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref166">
+              <unstructured_citation>Petit-Maire, N.: Natural variability of the Earth's environments: the last two climatic extremes (18 000 ± 2000 and 8000 ± 1000 yrs BP), Comptes Rendus De L Academie Des Sciences Serie Ii Fascicule a-Sciences De La Terre Et Des Planetes, 328, 273–279, https://doi.org/10.1016/S1251-8050(99)80307-3, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref167">
+              <unstructured_citation>Pickett, E. J., Harrison, S. P., Hope, G., Harle, K., Dodson, J. R., Kershaw, A. P., Prentice, I. C., Backhouse, J., Colhoun, E. A., D'Costa, D., Flenley, J., Grindrod, J., Haberle, S., Hassell, C., Kenyon, C., Macphail, M., Martin, H., Martin, A. H., McKenzie, M., Newsome, J. C., Penny, D., Powell, J., Raine, J. I., Southern, W., Stevenson, J., Sutra, J. P., Thomas, I., van der Kaars, S., and Ward, J.: Pollen-based reconstructions of biome distributions for Australia, Southeast Asia and the Pacific (SEAPAC region) at 0, 6000 and 18 000 (14)C yr BP, J. Biogeogr., 31, 1381–1444, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref168">
+              <unstructured_citation>PMIP4 repository: Forcing and boundary condition data sets, available at: https://pmip4.lsce.ipsl.fr/doku.php/exp_design:index, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref169">
+              <unstructured_citation>Potenza, M. A. C., Albani, S., Delmonte, B., Villa, S., Sanvito, T., Paroli, B., Pullia, A., Baccolo, G., Mahowald, N., and Maggi, V.: Shape and size constraints on dust optical properties from the Dome C ice core, Antarctica, Sci. Rep., 6, https://doi.org/10.1038/srep28162, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref170">
+              <unstructured_citation>Prentice, I. C., Jolly, D., and BIOME 6000 participants: Mid-Holocene and glacial-maximum vegetation geography of the northern continents and Africa, J. Biogeogr., 27, 507–519, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref171">
+              <unstructured_citation>Renssen, H., Seppa, H., Heiri, O., Roche, D. M., Goosse, H., and Fichefet, T.: The spatial and temporal complexity of the Holocene thermal maximum, Nat. Geosci., 2, 410–413, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref172">
+              <unstructured_citation>Renssen, H., Seppa, H., Crosta, X., Goosse, H., and Roche, D. M.: Global characterization of the Holocene Thermal Maximum, Quaternary Sci. Rev., 48, 7–19, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref173">
+              <unstructured_citation>Risebrobakken, B., Balbon, E., Dokken, T., Jansen, E., Kissel, C., Labeyrie, L., Richter, T., and Senneset, L.: The penultimate deglaciation: High-resolution paleoceanographic evidence from a north-south transect along the eastern Nordic Seas, Earth Planet. Sc. Lett., 241, 505–516, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref174">
+              <unstructured_citation>Rosell-Mele, A. and Prahl, F. G.: Seasonality of U-37(K)' temperature estimates as inferred from sediment trap data, Quaternary Sci. Rev., 72, 128–136, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref175">
+              <unstructured_citation>Roy, M., Dell'Oste, F., Veillette, J. J., de Vernal, A., Helie, J. F., and Parent, M.: Insights on the events surrounding the final drainage of Lake Ojibway based on James Bay stratigraphic sequences, Quaternary Sci. Rev., 30, 682–692, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref176">
+              <unstructured_citation>Royer, A., Deangelis, M., and Petit, J. R.: A 30 000 year record of physical and optical-properties of microparticles from an East Antarctic ice core and implications for paleoclimate reconstruction models, Climatic Change, 5, 381–412, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref177">
+              <unstructured_citation>Saraswat, R., Lea, D. W., Nigam, R., Mackensen, A., and Naik, D. K.: Deglaciation in the tropical Indian Ocean driven by interplay beween the regional monsoon and global teleconnections, Earth Planet. Sc. Lett., 375, 166–175, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref178">
+              <unstructured_citation>Schilt, A., Baumgartner, M., Schwander, J., Buiron, D., Capron, E., Chappellaz, J., Loulergue, L., Schüpbach, S., Spahni, R., Fischer, H., and Stocker, T. F.: Atmospheric nitrous oxide during the last 140 000 years, Earth Planet. Sc. Lett., 300, 33–43, 2010a.</unstructured_citation>
+            </citation>
+            <citation key="ref179">
+              <unstructured_citation>Schilt, A., Baumgartner, M., Blunier, T., Schwander, J., Spahni, R., Fischer, H., and Stocker, T. F.: Glacial–interglacial and millennial-scale variations in the atmospheric nitrous oxide concentration during the last 800 000 years, Quaternary Sci. Rev., 29, 182–192, 2010b.</unstructured_citation>
+            </citation>
+            <citation key="ref180">
+              <unstructured_citation>Schmidt, G. A., Annan, J. D., Bartlein, P. J., Cook, B. I., Guilyardi, E., Hargreaves, J. C., Harrison, S. P., Kageyama, M., LeGrande, A. N., Konecky, B., Lovejoy, S., Mann, M. E., Masson-Delmotte, V., Risi, C., Thompson, D., Timmermann, A., Tremblay, L.-B., and Yiou, P.: Using palaeo-climate comparisons to constrain future projections in CMIP5, Clim. Past, 10, 221–250, https://doi.org/10.5194/cp-10-221-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref181">
+              <unstructured_citation>Schneider, R., Schmitt, J., Köhler, P., Joos, F., and Fischer, H.: A reconstruction of atmospheric carbon dioxide and its stable carbon isotopic composition from the penultimate glacial maximum to the last glacial inception, Clim. Past, 9, 2507–2523, https://doi.org/10.5194/cp-9-2507-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref182">
+              <unstructured_citation>Shakun, J. D., Clark, P. U., He, F., Marcott, S. A., Mix, A. C., Liu, Z. Y., Otto-Bliesner, B., Schmittner, A., and Bard, E.: Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation, Nature, 484, 49–54, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref183">
+              <unstructured_citation>Siegenthaler, U., Stocker, T. F., Monnin, E., Lüthi, D., Schwander, J., Stauffer, B., Raynaud, D., Barnola, J.-M., Fischer, H., Masson-Delmotte, V., and Jouzel, J.: Stable Carbon Cycle: Climate Relationship During the Late Pleistocene, Science, 310, 1313–1317, https://doi.org/10.1126/science.1120130, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref184">
+              <unstructured_citation>Sime, L. C., Risi, C., Tindall, J. C., Sjolte, J., Wolff, E. W., Masson-Delmotte, V., and Capron, E.: Warm climate isotopic simulations: what do we learn about interglacial signals in Greenland ice cores?, Quaternary Sci. Rev., 67, 59–80, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref185">
+              <unstructured_citation>Sinclair, G., Carlson, A. E., Mix, A. C., Lecavalier, B. S., Milne, G., Mathias, A., Buizert, C., and DeConto, R.: Diachronous retreat of the Greenland ice sheet during the last deglaciation, Quaternary Sci. Rev., 145, 243–258, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref186">
+              <unstructured_citation>Spahni, R., Schwander, J., Fluckiger, J., Stauffer, B., Chappellaz, J., and Raynaud, D.: The attenuation of fast atmospheric CH4 variations recorded in polar ice cores, Geophys. Res. Lett., 30, 1571, https://doi.org/10.1029/2003gl017093, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref187">
+              <unstructured_citation>Spahni, R., Chappellaz, J., Stocker, T. F., Loulergue, L., Hausammann, G., Kawamura, K., Fluckiger, J., Schwander, J., Raynaud, D., Masson-Delmotte, V., and Jouzel, J.: Atmospheric methane and nitrous oxide of the late Pleistocene from Antarctic ice cores, Science, 310, 1317–1321, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref188">
+              <unstructured_citation>Steig, E. J., Huybers, K., Singh, H. A., Steiger, N. J., Ding, Q. H., Frierson, D. M. W., Popp, T., and White, J. W. C.: Influence of West Antarctic Ice Sheet collapse on Antarctic surface climate, Geophys. Res. Lett., 42, 4862–4868, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref189">
+              <unstructured_citation>Stirling, C. H., Esat, T. M. Lambeck, K., and McCulloch, M. T.: Timing and duration of the Last Interglacial: evidence for a resticted interval of widespread coral reef growth, Earth Planet. Sc. Lett., 160, 745–762, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref190">
+              <unstructured_citation>Stone, E. J., Capron, E., Lunt, D. J., Payne, A. J., Singarayer, J. S., Valdes, P. J., and Wolff, E. W.: Impact of meltwater on high-latitude early Last Interglacial climate, Clim. Past, 12, 1919–1932, https://doi.org/10.5194/cp-12-1919-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref191">
+              <unstructured_citation>Stoner, J. S., Channell, J. E. T., and Hillairemarcel, C.: Magnetic-properties of deep-sea sediments off southwest greenland – evidence for major differences between the last 2 deglaciations, Geology, 23, 241–244, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref192">
+              <unstructured_citation>Sutter, J., Gierz, P., Grosfeld, K., Thoma, M., and Lohmann, G.: Ocean temperature thresholds for Last Interglacial West Antarctic Ice Sheet collapse, Geophys. Res. Lett., 43, 2675–2682, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref193">
+              <unstructured_citation>Svensson, A., Andersen, K. K., Bigler, M., Clausen, H. B., Dahl-Jensen, D., Davies, S. M., Johnsen, S. J., Muscheler, R., Parrenin, F., Rasmussen, S. O., Röthlisberger, R., Seierstad, I., Steffensen, J. P., and Vinther, B. M.: A 60 000 year Greenland stratigraphic ice core chronology, Clim. Past, 4, 47–57, https://doi.org/10.5194/cp-4-47-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref194">
+              <unstructured_citation>Tegen, I., Harrison, S. P., Kohfeld, K., Prentice, I. C., Coe, M., and Heimann, M.: Impact of vegetation and preferential source areas on global dust aerosol: Results from a model study, J. Geophys. Res.-Atmos., 107, 4576, https://doi.org/10.1029/2001JD000963, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref195">
+              <unstructured_citation>Teller, J. T., Leverington, D. W., and Mann, J. D.: Freshwater outbursts to the oceans from glacial Lake Agassiz and their role in climate change during the last deglaciation, Quaternary Sci. Rev., 21, 879–887, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref196">
+              <unstructured_citation>Thompson, D. M., Ault, T. R., Evans, M. N., Cole, J. E., and Emile-Geay, J.: Comparison of observed and simulated tropical climate trends using a forward model of coral δ18O, Geophys. Res. Lett., 38, L14706, https://doi.org/10.1029/2011gl048224, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref197">
+              <unstructured_citation>Tierney, J. E., Pausata, F. S. R., and deMenocal, P. B.: Rainfall regimes of the Green Sahara, Science Advances, 3, e1601503, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref198">
+              <unstructured_citation>Tschumi, J. and Stauffer, B.: Reconstructing past atmospheric CO2 concentration based on ice-core analyses: open questions due to in situ production of CO2 in the ice J. Glaciol., 46, 45–53, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref199">
+              <unstructured_citation>Turney, C. S. M. and Jones, R. T.: Does the Agulhas Current amplify global temperatures during super-interglacials?, J. Quaternary Sci., 25, 839–843, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref200">
+              <unstructured_citation>Veres, D., Bazin, L., Landais, A., Toyé Mahamadou Kele, H., Lemieux-Dudon, B., Parrenin, F., Martinerie, P., Blayo, E., Blunier, T., Capron, E., Chappellaz, J., Rasmussen, S. O., Severi, M., Svensson, A., Vinther, B., and Wolff, E. W.: The Antarctic ice core chronology (AICC2012): an optimized multi-parameter and multi-site dating approach for the last 120 thousand years, Clim. Past, 9, 1733–1748, https://doi.org/10.5194/cp-9-1733-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref201">
+              <unstructured_citation>Viau, A. E. and Gajewski, K.: Reconstructing Millennial-Scale, Regional Paleoclimates of Boreal Canada during the Holocene, J. Climate, 22, 316–330, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref202">
+              <unstructured_citation>Viau, A. E., Gajewski, K., Sawada, M. C., and Fines, P.: Millennial-scale temperature variations in North America during the Holocene, J. Geophys. Res.-Atmos., 111, 31703–31716, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref203">
+              <unstructured_citation>Vinoj, V., Rasch, P. J., Wang, H. L., Yoon, J. H., Ma, P. L., Landu, K., and Singh, B.: Short-term modulation of Indian summer monsoon rainfall by West Asian dust, Nat. Geosci., 7, 308–313, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref204">
+              <unstructured_citation>Wagner, A. J., Morrill, C., Otto-Bliesner, B. L., Rosenbloom, N., and Watkins, K. R.: Model support for forcing of the 8.2 ka event by meltwater from the Hudson Bay ice dome, Clim. Dynam., 41, 2855–2873, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref205">
+              <unstructured_citation>Wanner, H., Beer, J., Butikofer, J., Crowley, T. J., Cubasch, U., Fluckiger, J., Goosse, H., Grosjean, M., Joos, F., Kaplan, J. O., Kuttel, M., Muller, S. A., Prentice, I. C., Solomina, O., Stocker, T. F., Tarasov, P., Wagner, M., and Widmann, M.: Mid- to Late Holocene climate change: an overview, Quaternary Sci. Rev., 27, 1791–1828, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref206">
+              <unstructured_citation>Winsor, K., Carlson, A. E., Klinkhammer, G. P., Stoner, J. S., and Hatfield, R. G.: Evolution of the northeast Labrador Sea during the last interglaciation, Geochem. Geophy. Geosy., 13, https://doi.org/10.1029/2012GC004263, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref207">
+              <unstructured_citation>Wittenberg, A. T.: Are historical records sufficient to constrain ENSO simulations?, Geophys. Res. Lett., 36, L12702, https://doi.org/10.1029/2009GL038710, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref208">
+              <unstructured_citation>Wohlfahrt, J., Harrison, S. P., and Braconnot, P.: Synergistic feedbacks between ocean and vegetation on mid- and high-latitude climates during the mid-Holocene, Clim. Dynam., 22, 223–238, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref209">
+              <unstructured_citation>Yin, Q. Z. and Berger, A.: Individual contribution of insolation and CO2 to the interglacial climates of the past 800 000 years, Clim. Dynam., 38, 709–724, https://doi.org/10.1007/s00382-011-1013-5, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref210">
+              <unstructured_citation>Yoshioka, M., Mahowald, N. M., Conley, A. J., Collins, W. D., Fillmore, D. W., Zender, C. S., and Coleman, D. B.: Impact of desert dust radiative forcing on Sahel precipitation: Relative importance of dust compared to sea surface temperature variations, vegetation changes, and greenhouse gas warming, J. Climate, 20, 1445–1467, 2007.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/gmd-10-3979-2017-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/10/3979/2017/gmd-10-3979-2017-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

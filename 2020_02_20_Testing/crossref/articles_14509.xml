@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-18 02:30:57">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Extending the satellite data record of tropospheric ozone profiles from Aura-TES to MetOp-IASI: characterisation of optimal estimation retrievals</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>H.</given_name>
+              <surname>Oetjen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>V. H.</given_name>
+              <surname>Payne</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S. S.</given_name>
+              <surname>Kulawik</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A.</given_name>
+              <surname>Eldering</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D. P.</given_name>
+              <surname>Edwards</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>G. L.</given_name>
+              <surname>Francis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>H. M.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>C.</given_name>
+              <surname>Clerbaux</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Hadji-Lazaro</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D.</given_name>
+              <surname>Hurtmans</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We apply the Tropospheric Emission Spectrometer (TES) ozone retrieval algorithm to Infrared Atmospheric Sounding Instrument (IASI) radiances and characterise the uncertainties and information content of the retrieved ozone profiles. This study focuses on mid-latitudes for the year 2008. We validate our results by comparing the IASI ozone profiles to ozone sondes. In the sonde comparisons, we find a negative bias (1–10%) in the IASI profiles in the lower to mid-troposphere and a positive bias (up to 14%) in the upper troposphere/lower stratosphere (UTLS) region. For the described cases, the degrees of freedom for signal are on average 3.2, 0.3, 0.8, and 0.9 for the columns 0 km – top of atmosphere, (0–6), (0–11), and (8–16) km, respectively. We find that our biases with respect to sondes and our degrees of freedom for signal for ozone are comparable to previously published results from other IASI ozone algorithms. In addition to evaluating biases, we validate the retrieval errors by comparing predicted errors to the sample covariance matrix of the IASI observations themselves. For the predicted versus empirical error comparison, we find that these errors are consistent and that the measurement noise and the interference of temperature and water vapour on the retrieval together mostly explain the empirically derived random errors. In general, the precision of the IASI ozone profiles is better than 20%.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>08</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>4223</first_page>
+            <last_page>4236</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX11AE19G</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-7-4223-2014</doi>
+            <resource>https://www.atmos-meas-tech.net/7/4223/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/7/4223/2014/amt-7-4223-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/acp-13-6687-2013</doi>
+              <unstructured_citation>Alvarado, M. J., Payne, V. H., Mlawer, E. J., Uymin, G., Shephard, M. W., Cady-Pereira, K. E., Delamere, J. S., and Moncet, J.-L.: Performance of the Line-By-Line Radiative Transfer Model (LBLRTM) for temperature, water vapor, and trace gas retrievals: recent updates evaluated with IASI case studies, Atmos. Chem. Phys., 13, 6687–6711, https://doi.org/10.5194/acp-13-6687-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1016/j.jqsrt.2012.02.028</doi>
+              <unstructured_citation>August, T., Klaes, D., Schlüssel, P., Hultberg, T., Crapeau, M., Arriaga, A., O'Carroll, A., Coppens, D., Munro, R., and Calbet, X.: IASI on Metop-A: Operational Level 2 retrievals after five years in orbit, J. Quant. Spectrosc. Ra., 113, 1340–1371, https://doi.org/10.1016/j.jqsrt.2012.02.028, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/acp-11-9533-2011</doi>
+              <unstructured_citation>Barret, B., Le Flochmoen, E., Sauvage, B., Pavelin, E., Matricardi, M., and Cammas, J. P.: The detection of post-monsoon tropospheric ozone variability over south Asia using IASI data, Atmos. Chem. Phys., 11, 9533–9548, https://doi.org/10.5194/acp-11-9533-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1109/TGRS.2005.863716</doi>
+              <unstructured_citation>Beer, R.: TES on the Aura mission: Scientific objectives, measurements, and analysis overview, IEEE T. Geosci. Remote, 44, 1102–1105, https://doi.org/10.1109/tgrs.2005.863716, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2006JD007502</doi>
+              <unstructured_citation>Bian, J. C., Gettelman, A., Chen, H. B., and Pan, L. L.: Validation of satellite ozone profile retrievals using Beijing ozonesonde data, J. Geophys. Res., 112, D06305, https://doi.org/10.1029/2006jd007502, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1117/12.560907</doi>
+              <unstructured_citation>Blumstein, D., Chalon, G., Carlier, T., Buil, C., Hebert, P., Maciaszek, T., Ponce, G., Phulpin, T., Tournier, B., and Simeoni, D.: IASI instrument: technical overview and measured performances, SPIE Conference, Denver (CO), SPIE 2004-5543-22, August 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1109/TGRS.2006.871234</doi>
+              <unstructured_citation>Bowman, K. W., Rodgers, C. D., Kulawik, S. S., Worden, J., Sarkissian, E., Osterman, G., Steck, T., Lou, M., Eldering, A., Shephard, M., Worden, H., Lampel, M., Clough, S., Brown, P., Rinsland, C., Gunson, M., and Beer, R.: Tropospheric emission spectrometer: Retrieval method and error analysis, IEEE T. Geosci. Remote, 44, 1297–1307, https://doi.org/10.1109/tgrs.2006.871234, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/acp-10-9901-2010</doi>
+              <unstructured_citation>Boxe, C. S., Worden, J. R., Bowman, K. W., Kulawik, S. S., Neu, J. L., Ford, W. C., Osterman, G. B., Herman, R. L., Eldering, A., Tarasick, D. W., Thompson, A. M., Doughty, D. C., Hoffmann, M. R., and Oltmans, S. J.: Validation of northern latitude Tropospheric Emission Spectrometer stare ozone profiles with ARC-IONS sondes during ARCTAS: sensitivity, bias and error analysis, Atmos. Chem. Phys., 10, 9901–9914, https://doi.org/10.5194/acp-10-9901-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/acp-9-6255-2009</doi>
+              <unstructured_citation>Boynard, A., Clerbaux, C., Coheur, P.-F., Hurtmans, D., Turquety, S., George, M., Hadji-Lazaro, J., Keim, C., and Meyer-Arnek, J.: Measurements of total and tropospheric ozone from IASI: comparison with correlative satellite, ground-based and ozonesonde observations, Atmos. Chem. Phys., 9, 6255–6271, https://doi.org/10.5194/acp-9-6255-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/98JD02397</doi>
+              <unstructured_citation>Brasseur, G. P., Hauglustaine, D. A., Walters, S., Rasch, P. J., Müller, J. F., Granier, C., and Tie, X. X.: MOZART, a global chemical transport model for ozone and related chemical tracers 1. Model description, J. Geophys. Res., 103, 28265–28289, https://doi.org/10.1029/98jd02397, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1007/978-3-642-84599-4_2</doi>
+              <unstructured_citation>Cayla, F.-R.: IASI infrared interferometer for operations and research, in: High Spectral Resolution Infrared Remote Sensing for Earth's Weather and Climate Studies, edited by: Chedin, A., Chahine, M. T., and Scott, N. A., NATO ASI Series, I 9, Springer Verlag, Berlin-Heidelberg, 9–19, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1016/j.atmosenv.2013.01.057</doi>
+              <unstructured_citation>Clerbaux, C. and Crevoisier, C., New Directions: Infrared remote sensing of the troposphere from satellite: Less, but better, Atmos. Environ., 72, 24–26, https://doi.org/10.1016/j.atmosenv.2013.01.057, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-9-6041-2009</doi>
+              <unstructured_citation>Clerbaux, C., Boynard, A., Clarisse, L., George, M., Hadji-Lazaro, J., Herbin, H., Hurtmans, D., Pommier, M., Razavi, A., Turquety, S., Wespes, C., and Coheur, P.-F.: Monitoring of atmospheric composition using the thermal infrared IASI/MetOp sounder, Atmos. Chem. Phys., 9, 6041–6054, https://doi.org/10.5194/acp-9-6041-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1016/j.jqsrt.2004.05.058</doi>
+              <unstructured_citation>Clough, S. A., Shephard, M. W., Mlawer, E., Delamere, J. S., Iacono, M., Cady-Pereira, K., Boukabara, S., and Brown, P. D.: Atmospheric radiative transfer modeling: a summary of the AER codes, J. Quant. Spectrosc. Ra., 91, 233–244, https://doi.org/10.1016/j.jqsrt.2004.05.058, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1109/TGRS.2005.860986</doi>
+              <unstructured_citation>Clough, S. A., Shephard, M. W., Worden, J., Brown, P. D., Worden, H. M., Luo, M., Rodgers, C. D., Rinsland, C. P., Goldman, A., Brown, L., Kulawik, S. S., Eldering, A., Lampel, M., Osterman, G., Beer, R., Bowman, K., Cady-Pereira, K. E., and Mlawer, E. J.: Forward model and Jacobians for Tropospheric Emission Spectrometer retrievals, IEEE T. Geosci. Remote, 44, 1308–1323, https://doi.org/10.1109/tgrs.2005.860986, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2005JD005845</doi>
+              <unstructured_citation>Coheur, P.-F., Barret, B., Turquety, S., Hurtmans, D., Hadji-Lazaro, J., and Clerbaux, C.: Retrieval and characterization of ozone vertical profiles from a thermal infrared nadir sounder, J. Geophys. Res., 110, D24303, https://doi.org/10.1029/2005jd005845, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/amt-4-1481-2011</doi>
+              <unstructured_citation>Connor, T. C., Shephard, M. W., Payne, V. H., Cady-Pereira, K. E., Kulawik, S. S., Luo, M., Osterman, G., and Lampel, M.: Long-term stability of TES satellite radiance measurements, Atmos. Meas. Tech., 4, 1481–1490, https://doi.org/10.5194/amt-4-1481-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/acp-13-9675-2013</doi>
+              <unstructured_citation>Cuesta, J., Eremenko, M., Liu, X., Dufour, G., Cai, Z., Höpfner, M., von Clarmann, T., Sellitto, P., Foret, G., Gaubert, B., Beekmann, M., Orphal, J., Chance, K., Spurr, R., and Flaud, J.-M.: Satellite observation of lowermost tropospheric ozone by multispectral synergism of IASI thermal infrared and GOME-2 ultraviolet measurements over Europe, Atmos. Chem. Phys., 13, 9675–9693, https://doi.org/10.5194/acp-13-9675-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-10-3787-2010</doi>
+              <unstructured_citation>Dufour, G., Eremenko, M., Orphal, J., and Flaud, J.-M.: IASI observations of seasonal and day-to-day variations of tropospheric ozone over three highly populated areas of China: Beijing, Shanghai, and Hong Kong, Atmos. Chem. Phys., 10, 3787–3801, https://doi.org/10.5194/acp-10-3787-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/amt-5-611-2012</doi>
+              <unstructured_citation>Dufour, G., Eremenko, M., Griesfeller, A., Barret, B., LeFlochmoën, E., Clerbaux, C., Hadji-Lazaro, J., Coheur, P.-F., and Hurtmans, D.: Validation of three different scientific ozone products retrieved from IASI spectra using ozonesondes, Atmos. Meas. Tech., 5, 611–630, https://doi.org/10.5194/amt-5-611-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/gmd-3-43-2010</doi>
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G., Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando, J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.: Description and evaluation of the Model for Ozone and Related chemical Tracers, version 4 (MOZART-4), Geosci. Model Dev., 3, 43–67, https://doi.org/10.5194/gmd-3-43-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2008GL034803</doi>
+              <unstructured_citation>Eremenko, M., Dufour, G., Foret, G., Keim, C., Orphal, J., Beekmann, M., Bergametti, G., and Flaud, J. M.: Tropospheric ozone distributions over Europe during the heat wave in July 2007 observed from infrared nadir spectra recorded by IASI, Geophy. Res. Lett., 35, L18805, https://doi.org/10.1029/2008gl034803, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/2011JD017134</doi>
+              <unstructured_citation>Fry, M. M., Naik, V., West, J. J., Schwarzkopf, M. D., Fiore, A. M., Collins, W. J., Dentener, F. J., Shindell, D. T., Atherton, C., Bergmann, D., Duncan, B. N., Hess, P., MacKenzie, I. A., Marmer, E., Schultz, M. G., Szopa, S., Wild, O., and Zeng, G.: The influence of ozone precursor emissions from four world regions on tropospheric composition and radiative climate forcing, J. Geophys. Res., 117, D07306, https://doi.org/10.1029/2011jd017134, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-13-3445-2013</doi>
+              <unstructured_citation>Fu, D., Worden, J. R., Liu, X., Kulawik, S. S., Bowman, K. W., and Natraj, V.: Characterization of ozone profiles derived from Aura TES and OMI radiances, Atmos. Chem. Phys., 13, 3445–3462, https://doi.org/10.5194/acp-13-3445-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/amt-6-613-2013</doi>
+              <unstructured_citation>Gazeaux, J., Clerbaux, C., George, M., Hadji-Lazaro, J., Kuttippurath, J., Coheur, P.-F., Hurtmans, D., Deshler, T., Kovilakam, M., Campbell, P., Guidard, V., Rabier, F., and Thépaut, J.-N.: Intercomparison of polar ozone profiles by IASI/MetOp sounder with 2010 Concordiasi ozonesonde observations, Atmos. Meas. Tech., 6, 613–620, https://doi.org/10.5194/amt-6-613-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1002/2013JD020344</doi>
+              <unstructured_citation>Han, Y., Revercomb, H., Cromp, M., Gu, D., Johnson, D., Mooney, D., Scott, D., Strow, L., Bingham, G., Borg, L., Chen, Y., DeSlover, D., Esplin, M., Hagan, D., Jin, X., Knuteson, R., Motteler, H., Predina, J., Suwinski, L., Taylor, J., Tobin, D., Tremblay, D., Wang, C., Wang, L., Wang, L., and Zavyalov, V., Suomi NPP CrIS measurements, sensor data record algorithm, calibration and validation activities, and record data quality, J. Geophys. Res. Atmos., 118, 12734–12748, https://doi.org/10.1002/2013JD020344, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/BAMS-D-11-00027.1</doi>
+              <unstructured_citation>Hilton, F., Armante, R., August, T., Barnet, C., Bouchard, A., Camy-Peyret, C., Capelle, V., Clarisse, L., Clerbaux, C., Coheur, P. F., Collard, A., Crevoisier, C., Dufour, G., Edwards, D., Faijan, F., Fourrie, N., Gambacorta, A., Goldberg, M., Guidard, V., Hurtmans, D., Illingworth, S., Jacquinet-Husson, N., Kerzenmacher, T., Klaes, D., Lavanant, L., Masiello, G., Matricardi, M., McNally, A., Newman, S., Pavelin, E., Payan, S., Pequignot, E., Peyridieu, S., Phulpin, T., Remedios, J., Schlüssel, P., Serio, C., Strow, L., Stubenrauch, C., Taylor, J., Tobin, D., Wolf, W., and Zhou, D.: Hyperspectral earth observations from IASI: Five years of accomplishments, B. Am. Meteorol. Soc., 93, 347–370, https://doi.org/10.1175/bams-d-11-00027.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1016/j.jqsrt.2012.02.036</doi>
+              <unstructured_citation>Hurtmans, D., Coheur, P. F., Wespes, C., Clarisse, L., Scharf, O., Clerbaux, C., Hadji-Lazaro, J., George, M., and Turquety, S.: FORLI radiative transfer and retrieval code for IASI, J. Quant. Spectrosc. Ra., 113, 1391–1408, https://doi.org/10.1016/j.jqsrt.2012.02.036, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/acp-9-9329-2009</doi>
+              <unstructured_citation>Keim, C., Eremenko, M., Orphal, J., Dufour, G., Flaud, J.-M., Höpfner, M., Boynard, A., Clerbaux, C., Payan, S., Coheur, P.-F., Hurtmans, D., Claude, H., Dier, H., Johnson, B., Kelder, H., Kivi, R., Koide, T., López Bartolomé, M., Lambkin, K., Moore, D., Schmidlin, F. J., and Stübi, R.: Tropospheric ozone from IASI: comparison of different inversion algorithms and validation with ozone sondes in the northern middle latitudes, Atmos. Chem. Phys., 9, 9329–9347, https://doi.org/10.5194/acp-9-9329-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2006JD007879</doi>
+              <unstructured_citation>Kinnison, D. E., Brasseur, G. P., Walters, S., Garcia, R. R., Marsh, D. R., Sassi, F., Harvey, V. L., Randall, C. E., Emmons, L., Lamarque, J. F., Hess, P., Orlando, J. J., Tie, X. X., Randel, W., Pan, L. L., Gettelman, A., Granier, C., Diehl, T., Niemeier, U., and Simmons, A. J.: Sensitivity of chemical tracers to meteorological parameters in the MOZART-3 chemical transport model, J. Geophys. Res., 112, D20302, https://doi.org/10.1029/2006jd007879, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1109/TGRS.2006.871206</doi>
+              <unstructured_citation>Kulawik, S. S., Osterman, G., Jones, D. B. A., and Bowman, K. W.: Calculation of altitude-dependent Tikhonov constraints for TES nadir retrievals, IEEE T. Geosci. Remote, 44, 1334–1342, https://doi.org/10.1109/tgrs.2006.871206, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2007JD008819</doi>
+              <unstructured_citation>Nassar, R., Logan, J. A., Worden, H. M., Megretskaia, I. A., Bowman, K. W., Osterman, G. B., Thompson, A. M., Tarasick, D. W., Austin, S., Claude, H., Dubey, M. K., Hocking, W. K., Johnson, B. J., Joseph, E., Merrill, J., Morris, G. A., Newchurch, M., Oltmans, S. J., Posny, F., Schmidlin, F. J., Vomel, H., Whiteman, D. N., and Witte, J. C.: Validation of Tropospheric Emission Spectrometer (TES) nadir ozone profiles using ozonesonde measurements, J. Geophys. Res., 113, D15S17, https://doi.org/10.1029/2007jd008819, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1016/j.atmosenv.2011.09.014</doi>
+              <unstructured_citation>Natraj, V., Liu, X., Kulawik, S., Chance, K., Chatfield, R., Edwards, D. P., Eldering, A., Francis, G., Kurosu, T., Pickering, K., Spurr, R., and Worden, H.: Multi-spectral sensitivity studies for the retrieval of tropospheric and lowermost tropospheric ozone from simulated clear-sky GEO-CAPE measurements, Atmos. Environ., 45, 7151–7165, https://doi.org/10.1016/j.atmosenv.2011.09.014, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2007JG000408</doi>
+              <unstructured_citation>Nevison, C. D., Mahowald, N. M., Doney, S. C., Lima, I. D., van der Werf, G. R., Randerson, J. T., Baker, D. F., Kasibhatla, P., and McKinley, G. A.: Contribution of ocean, fossil fuel, land biosphere, and biomass burning carbon fluxes to seasonal and interannual variability in atmospheric CO2, J. Geophys. Res., 113, G01010, https://doi.org/10.1029/2007jg000408, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1109/TGRS.2011.2170178</doi>
+              <unstructured_citation>Ohyama, H., Kawakami, S., Shiomi, K., and Miyagawa, K.: Retrievals of Total and Tropospheric Ozone From GOSAT Thermal Infrared Spectral Radiances, IEEE T. Geosci. Remote, 50, 1770–1784, https://doi.org/10.1109/tgrs.2011.2170178, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/acp-12-2077-2012</doi>
+              <unstructured_citation>Parrington, M., Palmer, P. I., Henze, D. K., Tarasick, D. W., Hyer, E. J., Owen, R. C., Helmig, D., Clerbaux, C., Bowman, K. W., Deeter, M. N., Barratt, E. M., Coheur, P.-F., Hurtmans, D., Jiang, Z., George, M., and Worden, J. R.: The influence of boreal biomass burning emissions on the distribution of tropospheric ozone over North America and the North Atlantic during 2010, Atmos. Chem. Phys., 12, 2077–2098, https://doi.org/10.5194/acp-12-2077-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/2009JD012493</doi>
+              <unstructured_citation>Pittman, J. V., Pan, L. L., Wei, J. C., Irion, F. W., Liu, X., Maddy, E. S., Barnet, C. D., Chance, K., and Gao, R. S.: Evaluation of AIRS, IASI, and OMI ozone profile retrievals in the extratropical tropopause region using in situ aircraft measurements, J. Geophys. Res., 114, D24109, https://doi.org/10.1029/2009jd012493, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/acp-12-7371-2012</doi>
+              <unstructured_citation>Pommier, M., Clerbaux, C., Law, K. S., Ancellet, G., Bernath, P., Coheur, P.-F., Hadji-Lazaro, J., Hurtmans, D., Nédélec, P., Paris, J.-D., Ravetta, F., Ryerson, T. B., Schlager, H., and Weinheimer, A. J.: Analysis of IASI tropospheric O3 data over the Arctic during POLARCAT campaigns in 2008, Atmos. Chem. Phys., 12, 7371–7389, https://doi.org/10.5194/acp-12-7371-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1142/3171</doi>
+              <unstructured_citation>Rodgers, C. D.: Inverse Methods for Atmospheric Sounding, Theory and Practice, World Scientific Publishing, London, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/2002JD002299</doi>
+              <unstructured_citation>Rodgers, C. D. and Connor, B. J.: Intercomparison of remote sounding instruments, J. Geophys. Res., 108, 4116, https://doi.org/10.1029/2002jd002299, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1016/j.jqsrt.2004.10.008</doi>
+              <unstructured_citation>Rothman, L. S., Jacquemart, D., Barbe, A., Chris Benner, D., Birk, M., Brown, L. R., Carleer, M. R., Chackerian, C., Chance, K. L., Coudert, L. H., Dana, V., Devi, V. M., Flaud, J.-M., Gamache, R. R., Goldman, A., Hartmann, J.-M., Jucks, K. W., Maki, A. G., Mandin, J.-Y., Massie, S. T., Orphal, J., Perrin, A., Rinsland, C. P., Smith, M. A. H., Tennyson, J., Tolchenov, R. N., Toth, R. A., Vander Auwera, J., Varanasi, P., and Wagner, G.: The HITRAN 2004 molecular spectroscopic database, J. Quant. Spectrosc. Ra., 96, 139–204, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/amt-5-123-2012</doi>
+              <unstructured_citation>Scannell, C., Hurtmans, D., Boynard, A., Hadji-Lazaro, J., George, M., Delcloo, A., Tuinder, O., Coheur, P.-F., and Clerbaux, C.: Antarctic ozone hole as observed by IASI/MetOp for 2008–2010, Atmos. Meas. Tech., 5, 123–139, https://doi.org/10.5194/amt-5-123-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1016/j.asr.2005.03.008</doi>
+              <unstructured_citation>Schlüssel, P., Hultberg, T. H., Phillips, P. L., August, T., and Calbet, X.: The operational IASI Level 2 processor, in: Atmospheric Remote Sensing: Earth's Surface, Troposphere, Stratosphere and Mesosphere – I, edited by: Burrows, J. P. and Eichmann, K. U., Adv. Space Res., 5, 982–988, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2007JD008856</doi>
+              <unstructured_citation>Shephard, M. W., Worden, H. M., Cady-Pereira, K. E., Lampel, M., Luo, M. Z., Bowman, K. W., Sarkissian, E., Beer, R., Rider, D. M., Tobin, D. C., Revercomb, H. E., Fisher, B. M., Tremblay, D., Clough, S. A., Osterman, G. B., and Gunson, M.: Tropospheric Emission Spectrometer nadir spectral radiance comparisons, J. Geophys. Res., 113, D15S05, https://doi.org/10.1029/2007jd008856, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/amt-6-1413-2013</doi>
+              <unstructured_citation>Verstraeten, W. W., Boersma, K. F., Zörner, J., Allaart, M. A. F., Bowman, K. W., and Worden, J. R.: Validation of six years of TES tropospheric ozone retrievals with ozonesonde measurements: implications for spatial patterns and temporal stability in the bias, Atmos. Meas. Tech., 6, 1413–1423, https://doi.org/10.5194/amt-6-1413-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/amt-4-535-2011</doi>
+              <unstructured_citation>Viatte, C., Schneider, M., Redondas, A., Hase, F., Eremenko, M., Chelin, P., Flaud, J.-M., Blumenstock, T., and Orphal, J.: Comparison of ground-based FTIR and Brewer O3 total column with data from two different IASI algorithms and from OMI and GOME-2 satellite instruments, Atmos. Meas. Tech., 4, 535–546, https://doi.org/10.5194/amt-4-535-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/2011JD016066</doi>
+              <unstructured_citation>Wassmann, A., Landgraf, J., and Aben, I.: Ozone profiles from clear sky thermal infrared measurements of the Infrared Atmospheric Sounding Interferometer: A retrieval approach accounting for thin cirrus, J. Geophys. Res., 116, D22302, https://doi.org/10.1029/2011jd016066, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/2000JD000123</doi>
+              <unstructured_citation>Wild, O. and Akimoto, H.: Intercontinental transport of ozone and its precursors in a three-dimensional global CTM, J. Geophys. Res., 106, 27729–27744, https://doi.org/10.1029/2000jd000123, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>WMO (World Meteorological Organization): Global Atmosphere Watch, Quality Assurance and Quality Control for Ozonesonde Measurements in GAW, prepared by H. G. J. Smit and the Panel for the Assessment of Standard Operating Procedures for Ozonesondes (ASOPOS), GAW report No. 201, Geneva, Switzerland, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/2006JD007258</doi>
+              <unstructured_citation>Worden, H. M., Logan, J. A., Worden, J. R., Beer, R., Bowman, K., Clough, S. A., Eldering, A., Fisher, B. M., Gunson, M. R., Herman, R. L., Kulawik, S. S., Lampel, M. C., Luo, M., Megretskaia, I. A., Osterman, G. B., and Shephard, M. W.: Comparisons of Tropospheric Emission Spectrometer (TES) ozone profiles to ozonesondes: Methods and initial results, J. Geophys. Res., 112, D03309, https://doi.org/10.1029/2006jd007258, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1364/AO.36.002609</doi>
+              <unstructured_citation>Wu, X. Q. and Smith, W. L.: Emissivity of rough sea surface for 8–13 μm: Modeling and verification, Appl. Optics, 36, 2609–2619, https://doi.org/10.1364/ao.36.002609, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1109/TGRS.2010.2051036</doi>
+              <unstructured_citation>Zhou, D. K., Larar, A. M., Liu, X., Smith, W. L., Strow, L. L., Yang, P., Schlüssel, P., and Calbet, X.: Global Land Surface Emissivity Retrieved From Satellite Ultraspectral IR Measurements, IEEE T. Geosci. Remote, 49, 1277–1290, https://doi.org/10.1109/tgrs.2010.2051036, 2011.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

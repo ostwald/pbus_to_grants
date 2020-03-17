@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-02-12 04:55:28">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>19</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Organic peroxy radical chemistry in oxidation flow reactors and environmental chambers and their atmospheric relevance</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Zhe</given_name>
+              <surname>Peng</surname>
+              <ORCID>https://orcid.org/0000-0002-6823-452X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Julia</given_name>
+              <surname>Lee-Taylor</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John J.</given_name>
+              <surname>Orlando</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Geoffrey S.</given_name>
+              <surname>Tyndall</surname>
+              <ORCID>https://orcid.org/0000-0002-0695-5241</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jose L.</given_name>
+              <surname>Jimenez</surname>
+              <ORCID>https://orcid.org/0000-0001-6203-1847</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Oxidation flow reactors (OFRs) are a promising complement to
+environmental chambers for investigating atmospheric oxidation processes and
+secondary aerosol formation. However, questions have been raised about how
+representative the chemistry within OFRs is of that in the troposphere. We
+investigate the fates of organic peroxy radicals (<span class="inline-formula">RO<sub>2</sub></span>), which play
+a central role in atmospheric organic chemistry, in OFRs and environmental
+chambers by chemical kinetic modeling and compare to a variety of ambient
+conditions to help define a range of atmospherically relevant OFR operating
+conditions. For most types of <span class="inline-formula">RO<sub>2</sub></span>, their bimolecular fates in OFRs
+are mainly <span class="inline-formula">RO<sub>2</sub>+HO<sub>2</sub></span> and <span class="inline-formula">RO<sub>2</sub>+NO</span>, similar to chambers and
+atmospheric studies. For substituted primary <span class="inline-formula">RO<sub>2</sub></span> and acyl
+<span class="inline-formula">RO<sub>2</sub></span>, <span class="inline-formula">RO<sub>2</sub>+RO<sub>2</sub></span> can make a significant contribution to
+the fate of <span class="inline-formula">RO<sub>2</sub></span> in OFRs, chambers and the atmosphere, but
+<span class="inline-formula">RO<sub>2</sub>+RO<sub>2</sub></span> in OFRs is in general somewhat less important than in
+the atmosphere. At high NO, <span class="inline-formula">RO<sub>2</sub>+NO</span> dominates <span class="inline-formula">RO<sub>2</sub></span> fate in
+OFRs, as in the atmosphere. At a high UV lamp setting in OFRs,
+<span class="inline-formula">RO<sub>2</sub>+OH</span> can be a major <span class="inline-formula">RO<sub>2</sub></span> fate and <span class="inline-formula">RO<sub>2</sub></span>
+isomerization can be negligible for common multifunctional <span class="inline-formula">RO<sub>2</sub></span>,
+both of which deviate from common atmospheric conditions. In the OFR254
+operation mode (for which OH is generated only from the photolysis of added
+<span class="inline-formula">O<sub>3</sub></span>), we cannot identify any conditions that can simultaneously
+avoid significant organic photolysis at 254 nm and lead to <span class="inline-formula">RO<sub>2</sub></span>
+lifetimes long enough (<span class="inline-formula">∼ 10</span> s) to allow atmospherically relevant
+<span class="inline-formula">RO<sub>2</sub></span> isomerization. In the OFR185 mode (for which OH is generated
+from reactions initiated by 185 nm photons), high relative humidity, low UV
+intensity and low precursor concentrations are recommended for the
+atmospherically relevant gas-phase chemistry of both stable species and
+<span class="inline-formula">RO<sub>2</sub></span>. These conditions ensure minor or negligible <span class="inline-formula">RO<sub>2</sub>+OH</span>
+and a relative importance of <span class="inline-formula">RO<sub>2</sub></span> isomerization in <span class="inline-formula">RO<sub>2</sub></span>
+fate in OFRs within <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M24" display="inline" overflow="scroll" dspmath="mathml"><mrow><mo>∼</mo><mspace linebreak="nobreak" width="0.125em"/><mo>×</mo><mn mathvariant="normal">2</mn></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="27pt" height="10pt" class="svg-formula" dspmath="mathimg" md5hash="9e5e3cdaccf088d3c89214b2faa55cd1"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="acp-19-813-2019-ie00001.svg" width="27pt" height="10pt" src="acp-19-813-2019-ie00001.png"/></svg:svg></span></span> of that in the atmosphere. Under these
+conditions, the photochemical age within OFR185 systems can reach a few
+equivalent days at most, encompassing the typical ages for maximum secondary
+organic aerosol (SOA) production. A small increase in OFR temperature may
+allow the relative importance of <span class="inline-formula">RO<sub>2</sub></span> isomerization to approach the
+ambient values. To study the heterogeneous oxidation of SOA formed under
+atmospherically relevant OFR conditions, a different UV source with higher
+intensity is needed after the SOA formation stage, which can be done with
+another reactor in series. Finally, we recommend evaluating the atmospheric
+relevance of <span class="inline-formula">RO<sub>2</sub></span> chemistry by always reporting measured and/or
+estimated OH, <span class="inline-formula">HO<sub>2</sub></span>, NO, <span class="inline-formula">NO<sub>2</sub></span> and OH reactivity (or at least
+precursor composition and concentration) in all chamber and flow reactor
+experiments. An easy-to-use <span class="inline-formula">RO<sub>2</sub></span> fate estimator program is included
+with this paper to facilitate the investigation of this topic in future
+studies.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>22</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>813</first_page>
+            <last_page>834</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Environmental Protection Agency
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000139</assertion>
+              </assertion>
+              <assertion name="award_number">STAR 83587701-0</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Division of Atmospheric and Geospace Sciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000159</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1740610</assertion>
+              <assertion name="award_number">AGS-1822664</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX15AT96G</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Biological and Environmental Research
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006206</assertion>
+              </assertion>
+              <assertion name="award_number">DE-SC0016559</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-19-813-2019</doi>
+            <resource>https://www.atmos-chem-phys.net/19/813/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/19/813/2019/acp-19-813-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1021/acs.jpca.6b07704</doi>
+              <unstructured_citation>Assaf, E., Song, B., Tomas, A., Schoemaecker, C., and Fittschen, C.: Rate
+Constant of the Reaction between CH3O2 Radicals and OH Radicals Revisited,
+J. Phys. Chem. A, 120, 8923–8932, https://doi.org/10.1021/acs.jpca.6b07704, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1016/j.cplett.2017.06.062</doi>
+              <unstructured_citation>Assaf, E., Tanaka, S., Kajii, Y., Schoemaecker, C., and Fittschen, C.: Rate
+constants of the reaction of C2–C4 peroxy radicals with OH radicals, Chem.
+Phys. Lett., 684, 245–249, https://doi.org/10.1016/j.cplett.2017.06.062, 2017a. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1021/acs.est.6b06265</doi>
+              <unstructured_citation>Assaf, E., Sheps, L., Whalley, L., Heard, D., Tomas, A., Schoemaecker, C.,
+and Fittschen, C.: The Reaction between CH3O2 and OH Radicals: Product
+Yields and Atmospheric Implications, Environ. Sci. Technol., 51,
+2170–2177, https://doi.org/10.1021/acs.est.6b06265, 2017b. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1002/kin.21191</doi>
+              <unstructured_citation>Assaf, E., Schoemaecker, C., Vereecken, L., and Fittschen, C.: Experimental
+and theoretical investigation of the reaction of RO2 radicals with OH
+radicals: Dependence of the HO2 yield on the size of the alkyl group, Int.
+J. Chem. Kinet., 50, 670–680, https://doi.org/10.1002/kin.21191, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1021/cr0206420</doi>
+              <unstructured_citation>Atkinson, R. and Arey, J.: Atmospheric degradation of volatile organic
+compounds, Chem. Rev., 103, 4605–4638, https://doi.org/10.1021/cr0206420, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/acp-5-2497-2005</doi>
+              <unstructured_citation>Aumont, B., Szopa, S., and Madronich, S.: Modelling the evolution of organic
+carbon during its gas-phase tropospheric oxidation: development of an
+explicit model based on a self generating approach, Atmos. Chem. Phys., 5,
+2497–2517, https://doi.org/10.5194/acp-5-2497-2005, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/anie.201710989</doi>
+              <unstructured_citation>Berndt, T., Scholz, W., Mentler, B., Fischer, L., Herrmann, H., Kulmala, M.,
+and Hansel, A.: Accretion Product Formation from Self- and Cross-Reactions of
+RO2 Radicals in the Atmosphere, Angew. Chem. Int. Edit., 57,
+3820–3824, https://doi.org/10.1002/anie.201710989, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/j.cplett.2013.12.052</doi>
+              <unstructured_citation>Bossolasco, A., Faragó, E. P., Schoemaecker, C., and Fittschen, C.: Rate
+constant of the reaction between CH3O2 and OH radicals, Chem.
+Phys. Lett., 593, 7–13, https://doi.org/10.1016/j.cplett.2013.12.052, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Burkholder, J. B., Sander, S. P., Abbatt, J., Barker, J. R., Huie, R. E.,
+Kolb, C. E., Kurylo, M. J., Orkin, V. L., Wilmouth, D. M., and Wine, P. H.:
+Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies:
+Evaluation Number 18, Pasadena, CA, USA, available at:
+http://jpldataeval.jpl.nasa.gov/ (last access: 30 November 2018), 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.08.040</doi>
+              <unstructured_citation>Carter, W. P. L., Cocker, D. R., Fitz, D. R., Malkina, I. L., Bumiller, K.,
+Sauer, C. G., Pisano, J. T., Bufalino, C., and Song, C.: A new environmental
+chamber for evaluation of gas-phase chemical mechanisms and secondary aerosol
+formation, Atmos. Environ., 39, 7768–7788,
+https://doi.org/10.1016/j.atmosenv.2005.08.040, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1021/es0019169</doi>
+              <unstructured_citation>Cocker, D. R., Flagan, R. C., and Seinfeld, J. H.: State-of-the-Art Chamber
+Facility for Studying Atmospheric Aerosol Chemistry, Environ. Sci. Technol.,
+35, 2594–2601, https://doi.org/10.1021/es0019169, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1021/jz4019207</doi>
+              <unstructured_citation>Crounse, J. D., Nielsen, L. B., Jørgensen, S., Kjaergaard, H. G., and
+Wennberg, P. O.: Autoxidation of organic compounds in the atmosphere, J.
+Phys. Chem. Lett., 4, 3513–3520, https://doi.org/10.1021/jz4019207, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1021/acs.est.7b00460</doi>
+              <unstructured_citation>D'Ambro, E. L., Møller, K. H., Lopez-Hilfiker, F. D., Schobesberger, S.,
+Liu, J., Shilling, J. E., Lee, B. H., Kjaergaard, H. G., and Thornton, J. A.:
+Isomerization of Second-Generation Isoprene Peroxy Radicals: Epoxide
+Formation and Implications for Secondary Organic Aerosol Yields, Environ.
+Sci. Technol., 51, 4978–4987, https://doi.org/10.1021/acs.est.7b00460, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1021/es502481q</doi>
+              <unstructured_citation>Fittschen, C., Whalley, L. K., and Heard, D. E.: The reaction of
+CH3O2 radicals with OH radicals: a neglected sink for
+CH3O2 in the remote atmosphere, Environ. Sci. Technol., 48,
+7700–7701, https://doi.org/10.1021/es502481q, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-13-8585-2013</doi>
+              <unstructured_citation>Fry, J. L., Draper, D. C., Zarzana, K. J., Campuzano-Jost, P., Day, D. A.,
+Jimenez, J. L., Brown, S. S., Cohen, R. C., Kaser, L., Hansel, A., Cappellin,
+L., Karl, T., Hodzic Roux, A., Turnipseed, A., Cantrell, C., Lefer, B. L.,
+and Grossberg, N.: Observations of gas- and aerosol-phase organic nitrates at
+BEACHON-RoMBAS 2011, Atmos. Chem. Phys., 13, 8585–8605,
+https://doi.org/10.5194/acp-13-8585-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/acp-16-11563-2016</doi>
+              <unstructured_citation>Hu, W., Palm, B. B., Day, D. A., Campuzano-Jost, P., Krechmer, J. E., Peng,
+Z., de Sá, S. S., Martin, S. T., Alexander, M. L., Baumann, K., Hacker, L.,
+Kiendler-Scharr, A., Koss, A. R., de Gouw, J. A., Goldstein, A. H., Seco, R.,
+Sjostedt, S. J., Park, J.-H., Guenther, A. B., Kim, S., Canonaco, F., Prévôt,
+A. S. H., Brune, W. H., and Jimenez, J. L.: Volatility and lifetime against
+OH heterogeneous reaction of ambient isoprene-epoxydiols-derived secondary
+organic aerosol (IEPOX-SOA), Atmos. Chem. Phys., 16, 11563–11580,
+https://doi.org/10.5194/acp-16-11563-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/acp-9-7161-2009</doi>
+              <unstructured_citation>Huffman, J. A., Docherty, K. S., Aiken, A. C., Cubison, M. J., Ulbrich, I.
+M., DeCarlo, P. F., Sueper, D., Jayne, J. T., Worsnop, D. R., Ziemann, P. J.,
+and Jimenez, J. L.: Chemically-resolved aerosol volatility measurements from
+two megacity field studies, Atmos. Chem. Phys., 9, 7161–7182,
+https://doi.org/10.5194/acp-9-7161-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1021/acs.jpca.5b06768</doi>
+              <unstructured_citation>Jørgensen, S., Knap, H. C., Otkjær, R. V, Jensen, A. M., Kjeldsen, M.
+L. H., Wennberg, P. O., and Kjaergaard, H. G.: Rapid Hydrogen Shift
+Scrambling in Hydroperoxy-Substituted Organic Peroxy Radicals, J. Phys. Chem.
+A, 120, 266–275, https://doi.org/10.1021/acs.jpca.5b06768, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1021/jp4094996</doi>
+              <unstructured_citation>Kalafut-Pettibone, A. J., Klems, J. P., Burgess, D. R., and McGivern, W. S.:
+Alkylperoxy radical photochemistry in organic aerosol formation processes, J.
+Phys. Chem. A, 117, 14141–14150, https://doi.org/10.1021/jp4094996, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-7-5727-2007</doi>
+              <unstructured_citation>Kang, E., Root, M. J., Toohey, D. W., and Brune, W. H.: Introducing the
+concept of Potential Aerosol Mass (PAM), Atmos. Chem. Phys., 7, 5727–5744,
+https://doi.org/10.5194/acp-7-5727-2007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-11-1837-2011</doi>
+              <unstructured_citation>Kang, E., Toohey, D. W., and Brune, W. H.: Dependence of SOA oxidation on
+organic aerosol mass concentration and OH exposure: experimental PAM chamber
+studies, Atmos. Chem. Phys., 11, 1837–1852,
+https://doi.org/10.5194/acp-11-1837-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-16-8559-2016</doi>
+              <unstructured_citation>Karjalainen, P., Timonen, H., Saukko, E., Kuuluvainen, H., Saarikoski, S.,
+Aakko-Saksa, P., Murtonen, T., Bloss, M., Dal Maso, M., Simonen, P., Ahlberg,
+E., Svenningsson, B., Brune, W. H., Hillamo, R., Keskinen, J., and Rönkkö,
+T.: Time-resolved characterization of primary particle emissions and
+secondary particle formation from a modern gasoline passenger car, Atmos.
+Chem. Phys., 16, 8559–8570, https://doi.org/10.5194/acp-16-8559-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1021/jp509165x</doi>
+              <unstructured_citation>Klems, J. P., Lippa, K. A., and McGivern, W. S.: Quantitative Evidence for
+Organic Peroxy Radical Photochemistry at 254&amp;amp;thinsp;nm, J. Phys. Chem. A, 119,
+344–351, https://doi.org/10.1021/jp509165x, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1021/acs.jpca.6b12787</doi>
+              <unstructured_citation>Knap, H. C. and Jørgensen, S.: Rapid Hydrogen Shift Reactions in Acyl
+Peroxy Radicals, J. Phys. Chem. A, 121, 1470–1479,
+https://doi.org/10.1021/acs.jpca.6b12787, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1021/acs.est.6b00606</doi>
+              <unstructured_citation>Krechmer, J. E., Pagonis, D., Ziemann, P. J., and Jimenez, J. L.:
+Quantification of Gas-Wall Partitioning in Teflon Environmental Chambers
+Using Rapid Bursts of Low-Volatility Oxidized Species Generated in Situ,
+Environ. Sci. Technol., 50, 5757–5765, https://doi.org/10.1021/acs.est.6b00606, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/amt-10-2283-2017</doi>
+              <unstructured_citation>Lambe, A., Massoli, P., Zhang, X., Canagaratna, M., Nowak, J., Daube, C.,
+Yan, C., Nie, W., Onasch, T., Jayne, J., Kolb, C., Davidovits, P., Worsnop,
+D., and Brune, W.: Controlled nitric oxide production via
+O(1D)+N2O reactions for use in oxidation flow reactor
+studies, Atmos. Meas. Tech., 10, 2283–2298,
+https://doi.org/10.5194/amt-10-2283-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Lambe, A. T. and Jimenez, J. L.: PAM Wiki: User Groups, available at:
+https://sites.google.com/site/pamwiki/user-groups, last access:
+2 July 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/amt-4-445-2011</doi>
+              <unstructured_citation>Lambe, A. T., Ahern, A. T., Williams, L. R., Slowik, J. G., Wong, J. P. S.,
+Abbatt, J. P. D., Brune, W. H., Ng, N. L., Wright, J. P., Croasdale, D. R.,
+Worsnop, D. R., Davidovits, P., and Onasch, T. B.: Characterization of
+aerosol photooxidation flow reactors: heterogeneous oxidation, secondary
+organic aerosol formation and cloud condensation nuclei activity
+measurements, Atmos. Meas. Tech., 4, 445–461,
+https://doi.org/10.5194/amt-4-445-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1021/es401043j</doi>
+              <unstructured_citation>Lambe, A. T., Cappa, C. D., Massoli, P., Onasch, T. B., Forestieri, S. D.,
+Martin, A. T., Cummings, M. J., Croasdale, D. R., Brune, W. H., Worsnop, D.
+R., and Davidovits, P.: Relationship between Oxidation Level and Optical
+Properties of Secondary Organic Aerosol, Environ. Sci. Technol., 47,
+6349–6357, https://doi.org/10.1021/es401043j, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/acp-15-3063-2015</doi>
+              <unstructured_citation>Lambe, A. T., Chhabra, P. S., Onasch, T. B., Brune, W. H., Hunter, J. F.,
+Kroll, J. H., Cummings, M. J., Brogan, J. F., Parmar, Y., Worsnop, D. R.,
+Kolb, C. E., and Davidovits, P.: Effect of oxidant concentration, exposure
+time, and seed particles on secondary organic aerosol chemical composition
+and yield, Atmos. Chem. Phys., 15, 3063–3075,
+https://doi.org/10.5194/acp-15-3063-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1126/science.173.3992.141</doi>
+              <unstructured_citation>Levy II, H.: Normal atmosphere: large radical and formaldehyde concentrations
+predicted., Science, 173, 141–143, https://doi.org/10.1126/science.173.3992.141, 1971. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1021/jp509534k</doi>
+              <unstructured_citation>Li, R., Palm, B. B., Ortega, A. M., Hu, W., Peng, Z., Day, D. A., Knote, C.,
+Brune, W. H., de Gouw, J., and Jimenez, J. L.: Modeling the radical chemistry
+in an Oxidation Flow Reactor (OFR): radical formation and recycling,
+sensitivities, and OH exposure estimation equation, J. Phys. Chem. A, 119,
+4418–4432, https://doi.org/10.1021/jp509534k, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/2017GL072585</doi>
+              <unstructured_citation>Lim, C. Y., Browne, E. C., Sugrue, R. A., and Kroll, J. H.: Rapid
+heterogeneous oxidation of organic coatings on submicron aerosols, Geophys.
+Res. Lett., 44, 2949–2957, https://doi.org/10.1002/2017GL072585, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1002/2016GL068207</doi>
+              <unstructured_citation>Link, M. F., Friedman, B., Fulgham, R., Brophy, P., Galang, A., Jathar, S.
+H., Veres, P., Roberts, J. M., and Farmer, D. K.: Photochemical processing of
+diesel fuel emissions as a large secondary source of isocyanic acid (HNCO),
+Geophys. Res. Lett., 43, 4033–4041, https://doi.org/10.1002/2016GL068207, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-9-163-2009</doi>
+              <unstructured_citation>Mao, J., Ren, X., Brune, W. H., Olson, J. R., Crawford, J. H., Fried, A.,
+Huey, L. G., Cohen, R. C., Heikes, B., Singh, H. B., Blake, D. R., Sachse, G.
+W., Diskin, G. S., Hall, S. R., and Shetter, R. E.: Airborne measurement of
+OH reactivity during INTEX-B, Atmos. Chem. Phys., 9, 163–173,
+https://doi.org/10.5194/acp-9-163-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/acp-16-4785-2016</doi>
+              <unstructured_citation>Martin, S. T., Artaxo, P., Machado, L. A. T., Manzi, A. O., Souza, R. A. F.,
+Schumacher, C., Wang, J., Andreae, M. O., Barbosa, H. M. J., Fan, J., Fisch,
+G., Goldstein, A. H., Guenther, A., Jimenez, J. L., Pöschl, U., Silva
+Dias, M. A., Smith, J. N., and Wendisch, M.: Introduction: Observations and
+Modeling of the Green Ocean Amazon (GoAmazon2014/5), Atmos. Chem. Phys., 16,
+4785–4797, https://doi.org/10.5194/acp-16-4785-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/BAMS-D-15-00221.1</doi>
+              <unstructured_citation>Martin, S. T., Artaxo, P., Machado, L., Manzi, A. O., Souza, R. A. F.,
+Schumacher, C., Wang, J., Biscaro, T., Brito, J., Calheiros, A., Jardine, K.,
+Medeiros, A., Portela, B., De Sá, S. S., Adachi, K., Aiken, A. C.,
+Alblbrecht, R., Alexander, L., Andreae, M. O., Barbosa, H. M. J., Buseck, P.,
+Chand, D., Comstmstmstock, J. M., Day, D. A., Dubey, M., Fan, J., Fastst, J.,
+Fisch, G., Fortner, E., Giangrande, S., Gilllles, M., Goldststein, A. H.,
+Guenther, A., Hubbbbe, J., Jensen, M., Jimenez, J. L., Keutstsch, F. N., Kim,
+S., Kuang, C., Laskskin, A., McKinney, K., Mei, F., Millller, M., Nascimento,
+R., Pauliquevis, T., Pekour, M., Peres, J., Petäjä, T.,
+Pöhlklker, C., Pöschl, U., Rizzo, L., Schmid, B., Shilllling, J. E.,
+Silva Dias, M. A., Smith, J. N., Tomlmlinson, J. M., Tóta, J., and
+Wendisch, M.: The green ocean amazon experiment (GOAMAZON2014/5) observes
+pollution affecting gases, aerosols, clouds, and rainfall over the rain
+forest, B. Am. Meteorol. Soc., 98, 981–997, https://doi.org/10.1175/BAMS-D-15-00221.1,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1080/02786826.2010.501044</doi>
+              <unstructured_citation>Matsunaga, A. and Ziemann, P. J.: Gas-Wall Partitioning of Organic Compounds
+in a Teflon Film Chamber and Potential Effects on Reaction Product and
+Aerosol Yield Measurements, Aerosol Sci. Tech., 44, 881–892,
+https://doi.org/10.1080/02786826.2010.501044, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1038/ncomms13213</doi>
+              <unstructured_citation>Müller, J.-F., Liu, Z., Nguyen, V. S., Stavrakou, T., Harvey, J. N., and
+Peeters, J.: The reaction of methyl peroxy and hydroxyl radicals as a major
+source of atmospheric methanol, Nat. Commun., 7, 13213,
+https://doi.org/10.1038/ncomms13213, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-18-17769-2018</doi>
+              <unstructured_citation>Nault, B. A., Campuzano-Jost, P., Day, D. A., Schroder, J. C., Anderson, B.,
+Beyersdorf, A. J., Blake, D. R., Brune, W. H., Choi, Y., Corr, C. A., de
+Gouw, J. A., Dibb, J., DiGangi, J. P., Diskin, G. S., Fried, A., Huey, L. G.,
+Kim, M. J., Knote, C. J., Lamb, K. D., Lee, T., Park, T., Pusede, S. E.,
+Scheuer, E., Thornhill, K. L., Woo, J.-H., and Jimenez, J. L.: Secondary
+organic aerosol production from local emissions dominates the organic aerosol
+budget over Seoul, South Korea, during KORUS-AQ, Atmos. Chem. Phys., 18,
+17769–17800, https://doi.org/10.5194/acp-18-17769-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1126/science.1108752</doi>
+              <unstructured_citation>Nel, A.: Air Pollution-Related Illness: Effects of Particles, Science, 308,
+804–806, https://doi.org/10.1126/science.1108752, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/acp-14-13531-2014</doi>
+              <unstructured_citation>Nguyen, T. B., Crounse, J. D., Schwantes, R. H., Teng, A. P., Bates, K. H.,
+Zhang, X., St. Clair, J. M., Brune, W. H., Tyndall, G. S., Keutsch, F. N.,
+Seinfeld, J. H., and Wennberg, P. O.: Overview of the Focused Isoprene
+eXperiment at the California Institute of Technology (FIXCIT): mechanistic
+chamber studies on the oxidation of biogenic compounds, Atmos. Chem. Phys.,
+14, 13531–13549, https://doi.org/10.5194/acp-14-13531-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1039/c2cs35166h</doi>
+              <unstructured_citation>Orlando, J. J. and Tyndall, G. S.: Laboratory studies of organic peroxy
+radical chemistry: an overview with emphasis on recent issues of atmospheric
+significance, Chem. Soc. Rev., 41, 6294–6317, https://doi.org/10.1039/c2cs35166h,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/acp-13-11551-2013</doi>
+              <unstructured_citation>Ortega, A. M., Day, D. A., Cubison, M. J., Brune, W. H., Bon, D., de Gouw, J.
+A., and Jimenez, J. L.: Secondary organic aerosol formation and primary
+organic aerosol oxidation from biomass-burning smoke in a flow reactor during
+FLAME-3, Atmos. Chem. Phys., 13, 11551–11571,
+https://doi.org/10.5194/acp-13-11551-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-16-7411-2016</doi>
+              <unstructured_citation>Ortega, A. M., Hayes, P. L., Peng, Z., Palm, B. B., Hu, W., Day, D. A., Li,
+R., Cubison, M. J., Brune, W. H., Graus, M., Warneke, C., Gilman, J. B.,
+Kuster, W. C., de Gouw, J., Gutiérrez-Montes, C., and Jimenez, J. L.:
+Real-time measurements of secondary organic aerosol formation and aging from
+ambient air in an oxidation flow reactor in the Los Angeles area, Atmos.
+Chem. Phys., 16, 7411–7433, https://doi.org/10.5194/acp-16-7411-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-14-6345-2014</doi>
+              <unstructured_citation>Ortega, J., Turnipseed, A., Guenther, A. B., Karl, T. G., Day, D. A., Gochis,
+D., Huffman, J. A., Prenni, A. J., Levin, E. J. T., Kreidenweis, S. M.,
+DeMott, P. J., Tobo, Y., Patton, E. G., Hodzic, A., Cui, Y. Y., Harley, P.
+C., Hornbrook, R. S., Apel, E. C., Monson, R. K., Eller, A. S. D., Greenberg,
+J. P., Barth, M. C., Campuzano-Jost, P., Palm, B. B., Jimenez, J. L., Aiken,
+A. C., Dubey, M. K., Geron, C., Offenberg, J., Ryan, M. G., Fornwalt, P. J.,
+Pryor, S. C., Keutsch, F. N., DiGangi, J. P., Chan, A. W. H., Goldstein, A.
+H., Wolfe, G. M., Kim, S., Kaser, L., Schnitzhofer, R., Hansel, A., Cantrell,
+C. A., Mauldin, R. L., and Smith, J. N.: Overview of the Manitou Experimental
+Forest Observatory: site description and selected science results from 2008
+to 2013, Atmos. Chem. Phys., 14, 6345–6367,
+https://doi.org/10.5194/acp-14-6345-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/acp-16-2943-2016</doi>
+              <unstructured_citation>Palm, B. B., Campuzano-Jost, P., Ortega, A. M., Day, D. A., Kaser, L., Jud,
+W., Karl, T., Hansel, A., Hunter, J. F., Cross, E. S., Kroll, J. H., Peng,
+Z., Brune, W. H., and Jimenez, J. L.: In situ secondary organic aerosol
+formation from ambient pine forest air using an oxidation flow reactor,
+Atmos. Chem. Phys., 16, 2943–2970, https://doi.org/10.5194/acp-16-2943-2016,
+2016. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-17-5331-2017</doi>
+              <unstructured_citation>Palm, B. B., Campuzano-Jost, P., Day, D. A., Ortega, A. M., Fry, J. L.,
+Brown, S. S., Zarzana, K. J., Dube, W., Wagner, N. L., Draper, D. C., Kaser,
+L., Jud, W., Karl, T., Hansel, A., Gutiérrez-Montes, C., and Jimenez, J. L.:
+Secondary organic aerosol formation from in situ OH, O3, and
+NO3 oxidation of ambient forest air in an oxidation flow reactor,
+Atmos. Chem. Phys., 17, 5331-5354, https://doi.org/10.5194/acp-17-5331-2017,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-17-11991-2017</doi>
+              <unstructured_citation>Peng, Z. and Jimenez, J. L.: Modeling of the chemistry in oxidation flow
+reactors with high initial NO, Atmos. Chem. Phys., 17, 11991–12010,
+https://doi.org/10.5194/acp-17-11991-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/amt-8-4863-2015</doi>
+              <unstructured_citation>Peng, Z., Day, D. A., Stark, H., Li, R., Lee-Taylor, J., Palm, B. B., Brune,
+W. H., and Jimenez, J. L.: HOx radical chemistry in oxidation flow
+reactors with low-pressure mercury lamps systematically examined by modeling,
+Atmos. Meas. Tech., 8, 4863–4890, https://doi.org/10.5194/amt-8-4863-2015,
+2015. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/acp-16-4283-2016</doi>
+              <unstructured_citation>Peng, Z., Day, D. A., Ortega, A. M., Palm, B. B., Hu, W., Stark, H., Li, R.,
+Tsigaridis, K., Brune, W. H., and Jimenez, J. L.: Non-OH chemistry in
+oxidation flow reactors for the study of atmospheric chemistry systematically
+examined by modeling, Atmos. Chem. Phys., 16, 4283–4305,
+https://doi.org/10.5194/acp-16-4283-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1021/acsearthspacechem.7b00070</doi>
+              <unstructured_citation>Peng, Z., Palm, B. B., Day, D. A., Talukdar, R. K., Hu, W., Lambe, A. T.,
+Brune, W. H., and Jimenez, J. L.: Model Evaluation of New Techniques for
+Maintaining High-NO Conditions in Oxidation Flow Reactors for the Study of
+OH-Initiated Atmospheric Chemistry, ACS Earth Sp. Chem., 2, 72–86,
+https://doi.org/10.1021/acsearthspacechem.7b00070, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/acp-13-9141-2013</doi>
+              <unstructured_citation>Platt, S. M., El Haddad, I., Zardini, A. A., Clairotte, M., Astorga, C.,
+Wolf, R., Slowik, J. G., Temime-Roussel, B., Marchand, N., Ježek, I.,
+Drinovec, L., Mocnik, G., Möhler, O., Richter, R., Barmet, P., Bianchi, F.,
+Baltensperger, U., and Prévôt, A. S. H.: Secondary organic aerosol formation
+from gasoline vehicle emissions in a new mobile environmental reaction
+chamber, Atmos. Chem. Phys., 13, 9141–9158,
+https://doi.org/10.5194/acp-13-9141-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1073/pnas.1715540115</doi>
+              <unstructured_citation>Praske, E., Otkjær, R. V., Crounse, J. D., Hethcox, J. C., Stoltz, B. M.,
+Kjaergaard, H. G., and Wennberg, P. O.: Atmospheric autoxidation is
+increasingly important in urban and suburban North America, P. Natl. Acad.
+Sci. USA, 115, 64–69, https://doi.org/10.1073/pnas.1715540115, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1021/es050174m</doi>
+              <unstructured_citation>Presto, A. A., Huff Hartz, K. E., and Donahue, N. M.: Secondary Organic
+Aerosol Production from Terpene Ozonolysis. 1. Effect of UV Radiation,
+Environ. Sci. Technol., 39, 7036–7045, https://doi.org/10.1021/es050174m, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1021/acs.jpclett.5b02121</doi>
+              <unstructured_citation>Richards-Henderson, N. K., Goldstein, A. H., and Wilson, K. R.: Large
+Enhancement in the Heterogeneous Oxidation Rate of Organic Aerosols by
+Hydroxyl Radicals in the Presence of Nitric Oxide, J. Phys. Chem. Lett., 6,
+4451–4455, https://doi.org/10.1021/acs.jpclett.5b02121, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1021/acs.est.5b05369</doi>
+              <unstructured_citation>Richards-Henderson, N. K., Goldstein, A. H., and Wilson, K. R.: Sulfur
+Dioxide Accelerates the Heterogeneous Oxidation Rate of Organic Aerosol by
+Hydroxyl Radicals, Environ. Sci. Technol., 50, 3554–3561,
+https://doi.org/10.1021/acs.est.5b05369, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1002/jgrd.50331</doi>
+              <unstructured_citation>Ryerson, T. B., Andrews, A. E., Angevine, W. M., Bates, T. S., Brock, C. A.,
+Cairns, B., Cohen, R. C., Cooper, O. R., De Gouw, J. A., Fehsenfeld, F. C.,
+Ferrare, R. A., Fischer, M. L., Flagan, R. C., Goldstein, A. H., Hair, J. W.,
+Hardesty, R. M., Hostetler, C. A., Jimenez, J. L., Langford, A. O., McCauley,
+E., McKeen, S. A., Molina, L. T., Nenes, A., Oltmans, S. J., Parrish, D. D.,
+Pederson, J. R., Pierce, R. B., Prather, K., Quinn, P. K., Seinfeld, J. H.,
+Senff, C. J., Sorooshian, A., Stutz, J., Surratt, J. D., Trainer, M.,
+Volkamer, R., Williams, E. J., and Wofsy, S. C.: The 2010 California Research
+at the Nexus of Air Quality and Climate Change (CalNex) field study, J.
+Geophys. Res.-Atmos., 118, 5830–5866, https://doi.org/10.1002/jgrd.50331, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung,
+J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M.: Climate Change 2013 –
+The Physical Science Basis, edited by Intergovernmental Panel on Climate
+Change, Cambridge University Press, Cambridge, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1039/c2cs35140d</doi>
+              <unstructured_citation>Stone, D., Whalley, L. K., and Heard, D. E.: Tropospheric OH and HO2
+radicals: field measurements and model comparisons, Chem. Soc. Rev., 41,
+6348–6404, https://doi.org/10.1039/c2cs35140d, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1021/es502239v</doi>
+              <unstructured_citation>Tkacik, D. S., Lambe, A. T., Jathar, S., Li, X., Presto, A. A., Zhao, Y.,
+Blake, D., Meinardi, S., Jayne, J. T., Croteau, P. L., and Robinson, A. L.:
+Secondary Organic Aerosol Formation from in-Use Motor Vehicle Emissions Using
+a Potential Aerosol Mass Reactor, Environ. Sci. Technol., 48, 11235–11242,
+https://doi.org/10.1021/es502239v, 2014.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/amt-4-2465-2011</doi>
+              <unstructured_citation>Wang, J., Doussin, J. F., Perrier, S., Perraudin, E., Katrib, Y., Pangui, E.,
+and Picquet-Varrault, B.: Design of a new multi-phase experimental simulation
+chamber for atmospheric photosmog, aerosol and cloud chemistry research,
+Atmos. Meas. Tech., 4, 2465–2494, https://doi.org/10.5194/amt-4-2465-2011,
+2011. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Wofsy, S. C., Apel, E., Blake, D. R., Brock, C. A., Brune, W. H., Bui, T. P.,
+Daube, B. C., Dibb, J. E., Diskin, G. S., Elkiins, J. W., Froyd, K., Hall, S.
+R., Hanisco, T. F., Huey, L. G., Jimenez, J. L., McKain, K., Montzka, S. A.,
+Ryerson, T. B., Schwarz, J. P., Stephens, B. B., Weinzierl, B., and Wennberg,
+P.: ATom: Merged Atmospheric Chemistry, Trace Gases, and Aerosols, Oak Ridge,
+Tennessee, USA, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1021/acs.jpca.6b04213</doi>
+              <unstructured_citation>Yan, C., Kocevska, S., and Krasnoperov, L. N.: Kinetics of the Reaction of
+CH3O2 Radicals with OH Studied over the 292–526 K Temperature
+Range, J. Phys. Chem. A, 120, 6111–6121, https://doi.org/10.1021/acs.jpca.6b04213, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1073/pnas.1404727111</doi>
+              <unstructured_citation>Zhang, X., Cappa, C. D., Jathar, S. H., McVay, R. C., Ensberg, J. J.,
+Kleeman, M. J., and Seinfeld, J. H.: Influence of vapor wall loss in
+laboratory chambers on yields of secondary organic aerosol, P. Natl. Acad.
+Sci. USA, 111, 5802–5807, https://doi.org/10.1073/pnas.1404727111, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1039/c2cs35122f</doi>
+              <unstructured_citation>Ziemann, P. J. and Atkinson, R.: Kinetics, products, and mechanisms of
+secondary organic aerosol formation, Chem. Soc. Rev., 41, 6582–6605,
+https://doi.org/10.1039/c2cs35122f, 2012. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/acp-19-813-2019-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/19/813/2019/acp-19-813-2019-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

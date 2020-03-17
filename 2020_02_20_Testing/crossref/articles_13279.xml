@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-06 09:35:02">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Combining airborne gas and aerosol measurements with HYSPLIT: a visualization tool for simultaneous evaluation of air mass history and back trajectory consistency</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Freitag</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A. D.</given_name>
+              <surname>Clarke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>S. G.</given_name>
+              <surname>Howell</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>V. N.</given_name>
+              <surname>Kapustin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>T.</given_name>
+              <surname>Campos</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>V. L.</given_name>
+              <surname>Brekhovskikh</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Zhou</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The history of air masses is often investigated using backward trajectories to gain knowledge about processes along the air parcel path as well as possible source regions. Here, we describe a refined approach that incorporates airborne gas, aerosol, and environmental data into back trajectories and show how this technique allows for simultaneous evaluation of air mass history and back trajectory reliability without the need to calculate trajectory errors. <br><br> We use the HYbrid Single-Particle Lagrangian Integrated Trajectory (HYSPLIT) model and add a simple semi-automated computing routine to facilitate high-frequency coverage of back trajectories initiated along free tropospheric (FT) flight tracks and profiles every 10 s. We integrate our in situ physiochemical data by color-coding each of these trajectories with its corresponding in situ tracer values measured at the back trajectory start points along the flight path. The unique color for each trajectory aids assessment of trajectory reliability through the visual clustering of air mass pathways of similar coloration. Moreover, marked changes in trajectories associated with marked changes evident in measured physiochemical or thermodynamic properties of an air mass add credence to trajectories. This is particularly true when these air mass properties are linked to trajectory features characteristic of recognized sources or processes. This visual clustering of air mass pathways is of particular value for large-scale 3-D flight tracks common to aircraft experiments where air mass features of interest are often spatially distributed and temporally separated. <br><br> The cluster-visualization tool used here reveals that most FT back trajectories with pollution signatures measured in the central equatorial Pacific reach back to sources on the South American continent over 10 000 km away and 12 days back in time, e.g., the Amazonian basin. We also demonstrate the distinctions in air mass properties between these and trajectories that penetrate deep convection in the Inter-Tropical Convergence Zone. Additionally, for the first time we show consistency of modeled precipitation along back trajectories with scavenging signatures in the aerosol measured for these trajectories.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>14</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>107</first_page>
+            <last_page>128</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-7-107-2014</doi>
+            <resource>https://www.atmos-meas-tech.net/7/107/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/7/107/2014/amt-7-107-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2003JD004250</doi>
+              <unstructured_citation>Allen, D., Pickering, K., and Fox-Rabinovitz, M.: Evaluation of pollutant outflow and CO sources during TRACE-P using model-calculated, aircraft-based, and Measurements of Pollution in the Troposphere (MOPITT)-derived CO concentrations, J. Geophys. Res., 109, D15S03, https://doi.org/10.1029/2003JD004250, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2000GB001382</doi>
+              <unstructured_citation>Andreae, M. and Merlet, P.: Emission of Trace Gases and Aerosols From Biomass Burning, Global Biogeochem. Cy., 15, 955–966, https://doi.org/10.1029/2000GB001382, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2000GL012391</doi>
+              <unstructured_citation>Andreae, M. O., Artaxo, P., Fischer, H., Freitas, S. R., Grégoire, J. M., Hansel, A., Hoor, P., Kormann, R., Krejci, R., Lange, L., Lelieveld, J., Lindinger, W., Longo, K., Peters, W., de Reus, M., Scheeren, B., Silva Dias, M. A. F., Ström, J., van Velthofen, P. F. J., and Williams, J.: Transport of biomass burning smoke to the upper troposphere by deep convection in the equatorial region, Geophys. Res. Lett., 28, 951–954, https://doi.org/10.1029/2000GL012391, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/98JD02346</doi>
+              <unstructured_citation>Artaxo, P., Fernandas, E. T., Martins, J. V., Yamasoe, M. A., Hobbs, P. V., Maenhaut, W., Longo, K. M., and Castanho, A.: Large-scale aerosol source apportionment in Amazonia, J. Geophys. Res., 103, 31837–31847, https://doi.org/10.1029/98JD02346, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1007/s10874-012-9215-8</doi>
+              <unstructured_citation>Bandy, A., Faloona, I. C., Blomquist, B. W., Huebert, B. J., Clarke, A. D., Howell, S. G., Mauldin, R. L., Cantrell, C. A., Hudson, J. G., Heikes, B. G., Merrill, J. T., Wang, Y., O'Sullivan, D. W., Nadler, W., and Davis, D. D.: Pacific Atmospheric Sulfur Experiment (PASE): Dynamics and chemistry of the South Pacific tropical trade wind regime, J. Atmos. Chem., 68, 5–25, https://doi.org/10.1007/s10874-012-9215-8, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/acp-9-5371-2009</doi>
+              <unstructured_citation>Barletta, B., Meinardi, S., Simpson, I. J., Atlas, E. L., Beyersdorf, A. J., Baker, A. K., Blake, N. J., Yang, M., Midyett, J. R., Novak, B. J., McKeachie, R. J., Fuelberg, H. E., Sachse, G. W., Avery, M. A., Campos, T., Weinheimer, A. J., Rowland, F. S., and Blake, D. R.: Characterization of volatile organic compounds (VOCs) in Asian and north American pollution plumes during INTEX-B: identification of specific Chinese air mass tracers, Atmos. Chem. Phys., 9, 5371–5388, https://doi.org/10.5194/acp-9-5371-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2003JD004328</doi>
+              <unstructured_citation>Bertschi, I. T., Jaffe, D. A., Jaeglé, L., Price, H. U., and Dennison, J. B.: PHOBEA/ITCT 2002 airborne observations of transpacific transport of ozone, CO, volatile organic compounds, and aerosols to the northeast Pacific: Impacts of Asian anthropogenic and Siberian boreal fire emissions, J. Geophys. Res., 109, D23S12, https://doi.org/10.1029/2003JD004328, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/S1352-2310(00)00098-4</doi>
+              <unstructured_citation>Cape, J. N., Methven, J., and Hudson, L. E.: The use of trajectory cluster analysis to interpret trace gas measurements at Mace Head, Ireland, Atmos. Environ., 34, 3651–3663, https://doi.org/10.1016/s1352-2310(00)00098-4, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1016/0960-1686(91)90061-B</doi>
+              <unstructured_citation>Clarke, A. D.: A thermo-optic technique for in situ analysis of size-resolved aerosol physicochemistry, Atmos. Environ., 25, 635–644, https://doi.org/10.1016/0960-1686(91)90061-B, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/93JD00797</doi>
+              <unstructured_citation>Clarke, A. D.: Atmospheric Nuclei in the Pacific Midtroposphere: Their Nature, Concentration, and Evolution, J. Geophys. Res., 98, 20633–20647, https://doi.org/10.1029/93JD00797, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1126/science.1188838</doi>
+              <unstructured_citation>Clarke, A. D. and Kapustin, V. N.: Hemispheric Aerosol Vertical Profiles: Anthropogenic Impacts on Optical Depth and Cloud Nuclei, Science, 329, 1488–1492, https://doi.org/10.1126/science.1188838, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/96GL00778</doi>
+              <unstructured_citation>Clarke, A. D., Li, Z., and Litchy, M.: Aerosol dynamics in the equatorial Pacific marine boundary layer: Microphysics, diurnal cycles and entrainment, Geophys. Res. Lett., 23, 733–736, https://doi.org/10.1029/96GL00778, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/97JD01555</doi>
+              <unstructured_citation>Clarke, A. D., Uehara, T., and Porter, J. N.: Atmospheric nuclei and related aerosol fields over the Atlantic: Clean subsiding air and continental pollution during ASTEX, J. Geophys. Res., 102, 25281–25292, https://doi.org/10.1029/97JD01555, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/97JD02987</doi>
+              <unstructured_citation>Clarke, A. D., Varner, J. L., Eisele, F., Mauldin, R. L., Tanner, D., and Litchy, M.: Particle production in the remote marine atmosphere: Cloud outflow and subsidence during ACE 1, J. Geophys. Res., 103, 16397–16409, https://doi.org/10.1029/97JD02987, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/98JD02303</doi>
+              <unstructured_citation>Clarke, A. D., Eisele, F., Kapustin, V. N., Moore, K., Tanner, D., Mauldin, L., Litchy, M., Lienert, B., Carroll, M. A., and Albercook, G.: Nucleation in the equatorial free troposphere: Favorable environments during PEM-Tropics, J. Geophys. Res., 104, 5735–5744, https://doi.org/10.1029/98JD02303, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2003JD004378</doi>
+              <unstructured_citation>Clarke, A. D., Shinozuka, Y., Kapustin, V. N., Howell, S. G., Huebert, B., Doherty, S., Anderson, T., Covert, D., Anderson, J., Hua, X., Moore II, K. G., McNaughton, C., Carmichael, G., and Weber, R.: Size distributions and mixtures of dust and black carbon aerosol in Asian outflow: Physiochemistry and optical properties, J. Geophys. Res., 109, D15S09, https://doi.org/10.1029/2003JD004378, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2006JD007777</doi>
+              <unstructured_citation>Clarke, A. D., McNaughton, C., Kapustin, V. N., Shinozuka, Y., Howell, S. G., Dibb, J., Zhou, J., Anderson, B., Brekhovskikh, V., Turner, H., and Pinkerton, M.: Biomass burning and pollution aerosol over North America: Organic components and their influence on spectral optical properties and humidification response, J. Geophys. Res., 112, D12S18, https://doi.org/10.1029/2006JD007777, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/acp-13-7511-2013</doi>
+              <unstructured_citation>Clarke, A. D., Freitag, S., Simpson, R. M. C., Hudson, J. G., Howell, S. G., Brekhovskikh, V. L., Campos, T., Kapustin, V. N., and Zhou, J.: Free troposphere as a major source of CCN for the equatorial pacific boundary layer: long-range transport and teleconnections, Atmos. Chem. Phys., 13, 7511–7529, https://doi.org/10.5194/acp-13-7511-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-9-8745-2009</doi>
+              <unstructured_citation>Conley, S. A., Faloona, I., Miller, G. H., Lenschow, D. H., Blomquist, B., and Bandy, A.: Closing the dimethyl sulfide budget in the tropical marine boundary layer during the Pacific Atmospheric Sulfur Experiment, Atmos. Chem. Phys., 9, 8745–8756, https://doi.org/10.5194/acp-9-8745-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1126/science.250.4988.1669</doi>
+              <unstructured_citation>Crutzen, P. J. and Andreae, M. O.: Biomass Burning in the Tropics: Impact on Atmospheric Chemistry and Biogeochemical Cycles, Science, 250, 1669–1678, https://doi.org/10.1126/science.250.4988.1669, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1016/j.atmosenv.2009.09.038</doi>
+              <unstructured_citation>Davis, R. E., Normile, C. P., Sitka, L., Hondula, D. M., Knight, D. B., Gawtry, S. P., and Stenger, P. J.: A comparison of trajectory and air mass approaches to examine ozone variability, Atmos. Environ., 44, 64–74, https://doi.org/10.1016/j.atmosenv.2009.09.038, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-3-713-2003</doi>
+              <unstructured_citation>Diab, R. D., Raghunandan, A., Thompson, A. M., and Thouret, V.: Classification of tropospheric ozone profiles over Johannesburg based on mozaic aircraft data, Atmos. Chem. Phys., 3, 713–723, https://doi.org/10.5194/acp-3-713-2003, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/2008JD011023</doi>
+              <unstructured_citation>Ding, A., Wang, T., Xue, L., Gao, J., Stohl, A., Lei, H., Jin, D., Ren, Y., Wang, X., Wei, X., Qi, Y., Liu, J., and Zhang, X.: Transport of north China air pollution by midlatitude cyclones: Case study of aircraft measurements in summer 2007, J. Geophys. Res., 114, D08304, https://doi.org/10.1029/2008JD011023, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Draxler, R. R.: HYSPLIT4 user's guide, NOAA Tech. Memo ERL ARL-230, NOAA Air Resources Laboratory, Silver Spring, MD, 209 pp., available at: http://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Draxler, R. R. and Hess, G. D.: Description of the HYSPLIT_4 modeling system, NOAA Tech. Memo ERL ARL-224, NOAA Air Resources Laboratory, Silver Spring, MD, 27 pp., available at: http://www.arl.noaa.gov/documents/reports/arl-224.pdf, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Draxler, R. R. and Hess, G. D.: An overview of the HYSPLIT_4 modeling system of trajectories, dispersion, and deposition, Aust. Meteor. Mag., 47, 295–308, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1007/s10874-010-9155-0</doi>
+              <unstructured_citation>Faloona, I., Conley, S. A., Blomquist, B., Clarke, A. D., Kapustin, V. N., Howell, S. G., Lenschow, D. H., and Bandy, A. R.: Sulfur dioxide in the tropical marine boundary layer: dry deposition and heterogeneous oxidation observed during the Pacific Atmospheric Sulfur Experiment, J. Atmos. Chem., 63, 13–32, https://doi.org/10.1007/s10874-010-9155-0, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1016/j.atmosres.2011.09.009</doi>
+              <unstructured_citation>Fleming, Z. L., Monks, P. S., and Manning, A. J.: Review: Untangling the influence of air-mass history in interpreting observed atmospheric composition, Atmos. Res., 104–105, 1–39, https://doi.org/10.1016/j.atmosres.2011.09.009, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/95JD02122</doi>
+              <unstructured_citation>Fuelberg, H. E., Loring, R. O., Watson, M. V., Sinha, M. C., Pickering, K. E., Thompson, A. M., Sachse, G. W., Blake, D. R., and Schoeber, M. R.: TRACE A Trajectory intercomparison 2. Isentropic and kinematic methods, J. Geophys. Res. Atmos., 101, 23927–23939, https://doi.org/10.1029/95JD02122, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2002JD003092</doi>
+              <unstructured_citation>Fuelberg, H. E., Kiley, C. M., Hannan, J. R., Westberg, D. J., Avery, M. A., and Newell, R. E.: Meteorological conditions and transport pathways during the Transport and Chemical Evolution over the Pacific (TRACE-P) experiment, J. Geophys. Res., 108, 8782, https://doi.org/10.1029/2002JD003092, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1126/science.254.5039.1771</doi>
+              <unstructured_citation>Gage, K. S., McAfee, J. R., Carter, D. A., Ecklund, W. L., Riddle, A. C., Reid, G. C., and Balsley, B. B.: Long-Term Mean Vertical Motion over the Tropical Pacific: Wind-Profiling Doppler Radar Measurements, Science, 254, 1771–1773, https://doi.org/10.1126/science.254.5039.1771, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1080/10473289.2005.10464758</doi>
+              <unstructured_citation>Gebhart, K. A., Schichtel, B. A., and Barna, M. G.: Directional biases in back trajectories caused by model and input data, J. Air Waste Manage. As., 55, 1649–1662, https://doi.org/10.1080/10473289.2005.10464758, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/95JD03272</doi>
+              <unstructured_citation>Gerbig, C., Kley, D., Volz-Thomas, A., Kent, J., Dewey, K., and McKenna, D. S.: Fast response resonance fluorescence CO measurements aboard the C-130: Instrument characterization and measurements made during North Atlantic Regional Experiment 1993, J. Geophys. Res., 101, 29229–29238, https://doi.org/10.1029/95JD03272, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.5194/acp-9-7551-2009</doi>
+              <unstructured_citation>Gunthe, S. S., King, S. M., Rose, D., Chen, Q., Roldin, P., Farmer, D. K., Jimenez, J. L., Artaxo, P., Andreae, M. O., Martin, S. T., and Pöschl, U.: Cloud condensation nuclei in pristine tropical rainforest air of Amazonia: size-resolved measurements and modeling of atmospheric aerosol composition and CCN activity, Atmos. Chem. Phys., 9, 7551–7575, https://doi.org/10.5194/acp-9-7551-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/WAF-D-10-05038.1</doi>
+              <unstructured_citation>Han, J. and Pan, H. L.: Revision of Convection and Vertical Diffusion Schemes in the NCEP Global Forecast System, Weather Forecast., 26, 520–533, https://doi.org/10.1175/WAF-D-10-05038.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2004JD005750</doi>
+              <unstructured_citation>Harris, J. M., Draxler, R. R., and Oltmans, S. J.: Trajectory model sensitivity to differences in input data and vertical transport method, J. Geophys. Res., 110, D14109, https://doi.org/10.1029/2004JD005750, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/GL017i012p02165</doi>
+              <unstructured_citation>Hegg, D. A.: Heterogeneous production of cloud condensation nuclei in the marine atmosphere, Geophys. Res. Lett., 17, 2165–2168, https://doi.org/10.1029/GL017i012p02165, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Holton, J. R.: An introduction to dynamic meteorology, International Geophysics Series, Vol. 88, Academic Press, Fourth Edition, 535 pp., 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1029/94JD00797</doi>
+              <unstructured_citation>Hoppel, W. A., Frick, G. M., Fitzgerald, J. W., and Larson, R. E.: Marine boundary layer measurements of new particle formation and the effects nonprecipitating clouds have on aerosol size distribution, J. Geophys. Res., 99, 14443–14459, https://doi.org/10.1029/94JD00797, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/96GL03615</doi>
+              <unstructured_citation>Kim, J. H. and Newchurch, M. J.: Climatology and trends of tropospheric ozone over the eastern Pacific Ocean: The influences of biomass burning and tropospheric dynamics, Geophys. Res. Lett., 23, 3723–3726, https://doi.org/10.1029/96GL03615, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-3-267-2003</doi>
+              <unstructured_citation>Lawrence, M. G., Rasch, P. J., von Kuhlmann, R., Williams, J., Fischer, H., de Reus, M., Lelieveld, J., Crutzen, P. J., Schultz, M., Stier, P., Huntrieser, H., Heland, J., Stohl, A., Forster, C., Elbern, H., Jakobs, H., and Dickerson, R. R.: Global chemical weather forecasts for field campaign planning: predictions and observations of large-scale features during MINOS, CONTRACE, and INDOEX, Atmos. Chem. Phys., 3, 267–289, https://doi.org/10.5194/acp-3-267-2003, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/2006JD007584</doi>
+              <unstructured_citation>Lewis, A. C., Evans, M. J., Methven, J., Watson, N., Lee, J. D., Hopkins, J. R., Purvis, R. M., Arnold, S. R., McQuaid, J. B., Whalley, L. K., Pilling, M. J., Heard, D. E., Monks, P. S., Parker, A. E., Reeves, C. E., Oram, D. E., Mills, G., Bandy, B. J., Stewart, D., Coe, H., Williams, P., and Crosier, J.: Chemical composition observed over the mid-Atlantic and the detection of pollution signatures far from source regions, J. Geophys. Res., 112, D10S39, https://doi.org/10.1029/2006JD007584, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2011GL049903</doi>
+              <unstructured_citation>Lu, Z., Streets, D. G., Zhang, Q., and Wang, S.: A novel back-trajectory analysis of the origin of black carbon transported to the Himalayas and Tibetan Plateau during 1996–2010, Geophys. Res. Lett., 39, L01809, https://doi.org/10.1029/2011GL049903, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2010JD014743</doi>
+              <unstructured_citation>Makra, L., Sánta, T., Matyasovszky, I., Damialis, A., Karatzas, K., Bergmann, K. C., and Vokou, D.: Airborne pollen in three European cities: Detection of atmospheric circulation pathways by applying three-dimensional clustering of backward trajectories, J. Geophys. Res., 115, D24220, https://doi.org/10.1029/2010JD014743, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-10-11415-2010</doi>
+              <unstructured_citation>Martin, S. T., Andreae, M. O., Althausen, D., Artaxo, P., Baars, H., Borrmann, S., Chen, Q., Farmer, D. K., Guenther, A., Gunthe, S. S., Jimenez, J. L., Karl, T., Longo, K., Manzi, A., Müller, T., Pauliquevis, T., Petters, M. D., Prenni, A. J., Pöschl, U., Rizzo, L. V., Schneider, J., Smith, J. N., Swietlicki, E., Tota, J., Wang, J., Wiedensohler, A., and Zorn, S. R.: An overview of the Amazonian Aerosol Characterization Experiment 2008 (AMAZE-08), Atmos. Chem. Phys., 10, 11415–11438, https://doi.org/10.5194/acp-10-11415-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1080/02786820601118406</doi>
+              <unstructured_citation>McNaughton, C. S., Clarke, A. D., Howell, S. G., Pinkerton, M., Anderson, B., Thornhill, L., Hudgins, C., Winstead, E., Dibb, J. E., Scheuer, E., and Maring, H.: Results from the DC-8 Inlet Characterization Experiment (DICE): Airborne Versus Surface Sampling of Mineral Dust and Sea Salt Aerosols, Aerosol Sci. Technol., 41, 136–159, https://doi.org/10.1080/02786820601118406, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/JD090iD07p12927</doi>
+              <unstructured_citation>Merrill, J. T., Bleck, R., and Avila, L.: Modeling atmospheric transport to the Marshall Islands, J. Geophys. Res., 90, 12927–12936, https://doi.org/10.1029/JD090iD07p12927, 1985.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/2002JD002955</doi>
+              <unstructured_citation>Methven, J., Arnold, S. R., O'Connor, F. M., Barjat, H., Dewey, K., Kent, J., and Brough, N.: Estimating photochemically produced ozone throughout a domain using flight data and a Lagrangian model, J. Geophys. Res., 108, 4271, https://doi.org/10.1029/2002JD002955, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1038/18642</doi>
+              <unstructured_citation>Newell, R. E., Thouret, V., Cho, J. Y. N., Stoller, P., Marenco, A., and Smit, H. G.: Ubiquity of quasi-horizontal layers in the troposphere, Nature, 398, 316–319, https://doi.org/10.1038/18642, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acpd-13-14069-2013</doi>
+              <unstructured_citation>O'Shea, S. J., Allen, G., Gallagher, M. W., Bauguitte, S. J.-B., Illingworth, S. M., Le Breton, M., Muller, J. B. A., Percival, C. J., Archibald, A. T., Oram, D. E., Parrington, M., Palmer, P. I., and Lewis, A. C.: Airborne observations of trace gases over boreal Canada during BORTAS: campaign climatology, airmass analysis and enhancement ratios, Atmos. Chem. Phys. Discuss., 13, 14069–14114, https://doi.org/10.5194/acpd-13-14069-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2000JD900291</doi>
+              <unstructured_citation>Parrish, D. D., Holloway, J. S., Jakoubek, R., Trainer, M., Ryerson, T. B., Hübler, G., Fehsenfeld, F. C., Moody, J. L., and Cooper, O. R.: Mixing of anthropogenic pollution with stratospheric ozone: A case study from the North Atlantic wintertime troposphere, J. Geophys. Res., 105, 24363–24374, https://doi.org/10.1029/2000JD900291, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1029/94JD01926</doi>
+              <unstructured_citation>Perry, K. D. and Hobbs, P. V.: Further evidence for particle nucleation in clear air adjacent to marine cumulus clouds, J. Geophys. Res., 99, 22803–22818, https://doi.org/10.1029/94JD01926, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1175/1520-0469(2003)060&lt;1754:CAEWSO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Petersen, W. A., Cifelli, R., Boccippio, D. J., Rutledge, S. A., and Fairall, C.: Convection and Easterly Wave Structures Observed in the Eastern Pacific Warm Pool during EPIC-2001, J. Atmos. Sci., 60, 1754–1773, https://doi.org/10.1175/1520-0469(2003)0602.0.CO;2, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1029/2006JD007456</doi>
+              <unstructured_citation>Riddle, E. E., Voss, P. B., Stohl, A., Holcomb, D., Maczka, D., Washburn, K., and Talbot, R. W.: Trajectory model validation using newly developed altitude-controlled balloons during the International Consortium for Atmospheric Research on Transport and Transformations 2004 campaign, J. Geophys. Res., 111, D23S57, https://doi.org/10.1029/2006JD007456, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1029/91JD02287</doi>
+              <unstructured_citation>Ridley, B. A., Madronich, S., Chatfield, R. B., Walega, J. G., Shetter, R. E., Carroll, M. A., and Montzka, D. D.: Measurements and Model Simulations of the Photostationary State During the Mauna Loa Observatory Photochemistry Experiment: Implications for Radical Concentrations and Ozone Production and Loss Rates, J. Geophys. Res., 97, 10375–10388, https://doi.org/10.1029/91JD02287, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1029/2001JD900078</doi>
+              <unstructured_citation>Staudt, A. C., Jacob, D. J., Logan, J. A., Bachiochi, D., Krishnamurti, T. N., and Sachse, G. W.: Continental sources, transoceanic transport, and interhemispheric exchange of carbon monoxide over the Pacific, J. Geophys. Res., 106, 32571–32589, https://doi.org/10.1029/2001JD900078, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1016/S1352-2310(97)00457-3</doi>
+              <unstructured_citation>Stohl, A.: Computation, accuracy and applications of trajectories – A review and bibliography, Atmos. Environ., 32, 947–966, https://doi.org/10.1016/S1352-2310(97)00457-3, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1016/S1352-2310(02)00416-8</doi>
+              <unstructured_citation>Stohl, A., Eckhardt, S., Forster, C., James, P., Spichtinger, N., and Seibert, P.: A replacement for simple back trajectory calculations in the interpretation of atmospheric trace substance measurements, Atmos. Environ., 36, 4635–4648, https://doi.org/10.1016/S1352-2310(02)00416-8, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1029/98JD02717</doi>
+              <unstructured_citation>Stoller, P., Cho, J. Y. N., Newell, R. E., Thouret, V., Zhu, Y., Carroll, M. A., Albercook, G. M., Anderson, B. E., Barrick, J. D. W., Browell, E. V., Gregory, G. L., Sachse, G. W., Vay, S., Bradshaw, J. D., and Sandholm, S.: Measurements of atmospheric layers from the NASA DC-8 and P-3B aircraft during PEM-Tropics A, J. Geophys. Res., 104, 5745–5764, https://doi.org/10.1029/98JD02717, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2005JD006196</doi>
+              <unstructured_citation>Taubman, B. F., Hains, J. C., Thompson, A. M., Marufu, L. T., Doddridge, B. G., Stehr, J. W., Piety, C. A., and Dickerson, R. R.: Aircraft vertical profiles of trace gas and aerosol pollution over the mid-Atlantic United States: Statistics and meteorological cluster analysis, J. Geophys. Res., 111, D10S07, https://doi.org/10.1029/2005JD006196, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1029/2009JD012721</doi>
+              <unstructured_citation>Thornberry, T., Froyd, K. D., Murphy, D. M., Thomson, D. S., Anderson, B. E., Thornhill, K. L., and Winstead, E. L.: Persistence of organic carbon in heated aerosol residuals measured during Tropical Composition Cloud and Climate Coupling (TC4), J. Geophys. Res., 115, D00J02, https://doi.org/10.1029/2009JD012721, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/acpd-11-5935-2011</doi>
+              <unstructured_citation>Tilmes, S., Emmons, L. K., Law, K. S., Ancellet, G., Schlager, H., Paris, J.-D., Fuelberg, H. E., Streets, D. G., Wiedinmyer, C., Diskin, G. S., Kondo, Y., Holloway, J., Schwarz, J. P., Spackman, J. R., Campos, T., Nédélec, P., and Panchenko, M. V.: Source contributions to Northern Hemisphere CO and black carbon during spring and summer 2008 from POLARCAT and START08/preHIPPO observations and MOZART-4, Atmos. Chem. Phys. Discuss., 11, 5935–5983, https://doi.org/10.5194/acpd-11-5935-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Trenberth, K. E.: General characteristics of El Nino-southern oscillation, Teleconnections linking worldwide climate anomalies, edited by: Glantz, R. M., Katz, R., and Nicholls, N., Cambridge University Press, 13–42, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1029/2003JD004309</doi>
+              <unstructured_citation>Tu, F. H., Thornton, D. C., Bandy, A. R., Carmichael, G. R., Tang, Y., Thornhill, K. L., Sachse, G. W., and Blake, D. R.: Long-range transport of sulfur dioxide in the central Pacific, J. Geophys. Res., 109, D15S08, https://doi.org/10.1029/2003JD004309, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1029/98JD02086</doi>
+              <unstructured_citation>Weber, R. J., Clarke, A. D. , Litchy, M., Li, J., Kok, G., Schillawski, R. D., and McMurry, P. H.: Spurious aerosol measurements when sampling from aircraft in the vicinity of clouds, J. Geophys. Res., 103, 28337–28346, https://doi.org/10.1029/98JD02086, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/2002JD003112</doi>
+              <unstructured_citation>Weber, R. J., Lee, S., Chen, G., Wang, B., Kapustin, V. N., Moore, K., Clarke, A. D., Mauldin, L., Kosciuch, E., Cantrell, C., Eisele, F., Thornton, D. C., Bandy, A. R., Sachse, G. W., and Fuelberg, H. E.: New particle formation in anthropogenic plumes advecting from Asia observed during TRACE-P, J. Geophys. Res., 108, 8814, https://doi.org/10.1029/2002JD003112, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.5194/acp-8-6155-2008</doi>
+              <unstructured_citation>Wehner, B., Birmili, W., Ditas, F., Wu, Z., Hu, M., Liu, X., Mao, J., Sugimoto, N., and Wiedensohler, A.: Relationships between submicrometer particulate air pollution and air mass history in Beijing, China, 2004–2006, Atmos. Chem. Phys., 8, 6155–6168, https://doi.org/10.5194/acp-8-6155-2008, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/amt-7-107-2014-supplement</doi>
+                <resource>https://www.atmos-meas-tech.net/7/107/2014/amt-7-107-2014-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

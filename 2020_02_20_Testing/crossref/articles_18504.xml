@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Modeling the diurnal cycle of conserved and reactive species in the convective boundary layer using SOMCRUS</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Donald H.</given_name>
+              <surname>Lenschow</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David</given_name>
+              <surname>Gurarie</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Edward G.</given_name>
+              <surname>Patton</surname>
+              <ORCID>https://orcid.org/0000-0001-5431-9541</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We have developed a one-dimensional second-order closure numerical model to study the vertical turbulent transport of trace reactive species in the convective (daytime) planetary boundary layer (CBL), which we call the Second-Order Model for Conserved and Reactive Unsteady Scalars (SOMCRUS). The temporal variation of the CBL depth is calculated using a simple mixed-layer model with a constant entrainment coefficient and zero-order discontinuity at the CBL top. We then calculate time-varying continuous profiles of mean concentrations and vertical turbulent fluxes, variances, and covariances of both conserved and chemically reactive scalars in a diurnally varying CBL. The set of reactive species is the O<sub>3</sub>–NO–NO<sub>2</sub> triad. The results for both conserved and reactive species are compared with large-eddy simulations (LES) for the same free-convection case using the same boundary and initial conditions. For the conserved species, we compare three cases with different combinations of surface fluxes, and CBL and free-troposphere concentrations. We find good agreement of SOMCRUS with LES for the mean concentrations and fluxes of both conserved and reactive species except near the CBL top, where SOMCRUS predicts a somewhat shallower depth, and has sharp transitions in both the mean and turbulence variables, in contrast to more smeared-out variations in the LES due to horizontal averaging. Furthermore, SOMCRUS generally underestimates the variances and species–species covariances. SOMCRUS predicts temperature–species covariances similar to LES near the surface, but much smaller magnitude peak values near the CBL top, and a change in sign of the covariances very near the CBL top, while the LES predicts a change in sign of the covariances in the lower half of the CBL. SOMCRUS is also able to estimate the intensity of segregation (the ratio of the species–species covariance to the product of their means), which can alter the rates of second-order chemical reactions; however, for the case considered here, this effect is small. The simplicity and extensibility of SOMCRUS means that it can be utilized for a broad range of turbulence-mixing scenarios and sets of chemical reactions in the planetary boundary layer; it therefore holds great promise as a tool to incorporate these processes within air quality and climate models.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>07</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>979</first_page>
+            <last_page>996</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-9-979-2016</doi>
+            <resource>https://www.geosci-model-dev.net/9/979/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/9/979/2016/gmd-9-979-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/1520-0469(1976)033&lt;0482:TAFIFP&gt;2.0.CO;2</doi>
+              <unstructured_citation>André, J., Lacarrére, P., and Vachat, R. D.: Turbulent approximation
+for inhomogeneous flows: part 2. The numerical simulation of a penetrative
+convection experiment, J. Atmos. Sci., 33, 482–491, 1976.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1007/s10546-004-2820-6</doi>
+              <unstructured_citation>Beare, R. J., Macvean, M. K., Holtslag, A. A. M., Cuxart, J., Esau, I.,
+Golaz,
+J.-C., Jimenez, M. A., Khairoutdinov, M., Kosovic, B., Lewellen, D., Lund,
+T. S., Lundquist, J. K., McCabe, A., Moene, A. F., Noh, Y., Raasch, S., and
+Sullivan, P.: An intercomparison of large-eddy simulations of the stable
+boundary layer, Boundary-Lay. Meteorol., 118, 247–272,
+https://doi.org/10.1007/s10546-004-2820-6, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1007/BF00119502</doi>
+              <unstructured_citation>Deardorff, J. W.: Stratocumulus-capped mixed layers derived from a
+three-dimensional model, Boundary-Lay. Meteorol., 18, 495–527,
+https://doi.org/10.1007/BF00119502, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1021/es60068a004</doi>
+              <unstructured_citation>Donaldson, C. d. and Hilst, G. R.: The Effect of Inhomogeneous Mixing on
+Atmospheric Photchemical Reactions, Environ. Sci. Technol., 6, 812–816, 1972.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/gmd-3-43-2010</doi>
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G.,
+Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando,
+J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.:
+Description and evaluation of the Model for Ozone and Related chemical
+Tracers, version 4 (MOZART-4), Geosci. Model Dev., 3, 43–67,
+https://doi.org/10.5194/gmd-3-43-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1017/S0022112009990589</doi>
+              <unstructured_citation>Finnigan, J. J., Shaw, R. H., and Patton, E. G.: Turbulence structure above
+a vegetation canopy, J. Fluid Mech., 637, 387–424,
+https://doi.org/10.1017/S0022112009990589, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1016/0004-6981(83)90076-8</doi>
+              <unstructured_citation>Fitzjarrald, D. R. and Lenschow, D. H.: Mean Concentration and Flux
+Profiles
+for Chemically Reactive Species in the Atmospheric Surface Layer, Atmos.
+Environ., 17, 2505–2512, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/0021-9991(73)90141-1</doi>
+              <unstructured_citation>Fox, D. G. and Orzag, S. A.: Pseudospectral approximation to two-dimensional
+turbulence, J. Comput. Phys., 11, 612–619, 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/1520-0450(1997)036&lt;0943:EONOCI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Galmarini, S., Duynkerke, P. G., and Vilà-Guerau de Arellano, J.:
+Evolution of Nitrogen Oxide Chemistry in the Nocturnal Boundary Layer, J.
+Appl. Meteorol., 36, 943–957, 1997a.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/qj.49712353710</doi>
+              <unstructured_citation>Galmarini, S., Vilà-Guerau de Arellano, J., and Duynkerke, P. G.:
+Scaling the Turbulent Transport of Chemical Compunds in the Surface Layer
+Under Neutral and Stratified Conditions, Q. J. Roy. Meteorol. Soc., 123,
+223–242, 1997b.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/91JD02106</doi>
+              <unstructured_citation>Gao, W., Wesely, M., and Lee, I. Y.: IA Numerical Study of the Effects of Air
+Chemistry on Fluxes of NO, NO2, and NO3 Near the Surface, J. Geophys.
+Res., 96, 18761–18769, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.04.027</doi>
+              <unstructured_citation>Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G.,
+Skamarock,
+W. C., and Eder, B.: Fully coupled “online” chemistry within the WRF model,
+Atmos. Environ., 39, 6957–6975, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/1520-0469(1991)048&lt;1690:EDACTI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Holtslag, A. A. M. and Moeng, C.-H.: Eddy Diffusivity and
+Countergradient Transport in the Convective Boundary Layer, J. Atmos. Sci.,
+48, 1690–1698, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2007JD008539</doi>
+              <unstructured_citation>Karl, T., Guenther, A., Yokelson, R. J., Greenberg, J., Potosnak, M., Blake,
+D. R., and Artaxo, P.: The tropical forest and fire emissions experiment:
+Emission, chemistry, and transport of biogenic volatile organic compounds in
+the lower atmosphere over Amazonia, J. Geophys. Res., 112, D18302,
+https://doi.org/10.1029/2007JD008539, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2011JD017099</doi>
+              <unstructured_citation>Kim, S. W., Barth, M. C., and Trainer, M.: Influence of fair-weather cumulus
+clouds on isoprene chemistry, J. Geophys. Res., 117, D10302, https://doi.org/10.1029/2011JD017099, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/1520-0493(1983)111&lt;0430:AUBCPI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Klemp, J. B. and Durran, D. R.: An Upper Boundary Conidition
+Permitting Internal Gravity Wave Radiation in Numerical Mesoscale Models,
+Mon. Weather Rev., 111, 430–444, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Koren, B.: A Robust Upwind Discretization Method for Advection, Diffusion
+and Source Terms, in: Notes on Numerical Fluid Mechanics, edited by:
+Vrengdenhil, C. B. and Koren, B., vol. 45, chap. 5, 117–138,
+Vieweg-Braunschweig, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Kristensen, L., Lenschow, D. H., Gurarie, D., and Jensen, N. O.: A simple
+model
+for the vertical transport of reactive species in the convective atmospheric
+boundary layer, Boundary-Lay. Meteorol., 134, 195–221, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/1999JD900958</doi>
+              <unstructured_citation>Krol, M. C., Molemaker, M. J., and Vilà-Guerau de Arellano, J.: Effects
+of
+turbulence and heterogeneous emissions in photochemically active species in
+the convective boundary layer, J. Geophys. Res., 105, 6871–6884, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.2151/jmsj1965.60.1_472</doi>
+              <unstructured_citation>Lenschow, D. H.: Reactive Trace Species in the Boundary Layer from a
+Micrometeorological Perspective, J. Meteorol. Soc. Japan, 60, 472–480,
+1982.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1007/BF00114108</doi>
+              <unstructured_citation>Lenschow, D. H. and Delany, A. C.: An Analytical Formulation for NO and
+NO2 Flux Profiles in the Atmospheric Surface Layer, J. Atmos. Chem., 5,
+301–309, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/1520-0469(1980)037&lt;1313:MFASMB&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lenschow, D. H., Wyngaard, J. C., and Pennell, W. T.: Mean-field and
+second-moment budgets in a baroclinic, convective boundary layer, J. Atmos.
+Sci., 37, 1313–1326, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Lenschow, D. H., Lothon, M., Mayor, S. D., Sullivan, P. P., and Canut, G.: A
+comparison of higher-order vertical velocity moments in the convective
+boundary layer from lidar with in situ measurements and large-eddy
+simulation, Boundary-Lay. Meteorol., 143, 107–123, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/1520-0469(1984)041&lt;2052:ALESMF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Moeng, C.-H.: A Large-Eddy Simulation Model for the Study of
+Planetary Boundary-Layer Turbulence, J. Atmos. Sci., 41, 2052–2062, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/1520-0469(1986)043&lt;2499:AAOCFP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Moeng, C.-H. and Wyngaard, J. C.: An analysis of closures for pressure-scalar
+covariances in the convective boundary layer, J. Atmos. Sci., 43, 2499–2513,
+1986.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/1520-0469(1988)045&lt;3573:SAOLES&gt;2.0.CO;2</doi>
+              <unstructured_citation>Moeng, C.-H. and Wyngaard, J. C.: Spectral Analysis of Large-Eddy
+Simulations of the Convective Boundary Layer, J. Atmos. Sci., 45,
+3573–3587, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/1520-0469(1989)046&lt;2311:EOTTAD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Moeng, C.-H. and Wyngaard, J. C.: Evaluation of turbulent transport and
+dissipation closures in second-order modeling, J. Atmos. Sci., 46,
+2311–2330, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Nayfeh, A. H.: Perturbation Methods, Wiley, New York, NY, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1256/qj.01.175</doi>
+              <unstructured_citation>Patton, E. G., Sullivan, P. P., and Davis, K. J.: The influence of a forest
+canopy on top-down and bottom-up diffusion in the planetary boundary layer,
+Q. J. Roy. Meteorol. Soc., 129, 1415–1434, https://doi.org/10.1256/qj.01.175,
+2003.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/JAS3465.1</doi>
+              <unstructured_citation>Patton, E. G., Sullivan, P. P., and Moeng, C.-H.: The influence of idealized
+heterogeneity on wet and dry planetary boundary layers coupled to the land
+surface, J. Atmos. Sci., 62, 2078–2097, https://doi.org/10.1175/JAS3465.1, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1017/S0022112089000753</doi>
+              <unstructured_citation>Schmidt, H. and Schumann, U.: Coherent Structure of the Convective
+Boundary Layer derived from Large-Eddy Simulation, J. Fluid Mech., 200,
+511–562, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1016/0004-6981(89)90056-5</doi>
+              <unstructured_citation>Schumann, U.: Large-Eddy Simulation of Turbulent Diffusion with
+Chemical Reactions in the Convective Boundary Layer, Atmos. Environ., 23,
+1713–1727, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1016/0021-9991(91)90238-G</doi>
+              <unstructured_citation>Spalart, P. R., Moser, R. D., and Rogers, M. M.: Spectral Methods for the
+Navier-Stokes Equations with One Infinite and Two Periodic Directions, J.
+Comp. Phys., 97, 297, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1007/978-94-009-3027-8</doi>
+              <unstructured_citation>Stull, R. B.: An Introduction to Boundary Layer Meteorology, Kluwer
+Academic Publishers, Dordrecht, the Netherlands, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/JAS-D-10-05010.1</doi>
+              <unstructured_citation>Sullivan, P. P. and Patton, E. G.: The effect of mesh resolution on
+convective
+boundary-layer statistics and structures generated by large-eddy simulation,
+J. Atmos. Sci., 68, 2395–2415, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Sullivan, P. P., McWilliams, J. C., and Moeng, C.-H.: A Subgrid-Scale Model
+for
+Large-Eddy Simulation of Planetary Boundary Layer Flows, Boundary-Lay.
+Meteorol., 71, 247–276, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Sullivan, P. P., McWilliams, J. C., and Moeng, C.-H.: A Grid
+Nesting Method for Large-Eddy Simulation of Planetary Boundary-Layer Flows,
+Boundary-Lay. Meteorol., 80, 167–202, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1175/1520-0450(1994)033&lt;0825:TMWCRI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Sykes, R. I., Parker, S. F., Henn, D. S., and Lewellen, W. S.: Turbulent
+Mixing with Chemical Reaction in the Planetary Boundary Layer, J. Appl.
+Meteorol., 33, 825–834, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/1520-0469(1973)030&lt;0558:AMFTDO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Tennekes, H.: A model for the dynamics of the inversion above a convective
+boundary layer, J. Atmos. Sci., 30, 558–567, 1973.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Verver, G. H. L., van Dop, H., and Holtslag, A. A. M.: Turbulent Mixing
+of
+Reactive Gases in the Convective Boundary Layer, Boundary-Lay. Meteorol.,
+85, 197–222, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/1999JD900956</doi>
+              <unstructured_citation>Verver, G. H. L., van Dop, H., and Holtslag, A. A. M.: Turbulent mixing
+and the chemical breakdown of isoprene in the atmospheric boundary layer, J.
+Geophys. Res., 105, 3983–4002, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Vilà-Guerau de Arellano, J. and Duynkerke, P. G.: Influence of chemistry
+on the flux-gradient relationships for the NO–O3–NO2 system,
+Boundary-Lay. Meteorol., 61, 375–387, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/94JD02434</doi>
+              <unstructured_citation>Vilà-Guerau de Arellano, J., Duynkerke, P. G., and Zeller, K.:
+Atmospheric
+Surface Layer Similarity Theory Applied to Chemically Reactive Species, J.
+Geophys. Res., 100, 1397–1408, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/acp-5-3219-2005</doi>
+              <unstructured_citation>Vilà-Guerau de Arellano, J., Kim, S.-W., Barth, M. C., and Patton, E. G.:
+Transport and chemical transformations influenced by shallow cumulus over
+land, Atmos. Chem. Phys., 5, 3219–3231, https://doi.org/10.5194/acp-5-3219-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-9-3629-2009</doi>
+              <unstructured_citation>Vilà-Guerau de Arellano, J., van den Dries, K., and Pino, D.: On inferring
+isoprene emission surface flux from atmospheric boundary layer concentration
+measurements, Atmos. Chem. Phys., 9, 3629–3640, https://doi.org/10.5194/acp-9-3629-2009,
+2009.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2010JD014857</doi>
+              <unstructured_citation>Vilà-Guerau de Arellano, J., Patton, E. G., Karl, T., van den Dries,
+K., Barth, M. C., and Orlando, J. J.: The role of boundary layer dynamics on
+the diurnal evolution of isoprene and the hydroxyl radical over tropical
+forests, J. Geophys. Res., 116, DO7304, https://doi.org/10.1029/2010JD014857, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1046/j.1435-6935.2003.00073.x</doi>
+              <unstructured_citation>Vinuesa, J.-F. and Vilà-Guerau de Arellano, J.: Fluxes and (co-)variances
+of reacting scalars in the convective boundary layer, Tellus, 55B, 935–949,
+2003.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Wolfram Research, Inc.: Mathematica, Version 10.2, Champaign, IL, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/1520-0469(1971)028&lt;1171:LFCSAT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Wyngaard, J. C., Cote, O., and Izumi, Y.: Local free convection, similarity,
+and the budgets of shear stress and heat flux, J. Atmos. Sci., 41,
+1171–1182, 1971.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

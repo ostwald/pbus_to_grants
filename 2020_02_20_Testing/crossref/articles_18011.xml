@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-08-29 20:05:33">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Advances in Modeling Earth Systems</full_title>
+          <abbrev_title>J. Adv. Model. Earth Syst.</abbrev_title>
+          <issn>19422466</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>12</month>
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>4</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Fully coupled atmosphere-hydrology simulations for the central Mediterranean: Impact of enhanced hydrological parameterization for short and long time scales</title>
+            <subtitle>FULLY COUPLED ATMOSPHERE-HYDROLOGY MODEL</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Alfonso</given_name>
+              <surname>Senatore</surname>
+              <affiliation>Department of Environmental and Chemical Engineering; University of Calabria; Rende (CS) Italy</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Giuseppe</given_name>
+              <surname>Mendicino</surname>
+              <affiliation>Department of Environmental and Chemical Engineering; University of Calabria; Rende (CS) Italy</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David J.</given_name>
+              <surname>Gochis</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Wei</given_name>
+              <surname>Yu</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>David N.</given_name>
+              <surname>Yates</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder Colorado USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Harald</given_name>
+              <surname>Kunstmann</surname>
+              <affiliation>Institute of Meteorology and Climate Research-Atmospheric Environmental Research, Karlsruhe Institute of Technology; Campus Alpin Garmisch-Partenkirchen Germany</affiliation>
+              <affiliation>University of Augsburg, Institute of Geography; Augsburg Germany</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>12</month>
+            <year>2015</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>02</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>1693</first_page>
+            <last_page>1715</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. National Science Foundation
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">1234680</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Center for Atmospheric Research (NCAR)
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100005323</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2015-11-02">http://creativecommons.org/licenses/by-nc-nd/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2015MS000510</doi>
+            <resource>http://doi.wiley.com/10.1002/2015MS000510</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2015MS000510/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015MS000510</resource>
+              </item>
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015MS000510</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2015MS000510-BIB0001|jame20219-cit-0002">
+              <author>Arnold</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1016/0022-1694(95)02782-3</doi>
+              <article_title>Estimating hydrologic budgets for three Illinois watersheds</article_title>
+              <journal_title>J. Hydrol.</journal_title>
+              <volume>176</volume>
+              <issue>1-4</issue>
+              <first_page>57</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0002|jame20219-cit-0003">
+              <unstructured_citation>ARSSA 2003</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0003|jame20219-cit-0004">
+              <author>Baldauf</author>
+              <cYear>2011</cYear>
+              <article_title>Operational convective-scale numerical weather prediction with the COSMO model: Description and sensitivities</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>139</volume>
+              <first_page>3887</first_page>
+              <doi>10.1175/MWR-D-10-05013.1</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0004|jame20219-cit-0005">
+              <author>Balsamo</author>
+              <cYear>2011</cYear>
+              <article_title>A revised land hydrology in the ECMWF model: A step towards daily water flux prediction in a fully-closed water cycle</article_title>
+              <journal_title>Hydrol. Processes</journal_title>
+              <volume>25</volume>
+              <first_page>1046</first_page>
+              <doi>10.1002/hyp.7808</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0005|jame20219-cit-0006">
+              <cYear>2008</cYear>
+              <volume_title>Technical Paper of the Intergovernmental Panel on Climate Change</volume_title>
+              <first_page>210</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0006|jame20219-cit-0007">
+              <author>Bierkens</author>
+              <cYear>2015</cYear>
+              <article_title>Hyper-resolution global hydro-logical modelling: What is next?</article_title>
+              <journal_title>Hydrol. Processes</journal_title>
+              <volume>29</volume>
+              <first_page>310</first_page>
+              <doi>10.1002/hyp.10391</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0007|jame20219-cit-0008">
+              <author>Butts</author>
+              <cYear>2014</cYear>
+              <article_title>Embedding complex hydrology in the regional climate system-Dynamic coupling across different modelling domains</article_title>
+              <journal_title>Adv. Water Resour.</journal_title>
+              <volume>74</volume>
+              <first_page>166</first_page>
+              <doi>10.1016/j.advwatres.2014.09.004</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0008|jame20219-cit-0009">
+              <author>Chen</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;0569:CAALSH&gt;2.0.CO;2</doi>
+              <article_title>Coupling an advanced land surface hydrology model with the Penn State-NCAR MM5 modeling system. Part I: Model implementation and sensitivity</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>129</volume>
+              <first_page>569</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0009|jame20219-cit-0010">
+              <author>Chen</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.2151/jmsj.80.99</doi>
+              <article_title>A one-dimensional time dependent cloud model</article_title>
+              <journal_title>J. Meteorol. Soc. Jpn.</journal_title>
+              <volume>80</volume>
+              <first_page>99</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0010|jame20219-cit-0011">
+              <author>Chow</author>
+              <cYear>1988</cYear>
+              <volume_title>Applied Hydrology</volume_title>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0011|jame20219-cit-0012">
+              <unstructured_citation>Christensen , J. H. O. B. Christensen P. Lopez E. van Meijgaard M. Botzet 1996 DMI Sci. Rep. 96-4</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0012|jame20219-cit-0013">
+              <author>Coll</author>
+              <cYear>2009</cYear>
+              <article_title>Temperature-based and radiance-based validations of the V5 MODIS land surface temperature product</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>114</volume>
+              <first_page>D20102</first_page>
+              <doi>10.1029/2009JD012038</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0013|jame20219-cit-0014">
+              <author>Dee</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <article_title>The ERA-Interim reanalysis: Configuration and performance of the data assimilation system</article_title>
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <volume>137</volume>
+              <first_page>553</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0014|jame20219-cit-0015">
+              <author>Doherty</author>
+              <cYear>2002</cYear>
+              <volume_title>PEST: Model Independent Parameter Estimation, User Manual</volume_title>
+              <edition_number>4</edition_number>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0015|jame20219-cit-0016">
+              <author>Dudhia</author>
+              <cYear>1989</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1989)046&lt;3077:NSOCOD&gt;2.0.CO;2</doi>
+              <article_title>Numerical study of convection observed during the winter monsoon experiment using a mesoscale two-dimensional model</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>46</volume>
+              <first_page>3077</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0016|jame20219-cit-0017">
+              <author>Ek</author>
+              <cYear>2003</cYear>
+              <article_title>Implementation of Noah land surface model advances in the National Centers for Environmental Prediction operational mesoscale Eta model</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>108</volume>
+              <issue>D22</issue>
+              <first_page>8851</first_page>
+              <doi>10.1029/2002JD003296</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0017|jame20219-cit-0018">
+              <author>Fan</author>
+              <cYear>2007</cYear>
+              <article_title>Incorporating water table dynamics in climate modeling: 1. Water table observations and equilibrium water table simulations</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>112</volume>
+              <doi>10.1029/2006JD008111</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0018|jame20219-cit-0019">
+              <author>Fatichi</author>
+              <cYear>2012</cYear>
+              <article_title>A mechanistic ecohydrological model to investigate complex interactions in cold and warm water-controlled environments: 1. Theoretical framework and plot-scale analysis</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>4</volume>
+              <first_page>M05002</first_page>
+              <doi>10.1029/2011MS000086</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0019|jame20219-cit-0020">
+              <author>Fersch</author>
+              <cYear>2014</cYear>
+              <volume_title>Book of Abstracts of the 1st European Fully Coupled Atmospheric-Hydrological Modeling and WRF-Hydro Users Workshop</volume_title>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0020|jame20219-cit-0021">
+              <unstructured_citation>Forthofer , J. M. 2007 http://www.firelab.org/document/forthofer-thesis</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0021|jame20219-cit-0022">
+              <author>Findell</author>
+              <cYear>2011</cYear>
+              <article_title>Probability of afternoon precipitation in eastern United States and Mexico enhanced by high evaporation</article_title>
+              <journal_title>Nature</journal_title>
+              <volume>4</volume>
+              <first_page>434</first_page>
+              <doi>10.1038/ngeo1174</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0022|jame20219-cit-0023">
+              <author>Fu</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1016/S0168-1699(02)00115-1</doi>
+              <article_title>A geometric solar radiation model with applications in agriculture and forestry</article_title>
+              <journal_title>Comput. Electron. Agric.</journal_title>
+              <volume>37</volume>
+              <first_page>25</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0023|jame20219-cit-0024">
+              <unstructured_citation>Gochis , D. J. F. Chen 2003 NCAR Sci. Tech. Note TN-454+STR 68 http://nldr.library.ucar.edu/repository/assets/technotes/TECH-NOTE-000-000-000-516.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0024|jame20219-cit-0025">
+              <unstructured_citation>Gochis , D. J. W. Yu D. N. Yates 2013 The WRF-Hydro Model Technical Description and User's Guide, Version 1.0 NCAR Technical Document http://www.ral.ucar.edu/projects/wrf_hydro/</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0025|jame20219-cit-0026">
+              <author>Goodall</author>
+              <cYear>2013</cYear>
+              <article_title>Coupling climate and hydrological models: Interoperability through web services</article_title>
+              <journal_title>Environ. Modell. Software</journal_title>
+              <volume>46</volume>
+              <first_page>250</first_page>
+              <doi>10.1016/j.envsoft.2013.03.019</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0026|jame20219-cit-0027">
+              <unstructured_citation>Grell , G. A. J. Dudhia D. R. Stauffer 1994 NCAR Tech. Note NCAR/TN-398+STR 138 http://nldr.library.ucar.edu/repository/assets/technotes/TECH-NOTE-000-000-000-214.pdf</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0027|jame20219-cit-0028">
+              <author>Hain</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1175/JHM-D-14-0017.1</doi>
+              <article_title>Diagnosing neglected soil moisture source-sink processes via a thermal infrared-based two-source energy balance model</article_title>
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <volume>16</volume>
+              <first_page>1070</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0028|jame20219-cit-0029">
+              <author>Janjic</author>
+              <cYear>2002</cYear>
+              <article_title>Nonsingular Implementation of the Mellor Yamada Level 2.5 Scheme in the NCEP Meso model</article_title>
+              <journal_title>NCEP Off. Note</journal_title>
+              <volume>437</volume>
+              <first_page>61</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0029|jame20219-cit-0030">
+              <author>Jones</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1016/S0309-1708(00)00075-0</doi>
+              <article_title>Integrated surface-groundwater flow modeling: A free-surface overland flow boundary condition in a parallel groundwater flow model</article_title>
+              <journal_title>Adv. Water Resour.</journal_title>
+              <volume>24</volume>
+              <first_page>763</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0030|jame20219-cit-0031">
+              <author>Julien</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1111/j.1752-1688.1995.tb04039.x</doi>
+              <article_title>Raster-based hydrological modeling of spatially-varied surface runoff</article_title>
+              <journal_title>Water Resour. Bull.</journal_title>
+              <volume>31</volume>
+              <issue>3</issue>
+              <first_page>523</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0031|jame20219-cit-0032">
+              <author>Kain</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/1520-0450(2004)043&lt;0170:TKCPAU&gt;2.0.CO;2</doi>
+              <article_title>The Kain-Fritsch convective parameterization: An update</article_title>
+              <journal_title>J. Appl. Meteorol.</journal_title>
+              <volume>43</volume>
+              <first_page>170</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0032|jame20219-cit-0033">
+              <author>Koster</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1126/science.1100217</doi>
+              <article_title>Regions of strong coupling between soil moisture and precipitation</article_title>
+              <journal_title>Science</journal_title>
+              <volume>305</volume>
+              <first_page>1138</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0033|jame20219-cit-0034">
+              <author>Koster</author>
+              <cYear>2010</cYear>
+              <article_title>Contribution of land surface initialization to subseasonal forecast skill</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>37</volume>
+              <doi>10.1029/2009GL041677</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0035|jame20219-cit-0036">
+              <author>Larsen</author>
+              <cYear>2014</cYear>
+              <article_title>Results from a full coupling of the HIRHAM regional climate model and the MIKE SHE hydrological model for a Danish catchment</article_title>
+              <journal_title>Hydrol. Earth Syst. Sci.</journal_title>
+              <volume>18</volume>
+              <first_page>4733</first_page>
+              <doi>10.5194/hess-18-4733-2014</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0036|jame20219-cit-0037">
+              <author>Lowrey</author>
+              <cYear>2008</cYear>
+              <article_title>Assessing the capability of a regional-scale weather model to simulate extreme precipitation patterns and flooding in central Texas, Weather</article_title>
+              <journal_title>Forecasting</journal_title>
+              <volume>23</volume>
+              <first_page>1106</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0037|jame20219-cit-0038">
+              <author>Maidment</author>
+              <cYear>2015</cYear>
+              <article_title>A conceptual framework of the National Flood Interoperability Experiment</article_title>
+              <journal_title>NFIE Conceptual Framework Pap.</journal_title>
+              <first_page>22</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0038|jame20219-cit-0039">
+              <author>Mauser</author>
+              <cYear>2009</cYear>
+              <article_title>PROMET-Large scale distributed hydrological modelling to study the impact of climate change on the water flows of mountain watersheds</article_title>
+              <journal_title>J. Hydrol.</journal_title>
+              <volume>376</volume>
+              <first_page>362</first_page>
+              <doi>10.1016/j.jhydrol.2009.07.046</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0039|jame20219-cit-0040">
+              <author>Maxwell</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1038/ngeo315</doi>
+              <article_title>Interdependence of groundwater dynamics and land-energy feedbacks under climate change</article_title>
+              <journal_title>Nat. Geosci.</journal_title>
+              <volume>1</volume>
+              <issue>10</issue>
+              <first_page>665</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0040|jame20219-cit-0041">
+              <author>Maxwell</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1016/j.advwatres.2007.05.018</doi>
+              <article_title>The groundwater-land-surface-atmosphere connection: Soil moisture effects on the atmospheric boundary layer in fully-coupled simulations</article_title>
+              <journal_title>Adv. Water Resour.</journal_title>
+              <volume>30</volume>
+              <first_page>2447</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0041|jame20219-cit-0042">
+              <author>Maxwell</author>
+              <cYear>2011</cYear>
+              <article_title>Development of a coupled groundwater-atmosphere model</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>39</volume>
+              <first_page>96</first_page>
+              <doi>10.1175/2010MWR3392.1</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0042|jame20219-cit-0043">
+              <author>Mendicino</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1023/A:1008120231103</doi>
+              <article_title>Sensitivity analysis on GIS procedures for the estimate of soil erosion risk</article_title>
+              <journal_title>Nat. Hazards</journal_title>
+              <volume>20</volume>
+              <first_page>231</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0043|jame20219-cit-0044">
+              <author>Mendicino</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1002/(SICI)1099-1085(199707)11:9&lt;1099::AID-HYP547&gt;3.0.CO;2-F</doi>
+              <article_title>The information content theory for the estimation of the topographic index distribution used in TOPMODEL</article_title>
+              <journal_title>Hydrol. Processes</journal_title>
+              <volume>11</volume>
+              <first_page>1099</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0044|jame20219-cit-0045">
+              <author>Mendicino</author>
+              <cYear>2015</cYear>
+              <article_title>Stability of an overland flow scheme in the framework of a fully coupled eco-hydrological model based on the Macroscopic Cellular Automata approach</article_title>
+              <journal_title>Commun. Nonlinear Sci. Numer. Simul.</journal_title>
+              <volume>21</volume>
+              <issue>1-3</issue>
+              <first_page>128</first_page>
+              <doi>10.1016/j.cnsns.2014.08.021</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0045|jame20219-cit-0046">
+              <author>Mlawer</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1029/97JD00237</doi>
+              <article_title>Radiative transfer for inhomogeneous atmosphere: RRTM, a validated correlated-k model for the longwave</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>102</volume>
+              <first_page>16,663</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0046|jame20219-cit-0047">
+              <unstructured_citation>Neale , R. B. A. Gettelman S. Park C. Chen P. H. Lauritzen D. L. Williamson 2010 NCAR Tech. Note TN-486 http://www.cesm.ucar.edu/models/cesm1.0/cam/</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0047|jame20219-cit-0048">
+              <author>Niu</author>
+              <cYear>2014</cYear>
+              <article_title>An integrated modelling framework of catchment-scale ecohydrological processes: 1. Model description and tests over an energy-limited watershed</article_title>
+              <journal_title>Ecohydrology</journal_title>
+              <volume>7</volume>
+              <first_page>427</first_page>
+              <doi>10.1002/eco.1362</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0048|jame20219-cit-0049">
+              <author>Ogden</author>
+              <cYear>1997</cYear>
+              <volume_title>CASC2D Reference Manual</volume_title>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0049|jame20219-cit-0050">
+              <author>Oleson</author>
+              <cYear>2008</cYear>
+              <article_title>Improvements to the Community Land Model and their impact on the hydrological cycle</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>113</volume>
+              <first_page>G01021</first_page>
+              <doi>10.1029/2007JG000563</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0050|jame20219-cit-0051">
+              <author>Overgaard</author>
+              <cYear>2007</cYear>
+              <volume_title>Quantification and Reduction of Predictive Uncertainty for Sustainable Water Resources Management</volume_title>
+              <volume>313</volume>
+              <first_page>242</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0051|jame20219-cit-0052">
+              <author>Pan</author>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1007/BF00121563</doi>
+              <article_title>Interaction between soil hydrology and boundary-layer development</article_title>
+              <journal_title>Boundary Layer Meteorol.</journal_title>
+              <volume>38</volume>
+              <first_page>185</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0052|jame20219-cit-0053">
+              <author>Rigon</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/JHM497.1</doi>
+              <article_title>GEOtop: A distributed hydrological model with coupled water and energy budgets</article_title>
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <volume>7</volume>
+              <issue>3</issue>
+              <first_page>371</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0053|jame20219-cit-0054">
+              <author>Rodriguez-Iturbe</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/1999WR900210</doi>
+              <article_title>Ecohydrology: A hydrologic perspective of climate-soil-vegetation dynamics</article_title>
+              <journal_title>Water. Resour. Res.</journal_title>
+              <volume>36</volume>
+              <first_page>3</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0054|jame20219-cit-0055">
+              <author>Rodwell</author>
+              <cYear>2010</cYear>
+              <article_title>A new equitable score suitable for verifying precipitation in numerical weather prediction</article_title>
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <volume>136</volume>
+              <first_page>1344</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0055|jame20219-cit-0056">
+              <author>Senatore</author>
+              <cYear>2011</cYear>
+              <article_title>Regional climate change projections and hydrological impact analysis for a Mediterranean basin in southern Italy</article_title>
+              <journal_title>J. Hydrol.</journal_title>
+              <volume>399</volume>
+              <issue>1-2</issue>
+              <first_page>70</first_page>
+              <doi>10.1016/j.jhydrol.2010.12.035</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0056|jame20219-cit-0057">
+              <author>Senatore</author>
+              <cYear>2014</cYear>
+              <article_title>Sensitivity of modeled precipitation to sea surface temperature in regions with complex topography and coastlines: A case study for the Mediterranean</article_title>
+              <journal_title>J. Hydrometeorol.</journal_title>
+              <volume>15</volume>
+              <issue>6</issue>
+              <first_page>2370</first_page>
+              <doi>10.1175/JHM-D-13-089.1</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0057|jame20219-cit-0058">
+              <author>Shannon</author>
+              <cYear>1949</cYear>
+              <volume_title>The Mathematical Theory of Communication</volume_title>
+              <first_page>117</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0058|jame20219-cit-0059">
+              <author>Shrestha</author>
+              <cYear>2014</cYear>
+              <article_title>A scale-consistent terrestrial systems modeling platform based on COSMO, CLM, and ParFlow</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>142</volume>
+              <first_page>3466</first_page>
+              <doi>10.1175/MWR-D-14-00029.1</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0059|jame20219-cit-0060">
+              <author>Singh</author>
+              <cYear>2015</cYear>
+              <article_title>Toward hyper-resolution land-surface modeling: The effects of fine-scale topography and soil texture on CLM4.0 simulations over the Southwestern U.S</article_title>
+              <journal_title>Water Resour. Res.</journal_title>
+              <volume>51</volume>
+              <first_page>2648</first_page>
+              <doi>10.1002/2014WR015686</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0060|jame20219-cit-0061">
+              <unstructured_citation>Skamarock , W. C. J. B. Klemp J. Dudhia O. D. Gill D. M. Barker M. G. Duda X. Huang W. Wang J. G. Powers 2008 NCAR Tech. Note NCAR/TN-4751STR</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0061|jame20219-cit-0062">
+              <author>Tague</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1175/1087-3562(2004)8&lt;1:RRHSSO&gt;2.0.CO;2</doi>
+              <article_title>RHESSys: Regional Hydro-Ecologic Simulation System: An object-oriented approach to spatially distributed modeling of carbon, water, and nutrient cycling</article_title>
+              <journal_title>Earth Interact.</journal_title>
+              <volume>8</volume>
+              <issue>19</issue>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0062|jame20219-cit-0063">
+              <unstructured_citation>Wagner , S. B. Fersch H. Kunstmann F. Yuan C. Yang Z. Yu 2013 Proceedings of H01 IAHS-IAPSO-IASPEI Assembly IAHS Publ 152 157</unstructured_citation>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0063|jame20219-cit-0064">
+              <author>Wigmosta</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1029/1998WR900017</doi>
+              <article_title>A comparison of simplified methods for routing topographically driven subsurface flow</article_title>
+              <journal_title>Water Resour. Res.</journal_title>
+              <volume>35</volume>
+              <first_page>255</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0064|jame20219-cit-0065">
+              <author>Wigmosta</author>
+              <cYear>1994</cYear>
+              <doi provider="crossref">10.1029/94WR00436</doi>
+              <article_title>A distributed hydrology-vegetation model for complex terrain</article_title>
+              <journal_title>Water Resour. Res.</journal_title>
+              <volume>30</volume>
+              <first_page>1665</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0065|jame20219-cit-0066">
+              <author>Xue</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1007/s00703-001-0595-6</doi>
+              <article_title>The Advanced Regional Prediction System (ARPS), storm-scale numerical weather prediction and data assimilation</article_title>
+              <journal_title>Meteorol. Atmos. Phys.</journal_title>
+              <volume>82</volume>
+              <first_page>139</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0066|jame20219-cit-0067">
+              <author>Yu</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1016/j.jhydrol.2006.05.021</doi>
+              <article_title>On continental-scale hydrologic simulations with a coupled hydrologic model</article_title>
+              <journal_title>J. Hydrol.</journal_title>
+              <volume>331</volume>
+              <issue>1</issue>
+              <first_page>110</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0067|jame20219-cit-0068">
+              <author>Yucel</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1016/j.jhydrol.2015.01.042</doi>
+              <article_title>Calibration and evaluation of a flood forecasting system: Utility of numerical weather prediction model, data assimilation and satellite-based rainfall</article_title>
+              <journal_title>J. Hydrol.</journal_title>
+              <volume>523</volume>
+              <first_page>49</first_page>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0068|jame20219-cit-0069">
+              <author>Zabel</author>
+              <cYear>2013</cYear>
+              <article_title>2-way coupling the hydrological land surface model PROMET with the regional climate model MM5</article_title>
+              <journal_title>Hydrol. Earth Syst. Sci.</journal_title>
+              <volume>17</volume>
+              <first_page>1705</first_page>
+              <doi>10.5194/hess-17-1705-2013</doi>
+            </citation>
+            <citation key="10.1002/2015MS000510-BIB0069|jame20219-cit-0070">
+              <author>Zeng</author>
+              <cYear>2005</cYear>
+              <article_title>A prognostic scheme of sea surface skin temperature for modeling and data assimilation</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>32</volume>
+              <doi>10.1029/2005GL023030</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

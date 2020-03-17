@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-01-11 09:13:22">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Instrumentation, Methods and Data Systems</full_title>
+          <abbrev_title>Geosci. Instrum. Method. Data Syst.</abbrev_title>
+          <issn media_type="electronic">2193-0864</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Airborne polarimetric Doppler weather radar: trade-offs between various engineering specifications</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Jothiram</given_name>
+              <surname>Vivekanandan</surname>
+              <ORCID>https://orcid.org/0000-0002-0952-2169</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eric</given_name>
+              <surname>Loew</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> NCAR EOL is
+investigating potential configurations for the next-generation airborne
+phased array radar (APAR) that is capable of retrieving dynamic and
+microphysical characteristics of clouds and precipitation. The APAR will
+operate at C band. The APAR will use the electronic scanning (e-scan) feature
+to acquire the optimal number of independent samples for recording research-quality measurements. Since the airborne radar has only a limited time for
+collecting measurements over a specified region (moving aircraft platform
+<span class="inline-formula">∼</span><span class="thinspace"></span>100<span class="thinspace"></span>m<span class="thinspace"></span>s<span class="inline-formula"><sup>−1</sup></span>), beam
+multiplexing will significantly enhance its ability to collect
+high-resolution, research-quality measurements. Beam multiplexing reduces
+errors in radar measurements while providing rapid updates of scan volumes.
+Beamwidth depends on the size of the antenna aperture. Beamwidth and
+directivity of elliptical, circular, and rectangular antenna apertures are
+compared and radar sensitivity is evaluated for various polarimetric
+configurations and transmit–receive (T/R) elements. In the case of polarimetric
+measurements, alternate transmit with alternate receive (single-channel
+receiver) and simultaneous reception (dual-channel receiver) is compared.
+From an overall architecture perspective, element-level digitization of
+T/R module versus digital sub-array is considered with
+regard to flexibility in adaptive beamforming, polarimetric performance,
+calibration, and data quality. Methodologies for calibration of the radar and
+removing bias in polarimetric measurements are outlined. The above-mentioned
+engineering options are evaluated for realizing an optimal APAR system
+suitable for measuring the high temporal and spatial resolutions of Doppler
+and polarimetric measurements of precipitation and clouds.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>30</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>21</first_page>
+            <last_page>37</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Directorate for Geosciences
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000085</assertion>
+              </assertion>
+              <assertion name="award_number">NSF0015</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gi-7-21-2018</doi>
+            <resource>https://www.geosci-instrum-method-data-syst.net/7/21/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-instrum-method-data-syst.net/7/21/2018/gi-7-21-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Balanis, C. A.: Antenna theory: analysis and design, 2nd Edn., Wiley, xvi,
+941 pp., New Jersey, USA, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Bluestein, H. B. and Wakimoto, R. M.: Mobile radar observations of severe
+convective storms, Vol. 52, Meteorological Monographs, American
+Meteorological Society, 105–136, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Brandes, E. A., Zhang, G., and Vivekanandan, J.: Comparison of polarimetric
+radar drop size distribution retrieval algorithms, J. Atmos. Ocean. Tech.,
+21, 584–598, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1017/CBO9780511541094</doi>
+              <unstructured_citation>Bringi, V. N. and Chandrasekar, V.: Polarimetric Doppler Weather Radar,
+Cambridge University Press, New York, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Bringi, V. N., Chandrasekar, V., Balakrishnan, N., and Zrnić, D.: An
+Examination of Propagation Effects in Rainfall on Radar Measurements at
+Microwave Frequencies, J. Atmos. Ocean. Tech., 7, 829–840, 1990. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Clothiaux, E. E., Miller, M. A., Albrecht, B. A., Ackerman, T. P., Verlinde,
+J., Babb, D. M., Peters, R. M., and Syrett, W. J.: An evaluation of a 94-GHz
+radar for remote sensing of cloud properties, J. Atmos. Ocean. Tech., 12,
+201–229, 1995. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Chang, W., Vivekanandan, J., and Wang, T.-C. C.: Estimation of X-band
+Polarimetric Radar Attenuation and Measurement Uncertainty Using a
+Variational Method, J. Appl. Meteorol., 53, 1099–1119, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Curtis, C. D.: Exploring the capabilities of the agile beam phased array
+weather radar, PhD Dissertation, University of Oklahoma, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Doviak, R. J. and Zrnic, D.: Doppler radar and weather observations, Academic
+Press, San Diego, California, USA, 562 pp., 1993. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Girardin-Gondeau, J., Baudin, F., and Testud, J.: Comparison of various coded
+waveforms for an airborne meteorological Doppler radar, J. Atmos. Ocean.
+Tech., 8, 234–246, 1991.  </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Herd, J. S. and Convey, M. D.: The evolution of modern phased array
+architecture, P. IEEE, 104, 519–529, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Hildebrand, P. H., Lee, W.-C., Walther, C. A., Frush, C., Randall, M., Loew,
+E., Neitzel, R., Parsons, R., Testud, J., Baudin, F., and LeCornec, A.:
+The ELDORA/ASTRAIA airborne Doppler weather radar: High resolution
+observations from TOGA COARE, B. Am. Metorol. Soc., 77, 213–232, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Lhermitte, R.: A 94-GHz Doppler radar for cloud observations, J. Atmos.
+Ocean. Tech., 4, 36–48, 1987. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Lei, L., Zhang, G., Doviak, R., and Karimkashi, S.: Comparison of theoretical
+biases in estimating polarimetric properties of precipitation with weather
+radar using parabolic reflector or planar and cylindrical arrays, IEEE T.
+Geosci. Remote Sens., 53, 4313–4327, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Lutz, J., Rilling, B., Wilson, J., Weckwerth, T., and Vivekanandan, J.: S-Pol
+after three operational deployments, technical performance, siting
+experiences, and some data examples, Preprints, 28th Conf. on Radar
+Meteorology, Austin, TX, 7–12 September, Amer. Meteor. Soc., Boston,
+286–287, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Salazar, J. L., Medina, R. H., and Loew, E.: T/R modules for active phased
+array radars, IEEE Phased array radar conference, Waltham, MA,
+2013. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Smith, R. B., Carbone, R. E., and Zeng, X.: The lower atmospheric observing
+facilities workshop – meeting the challenges of climate system sciences,
+18–19 June 2012, Boulder, CO, USA, 44 pp., available at:
+https://www.eol.ucar.edu/system/files/LAOF_Workshop_Report_FINAL_06112013.pdf (last access: January 2018),
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Tapping, K.: Antenna calibration using the 10.7&amp;amp;thinsp;cm solar flux. Preprints,
+Workshop on Radar Calibration, Albuquerque, NM, 13–14 January, Amer. Meteor.
+Soc., Boston, 32 pp., 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2002RS002676</doi>
+              <unstructured_citation>Vivekanandan, J., Zhang, G., Ellis, S. M., Rajopadhyaya, D., and Avery, S.
+K.: Radar reflectivity calibration using differential propagation phase
+measurement, Radio Sci., 38, 8049, https://doi.org/10.1029/2002RS002676, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Vivekanandan, J., Zhang, G. F., and Brandes, E. A.: Polarimetric radar
+estimators based on a constrained gamma drop size distribution model. J.
+Appl. Meteorol., 43, 217–230, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/gi-3-111-2014</doi>
+              <unstructured_citation>Vivekanandan, J., Lee, W.-C., Loew, E., Salazar, J. L., Grubišic, V.,
+Moore, J., and Tsai, P.: The next generation airborne polarimetric Doppler
+weather radar, Geosci. Instrum. Method. Data Syst., 3, 111–126,
+https://doi.org/10.5194/gi-3-111-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Wang, H., Fang, D., and Chow, Y. L.: Grating lobe reduction in a phased array
+of limited scanning, IEEE Trans. Antenn. Propag., 56, 1581–1585,
+2008. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Wang, Y. and Chandrasekar, V.: Polarization isolation requirements for linear
+dual-polarization weather radar in simultaneous transmission mode of
+operation, IEEE T. Geosci. Remote Sens., 44, 2019–2028, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Weber, M. E., Cho, J. Y. N., Herd, J. S., Flavin, J. M., Benner, W. E., and
+Torok, G. S.: The Next-Generation Multimission U.S. Surveillance Radar
+Network, B. Am. Meteorol. Soc., 88, 1739–1751, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Yu, T.-Y., Orescanin, M. B., Curtis, C. D., Zrnić, D. S., and Forsyth, D.
+E.: Beam multiplexing using the phased-array weather radar, J. Atmos. Ocean.
+Tech., 24, 616–626, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Zhang, G.: Weather Radar Polarimetry, Boca Raton, CRC Press, 253–277,
+2017.  </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Zhang, G., Doviak, R. J., Zrnić, D. S., Crain, J., Staiman, D., and
+Al-Rashid, Y.: Phased array radar polarimetry for weather sensing: A
+theoretical formulation for bias corrections, IEEE T. Geosci. Remote Sens.,
+47, 3679–3689, 2009.  </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Zrnić, D. S., Zhang, G., and Doviak, R. J.: Bias correction and Doppler
+measurement for polarimetric phased-array Radar, IEEE T. Geosci. Remote
+Sens., 49, 843–853, 2011. </unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-11 19:12:29">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Natural Hazards and Earth System Sciences</full_title>
+          <abbrev_title>Nat. Hazards Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1684-9981</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>17</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A meteo-hydrological modelling system for the reconstruction of river runoff: the case of the Ofanto river catchment</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Giorgia</given_name>
+              <surname>Verri</surname>
+              <ORCID>https://orcid.org/0000-0002-7561-618X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nadia</given_name>
+              <surname>Pinardi</surname>
+              <ORCID>https://orcid.org/0000-0003-4765-0775</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David</given_name>
+              <surname>Gochis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joseph</given_name>
+              <surname>Tribbia</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Antonio</given_name>
+              <surname>Navarra</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Giovanni</given_name>
+              <surname>Coppini</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tomislava</given_name>
+              <surname>Vukicevic</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> A meteo-hydrological modelling system has been designed for the reconstruction of long time series of rainfall and river runoff events. The modelling chain consists of the mesoscale meteorological model of the Weather Research and Forecasting (WRF), the land surface model NOAH-MP and the hydrology–hydraulics model WRF-Hydro. Two 3-month periods are reconstructed for winter 2011 and autumn 2013, containing heavy rainfall and river flooding events. Several sensitivity tests were performed along with an assessment of which tunable parameters, numerical choices and forcing data most impacted on the modelling performance.<br><br>The calibration of the experiments highlighted that the infiltration and aquifer coefficients should be considered as seasonally dependent.<br><br>The WRF precipitation was validated by a comparison with rain gauges in the Ofanto basin. The WRF model was demonstrated to be sensitive to the initialization time and a spin-up of about 1.5 days was needed before the start of the major rainfall events in order to improve the accuracy of the reconstruction. However, this was not sufficient and an optimal interpolation method was developed to correct the precipitation simulation. It is based on an objective analysis (OA) and a least square (LS) melding scheme, collectively named OA+LS. We demonstrated that the OA+LS method is a powerful tool to reduce the precipitation uncertainties and produce a lower error precipitation reconstruction that itself generates a better river discharge time series. The validation of the river streamflow showed promising statistical indices.<br><br>The final set-up of our meteo-hydrological modelling system was able to realistically reconstruct the local rainfall and the Ofanto hydrograph.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>09</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1741</first_page>
+            <last_page>1761</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/nhess-17-1741-2017</doi>
+            <resource>https://www.nat-hazards-earth-syst-sci.net/17/1741/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.nat-hazards-earth-syst-sci.net/17/1741/2017/nhess-17-1741-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Bellecci, C., Colacino, M., and Federico, S.: Quantitative precipitation of the Soverato flood: the role of orography and surface fluxes, Il Nuovo Cimento C, 26C, 7–22, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/qj.346</doi>
+              <unstructured_citation>Buizza, R., Leutbecher, M., and Isaksen, L.: Potential use of an ensemble of analyses in the ECMWF Ensemble Prediction System, Q. J. Roy. Meteor. Soc., 134, 2051–2066, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Bretherton, F. P., Davis, R. E., and Fandry, C.: A technique for objective analysis and design of oceanographic instruments applied to MODE-73, Deep-Sea Res., 23, 559–582, 1976.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/1520-0426(1987)004&lt;0049:AMFTEO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Carter, E. F. and Robinson, A. R.: Analysis models for the estimation of oceanic fields, J. Atmos. Ocean. Tech., 4, 49–74, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/2011JHM1347.1</doi>
+              <unstructured_citation>Cuo, L., Pagano, T. C., and Wang, Q. J.: A review of quantitative precipitation forecasts and their use in short-to medium-range streamflow forecasting, J. Hydrometeorol., 12, 713–728, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/hess-17-2107-2013</doi>
+              <unstructured_citation>Davolio, S., Miglietta, M. M., Diomede, T., Marsigli, C., and Montani, A.: A flood episode in northern Italy: multi-model and single-model mesoscale meteorological ensembles for hydrological predictions, Hydrol. Earth Syst. Sci., 17, 2107–2120, https://doi.org/10.5194/hess-17-2107-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Doherty, J.: PEST: Model Independent Parameter Estimation, User Manual, 4th Edn., Watermark Numer. Comput., Brisbane, Queensland, Australia, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/asl.72</doi>
+              <unstructured_citation>Done, J., Davis, C., and Weisman, M.: The next generation of NWP: Explicit forecasts of convection using the Weather Research and Forecast (WRF) Model, Atmos. Sci. Lett., 5, 110–117, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/nhess-8-1173-2008</doi>
+              <unstructured_citation>Federico, S., Avolio, E., Pasqualoni, L., and Bellecci, C.: Atmospheric patterns for heavy rain events in Calabria, Nat. Hazards Earth Syst. Sci., 8, 1173–1186, https://doi.org/10.5194/nhess-8-1173-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/j.atmosres.2009.03.008</doi>
+              <unstructured_citation>Federico, S., Avolio, E., Pasqualoni, L., De Leo, L., Sempreviva, A. M., and Bellecci, C.: Preliminary results of a 30-year daily rainfall data base in southern Italy, Atmos. Res., 94, 641–651, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1016/j.atmosres.2013.10.007</doi>
+              <unstructured_citation>Fiori, E., Comellasa, A., Molini, D., Rebora, N., Siccardi, F., Gochis, D., Tanelli, S., and Parodi, A.: Analysis and hindcast simulations of an extreme rainfall event in the Mediterranean area: The Genoa 2011 case, Atmos. Res., 138, 13–29, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Gandin, L.: Objective Analysis of Meteorological Fields, Leningrad, Gridromet, English translation 1965, Jerusalem, Israel Program for Scientific Translation, 1963.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Givati, A., Gochis, D., Rummler, T., and Kunstmann, H.: Comparing One-Way and Two-Way Coupled Hydrometeorological Forecasting Systems for Flood Forecasting in the Mediterranean Region, Hydrology, 3, 19 pp., 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Gochis, D. J., Yu, W., and Yates, D. N.: The WRF-Hydro Model Technical Description and User's Guide, Version 1.0, NCAR Technical Document, 120 pp., 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1002/0470848944.hsa138</doi>
+              <unstructured_citation>Gupta, H. V., Beven, K. J., and Wagener, T.: Model Calibration and uncertainty estimation, in: Encyclopedia of Hydrological Sciences, John Wiley and Sons, 2015–2032, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/hyp.8040</doi>
+              <unstructured_citation>Hapuarachchi, H. A. P., Wang, Q. J., and Pagano, T. C.: A review of advances in flash flood forecasting, Hydrol. Process., 25, 2771–2784, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Hong, S. Y. and Lim, J. O. J.: The WRF Single-Moment 6-Class Microphysics Scheme (WSM6), J. Korean Meteor. Soc., 42, 129–151, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/2008JD009944</doi>
+              <unstructured_citation>Iacono, M. J., Delamere, J. S., Mlawer, E. J., Shephard, M. W., Clough, S. A., and Collins, W. D.: Radiative forcing by long-lived greenhouse gases: Calculations with the AER Radiative transfer models, J. Geophys. Res., 113, D13103, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2006WR005603</doi>
+              <unstructured_citation>Jones, J. P., Sudicky, E. A., and McLaren, R. G.: Application of a fully-integrated surface-subsurface flow model at the watershed scale: A case study, Water Resour. Res., 44, W03407, https://doi.org/10.1029/2006WR005603, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Kain, J. S. and Fritsch, J. M.: Convective parameterization for mesoscale models: The Kain-Fritsch scheme, The representation of cumulus convection in numerical models, edited by: Emanuel, K. A. and Raymond, D. J., Amer. Meteor. Soc., 246 pp., 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/WAF2007106.1</doi>
+              <unstructured_citation>Kain, J. S., Weiss, S. J., Bright, D. R., Baldwin, M. E., Levit, J. J., Carbin, G. W., Schwartz, C. S., Weisman, M. L., Droegemeier, K. K., Weber, D. B., and Thomas, K. W.: Some practical considerations regarding horizontal resolution in the first generation of operational convection-allowing NWP, Weather Forecast., 23, 931–952, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2009GL041677</doi>
+              <unstructured_citation>Koster, R. D., Mahanama, S. P. P., Yamada, T. J., Balsamo, G., Berg, A. A., Boisserie, M., and Guo, Z.: Contribution of land surface initialization to subseasonal forecast skill: First results from a multi-model experiment, Geophys. Res. Lett., 37, https://doi.org/10.1029/2009GL041677, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/1999WR900099</doi>
+              <unstructured_citation>Krzysztofowicz, R.: Bayesian theory of probabilistic forecasting via deterministic hydrologic model, Water Resour. Res., 35, 2739–2750, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/S0022-1694(01)00413-9</doi>
+              <unstructured_citation>Krzysztofowicz, R.: Integrator of uncertainties for probabilistic river stage forecasting: precipitation-dependent model, J. Hydrol., 249, 69–85, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/2011JHM1257.1</doi>
+              <unstructured_citation>Laviola, S., Moscatello, A., Miglietta, M. M., Cattani, E., and Levizzani, V.: Satellite and Numerical Model Investigation of Two Heavy Rain Events over the Central Mediterranean, J. Hydrometeorol., 12, 634–649, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/hess-6-859-2002</doi>
+              <unstructured_citation>Liu, Z. and Todini, E.: Towards a comprehensive physically-based rainfall-runoff model, Hydrol. Earth Syst. Sci., 6, 859–881, https://doi.org/10.5194/hess-6-859-2002, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/JHM-D-12-063.1</doi>
+              <unstructured_citation>Lucas-Picher, P., Boberg, F., Christensen, J. H., and Berg, P.: Dynamical downscaling with reinitializations: A method to generate finescale climate datasets suitable for impact studies, J. Hydrometeorol., 14, 1159–1174, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1016/j.atmosres.2010.10.010</doi>
+              <unstructured_citation>Mastrangelo, D., Horvath, K., Riccio, A., and Miglietta, M. M.: Mechanisms for convection development in a long-lasting heavy precipitation event over southeastern Italy, Atmos. Res., 100, 586–602, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1016/S0309-1708(01)00038-0</doi>
+              <unstructured_citation>Menabde, M. and Sivapalan, M.: Linking space–time variability of river runoff and rainfall fields: a dynamic approach, Adv. Water Res., 24, 1001–1014, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/nhess-8-1417-2008</doi>
+              <unstructured_citation>Miglietta, M. M. and Regano, A.: An observational and numerical study of a flash-flood event over south-eastern Italy, Nat. Hazards Earth Syst. Sci., 8, 1417–1430, https://doi.org/10.5194/nhess-8-1417-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1175/MWR3406.1</doi>
+              <unstructured_citation>Moeng, C. H., Dudhia, J., Klemp, J., and Sullivan, P.: Examining two-way grid nesting for large eddy simulation of the PBL using the WRF model, Mon. Weather Rev., 135, 2295–2311, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Monin, A. S. and Obukhov, A. M.: Basic laws of turbulent mixing in the surface layer of the atmosphere, Contrib. Geophys. Inst. Acad. Sci., USSR, 151, 163–187, 1954.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/wea.231</doi>
+              <unstructured_citation>Moscatello, A., Miglietta, M. M., and Rotunno, R.: Observational analysis of a Mediterranean “hurricane” over south-eastern Italy, Weather, 63, 306–311, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2010WR009195</doi>
+              <unstructured_citation>Nickovic, S., Pejanovic, G., Djurdjevic, V., Roskar, J., and Vujadinovic, M.: HYPROM hydrology surface-runoff prognostic model, Water Resour. Res., 46, W11506, https://doi.org/10.1029/2010WR009195, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2006JD007522</doi>
+              <unstructured_citation>Niu, G. Y., Yang, Z. L., Dickinson, R. E., Gulden, L. E., and Su, H.: Development of a simple groundwater model for use in climate models and evaluation with Gravity Recovery and Climate Experiment data, J. Geophys. Res.-Atmos., 112, https://doi.org/10.1029/2005JD006111, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2010JD015139</doi>
+              <unstructured_citation>Niu, G.-Y., Yang, Z.-L., Mitchell, K. E., Chen, F., Ek, M. B., Barlage, M., and Xia, Y.: The community Noah land surface model with multiparameterization options (Noah-MP): 1. Model description and evaluation with local scale measurements, J. Geophys. Res., 116, https://doi.org/10.1029/2010JD015139, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/hess-9-381-2005</doi>
+              <unstructured_citation>Pappenberger, F., Beven, K. J., Hunter, N. M., Bates, P. D., Gouweleeuw, B. T., Thielen, J., and de Roo, A. P. J.: Cascading model uncertainty from medium range weather forecasts (10 days) through a rainfall-runoff model to flood inundation predictions within the European Flood Forecasting System (EFFS), Hydrol. Earth Syst. Sci., 9, 381–393, https://doi.org/10.5194/hess-9-381-2005, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/2014RG000475</doi>
+              <unstructured_citation>Prein, A. F., Langhans, W., Fosser, G., Ferrone, A., Ban, N., Goergen, K., and Brisson, E.: A review on regional convection–permitting climate modeling: Demonstrations, prospects, and challenges, Rev. Geophys., 53, 323–361, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/1520-0493(2003)131&lt;2857:RVCSFR&gt;2.0.CO;2</doi>
+              <unstructured_citation>Qian, J. H., Seth, A., and Zebiak, S.: Reinitialized versus continuous simulations for regional climate downscaling, Mon. Weather Rev., 131, 2857–2874, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/JHM497.1</doi>
+              <unstructured_citation>Rigon, R., Bertoldi, G., and Over, T. M.: A distributed hydrological model with coupled water and energy budgets, J. Hydrometeorol., 7, 371–388, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Romano, L., Pellegrino, R., Di Santo, A. R., and Fratino, U.: Modellazione idraulica bidimensionale per la determinazione delle aree inondabili del fiume Ofanto, Atti 13ma Conferenza Nazionale ASITA, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1016/j.jhydrol.2008.07.049</doi>
+              <unstructured_citation>Ruelland, D., Ardoin-Bardin, S., Billen, G., and Servat, E.: Sensitivity of a lumped and semi-distributed hydrological model to several methods of rainfall interpolation on a large basin in West Africa, J. Hydrol., 361, 96–117, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1175/2009MWR2924.1</doi>
+              <unstructured_citation>Schwartz, C. S., Kain, J. S., Weiss, S. J., Xue, M., Bright, D. R., Kong, F., Thomas, K. W., Levit, J. J., and Coniglio, M. C.: Next-day convection-allowing WRF model guidance: A second look at 2-km versus 4-km grid spacing, Mon. Weather Rev., 137, 3351–3372, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1175/2009WAF2222267.1</doi>
+              <unstructured_citation>Schwartz, C. S., Kain, J. S., Weiss, S. J., Xue, M., Bright, D. R., Kong, F., Thomas, K. W., Levit, J. J., Coniglio, M. C., and Wandishin, M. S.: Toward improved convection-allowing ensembles: Model physics sensitivities and optimizing probabilistic guidance with small ensemble membership, Weather Forecast., 25, 263–280, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1002/2015MS000510</doi>
+              <unstructured_citation>Senatore, A., Mendicino, G., Gochis, D. J., Yu, W., Yates, D. N., and Kunstmann, H.: Fully coupled atmosphere-hydrology simulations for the central Mediterranean: Impact of enhanced hydrological parameterization for short and long time scales, J. Adv. Model. Earth Syst., 7, 1693–1715, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1017/CBO9781139177245.006</doi>
+              <unstructured_citation>Seneviratne, S. I., Nicholls, N., Easterling, D., Goodess, C. M., Kanae, S., Kossin, J., Luo, Y., Marengo, J., McInnes, K., Rahimi, M., Reichstein, M., Sorteberg, A., Vera, C., and Zhang, X.: Changes in climate extremes and their impacts on the natural physical environment, in: IPCC Special Report on Extremes, 109–230, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/JAS-D-12-0290.1</doi>
+              <unstructured_citation>Shin, H. H. and Hong, S. Y.: Analysis of resolved and parameterized vertical transports in convective boundary layers at gray-zone resolutions, J. Atmos. Sci., 70, 3248–3261, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Skamarock, W. C., Klemp, J. B., Dudhia, J., Gill, D., Barker, D., Duda, M., Huang, X., Wang, W., and Powers, J.: A Description of the Advanced Research WRF Version 3, NCAR tech note NCAR/TN 475 STR, 125 pp., 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1130/0016-7606(1952)63[1117:HAAOET]2.0.CO;2</doi>
+              <unstructured_citation>Strahler, A. N.: Hypsometric (area-altitude) analysis of erosional topography, Geol. Soc. Am. Bull., 63, 1117–1142, 1952.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1175/2008MWR2387.1</doi>
+              <unstructured_citation>Thompson, G., Rasmussen, R. M., and Manning, K.: Explicit forecasts of winter precipitation using an improved bulk microphysics scheme. Part II: Implementation of a new snow parameterization, Mon. Weather Rev., 136, 5095–5115, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Todini, E.: New trends in modeling soil processes from hillslope to GCMS scales. The role of water and the hydrological cycle in global change, NATO ASI Ser I: Global Environmental Change, edited by: Oliver, H. R. and Oliver, S. A., 31, 317–347, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Todini, E. and Ciarapica, L.: The TOPKAPI model: Mathematical models of large watershed hydrology, edited by: Singh, V. P. and Frevert, D. K., Littleton, Colorado, USA, Water Resources Publications, 914 pp., 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>USACE: Hydrologic modelling System: User's Manual Version 4.1, US Army Corps of Engineers, Hydrologic Engineering Center, Davis, CA, USA, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1175/2007WAF2007005.1</doi>
+              <unstructured_citation>Weisman, M. L., Davies, C., Wang, W., Manning, K. W., and Klemp, J. B.: Experiences with 0-36-h explicit convective forecasts with the WRF-ARW model, Weather Forecast., 23, 407–437, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/nhess-14-611-2014</doi>
+              <unstructured_citation>Yucel, I. and Onen, A.: Evaluating a mesoscale atmosphere model and a satellite-based algorithm in estimating extreme rainfall events in northwestern Turkey, Nat. Hazards Earth Syst. Sci., 14, 611–624, https://doi.org/10.5194/nhess-14-611-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1016/j.jhydrol.2015.01.042</doi>
+              <unstructured_citation>Yucel, I., Onen, A., Yilmazb, K. K., and Gochis, D. J.: Calibration and evaluation of a flood forecasting system: Utility of numerical weather prediction model, data assimilation and satellite-based rainfall, J. Hydrol., 523, 49–66, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1002/asl.248</doi>
+              <unstructured_citation>Zappa, M., Beven, K. J., Bruen, M., Cofino, A. S., Kok, K., Martin, E., Nurmi, P., Orfila, B., Roulin, E., Schroter, K., Seed, A., Szturc, J., Vehvilainen, B., Germann, U., and Rossa, A.: Propagation of uncertainty from observing systems and NWP into hydrological models: COST731 Working Group 2, Atmos. Sci. Lett., 11, 83–91, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1016/j.atmosres.2010.12.005</doi>
+              <unstructured_citation>Zappa, M., Jaun, S., Germann, U., Walser, A., and Fundel, F.: Superposition of three sources of uncertainties in operational flood forecasting chains, Atmos. Res., 100, 246–262, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Zobler, L.: A world soil file for global climate modelling, National Aeronautics and Space Administration, Goddard Space Flight Center, Institute for Space Studies, 1986.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

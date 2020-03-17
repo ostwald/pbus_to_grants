@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-10-23 12:28:14">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>12</volume>
+          </journal_volume>
+          <issue>8</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Radiance-based retrieval bias mitigation for the MOPITT instrument: the version 8 product</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Merritt N.</given_name>
+              <surname>Deeter</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David P.</given_name>
+              <surname>Edwards</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gene L.</given_name>
+              <surname>Francis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>John C.</given_name>
+              <surname>Gille</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Debbie</given_name>
+              <surname>Mao</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sara</given_name>
+              <surname>Martínez-Alonso</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Helen M.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Ziskin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Meinrat O.</given_name>
+              <surname>Andreae</surname>
+              <ORCID>https://orcid.org/0000-0003-1968-7925</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[Abstract. The MOPITT (Measurements of Pollution in the Troposphere) satellite instrument has been making nearly continuous observations of atmospheric carbon monoxide (CO) since 2000. Satellite observations of CO are routinely used to analyze emissions from fossil fuels and biomass burning, as well as the atmospheric transport of those emissions. Recent enhancements to the MOPITT retrieval algorithm have resulted in the release of the version 8 (V8) product. V8 products benefit from updated spectroscopic data for water vapor and nitrogen used to develop the operational radiative transfer model and exploit a new method for minimizing retrieval biases through parameterized radiance bias correction. In situ datasets used for algorithm development and validation include the NOAA (National Oceanic and Atmospheric Administration) and HIPPO (HIAPER Pole-to-Pole Observations) datasets used for earlier MOPITT validation work in addition to measurements from the ACRIDICON-CHUVA (Aerosol, Cloud, Precipitation, and Radiation Interactions and Dynamics of Convective Cloud Systems – Cloud processes of the main precipitation systems in Brazil: A contribution to cloud resolving modeling and to the GPM (Global Precipitation Measurement)), KORUS-AQ (The Korea-United States Air Quality Study), and ATom (The Atmospheric Tomography Mission) programs. Validation results illustrate clear improvements with respect to long-term bias drift and geographically variable retrieval bias. For example, whereas bias drift for the V7 thermal-infrared (TIR)-only product exceeded 0.5 % yr−1 for levels in the upper troposphere (e.g., at 300 hPa), bias drift for the V8 TIR-only product is found to be less than 0.1 % yr−1 at all levels. Also, whereas upper-tropospheric (300 hPa) retrieval bias in the V7 TIR-only product exceeded 10 % in the tropics, corresponding V8 biases are less than 5 % (in terms of absolute value) at all latitudes and do not exhibit a clear latitudinal dependence.]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>28</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>4561</first_page>
+            <last_page>4580</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <intra_work_relation relationship-type="hasPreprint" identifier-type="doi">10.5194/amt-2019-41</intra_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-12-4561-2019</doi>
+            <resource>https://www.atmos-meas-tech.net/12/4561/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/12/4561/2019/amt-12-4561-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/amt-10-1927-2017</doi>
+              <unstructured_citation>Buchholz, R. R., Deeter, M. N., Worden, H. M., Gille, J., Edwards, D. P., Hannigan, J. W., Jones, N. B., Paton-Walsh, C., Griffith, D. W. T., Smale, D., Robinson, J., Strong, K., Conway, S., Sussmann, R., Hase, F., Blumenstock, T., Mahieu, E., and Langerock, B.: Validation of MOPITT carbon monoxide using ground-based Fourier transform infrared spectrometer data from NDACC, Atmos. Meas. Tech., 10, 1927–1956, https://doi.org/10.5194/amt-10-1927-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2002JD003186</doi>
+              <unstructured_citation>Deeter, M. N., Emmons, L. K., Francis, G. L., Edwards, D. P., Gille, J. C., Warner, J. X., Khattatov, B., Ziskin, D., Lamarque, J.-F., Ho, S.-P., Yudin, V., Attié, J.-L., Packman, D., Chen, J., Mao, D., and Drummond, J. R.: Operational carbon monoxide retrieval algorithm and selected results for the MOPITT instrument, J. Geophys. Res., 108, 4399, https://doi.org/10.1029/2002JD003186, 2003. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2007JD008929</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Gille, J. C., and Drummond, J. R.: Sensitivity of MOPITT observations to carbon monoxide in the lower troposphere, J. Geophys. Res., 112, D24306, https://doi.org/10.1029/2007JD008929, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2008JD010872</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Gille, J. C., and Drummond, J. R.: CO retrievals based on MOPITT near-infrared observations, J. Geophys. Res., 114, D04303, https://doi.org/10.1029/2008JD010872, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2012JD017553</doi>
+              <unstructured_citation>Deeter, M. N., Worden, H. M., Edwards, D. P., Gille, J. C., and Andrews, A. E.: Evaluation of MOPITT retrievals of lower-tropospheric carbon monoxide over the United States, J. Geophys. Res., 117, D13306, https://doi.org/10.1029/2012JD017553, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/jgrd.50272</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: Validation of MOPITT Version 5 thermal-infrared, near-infrared, and multispectral carbon monoxide profile retrievals for 2000–2011, J. Geophys. Res.-Atmos., 118, 6710–6725, https://doi.org/10.1002/jgrd.50272, 2013. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/amt-7-3623-2014</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Sweeney, C., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: The MOPITT Version 6 product: algorithm enhancements and validation, Atmos. Meas. Tech., 7, 3623–3632, https://doi.org/10.5194/amt-7-3623-2014, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/amt-9-3999-2016</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Gatti, L. V., Gloor, M., Miller, J. B., Domingues, L. G., and Correia, C. S. C.: Validation and analysis of MOPITT CO observations of the Amazon Basin, Atmos. Meas. Tech., 9, 3999–4012, https://doi.org/10.5194/amt-9-3999-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/amt-10-2533-2017</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Francis, G. L., Gille, J. C., Martínez-Alonso, S., Worden, H. M., and Sweeney, C.: A climate-scale satellite record for carbon monoxide: the MOPITT Version 7 product, Atmos. Meas. Tech., 10, 2533–2555, https://doi.org/10.5194/amt-10-2533-2017, 2017. a, b, c, d, e, f, g, h, i, j</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/j.asr.2009.11.019</doi>
+              <unstructured_citation>Drummond, J. R., Zou, J., Nichitiu, F., Kar, J., Deschambaut, R., and Hackett, J.: A review of 9-year performance and operation of the MOPITT instrument, Adv. Space Res., 45, 760–774, https://doi.org/10.1016/j.asr.2009.11.019, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Drummond, J. R., Hackett, J., and Caldwell, D.: Measurements Of Pollution In The Troposphere (MOPITT), in: Optical Payloads for Space Missions, edited by: Qian, S.-E., Wiley, West Sussex, UK, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Edwards, D. P.: GENLN2: A general line-by-line atmospheric transmittance and radiance model, Version 3.0 description and User's Guide, NCAR/TN-367+STR, NCAR Rep., Natl. Cent. for Atmos. Res., Boulder, Colorado, 1992. a</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/1999JD900167</doi>
+              <unstructured_citation>Edwards, D. P., Halvorson, C. M., and Gille, J. C.: Radiative transfer modeling for the EOS Terra satellite Measurements of Pollution in the Troposphere (MOPITT) instrument, J. Geophys. Res., 104, 16755–16775, 1999. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2004JD004727</doi>
+              <unstructured_citation>Edwards, D. P., Emmons, L. K., Hauglustaine, D. A., Chu, D. A., Gille, J. C., Kaufman, Y. J., Pétron, G., Yurganov, L. N., Giglio, L., Deeter, M. N., Yudin, V., Ziskin, D. C., Warner, J., Lamarque, J.-F., Francis, G. L., Ho, S.-P., Mao, D., Chen, J., Grechko, E. I., and Drummond, J. R., Observations of carbon monoxide and aerosols from the Terra satellite: Northern Hemisphere variability, J. Geophys. Res., 109, D24202, https://doi.org/10.1029/2004JD004727, 2004. a</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/gmd-3-43-2010</doi>
+              <unstructured_citation>Emmons, L. K., Walters, S., Hess, P. G., Lamarque, J.-F., Pfister, G. G., Fillmore, D., Granier, C., Guenther, A., Kinnison, D., Laepple, T., Orlando, J., Tie, X., Tyndall, G., Wiedinmyer, C., Baughcum, S. L., and Kloster, S.: Description and evaluation of the Model for Ozone and Related chemical Tracers, version 4 (MOZART-4), Geosci. Model Dev., 3, 43–67, https://doi.org/10.5194/gmd-3-43-2010, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Francis, G. L., Deeter, M. N., Martínez-Alonso, S., Gille, J. C., Edwards, D. P., Mao, D., Worden, H. M., and Ziskin, D.: Measurement of Pollution in the Troposphere Algorithm Theoretical Basis Document (ATBD), Retrieval of Carbon Monoxide Profiles and Column Amounts from MOPITT Observed Radiances, available at: https://www2.acom.ucar.edu/sites/default/files/mopitt/ATBD_5_June_2017.pdf (last access: 14 August 2019), 2017. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1002/2017GL074987</doi>
+              <unstructured_citation>Gaubert, B., Worden, H. M., Arellano, A. F., Emmons, L. K., Tilmes, S., Barre, J., Martínez-Alonso, S., Vitt, F., Anderson, J. L., Alkemade, F., Houweling, S., and Edwards, D. P.: Chemical Feedback From Decreasing Carbon Monoxide Emissions, Geophys. Res. Lett., 44, 9985–9995, https://doi.org/10.1002/2017GL074987, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/2003JD003507</doi>
+              <unstructured_citation>Heald, C. L., Jacob, D. J., Fiore, A. M., Emmons, L. K., Gille, J. C., Deeter, M. N., Warner, J., Edwards, D. P., Crawford, J. H., Hamlin, A. J., Sachse, G. W., Browell, E. V., Avery, M. A., Vay, S. A., Westberg, D. J., Blake, D. R., Singh, H. B., Sandholm, S. T., Talbot, R. W., and Fuelberg, H. E.: Asian outflow and trans-Pacific transport of carbon monoxide and ozone pollution: An integrated satellite, aircraft, and model perspective, J. Geophys. Res., 108, 4804, https://doi.org/10.1029/2003JD003507, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-15-5275-2015</doi>
+              <unstructured_citation>Inness, A., Blechschmidt, A.-M., Bouarar, I., Chabrillat, S., Crepulja, M., Engelen, R. J., Eskes, H., Flemming, J., Gaudel, A., Hendrick, F., Huijnen, V., Jones, L., Kapsomenakis, J., Katragkou, E., Keppens, A., Langerock, B., de Mazière, M., Melas, D., Parrington, M., Peuch, V. H., Razinger, M., Richter, A., Schultz, M. G., Suttie, M., Thouret, V., Vrekous&amp;lt;span id=&amp;quot;page4579&amp;quot;/&amp;gt;sis, M., Wagner, A., and Zerefos, C.: Data assimilation of satellite-retrieved ozone, carbon monoxide and nitrogen dioxide with ECMWF's Composition-IFS, Atmos. Chem. Phys., 15, 5275–5303, https://doi.org/10.5194/acp-15-5275-2015, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-17-4565-2017</doi>
+              <unstructured_citation>Jiang, Z., Worden, J. R., Worden, H., Deeter, M., Jones, D. B. A., Arellano, A. F., and Henze, D. K.: A 15-year record of CO emissions constrained by MOPITT CO observations, Atmos. Chem. Phys., 17, 4565–4583, https://doi.org/10.5194/acp-17-4565-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-10-855-2010</doi>
+              <unstructured_citation>Kopacz, M., Jacob, D. J., Fisher, J. A., Logan, J. A., Zhang, L., Megretskaia, I. A., Yantosca, R. M., Singh, K., Henze, D. K., Burrows, J. P., Buchwitz, M., Khlystova, I., McMillan, W. W., Gille, J. C., Edwards, D. P., Eldering, A., Thouret, V., and Nedelec, P.: Global estimates of CO sources with high resolution by adjoint inversion of multiple satellite datasets (MOPITT, AIRS, SCIAMACHY, TES), Atmos. Chem. Phys., 10, 855–876, https://doi.org/10.5194/acp-10-855-2010, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/jgrd.50134</doi>
+              <unstructured_citation>Kumar, R., Naja, M., Pfister, G. G., Barth, M. C., and Brasseur, G. P.: Source attribution of carbon monoxide in India and surrounding regions during wintertime, J. Geophys. Res.-Atmos., 118, 1981–1995, https://doi.org/10.1002/jgrd.50134, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/gmd-5-369-2012</doi>
+              <unstructured_citation>Lamarque, J.-F., Emmons, L. K., Hess, P. G., Kinnison, D. E., Tilmes, S., Vitt, F., Heald, C. L., Holland, E. A., Lauritzen, P. H., Neu, J., Orlando, J. J., Rasch, P. J., and Tyndall, G. K.: CAM-chem: description and evaluation of interactive atmospheric chemistry in the Community Earth System Model, Geosci. Model Dev., 5, 369–411, https://doi.org/10.5194/gmd-5-369-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1002/2014JD022397</doi>
+              <unstructured_citation>Martínez-Alonso, S., Deeter, M. N., Worden, H. M., Gille, J. C., Emmons, L. K., Pan, L., Park, M., Manney, G. L., Bernath, P. V., Boone, C. D., Walker, K. A., Kolonjari, F., Wofsy, S. C., Pittman, J., and Daube, B. C.: Comparison of upper tropospheric carbon monoxide from MOPITT, ACE-FTS, and HIPPO-QCLS, J. Geophys. Res., 119, 14144–14164, https://doi.org/10.1002/2014JD022397, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1029/2018JD028912</doi>
+              <unstructured_citation>Miyazaki, K., Sekiya, T., Fu, D., Bowman, K. W., Kulawik, S. S., Sudo, K., Walker, T., Kanaya, Y., Takigawa, M., Ogochi, K., Eskes, H., Boersma, K. F., Thompson, A. M., Gaubert, B., Barre, J., and Emmons, L. K.: Balance of emission and dynamical controls on ozone during KORUS-AQ from multi-constituent satellite data assimilation, J. Geophys. Res.-Atmos., 124, 387–413, https://doi.org/10.1029/2018JD028912, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1098/rsta.2011.0295</doi>
+              <unstructured_citation>Mlawer, E. J., Payne, V. H., Moncet, J.-L., Delamere, J. S., Alvarado, M. J., and Tobin, D. C.: Development and recent evaluation of the MT_CKD model of continuum absorption, Phil. T. Roy. Soc. A, 370, 2520–2556, https://doi.org/10.1098/rsta.2011.0295, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Moeller, C. and Frey, R.: Terra MODIS Collection 6.1 Calibration and Cloud Product Changes, Version 1.0, available at: https://modis-atmosphere.gsfc.nasa.gov/sites/default/files/ModAtmo/C6.1_Calibration_and_Cloud_Product_Changes_UW_frey_CCM_1.pdf (last access: 14 August 2019), 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>MOPITT Algorithm Development Team, MOPITT (Measurements of Pollution in the Troposphere) Version 8 Product User's Guide, available at: https://www2.acom.ucar.edu/sites/default/files/mopitt/v8_users_guide_201812.pdf (last access: 14 August 2019), 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1364/AO.34.006976</doi>
+              <unstructured_citation>Pan, L., Edwards, D. P., Gille, J. C., Smith, M. W., and Drummond, J. R.: Satellite remote sensing of tropospheric CO and CH4: forward model studies of the MOPITT instrument, Appl. Opt., 34, 6976–6988, 1995. a</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/98JD01828</doi>
+              <unstructured_citation>Pan, L., Gille, J., Edwards, D. P., Bailey, P. L., and Rodgers, C. D.: Retrieval of tropospheric carbon monoxide for the MOPITT instrument, J. Geophys. Res., 103, 32277–32290, 1998. a</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/2005GL022995</doi>
+              <unstructured_citation>Pfister, G., Hess, P. G., Emmons, L. K., Lamarque, J.-F., Wiedinmyer, C., Edwards, D. P., Pétron, G., Gille, J. C., and Sachse, G. W.: Quantifying CO emissions from the 2004 Alaskan wildfires using MOPITT CO data, Geophys. Res. Lett., 32, 11809, https://doi.org/10.1029/2005GL022995, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1016/j.jqsrt.2011.11.004</doi>
+              <unstructured_citation>Richard, C., Gordon, I. E., Rothman, L. S., Abel, M., Frommhold, L., Gustafsson, M., Hartmann, J.-M., Hermans, C., Lafferty, W. J., Ortong, G. S., Smith, K. M., and Tran, H.: New section of the HITRAN database: Collision-induced absorption (CIA), J. Quant. Spectrosc. Ra., 113, 1276–1285, https://doi.org/10.1016/j.jqsrt.2011.11.004, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1142/9789812813718</doi>
+              <unstructured_citation>Rodgers, C. D.: Inverse Methods for Atmospheric Sounding, Theory and Practice, World Scientific, Singapore, 2000. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2002JD002299</doi>
+              <unstructured_citation>Rodgers, C. D. and Connor, B. J.: Intercomparison of remote sounding instruments, J. Geophys. Res., 108, 4116, https://doi.org/10.1029/2002JD002299, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1016/j.jqsrt.2013.07.002</doi>
+              <unstructured_citation>Rothman, L. S., Gordon, I. E., Babikov, Y., Barbe, A., Benner, D. C., Bernath, P. V., Birk, M., Bizzocchi, L., Boudon, V., Brown, L. R., Campargue, A., Chance, K., Cohen, E. A., Coudert, L. H., Devid, V. M., Drouin, B. J., Fayt, A., Flaud, J.-M., Gamache, R. R., Harrison, J. J., Hartmann, J.-M., Hill, C., Hodges, J. T., Jacquemart, D., Jolly, A., Lamouroux, J., Le Roy, R. J., Li, G., Long, D. A., Lyulin, O. M., Mackie, C. J., Massie, S. T., Mikhailenko, S., Müller, H. S. P., Naumenko, O. V., Nikitin, A. V., Orphal, J., Perevalov, V., Perrin, A., Polovtseva, E. R., Richard, C., Smith, M. A. H., Starikova, E., Sung, K., Tashkun, S., Tennyson, J., Toon, G. C., Tyuterev, V. G., and Wagner, G.: The HITRAN 2012 Molecular Spectroscopic Database, J. Quant. Spectrosc. Ra., 130, 4–50. https://doi.org/10.1016/j.jqsrt.2013.07.002, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/JD092iD02p02071</doi>
+              <unstructured_citation>Sachse, G. W., Hill, G. F., Wade, L. O., and Perry, M. G.: Fast-response, high-precision carbon monoxide sensor using a tunable diode laser absorption technique, J. Geophys. Res., 92, 2071–2081, 1987. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/amt-7-1509-2014</doi>
+              <unstructured_citation>Santoni, G. W., Daube, B. C., Kort, E. A., Jiménez, R., Park, S., Pittman, J. V., Gottlieb, E., Xiang, B., Zahniser, M. S., Nelson, D. D., McManus, J. B., Peischl, J., Ryerson, T. B., Holloway, J. S., Andrews, A. E., Sweeney, C., Hall, B., Hintsa, E. J., Moore, F. L., Elkins, J. W., Hurst, D. F., Stephens, B. B., Bent, J., and Wofsy, S. C.: Evaluation of the airborne quantum cascade laser spectrometer (QCLS) measurements of the carbon and greenhouse gas suite – CO2, CH4, N2O, and CO – during the CalNex and HIPPO campaigns, Atmos. Meas. Tech., 7, 1509–1526, https://doi.org/10.5194/amt-7-1509-2014, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2006JD007100</doi>
+              <unstructured_citation>Shindell, D. T., Faluvegi, G., Stevenson, D. S., Krol, M. C., Emmons, L. K., Lamarque, J.-F., Pétron, G., Dentener, F. J., Ellingsen, K., Schultz, M. G., Wild, O., Amann, M., Atherton, C. S., Bergmann, D. J., Bey, I., Butler, T., Cofala, J., Collins, W. J., Derwent, R. G., Doherty, R. M., Drevet, J., Eskes, H. J., Fiore, A. M., Gauss, M., Hauglustaine, D. A., Horowitz, L. W., Isaksen, I. S. A., Lawrence, M. G., Montanaro, V., Müller, J.-F., Pitari, G., Prather, M. J., Pyle, J. A., Rast, S., Rodriguez, J. M., Sanderson, M. G., Savage, N. H., Strahan, S. E., Sudo, K., Szopa, S., Unger, N., van Noije, T. P. C., and Zeng, G.: Multimodel simulations of carbon monoxide: Comparison with observations and projected near-future changes, J. Geophys. Res., 111, D19306, https://doi.org/10.1029/2006JD007100, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1002/2014JD022591</doi>
+              <unstructured_citation>Sweeney, C., Karion, A., Wolter, S., Newberger, T., Guenther, D., Higgs, J. A., Andrews, A. E., Lang, P. M., Neff, D., Dlugokencky, E., Miller, J. B., Montzka, S. A., Miller, B. R., Masarie, K. A., Biraud, S. C., Novelli, P. C., Crotwell, M., Crotwell, A. M., Thoning, K., and Tans, P. P.: Seasonal climatology of CO2 across North America from aircraft measurements in the NOAA/ESRL Global Greenhouse Gas Reference Network, J. Geophys. Res., 120, 5155–5190, https://doi.org/10.1002/2014JD022591, 2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1029/2006JD007281</doi>
+              <unstructured_citation>Turquety, S., Logan, J. A., Jacob, D. J., Hudman, R. C., Leung, F. Y., Heald, C. L., Yantosca, R. M., Wu, S., Emmons, L. K., Edwards, D. P., and Sachse, G. W.: Inventory of boreal fire emissions for North America in 2004: Importance of peat burning and pyroconvective injection, J. Geophys. Res., 112, D12S03, https://doi.org/10.1029/2006JD007281, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/1520-0426(1999)016&lt;0465:ISAEAF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Wang, J., Gille, J. C., Bailey, P. L., Drummond, J. R., and Pan, L.: Instrument sensitivity and error analysis for the remote sensing of tropospheric carbon monoxide by MOPITT, J. Atmos. Ocean. Tech., 16, 465–474, 1999. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/BAMS-D-14-00255.1</doi>
+              <unstructured_citation>Wendisch, M., Pöschl, U., Andreae, M. O., Machado, L. A. T., Albrecht, R., Schlager, H., Rosenfeld, D., Martin, S. T., Abdelmonem, A., Afchine, A., Araùjo, A. C., Artaxo, P., Aufmhoff, H., Barbosa, H. M. J., Borrmann, S., Braga, R., Buchholz, B., Cecchini, M. A., Costa, A., Curtius, J., Dollner, M., Dorf, M., Dreiling, V., Ebert, V., Ehrlich, A., Ewald, F., Fisch, G., Fix, A., Frank, F., Fütterer, D., Heckl C., Heidelberg, F., Hüneke, T., Jäkel, E., Järvinen, E., Jurkat, T., Kanter, S., Kästner, U., Kenntner, M., Kesselmeier, J., Klimach, T., Knecht, M., Kohl, R., Kölling, T., Krämer, M., Krüger, M., Krisna, T. C., Lavric, J. V., Longo, K., Mahnke, C., Manzi, A. O., Mayer, B., Mertes, S., Minikin, A., Molleker, S., Münch, S., Nillius, B., Pfeilsticker, K., Pöhlker, C., Roiger, A., Rose, D., Rosenow, D., Sauer, D., Schnaiter, M., Schneider, J., Schulz, C., de Souza, R. A. F., Spanu, A., Stock, P., Vila, D., Voigt, C., Walser, A., Walter, D., Weigel, R., Weinzierl, B., Werner, F., Yamasoe, M. A., Ziereis, H., Zinner, T., and Zöger, M.: The ACRIDICON-CHUVA campaign: Studying tropical deep convective clouds and precipitation over Amazonia using the new German research aircraft HALO, B. Am. Meteorol. Soc., 97, 1885–1908, https://doi.org/10.1175/BAMS-D-14-00255.1, 2016.
+ a, b</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1098/rsta.2010.0313</doi>
+              <unstructured_citation>Wofsy, S. C.: HIAPER Pole-to-Pole Observations (HIPPO): fine-grained, global-scale measurements of climatically important atmospheric gases and aerosols, Phil. T. Roy. Soc. A, 369, 2073–2086, https://doi.org/10.1098/rsta.2010.0313, 2011. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2010JD014242</doi>
+              <unstructured_citation>Worden, H. M., Deeter, M. N., Edwards, D. P., Gille, J. C., Drummond, J. R., and Nédélec, P.: Observations of near-surface carbon monoxide from space using MOPITT multispectral retrievals, J. Geophys. Res., 115, D18314, https://doi.org/10.1029/2010JD014242, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-13-837-2013</doi>
+              <unstructured_citation>Worden, H. M., Deeter, M. N., Frankenberg, C., George, M., Nichitiu, F., Worden, J., Aben, I., Bowman, K. W., Clerbaux, C., Coheur, P. F., de Laat, A. T. J., Detweiler, R., Drummond, J. R., Edwards, D. P., Gille, J. C., Hurtmans, D., Luo, M., Martínez-Alonso, S., Massie, S., Pfister, G., and Warner, J. X.: Decadal record of satellite carbon monoxide observations, Atmos. Chem. Phys., 13, 837–850, https://doi.org/10.5194/acp-13-837-2013, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Worden, H. M., Deeter, M. N., Edwards, D. P., Gille, J., Drummond, J., Emmons, L. K., Francis, G., and Martínez-Alonso, S.: 13 years of MOPITT operations: lessons from MOPITT retrieval algorithm development, Ann. Geophys., 56, 1–5, https://doi.org/10.4401/ag-6330, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1088/1748-9326/aab2b3</doi>
+              <unstructured_citation>Zheng, B., Chevallier, F., Ciais, P., Yin, Y., Deeter, M. N., Worden, H. M., Wang, Y., Zhang, Q., and He, K.: Rapid decline in carbon monoxide emissions and export from East Asia between years 2005 and 2016, Environ. Res. Lett., 13, 044007, https://doi.org/10.1088/1748-9326/aab2b3, 2018. a</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

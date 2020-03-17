@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-02-14 09:47:12">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>12</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Description and evaluation of the Community Ice Sheet Model (CISM) v2.1</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>William H.</given_name>
+              <surname>Lipscomb</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephen F.</given_name>
+              <surname>Price</surname>
+              <ORCID>https://orcid.org/0000-0001-6878-2553</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthew J.</given_name>
+              <surname>Hoffman</surname>
+              <ORCID>https://orcid.org/0000-0001-5076-0540</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Gunter R.</given_name>
+              <surname>Leguy</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew R.</given_name>
+              <surname>Bennett</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sarah L.</given_name>
+              <surname>Bradley</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Katherine J.</given_name>
+              <surname>Evans</surname>
+              <ORCID>https://orcid.org/0000-0001-8174-6450</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeremy G.</given_name>
+              <surname>Fyke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Joseph H.</given_name>
+              <surname>Kennedy</surname>
+              <ORCID>https://orcid.org/0000-0002-9348-693X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mauro</given_name>
+              <surname>Perego</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Douglas M.</given_name>
+              <surname>Ranken</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>William J.</given_name>
+              <surname>Sacks</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew G.</given_name>
+              <surname>Salinger</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Lauren J.</given_name>
+              <surname>Vargo</surname>
+              <ORCID>https://orcid.org/0000-0001-7037-0451</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Patrick H.</given_name>
+              <surname>Worley</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> We describe and evaluate version 2.1 of the Community Ice Sheet Model (CISM).
+CISM is a parallel, 3-D thermomechanical model, written mainly in Fortran,
+that solves equations for the momentum balance and the thickness and
+temperature evolution of ice sheets. CISM's velocity solver incorporates a
+hierarchy of Stokes flow approximations, including shallow-shelf,
+depth-integrated higher order, and 3-D higher order. CISM also includes a
+suite of test cases, links to third-party solver libraries, and
+parameterizations of physical processes such as basal sliding, iceberg
+calving, and sub-ice-shelf melting. The model has been verified for standard
+test problems, including the Ice Sheet Model Intercomparison Project for
+Higher-Order Models (ISMIP-HOM) experiments, and has participated in the
+initMIP-Greenland initialization experiment. In
+multimillennial simulations with modern climate forcing on a 4 km grid, CISM
+reaches a steady state that is broadly consistent with observed flow patterns
+of the Greenland ice sheet. CISM has been integrated into version 2.0 of the
+Community Earth System Model, where it is being used for Greenland
+simulations under past, present, and future climates. The code is open-source
+with extensive documentation and remains under active development.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>22</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>387</first_page>
+            <last_page>424</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Science
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006132</assertion>
+              </assertion>
+              <assertion name="award_number">N/A</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">Cooperative Agreement #0856145</assertion>
+              <assertion name="award_number">ANT-0424589</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-12-387-2019</doi>
+            <resource>https://www.geosci-model-dev.net/12/387/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/12/387/2019/gmd-12-387-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/tc-5-35-2011</doi>
+              <unstructured_citation>Albrecht, T., Martin, M., Haseloff, M., Winkelmann, R., and Levermann, A.:
+Parameterization for subgrid-scale motion of ice-shelf calving fronts, The
+Cryosphere, 5, 35–44, https://doi.org/10.5194/tc-5-35-2011, 2011. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/2017GL072514</doi>
+              <unstructured_citation>Arthern, R. J. and Williams, C. R.: The sensitivity of West Antarctica to the
+submarine melting feedback, Geophys. Res. Lett., 44, 2352–2359,
+https://doi.org/10.1002/2017GL072514, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1002/2014JF003239</doi>
+              <unstructured_citation>Arthern, R. J., Hindmarsh, R. C. A., and Williams, C. R.: Flow speed within
+the
+Antarctic ice sheet and its controls inferred from satellite observations, J.
+Geophys. Res.-Earth, 120, 1171–1188, https://doi.org/10.1002/2014JF003239, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/gmd-9-2471-2016</doi>
+              <unstructured_citation>Asay-Davis, X. S., Cornford, S. L., Durand, G., Galton-Fenzi, B. K.,
+Gladstone, R. M., Gudmundsson, G. H., Hattermann, T., Holland, D. M.,
+Holland, D., Holland, P. R., Martin, D. F., Mathiot, P., Pattyn, F., and
+Seroussi, H.: Experimental design for three interrelated marine ice sheet and
+ocean model intercomparison projects: MISMIP v. 3 (MISMIP +), ISOMIP v. 2
+(ISOMIP +) and MISOMIP v. 1 (MISOMIP1), Geosci. Model Dev., 9, 2471–2497,
+https://doi.org/10.5194/gmd-9-2471-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1007/s40641-017-0071-0</doi>
+              <unstructured_citation>Asay-Davis, X. S., Jourdain, N. C., and Nakayama, Y.: Developments in
+simulating and parameterizing interactions between the Southern Ocean and the
+Antarctic Ice Sheet, Curr. Clim. Change Rep., 3, 316–329,
+https://doi.org/10.1007/s40641-017-0071-0, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/tc-7-1083-2013</doi>
+              <unstructured_citation>Aschwanden, A., Aðalgeirsdóttir, G., and Khroulev, C.: Hindcasting to measure ice sheet model sensitivity to initial states, The Cryosphere, 7, 1083–1093, https://doi.org/10.5194/tc-7-1083-2013, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1038/ncomms10524</doi>
+              <unstructured_citation>Aschwanden, A., Fahnestock, M. A., and Truffer, M.: Complex Greenland outlet
+glacier flow captured, Nat. Commun., 7, 10524, https://doi.org/10.1038/ncomms10524,
+2016. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/j.epsl.2014.11.003</doi>
+              <unstructured_citation>Bassis, J. N. and Ma, Y.: Evolution of basal crevasses links ice shelf
+stability to ocean forcing, Earth Planet. Sc. Lett., 409, 203–211,
+https://doi.org/10.1016/j.epsl.2014.11.003, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1098/rspa.2011.0422</doi>
+              <unstructured_citation>Bassis, J. N. and Walker, C. C.: Upper and lower limits on the stability of
+calving glaciers from the yield strength envelope of ice, Proc. Roy. Soc. A,
+468, 913–931, https://doi.org/10.1098/rspa.2011.0422, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Blatter, H.: Velocity and stress fields in grounded glaciers – a simple
+algorithm for including deviatoric stress gradients, J. Glaciol., 41,
+333–344, 1995. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Bueler, E.: Lectures at Karthaus: Numerical modelling of ice sheets and ice
+shelves,
+available at: https://www.projects.science.uu.nl/iceclimate/karthaus/archive/lecturenotes/2009/bueler/EdBueler.pdf (last access: 27 May 2018), 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Bueler, E. and Brown, J.: Shallow shelf approximation as a “sliding law” in
+a
+thermodynamically coupled ice sheet model, J. Geophys. Res., 114, F03008,
+https://doi.org/10.1029/2008JF001179, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/gmd-8-1613-2015</doi>
+              <unstructured_citation>Bueler, E. and van Pelt, W.: Mass-conserving subglacial hydrology in the
+Parallel Ice Sheet Model version 0.6, Geosci. Model Dev., 8, 1613–1635,
+https://doi.org/10.5194/gmd-8-1613-2015, 2015. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.3189/172756505781829449</doi>
+              <unstructured_citation>Bueler, E., Lingle, C. S., Kallen-Brown, J. A., Covey, D. N., and Bowman,
+L. N.: Exact solutions and verification of numerical models for isothermal
+ice sheets, J. Glaciol., 51, 291–306, https://doi.org/10.3189/172756505781829449,
+2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1002/2017GL073711</doi>
+              <unstructured_citation>Cai, C., Rignot, E., Menemenlis, D., and Nakayama, Y.: Observations and
+modeling of ocean-induced melt beneath Petermann Glacier Ice Shelf in
+northwestern Greenland, Geophys. Res. Lett., 44, 8396–8403,
+https://doi.org/10.1002/2017GL073711, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1002/2017GL075174</doi>
+              <unstructured_citation>Choi, Y., Morlighem, M., Rignot, E., Mouginot, J., and Wood, M.: Modeling the
+response of Nioghalvjerdsjorden and Zachariae Isstrom Glaciers, Greenland, to
+ocean forcing over the next century, Geophys. Res. Lett., 44, 11071–11079,
+https://doi.org/10.1002/2017GL075174, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Chronopoulos, A. T.: A class of parallel iterative methods implemented on
+multiprocessors, PhD thesis, Department of Computer Science, University of
+Illinois, 1986. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Chronopoulos, A. T. and Gear, C. W.: s-step iterative methods for
+symmetric linear systems, J. Comput. Appl. Math., 25, 153–168, 1989. a</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1017/CBO9781107415324.026</doi>
+              <unstructured_citation>Church, J., Clark, P., Cazenave, A., Gregory, J., Jevrejeva, S., Levermann,
+A.,
+Merrifield, M., Milne, G., Nerem, R., Nunn, P., Payne, A., Pfeffer, W.,
+Stammer, D., and Unnikrishnan, A.: Sea Level Change, in: Climate Change 2013:
+The Physical Science Basis. Contribution of Working Group I to the Fifth
+Assessment Report of the Intergovernmental Panel on Climate Change, edited
+by:
+Stocker, T., Qin, D., Plattner, G.-K., Tignor, M., Allen, S., Boschung, J.,
+Nauels, A., Xia, Y., Bex, V., and Midgley, P., Cambridge
+University Press, Cambridge, United Kingdom and New York, NY, USA, 1137–1216,
+https://doi.org/10.1017/CBO9781107415324.026, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Cornford, S. L., Martin, D. F., Graves, D. T., Ranken, D. R., Le Brocq,
+A. M.,
+Gladstone, R. M., Payne, A. J., Ng, E. G., and Lipscomb, W. H.: Adaptive
+mesh, finite volume modeling of marine ice sheets, J. Comput. Phys., 232,
+529–549, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Cuffey, K. and Paterson, W. S. B.: The Physics of Glaciers,
+Butterworth-Heinneman, Amsterdam, 4th Edn., 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Dukowicz, J. K. and Baumgardner, J. R.: Incremental remapping as a
+transport/advection algorithm, J. Comput. Phys., 160, 318–335, 2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Dukowicz, J. K., Price, S. F., and Lipscomb, W. H.: Consistent
+approximations
+and boundary conditions for ice-sheet dynamics from a principle of least
+action, J. Glaciol., 56, 480–496, 2010. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/2009GL038110</doi>
+              <unstructured_citation>Ettema, J., van den Broeke, M. R., van Meijgaard, E., van de Berg, W. J.,
+Bamber, J. L., Box, J. E., and Bales, R. C.: Higher surface mass balance of
+the Greenland ice sheet revealed by high-resolution climate modeling,
+Geophys. Res. Lett., 36, L12501, https://doi.org/10.1029/2009GL038110, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1177/1094342011435159</doi>
+              <unstructured_citation>Evans, K. J., Salinger, A. G., Worley, P. H., Price, S. F., Lipscomb, W. H.,
+Nichols, J. A., White III, J. B., Perego, M., Vertenstein, M., Edwards, J., and
+Lemieux, J.-F.: A modern solver interface to manage solution algorithms in
+the Community Earth System Model, Int. J. High Perform. C., 26,
+54–62, https://doi.org/10.1177/1094342011435159, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/gmd-7-1183-2014</doi>
+              <unstructured_citation>Fyke, J. G., Sacks, W. J., and Lipscomb, W. H.: A technique for generating
+consistent ice sheet initial conditions for coupled ice sheet/climate models,
+Geosci. Model Dev., 7, 1183–1195, https://doi.org/10.5194/gmd-7-1183-2014,
+2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/gmd-6-1299-2013</doi>
+              <unstructured_citation>Gagliardini, O., Zwinger, T., Gillet-Chaulet, F., Durand, G., Favier, L., de
+Fleurian, B., Greve, R., Malinen, M., Martín, C., Råback, P.,
+Ruokolainen, J., Sacchettini, M., Schäfer, M., Seddik, H., and Thies, J.:
+Capabilities and performance of Elmer/Ice, a new-generation ice sheet model,
+Geosci. Model Dev., 6, 1299–1318, https://doi.org/10.5194/gmd-6-1299-2013,
+2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/tc-4-605-2010</doi>
+              <unstructured_citation>Gladstone, R. M., Payne, A. J., and Cornford, S. L.: Parameterising the
+grounding line in flow-line ice sheet models, The Cryosphere, 4, 605–619,
+https://doi.org/10.5194/tc-4-605-2010, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Glen, J. W.: The creep of polycrystalline ice, Proc. R. Soc. Lond. A, 228,
+519–538, 1955. a</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.5194/tc-12-1433-2018</doi>
+              <unstructured_citation>Goelzer, H., Nowicki, S., Edwards, T., Beckley, M., Abe-Ouchi, A.,
+Aschwanden, A., Calov, R., Gagliardini, O., Gillet-Chaulet, F., Golledge, N.
+R., Gregory, J., Greve, R., Humbert, A., Huybrechts, P., Kennedy, J. H.,
+Larour, E., Lipscomb, W. H., Le clec'h, S., Lee, V., Morlighem, M., Pattyn,
+F., Payne, A. J., Rodehacke, C., Rückamp, M., Saito, F., Schlegel, N.,
+Seroussi, H., Shepherd, A., Sun, S., van de Wal, R., and Ziemen, F. A.:
+Design and results of the ice sheet model initialisation experiments
+initMIP-Greenland: an ISMIP6 intercomparison, The Cryosphere, 12, 1433–1460,
+https://doi.org/10.5194/tc-12-1433-2018, 2018. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.3189/002214311795306763</doi>
+              <unstructured_citation>Goldberg, D. N.: A variationally derived, depth-integrated approximation to
+a higher-order glaciological flow model, J. Glaciol., 57, 157–170,
+https://doi.org/10.3189/002214311795306763, 2011. a, b, c, d, e, f, g</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Halfar, P.: On the dynamics of the ice sheets 2, J. Geophys. Res., 88,
+6043–6051, 1983. a</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1038/nature12238</doi>
+              <unstructured_citation>Hanna, E., Navarro, F. J., Pattyn, F., Domingues, C. M., Fettweis, X., Ivins,
+E. R., Nicholls, R. J., Ritz, C., Smith, B., Tulaczyk, S., Whitehouse, P. L.,
+and Zwally, H. J.: Ice-sheet mass balance and climate change, Nature, 498,
+51–59, https://doi.org/10.1038/nature12238, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1145/1089014.1089021</doi>
+              <unstructured_citation>Heroux, M. A., Bartlett, R. A., Howle, V. E., Hoekstra, R. J., Hu, J. J.,
+Kolda, T. G., Lehoucq, R. B., Long, K. R., Pawlowski, R. P., Phipps, E. T.,
+Salinger, A. G., Thornquist, H. K., Tuminaro, R. S., Willenbring, J. M.,
+Williams, A., and Stanley, K. S.: An overview of the Trilinos project, ACM
+T. Math. Software, 31, 397–423,
+https://doi.org/10.1145/1089014.1089021, 2005. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1098/rsta.2006.1797</doi>
+              <unstructured_citation>Hindmarsh, R.: The role of membrane-like stresses in determining the
+stability
+and sensitivity of the Antarctic ice sheets: back pressure and grounding line
+motion, Philos. T. R. Soc. A, 364, 1733–1767,
+https://doi.org/10.1098/rsta.2006.1797, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1002/2013JF002943</doi>
+              <unstructured_citation>Hoffman, M. J. and Price, S.: Feedbacks between coupled subglacial hydrology
+and glacier dynamics, J. Geophys. Res.-Earth, 119, 414–436,
+https://doi.org/10.1002/2013JF002943, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/gmd-11-3747-2018</doi>
+              <unstructured_citation>Hoffman, M. J., Perego, M., Price, S. F., Lipscomb, W. H., Zhang, T.,
+Jacobsen, D., Tezaur, I., Salinger, A. G., Tuminaro, R., and Bertagna, L.:
+MPAS-Albany Land Ice (MALI): a variable-resolution ice sheet model for Earth
+system modeling using Voronoi grids, Geosci. Model Dev., 11, 3747–3780,
+https://doi.org/10.5194/gmd-11-3747-2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Hoffman, M. J., Price, S. F., and Lipscomb, W. H.: CISM/Community Ice Sheet,
+Model, available at: https://cism.github.io/download.html, last access:
+20 January 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>Huebner, K. H., Dewhirst, D. L., Smith, D. E., and Byrom, T. G.: The Finite
+Element Method for Engineers, Wiley, New York, 4th Edn., 2001. a</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Hughes, T.: The Finite Element Method: Linear Static and Dynamic Finite
+Element
+Analysis, Dover Civil and Mechanical Engineering, Dover, Mineola, New York,
+1st Edn., 2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>Hurrell, J., Holland, M., Gent, P., Ghan, S., Kay, J., Kushner, P., Lamarque,
+J.-F., Large, W., Lawrence, D., Lindsay, K., Lipscomb, W., Long, M.,
+Mahowald, N., Marsh, D., Neale, R., Rasch, P., Vavrus, S., Vertenstein, M.,
+Bader, D., Collins, W.,&amp;lt;span id=&amp;quot;page424&amp;quot;/&amp;gt; Hack, J., Kiehl, J., and Marshall, S.: The Community
+Earth System Model: A framework for collaborative research, B. Am. Meteorol.
+Soc., 94, 1339–1360, https://doi.org/10.1175/BAMS-D-12-00121.1, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Hutter, K.: Theoretical Glaciology, Mathematical Approaches to Geophysics, D.
+Reidel Publishing Company, Dordrecht, Boston, Lancaster, 1983. a</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Joughin, I., Smith, B., Howat, I., and Scambos, T.: MEaSUREs Greenland Ice
+Sheet Velocity Map from InSAR Data, National Snow and Ice Data Center,
+Boulder, Colorado, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1002/2017MS000916</doi>
+              <unstructured_citation>Kennedy, J. H., Bennett, A. R., Evans, K. J., Price, S., Hoffman, M.,
+Lipscomb,
+W. H., Fyke, J., Vargo, L., Boghozian, A., Norman, M., and Worley, P. H.:
+LIVVkit: An extensible, python-based, land ice verification and validation
+tool kit for ice sheet models, J. Adv. Model. Earth Sy., 9, 854–869,
+https://doi.org/10.1002/2017MS000916, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1029/2011JF002140</doi>
+              <unstructured_citation>Larour, E., Seroussi, H., Morlighem, M., and Rignot, E.: Continental scale,
+high order, high spatial resolution, ice sheet modeling using the Ice Sheet
+System Model (ISSM), J. Geophys. Res., 117, F01022,
+https://doi.org/10.1029/2011JF002140, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/tc-8-1239-2014</doi>
+              <unstructured_citation>Leguy, G. R., Asay-Davis, X. S., and Lipscomb, W. H.: Parameterization of
+basal friction near grounding lines in a one-dimensional ice sheet model, The
+Cryosphere, 8, 1239–1259, https://doi.org/10.5194/tc-8-1239-2014, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.5194/tc-6-273-2012</doi>
+              <unstructured_citation>Levermann, A., Albrecht, T., Winkelmann, R., Martin, M. A., Haseloff, M., and
+Joughin, I.: Kinematic first-order calving law implies potential for abrupt
+ice-shelf retreat, The Cryosphere, 6, 273–286,
+https://doi.org/10.5194/tc-6-273-2012, 2012. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Lipscomb, W. H. and Hunke, E. C.: Modeling sea ice transport using
+incremental remapping, Mon. Weather Rev., 132, 1341–1354, 2004. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/JCLI-D-12-00557.1</doi>
+              <unstructured_citation>Lipscomb, W. H., Fyke, J. G., Vizcaino, M., Sacks, W. J., Wolfe, J.,
+Vertenstein, M., Craig, A., Kluzek, E., and Lawrence, D. M.: Implementation
+and initial evaluation of the Glimmer Community Ice Sheet Model in the
+Community Earth System Model, J. Climate, 26, 7352–7371,
+https://doi.org/10.1175/JCLI-D-12-00557.1, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>MacAyeal, D. R.: Large-scale ice flow over a viscous basal sediment –
+Theory
+and application to Ice Stream B, Antarctica, J. Geophys. Res., 94,
+4071–4087, 1989. a</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>MacAyeal, D. R., Rommelaere, V., Huybrechts, P., Hulbe, C. L., Determann, J.,
+and Ritz, C.: An ice-shelf model test based on the Ross Ice Shelf,
+Antarctica, Ann. Glaciol., 23, 46–51, 1996. a, b, c, d, e, f, g, h</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1002/2015JF003803</doi>
+              <unstructured_citation>MacGregor, J. A., Fahnestock, M. A., Catania, G. A., Aschwanden, A., Clow,
+G. D., Colgan, W. T., Gogineni, S. P., Morlighem, M., Nowicki, S. M. J.,
+Paden, J. D., Price, S. F., and Seroussi, H.: A synthesis of the basal
+thermal state of the Greenland Ice Sheet, J. Geophys. Res.-Earth, 121, 1328–1350,
+https://doi.org/10.1002/2015JF003803, 2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1029/2011GL048659</doi>
+              <unstructured_citation>Morlighem, M., Rignot, E., Seroussi, H., Larour, E., Dhia, H. B., and Aubry,
+D.: A mass conservation approach for mapping glacier ice thickness, Geophys.
+Res. Lett., 38, L19503, https://doi.org/10.1029/2011GL048659, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1038/ngeo2167</doi>
+              <unstructured_citation>Morlighem, M., Rignot, E., Mouginot, J., Seroussi, H., and Larour, E.: Deeply
+incised submarine glacial valleys beneath the Greenland Ice Sheet, Nat.
+Geosci., 7, 418–422, https://doi.org/10.1038/ngeo2167, 2014. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1002/2016GL067695</doi>
+              <unstructured_citation>Morlighem, M., Bondzio, J., Seroussi, H., Rignot, E., Larour, E., Humbert,
+A.,
+and Rebuffi, S.: Modeling of Store Gletscher's calving dynamics, West
+Greenland, in response to ocean thermal forcing, Geophys. Res. Lett., 43,
+2659–2666,
+https://doi.org/10.1002/2016GL067695, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>NCAR Command Language (Version 6.4.0)
+[Software], Boulder, Colorado, UCAR/NCAR/CISL/VETS,
+&amp;lt;a href=&amp;quot;https://doi.org/10.5065/D6WD3XH5&amp;quot;&amp;gt;https://doi.org/10.5065/D6WD3XH5, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/tc-10-2361-2016</doi>
+              <unstructured_citation>Noël, B., van de Berg, W. J., Machguth, H., Lhermitte, S., Howat, I.,
+Fettweis, X., and van den Broeke, M. R.: A daily, 1&amp;amp;thinsp;km resolution data set
+of downscaled Greenland ice sheet surface mass balance (1958–2015), The
+Cryosphere, 10, 2361–2377, https://doi.org/10.5194/tc-10-2361-2016, 2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/tc-12-811-2018</doi>
+              <unstructured_citation>Noël, B., van de Berg, W. J., van Wessem, J. M., van Meijgaard, E., van As,
+D., Lenaerts, J. T. M., Lhermitte, S., Kuipers Munneke, P., Smeets, C. J. P.
+P., van Ulft, L. H., van de Wal, R. S. W., and van den Broeke, M. R.:
+Modelling the climate and surface mass balance of polar ice sheets using
+RACMO2 – Part 1: Greenland (1958–2016), The Cryosphere, 12, 811–831,
+https://doi.org/10.5194/tc-12-811-2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Paterson, W. and Budd, W. F.: Flow parameters for ice sheet modeling, Cold
+Reg. Sci. Technol., 6, 175–177, 1982. a</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2002JB002329</doi>
+              <unstructured_citation>Pattyn, F.: A new three-dimensional higher-order thermomechanical ice-sheet
+model: basic sensitivity, ice-stream development and ice flow across
+subglacial lakes, J. Geophys. Res., 108, 2382, https://doi.org/10.1029/2002JB002329,
+2003. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.5194/tc-2-95-2008</doi>
+              <unstructured_citation>Pattyn, F., Perichon, L., Aschwanden, A., Breuer, B., de Smedt, B.,
+Gagliardini, O., Gudmundsson, G. H., Hindmarsh, R. C. A., Hubbard, A.,
+Johnson, J. V., Kleiner, T., Konovalov, Y., Martin, C., Payne, A. J.,
+Pollard, D., Price, S., Rückamp, M., Saito, F., Soucek, O., Sugiyama, S.,
+and Zwinger, T.: Benchmark experiments for higher-order and full-Stokes ice
+sheet models (ISMIP-HOM), The Cryosphere, 2, 95–108,
+https://doi.org/10.5194/tc-2-95-2008, 2008. a, b, c, d, e, f, g, h, i</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/tc-6-573-2012</doi>
+              <unstructured_citation>Pattyn, F., Schoof, C., Perichon, L., Hindmarsh, R. C. A., Bueler, E., de
+Fleurian, B., Durand, G., Gagliardini, O., Gladstone, R., Goldberg, D.,
+Gudmundsson, G. H., Huybrechts, P., Lee, V., Nick, F. M., Payne, A. J.,
+Pollard, D., Rybak, O., Saito, F., and Vieli, A.: Results of the Marine Ice
+Sheet Model Intercomparison Project, MISMIP, The Cryosphere, 6, 573–588,
+https://doi.org/10.5194/tc-6-573-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Payne, A. J. and Dongelmans, P. W.: Self–organisation in the
+thermomechanical
+flow of ice sheets, J. Geophys. Res., 102, 12219–12233, 1997. a</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.3189/2012JoG11J063</doi>
+              <unstructured_citation>Perego, M., Gunzburger, M., and Burkardt, J.: Parallel finite-element
+implementation for higher-order ice sheet models, J. Glaciol., 58, 76–88,
+https://doi.org/10.3189/2012JoG11J063, 2012. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1002/2014JF003181</doi>
+              <unstructured_citation>Perego, M., Price, S., and Stadler, G.: Optimal initial conditions for
+coupling ice sheet models to Earth system models, J. Geophys. Res., 119,
+1894–1917, https://doi.org/10.1002/2014jf003181, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1029/2009JF001621</doi>
+              <unstructured_citation>Pimentel, S., Flowers, G. E., and Schoof, C. G.: A hydrologically coupled
+higher-order flow-band model of ice dynamics with a Coulomb friction sliding
+law, J. Geophys. Res., 115, 1–16, https://doi.org/10.1029/2009JF001621, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.5194/gmd-5-1273-2012</doi>
+              <unstructured_citation>Pollard, D. and DeConto, R. M.: Description of a hybrid ice sheet-shelf
+model, and application to Antarctica, Geosci. Model Dev., 5, 1273–1295,
+https://doi.org/10.5194/gmd-5-1273-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1016/j.epsl.2014.12.035</doi>
+              <unstructured_citation>Pollard, D., DeConto, R. M., and Alley, R. B.: Potential Antarctic Ice Sheet
+retreat driving by hydrofracturing and ice cliff failure, Earth Planet. Sc.
+Lett., 412, 112–121, https://doi.org/10.1016/j.epsl.2014.12.035, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Price, S., Lipscomb, W., Hoffman, M., Hagdorn, M., Rutt, I., Payne, T.,
+Hebeler, F., and Kennedy, J. H.: CISM 2.0.5 Documentation, Tech. rep., Los
+Alamos National Laboratory, available at:
+https://cism.github.io/data/cism_documentation_v2_0.pdf (last
+access: 3 December 2018), 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Raymond, C. F.: Energy balance of ice streams, J. Glaciol., 46, 665–674,
+2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Rommelaere, V.: Ice Shelf Models Intercomparison: Setup of the experiments,
+available at:
+http://homepages.vub.ac.be/~phuybrec/eismint/shelf-descr.pdf (last
+access: 13 May 2016), 1996. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1029/2008JF001015</doi>
+              <unstructured_citation>Rutt, I., Hagdorn, M., Hulton, N., and Payne, A.: The Glimmer community ice
+sheet model, J. Geophys. Res., 114, F02004, https://doi.org/10.1029/2008JF001015,
+2009. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Sacks, W. J. and Lipscomb, W. H.: Community Ice Sheet Model, available at:
+https://github.com/escomp/cism, last access: 20 January 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1098/rspa.2004.1350</doi>
+              <unstructured_citation>Schoof, C.: The effect of cavitation on glacier sliding, P. Roy. Soc. A,
+461, 609–627, https://doi.org/10.1098/rspa.2004.1350, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Schoof, C.: A variational approach to ice stream flow, J. Fluid Mech., 556,
+227–251, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <unstructured_citation>Schoof, C. and Hindmarsh, R. C. A.: Thin-film flows with wall slip: an
+asymptotic analysis of higher order glacier flow models, Q. J. Mech. Appl.
+Math., 63, 73–114, 2010. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1002/2014GL059976</doi>
+              <unstructured_citation>Sergienko, O. V., Creyts, T. T., and Hindmarsh, R. C. A.: Similarity of
+organized patterns in driving and basal stresses of Antarctic and Greenland
+ice sheets beneath extensive areas of basal sliding, Geophys. Res. Lett.,
+41, 3925–3932,
+https://doi.org/10.1002/2014GL059976, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1016/j.epsl.2004.04.011</doi>
+              <unstructured_citation>Shapiro, N. and Ritzwoller, M.: Inferring surface heat flux distributions
+guided by a global seismic model: particular application to Antarctica, Earth
+Planet. Sci. Lett., 223, 213–224, https://doi.org/10.1016/j.epsl.2004.04.011, 2004. a</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1126/science.1228102</doi>
+              <unstructured_citation>Shepherd, A., Ivins, E., A, G., Barletta, V., Bentley, M., Bettadpur, S.,
+Briggs, K., Bromwich, D., Forsberg, R., Galin, N., Horwath, M., Jacobs, S.,
+Joughin, I., King, M., Lenaerts, J., Li, J., Ligtenberg, S., Luckman, A.,
+Luthcke, S., McMillan, M., Meister, R., Milne, G., Mouginot, J., Muir, A.,
+Nicolas, J., Paden, J., Payne, A., Pritchard, H., Rignot, E., Rott, H.,
+Sørensen, L., Scambos, T., Scheuchl, B., Schrama, E., Smith, B., Sundal, A.,
+van Angelen, J., van de Berg, W., van den Broeke, M., Vaughan, D.,
+Velicogna, I., Wahr, J., Whitehouse, P., Wingham, D., Yi, D., Young, D., and
+Zwally, H.: A reconciled estimate of ice-sheet mass balance, Science, 338,
+1183–1189, https://doi.org/10.1126/science.1228102, 2012.
+ a</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1038/s41586-018-0179-y</doi>
+              <unstructured_citation>Shepherd, A., Ivins, E., Rignot, E., Smith, B., van den Broeke, M.,
+Velicogna,
+I., Whitehouse, P., Briggs, K., Joughin, I., Krinner, G., Nowicki, S., Payne,
+T., Scambos, T., Schlegel, N., Geruo, A., Agosta, C., Ahlström, A., Babonis,
+G., Barletta, V., Blazquez, A., Bonin, J., Csatho, B., Cullather, R.,
+Felikson, D., Fettweis, X., Forsberg, R., Gallee, H., Gardner, A., Gilbert,
+L., Groh, A., Gunter, B., Hanna, E., Harig, C., Helm, V., Horvath, A.,
+Horwath, M., Khan, S., Kjeldsen, K., Konrad, H., Langen, P., Lecavalier, B.,
+Loomis, B., Luthcke, S., McMillan, M., Melini, D., Mernild, S., Mohajerani,
+Y., Moore, P., Mouginot, J., Moyano, G., Muir, A., Nagler, T., Nield, G.,
+Nilsson, J., Noel, B., Otosaka, I., Pattle, M., Peltier, W., Nadege, P.,
+Rietbroek, R., Rott, H., Sandberg-Sørensen, L., Sasgen, I., Save, H.,
+Schrama, E., Schröder, L., Seo, K.-W., Simonsen, S., Slater, T., Spada, G.,
+Sutterley, T., Talpe, M., Tarasov, L., van de Berg, W., van der Wal, W., van
+Wessem, M., Vishwakarma, B., Wiese, D., and Wouters, B.: Mass balance of the
+Antarctic ice sheet from 1992 to 2017, Nature, 558, 219–222,
+https://doi.org/10.1038/s41586-018-0179-y, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Shewchuk, J. R.: An Introduction to the Conjugate Gradient Method Without the
+Agonizing Pain, Tech. rep., Carnegie Mellon University, Pittsburgh, PA, USA,
+1994. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.5194/gmd-8-1197-2015</doi>
+              <unstructured_citation>Tezaur, I. K., Perego, M., Salinger, A. G., Tuminaro, R. S., and Price, S.
+F.: Albany/FELIX: a parallel, scalable and robust, finite element,
+first-order Stokes approximation ice sheet solver built for advanced
+analysis, Geosci. Model Dev., 8, 1197–1220,
+https://doi.org/10.5194/gmd-8-1197-2015, 2015. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.3189/172756506781828935</doi>
+              <unstructured_citation>Van den Berg, J., Van de Wal, R., and Oerlemans, J.: Effects of spatial
+discretization in ice-sheet modelling using the shallow-ice approximation, J.
+Glaciol., 52, 89–98, https://doi.org/10.3189/172756506781828935, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.1002/wcc.285</doi>
+              <unstructured_citation>Vizcaino, M.: Ice sheets as interactive components of Earth System Models:
+progress and challenges, WIREs Clim. Change, 5, 557–568,
+https://doi.org/10.1002/wcc.285, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Weertman, J.: On the sliding of glaciers, J. Glaciol., 3, 33–38, 1957. a</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.5194/tc-5-715-2011</doi>
+              <unstructured_citation>Winkelmann, R., Martin, M. A., Haseloff, M., Albrecht, T., Bueler, E.,
+Khroulev, C., and Levermann, A.: The Potsdam Parallel Ice Sheet Model
+(PISM-PIK) – Part 1: Model description, The Cryosphere, 5, 715–726,
+https://doi.org/10.5194/tc-5-715-2011, 2011. a</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

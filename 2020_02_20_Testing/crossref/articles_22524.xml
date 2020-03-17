@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-05-16 04:29:16">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>12</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Evolution of DARDAR-CLOUD ice cloud retrievals: new parameters and impacts on the retrieved microphysical properties</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Quitterie</given_name>
+              <surname>Cazenave</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Marie</given_name>
+              <surname>Ceccaldi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Julien</given_name>
+              <surname>Delanoë</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jacques</given_name>
+              <surname>Pelon</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Silke</given_name>
+              <surname>Groß</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew</given_name>
+              <surname>Heymsfield</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> In this paper we present the latest refinements brought to the DARDAR-CLOUD
+product, which contains ice cloud microphysical properties retrieved from the
+cloud radar and lidar measurements from the A-Train mission. Based on a large
+dataset of in situ ice cloud measurements, the parameterizations used in the
+microphysical model of the algorithm – i.e. the normalized particle size
+distribution, the mass–size relationship, and the parameterization of the a
+priori value of the normalized number concentration as a function of temperature
+– were assessed and refined to better fit the measurements, keeping the
+same formalism as proposed in DARDAR basis papers. Additionally, in regions
+where lidar measurements are available, the lidar ratio retrieved for ice
+clouds is shown to be well constrained by the lidar–radar synergy. Using this
+information, the parameterization of the lidar ratio was also refined, and
+the new retrieval equals on average <span class="inline-formula">35±10</span>&amp;thinsp;<span class="inline-formula">sr</span> in the temperature range between <span class="inline-formula">−60</span>
+and <span class="inline-formula">−20</span>&amp;thinsp;<span class="inline-formula"><sup>∘</sup>C</span>. The impact of those changes on the retrieved ice
+cloud properties is presented in terms of ice
+water content (IWC) and effective radius. Overall,
+IWC values from the new DARDAR-CLOUD product are on average 16&amp;thinsp;% smaller than
+the previous version, leading to a 24&amp;thinsp;% reduction in the ice water path. In
+parallel, the retrieved effective radii increase by 5&amp;thinsp;% to 40&amp;thinsp;%, depending on
+temperature and the availability of the instruments, with an average
+difference of <span class="inline-formula">+15</span>&amp;thinsp;%. Modifications of the microphysical model strongly affect
+the ice water content retrievals with differences that were found to range
+from <span class="inline-formula">−50</span>&amp;thinsp;% to <span class="inline-formula">+40</span>&amp;thinsp;%, depending on temperature and the availability of the
+instruments. The largest differences are found for the warmest temperatures
+(between <span class="inline-formula">−20</span> and 0&amp;thinsp;<span class="inline-formula"><sup>∘</sup>C</span>) in regions where the
+cloud microphysical processes are more complex and where the retrieval is
+almost exclusively based on radar-only measurements. The new lidar ratio
+values lead to a reduction of IWC at cold temperatures, the difference
+between the two versions increasing from around 0&amp;thinsp;% at <span class="inline-formula">−30</span>&amp;thinsp;<span class="inline-formula"><sup>∘</sup>C</span>
+to 70&amp;thinsp;% below <span class="inline-formula">−80</span>&amp;thinsp;<span class="inline-formula"><sup>∘</sup>C</span>, whereas effective radii are not impacted.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>16</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>2819</first_page>
+            <last_page>2835</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-12-2819-2019</doi>
+            <resource>https://www.atmos-meas-tech.net/12/2819/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/12/2819/2019/amt-12-2819-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1175/1520-0426(1995)012&lt;0410:IMOTIW&gt;2.0.CO;2</doi>
+              <unstructured_citation>Brown, P. R. A. and Francis, P. N.: Improved measurements of the ice water
+content in cirrus using a total–water probe, J. Atmos. Ocean. Tech., 12,
+410–414, 1995. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1002/jgrd.50579</doi>
+              <unstructured_citation>Ceccaldi, M., Delanoë, J., Hogan, R. J., Pounder, N., Protat, A., and
+Pelon, J.: From CloudSat-CALIPSO to EarthCare: Evolution of the
+DARDAR cloud classification and its comparison to airborne radar-lidar
+observations, J. Geophys. Res.-Atmos., 118, 7962–7981,
+https://doi.org/10.1002/jgrd.50579, 2013. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1364/AO.41.006470</doi>
+              <unstructured_citation>Chen, W., Chiang, C., and Nee, J.: Lidar ratio and depolarization ratio for
+cirrus clouds, Appl. Optics, 41, 6470–6476, 2002. a</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2007JD009000</doi>
+              <unstructured_citation>Delanoë, J. and Hogan, R. J.: A variational scheme for retrieving ice cloud
+properties from combined radar, lidar and infrared radiometer, J. Geophys.
+Res., 113, D07204, https://doi.org/10.1029/2007JD009000, 2008. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2009JD012346</doi>
+              <unstructured_citation>Delanoë, J. and Hogan, R. J.: Combined CloudSat-CALIPSO-MODIS
+retrievals of the properties of ice clouds, J. Geophys. Res., 115, D4,
+https://doi.org/10.1029/2009JD012346, 2010. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1029/2004JD005405</doi>
+              <unstructured_citation>Delanoë, J., Protat, A., Testud, J., Bouniol, D., Heymsfield, A. J.,
+Bansemer, A., Brown, P. R. A., and Forbes, R. M.: Statistical properties of
+the normalized ice particle size distribution, J. Geophys. Res., 110, 10201,
+https://doi.org/10.1029/2004JD005405, 2005. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/JTECH-D-11-00200.1</doi>
+              <unstructured_citation>Delanoë, J., Protat, A., Jourdan, O., Pelon, J., Papazzoni, M., Dupuy, R.,
+Gayet, J. F., and Jouan, C.: Comparison of airborne in situ, airborne
+radar-lidar, and spaceborne radar-lidar retrievals of polar ice cloud
+properties sampled during the POLARCAT campaign, J. Atmos. Ocean. Tech.,
+30, 57–73, https://doi.org/10.1175/JTECH-D-11-00200.1, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/2013JD020700</doi>
+              <unstructured_citation>Delanoë, J. M. E., Heymsfield, A. J., Protat, A., Bansemer, A., and Hogan,
+R. J.: Normalised Particle Size Distribution for remote sensing
+application, J. Geophys. Res.-Atmos., 119, 4204–4227, https://doi.org/10.1002/2013JD020700, 2014. a, b, c, d, e, f, g, h, i, j</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1029/2009JD013104</doi>
+              <unstructured_citation>Deng, M., Mace, G., Wang, Z., and Okamoto, H.: Tropical Composition, Cloud and
+Climate Coupling Experiment validation for cirrus cloud profiling retrieval
+using CloudSat radar and CALIPSO lidar, J. Geophys. Res.-Atmos., 115, D00J15,
+https://doi.org/10.1029/2009JD013104, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1175/JAMC-D-12-054.1</doi>
+              <unstructured_citation>Deng, M., Mace, G., Wang, Z., and Lawson, R. P.: Evaluation of several
+A-Train ice cloud retrieval products with in-situ measurements collected
+during the SPARTICUS campaign, J. Appl. Meteorol. Clim., 52, 1014–1030,
+https://doi.org/10.1175/JAMC-D-12-054.1, 2013. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2001JD900241</doi>
+              <unstructured_citation>Donovan, D. P., van Lammeren, A. C. A. P., Russchenberg, H. W. J., Apituley,
+A., Hogan, R. J., Francis, P. N., Testud, J., Pelon, J., Quante, M., and
+Goddard, J. W. F.: Cloud effective particles size and water content profile
+retrievals using combined radar and lidar observations – 2. Comparison with
+IR radiometer and in-situ measurements of ice clouds, J. Geophys. Res.,
+106, 27449–27464, 2001. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/acp-16-4379-2016</doi>
+              <unstructured_citation>Erfani, E. and Mitchell, D. L.: Developing and bounding ice particle mass- and
+area-dimension expressions for use in atmospheric models and remote
+sensing, Atmos. Chem. Phys., 16, 4379–4400, https://doi.org/10.5194/acp-16-4379-2016, 2016. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1175/JAM2250.1</doi>
+              <unstructured_citation>Evans, K. F., Wang, J. R., Racette, P. E., Heymsfield, G., and Li, L.: Ice
+Cloud Retrievals and Analysis with the Compact Scanning
+Submillimeter Imaging Radiometer and the Cloud Radar System
+during CRYSTAL FACE., J. Appl. Meteorol., 44, 839–859,
+https://doi.org/10.1175/JAM2250.1, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/JAMC-D-11-0220.1</doi>
+              <unstructured_citation>Garnier, A., Pelon, J., Dubuisson, P., Faivre, M., Chomette, O., Pascal, N.,
+and Kratz, D. P.: Retrieval of cloud properties using CALIPSO Imaging
+Infrared Radiometer. Part I: effective emissivity and optical depth,
+J. Appl. Meteorol. Clim., 51, 1407–1425, https://doi.org/10.1175/JAMC-D-11-0220.1,
+2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/JAMC-D-12-0328.1</doi>
+              <unstructured_citation>Garnier, A., Pelon, J., Dubuisson, P., Yang, P., Faivre, M., Chomette, O.,
+Pascal, N., Lucker, P., and Murray, T.: Retrieval of cloud properties using
+CALIPSO Imaging Infrared Radiometer. Part II: effective diameter
+and ice water path, J. Appl. Meteorol. Clim., 52, 2582–2599, https://doi.org/10.1175/JAMC-D-12-0328.1,
+2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/amt-8-2759-2015</doi>
+              <unstructured_citation>Garnier, A., Pelon, J., Vaughan, M. A., Winker, D. M., Trepte, C. R., and Dubuisson, P.:
+Lidar multiple scattering factors inferred from CALIPSO lidar and IIR retrievals
+of semi-transparent cirrus cloud optical depths over oceans, Atmos. Meas. Tech., 8, 2759–2774, https://doi.org/10.5194/amt-8-2759-2015, 2015. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/acp-12-503-2012</doi>
+              <unstructured_citation>Guignard, A., Stubenrauch, C. J., Baran, A. J., and Armante, R.: Bulk microphysical
+properties of semi-transparent cirrus from AIRS: a six year global climatology and
+statistical analysis in synergy with geometrical profiling data from
+CloudSat-CALIPSO, Atmos. Chem. Phys., 12, 503–525, https://doi.org/10.5194/acp-12-503-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/2010JAS3507.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Schmitt, C., Bansemer, A., and Twohy, C. H.: Improved
+Representation of Ice Particle Masses Based on Observations in
+Natural Clouds, J. Atmos. Sci., 67, 3303–3318,
+https://doi.org/10.1175/2010JAS3507.1, 2010. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/JAMC-D-13-087.1</doi>
+              <unstructured_citation>Heymsfield, A. J., Winker, D., Avery, M., Vaughan, M., Diskin, G., Deng, M.,
+Mitev, V., and Matthey, R.: Relationships between Ice Water Content and
+Volume Extinction Coefficient from In Situ Observations for
+Temperatures from 0&amp;amp;thinsp;∘C to −86&amp;amp;thinsp;∘C: Implications for
+Spaceborne Lidar Retrievals, J. Appl. Meteorol. Clim., 53, 479–505,
+https://doi.org/10.1175/JAMC-D-13-087.1, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1256/rj.01.208</doi>
+              <unstructured_citation>Hogan, R., Francis, P. N., Flentje, H., Illingworth, A., Quante, M., and Pelon,
+J.: Characteristics of mixed-phase clouds. I: Lidar, radar and aircraft
+observations from CLARE'98, Q. J. Roy. Meteor. Soc., 129, 2089–2116,
+https://doi.org/10.1256/rj.01.208, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/2008JAS2642.1</doi>
+              <unstructured_citation>Hogan, R. J.: Fast Lidar and Radar Multiple–Scattering Models.
+Part I: Small–Angle Scattering Using the Photon
+Variance–Covariance Method, J. Atmos. Sci., 65, 3621–3635,
+https://doi.org/10.1175/2008JAS2642.1, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2011JD016652</doi>
+              <unstructured_citation>Hong, G., Minnis, P., Doelling, D., Ayers, J. K., and Sun-Mack, S.: Estimating
+effective particle size of tropical deep convective clouds with a look-up
+table method using satellite measurements of brightness temperature
+differences, J. Geophys. Res., 117, D06207, https://doi.org/10.1029/2011JD016652, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/JCLI-D-14-00666.1</doi>
+              <unstructured_citation>Hong, Y. and Liu, G.: The characteristics of ice cloud properties derived from
+CloudSat and CALIPSO measurements, J. Climate, 28, 3880–3901,
+https://doi.org/10.1175/JCLI-D-14-00666.1, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JAM2399.1</doi>
+              <unstructured_citation>Lawson, R. P. and Baker, B. A.: Improvement in determination of ice water
+content from two-dimensional particle imagery. Part II: Applications
+to collected data, J. Appl. Meteorol. Clim., 45, 1291–1303,
+https://doi.org/10.1175/JAM2399.1, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1017/CBO9781139030052</doi>
+              <unstructured_citation>Liou, K. N. and Yang, P.: Light Scattering by Ice Crystals:
+Fundamentals and Applications, Cambridge University Press, Cambridge, UK, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/1520-0450(2000)039&lt;1130:TMAROI&gt;2.0.CO;2</doi>
+              <unstructured_citation>Liu, C. L. and Illingworth, A.: Toward more accurate retrievals of ice water
+content from radar measurements of clouds., J. Appl. Meteorol., 39,
+1130–1146, 2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1016/j.jqsrt.2004.05.002</doi>
+              <unstructured_citation>Mishchenko, M. I., Videen, G., Babenko, V. A., Khlebtsov, N. G., and Wriedt,
+T.: T-matrix theory of electromagnetic scattering by particles and its
+applications: A comprehensive reference database, J. Quant. Spectrosc.
+Ra., 88, 357–406, https://doi.org/10.1016/j.jqsrt.2004.05.002, 2004. a</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/1520-0469(1996)053&lt;1710:UOMAAD&gt;2.0.CO;2</doi>
+              <unstructured_citation>Mitchell, D.: Use of mass- and area-dimensional power laws for determining
+precipitation particle terminal velocity., J. Atmos. Sci, 53, 1710–1723,
+1996. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2001JD001225</doi>
+              <unstructured_citation>Okamoto, H., Iwasaki, S., Yasui, M., Horie, H., Kuroiwa, H., and Kumagai, H.:
+An algorithm for retrieval of cloud microphysics using 95-GHz cloud radar
+and lidar, J. Geophys. Res., 108, 4226–4247, https://doi.org/10.1029/2001JD001225,
+2003. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2009JD013383</doi>
+              <unstructured_citation>Okamoto, H., Sato, K., and Hagihira, Y.: Global analysis of ice microphysics
+from CloudSat and CALIPSO: Incorporation of specular reflection in
+lidar signals, J. Geophys. Res., 115, D22209, https://doi.org/10.1029/2009JD013383, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Platt, C. M. R.: Lidar and Radiometric Observations of Cirrus Clouds,
+J. Atmos. Sci., 30, 1191–1204,
+https://doi.org/10.1175/1520-0469(1973)030&amp;amp;lt;1191:LAROOC&amp;amp;gt;2.0.CO;2, 1973. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1175/1520-0469(1987)044&lt;0729:RSOHCP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Platt, C. M. R., Scott, S., and Dilley, A.: Remote Sounding of High
+Clouds: IV. Optical properties of midlatitude and tropical cirrus, J.
+Atmos. Sci., 44, 729–747, 1987. a</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Platt, C. M. R., Young, S. A., Austin, R. T., Patterson, G. R., Mitchell,
+D. L., and Miller, S. D.: LIRAD Observations of tropical cirrus clouds in
+MCTEX. Part I: Optical properties and detection of small particles in
+cold cirrus, J. Atmos. Sci., 59, 3145–3162, 2002. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1002/2016JD026080</doi>
+              <unstructured_citation>Saito, M., Iwabuchi, H., Yang, P., Tang, G., King, M. D., and Sekiguchi, M.:
+Ice particle morphology and microphysical properties of cirrus clouds
+inferred from combined CALIOP-IIR measurement, J. Geophys. Res.-Atmos.,
+122, 4440–4462, https://doi.org/10.1002/2016JD026080, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1002/qj.2405</doi>
+              <unstructured_citation>Sourdeval, O., C.-Labonnote, L., Baran, A. J., and Brogniez, G.: A methodology
+for simultaneous retrieval of ice and liquid water cloud properties. Part 1:
+Information content and case study, Q. J. Roy. Meteor. Soc., 141, 870–882,
+https://doi.org/10.1002/qj.2405, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1002/qj.2889</doi>
+              <unstructured_citation>Sourdeval, O., C.-Labonnote, L., Baran, A. J., Mülmenstädt, J., and
+Brogniez, G.: A methodology for simultaneous retrieval of ice and liquid
+water cloud properties. Part 2: Near-global retrievals and evaluation against
+A-Train products, Q. J. Roy. Meteor. Soc., 142, 3063–3081,
+https://doi.org/10.1002/qj.2889,
+2016. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/BAMS-83-12-1771</doi>
+              <unstructured_citation>Stephens, G. L., Vane, D. G., Boain, R. J., Mace, G. G., Sassen, K., Wang, Z.,
+Illingworth, A. J., O'Connor, E. J., Rossow, W. B., Durden, S. L., Miller,
+S. D., Austin, R. T., Benedetti, A., Mitrescu, C., and the CloudSat
+Science Team: The CloudSat Mission and the A-Train, B. Am.
+Meteorol. Soc., 83, 1771–1790, https://doi.org/10.1175/BAMS-83-12-1771, 2002. a</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/1999JD900828</doi>
+              <unstructured_citation>Stubenrauch, C. J., Holz, R., Chédin, A., Mitchell, D. L., and Baran,
+A. J.: Retrieval of cirrus ice crystal sizes from 8.3 and 11.1&amp;amp;thinsp;µm
+emissivities determined by the improved initialization inversion of TIROS-N
+Operational Vertical Sounder observations, J. Geophys. Res., 104,
+793–808, 1999. a</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/JTECH-D-14-00178.1</doi>
+              <unstructured_citation>Thorsen, T. J. and Fu, Q.: Automated Retrieval of Cloud and Aerosol
+Properties from the ARM Raman Lidar. Part II: Extinction, J.
+Atmos. Ocean. Tech., 32, 1999–2023, https://doi.org/10.1175/JTECH-D-14-00178.1, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1175/JAM2229.1</doi>
+              <unstructured_citation>Tinel, C., Testud, J., Hogan, R. J., Protat, A., Delanoë, J., and Bouniol,
+D.: The retrieval of ice cloud properties from cloud radar and lidar synergy,
+J. Appl. Meteorol., 44, 860–875, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1117/12.572024</doi>
+              <unstructured_citation>Vaughan, M., Young, S., Winker, D., Powell, K., Omar, A., Liu, Z., Hu, Y., and
+Hostetler, C.: Fully automated analysis of space-based lidar data: an
+overview of the CALIPSO retrieval algorithms and data products., Proc. SPIE,
+5575, 16–30, 2004. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/1520-0450(2002)041&lt;0218:CCMPRU&gt;2.0.CO;2</doi>
+              <unstructured_citation>Wang, Z. and Sassen, K.: Cirrus cloud microphysical property retrieval using
+lidar and radar measurements – 1. Algorithm description and comparison with
+in situ data, J. Appl. Meteorol., 41, 218–229, 2002.  a</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2004GL020003</doi>
+              <unstructured_citation>Whiteman, D. N., Demoz, B., and Wang, Z.: Subtropical cirrus cloud extinction
+to backscatter ratios measured by Raman Lidar during CAMEX-3, Geophys.
+Res. Lett., 31, L12105, https://doi.org/10.1029/2004GL020003, 2004. a</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2007GL030135</doi>
+              <unstructured_citation>Winker, D., Hunt, W., and McGill, M. J.: Initial performance assessment of
+CALIOP, Geophys. Res. Lett., 34, L19803, https://doi.org/10.1029/2007GL030135, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/2010BAMS3009.1</doi>
+              <unstructured_citation>Winker, D. M., Pelon, J., Coakley, J. A., Ackerman, S. A., Charlson, R. J.,
+Colarco, P. R., Flamant, P., Fu, Q., Hoff, R. M., Kittaka, C., Kubar, T. L.,
+Treut, H. L., McCormick, M. P., Mégie, G., Poole, L., Powell, K. A.,
+Trepte, C., Vaughan, M. A., and Wielicki, B. A.: The CALIPSO Mission: A
+global 3D view of aerosols and clouds, B. Am. Meteorol. Soc., 91,
+1211–1229, https://doi.org/10.1175/2010BAMS3009.1, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/2011JTECHA1507.1</doi>
+              <unstructured_citation>Yorks, J. E., Hlavka, D. L., Hart, W. D., and McGill, M. J.: Statistics of
+cloud optical properties from airborne lidar measurements, J. Atmos. Ocean.
+Tech., 28, 869–883, https://doi.org/10.1175/2011JTECHA1507.1, 2011. a</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

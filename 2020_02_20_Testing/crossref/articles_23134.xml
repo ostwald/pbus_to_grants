@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2020-02-19 03:05:04">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Advances in Modeling Earth Systems</full_title>
+          <abbrev_title>J. Adv. Model. Earth Syst.</abbrev_title>
+          <issn media_type="print">1942-2466</issn>
+          <issn media_type="electronic">1942-2466</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>17</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>12</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The Community Land Model Version 5: Description of New Features, Benchmarking, and Impact of Forcing Uncertainty</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>David M.</given_name>
+              <surname>Lawrence</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-2968-3023</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Rosie A.</given_name>
+              <surname>Fisher</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-3260-9227</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Charles D.</given_name>
+              <surname>Koven</surname>
+              <affiliation>Climate and Ecosystem Sciences DivisionLawrence Berkeley National Laboratory Berkeley CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-3367-0065</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Keith W.</given_name>
+              <surname>Oleson</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0057-9900</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Sean C.</given_name>
+              <surname>Swenson</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-2923-1203</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Gordon</given_name>
+              <surname>Bonan</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-0830-6437</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Nathan</given_name>
+              <surname>Collier</surname>
+              <affiliation>Computer Science and Engineering DivisionOak Ridge National Laboratory Oak Ridge TN USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-7367-3981</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Bardan</given_name>
+              <surname>Ghimire</surname>
+              <affiliation>Climate and Ecosystem Sciences DivisionLawrence Berkeley National Laboratory Berkeley CA USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Leo</given_name>
+              <surname>Kampenhout</surname>
+              <affiliation>Institute for Marine and Atmospheric Research UtrechtUtrecht University Utrecht The Netherlands</affiliation>
+              <ORCID>https://orcid.org/0000-0001-9047-5031</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Daniel</given_name>
+              <surname>Kennedy</surname>
+              <affiliation>Department of Earth and Environmental EngineeringColumbia University New York NY USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-9494-3509</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Erik</given_name>
+              <surname>Kluzek</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Peter J.</given_name>
+              <surname>Lawrence</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-4843-4903</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Fang</given_name>
+              <surname>Li</surname>
+              <affiliation>International Center for Climate and Environmental Sciences, Institute of Atmospheric PhysicsChinese Academy of Sciences Beijing China</affiliation>
+              <ORCID>https://orcid.org/0000-0002-3686-2257</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Hongyi</given_name>
+              <surname>Li</surname>
+              <affiliation>Department of Civil &amp;amp; Environmental EngineeringUniversity of Houston Houston TX USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Danica</given_name>
+              <surname>Lombardozzi</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-3557-7929</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>William J.</given_name>
+              <surname>Riley</surname>
+              <affiliation>Climate and Ecosystem Sciences DivisionLawrence Berkeley National Laboratory Berkeley CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-4615-2304</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>William J.</given_name>
+              <surname>Sacks</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Mingjie</given_name>
+              <surname>Shi</surname>
+              <affiliation>Jet Propulsion LaboratoryCalifornia Institute of Technology Pasadena CA USA</affiliation>
+              <affiliation>Joint Institute for Regional Earth System Science and EngineeringUniversity of California Los Angeles CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-2469-4831</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Mariana</given_name>
+              <surname>Vertenstein</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-9486-9994</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>William R.</given_name>
+              <surname>Wieder</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <affiliation>Institute of Arctic and Alpine ResearchUniversity of Colorado Boulder Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-7116-1985</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Chonggang</given_name>
+              <surname>Xu</surname>
+              <affiliation>Los Alamos National Laboratory Los Alamos NM USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ashehad A.</given_name>
+              <surname>Ali</surname>
+              <affiliation>Department of Organismic and Evolutionary BiologyHarvard University Cambridge MA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-7328-306X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew M.</given_name>
+              <surname>Badger</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-4537-9993</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Gautam</given_name>
+              <surname>Bisht</surname>
+              <affiliation>Climate and Ecosystem Sciences DivisionLawrence Berkeley National Laboratory Berkeley CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-6641-7595</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Michiel</given_name>
+              <surname>Broeke</surname>
+              <affiliation>Institute for Marine and Atmospheric Research UtrechtUtrecht University Utrecht The Netherlands</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Michael A.</given_name>
+              <surname>Brunke</surname>
+              <affiliation>Department of Hydrology and Atmospheric SciencesUniversity of Arizona Tucson AZ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-2677-7446</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Sean P.</given_name>
+              <surname>Burns</surname>
+              <affiliation>Department of GeographyUniversity of Colorado Boulder Boulder CO USA</affiliation>
+              <affiliation>Mesoscale and Microscale Meteorology LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jonathan</given_name>
+              <surname>Buzan</surname>
+              <affiliation>Department of Earth, Atmospheric, and Planetary SciencesPurdue University West Lafayette IN USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-8199-3264</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Martyn</given_name>
+              <surname>Clark</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-2186-2625</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Anthony</given_name>
+              <surname>Craig</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Kyla</given_name>
+              <surname>Dahlin</surname>
+              <affiliation>Department of Geography, Environment, and Spatial SciencesMichigan State University East Lansing MI USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Beth</given_name>
+              <surname>Drewniak</surname>
+              <affiliation>Environmental Science DivisionArgonne National Laboratory Argonne IL USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-8193-6091</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Joshua B.</given_name>
+              <surname>Fisher</surname>
+              <affiliation>Jet Propulsion LaboratoryCalifornia Institute of Technology Pasadena CA USA</affiliation>
+              <affiliation>Joint Institute for Regional Earth System Science and EngineeringUniversity of California Los Angeles CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-4734-9085</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Mark</given_name>
+              <surname>Flanner</surname>
+              <affiliation>Department of Climate and Space Sciences and EngineeringUniversity of Michigan Ann Arbor MI USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-4012-174X</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew M.</given_name>
+              <surname>Fox</surname>
+              <affiliation>School of Natural Resources and the EnvironmentUniversity of Arizona Tucson AZ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-4027-4538</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Pierre</given_name>
+              <surname>Gentine</surname>
+              <affiliation>Department of Earth and Environmental EngineeringColumbia University New York NY USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0845-8345</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Forrest</given_name>
+              <surname>Hoffman</surname>
+              <affiliation>Computer Science and Engineering DivisionOak Ridge National Laboratory Oak Ridge TN USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-5802-4134</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Gretchen</given_name>
+              <surname>Keppel‐Aleks</surname>
+              <affiliation>Climate and Space Sciences and EngineeringUniversity of Michigan Ann Arbor CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-2213-0044</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ryan</given_name>
+              <surname>Knox</surname>
+              <affiliation>Climate and Ecosystem Sciences DivisionLawrence Berkeley National Laboratory Berkeley CA USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Sanjiv</given_name>
+              <surname>Kumar</surname>
+              <affiliation>School of Forestry and Wildlife SciencesAuburn University Auburn AL USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0472-6074</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jan</given_name>
+              <surname>Lenaerts</surname>
+              <affiliation>Department of Atmospheric and Oceanic SciencesUniversity of Colorado Boulder Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-4309-4011</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>L. Ruby</given_name>
+              <surname>Leung</surname>
+              <affiliation>Atmospheric Sciences and Global Change DivisionPacific Northwest National Laboratory Richland WA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-3221-9467</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>William H.</given_name>
+              <surname>Lipscomb</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-7100-3730</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Yaqiong</given_name>
+              <surname>Lu</surname>
+              <affiliation>Institute of Mountain Hazards and EnvironmentChinese Academy of Sciences Chengdu China</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ashutosh</given_name>
+              <surname>Pandey</surname>
+              <affiliation>School of Forestry and Wildlife SciencesAuburn University Auburn AL USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jon D.</given_name>
+              <surname>Pelletier</surname>
+              <affiliation>Department of GeosciencesUniversity of Arizona Tucson AZ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-0702-2646</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Justin</given_name>
+              <surname>Perket</surname>
+              <affiliation>Climate and Global Dynamics LaboratoryNational Center for Atmospheric Research Boulder CO USA</affiliation>
+              <affiliation>NASA Goddard Space Flight Center Greenbelt MD USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-9195-6419</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>James T.</given_name>
+              <surname>Randerson</surname>
+              <affiliation>Department of Earth System ScienceUniversity of California Irvine CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-6559-7387</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Daniel M.</given_name>
+              <surname>Ricciuto</surname>
+              <affiliation>Environmental Sciences DivisionOak Ridge National Laboratory Oak Ridge TN USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-3668-3021</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Benjamin M.</given_name>
+              <surname>Sanderson</surname>
+              <affiliation>CERFACS Toulouse France</affiliation>
+              <ORCID>https://orcid.org/0000-0001-8635-4624</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Andrew</given_name>
+              <surname>Slater</surname>
+              <affiliation>National Snow and Ice Data Center Boulder CO USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-4009-4844</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Zachary M.</given_name>
+              <surname>Subin</surname>
+              <affiliation>Energy &amp;amp; Environmental Economics San Francisco CA USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Jinyun</given_name>
+              <surname>Tang</surname>
+              <affiliation>Climate and Ecosystem Sciences DivisionLawrence Berkeley National Laboratory Berkeley CA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-4792-1259</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>R. Quinn</given_name>
+              <surname>Thomas</surname>
+              <affiliation>Department of Forest Resources and Environmental ConservationVirginia Polytechnic Institute and State University Blacksburg VA USA</affiliation>
+              <ORCID>https://orcid.org/0000-0003-1282-7825</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Maria</given_name>
+              <surname>Val Martin</surname>
+              <affiliation>Leverhulme Centre for Climate Change Mitigation, Animal and Plant Sciences DepartmentUniversity of Sheffield Sheffield UK</affiliation>
+              <ORCID>https://orcid.org/0000-0001-9715-0504</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Xubin</given_name>
+              <surname>Zeng</surname>
+              <affiliation>Department of Hydrology and Atmospheric SciencesUniversity of Arizona Tucson AZ USA</affiliation>
+              <ORCID>https://orcid.org/0000-0001-7352-2764</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="online">
+            <month>12</month>
+            <day>12</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>12</month>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>4245</first_page>
+            <last_page>4287</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1029/2018MS001583</identifier>
+          </publisher_item>
+          <crossmark>
+            <crossmark_version>2</crossmark_version>
+            <crossmark_policy>10.1002/crossmark_policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>onlinelibrary.wiley.com</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+            <custom_metadata>
+              <assertion group_label="Publication History" group_name="publication_history" label="Received" name="received" order="0">2018-12-03</assertion>
+              <assertion group_label="Publication History" group_name="publication_history" label="Accepted" name="accepted" order="1">2019-09-28</assertion>
+              <assertion group_label="Publication History" group_name="publication_history" label="Published" name="published" order="2">2019-12-12</assertion>
+              <program name="fundref">
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Aeronautics and Space Administration
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+                  </assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    U.S. Department of Agriculture
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000199</assertion>
+                  </assertion>
+                  <assertion name="award_number">2015‐67003‐23485</assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Center for Atmospheric Research
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100005323</assertion>
+                  </assertion>
+                </assertion>
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Science Foundation
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100008982</assertion>
+                  </assertion>
+                  <assertion name="award_number">1852977</assertion>
+                </assertion>
+              </program>
+              <program name="AccessIndicators">
+                <license_ref applies_to="am" start_date="2020-12-11">http://creativecommons.org/licenses/by/4.0/</license_ref>
+                <license_ref applies_to="vor" start_date="2019-12-12">http://creativecommons.org/licenses/by/4.0/</license_ref>
+                <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <doi_data>
+            <doi>10.1029/2018MS001583</doi>
+            <resource>https://onlinelibrary.wiley.com/doi/abs/10.1029/2018MS001583</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://onlinelibrary.wiley.com/doi/pdf/10.1029/2018MS001583</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://onlinelibrary.wiley.com/doi/pdf/10.1029/2018MS001583</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2018MS001583</resource>
+              </item>
+              <item>
+                <resource mime_type="application/pdf">https://onlinelibrary.wiley.com/doi/pdf/10.1029/2018MS001583</resource>
+              </item>
+              <item>
+                <resource mime_type="application/xml">https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2018MS001583</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="e_1_2_9_2_1">
+              <doi>10.1111/gcb.14310</doi>
+            </citation>
+            <citation key="e_1_2_9_3_1">
+              <doi>10.1111/j.1469-8137.2004.01224.x</doi>
+            </citation>
+            <citation key="e_1_2_9_4_1">
+              <doi>10.5194/acp-11-4039-2011</doi>
+            </citation>
+            <citation key="e_1_2_9_5_1">
+              <doi>10.5194/bg-14-4101-2017</doi>
+            </citation>
+            <citation key="e_1_2_9_6_1">
+              <doi>10.5194/gmd-9-587-2016</doi>
+            </citation>
+            <citation key="e_1_2_9_7_1">
+              <doi>10.1038/s41586-018-0539-7</doi>
+            </citation>
+            <citation key="e_1_2_9_8_1">
+              <doi>10.1175/2009BAMS2618.1</doi>
+            </citation>
+            <citation key="e_1_2_9_9_1">
+              <doi>10.1029/2000GB001382</doi>
+            </citation>
+            <citation key="e_1_2_9_10_1">
+              <doi>10.1111/nph.13253</doi>
+            </citation>
+            <citation key="e_1_2_9_11_1">
+              <doi>10.1111/gcb.13139</doi>
+            </citation>
+            <citation key="e_1_2_9_12_1">
+              <doi>10.5194/hess-19-4547-2015</doi>
+            </citation>
+            <citation key="e_1_2_9_13_1">
+              <doi>10.1111/pce.12485</doi>
+            </citation>
+            <citation key="e_1_2_9_14_1">
+              <doi>10.1126/science.aam8328</doi>
+            </citation>
+            <citation key="e_1_2_9_15_1">
+              <journal_title>Journal of Geophysical Research, Biogeosciences</journal_title>
+              <author>Bonan G. B.</author>
+              <volume>116</volume>
+              <issue>2</issue>
+              <cYear>2011</cYear>
+              <article_title>Improving canopy processes in the Community Land Model version 4 (CLM4) using global flux fields empirically inferred from FLUXNET data</article_title>
+            </citation>
+            <citation key="e_1_2_9_16_1">
+              <doi>10.1029/2010GL042430</doi>
+            </citation>
+            <citation key="e_1_2_9_17_1">
+              <journal_title>Journal of Geophysical Research, Biogeosciences</journal_title>
+              <author>Bonan G. B.</author>
+              <volume>117</volume>
+              <issue>2</issue>
+              <cYear>2012</cYear>
+              <article_title>Reconciling leaf physiological traits and canopy flux data: Use of the TRY and FLUXNET databases in the Community Land Model version 4</article_title>
+            </citation>
+            <citation key="e_1_2_9_18_1">
+              <doi>10.5194/gmd-11-1467-2018</doi>
+            </citation>
+            <citation key="e_1_2_9_19_1">
+              <journal_title>Global Biogeochemical Cycles</journal_title>
+              <author>Bonan G. B.</author>
+              <first_page>8329</first_page>
+              <volume>46</volume>
+              <issue>14</issue>
+              <cYear>2019</cYear>
+              <article_title>Model structure and climate data uncertainty in historical simulations of the terrestrial carbon cycle (1850–2014)</article_title>
+            </citation>
+            <citation key="e_1_2_9_20_1">
+              <doi>10.1175/JCLI-D-15-0307.1</doi>
+            </citation>
+            <citation key="e_1_2_9_21_1">
+              <doi>10.1002/2014JG002660</doi>
+            </citation>
+            <citation key="e_1_2_9_22_1">
+              <doi>10.1002/2017MS001248</doi>
+            </citation>
+            <citation key="e_1_2_9_23_1">
+              <doi>10.5194/gmd-8-151-2015</doi>
+            </citation>
+            <citation key="e_1_2_9_24_1">
+              <doi>10.1038/nature22030</doi>
+            </citation>
+            <citation key="e_1_2_9_25_1">
+              <doi>10.1038/ngeo2553</doi>
+            </citation>
+            <citation key="e_1_2_9_26_1">
+              <doi>10.5194/hess-22-111-2018</doi>
+            </citation>
+            <citation key="e_1_2_9_27_1">
+              <doi>10.1038/s41467-017-00114-5</doi>
+            </citation>
+            <citation key="e_1_2_9_28_1">
+              <doi>10.1111/j.1365-3040.2010.02160.x</doi>
+            </citation>
+            <citation key="e_1_2_9_29_1">
+              <doi>10.5194/gmd-9-4227-2016</doi>
+            </citation>
+            <citation key="e_1_2_9_30_1">
+              <doi>10.1029/2009WR008894</doi>
+            </citation>
+            <citation key="e_1_2_9_31_1">
+              <doi>10.1029/1999GB900014</doi>
+            </citation>
+            <citation key="e_1_2_9_32_1">
+              <doi>10.1029/2018MS001354</doi>
+            </citation>
+            <citation key="e_1_2_9_33_1">
+              <doi>10.1002/qj.776</doi>
+            </citation>
+            <citation key="e_1_2_9_34_1">
+              <doi>10.1038/nature11882</doi>
+            </citation>
+            <citation key="e_1_2_9_35_1">
+              <doi>10.5194/bg-12-5061-2015</doi>
+            </citation>
+            <citation key="e_1_2_9_36_1">
+              <doi>10.1111/ecog.02443</doi>
+            </citation>
+            <citation key="e_1_2_9_37_1">
+              <doi>10.1175/2008JCLI2592.1</doi>
+            </citation>
+            <citation key="e_1_2_9_38_1">
+              <doi>10.1073/pnas.1317323111</doi>
+            </citation>
+            <citation key="e_1_2_9_39_1">
+              <doi>10.5194/gmd-8-431-2015</doi>
+            </citation>
+            <citation key="e_1_2_9_40_1">
+              <doi>10.1175/2010JHM1189.1</doi>
+            </citation>
+            <citation key="e_1_2_9_41_1">
+              <doi>10.1046/j.1365-2486.2000.00296.x</doi>
+            </citation>
+            <citation key="e_1_2_9_42_1">
+              <doi>10.1111/j.1365-2486.2007.01365.x</doi>
+            </citation>
+            <citation key="e_1_2_9_43_1">
+              <doi>10.1175/JHM-D-15-0196.1</doi>
+            </citation>
+            <citation key="e_1_2_9_44_1">
+              <doi>10.1111/btp.12504</doi>
+            </citation>
+            <citation key="e_1_2_9_45_1">
+              <doi>10.5194/gmd-6-495-2013</doi>
+            </citation>
+            <citation key="e_1_2_9_46_1">
+              <unstructured_citation>Fao/Iiasa/Isric/Isscas/Jrc. (2012).Harmonized world soil database (version 1.2).FAO Rome Italy and IIASA Laxenburg Austria.</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_9_47_1">
+              <doi>10.1029/2009GB003621</doi>
+            </citation>
+            <citation key="e_1_2_9_48_1">
+              <doi>10.1029/2019MS001609</doi>
+            </citation>
+            <citation key="e_1_2_9_49_1">
+              <doi>10.1111/gcb.13910</doi>
+            </citation>
+            <citation key="e_1_2_9_50_1">
+              <doi>10.5194/gmd-8-3593-2015</doi>
+            </citation>
+            <citation key="e_1_2_9_51_1">
+              <doi>10.1029/2006JD008003</doi>
+            </citation>
+            <citation key="e_1_2_9_52_1">
+              <doi>10.1007/s10546-006-9048-6</doi>
+            </citation>
+            <citation key="e_1_2_9_53_1">
+              <doi>10.1029/2018GH000144</doi>
+            </citation>
+            <citation key="e_1_2_9_54_1">
+              <journal_title>Philosophical Transactions of the Royal Society, B: Biological Sciences</journal_title>
+              <author>Fowler D.</author>
+              <volume>368</volume>
+              <issue>1621</issue>
+              <cYear>2013</cYear>
+              <article_title>The global nitrogen cycle in the twenty‐first century</article_title>
+            </citation>
+            <citation key="e_1_2_9_55_1">
+              <doi>10.1029/2018MS001362</doi>
+            </citation>
+            <citation key="e_1_2_9_56_1">
+              <doi>10.1038/nclimate2614</doi>
+            </citation>
+            <citation key="e_1_2_9_57_1">
+              <doi>10.1104/pp.17.00287</doi>
+            </citation>
+            <citation key="e_1_2_9_58_1">
+              <doi>10.1111/gcb.14445</doi>
+            </citation>
+            <citation key="e_1_2_9_59_1">
+              <doi provider="crossref">10.1175/2011JCLI4083.1</doi>
+              <unstructured_citation>Gent P. R. Danabasoglu G. Donner L. J. Holland M. M. Hunke E. C. Jayne S. R. Lawrence D. M. Neale R. B. Rasch P. J. Vertenstein M. Worley P. H. Yang Z. L. &amp;Zhang M.(2011).The Community Climate System Model version 4.J. Climate.24(19) 4973–4991.https://doi.org/10.1175/2011JCLI4083.1</unstructured_citation>
+            </citation>
+            <citation key="e_1_2_9_60_1">
+              <doi>10.1002/2015MS000538</doi>
+            </citation>
+            <citation key="e_1_2_9_61_1">
+              <doi>10.1007/1-4020-3447-4_7</doi>
+            </citation>
+            <citation key="e_1_2_9_62_1">
+              <doi>10.1038/s41561-018-0133-5</doi>
+            </citation>
+            <citation key="e_1_2_9_63_1">
+              <doi>10.5194/essd-9-927-2017</doi>
+            </citation>
+            <citation key="e_1_2_9_64_1">
+              <doi>10.5194/gmd-5-1471-2012</doi>
+            </citation>
+            <citation key="e_1_2_9_65_1">
+              <doi>10.1023/A:1001889423449</doi>
+            </citation>
+            <citation key="e_1_2_9_66_1">
+              <doi>10.1007/s11104-008-9668-3</doi>
+            </citation>
+            <citation key="e_1_2_9_67_1">
+              <doi>10.1002/2013JG002381</doi>
+            </citation>
+            <citation key="e_1_2_9_68_1">
+              <doi>10.1038/nclimate2538</doi>
+            </citation>
+            <citation key="e_1_2_9_69_1">
+              <doi>10.1038/nature07028</doi>
+            </citation>
+            <citation key="e_1_2_9_70_1">
+              <doi>10.1111/gcb.12873</doi>
+            </citation>
+            <citation key="e_1_2_9_71_1">
+              <doi>10.5194/essd-5-3-2013</doi>
+            </citation>
+            <citation key="e_1_2_9_72_1">
+              <doi>10.1126/science.1095549</doi>
+            </citation>
+            <citation key="e_1_2_9_73_1">
+              <doi>10.5194/gmd-6-2121-2013</doi>
+            </citation>
+            <citation key="e_1_2_9_74_1">
+              <doi>10.1175/BAMS-D-12-00121.1</doi>
+            </citation>
+            <citation key="e_1_2_9_75_1">
+              <doi>10.1007/BF00333714</doi>
+            </citation>
+            <citation key="e_1_2_9_76_1">
+              <doi>10.1038/ngeo844</doi>
+            </citation>
+            <citation key="e_1_2_9_77_1">
+              <doi>10.1038/nature11983</doi>
+            </citation>
+            <citation key="e_1_2_9_78_1">
+              <journal_title>NCAS British Atmospheric Data Centre</journal_title>
+              <author>Jones P.</author>
+              <cYear>2013</cYear>
+              <article_title>CRU TS3. 21: Climatic Research Unit (CRU) Time‐Series (TS) version 3.21 of high resolution gridded data of month‐by‐month variation in climate (Jan. 1901–Dec. 2012)</article_title>
+            </citation>
+            <citation key="e_1_2_9_79_1">
+              <doi>10.1029/2010JG001566</doi>
+            </citation>
+            <citation key="e_1_2_9_80_1">
+              <doi>10.1175/1520-0477(1996)077&lt;0437:TNYRP&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_9_81_1">
+              <doi>10.1111/j.1365-2486.2011.02451.x</doi>
+            </citation>
+            <citation key="e_1_2_9_82_1">
+              <doi>10.1111/j.1365-2486.2008.01744.x</doi>
+            </citation>
+            <citation key="e_1_2_9_83_1">
+              <doi>10.1016/S0309-1708(00)00076-2</doi>
+            </citation>
+            <citation key="e_1_2_9_84_1">
+              <doi>10.5194/bg-6-1423-2009</doi>
+            </citation>
+            <citation key="e_1_2_9_85_1">
+              <doi>10.1038/nature12291</doi>
+            </citation>
+            <citation key="e_1_2_9_86_1">
+              <doi>10.1029/2018MS001500</doi>
+            </citation>
+            <citation key="e_1_2_9_87_1">
+              <doi>10.1175/EI-D-17-0017.1</doi>
+            </citation>
+            <citation key="e_1_2_9_88_1">
+              <doi>10.1111/gcb.13389</doi>
+            </citation>
+            <citation key="e_1_2_9_89_1">
+              <doi>10.1002/2016GL072388</doi>
+            </citation>
+            <citation key="e_1_2_9_90_1">
+              <doi>10.1038/nclimate3421</doi>
+            </citation>
+            <citation key="e_1_2_9_91_1">
+              <doi>10.5194/bg-10-7109-2013</doi>
+            </citation>
+            <citation key="e_1_2_9_92_1">
+              <doi>10.1175/JHM-D-16-0028.1</doi>
+            </citation>
+            <citation key="e_1_2_9_93_1">
+              <doi>10.5194/acpd-10-4963-2010</doi>
+            </citation>
+            <citation key="e_1_2_9_94_1">
+              <doi>10.5194/gmd-9-2973-2016</doi>
+            </citation>
+            <citation key="e_1_2_9_95_1">
+              <doi>10.1088/1748-9326/10/9/094011</doi>
+            </citation>
+            <citation key="e_1_2_9_96_1">
+              <doi>10.1029/2011MS000045</doi>
+            </citation>
+            <citation key="e_1_2_9_97_1">
+              <doi>10.1007/s00382-007-0278-1</doi>
+            </citation>
+            <citation key="e_1_2_9_98_1">
+              <doi>10.1029/2007JF000883</doi>
+            </citation>
+            <citation key="e_1_2_9_99_1">
+              <doi>10.1175/JHM596.1</doi>
+            </citation>
+            <citation key="e_1_2_9_100_1">
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <author>Lawrence P. J.</author>
+              <volume>112</volume>
+              <issue>112</issue>
+              <cYear>2007</cYear>
+              <article_title>Representing a new MODIS consistent land surface in the Community Land Model (CLM3.0)</article_title>
+            </citation>
+            <citation key="e_1_2_9_101_1">
+              <doi>10.1175/JCLI-D-11-00256.1</doi>
+            </citation>
+            <citation key="e_1_2_9_102_1">
+              <doi>10.5194/essd-10-405-2018</doi>
+            </citation>
+            <citation key="e_1_2_9_103_1">
+              <doi>10.5194/essd-6-235-2014</doi>
+            </citation>
+            <citation key="e_1_2_9_104_1">
+              <doi>10.1890/06-2057.1</doi>
+            </citation>
+            <citation key="e_1_2_9_105_1">
+              <doi>10.1007/s10584-016-1654-9</doi>
+            </citation>
+            <citation key="e_1_2_9_106_1">
+              <doi>10.5194/gmd-7-613-2014</doi>
+            </citation>
+            <citation key="e_1_2_9_107_1">
+              <doi>10.1175/JCLI-D-16-0460.1</doi>
+            </citation>
+            <citation key="e_1_2_9_108_1">
+              <doi>10.5194/bg-10-2293-2013</doi>
+            </citation>
+            <citation key="e_1_2_9_109_1">
+              <doi>10.5194/bg-9-2761-2012</doi>
+            </citation>
+            <citation key="e_1_2_9_110_1">
+              <doi>10.1175/JHM-D-12-015.1</doi>
+            </citation>
+            <citation key="e_1_2_9_111_1">
+              <doi>10.1175/JAS-D-17-0301.1</doi>
+            </citation>
+            <citation key="e_1_2_9_112_1">
+              <doi>10.1002/2017JG003958</doi>
+            </citation>
+            <citation key="e_1_2_9_113_1">
+              <doi>10.1038/nclimate2550</doi>
+            </citation>
+            <citation key="e_1_2_9_114_1">
+              <doi>10.1175/JCLI-D-12-00557.1</doi>
+            </citation>
+            <citation key="e_1_2_9_115_1">
+              <doi>10.5194/gmd-12-387-2019</doi>
+            </citation>
+            <citation key="e_1_2_9_116_1">
+              <doi>10.1111/j.1461-0248.2010.01482.x</doi>
+            </citation>
+            <citation key="e_1_2_9_117_1">
+              <doi>10.1175/JCLI-D-14-00223.1</doi>
+            </citation>
+            <citation key="e_1_2_9_118_1">
+              <doi>10.5194/bg-10-6815-2013</doi>
+            </citation>
+            <citation key="e_1_2_9_119_1">
+              <doi>10.1002/2015GL065934</doi>
+            </citation>
+            <citation key="e_1_2_9_120_1">
+              <doi>10.1029/2018GL079000</doi>
+            </citation>
+            <citation key="e_1_2_9_121_1">
+              <doi>10.1890/04-1724</doi>
+            </citation>
+            <citation key="e_1_2_9_122_1">
+              <doi>10.1098/rstb.2011.0062</doi>
+            </citation>
+            <citation key="e_1_2_9_123_1">
+              <volume_title>Mineral nutrition of higher plants</volume_title>
+              <author>Marschner H.</author>
+              <cYear>1995</cYear>
+            </citation>
+            <citation key="e_1_2_9_124_1">
+              <doi>10.1073/pnas.1719903115</doi>
+            </citation>
+            <citation key="e_1_2_9_125_1">
+              <doi>10.1111/gcb.13268</doi>
+            </citation>
+            <citation key="e_1_2_9_126_1">
+              <doi>10.1111/j.1365-2486.2010.02375.x</doi>
+            </citation>
+            <citation key="e_1_2_9_127_1">
+              <doi>10.1038/nclimate2621</doi>
+            </citation>
+            <citation key="e_1_2_9_128_1">
+              <doi>10.5194/bg-15-4731-2018</doi>
+            </citation>
+            <citation key="e_1_2_9_129_1">
+              <doi>10.1002/joc.1181</doi>
+            </citation>
+            <citation key="e_1_2_9_130_1">
+              <doi>10.1175/JCLI-D-17-0096.1</doi>
+            </citation>
+            <citation key="e_1_2_9_131_1">
+              <doi>10.1088/1748-9326/10/6/064017</doi>
+            </citation>
+            <citation key="e_1_2_9_132_1">
+              <doi>10.1016/j.envexpbot.2013.11.008</doi>
+            </citation>
+            <citation key="e_1_2_9_133_1">
+              <doi>10.1029/2007JD008674</doi>
+            </citation>
+            <citation key="e_1_2_9_134_1">
+              <doi>10.1029/2006JD007522</doi>
+            </citation>
+            <citation key="e_1_2_9_135_1">
+              <doi>10.1029/2018MS001586</doi>
+            </citation>
+            <citation key="e_1_2_9_136_1">
+              <doi>10.1175/2007JAMC1597.1</doi>
+            </citation>
+            <citation key="e_1_2_9_137_1">
+              <volume_title>Technical description of version 4.5 of the Community Land Model (CLM) (NCAR Tech. Note NCAR/TN‐503 + STR)</volume_title>
+              <author>Koven C. D.</author>
+              <cYear>2013</cYear>
+            </citation>
+            <citation key="e_1_2_9_138_1">
+              <volume_title>Technical description of version 4.0 of the Community Land Model (NCAR Tech. Note NCAR/TN‐478+STR)</volume_title>
+              <author>Oleson K. W.</author>
+              <cYear>2010</cYear>
+            </citation>
+            <citation key="e_1_2_9_139_1">
+              <doi>10.1029/2007JG000563</doi>
+            </citation>
+            <citation key="e_1_2_9_140_1">
+              <doi>10.1002/2015MS000526</doi>
+            </citation>
+            <citation key="e_1_2_9_141_1">
+              <doi>10.1016/j.agrformet.2017.11.012</doi>
+            </citation>
+            <citation key="e_1_2_9_142_1">
+              <doi>10.1029/2008GB003435</doi>
+            </citation>
+            <citation key="e_1_2_9_143_1">
+              <doi>10.1111/nph.12390</doi>
+            </citation>
+            <citation key="e_1_2_9_144_1">
+              <doi>10.1175/BAMS-D-13-00263.1</doi>
+            </citation>
+            <citation key="e_1_2_9_145_1">
+              <doi>10.1146/annurev.ecolsys.37.091305.110039</doi>
+            </citation>
+            <citation key="e_1_2_9_146_1">
+              <doi>10.5194/bg-8-1925-2011</doi>
+            </citation>
+            <citation key="e_1_2_9_147_1">
+              <doi>10.1007/s003820100153</doi>
+            </citation>
+            <citation key="e_1_2_9_148_1">
+              <doi>10.1111/nph.14283</doi>
+            </citation>
+            <citation key="e_1_2_9_149_1">
+              <doi>10.1007/s00382-008-0445-z</doi>
+            </citation>
+            <citation key="e_1_2_9_150_1">
+              <doi>10.1029/2008JD010834</doi>
+            </citation>
+            <citation key="e_1_2_9_151_1">
+              <doi>10.1016/j.rse.2015.07.005</doi>
+            </citation>
+            <citation key="e_1_2_9_152_1">
+              <doi>10.1016/j.agrformet.2014.01.011</doi>
+            </citation>
+            <citation key="e_1_2_9_153_1">
+              <doi>10.1007/s00704-013-0860-x</doi>
+            </citation>
+            <citation key="e_1_2_9_154_1">
+              <doi>10.1002/2016JD025094</doi>
+            </citation>
+            <citation key="e_1_2_9_155_1">
+              <doi>10.1038/nature14338</doi>
+            </citation>
+            <citation key="e_1_2_9_156_1">
+              <doi>10.1111/gcb.13131</doi>
+            </citation>
+            <citation key="e_1_2_9_157_1">
+              <doi>10.1029/2011JG001708</doi>
+            </citation>
+            <citation key="e_1_2_9_158_1">
+              <doi>10.5194/tc-11-989-2017</doi>
+            </citation>
+            <citation key="e_1_2_9_159_1">
+              <doi>10.1029/2002WR001281</doi>
+            </citation>
+            <citation key="e_1_2_9_160_1">
+              <doi>10.1175/2010JHM1202.1</doi>
+            </citation>
+            <citation key="e_1_2_9_161_1">
+              <journal_title>Journal of Advances in Modeling Earth Systems</journal_title>
+              <author>Subin Z. M.</author>
+              <volume>4</volume>
+              <issue>1</issue>
+              <cYear>2012</cYear>
+              <article_title>An improved lake model for climate simulations: Model structure, evaluation, and sensitivity analyses in CESM1</article_title>
+            </citation>
+            <citation key="e_1_2_9_162_1">
+              <doi>10.1002/2014JD022314</doi>
+            </citation>
+            <citation key="e_1_2_9_163_1">
+              <doi>10.1002/2015WR017582</doi>
+            </citation>
+            <citation key="e_1_2_9_164_1">
+              <doi>10.1029/2018MS001476</doi>
+            </citation>
+            <citation key="e_1_2_9_165_1">
+              <doi>10.1029/2012JD018178</doi>
+            </citation>
+            <citation key="e_1_2_9_166_1">
+              <doi>10.1029/2012MS000165</doi>
+            </citation>
+            <citation key="e_1_2_9_167_1">
+              <doi>10.1111/nph.14872</doi>
+            </citation>
+            <citation key="e_1_2_9_168_1">
+              <doi>10.1029/2006GL028178</doi>
+            </citation>
+            <citation key="e_1_2_9_169_1">
+              <doi>10.1002/2016JD025740</doi>
+            </citation>
+            <citation key="e_1_2_9_170_1">
+              <doi>10.5194/bg-10-3869-2013</doi>
+            </citation>
+            <citation key="e_1_2_9_171_1">
+              <doi>10.1111/gcb.12281</doi>
+            </citation>
+            <citation key="e_1_2_9_172_1">
+              <doi>10.5194/bg-7-1991-2010</doi>
+            </citation>
+            <citation key="e_1_2_9_173_1">
+              <doi>10.1029/2006GB002868</doi>
+            </citation>
+            <citation key="e_1_2_9_174_1">
+              <doi>10.1016/j.ecolmodel.2005.04.008</doi>
+            </citation>
+            <citation key="e_1_2_9_175_1">
+              <doi>10.5194/tc-10-2379-2016</doi>
+            </citation>
+            <citation key="e_1_2_9_176_1">
+              <doi>10.1029/2018GL078131</doi>
+            </citation>
+            <citation key="e_1_2_9_177_1">
+              <doi>10.3390/rs10101609</doi>
+            </citation>
+            <citation key="e_1_2_9_178_1">
+              <doi>10.5194/acp-10-1491-2010</doi>
+            </citation>
+            <citation key="e_1_2_9_179_1">
+              <doi>10.5194/gmd-9-2809-2016</doi>
+            </citation>
+            <citation key="e_1_2_9_180_1">
+              <doi>10.1002/2017MS000988</doi>
+            </citation>
+            <citation key="e_1_2_9_181_1">
+              <doi>10.1111/j.1461-0248.2012.01775.x</doi>
+            </citation>
+            <citation key="e_1_2_9_182_1">
+              <doi>10.1098/rstb.2013.0119</doi>
+            </citation>
+            <citation key="e_1_2_9_183_1">
+              <doi>10.1007/BF00508898</doi>
+            </citation>
+            <citation key="e_1_2_9_184_1">
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <author>Walker A. P.</author>
+              <first_page>937</first_page>
+              <volume>119</volume>
+              <issue>5</issue>
+              <cYear>2014</cYear>
+              <article_title>Comprehensive ecosystem model‐data synthesis using multiple data sets at two temperate forest free‐air CO2 enrichment experiments: Model performance at ambient CO2 concentration: FACE MODEL‐DATA SYNTHESIS</article_title>
+            </citation>
+            <citation key="e_1_2_9_185_1">
+              <doi>10.5194/gmd-11-3159-2018</doi>
+            </citation>
+            <citation key="e_1_2_9_186_1">
+              <doi>10.1007/s00376-009-8098-3</doi>
+            </citation>
+            <citation key="e_1_2_9_187_1">
+              <doi>10.1002/2014WR015638</doi>
+            </citation>
+            <citation key="e_1_2_9_188_1">
+              <doi>10.1175/2011JHM1369.1</doi>
+            </citation>
+            <citation key="e_1_2_9_189_1">
+              <doi>10.1088/1748-9326/10/4/044016</doi>
+            </citation>
+            <citation key="e_1_2_9_190_1">
+              <doi>10.1029/2018GB006141</doi>
+            </citation>
+            <citation key="e_1_2_9_191_1">
+              <doi>10.1371/journal.pone.0037914</doi>
+            </citation>
+            <citation key="e_1_2_9_192_1">
+              <doi>10.1175/2008MWR2281.1</doi>
+            </citation>
+            <citation key="e_1_2_9_193_1">
+              <doi>10.1029/2009GB003521</doi>
+            </citation>
+            <citation key="e_1_2_9_194_1">
+              <doi>10.1111/nph.12697</doi>
+            </citation>
+            <citation key="e_1_2_9_195_1">
+              <doi>10.1175/1525-7541(2001)002&lt;0525:GVRDFL&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="e_1_2_9_196_1">
+              <doi>10.1175/2008JHM1011.1</doi>
+            </citation>
+            <citation key="e_1_2_9_197_1">
+              <doi>10.1002/2013JD021329</doi>
+            </citation>
+            <citation key="e_1_2_9_198_1">
+              <doi>10.1016/j.rse.2018.06.033</doi>
+            </citation>
+            <citation key="e_1_2_9_199_1">
+              <doi>10.1175/JHM-D-15-0218.1</doi>
+            </citation>
+            <citation key="e_1_2_9_200_1">
+              <doi>10.1016/j.rse.2004.12.011</doi>
+            </citation>
+            <citation key="e_1_2_9_201_1">
+              <doi>10.5194/bg-13-341-2016</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

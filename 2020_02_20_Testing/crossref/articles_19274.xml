@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-14 05:50:00">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>16</volume>
+          </journal_volume>
+          <issue>20</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Are atmospheric updrafts a key to unlocking climate forcing and
+sensitivity?</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Leo J.</given_name>
+              <surname>Donner</surname>
+              <ORCID>https://orcid.org/0000-0002-1487-7300</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Travis A.</given_name>
+              <surname>O&amp;amp;apos;Brien</surname>
+              <ORCID>https://orcid.org/0000-0002-6643-1175</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel</given_name>
+              <surname>Rieger</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bernhard</given_name>
+              <surname>Vogel</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>William F.</given_name>
+              <surname>Cooke</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Both climate forcing and climate sensitivity persist as stubborn uncertainties limiting the extent to which climate models can provide actionable scientific scenarios for climate change. A key, explicit control on cloud–aerosol interactions, the largest uncertainty in climate forcing, is the vertical velocity of cloud-scale updrafts. Model-based studies of climate sensitivity indicate that convective entrainment, which is closely related to updraft speeds, is an important control on climate sensitivity. Updraft vertical velocities also drive many physical processes essential to numerical weather prediction.<br><br>Vertical velocities and their role in atmospheric physical processes have been given very limited attention in models for climate and numerical weather prediction. The relevant physical scales range down to tens of meters and are thus frequently sub-grid and require parameterization. Many state-of-science convection parameterizations provide mass fluxes without specifying vertical velocities, and parameterizations that do provide vertical velocities have been subject to limited evaluation against what have until recently been scant observations. Atmospheric observations imply that the distribution of vertical velocities depends on the areas over which the vertical velocities are averaged. Distributions of vertical velocities in climate models may capture this behavior, but it has not been accounted for when parameterizing cloud and precipitation processes in current models.<br><br>New observations of convective vertical velocities offer a potentially promising path toward developing process-level cloud models and parameterizations for climate and numerical weather prediction. Taking account of the scale dependence of resolved vertical velocities offers a path to matching cloud-scale physical processes and their driving dynamics more realistically, with a prospect of reduced uncertainty in both climate forcing and sensitivity.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>20</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>12983</first_page>
+            <last_page>12992</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Science
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100006132</assertion>
+              </assertion>
+              <assertion name="award_number">DE-SC0004534-NOAA</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-16-12983-2016</doi>
+            <resource>https://www.atmos-chem-phys.net/16/12983/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/16/12983/2016/acp-16-12983-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1002/jame.20018</doi>
+              <unstructured_citation>Bogenschutz, P. and Krueger, S.: A simplified PDF parameterization of sub-grid scale clouds and turbulence for cloud-resolving models, J. Adv. Model. Earth Syst., 5, 195–211, https://doi.org/10.1002/jame.20018, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;0864:ANPFSC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bretherton, C., McCaa, J., and Grenier, H.: A new parameterization for shallow cumulus parameterization and its application to marine subtropical cloud-topped boundary layers, Mon. Weather Rev., 132, 864–882, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/2010JAS3316.1</doi>
+              <unstructured_citation>Chikira, M. and Sugiyama, M.: A cumulus parameterization with state-dependent entrainment rate. Part I: Description and sensitivity to temperature and humidity profiles, J. Atmos. Sci., 67, 2171–2193, https://doi.org/10.1175/2010JAS3316.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2000JD900814</doi>
+              <unstructured_citation>Cho, J. and Lindborg, E.: Horizontal velocity structure functions in the upper troposphere and lower stratosphere. 1. Observations, J. Geophys. Res., 106, 10223–10232, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/JAMC-D-12-0230.1</doi>
+              <unstructured_citation>Collis, S., Protat, A., May, P., and Williams, C.: Statistics of storm updraft velocities from TWP-ICE including verification with profiling measurements, J. Appl. Meteor. Climatol., 52, 1909–1922, https://doi.org/10.1175/JAMC-D-12-0230.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/qj.49712556013</doi>
+              <unstructured_citation>Cusack, S., Edwards, J., and Kershaw, R.: Estimating the subgrid variance of saturation, and its parameterization for use in a GCM cloud scheme, Q. J. Roy. Meteor. Soc., 125, 3057–3076, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/qj.1959</doi>
+              <unstructured_citation>de Rooy, W., Bechtold, P., Fröhlich, K., Hohenegger, C., Jonker, H., Mironov, D., Siebesma, A., Teixeira, J., and Yano, J.-I.: Entrainment and detrainment in cumulus convection: an overview, Q. J. Roy. Meteor. Soc., 139, 1–19, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/1520-0469(1993)050&lt;0889:ACPIMF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Donner, L.: A cumulus parameterization including mass fluxes, vertical momentum dynamics, and mesoscale effects, J. Atmos. Sci., 50, 889–906, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/2011JCLI3955.1</doi>
+              <unstructured_citation>Donner, L. J., Wyman, B., Hemler, R., et al.: The dynamical core, physical parameterizations, and basic simulation characteristics of the atmospheric component of the GFDL global coupled model CM3, J. Climate, 24, 3484–3519, https://doi.org/10.1175/2011JCLI3955.1., 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>European Centre for Medium-Range Weather Forecasts: WCRP and WWRP THORPEX YOTC (Year of Tropical Convection) Project, Single Parameter 6-Hourly Pressure Level Analysis Time Series, Transformed to a Regular 1600 by 800 (N400) Gaussian Grid, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/2014JD022142</doi>
+              <unstructured_citation>Fan, J., Liu, Y.-C., Xu, K.-M., North, K., Collis, S., Dong, X., Zhang, G., Chen, Q., Kollias, P., and Ghan, S. J.: Improving representation of convective transport for scale-aware parameterization: 1. Convection and cloud properties simulated with spectral bin and bulk microphysics, J. Geophys. Res.-Atmos., 120, 3485–3509, https://doi.org/10.1002/2014JD022142, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2003GL017967</doi>
+              <unstructured_citation>Feingold, G.: Modeling of the first indirect effect: Analysis of measurement requirements, Geophys. Res. Lett., 30, 1997, https://doi.org/10.1029/2003GL017967, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1002/jgrd.50174</doi>
+              <unstructured_citation>Forster, P. M., Andrews, T., Good, P., Gregory, J., Jackson, L., and Zelinka, M.: Evaluating adjusted forcing and model spread for historical and future scenarios in the CMIP5 generation of climate models, J. Geophys. Res. Atmos., 118, 1139–1150,https://doi.org/10.1002/jgrd.50174, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;3540:APBMFB&gt;2.0.CO;2</doi>
+              <unstructured_citation>Golaz, J.-C., Larson, V., and Cotton, W.: A PDF based model for boundary layer clouds. Part I: Method and model description, J. Atmos. Sci., 59, 3540–3551, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1088/1748-9326/3/4/045020</doi>
+              <unstructured_citation>Guo, H., Liu, Y., Daum, P., Senum, G., and Tao, W.-K.: Characteristics of vertical velocity in marine stratocumulus: comparison of large eddy simulaitons with observations, Environ. Res. Lett., 3, 045020, https://doi.org/10.1088/1748-9326/3/4/045020, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2007GL032628</doi>
+              <unstructured_citation>Kay, J. and Wood, R.: Timescale analysis of aerosol sensitivity during homogeneous freezing and implications for upper tropospheric water vapor budgets, Geophys. Res. Lett., 35, L10809, https://doi.org/10.1029/2007GL032628, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2007GL031383</doi>
+              <unstructured_citation>Kiehl, J. T.: Twentieth century climate model response and climate sensitivity, Geophys. Res. Lett., 34, L22710, https://doi.org/10.1029/2007GL031383, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/2011JCLI4193.1</doi>
+              <unstructured_citation>Klocke, D., Pincus, R., and Quaas, J.: On constraining estimates of climate sensitivity with present-day observations through model weighting, J. Climate, 24, 6092–6099, https://doi.org/10.1175/2011JCLI4193.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/JAS-D-15-0050.1</doi>
+              <unstructured_citation>Lu, C., Liu, Y., Zhang, G., Wu, X., Endo, S., Cao, L., Li, Y., and Guo, X.: Improving parameterization of entrainment rate for shallow convection with aircraft measurements and large-eddy simulation, J. Atmos. Sci., 73, 761–773, https://doi.org/10.1175/JAS-D-15.0050.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1002/2015GL064183</doi>
+              <unstructured_citation>Ma, P.-L., Rasch, P., Wang, M., Wang, H., Ghan, S., Easter, R., Gustafson, W., Liu, X., Zhang, Y., and Ma, H.-Y.: How does increasing horizontal resolution in a global climate model improve the simulation of aerosol-cloud interactions?, Geophys. Res. Lett., 42, 5058–5065, https://doi.org/10.1002/2015GL064183, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-6-2593-2006</doi>
+              <unstructured_citation>McFiggans, G., Artaxo, P., Baltensperger, U., Coe, H., Facchini, M. C., Feingold, G., Fuzzi, S., Gysel, M., Laaksonen, A., Lohmann, U., Mentel, T. F., Murphy, D. M., O'Dowd, C. D., Snider, J. R., and Weingartner, E.: The effect of physical and chemical aerosol properties on warm cloud droplet activation, Atmos. Chem. Phys., 6, 2593–2649, https://doi.org/10.5194/acp-6-2593-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/grl.50944</doi>
+              <unstructured_citation>Miyamoto, Y., Kajikawa, Y., Yoshida, R., Yamaura, T., Yashiro, H., and Tomita, H.: Deep moist atmospheric convection in a subkilometer global simulation, Geophys. Res. Lett., 40, 4922–4926, https://doi.org/10.1002/grl.50944, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/2016MS000671</doi>
+              <unstructured_citation>O'Brien, T., Collins, W., Kashinath, K., Rubel, O., Byna, S., Gu, J., Krishnan, H., and Ullrich, P.: Resolution dependence of precipitation statistical fidelity in hindcast simulations, J. Adv. Model. Earth Syst., 8, 976–990, https://doi.org/10.1002/2016MS000671, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JAS3705.1</doi>
+              <unstructured_citation>Pauluis, O. and Garner, S.: Sensitivity of radiative-convective equilibrium solutions to horizontal resolution, J. Atmos. Sci., 63, 1910–1923, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1007/s00382-015-2959-5</doi>
+              <unstructured_citation>Rauscher, S., O'Brien, T., Piani, C., Coppola, E., Giorgi, F., Collins, W., and Lawston, P.: A multi-model intercomparison of resolution effects on precipitation: Simulations and theory, Clim. Dynam., 47, 2205–2218, https://doi.org/10.1007/s00382-015-2959-5, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.5194/gmd-8-1659-2015</doi>
+              <unstructured_citation>Rieger, D., Bangert, M., Bischoff-Gauss, I., Förstner, J., Lundgren, K., Reinert, D., Schröter, J., Vogel, H., Zängl, G., Ruhnke, R., and Vogel, B.: ICON–ART 1.0 – a new online-coupled model system from the global to regional scale, Geosci. Model Dev., 8, 1659–1676, https://doi.org/10.5194/gmd-8-1659-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Rosenfeld, D., Wood, R., Donner, L., and Sherwood, S.: Aerosol cloud-mediated radiative forcing: Highly uncertain and opposite effects from shallow and deep clouds, in: Climate Science for Serving Society: Research, Modeling, and Prediction Priorities, Springer, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1126/science.1247490</doi>
+              <unstructured_citation>Rosenfeld, D., Sherwood, S., Wood, R., and Donner, L.: Climate effects of aerosol-cloud interactions, Science, 343, 379–380, https://doi.org/10.1126/science.1247490, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1175/2008JCLI2533.1</doi>
+              <unstructured_citation>Rougier, J., Sexton, D., Murphy, J., and Stainforth, D.: Analyzing the climate sensitivity of the HadSM3 climate model using ensembles from different but related experiments, J. Climate, 22, 3540–3557, https://doi.org/10.1175/2008JCLI2533.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1007/s00382-009-0661-1</doi>
+              <unstructured_citation>Sanderson, B., Shell, K., and Ingram, W.: Climate feedbacks determined using radiative kernels in a multi-thousand member ensemble of AOGCMs, Clim. Dynam., 35, 1219–1236, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1038/nature12829</doi>
+              <unstructured_citation>Sherwood, S., Bony, S., and Dufresne, J.-L.: Spread in model climate sensitivity traced to atmospheric convective mixing, Nature, 505, 37–42, https://doi.org/10.1038/nature12829, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1038/nature03301</doi>
+              <unstructured_citation>Stainforth, D., Alna, T., Christensen, C., Collins, M., Faull, N., Frame, D., Kettleborough, J., Knight, S., Martin, A., Murphy, J. M., Piani, C., Sexton, D., Smith, L. A., Spicer, R. A., Thorpe, A. J., and Allen, M. R.: Uncertainty in predictions of the climate response to rising levels of greenhouse gases, Nature, 433, 403–406, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/JCLI-D-14-00656.1</doi>
+              <unstructured_citation>Stevens, B.: Rethinking the lower bound on aerosol radiative forcing, J. Climate, 28, 4794–4819, https://doi.org/10.1175/JCLI-D-14-00656.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Stocker, T., Qin, D., Plattner, G.-K., Tignor, M., Allen, S., Boschung, J., Nausels, A., Xia, Y., Bex, V., and Midgley, P. M.: Summary for policymakers, Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, Cambridge/New York, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1002/2014JD021642</doi>
+              <unstructured_citation>Su, H., Jiang, J., Zhai, C., Shen, J., Neelin, J., Stephens, G., and Yung, Y.: Weakening and strengthening structures in the Hadley Circulation change under global warming and implications for cloud response and climate sensitivity, J. Geophys. Res., 119, 5787–5805, https://doi.org/10.1002/2014JD021642, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1002/2013JD021371</doi>
+              <unstructured_citation>Varble, A., Zipser, E., Fridland, A., Zhu, P., Ackerman, A., Chaboureau, J.-P., Collis, S., Fan, J., Hill, A., and Shipway, B.: Evaluation of cloud-resolving and limited area model intercomparison simulations using TWP-ICE observations. 1. Deep convective updraft properties, J. Geophys. Res.-Atmos., 119, 13,891–13,918,https://doi.org/10.1002/2013JD021371, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/acp-11-5431-2011</doi>
+              <unstructured_citation>Wang, M., Ghan, S., Ovchinnikov, M., Liu, X., Easter, R., Kassianov, E., Qian, Y., and Morrison, H.: Aerosol indirect effects in a multi-scale aerosol-climate model PNNL-MMF, Atmos. Chem. Phys., 11, 5431–5455, https://doi.org/10.5194/acp-11-5431-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1002/qj.2378</doi>
+              <unstructured_citation>Zängl, G., Reinert, D., Rípodas, P., and Baldauf, M.: The ICON (ICOsahedral Non-hydrostatic) modeling framework of DWD and MPI-M: Description of the non-hydrostatic dynamical core, Q. J. Roy. Meteor. Soc., 141, 563–579, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/JCLI-D-11-00248.1</doi>
+              <unstructured_citation>Zelinka, M., Klein, S., and Hartmann, D.: Computing and partitioning cloud feedbacks using cloud property histograms: Part I. Cloud radiative kernels, J. Climate, 25, 3715–3735, https://doi.org/10.1175/JCLI-D-11-00248.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1007/s00382-015-2957-7</doi>
+              <unstructured_citation>Zhang, G., Wu, X., Zeng, X., and Mitovski, T.: Estimation of convective entrainment properties from a cloud-resolving model simulation during TWP-ICE, Clim. Dynam., 45, 2177–2192, https://doi.org/10.1007/s00382-015-2957-7, 2016a.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-16-2765-2016</doi>
+              <unstructured_citation>Zhang, S., Wang, M., Ghan, S. J., Ding, A., Wang, H., Zhang, K., Neubauer, D., Lohmann, U., Ferrachat, S., Takeamura, T., Gettelman, A., Morrison, H., Lee, Y., Shindell, D. T., Partridge, D. G., Stier, P., Kipling, Z., and Fu, C.: On the characteristics of aerosol indirect effect based on dynamic regimes in global climate models, Atmos. Chem. Phys., 16, 2765–2783, https://doi.org/10.5194/acp-16-2765-2016, 2016b.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/JCLI-D-13-00145.1</doi>
+              <unstructured_citation>Zhao, M.: An investigation of the connections among convection, clouds, and climate sensitivity in a global climate model, J. Climate, 27, 1845–1862, https://doi.org/10.1175/JCLI–D–13–00145.1, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/acp-16-12983-2016-supplement</doi>
+                <resource>https://www.atmos-chem-phys.net/16/12983/2016/acp-16-12983-2016-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-07-15 03:01:33">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>12</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A simplified parameterization of isoprene-epoxydiol-derived secondary organic aerosol (IEPOX-SOA) for global chemistry and climate models: a case study with GEOS-Chem v11-02-rc</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Duseong S.</given_name>
+              <surname>Jo</surname>
+              <ORCID>https://orcid.org/0000-0002-7794-1277</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alma</given_name>
+              <surname>Hodzic</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Louisa K.</given_name>
+              <surname>Emmons</surname>
+              <ORCID>https://orcid.org/0000-0003-2325-6212</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eloise A.</given_name>
+              <surname>Marais</surname>
+              <ORCID>https://orcid.org/0000-0001-5477-8051</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zhe</given_name>
+              <surname>Peng</surname>
+              <ORCID>https://orcid.org/0000-0002-6823-452X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Benjamin A.</given_name>
+              <surname>Nault</surname>
+              <ORCID>https://orcid.org/0000-0001-9464-4787</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Weiwei</given_name>
+              <surname>Hu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pedro</given_name>
+              <surname>Campuzano-Jost</surname>
+              <ORCID>https://orcid.org/0000-0003-3930-010X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jose L.</given_name>
+              <surname>Jimenez</surname>
+              <ORCID>https://orcid.org/0000-0001-6203-1847</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Secondary organic aerosol derived from isoprene
+epoxydiols (IEPOX-SOA) is thought to contribute the dominant fraction of
+total isoprene SOA, but the current volatility-based lumped SOA
+parameterizations are not appropriate to represent the reactive uptake of
+IEPOX onto acidified aerosols. A full explicit modeling of this chemistry
+is however computationally expensive owing to the many species and reactions
+tracked, which makes it difficult to include it in chemistry–climate models
+for long-term studies. Here we present three simplified parameterizations
+(version 1.0) for IEPOX-SOA simulation, based on an approximate
+analytical/fitting solution of the IEPOX-SOA yield and formation timescale.
+The yield and timescale can then be directly calculated using the global
+model fields of oxidants, NO, aerosol pH and other key properties, and dry
+deposition rates. The advantage of the proposed parameterizations is that
+they do not require the simulation of the intermediates while retaining the
+key physicochemical dependencies. We have implemented the new
+parameterizations into the GEOS-Chem v11-02-rc chemical transport model,
+which has two empirical treatments for isoprene SOA (the volatility-basis-set, VBS, approach and a fixed 3&amp;thinsp;% yield parameterization), and compared
+all of them to the case with detailed fully explicit chemistry. The best
+parameterization (PAR3) captures the global tropospheric burden of IEPOX-SOA
+and its spatiotemporal distribution (<span class="inline-formula"><i>R</i><sup>2</sup>=0.94</span>) vs. those
+simulated by the full chemistry, while being more computationally efficient
+(<span class="inline-formula">∼5</span> times faster), and accurately captures the response to
+changes in <span class="inline-formula">NO<sub><i>x</i></sub></span> and <span class="inline-formula">SO<sub>2</sub></span> emissions. On the other hand, the constant
+3&amp;thinsp;% yield that is now the default in GEOS-Chem deviates strongly (<span class="inline-formula"><i>R</i><sup>2</sup>=0.66</span>), as does the VBS (<span class="inline-formula"><i>R</i><sup>2</sup>=0.47</span>, 49&amp;thinsp;% underestimation), with
+neither parameterization capturing the response to emission changes. With
+the advent of new mass spectrometry instrumentation, many detailed SOA
+mechanisms are being developed, which will challenge global and especially
+climate models with their computational cost. The methods developed in this
+study can be applied to other SOA pathways, which can allow including
+accurate SOA simulations in climate and global modeling studies in the
+future.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>07</month>
+            <day>15</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>2983</first_page>
+            <last_page>3000</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier" provider="crossref">501100008982</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1822664</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Science
+                <assertion name="funder_identifier" provider="crossref">100006132</assertion>
+              </assertion>
+              <assertion name="award_number">DE-SC0016559</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Oceanic and Atmospheric Administration
+                <assertion name="funder_identifier" provider="crossref">100000192</assertion>
+              </assertion>
+              <assertion name="award_number">NA18OAR4310113</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Environmental Protection Agency
+                <assertion name="funder_identifier" provider="crossref">100000139</assertion>
+              </assertion>
+              <assertion name="award_number">STAR 83587701-0</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Research Council
+                <assertion name="funder_identifier" provider="crossref">100010663</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-12-2983-2019</doi>
+            <resource>https://www.geosci-model-dev.net/12/2983/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/12/2983/2019/gmd-12-2983-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.5194/acp-15-10669-2015</doi>
+              <unstructured_citation>Allen, H. M., Draper, D. C., Ayres, B. R., Ault, A., Bondy, A., Takahama, S., Modini, R. L., Baumann, K., Edgerton, E., Knote, C., Laskin, A., Wang, B., and Fry, J. L.: Influence of crustal dust and sea spray supermicron particle concentrations and acidity on inorganic NO3- aerosol during the 2013 Southern Oxidant and Aerosol Study, Atmos. Chem. Phys., 15, 10669–10685, https://doi.org/10.5194/acp-15-10669-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/acp-2019-328</doi>
+              <unstructured_citation>Bates, K. H. and Jacob, D. J.: A new model mechanism for atmospheric oxidation of isoprene: global effects on oxidants, nitrogen oxides, organic products, and secondary organic aerosol, Atmos. Chem. Phys. Discuss., https://doi.org/10.5194/acp-2019-328, in review, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1021/jp4107958</doi>
+              <unstructured_citation>Bates, K. H., Crounse, J. D., St. Clair, J. M., Bennett, N. B., Nguyen, T.
+B., Seinfeld, J. H., Stoltz, B. M., and Wennberg, P. O.: Gas phase production
+and loss of isoprene epoxydiols, J. Phys. Chem. A, 118, 1237–1246,
+https://doi.org/10.1021/jp4107958, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2001JD000807</doi>
+              <unstructured_citation>Bey, I., Jacob, D. J., Yantosca, R. M., Logan, J. A., Field, B. D., Fiore,
+A. M., Li, Q.-B., Liu, H.-Y., Mickley, L. J., and Schultz, M. G.: Global
+Modeling of Tropospheric Chemistry with Assimilated Meteorology: Model
+Description and Evaluation, J. Geophys. Res., 106, 73–95,
+https://doi.org/10.1029/2001JD000807, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/acp-18-12595-2018</doi>
+              <unstructured_citation>Bondy, A. L., Bonanno, D., Moffet, R. C., Wang, B., Laskin, A., and Ault, A. P.: The diverse chemical mixing state of aerosol particles in the southeastern United States, Atmos. Chem. Phys., 18, 12595–12612, https://doi.org/10.5194/acp-18-12595-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1021/acs.est.6b05750</doi>
+              <unstructured_citation>Budisulistiorini, S. H., Nenes, A., Carlton, A. G., Surratt, J. D., McNeill,
+V. F., and Pye, H. O. T.: Simulating Aqueous-Phase Isoprene-Epoxydiol (IEPOX)
+Secondary Organic Aerosol Production during the 2013 Southern Oxidant and
+Aerosol Study (SOAS), Environ. Sci. Technol., 51, 5026–5034,
+https://doi.org/10.1021/acs.est.6b05750, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/acp-9-4987-2009</doi>
+              <unstructured_citation>Carlton, A. G., Wiedinmyer, C., and Kroll, J. H.: A review of Secondary Organic Aerosol (SOA) formation from isoprene, Atmos. Chem. Phys., 9, 4987–5005, https://doi.org/10.5194/acp-9-4987-2009, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/BAMS-D-16-0048.1</doi>
+              <unstructured_citation>Carlton, A. G., de Gouw, J., Jimenez, J. L., Ambrose, J. L., Attwood, A. R.,
+Brown, S., Baker, K. R., Brock, C., Cohen, R. C., Edgerton, S., Farkas, C.
+M., Farmer, D., Goldstein, A. H., Gratz, L., Guenther, A., Hunt, S.,
+Jaeglé, L., Jaffe, D. A., Mak, J., McClure, C., Nenes, A., Nguyen, T.
+K., Pierce, J. R., de Sa, S., Selin, N. E., Shah, V., Shaw, S., Shepson, P.
+B., Song, S., Stutz, J., Surratt, J. D., Turpin, B. J., Warneke, C.,
+Washenfelder, R. A., Wennberg, P. O., and Zhou, X.: Synthesis of the
+Southeast Atmosphere Studies: Investigating Fundamental Atmospheric
+Chemistry Questions, B. Am. Meteorol. Soc., 99, 547–567,
+https://doi.org/10.1175/BAMS-D-16-0048.1, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1016/j.atmosenv.2006.09.048</doi>
+              <unstructured_citation>Fairlie, T. D., Jacob, D. J., and Park, R. J.: The impact of transpacific
+transport of mineral dust in the United States, Atmos. Environ., 41,
+1251–1266, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/acp-7-4639-2007</doi>
+              <unstructured_citation>Fountoukis, C. and Nenes, A.: ISORROPIA II: a computationally efficient
+thermodynamic equilibrium model for
+K+–Ca2+–Mg2+–NH4+–Na+–SO42-–NO3-–Cl−–H2O
+aerosols, Atmos. Chem. Phys., 7, 4639–4659,
+https://doi.org/10.5194/acp-7-4639-2007, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1029/2007JD009505</doi>
+              <unstructured_citation>Fu, T., Jacob, D. J., Wittrock, F., Burrows, J. P., Vrekoussis, M., and
+Henze, D. K.: Global budgets of atmospheric glyoxal and methylglyoxal, and
+implications for formation of secondary organic aerosols, J. Geophys. Res.,
+113, D15303, https://doi.org/10.1029/2007JD009505, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1021/es5034266</doi>
+              <unstructured_citation>Gaston, C. J., Riedel, T. P., Zhang, Z., Gold, A., Surratt, J. D., and
+Thornton, J. A.: Reactive uptake of an isoprene-derived epoxydiol to
+submicron aerosol particles, Environ. Sci. Technol., 48, 11178–11186,
+2014a. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-14-5693-2014</doi>
+              <unstructured_citation>Gaston, C. J., Thornton, J. A., and Ng, N. L.: Reactive uptake of N2O5 to internally mixed inorganic and organic particles: the role of organic carbon oxidation state and inferred organic phase separations, Atmos. Chem. Phys., 14, 5693–5707, https://doi.org/10.5194/acp-14-5693-2014, 2014b. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1002/2016JD025311</doi>
+              <unstructured_citation>Guo, H., Sullivan, A. P., Campuzano-Jost, P., Schroder, J. C.,
+Lopez-Hilfiker, F. D., Dibb, J. E., Jimenez, J. L., Thornton, J. A., Brown,
+S. S., Nenes, A., and Weber, R. J.: Fine particle pH and the partitioning of
+nitric acid during winter in the northeastern United States, J. Geophys.
+Res., 121, 10355–10376, https://doi.org/10.1002/2016JD025311, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1021/es103944a</doi>
+              <unstructured_citation>Hatch, L. E., Creamean, J. M., Ault, A. P., Surratt, J. D., Chan, M. N.,
+Seinfeld, J. H., Edgerton, E. S., Su, Y., and Prather, K. A.: Measurements of
+Isoprene-Derived Organosulfates in Ambient Aerosols by Aerosol
+Time-of-Flight Mass Spectrometry – Part 1: Single Particle Atmospheric
+Observations in Atlanta, Environ. Sci. Technol., 45, 5105–5111,
+https://doi.org/10.1021/es103944a, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/gmd-4-901-2011</doi>
+              <unstructured_citation>Hodzic, A. and Jimenez, J. L.: Modeling anthropogenically controlled secondary organic aerosols in a megacity: a simplified framework for global and climate models, Geosci. Model Dev., 4, 901–917, https://doi.org/10.5194/gmd-4-901-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/acp-16-11563-2016</doi>
+              <unstructured_citation>Hu, W., Palm, B. B., Day, D. A., Campuzano-Jost, P., Krechmer, J. E., Peng, Z., de Sá, S. S., Martin, S. T., Alexander, M. L., Baumann, K., Hacker, L., Kiendler-Scharr, A., Koss, A. R., de Gouw, J. A., Goldstein, A. H., Seco, R., Sjostedt, S. J., Park, J.-H., Guenther, A. B., Kim, S., Canonaco, F., Prévôt, A. S. H., Brune, W. H., and Jimenez, J. L.: Volatility and lifetime against OH heterogeneous reaction of ambient isoprene-epoxydiols-derived secondary organic aerosol (IEPOX-SOA), Atmos. Chem. Phys., 16, 11563–11580, https://doi.org/10.5194/acp-16-11563-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/acp-15-11807-2015</doi>
+              <unstructured_citation>Hu, W. W., Campuzano-Jost, P., Palm, B. B., Day, D. A., Ortega, A. M., Hayes, P. L., Krechmer, J. E., Chen, Q., Kuwata, M., Liu, Y. J., de Sá, S. S., McKinney, K., Martin, S. T., Hu, M., Budisulistiorini, S. H., Riva, M., Surratt, J. D., St. Clair, J. M., Isaacman-Van Wertz, G., Yee, L. D., Goldstein, A. H., Carbone, S., Brito, J., Artaxo, P., de Gouw, J. A., Koss, A., Wisthaler, A., Mikoviny, T., Karl, T., Kaser, L., Jud, W., Hansel, A., Docherty, K. S., Alexander, M. L., Robinson, N. H., Coe, H., Allan, J. D., Canagaratna, M. R., Paulot, F., and Jimenez, J. L.: Characterization of a real-time tracer for isoprene epoxydiols-derived secondary organic aerosol (IEPOX-SOA) from aerosol mass spectrometer measurements, Atmos. Chem. Phys., 15, 11807–11833, https://doi.org/10.5194/acp-15-11807-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/acp-11-3137-2011</doi>
+              <unstructured_citation>Jaeglé, L., Quinn, P. K., Bates, T. S., Alexander, B., and Lin, J.-T.: Global distribution of sea salt aerosols: new constraints from in situ and remote sensing observations, Atmos. Chem. Phys., 11, 3137–3157, https://doi.org/10.5194/acp-11-3137-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1126/science.1180353</doi>
+              <unstructured_citation>Jimenez, J. L., Canagaratna, M. R., Donahue, N. M., Prevot, A. S. H., Zhang,
+Q., Kroll, J. H., DeCarlo, P. F., Allan, J. D., Coe, H., Ng, N. L., Aiken,
+A. C., Docherty, K. S., Ulbrich, I. M., Grieshop, A. P., Robinson, A. L.,
+Duplissy, J., Smith, J. D., Wilson, K. R., Lanz, V. A., Hueglin, C., Sun, Y.
+L., Tian, J., Laaksonen, A., Raatikainen, T., Rautiainen, J., Vaattovaara,
+P., Ehn, M., Kulmala, M., Tomlinson, J. M., Collins, D. R., Cubison, M. J.,
+Dunlea, E. J., Huffman, J. A., Onasch, T. B., Alfarra, M. R., Williams, P.
+I., Bower, K., Kondo, Y., Schneider, J., Drewnick, F., Borrmann, S., Weimer,
+S., Demerjian, K., Salcedo, D., Cottrell, L., Griffin, R., Takami, A.,
+Miyoshi, T., Hatakeyama, S., Shimono, A., Sun, J. Y., Zhang, Y. M., Dzepina,
+K., Kimmel, J. R., Sueper, D., Jayne, J. T., Herndon, S. C., Trimborn, A.
+M., Williams, L. R., Wood, E. C., Middlebrook, A. M., Kolb, C. E.,
+Baltensperger, U., and Worsnop, D. R.: Evolution of organic aerosols in the
+atmosphere, Science, 326, 1525–1529, https://doi.org/10.1126/science.1180353,
+2009. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-15-10411-2015</doi>
+              <unstructured_citation>Kim, P. S., Jacob, D. J., Fisher, J. A., Travis, K., Yu, K., Zhu, L., Yantosca, R. M., Sulprizio, M. P., Jimenez, J. L., Campuzano-Jost, P., Froyd, K. D., Liao, J., Hair, J. W., Fenn, M. A., Butler, C. F., Wagner, N. L., Gordon, T. D., Welti, A., Wennberg, P. O., Crounse, J. D., St. Clair, J. M., Teng, A. P., Millet, D. B., Schwarz, J. P., Markovic, M. Z., and Perring, A. E.: Sources, seasonality, and trends of southeast US aerosol: an integrated analysis of surface, aircraft, and satellite observations with the GEOS-Chem chemical transport model, Atmos. Chem. Phys., 15, 10411–10433, https://doi.org/10.5194/acp-15-10411-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/acp-14-6213-2014</doi>
+              <unstructured_citation>Knote, C., Hodzic, A., Jimenez, J. L., Volkamer, R., Orlando, J. J., Baidar, S., Brioude, J., Fast, J., Gentner, D. R., Goldstein, A. H., Hayes, P. L., Knighton, W. B., Oetjen, H., Setyan, A., Stark, H., Thalman, R., Tyndall, G., Washenfelder, R., Waxman, E., and Zhang, Q.: Simulation of semi-explicit mechanisms of SOA formation from glyoxal in aerosol in a 3-D model, Atmos. Chem. Phys., 14, 6213–6239, https://doi.org/10.5194/acp-14-6213-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/j.atmosenv.2014.06.031</doi>
+              <unstructured_citation>Koo, B., Knipping, E., and Yarwood, G.: 1.5-Dimensional volatility basis set
+approach for modeling organic aerosol in CAMx and CMAQ, Atmos. Environ., 95,
+158–164, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1021/acs.est.5b02031</doi>
+              <unstructured_citation>Krechmer, J. E., Coggon, M. M., Massoli, P., Nguyen, T. B., Crounse, J. D.,
+Hu, W., Day, D. A., Tyndall, G. S., Henze, D. K., Rivera-Rios, J. C., Nowak,
+J. B., Kimmel, J. R., Mauldin, R. L., Stark, H., Jayne, J. T., Sipilä,
+M., Junninen, H., St. Clair, J. M., Zhang, X., Feiner, P. A., Zhang, L.,
+Miller, D. O., Brune, W. H., Keutsch, F. N., Wennberg, P. O., Seinfeld, J.
+H., Worsnop, D. R., Jimenez, J. L., and Canagaratna, M. R.: Formation of Low
+Volatility Organic Compounds and Secondary Organic Aerosol from Isoprene
+Hydroxyhydroperoxide Low-NO Oxidation, Environ. Sci. Technol., 49,
+10330–10339, https://doi.org/10.1021/acs.est.5b02031, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-10-7017-2010</doi>
+              <unstructured_citation>Lamarque, J.-F., Bond, T. C., Eyring, V., Granier, C., Heil, A., Klimont, Z., Lee, D., Liousse, C., Mieville, A., Owen, B., Schultz, M. G., Shindell, D., Smith, S. J., Stehfest, E., Van Aardenne, J., Cooper, O. R., Kainuma, M., Mahowald, N., McConnell, J. R., Naik, V., Riahi, K., and van Vuuren, D. P.: Historical (1850–2000) gridded anthropogenic and biomass burning emissions of reactive gases and aerosols: methodology and application, Atmos. Chem. Phys., 10, 7017–7039, https://doi.org/10.5194/acp-10-7017-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1021/acs.est.6b01872</doi>
+              <unstructured_citation>Liu, J., D'Ambro, E. L., Lee, B. H., Lopez-Hilfiker, F. D., Zaveri, R. A.,
+Rivera-Rios, J. C., Keutsch, F. N., Iyer, S., Kurten, T., Zhang, Z., Gold,
+A., Surratt, J. D., Shilling, J. E., and Thornton, J. A.: Efficient Isoprene
+Secondary Organic Aerosol Formation from a Non-IEPOX Pathway, Environ. Sci.
+Technol., 50, 9872–9880, https://doi.org/10.1021/acs.est.6b01872, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/acp-18-2615-2018</doi>
+              <unstructured_citation>Mao, J., Carlton, A., Cohen, R. C., Brune, W. H., Brown, S. S., Wolfe, G. M., Jimenez, J. L., Pye, H. O. T., Lee Ng, N., Xu, L., McNeill, V. F., Tsigaridis, K., McDonald, B. C., Warneke, C., Guenther, A., Alvarado, M. J., de Gouw, J., Mickley, L. J., Leibensperger, E. M., Mathur, R., Nolte, C. G., Portmann, R. W., Unger, N., Tosca, M., and Horowitz, L. W.: Southeast Atmosphere Studies: learning from model-observation syntheses, Atmos. Chem. Phys., 18, 2615–2651, https://doi.org/10.5194/acp-18-2615-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/acp-16-1603-2016</doi>
+              <unstructured_citation>Marais, E. A., Jacob, D. J., Jimenez, J. L., Campuzano-Jost, P., Day, D. A., Hu, W., Krechmer, J., Zhu, L., Kim, P. S., Miller, C. C., Fisher, J. A., Travis, K., Yu, K., Hanisco, T. F., Wolfe, G. M., Arkinson, H. L., Pye, H. O. T., Froyd, K. D., Liao, J., and McNeill, V. F.: Aqueous-phase mechanism for secondary organic aerosol formation from isoprene: application to the southeast United States and co-benefit of SO2 emission controls, Atmos. Chem. Phys., 16, 1603–1618, https://doi.org/10.5194/acp-16-1603-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1088/1748-9326/aa69c8</doi>
+              <unstructured_citation>Marais, E. A., Jacob, D. J., Turner, J. R., and Mickley, L. J.: Evidence of
+1991–2013 decrease of biogenic secondary organic aerosol in response to SO2 emission controls, Environ. Res. Lett., 12, 54018, https://doi.org/10.1088/1748-9326/aa69c8, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2001JD000660</doi>
+              <unstructured_citation>Middlebrook, A. M., Murphy, D. M., Lee, S. H., Thomson, D. S., Prather, K.
+A., Wenzel, R. J., Liu, D. Y., Phares, D. J., Rhoads, K. P., Wexler, A. S.,
+Johnston, M. V, Jimenez, J. L., Jayne, J. T., Worsnop, D. R., Yourshaw, I.,
+Seinfeld, J. H., and Flagan, R. C.: A comparison of particle mass
+spectrometers during the 1999 Atlanta Supersite Project, J. Geophys. Res.,
+108, 8424, https://doi.org/10.1029/2001jd000660, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-19-4093-2019</doi>
+              <unstructured_citation>Murphy, D. M., Froyd, K. D., Bian, H., Brock, C. A., Dibb, J. E., DiGangi, J. P., Diskin, G., Dollner, M., Kupc, A., Scheuer, E. M., Schill, G. P., Weinzierl, B., Williamson, C. J., and Yu, P.: The distribution of sea-salt aerosol in the global troposphere, Atmos. Chem. Phys., 19, 4093–4104, https://doi.org/10.5194/acp-19-4093-2019, 2019. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Nault, B. A., Campuzano-Jost, P., Douglas Day, Hu, W., Palm, B., Schroder,
+J. C., Bahreini, R., Bian, H., Chin, M., Clegg, S. L., Colarco, P. R.,
+Crounse, J. D., Dibb, J. E., Kim, M. J., Kodros, J., Lopez-Hilfiker, F.,
+Marais, E. A., Middlebrook, A. M., Neuman, J. A., Nowak, J. B., Pierce, J.
+R., Scheuer, E. M., Thornton, J. A., Veres, P. R., Wennberg, P. O., and
+Jimenez, J. L.: Global Survey of Submicron Aerosol Acidity (pH), Abstract
+A53A-06 presented at American Geophysical Union Fall Meeting, 10–14 December 2018, Washington, D.C., USA, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1073/pnas.1418702112</doi>
+              <unstructured_citation>Nguyen, T. B., Crounse, J. D., Teng, A. P., Clair, J. M. S., Paulot, F.,
+Wolfe, G. M., and Wennberg, P. O.: Rapid deposition of oxidized biogenic
+compounds to a temperate forest, P. Natl. Acad. Sci. USA, 112, E392–E401,
+2015. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1021/es950669j</doi>
+              <unstructured_citation>Noble, C. A. and Prather, K. A.: Real-time measurement of correlated size
+and composition profiles of individual atmospheric aerosol particles,
+Environ. Sci. Technol., 30, 2667–2680, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1016/1352-2310(94)90094-9</doi>
+              <unstructured_citation>Pankow, J. F.: An absorption model of the gas/aerosol partitioning involved
+in the formation of secondary organic aerosol, Atmos. Environ., 28,
+189–193, 1994. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2002JD003190</doi>
+              <unstructured_citation>Park, R. J., Jacob, D. J., Chin, M., and Martin, R. V.: Sources of
+carbonaceous aerosols over the United States and implications for natural
+visibility, J. Geophys. Res.-Atmos., 108, 4355, https://doi.org/10.1029/2002JD003190, 2003. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1016/j.atmosenv.2006.04.059</doi>
+              <unstructured_citation>Park, R. J., Jacob, D. J., Kumar, N., and Yantosca, R. M.: Regional
+visibility statistics in the United States: Natural and transboundary
+pollution influences, and implications for the Regional Haze Rule, Atmos.
+Environ., 40, 5405–5423, https://doi.org/10.1016/j.atmosenv.2006.04.059, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1126/science.1172910</doi>
+              <unstructured_citation>Paulot, F., Crounse, J. D., Kjaergaard, H. G., Kürten, A., St. Clair, J.
+M., Seinfeld, J. H., and Wennberg, P. O.: Unexpected Epoxide Formation in the
+Gas-Phase Photooxidation of Isoprene, Science, 325, 730–733,
+https://doi.org/10.1126/science.1172910, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1021/acs.jchemed.9b00033</doi>
+              <unstructured_citation>Peng, Z. and Jimenez, J. L.: KinSim: A Research-Grade, User-Friendly, Visual
+Kinetics Simulator for Chemical-Kinetics and Environmental-Chemistry
+Teaching, J. Chem. Educ., 96, 806–811, https://doi.org/10.1021/acs.jchemed.9b00033,
+2019. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/gmd-9-1683-2016</doi>
+              <unstructured_citation>Philip, S., Martin, R. V., and Keller, C. A.: Sensitivity of chemistry-transport model simulations to the duration of chemical and transport operators: a case study with GEOS-Chem v10-01, Geosci. Model Dev., 9, 1683–1695, https://doi.org/10.5194/gmd-9-1683-2016, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/2008JD010701</doi>
+              <unstructured_citation>Pye, H. O. T., Liao, H., Wu, S., Mickley, L. J., Jacob, D. J., Henze, D. J.,
+and Seinfeld, J. H.: Effect of changes in climate and emissions on future
+sulfate-nitrate-ammonium aerosol levels in the United States, J. Geophys.
+Res., 114, D01205, https://doi.org/10.1029/2008JD010701,
+2009. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/acp-10-11261-2010</doi>
+              <unstructured_citation>Pye, H. O. T., Chan, A. W. H., Barkley, M. P., and Seinfeld, J. H.: Global modeling of organic aerosol: the importance of reactive nitrogen (NOx and NO3), Atmos. Chem. Phys., 10, 11261–11276, https://doi.org/10.5194/acp-10-11261-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/acp-11-6639-2011</doi>
+              <unstructured_citation>Shrivastava, M., Fast, J., Easter, R., Gustafson Jr., W. I., Zaveri, R. A., Jimenez, J. L., Saide, P., and Hodzic, A.: Modeling organic aerosols in a megacity: comparison of simple and complex representations of the volatility basis set approach, Atmos. Chem. Phys., 11, 6639–6662, https://doi.org/10.5194/acp-11-6639-2011, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/acp-14-9317-2014</doi>
+              <unstructured_citation>Sindelarova, K., Granier, C., Bouarar, I., Guenther, A., Tilmes, S., Stavrakou, T., Müller, J.-F., Kuhn, U., Stefani, P., and Knorr, W.: Global data set of biogenic VOC emissions calculated by the MEGAN model over the last 30 years, Atmos. Chem. Phys., 14, 9317–9341, https://doi.org/10.5194/acp-14-9317-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/gmd-11-3235-2018</doi>
+              <unstructured_citation>Stadtler, S., Kühn, T., Schröder, S., Taraborrelli, D., Schultz, M. G., and Kokkola, H.: Isoprene-derived secondary organic aerosol in the global aerosol–chemistry–climate model ECHAM6.3.0–HAM2.3–MOZ1.0, Geosci. Model Dev., 11, 3235–3260, https://doi.org/10.5194/gmd-11-3235-2018, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1021/acs.jpca.5b06532</doi>
+              <unstructured_citation>St. Clair, J. M., Rivera-Rios, J. C., Crounse, J. D., Knap, H. C., Bates, K.
+H., Teng, A. P., Jorgensen, S., Kjaergaard, H. G., Keutsch, F. N., and
+Wennberg, P. O.: Kinetics and Products of the Reaction of the
+First-Generation Isoprene Hydroxy Hydroperoxide (ISOPOOH) with OH, J. Phys.
+Chem. A, 120, 1441–1451, https://doi.org/10.1021/acs.jpca.5b06532, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1017/CBO9781107415324</doi>
+              <unstructured_citation>Stocker, T. F., Qin, D., Plattner, G. K., Tignor, M. M. B., Allen, S. K.,
+Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M.: Climate
+change 2013: the physical science basis: Working Group I contribution to the
+fifth assessment report of the intergovernmental panel on climate change,
+Cambridge Univ. Press. Cambridge, UK, New York, NY, USA, 1535 pp.,
+https://doi.org/10.1017/CBO9781107415324, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1073/pnas.0911114107</doi>
+              <unstructured_citation>Surratt, J. D., Chan, A. W. H., Eddingsaas, N. C., Chan, M., Loza, C. L.,
+Kwan, A. J., Hersey, S. P., Flagan, R. C., Wennberg, P. O., and Seinfeld, J.
+H.: Reactive intermediates revealed in secondary organic aerosol formation
+from isoprene, P. Natl. Acad. Sci. USA, 107, 6640–6645, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An Overview of CMIP5 and
+the Experiment Design, B. Am. Meteorol. Soc., 93, 485–498,
+https://doi.org/10.1175/BAMS-D-11-00094.1, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1007/s40641-018-0092-3</doi>
+              <unstructured_citation>Tsigaridis, K. and Kanakidou, M.: The Present and Future of Secondary
+Organic Aerosol Direct Forcing on Climate, Curr. Clim. Chang. Reports, 4,
+84–98, https://doi.org/10.1007/s40641-018-0092-3, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/acp-14-10845-2014</doi>
+              <unstructured_citation>Tsigaridis, K., Daskalakis, N., Kanakidou, M., Adams, P. J., Artaxo, P., Bahadur, R., Balkanski, Y., Bauer, S. E., Bellouin, N., Benedetti, A., Bergman, T., Berntsen, T. K., Beukes, J. P., Bian, H., Carslaw, K. S., Chin, M., Curci, G., Diehl, T., Easter, R. C., Ghan, S. J., Gong, S. L., Hodzic, A., Hoyle, C. R., Iversen, T., Jathar, S., Jimenez, J. L., Kaiser, J. W., Kirkevåg, A., Koch, D., Kokkola, H., Lee, Y. H., Lin, G., Liu, X., Luo, G., Ma, X.,&amp;lt;span id=&amp;quot;page3000&amp;quot;/&amp;gt; Mann, G. W., Mihalopoulos, N., Morcrette, J.-J., Müller, J.-F., Myhre, G., Myriokefalitakis, S., Ng, N. L., O'Donnell, D., Penner, J. E., Pozzoli, L., Pringle, K. J., Russell, L. M., Schulz, M., Sciare, J., Seland, Ø., Shindell, D. T., Sillman, S., Skeie, R. B., Spracklen, D., Stavrakou, T., Steenrod, S. D., Takemura, T., Tiitta, P., Tilmes, S., Tost, H., van Noije, T., van Zyl, P. G., von Salzen, K., Yu, F., Wang, Z., Wang, Z., Zaveri, R. A., Zhang, H., Zhang, K., Zhang, Q., and Zhang, X.: The AeroCom evaluation and intercomparison of organic aerosol in global models, Atmos. Chem. Phys., 14, 10845–10895, https://doi.org/10.5194/acp-14-10845-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Yantosca, B.: Species in GEOS-Chem (Full-chemistry), available
+at:
+http://wiki.seas.harvard.edu/geos-chem/index.php/Species_in_GEOS-Chem\\#Full-chemistry (last access: 7 January 2019),
+2016. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Yantosca, B.: GEOS-Chem v11-02 release candidate, available at:
+http://wiki.seas.harvard.edu/geos-chem/index.php/GEOS-Chem_v11-02\\#GEOS-Chem_v11-02_release_candidate (last access: 7 January 2019), 2018.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1029/2007GL029979</doi>
+              <unstructured_citation>Zhang, Q., Jimenez, J. L., Canagaratna, M. R., Allan, J. D., Coe, H.,
+Ulbrich, I., Alfarra, M. R., Takami, A., Middlebrook, A. M., and Sun, Y. L.:
+Ubiquity and dominance of oxygenated species in organic aerosols in
+anthropogenically-influenced Northern Hemisphere midlatitudes, Geophys. Res.
+Lett., 34, L13801, https://doi.org/10.1029/2007GL029979, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1021/acs.estlett.8b00044</doi>
+              <unstructured_citation>Zhang, Y., Chen, Y., Lambe, A. T., Olson, N. E., Lei, Z., Craig, R. L.,
+Zhang, Z., Gold, A., Onasch, T. B., Jayne, J. T., Worsnop, D. R., Gaston, C.
+J., Thornton, J. A., Vizuete, W., Ault, A. P., and Surratt, J. D.: Effect of
+the Aerosol-Phase State on Secondary Organic Aerosol Formation from the
+Reactive Uptake of Isoprene-Derived Epoxydiols (IEPOX), Environ. Sci.
+Technol. Lett., 5, 167–174, https://doi.org/10.1021/acs.estlett.8b00044, 2018. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/gmd-12-2983-2019-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/12/2983/2019/gmd-12-2983-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

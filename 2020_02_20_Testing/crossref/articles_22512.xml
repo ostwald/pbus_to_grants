@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1051" timestamp="2019-05-07 13:58:17">
+    <crossref>
+      <journal>
+        <journal_metadata>
+          <full_title>Journal of Space Weather and Space Climate</full_title>
+          <abbrev_title>J. Space Weather Space Clim.</abbrev_title>
+          <issn media_type="electronic">2115-7251</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+        </journal_issue>
+        <journal_article publication_type="full_text" language="en">
+          <titles>
+            <title>Forecasting of SYMH and ASYH indices for geomagnetic storms of solar cycle 24 including St. Patrick’s day, 2015 storm using NARX neural network</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Ankush</given_name>
+              <surname>Bhaskar</surname>
+              <ORCID>http://orcid.org/0000-0003-4281-1744</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Geeta</given_name>
+              <surname>Vichare</surname>
+            </person_name>
+          </contributors>
+          <abstract lang="en">
+            <p>Artificial Neural Network (ANN) has proven to be very successful in forecasting a variety of irregular magnetospheric/ionospheric processes like geomagnetic storms and substorms. SYMH and ASYH indices represent longitudinal symmetric and the asymmetric component of the ring current. Here, an attempt is made to develop a prediction model for these indices using ANN. The ring current state depends on its past conditions therefore, it is necessary to consider its history for prediction. To account for this effect Nonlinear Autoregressive Network with exogenous inputs (NARX) is implemented. This network considers input history of 30 min and output feedback of 120 min. Solar wind parameters mainly velocity, density, and interplanetary magnetic field are used as inputs. SYMH and ASYH indices during geomagnetic storms of 1998–2013, having minimum SYMH &lt; −85 nT are used as the target for training two independent networks. We present the prediction of SYMH and ASYH indices during nine geomagnetic storms of solar cycle 24 including the recent largest storm occurred on St. Patrick’s day, 2015. The present prediction model reproduces the entire time profile of SYMH and ASYH indices along with small variations of ∼10–30 min to the good extent within noise level, indicating a significant contribution of interplanetary sources and past state of the magnetosphere. Therefore, the developed networks can predict SYMH and ASYH indices about an hour before, provided, real-time upstream solar wind data are available. However, during the main phase of major storms, residuals (observed-modeled) are found to be large, suggesting the influence of internal factors such as magnetospheric processes.</p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>07</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>A12</first_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">swsc180011</identifier>
+          </publisher_item>
+          <program name="AccessIndicators">
+            <free_to_read start_date="2019-05-07"/>
+            <license_ref applies_to="vor" start_date="2019-05-07">http://creativecommons.org/licenses/by/4.0</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1051/swsc/2019007</doi>
+            <resource>https://www.swsc-journal.org/10.1051/swsc/2019007</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.swsc-journal.org/10.1051/swsc/2019007/pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="R1">
+              <journal_title>J Atmos Sol-Terr Phys</journal_title>
+              <author>Andriyas</author>
+              <volume>154</volume>
+              <first_page>21</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2016.11.002</doi>
+            </citation>
+            <citation key="R2">
+              <journal_title>J Geophys Res Space Phys</journal_title>
+              <author>Bhaskar</author>
+              <volume>118</volume>
+              <issue>7</issue>
+              <first_page>4696</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/jgra.50436</doi>
+            </citation>
+            <citation key="R3">
+              <journal_title>Ann Geophys</journal_title>
+              <author>Boynton</author>
+              <volume>29</volume>
+              <first_page>965</first_page>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.5194/angeo-29-965-2011</doi>
+            </citation>
+            <citation key="R4">
+              <journal_title>J Geophys Res</journal_title>
+              <author>Burton</author>
+              <volume>80</volume>
+              <issue>31</issue>
+              <first_page>4204</first_page>
+              <cYear>1975</cYear>
+              <doi provider="crossref">10.1029/JA080i031p04204</doi>
+            </citation>
+            <citation key="R5">
+              <journal_title>Sci China Ser E Technol Sci</journal_title>
+              <author>Cai</author>
+              <volume>52</volume>
+              <issue>10</issue>
+              <first_page>2877</first_page>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1007/s11431-009-0296-9</doi>
+            </citation>
+            <citation key="R6">
+              <journal_title>Space Weather</journal_title>
+              <author>Cameron</author>
+              <volume>14</volume>
+              <issue>11</issue>
+              <first_page>973</first_page>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/2016SW001451</doi>
+            </citation>
+            <citation key="R7">
+              <journal_title>Space Weather</journal_title>
+              <author>Camporeale</author>
+              <volume>16</volume>
+              <issue>1</issue>
+              <first_page>2</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1002/2017SW001775</doi>
+            </citation>
+            <citation key="R8">
+              <journal_title>Space Weather</journal_title>
+              <author>Chandorkar</author>
+              <volume>15</volume>
+              <issue>8</issue>
+              <first_page>1004</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2017SW001627</doi>
+            </citation>
+            <citation key="R9">
+              <journal_title>J Geophys Res Space Phys (1978–2012)</journal_title>
+              <author>Clauer</author>
+              <volume>85</volume>
+              <issue>A12</issue>
+              <first_page>6747</first_page>
+              <cYear>1980</cYear>
+              <doi provider="crossref">10.1029/JA085iA12p06747</doi>
+            </citation>
+            <citation key="R10">
+              <journal_title>Rev Geophys</journal_title>
+              <author>Daglis</author>
+              <volume>37</volume>
+              <issue>4</issue>
+              <first_page>407</first_page>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1029/1999RG900009</doi>
+            </citation>
+            <citation key="R11">
+              <journal_title>Space Sci Rev</journal_title>
+              <author>Eastwood</author>
+              <volume>212</volume>
+              <issue>3–4</issue>
+              <first_page>1221</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1007/s11214-017-0399-8</doi>
+            </citation>
+            <citation key="R12">
+              <journal_title>Atmos Environ</journal_title>
+              <author>Gardner</author>
+              <volume>32</volume>
+              <issue>14</issue>
+              <first_page>2627</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1016/S1352-2310(97)00447-0</doi>
+            </citation>
+            <citation key="R13">
+              <journal_title>Space Weather</journal_title>
+              <author>Gholipour</author>
+              <volume>2</volume>
+              <issue>7</issue>
+              <first_page>1</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2003SW000039</doi>
+            </citation>
+            <citation key="R14">
+              <journal_title>J Geophys Res</journal_title>
+              <author>Gleisner</author>
+              <volume>102</volume>
+              <first_page>14</first_page>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1029/96JA03068</doi>
+            </citation>
+            <citation key="R15">
+              <journal_title>Ann Geophys</journal_title>
+              <author>Gleisner</author>
+              <volume>14</volume>
+              <first_page>679</first_page>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1007/s00585-996-0679-1</doi>
+            </citation>
+            <citation key="R16">
+              <journal_title>J Geophys Res Space Phys (1978–2012)</journal_title>
+              <author>Gonzalez</author>
+              <volume>99</volume>
+              <issue>A4</issue>
+              <first_page>5771</first_page>
+              <cYear>1994</cYear>
+              <doi provider="crossref">10.1029/93JA02867</doi>
+            </citation>
+            <citation key="R17">
+              <journal_title>Neural Netw</journal_title>
+              <author>Haykin</author>
+              <volume>2</volume>
+              <issue>2004</issue>
+              <first_page>41</first_page>
+              <cYear>2004</cYear>
+            </citation>
+            <citation key="R18">
+              <unstructured_citation>Hérault J, Jutten C. 1994. Réseaux euronaux et traitement du signal, Hermes, Paris.</unstructured_citation>
+            </citation>
+            <citation key="R19">
+              <journal_title>Geophys Res Lett</journal_title>
+              <author>Huttunen</author>
+              <volume>33</volume>
+              <issue>6</issue>
+              <first_page>L06107</first_page>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1029/2005GL024894</doi>
+            </citation>
+            <citation key="R20">
+              <journal_title>Sol-Terr Predict Proc</journal_title>
+              <author>Iyemori</author>
+              <volume>4</volume>
+              <first_page>A-1</first_page>
+              <cYear>1980</cYear>
+            </citation>
+            <citation key="R21">
+              <journal_title>Ann Geophys</journal_title>
+              <author>Iyemori</author>
+              <volume>14</volume>
+              <first_page>608</first_page>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1007/s00585-996-0608-3</doi>
+            </citation>
+            <citation key="R22">
+              <journal_title>J Geophys Res Space Phys</journal_title>
+              <author>Jordanova</author>
+              <volume>108</volume>
+              <issue>A12</issue>
+              <first_page>1443</first_page>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1029/2003JA009993</doi>
+            </citation>
+            <citation key="R23">
+              <doi provider="crossref">10.1007/978-94-009-4722-1</doi>
+              <unstructured_citation>Kamide Y, Slavin JA. 1986. Solar wind-magnetosphere couplingINIS 18: 13.</unstructured_citation>
+            </citation>
+            <citation key="R24">
+              <journal_title>Earth Planet Space</journal_title>
+              <author>Kugblenu</author>
+              <volume>51</volume>
+              <issue>4</issue>
+              <first_page>307</first_page>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1186/BF03352234</doi>
+            </citation>
+            <citation key="R25">
+              <journal_title>Space Weather</journal_title>
+              <author>Lazzús</author>
+              <volume>15</volume>
+              <issue>8</issue>
+              <first_page>1068</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2017SW001608</doi>
+            </citation>
+            <citation key="R26">
+              <journal_title>J Geophys Res Space Phys</journal_title>
+              <author>Liemohn</author>
+              <volume>106</volume>
+              <issue>A6</issue>
+              <first_page>10883</first_page>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1029/2000JA000326</doi>
+            </citation>
+            <citation key="R27">
+              <journal_title>ASSP Mag IEEE</journal_title>
+              <author>Lippmann</author>
+              <volume>4</volume>
+              <issue>2</issue>
+              <first_page>4</first_page>
+              <cYear>1987</cYear>
+              <doi provider="crossref">10.1109/MASSP.1987.1165576</doi>
+            </citation>
+            <citation key="R28">
+              <journal_title>Ann Geophys</journal_title>
+              <author>Lundstedt</author>
+              <volume>12</volume>
+              <first_page>19</first_page>
+              <cYear>1994</cYear>
+              <doi provider="crossref">10.1007/s00585-994-0019-2</doi>
+            </citation>
+            <citation key="R29">
+              <journal_title>Vistas Astron</journal_title>
+              <author>Miller</author>
+              <volume>36</volume>
+              <first_page>141</first_page>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1016/0083-6656(93)90118-4</doi>
+            </citation>
+            <citation key="R30">
+              <journal_title>J Geophys Res</journal_title>
+              <author>Munsami</author>
+              <volume>105</volume>
+              <issue>A12</issue>
+              <first_page>27833</first_page>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/2000JA000041</doi>
+            </citation>
+            <citation key="R31">
+              <journal_title>J Geophys Res Space Phys</journal_title>
+              <author>Newell</author>
+              <volume>117</volume>
+              <issue>A5</issue>
+              <first_page>5215</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2012JA017586</doi>
+            </citation>
+            <citation key="R32">
+              <journal_title>J Atmos Sol-Terr Phys</journal_title>
+              <author>O’Brien</author>
+              <volume>62</volume>
+              <issue>14</issue>
+              <first_page>1295</first_page>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1016/S1364-6826(00)00072-9</doi>
+            </citation>
+            <citation key="R33">
+              <doi provider="crossref">10.1029/GM118</doi>
+              <unstructured_citation>Ohtani S-I. 2000. Magnetospheric current systems, vol. 118, American Geophysical Union, Washington, USA.</unstructured_citation>
+            </citation>
+            <citation key="R34">
+              <journal_title>Adv Space Res</journal_title>
+              <author>Oliveira</author>
+              <volume>61</volume>
+              <issue>1</issue>
+              <first_page>1</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1016/j.asr.2017.10.006</doi>
+            </citation>
+            <citation key="R35">
+              <journal_title>J Space Weather Space Clim</journal_title>
+              <author>Podladchikova</author>
+              <volume>8</volume>
+              <first_page>A22</first_page>
+              <cYear>2018</cYear>
+              <doi provider="crossref">10.1051/swsc/2018017</doi>
+            </citation>
+            <citation key="R36">
+              <journal_title>Geophysics</journal_title>
+              <author>Poulton</author>
+              <volume>67</volume>
+              <issue>3</issue>
+              <first_page>979</first_page>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1190/1.1484539</doi>
+            </citation>
+            <citation key="R37">
+              <journal_title>Geomagnetism</journal_title>
+              <author>Rangarajan</author>
+              <volume>3</volume>
+              <first_page>323</first_page>
+              <cYear>1989</cYear>
+            </citation>
+            <citation key="R38">
+              <journal_title>Space Weather</journal_title>
+              <author>Rastätter</author>
+              <volume>11</volume>
+              <issue>4</issue>
+              <first_page>187</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/swe.20036</doi>
+            </citation>
+            <citation key="R39">
+              <journal_title>J Atmos Sol-Terr Phys</journal_title>
+              <author>Revallo</author>
+              <volume>110</volume>
+              <first_page>9</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2014.01.011</doi>
+            </citation>
+            <citation key="R40">
+              <journal_title>Contrib Geophys Geod</journal_title>
+              <author>Revallo</author>
+              <volume>45</volume>
+              <issue>1</issue>
+              <first_page>53</first_page>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1515/congeo-2015-0013</doi>
+            </citation>
+            <citation key="R41">
+              <doi provider="crossref">10.21236/ADA164453</doi>
+              <unstructured_citation>Rumelhart DE, Hinton GE, Williams RJ. 1985. Learning internal representations by error propagation, No. ICS-8506. California Univ San Diego La Jolla Inst for Cognitive Science.</unstructured_citation>
+            </citation>
+            <citation key="R42">
+              <journal_title>J Atmos Sol-Terr Phys</journal_title>
+              <author>Singh</author>
+              <volume>77</volume>
+              <first_page>119</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2011.12.010</doi>
+            </citation>
+            <citation key="R43">
+              <journal_title>J Atmos Sol-Terr Phys</journal_title>
+              <author>Singh</author>
+              <volume>94</volume>
+              <first_page>34</first_page>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2012.12.015</doi>
+            </citation>
+            <citation key="R44">
+              <journal_title>J Geophys Res Space Phys</journal_title>
+              <author>Siscoe</author>
+              <volume>117</volume>
+              <issue>A9</issue>
+              <first_page>A09216</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2012JA017879</doi>
+            </citation>
+            <citation key="R45">
+              <journal_title>Ann Int Geophys Yr</journal_title>
+              <author>Sugiura</author>
+              <volume>35</volume>
+              <first_page>24</first_page>
+              <cYear>1964</cYear>
+            </citation>
+            <citation key="R46">
+              <doi provider="crossref">10.1029/GM098p0077</doi>
+              <unstructured_citation>Tsurutani BT, Gonzalez WD. 2013. The Interplanetary Causes of Magnetic Storms: A Review. In Magnetic Storms, Tsurutani BT, Gonzalez WD, Kamide Y, Arballo JK (eds). DOI: 10.1029/GM098p0077.</unstructured_citation>
+            </citation>
+            <citation key="R47">
+              <journal_title>J Atmos Sol-Terr Phys</journal_title>
+              <author>Unnikrishnan</author>
+              <volume>75</volume>
+              <first_page>22</first_page>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2011.05.008</doi>
+            </citation>
+            <citation key="R48">
+              <journal_title>J Atmos Sol-Terr Phys</journal_title>
+              <author>Unnikrishnan</author>
+              <volume>121</volume>
+              <first_page>206</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.jastp.2014.06.014</doi>
+            </citation>
+            <citation key="R49">
+              <journal_title>Earth Planet Space</journal_title>
+              <author>Uwamahoro</author>
+              <volume>66</volume>
+              <issue>1</issue>
+              <first_page>1</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1186/1880-5981-66-95</doi>
+            </citation>
+            <citation key="R50">
+              <doi provider="crossref">10.1029/2004JA010418</doi>
+              <unstructured_citation>Vichare G, Alex S, Lakhina GS. 2005. Some characteristics of intense geomagnetic storms and their energy budget. J Geophys Res Space Phys 110(A3). DOI: 10.1029/2004JA010418.</unstructured_citation>
+            </citation>
+            <citation key="R51">
+              <journal_title>Earth Planet Space</journal_title>
+              <author>Vichare</author>
+              <volume>66</volume>
+              <issue>1</issue>
+              <first_page>1</first_page>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1186/1880-5981-66-92</doi>
+            </citation>
+            <citation key="R52">
+              <doi provider="crossref">10.1029/2018JA025692</doi>
+              <unstructured_citation>Vichare G, et al. 2019. Spatial gradients in geomagnetic storm time currents observed by Swarm Multi-Spacecraft Mission. J Geophys Res Space Phys.</unstructured_citation>
+            </citation>
+            <citation key="R53">
+              <doi provider="crossref">10.1029/2005JA011034</doi>
+              <unstructured_citation>Wanliss JA, Showalter KM. 2006. High-resolution global storm index: Dst versus SYM-H. J Geophys Res Space Phys (1978–2012) 111(A2).</unstructured_citation>
+            </citation>
+            <citation key="R54">
+              <journal_title>J Geophys Res Space Phys</journal_title>
+              <author>Wei</author>
+              <volume>109</volume>
+              <issue>A7</issue>
+              <first_page>A07212</first_page>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2003JA010332</doi>
+            </citation>
+            <citation key="R55">
+              <journal_title>Geophys Res Lett</journal_title>
+              <author>Weigel</author>
+              <volume>26</volume>
+              <issue>10</issue>
+              <first_page>1353</first_page>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1029/1999GL900280</doi>
+            </citation>
+            <citation key="R56">
+              <journal_title>Geophys Res Lett</journal_title>
+              <author>Williscroft</author>
+              <volume>23</volume>
+              <issue>24</issue>
+              <first_page>3659</first_page>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1029/96GL03472</doi>
+            </citation>
+            <citation key="R57">
+              <journal_title>J Space Weather Space Clim</journal_title>
+              <author>Wintoft</author>
+              <volume>7</volume>
+              <first_page>A29</first_page>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1051/swsc/2017027</doi>
+            </citation>
+            <citation key="R58">
+              <journal_title>Geophys Res Lett</journal_title>
+              <author>Wu</author>
+              <volume>23</volume>
+              <issue>4</issue>
+              <first_page>319</first_page>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1029/96GL00259</doi>
+            </citation>
+            <citation key="R59">
+              <journal_title>J Geophys Res Space Phys (1978–2012)</journal_title>
+              <author>Wu</author>
+              <volume>102</volume>
+              <issue>A7</issue>
+              <first_page>14255</first_page>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1029/97JA00975</doi>
+            </citation>
+            <citation key="R60">
+              <journal_title>Geophys Res Lett</journal_title>
+              <author>Wu</author>
+              <volume>25</volume>
+              <issue>15</issue>
+              <first_page>3031</first_page>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1029/98GL00466</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

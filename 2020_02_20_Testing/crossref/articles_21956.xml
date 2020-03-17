@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-09-27 21:21:47">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Geophysical Research Letters</full_title>
+          <abbrev_title>Geophys. Res. Lett.</abbrev_title>
+          <issn>00948276</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>08</month>
+            <day>16</day>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>45</volume>
+          </journal_volume>
+          <issue>15</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>A Comparison of Model-Based Ionospheric and Ocean Tidal Magnetic Signals With Observatory Data</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>N. R.</given_name>
+              <surname>Schnepf</surname>
+              <affiliation>Department of Geological Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-1489-7958</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>M.</given_name>
+              <surname>Nair</surname>
+              <affiliation>Cooperative Institute for Research in Environmental Sciences; University of Colorado Boulder; Boulder CO USA</affiliation>
+              <affiliation>National Centers for Environmental Information, National Oceanic and Atmospheric Administration; Boulder CO USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A.</given_name>
+              <surname>Maute</surname>
+              <affiliation>High Altitude Observatory, National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-3393-0987</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>N. M.</given_name>
+              <surname>Pedatella</surname>
+              <affiliation>High Altitude Observatory, National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-8878-5126</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A.</given_name>
+              <surname>Kuvshinov</surname>
+              <affiliation>Institute of Geophysics, ETH Zurich; Zurich Switzerland</affiliation>
+              <ORCID>http://orcid.org/0000-0002-4341-2123</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>A. D.</given_name>
+              <surname>Richmond</surname>
+              <affiliation>High Altitude Observatory, National Center for Atmospheric Research; Boulder CO USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-6708-1023</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>08</month>
+            <day>16</day>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>08</month>
+            <day>03</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>7257</first_page>
+            <last_page>7267</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">80NSSC17K0450</assertion>
+              <assertion name="award_number">NNX13AF77G</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Norsk Sykepleierforbund
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100004190</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1135446</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100008982</assertion>
+              </assertion>
+              <assertion name="award_number">ACI-1532235</assertion>
+              <assertion name="award_number">ACI-1532236</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2018-08-03">http://onlinelibrary.wiley.com/termsAndConditions#vor</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1029/2018GL078487</doi>
+            <resource>http://doi.wiley.com/10.1029/2018GL078487</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1029/2018GL078487/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2018GL078487</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1029/2018GL078487-BIB0054|grl57669-cit-1054">
+              <doi provider="crossref">10.1145/3093338.3093379</doi>
+              <unstructured_citation>Anderson , J. Burns , P. J. Milroy , D. Ruprecht , P. Hauser , T. Siegel , H. J. 2017 Deploying RMACC Summit: An HPC Resource for the Rocky Mountain Region New Orleans, LA, USA https://doi.org/10.1145/3093338.3093379</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0001|grl57669-cit-0001">
+              <author>Bindoff</author>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.5636/jgg.40.1445</doi>
+              <article_title>A separation of ionospheric and ocean tidal components in magnetic fluxuation data</article_title>
+              <journal_title>Journal of Geomagnetism and Geoelectricity</journal_title>
+              <volume>40</volume>
+              <first_page>1445</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0002|grl57669-cit-0002">
+              <author>Chau</author>
+              <cYear>2015</cYear>
+              <article_title>Upper mesospheric lunar tides over middle and high latitudes during sudden stratospheric warming events</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>3084</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0003|grl57669-cit-0003">
+              <unstructured_citation>Chavas , D. 2014 dist_from_coast</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0004|grl57669-cit-0004">
+              <unstructured_citation>Chulliat , A. Macmillan , S. Alken , P. Beggan , C. Nair , M. Hamilton , B. 2015 The US/UK world magnetic model for 20150-2020 Boulder, CO https://doi.org/10.7289/V5TH8JNW</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0005|grl57669-cit-0005">
+              <author>Civet</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.pss.2013.05.004</doi>
+              <article_title>Analysis of magnetic satellite data to infer the mantle electrical conductivity of telluric planets in the solar system</article_title>
+              <journal_title>Planetary and Space Science</journal_title>
+              <volume>84</volume>
+              <first_page>102</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0006|grl57669-cit-0006">
+              <author>Civet</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2015GL063397</doi>
+              <article_title>Electrical conductivity of the Earth's mantle from the first Swarm magnetic field measurements</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>42</volume>
+              <first_page>3338</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0007|grl57669-cit-0007">
+              <author>Cueto</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1046/j.1365-246X.2003.01826.x</doi>
+              <article_title>Daily geomagnetic variations on the Iberian Peninsula</article_title>
+              <journal_title>Geophysical Journal International</journal_title>
+              <volume>152</volume>
+              <first_page>113</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0008|grl57669-cit-0008">
+              <unstructured_citation>Denig , W. F. 2015 Geomagnetic Kp and Ap indices</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0009|grl57669-cit-0009">
+              <author>Egbert</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1175/1520-0426(2002)019&lt;0183:EIMOBO&gt;2.0.CO;2</doi>
+              <article_title>Efficient inverse modeling of barotropic ocean tides</article_title>
+              <journal_title>Journal of Atmospheric and Oceanic Technology</journal_title>
+              <volume>19</volume>
+              <first_page>183</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0011|grl57669-cit-0011">
+              <author>Forbes</author>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.5636/jgg.48.91</doi>
+              <article_title>Planetary waves in the thermosphere-ionosphere system</article_title>
+              <journal_title>Journal of Geomagnetism and Geoelectricity</journal_title>
+              <volume>48</volume>
+              <first_page>91</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0012|grl57669-cit-0012">
+              <author>Forbes</author>
+              <cYear>2013</cYear>
+              <article_title>Lunar semidiurnal tide in the thermosphere under solar minimum conditions</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>1788</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0013|grl57669-cit-0013">
+              <author>Grayver</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2017GL073446</doi>
+              <article_title>Joint inversion of satellite-detected tidal and magnetospheric signals constrains electrical conductivity and water content of the upper mantle and transition zone</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>44</volume>
+              <first_page>6074</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0014|grl57669-cit-0014">
+              <author>Grayver</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1126/sciadv.1600798</doi>
+              <article_title>Satellite tidal magnetic signals constrain oceanic lithosphere-asthenosphere boundary</article_title>
+              <journal_title>Science Advances</journal_title>
+              <volume>2</volume>
+              <first_page>e1600798</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0015|grl57669-cit-0015">
+              <author>Hewson-Browne</author>
+              <cYear>1973</cYear>
+              <doi provider="crossref">10.1016/0031-9201(73)90007-1</doi>
+              <article_title>Magnetic effects of sea tides</article_title>
+              <journal_title>Physics of the Earth and Planetary Interiors</journal_title>
+              <volume>7</volume>
+              <first_page>161</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0016|grl57669-cit-0016">
+              <author>Kelley</author>
+              <cYear>1989</cYear>
+              <volume_title>The Earth's ionosphere: Plasma physics and electrodynamics</volume_title>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0017|grl57669-cit-0017">
+              <author>Kuvshinov</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1007/s10712-008-9045-z</doi>
+              <article_title>3-D global induction in the oceans and solid Earth: Recent progress in modeling magnetic and electric fields from sources of magnetospheric, ionospheric and oceanic origin</article_title>
+              <journal_title>Surveys in Geophysics</journal_title>
+              <volume>29</volume>
+              <issue>2</issue>
+              <first_page>139</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0018|grl57669-cit-0018">
+              <author>Kuvshinov</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1029/2005GL025043</doi>
+              <article_title>3-D modelling the electric field due to ocean tidal flow and comparison with observations</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>33</volume>
+              <first_page>L06314</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0019|grl57669-cit-0019">
+              <author>Kuvshinov</author>
+              <cYear>2004</cYear>
+              <volume_title>CHAMP mission results II</volume_title>
+              <first_page>359</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0020|grl57669-cit-0020">
+              <author>Larsen</author>
+              <cYear>1968</cYear>
+              <doi provider="crossref">10.1111/j.1365-246X.1968.tb07135.x</doi>
+              <article_title>Electric and magnetic fields induced by deep sea tides</article_title>
+              <journal_title>The Geophysical Journal of the Royal Astronomical Society</journal_title>
+              <volume>16</volume>
+              <first_page>47</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0021|grl57669-cit-0021">
+              <author>Larsen</author>
+              <cYear>1966</cYear>
+              <doi provider="crossref">10.1029/JZ071i018p04441</doi>
+              <article_title>Lunar and solar daily variation in the magnetotelluric field beneath the ocean</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>71</volume>
+              <issue>18</issue>
+              <first_page>4441</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0022|grl57669-cit-0022">
+              <author>Love</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1093/gji/ggu090</doi>
+              <article_title>The magnetic tides of Honolulu</article_title>
+              <journal_title>Geophysical Journal International</journal_title>
+              <volume>197</volume>
+              <first_page>1335</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0023|grl57669-cit-0023">
+              <author>Malin</author>
+              <cYear>1970</cYear>
+              <doi provider="crossref">10.1111/j.1365-246X.1970.tb01781.x</doi>
+              <article_title>Separation of lunar daily geomagnetic variations into parts of ionospheric and oceanic origin</article_title>
+              <journal_title>The Geophysical Journal of the Royal Astronomical Society</journal_title>
+              <volume>21</volume>
+              <first_page>447</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0024|grl57669-cit-0024">
+              <author>Manoj</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1186/BF03351939</doi>
+              <article_title>Ocean circulation generated magnetic signals</article_title>
+              <journal_title>Earth Planets Space</journal_title>
+              <volume>58</volume>
+              <first_page>429</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0025|grl57669-cit-0025">
+              <author>Maus</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2004GL020090</doi>
+              <article_title>Ocean tidal signals in observatory and satellite magnetic measurements</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>31</volume>
+              <first_page>L15313</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0026|grl57669-cit-0026">
+              <author>Maute</author>
+              <cYear>2016</cYear>
+              <article_title>Equatorial vertical drift modulation by the lunar and solar semidiurnal tides during the 2013 sudden stratospheric warming</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>1658</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0027|grl57669-cit-0027">
+              <author>McKnight</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1111/j.1365-246X.1995.tb06844.x</doi>
+              <article_title>Lunar daily geomagnetic variations in New Zealand</article_title>
+              <journal_title>Geophysical Journal International</journal_title>
+              <volume>122</volume>
+              <first_page>889</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0028|grl57669-cit-0028">
+              <author>Olsen</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5047/eps.2013.07.001</doi>
+              <article_title>The Swarm satellite constellation application and research facility (SCARF) and Swarm data products</article_title>
+              <journal_title>Earth, Planets and Space</journal_title>
+              <volume>65</volume>
+              <issue>c</issue>
+              <first_page>1189</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0029|grl57669-cit-0029">
+              <author>Pankratov</author>
+              <cYear>1995</cYear>
+              <article_title>Electromagnetic field scattering in a homogeneous Earth: A solution to the forward problem</article_title>
+              <journal_title>Physics of the Solid Earth</journal_title>
+              <volume>31</volume>
+              <first_page>201</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0030|grl57669-cit-0030">
+              <author>Pedatella</author>
+              <cYear>2014</cYear>
+              <article_title>Observations and simulations of the ionospheric lunar tide: Seasonal variability</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>5800</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0031|grl57669-cit-0031">
+              <author>Pedatella</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2012JA017792</doi>
+              <article_title>Atmospheric semidiurnal lunar tide climatology simulated by the whole atmosphere community climate model</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>117</volume>
+              <first_page>A06327</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0032|grl57669-cit-0032">
+              <author>Pedatella</author>
+              <cYear>2014</cYear>
+              <article_title>Ionosphere variability during the 2009 SSW: Influence of the lunar semidiurnal tide and mechanisms producing electron density variability</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>3828</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0033|grl57669-cit-0033">
+              <author>Püthe</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5047/eps.2013.09.004</doi>
+              <article_title>Determination of the 3-D distribution of electrical conductivity in Earth's mantle from Swarm satellite data: Frequency domain approach based on inversion of induced coefficients</article_title>
+              <journal_title>Earth, Planets and Space</journal_title>
+              <volume>65</volume>
+              <first_page>1247</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0034|grl57669-cit-0034">
+              <author>Püthe</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1093/gji/ggu027</doi>
+              <article_title>Mapping 3-D mantle electrical conductivity from space: A new 3-D inversion scheme based on analysis of matrix Q-responses</article_title>
+              <journal_title>Geophysical Journal International</journal_title>
+              <volume>197</volume>
+              <first_page>768</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0035|grl57669-cit-0035">
+              <author>Püthe</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1093/gji/ggv407</doi>
+              <article_title>A new model of Earth's radial conductivity structure derived from over 10 yr of satellite and observatory magnetic data</article_title>
+              <journal_title>Geophysical Journal International</journal_title>
+              <volume>203</volume>
+              <first_page>1864</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0036|grl57669-cit-0036">
+              <author>Richmond</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1016/0021-9169(94)00126-9</doi>
+              <article_title>Modeling equatorial ionospheric electric field</article_title>
+              <journal_title>Journal of Atmospheric and Terrestrial Physics</journal_title>
+              <volume>57</volume>
+              <first_page>1103</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0037|grl57669-cit-0037">
+              <author>Richmond</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/9781118704417.ch6</doi>
+              <volume_title>Modeling the Ionosphere-Thermosphere System</volume_title>
+              <first_page>57</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0038|grl57669-cit-0038">
+              <author>Roble</author>
+              <cYear>1994</cYear>
+              <doi provider="crossref">10.1029/93GL03391</doi>
+              <article_title>A thermosphere-ionosphere-mesosphere-electrodynamics general circulation model (TIME-GCM): Equinox solar cycle minimum simulations (30-500 km)</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>21</volume>
+              <issue>6</issue>
+              <first_page>417</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0039|grl57669-cit-0039">
+              <author>Sabaka</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1093/gji/ggu493</doi>
+              <article_title>CM5, a pre-Swarm comprehensive geomagnetic field model derived from over 12 yr of CHAMP, Ørsted, SAC-C and observatory data</article_title>
+              <journal_title>Geophysical Journal International</journal_title>
+              <volume>200</volume>
+              <first_page>1596</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0040|grl57669-cit-0040">
+              <author>Sabaka</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/2016GL068180</doi>
+              <article_title>Extracting ocean-generated tidal magnetic signals from Swarm data through satellite gradiometry</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>43</volume>
+              <first_page>3237</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0042|grl57669-cit-0042">
+              <author>Schnepf</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2015GL063540</doi>
+              <article_title>Can we probe the conductivity of the lithosphere and upper mantle using satellite tidal magnetic signals?</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>42</volume>
+              <first_page>3233</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0043|grl57669-cit-0043">
+              <author>Schnepf</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1093/gji/ggu190</doi>
+              <article_title>Tidal signals in ocean-bottom magnetic measurements of the Northwestern Pacific: Observation versus prediction</article_title>
+              <journal_title>Geophysical Journal International</journal_title>
+              <volume>198</volume>
+              <first_page>1096</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0044|grl57669-cit-0044">
+              <author>Stening</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2011JA017047</doi>
+              <article_title>Lunar tide in the equatorial electrojet in relation to stratospheric warmings</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>116</volume>
+              <first_page>A12315</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0045|grl57669-cit-0045">
+              <author>Taguchi</author>
+              <cYear>2014</cYear>
+              <article_title>Inferring deep ocean tidal energy dissipation from the global high-resolution data-assimilative HAMTIDE model</article_title>
+              <journal_title>Journal of Geophysical Research: Oceans</journal_title>
+              <volume>119</volume>
+              <first_page>4573</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0046|grl57669-cit-0046">
+              <author>Tyler</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1186/s40623-017-0739-7</doi>
+              <article_title>Electrical conductivity of the global ocean</article_title>
+              <journal_title>Earth, Planets and Space</journal_title>
+              <volume>69</volume>
+              <first_page>156</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0047|grl57669-cit-0047">
+              <author>Tyler</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1126/science.1078074</doi>
+              <article_title>Satellite observations of magnetic fields due to ocean tidal flow</article_title>
+              <journal_title>Science</journal_title>
+              <volume>299</volume>
+              <issue>5604</issue>
+              <first_page>239</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0048|grl57669-cit-0048">
+              <author>Velímský</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1016/j.pepi.2010.02.007</doi>
+              <article_title>Electrical conductivity in the lower mantle: Constraints from CHAMP satellite data by time-domain EM induction modelling</article_title>
+              <journal_title>Physics of the Earth and Planetary Interiors</journal_title>
+              <volume>180</volume>
+              <first_page>111</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0049|grl57669-cit-0049">
+              <author>Velímský</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.5047/eps.2013.08.001</doi>
+              <article_title>Determination of three-dimensional distribution of electrical conductivity in the Earth's mantle from Swarm satellite data: Time-domain approach</article_title>
+              <journal_title>Earth, Planets and Space</journal_title>
+              <volume>65</volume>
+              <first_page>1239</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0050|grl57669-cit-0050">
+              <author>Winch</author>
+              <cYear>1970</cYear>
+              <doi provider="crossref">10.5636/jgg.22.291</doi>
+              <article_title>Geomagnetic lunar partial tides</article_title>
+              <journal_title>Journal of Geomagnetism and Geoelectricity</journal_title>
+              <volume>22</volume>
+              <issue>3</issue>
+              <first_page>291</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0051|grl57669-cit-0051">
+              <author>Winch</author>
+              <cYear>1981</cYear>
+              <doi provider="crossref">10.1098/rsta.1981.0193</doi>
+              <article_title>Spherical harmonic analysis of geomagnetic tides, 1964-1965</article_title>
+              <journal_title>Philosophical Transactions of the Royal Society of London</journal_title>
+              <volume>303</volume>
+              <first_page>1</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0052|grl57669-cit-0052">
+              <author>Yamazaki</author>
+              <cYear>2014</cYear>
+              <article_title>Geomagnetic lunar and solar daily variations during the last 100 years</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>6732</first_page>
+            </citation>
+            <citation key="10.1029/2018GL078487-BIB0053|grl57669-cit-0053">
+              <author>Zhang</author>
+              <cYear>2013</cYear>
+              <article_title>Lunar tidal winds between 80 and 110 km from UARS/HRDI wind measurements</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>5296</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

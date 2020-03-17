@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-08 00:30:21">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>15</volume>
+          </journal_volume>
+          <issue>12</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Regional data assimilation of multi-spectral MOPITT observations of CO over North America</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Z.</given_name>
+              <surname>Jiang</surname>
+              <ORCID>https://orcid.org/0000-0002-0086-7486</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D. B. A.</given_name>
+              <surname>Jones</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>H. M.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>D. K.</given_name>
+              <surname>Henze</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Y. X.</given_name>
+              <surname>Wang</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Chemical transport models (CTMs) driven with high-resolution meteorological fields can better resolve small-scale processes, such as frontal lifting or deep convection, and thus improve the simulation and emission estimates of tropospheric trace gases. In this work, we explore the use of the GEOS-Chem four-dimensional variational (4D-Var) data assimilation system with the nested high-resolution version of the model (0.5° × 0.67°) to quantify North American CO emissions during the period of June 2004–May 2005. With optimized lateral boundary conditions, regional inversion analyses can reduce the sensitivity of the CO source estimates to errors in long-range transport and in the distributions of the hydroxyl radical (OH), the main sink for CO. To further limit the potential impact of discrepancies in chemical aging of air in the free troposphere, associated with errors in OH, we use surface-level multispectral MOPITT (Measurement of Pollution in The Troposphere) CO retrievals, which have greater sensitivity to CO near the surface and reduced sensitivity in the free troposphere, compared to previous versions of the retrievals. We estimate that the annual total anthropogenic CO emission from the contiguous US 48 states was 97 Tg CO, a 14 % increase from the 85 Tg CO in the a priori. This increase is mainly due to enhanced emissions around the Great Lakes region and along the west coast, relative to the a priori. Sensitivity analyses using different OH fields and lateral boundary conditions suggest a possible error, associated with local North American OH distribution, in these emission estimates of 20 % during summer 2004, when the CO lifetime is short. This 20 % OH-related error is 50 % smaller than the OH-related error previously estimated for North American CO emissions using a global inversion analysis. We believe that reducing this OH-related error further will require integrating additional observations to provide a strong constraint on the CO distribution across the domain. Despite these limitations, our results show the potential advantages of combining high-resolution regional inversion analyses with global analyses to better quantify regional CO source estimates.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>19</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>6801</first_page>
+            <last_page>6814</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX10AT42G</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-15-6801-2015</doi>
+            <resource>https://www.atmos-chem-phys.net/15/6801/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/15/6801/2015/acp-15-6801-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2005JD006613</doi>
+              <unstructured_citation>Arellano Jr., A. F., Kasibhatla, P. S., Giglio, L., van der Werf, G. R., Randerson, J. T., and Collatz, G. J.: Time dependent inversion estimates of global biomass-burning CO emissions using Measurement of Pollution in the Troposphere (MOPITT) measurements, J. Geophys. Res., 111, D09303, https://doi.org/10.1029/2005JD006613, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2010JD014180</doi>
+              <unstructured_citation>Bergamaschi, P., Krol, M., Meirink, J., Dentener, F., Segers, A., Aardenne, J., Monni, S., Vermeulen, A., Schmidt, M., Ramonet, M., Yver, C., Meinhardt, F., Nisbet, E., Fisher, R., O'Doherty, S., and Dlugokencky, E.: Inverse modeling of European CH4 emissions 2001–2006, J. Geophys. Res., 115, D22309, https://doi.org/10.1029/2010JD014180, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1029/2011JD016918</doi>
+              <unstructured_citation>Brioude, J., Petron, G., Frost, G. J., Ahmadov, R., Angevine, W. M., Hsie, E.-Y., Kim, S.-W., Lee, S.-H., McKeen, S. A., Trainer, M., Fehsenfeld, F. C., Holloway, J. S., Peischl, J., Ryerson, T. B., and Gurney, K. R.: A new inversion method to calculate emission inventories without a prior at mesoscale: Application to the anthropogenic CO2 emission from Houston, Texas, J. Geophys. Res., 117, D05312, https://doi.org/10.1029/2011JD016918, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.5194/acp-9-3825-2009</doi>
+              <unstructured_citation>Chen, D., Wang, Y., McElroy, M. B., He, K., Yantosca, R. M., and Le Sager, P.: Regional CO pollution and export in China simulated by the high-resolution nested-grid GEOS-Chem model, Atmos. Chem. Phys., 9, 3825–3839, https://doi.org/10.5194/acp-9-3825-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2007JD008710</doi>
+              <unstructured_citation>Cooper, O., Trainer, M., Thompson, A., Oltmans, S., Tarasick, D., Witte, J., Stohl, A., Eckhardt, S., Lelieveld, J., Newchurch, M., Johnson, B., Portmann, R., Kalnajs, L., Dubey, M., Leblanc, T., McDermid, I., Forbes, G., Wolfe, D., Carey-Smith, T., Morris, G., Lefer, B., Rappenglück, B., Joseph, E., Schmidlin, F., Meagher, J., Fehsenfeld, F., Keating, T., Curen, R., and Minschwaner, K.: Evidence for a recurring eastern North America upper tropospheric ozone maximum during summer, J. Geophys. Res., 112, D23304, https://doi.org/10.1029/2007JD008710, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/acp-11-2381-2011</doi>
+              <unstructured_citation>Corazza, M., Bergamaschi, P., Vermeulen, A. T., Aalto, T., Haszpra, L., Meinhardt, F., O'Doherty, S., Thompson, R., Moncrieff, J., Popa, E., Steinbacher, M., Jordan, A., Dlugokencky, E., Brühl, C., Krol, M., and Dentener, F.: Inverse modelling of European N2O emissions: assimilating observations from different networks, Atmos. Chem. Phys., 11, 2381–2398, https://doi.org/10.5194/acp-11-2381-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/acp-10-11501-2010</doi>
+              <unstructured_citation>Curci, G., Palmer, P. I., Kurosu, T. P., Chance, K., and Visconti, G.: Estimating European volatile organic compound emissions using satellite observations of formaldehyde from the Ozone Monitoring Instrument, Atmos. Chem. Phys., 10, 11501–11517, https://doi.org/10.5194/acp-10-11501-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2011JD015703</doi>
+              <unstructured_citation>Deeter, M. N., Worden, H. M., Gille, J. C., Edwards, D. P., Mao, D., and Drummond, J. R.: MOPITT multispectral CO retrievals: Origins and effects of geophysical radiance errors, J. Geophys. Res., 116, D15303, https://doi.org/10.1029/2011JD015703, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1029/2012JD017553</doi>
+              <unstructured_citation>Deeter, M. N., Worden, H. M., Edwards, D. P., Gille, J. C., and Andrews, A. E.: Evaluation of MOPITT retrievals of lower-tropospheric carbon monoxide over the United States, J. Geophys. Res., 117, D13306, https://doi.org/10.1029/2012JD017553, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/jgrd.50272</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: Validation of MOPITT Version 5 thermal-infrared, near-infrared, and multispectral carbon monoxide profile retrievals for 2000–2011, J. Geophys. Res.-Atmos., 118, 6710–6725, https://doi.org/10.1002/jgrd.50272, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/acp-14-3703-2014</doi>
+              <unstructured_citation>Deng, F., Jones, D. B. A., Henze, D. K., Bousserez, N., Bowman, K. W., Fisher, J. B., Nassar, R., O'Dell, C., Wunch, D., Wennberg, P. O., Kort, E. A., Wofsy, S. C., Blumenstock, T., Deutscher, N. M., Griffith, D. W. T., Hase, F., Heikkinen, P., Sherlock, V., Strong, K., Sussmann, R., and Warneke, T.: Inferring regional sources and sinks of atmospheric CO2 from GOSAT XCO2 data, Atmos. Chem. Phys., 14, 3703–3727, https://doi.org/10.5194/acp-14-3703-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1029/2005GL022469</doi>
+              <unstructured_citation>Evans, M. J. and Jacob, D. J.: Impact of new laboratory studies of N2O5 hydrolysis on global model budgets of tropospheric nitrogen oxides, ozone, and OH, Geophys. Res. Lett., 32, L09813, https://doi.org/10.1029/2005GL022469, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1029/2010JD014416</doi>
+              <unstructured_citation>Fortems-Cheiney, A., Chevallier, F., Pison, I., Bousquet, P., Szopa, S., Deeter, M. N., and Clerbaux, C.: Ten years of CO emissions as seen from Measurements of Pollution in the Troposphere (MOPITT), J. Geophys. Res., 116, D05304, https://doi.org/10.1029/2010JD014416, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-12-6699-2012</doi>
+              <unstructured_citation>Fortems-Cheiney, A., Chevallier, F., Pison, I., Bousquet, P., Saunois, M., Szopa, S., Cressot, C., Kurosu, T. P., Chance, K., and Fried, A.: The formaldehyde budget as seen by a global-scale multi-constraint and multi-species inversion system, Atmos. Chem. Phys., 12, 6699–6721, https://doi.org/10.5194/acp-12-6699-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2010JD014443</doi>
+              <unstructured_citation>Göckede, M., Turner, D. P., Michalak, A. M., Vickers, D., and Law, B. E.: Sensitivity of a subregional scale atmospheric inverse CO2 modeling framework to boundary conditions, J. Geophys. Res., 115, D24112, https://doi.org/10.1029/2010JD014443, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2011GL046789</doi>
+              <unstructured_citation>Gonzi, S., Feng, L., and Palmer, P. I.: Seasonal cycle of emissions of CO inferred from MOPITT profiles of CO: Sensitivity to pyroconvection and profile retrieval assumptions, Geophys. Res. Lett., 38, L08813, https://doi.org/10.1029/2011GL046789, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2004JD005185</doi>
+              <unstructured_citation>Heald, C. L., Jacob, D. J., Jones, D. B. A., Palmer, P. I., Logan, J. A., Streets, D. G., Sachse, G. W., Gille, J. C., Hoffman, R. N., and Nehrkorn, T.: Comparative inverse analysis of satellite (MOPITT) and aircraft (TRACE-P) observations to estimate Asian sources of carbon monoxide, J. Geophys. Res., 109, D23306, https://doi.org/10.1029/2004JD005185, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/acp-7-2413-2007</doi>
+              <unstructured_citation>Henze, D. K., Hakami, A., and Seinfeld, J. H.: Development of the adjoint of GEOS-Chem, Atmos. Chem. Phys., 7, 2413–2433, https://doi.org/10.5194/acp-7-2413-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1002/2014JD022732</doi>
+              <unstructured_citation>Hu, L., Millet, D., Baasandorj, M., Griffis, T., Turner, P., Helmig, D., Curtis, A., and Hueber, J.: Isoprene emissions and impacts over an ecological transition region in the U.S. Upper Midwest inferred from tall tower measurements, J. Geophys. Res.-Atmos., 120, 3553–3571, https://doi.org/10.1002/2014JD022732, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Jiang, Z., Jones, D. B. A., Worden, H. M., Deeter, M. N., Henze, D. K., Worden, J., Bowman, K. W., Brenninkmeijer, C. A. M., and Schuck, T. J.: Impact of model errors in convective transport on CO source estimates inferred from MOPITT CO retrievals, J. Geophys. Res. Atmos., 118, 2073–2083, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/acp-15-1521-2015</doi>
+              <unstructured_citation>Jiang, Z., Jones, D. B. A., Worden, H. M., and Henze, D. K.: Sensitivity of top-down CO source estimates to the modeled vertical structure in atmospheric CO, Atmos. Chem. Phys., 15, 1521–1537, https://doi.org/10.5194/acp-15-1521-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2010JD015282</doi>
+              <unstructured_citation>Jiang, Z., Jones, D., Kopacz, M., Liu, J., Henze, D., and Heald, C.: Quantifying the impact of model errors on top-down estimates of carbon monoxide emissions using satellite observations, J. Geophys. Res., 116, D15306, https://doi.org/10.1029/2010JD015282, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/acp-9-3547-2009</doi>
+              <unstructured_citation>Jones, D. B. A., Bowman, K. W., Logan, J. A., Heald, C. L., Liu, J., Luo, M., Worden, J., and Drummond, J.: The zonal structure of tropical O3 and CO as observed by the Tropospheric Emission Spectrometer in November 2004 – Part 1: Inverse modeling of CO emissions, Atmos. Chem. Phys., 9, 3547–3562, https://doi.org/10.5194/acp-9-3547-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Keller, M., Jones, D. B. A., Jiang, Z., Henze, D. K., and Worden, H. M.: Quantifying Model Biases in CO Emission Estimation Using Weak Constraint 4D-Var, J. Geophys. Res., submitted, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-14-609-2014</doi>
+              <unstructured_citation>Klich, C. A. and Fuelberg, H. E.: The role of horizontal model resolution in assessing the transport of CO in a middle latitude cyclone using WRF-Chem, Atmos. Chem. Phys., 14, 609–627, https://doi.org/10.5194/acp-14-609-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/2007JD009264</doi>
+              <unstructured_citation>Kopacz, M., Jacob, D., Henze, D., Heald, C., Streets, D., and Zhang, Q.: Comparison of adjoint and analytical Bayesian inversion methods for constraining Asian sources of carbon monoxide using satellite (MOPITT) measurements of CO columns, J. Geophys. Res., 114, D04305, https://doi.org/10.1029/2007JD009264, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/acp-10-855-2010</doi>
+              <unstructured_citation>Kopacz, M., Jacob, D. J., Fisher, J. A., Logan, J. A., Zhang, L., Megretskaia, I. A., Yantosca, R. M., Singh, K., Henze, D. K., Burrows, J. P., Buchwitz, M., Khlystova, I., McMillan, W. W., Gille, J. C., Edwards, D. P., Eldering, A., Thouret, V., and Nedelec, P.: Global estimates of CO sources with high resolution by adjoint inversion of multiple satellite datasets (MOPITT, AIRS, SCIAMACHY, TES), Atmos. Chem. Phys., 10, 855–876, https://doi.org/10.5194/acp-10-855-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/acp-12-337-2012</doi>
+              <unstructured_citation>Lauvaux, T., Schuh, A. E., Uliasz, M., Richardson, S., Miles, N., Andrews, A. E., Sweeney, C., Diaz, L. I., Martins, D., Shepson, P. B., and Davis, K. J.: Constraining the CO2 budget of the corn belt: exploring uncertainties from the assumptions in a mesoscale inverse system, Atmos. Chem. Phys., 12, 337–354, https://doi.org/10.5194/acp-12-337-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2005GL022762</doi>
+              <unstructured_citation>Li, Q., Jiang, J., Wu, D., Read, W., Livesey, N., Waters, J., Zhang, Y., Wang, B., Filipiak, M., Davis, C., Turquety, S., Wu, S., Park, R., Yantosca, R., and Jacob, D.: Convective outflow of South Asian pollution: A global CTM simulation compared with EOS MLS observations, Geophys. Res. Lett., 32, L14826, https://doi.org/10.1029/2005GL022762, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Liu, D. C. and Nocedal, J.: On the Limited Memory Method for Large Scale Optimization, Math. Program., 45, 503–528, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-10-12207-2010</doi>
+              <unstructured_citation>Liu, J. H., Logan, J. A., Jones, D. B. A., Livesey, N. J., Megretskaia, I., Carouge, C., and Nedelec, P.: Analysis of CO in the tropical troposphere using Aura satellite data and the GEOS-Chem model: insights into transport characteristics of the GEOS meteorological products, Atmos. Chem. Phys., 10, 12207–12232, https://doi.org/10.5194/acp-10-12207-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/acp-13-9917-2013</doi>
+              <unstructured_citation>Locatelli, R., Bousquet, P., Chevallier, F., Fortems-Cheney, A., Szopa, S., Saunois, M., Agusti-Panareda, A., Bergmann, D., Bian, H., Cameron-Smith, P., Chipperfield, M. P., Gloor, E., Houweling, S., Kawa, S. R., Krol, M., Patra, P. K., Prinn, R. G., Rigby, M., Saito, R., and Wilson, C.: Impact of transport model errors on the global and regional methane emissions estimated by inverse modelling, Atmos. Chem. Phys., 13, 9917–9937, https://doi.org/10.5194/acp-13-9917-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.5194/acp-8-6341-2008</doi>
+              <unstructured_citation>Meirink, J. F., Bergamaschi, P., and Krol, M. C.: Four-dimensional variational data assimilation for inverse modelling of atmospheric methane emissions: method and comparison with synthesis inversion, Atmos. Chem. Phys., 8, 6341–6353, https://doi.org/10.5194/acp-8-6341-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1029/2003JD003397</doi>
+              <unstructured_citation>Palmer, P., Jacob, D., Jones, D., Heald, C., Yantosca, R., Logan, J., Sachse, G., and Streets, D.: Inverting for emissions of carbon monoxide from Asia using aircraft observations over the western Pacific, J. Geophys. Res., 108, 8828, https://doi.org/10.1029/2003JD003397, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1029/2007JD009341</doi>
+              <unstructured_citation>Parrington, M., Jones, D. B. A., Bowman, K. W., Horowitz, L. W., Thompson, A. M., Tarasick, D. W., and Witte, J. C.: Estimating the summertime tropospheric ozone distribution over North America through assimilation of observations from the Tropospheric Emission Spectrometer, J. Geophys. Res., 113, D18307, https://doi.org/10.1029/2007JD009341, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2004GL020560</doi>
+              <unstructured_citation>Pétron, G., Granier, C., Khattatov, B., Yudin, V., Lamarque, J.-F., Emmons, L., Gille, J., and Edwards, D. P.: Monthly CO surface sources inventory based on the 2000–2001 MOPITT satellite data, Geophys. Res. Lett., 31, L21107, https://doi.org/10.1029/2004GL020560, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.5194/acp-11-6607-2011</doi>
+              <unstructured_citation>Peylin, P., Houweling, S., Krol, M. C., Karstens, U., Rödenbeck, C., Geels, C., Vermeulen, A., Badawy, B., Aulagnier, C., Pregger, T., Delage, F., Pieterse, G., Ciais, P., and Heimann, M.: Importance of fossil fuel emission uncertainties over Europe for CO2 modeling: model intercomparison, Atmos. Chem. Phys., 11, 6607–6622, https://doi.org/10.5194/acp-11-6607-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2006JD007905</doi>
+              <unstructured_citation>Singh, H. B., Brune, W. H., Crawford, J. H., Jacob, D. J., and Russell, P. B.: Overview of the summer 2004 Intercontinental Chemical Transport Experiment – North America (INTEX-A), J. Geophys. Res., 111, D24S01, https://doi.org/10.1029/2006JD007905, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/gmd-4-299-2011</doi>
+              <unstructured_citation>Singh, K., Jardak, M., Sandu, A., Bowman, K., Lee, M., and Jones, D.: Construction of non-diagonal background error covariance matrices for global chemical data assimilation, Geosci. Model Dev., 4, 299–316, https://doi.org/10.5194/gmd-4-299-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-14-9295-2014</doi>
+              <unstructured_citation>Stein, O., Schultz, M. G., Bouarar, I., Clark, H., Huijnen, V., Gaudel, A., George, M., and Clerbaux, C.: On the wintertime low bias of Northern Hemisphere carbon monoxide found in global model simulations, Atmos. Chem. Phys., 14, 9295–9316, https://doi.org/10.5194/acp-14-9295-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/acp-14-3899-2014</doi>
+              <unstructured_citation>Stock, Z. S., Russo, M. R., and Pyle, J. A.: Representing ozone extremes in European megacities: the importance of resolution in a global chemistry climate model, Atmos. Chem. Phys., 14, 3899–3912, https://doi.org/10.5194/acp-14-3899-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.5194/acp-11-3107-2011</doi>
+              <unstructured_citation>Stroud, C. A., Makar, P. A., Moran, M. D., Gong, W., Gong, S., Zhang, J., Hayden, K., Mihele, C., Brook, J. R., Abbatt, J. P. D., and Slowik, J. G.: Impact of model grid spacing on regional- and urban- scale air quality predictions of organic aerosol, Atmos. Chem. Phys., 11, 3107–3118, https://doi.org/10.5194/acp-11-3107-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/acp-11-11647-2011</doi>
+              <unstructured_citation>Valin, L. C., Russell, A. R., Hudman, R. C., and Cohen, R. C.: Effects of model resolution on the interpretation of satellite NO2 observations, Atmos. Chem. Phys., 11, 11647–11655, https://doi.org/10.5194/acp-11-11647-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2004JD005237</doi>
+              <unstructured_citation>Wang, Y. X., McElroy, M. B., Jacob, D. J., and Yantosca, R. M.: A nested grid formulation for chemical transport over Asia: Applications to CO, J. Geophys. Res., 109, D22307, https://doi.org/10.1029/2004JD005237, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-14-8173-2014</doi>
+              <unstructured_citation>Wecht, K. J., Jacob, D. J., Sulprizio, M. P., Santoni, G. W., Wofsy, S. C., Parker, R., Bösch, H., and Worden, J.: Spatially resolving methane emissions in California: constraints from the CalNex aircraft campaign and from present (GOSAT, TES) and future (TROPOMI, geostationary) satellite observations, Atmos. Chem. Phys., 14, 8173–8184, https://doi.org/10.5194/acp-14-8173-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-14-2555-2014</doi>
+              <unstructured_citation>Wells, K. C., Millet, D. B., Cady-Pereira, K. E., Shephard, M. W., Henze, D. K., Bousserez, N., Apel, E. C., de Gouw, J., Warneke, C., and Singh, H. B.: Quantifying global terrestrial methanol emissions using observations from the TES satellite sensor, Atmos. Chem. Phys., 14, 2555–2570, https://doi.org/10.5194/acp-14-2555-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/2010JD014242</doi>
+              <unstructured_citation>Worden, H. M., Deeter, M. N., Edwards, D. P., Gille, J. C., Drummond, J. R., and Nédélec, P.: Observations of near-surface carbon monoxide from space using MOPITT multispectral retrievals, J. Geophys. Res., 115, D18314, https://doi.org/10.1029/2010JD014242, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1002/grl.50937</doi>
+              <unstructured_citation>Worden, J., Jiang, Z., Jones, D., Alvarado, M., Bowman, K., Frankenberg, C., Kort, E., Kulawik, S., Lee, M., Liu, J., Payne, V., Wecht, K., and Worden, H.: El Niño, the 2006 Indonesian peat fires, and the distribution of atmospheric methane,Geophys. Res. Lett., 40, 4938–4943, https://doi.org/10.1002/grl.50937, 2013.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

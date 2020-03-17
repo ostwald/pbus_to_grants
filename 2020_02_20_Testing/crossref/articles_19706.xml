@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>3</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Climate SPHINX: evaluating the impact of resolution and stochastic physics parameterisations in the EC-Earth global climate model</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Paolo</given_name>
+              <surname>Davini</surname>
+              <ORCID>https://orcid.org/0000-0003-3389-7849</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jost</given_name>
+              <surname>von Hardenberg</surname>
+              <ORCID>https://orcid.org/0000-0002-5312-8070</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Susanna</given_name>
+              <surname>Corti</surname>
+              <ORCID>https://orcid.org/0000-0003-4456-6682</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hannah M.</given_name>
+              <surname>Christensen</surname>
+              <ORCID>https://orcid.org/0000-0001-8244-0218</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Stephan</given_name>
+              <surname>Juricke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Aneesh</given_name>
+              <surname>Subramanian</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Peter A. G.</given_name>
+              <surname>Watson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Antje</given_name>
+              <surname>Weisheimer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tim N.</given_name>
+              <surname>Palmer</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Climate SPHINX (Stochastic Physics HIgh resolutioN eXperiments) project is a comprehensive set of ensemble simulations aimed at evaluating the sensitivity of present and future climate to model resolution and stochastic parameterisation. The EC-Earth Earth system model is used to explore the impact of stochastic physics in a large ensemble of 30-year climate integrations at five different atmospheric horizontal resolutions (from 125 up to 16<span class="thinspace"></span>km). The project includes more than 120 simulations in both a historical scenario (1979–2008) and a climate change projection (2039–2068), together with coupled transient runs (1850–2100). A total of 20.4 million core hours have been used, made available from a single year grant from PRACE (the Partnership for Advanced Computing in Europe), and close to 1.5<span class="thinspace"></span>PB of output data have been produced on SuperMUC IBM Petascale System at the Leibniz Supercomputing Centre (LRZ) in Garching, Germany. About 140<span class="thinspace"></span>TB of post-processed data are stored on the CINECA supercomputing centre archives and are freely accessible to the community thanks to an EUDAT data pilot project. This paper presents the technical and scientific set-up of the experiments, including the details on the forcing used for the simulations performed, defining the SPHINX v1.0 protocol. In addition, an overview of preliminary results is given. An improvement in the simulation of Euro-Atlantic atmospheric blocking following resolution increase is observed. It is also shown that including stochastic parameterisation in the low-resolution runs helps to improve some aspects of the tropical climate – specifically the Madden–Julian Oscillation and the tropical rainfall variability. These findings show the importance of representing the impact of small-scale processes on the large-scale climate variability either explicitly (with high-resolution simulations) or stochastically (in low-resolution simulations).</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>31</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>1383</first_page>
+            <last_page>1402</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Horizon 2020
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100007601</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Research Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000781</assertion>
+              </assertion>
+              <assertion name="award_number">291406</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-10-1383-2017</doi>
+            <resource>https://www.geosci-model-dev.net/10/1383/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/10/1383/2017/gmd-10-1383-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Anstey, J. A., Davini, P., Gray, L. J., Woollings, T. J., Butchart, N., Cagnazzo, C., Christiansen, B., Hardiman, S. C., Osprey, S. M., and Yang, S.: Multi-́model analysis of Northern Hemisphere winter blocking: Model biases and the role of resolution, J. Geophys. Res.-Atmos., 118, 3956–3971, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Arnold, H., Moroz, I., and Palmer, T.: Stochastic parametrizations and model uncertainty in the Lorenz'96 system, Philos. T. R. Soc. Lond, 371, 20110479, https://doi.org/10.1098/rsta.2011.0479, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Balsamo, G., Viterbo, P., Beljaars, A., van den Hurk, B., Hirschi, M., Betts, A. K., and Scipal, K.: A revised hydrology for the ECMWF model: Verification from field site to terrestrial water storage and impact in the Integrated Forecast System, J. Hydrometeorol., 10, 623–643, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Beljaars, A., Bechtold, P., Köhler, M., Morcrette, J.-J., Tompkins, A., Viterbo, P., and Wedi, N.: The numerics of physical parametrization, Proc. of ECMWF Seminar on Recent Developments in Numerical Methods for Atmosphere and Ocean Modelling, ECMWF, Reading, UK, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Bengtsson, L., Steinheimer, M., Bechtold, P., and Geleyn, J.-F.: A stochastic parametrization for deep convection using cellular automata, Q. J. Roy. Meteor. Soc., 139, 1533–1543, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Berckmans, J., Woollings, T., Demory, M.-E., Vidale, P.-L., and Roberts, M.: Atmospheric blocking in a high resolution climate model: influences of mean state, orography and eddy forcing, Atmos. Sci. Lett., 14, 34–40, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Berner, J., Shutts, G., Leutbecher, M., and Palmer, T.: A spectral stochastic kinetic energy backscatter scheme and its impact on flow-dependent predictability in the ECMWF ensemble prediction system, J. Atmos. Sci., 66, 603–626, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Berner, J., Jung, T., and Palmer, T.: Systematic model error: the impact of increased horizontal resolution versus improved stochastic and deterministic parameterizations, J. Climate, 25, 4946–4962, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Bouttier, F., Vié, B., Nuissier, O., and Raynaud, L.: Impact of stochastic physics in a convection-permitting ensemble, Mon. Weather Rev., 140, 3706–3721, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Brayshaw, D., Hoskins, B., and Blackburn, M.: The basic ingredients of the North Atlantic storm track, Part I: land–sea contrast and orography, J. Atmos. Sci., 66, 2539–2558, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Buizza, R., Petroliagis, T., Palmer, T., Barkmeijer, J., Hamrud, M., Hollingsworth, A., Simmons, A., and Wedi, N.: Impact of model resolution and ensemble size on the performance of an ensemble prediction system, Q. J. Roy. Meteor. Soc., 124, 1935–1960, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Christensen, H. M., Moroz, I. M., and Palmer, T. N.: Simulating Weather Regimes: impact of stochastic and perturbed parameter schemes in a simple atmospheric model, Clim. Dynam., 44, 2195–2214, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Christensen, H. M., Berner, J., Coleman, D., and Palmer, T. N.: Stochastic parametrisation and the El Niño-Southern Oscillation, J. Climate, 30, 17–38, 2017a.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Christensen, H. M., Dawson, A., and Palmer, T.: Constraining Stochastic Parametrisation Schemes using High-resolution Model Simulations, in preparation, 2017b.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>D'Andrea, F., Tibaldi, S., Blackburn, M., Boer, G., Deque, M., Dix, M. R., Dugas, B., Ferranti, L., Iwasaki, T., Kitoh, A., Pope, V., Randall, D., Roeckner, E., Straus, D., Stern, W., den Dool, H. V., and Williamson, D.: Northern Hemisphere atmospheric blocking as simulated by 15 atmospheric general circulation models in the period 1979–1988, Clim. Dynam., 14, 383–407, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Davini, P. and D'Andrea, F.: Northern Hemisphere atmospheric blocking representation in Global Climate Models: twenty years of improvements?, J. Climate, 29, 8823–8840, https://doi.org/10.1175/JCLI-D-16-0242.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Davini, P., Cagnazzo, C., Gualdi, S., and Navarra, A.: Bidimensional diagnostics, variability and trends of Northern Hemisphere blocking, J. Climate, 25, 6996–6509, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Davini, P., Filippi, L., and von Hardenberg, J.: Tuning EC-Earth from v3.01 to v3.1, Tech. Rep. 01/14, CNR-ISAC, UOS Torino, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Dawson, A. and Palmer, T.: Simulating weather regimes: impact of model resolution and stochastic parameterization, Clim. Dynam., 44, 2177–2193, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Dawson, A., Palmer, T., and Corti, S.: Simulating regime structures in weather and climate prediction models, Geophys. Res. Lett., 39, L21805, https://doi.org/10.1029/2012GL053284, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P., Kobayashi, S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P., Bechtold, P., Beljaars, A. C. M., van de Berg, I., Biblot, J., Bormann, N., Delsol, C., Dragani, R., Fuentes, M., Greer, A. J., Haimberger, L., Healy, S. B., Hersbach, H., Holm, E. V., Isaksen, L., Kallberg, P., Kohler, M., Matricardi, M., McNally, A. P., Mong-Sanz, B. M., Morcette, J.-J., Park, B.-K., Peubey, C., de Rosnay, P., Tavolato, C., Thepaut, J. N., and Vitart, F.: The ERA-Interim reanalysis: Configuration and performance of the data assimilation system, Q. J. Roy. Meteorol. Soc., 137, 553–597, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Delworth, T., Rosati, A., Anderson, W., Adcroft, A., Balaji, V., Benson, R., Dixon, K., Griffies, S., Lee, H., Pacanowski, R., Vecchi, G., Wittenberg, A., Zeng, F., and Zhang, R.: Simulated climate and climate change in the GFDL CM2. 5 high-resolution coupled climate model, J. Climate, 25, 2755–2781, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Demory, M.-E., Vidale, P. L., Roberts, M. J., Berrisford, P., Strachan, J., Schiemann, R., and Mizielinski, M. S.: The role of horizontal resolution in simulating drivers of the global hydrological cycle, Clim. Dynam., 42, 2201–2225, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Deng, Q., Khouider, B., and Majda, A. J.: The MJO in a coarse-resolution GCM with a stochastic multicloud parameterization, J. Atmos. Sci., 72, 55–74, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Deser, C., Phillips, A., Bourdette, V., and Teng, H.: Uncertainty in climate change projections: The role of internal variability, Clim. Dynam., 1–20, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Dole, R., Hoerling, M., Perlwitz, J., Eischeid, J., Pegion, P., Zhang, T., Quan, X.-W., Xu, T., and Murray, D.: Was there a basis for anticipating the 2010 Russian heat wave?, Geophys. Res. Lett., 38, L06702, https://doi.org/10.1029/2010GL046582, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <unstructured_citation>Dorrestijn, J., Crommelin, D. T., Siebesma, A. P., Jonker, H. J., and Selten, F.: Stochastic convection parameterization with Markov Chains in an intermediate-complexity GCM, J. Atmos. Sci., 73, 1367–1382, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Dunn-Sigouin, E. and Son, S.-W.: Northern Hemisphere blocking frequency and duration in the CMIP5 models, J. Geophys. Res.-Atmos., 118, 1179–1188, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>ECWMF: IFS cycle36r1, http://www.ecmwf.int/research/ifsdocs/CY36r1/, European Center for Medium Range Forecast, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Gottschalck, J., Wheeler, M., Weickmann, K., Vitart, F., Savage, N., Lin, H., Hendon, H., Waliser, D., Sperber, K., Nakagawa, M., Prestrelo, C., Flatau, M., and Higgins, W.: A framework for assessing operational Madden–Julian oscillation forecasts: a CLIVAR MJO working group project, B. Am. Meteorol. Soc., 91, 1247–1258, https://doi.org/10.1175/2010BAMS2816.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Grell, G. A. and Freitas, S. R.: A scale and aerosol aware stochastic convective parameterization for weather and air quality modeling, Atmos. Chem. Phys., 14, 5233–5250, https://doi.org/10.5194/acp-14-5233-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <unstructured_citation>Haarsma, R. J., Roberts, M. J., Vidale, P. L., Senior, C. A., Bellucci, A., Bao, Q., Chang, P., Corti, S., Fuckar, N. S., Guemas, V., von Hardenberg, J., Hazeleger, W., Kodama, C., Koenigk, T., Leung, L. R., Lu, J., Luo, J.-J., Mao, J., Mizielinski, M. S., Mizuta, R., Nobre, P., Satoh, M., Scoccimarro, E., Semmler, T., Small, J., and von Storch, J.-S.: High Resolution Model Intercomparison Project (HighResMIP v1.0) for CMIP6, Geosci. Model Dev., 9, 4185–4208, https://doi.org/10.5194/gmd-9-4185-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Hazeleger, W., Severijns, C., Semmler, T., Ştefăănescu, S., Yang, S., Wang, X., Wyser, K., Dutra, E., Baldasano, J. M., Bintanja, R., Bougeault, P., Caballero, R., Ekman, A., Christensen, J., van den Hurk, B., Jimenez, P., Jones, C., Kållberg, P., Koenigk, T., McGrath, R., Miranda, P., Van Noije, T., Palmer, T., Parodi, J., Schmith, T., Selten, F., Storelvmo, T., Sterl, A., Tapamo, H., Vancoppenolle, M., Viterbo, P., and Willén, U.: EC-Earth: A Seamless Earth-System Prediction Approach in Action, B. Am. Meteorol. Soc., 91, 1357–1363, https://doi.org/10.1175/2010BAMS2877.1, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Hazeleger, W., Wang, X., Severijns, C., Ştefănescu, S., Bintanja, R., Sterl, A., Wyser, K., Semmler, T., Yang, S., Van den Hurk, B., van Noije, T., van der Linden, E., and van der Wiel, K.: EC-Earth V2.2: description and validation of a new seamless Earth system prediction model, Clim. Dynam., 39, 2611–2629, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Hersbach, H., Peubey, C., Simmons, A., Berrisford, P., Poli, P., and Dee, D.: ERA-20CM: a twentieth-century atmospheric model ensemble, Q. J. Roy. Meteor. Soc., 141, 2350–2375, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>Huffman, G. J., Adler, R. F., Morrissey, M. M., Bolvin, D. T., Curtis, S., Joyce, R., McGavock, B., and Susskind, J.: Global precipitation at one-degree daily resolution from multisatellite observations, J. Hydrometeorol., 2, 36–50, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Huffman, G. J., Bolvin, D. T., Nelkin, E. J., Wolff, D. B., Adler, R. F., Gu, G., Hong, Y., Bowman, K. P., and Stocker, E. F.: The TRMM multisatellite precipitation analysis (TMPA): Quasi-global, multiyear, combined-sensor precipitation estimates at fine scales, J. Hydrometeorol., 8, 38–55, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Hung, M.-P., Lin, J.-L., Wang, W., Kim, D., Shinoda, T., and Weaver, S. J.: MJO and convectively coupled equatorial waves simulated by CMIP5 climate models, J. Climate, 26, 6185–6214, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>IPCC: Climate change 2014: impacts, adaptation, and vulnerability. Part B: regional aspects, Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Jung, T., Miller, M., Palmer, T., Towers, P., Wedi, N., Achuthavarier, D., Adams, J., Altshuler, E., Cash, B., Kinter, J., Marx, L., Stan, C., and Hodges, K.: High-resolution global climate simulations with the ECMWF model in Project Athena: Experimental design, model climate, and seasonal forecast skill, J. Climate, 25, 3155–3172, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Kay, J., Deser, C., Phillips, A., Mai, A., Hannay, C., Strand, G., Arblaster, J., Bates, S., Danabasoglu, G., Edwards, J., Holland, M., Kushner, P., Lamarque, J., Lawrence, D., Lindsay, K., Middleton, A., Munoz, E., Neale, R., Oleson, K., Polvani, L., and Vertenstein, M.: The Community Earth System Model (CESM) large ensemble project: A community resource for studying climate change in the presence of internal climate variability, B. Am. Meteorol. Soc., 96, 1333–1349, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Kennedy, J., Reyner, N., Millington, S. C., and Saunby, M.: The Met Office Hadley Centre sea ice and sea-surface temperature data set, version 2, part 2: Sea surface temperature analysis, in preparation, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Khouider, B., Biello, J., and Majda, A. J.: A stochastic multicloud model for tropical convection, Commun. Math. Sci., 8, 187–216, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Khouider, B., St-Cyr, A., Majda, A. J., and Tribbia, J.: The MJO and convectively coupled waves in a coarse-resolution GCM with a simple multicloud parameterization, J. Atmos. Sci., 68, 240–264, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <unstructured_citation>Kim, D., Sperber, K., Stern, W., Waliser, D., Kang, I.-S., Maloney, E., Wang, W., Weickmann, K., Benedict, J., Khairoutdinov, M., Lee, M., Neale, R., Suarez, M., Thayer-Calder, K., and Zhang, G.: Application of MJO simulation diagnostics to climate models, J. Climate, 22, 6413–6436, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <unstructured_citation>Kim, D., Xavier, P., Maloney, E., Wheeler, M., Waliser, D., Sperber, K., Hendon, H., Zhang, C., Neale, R., Hwang, Y.-T., and Liu, H.: Process-oriented MJO simulation diagnostic: Moisture sensitivity of simulated convection, J. Climate, 27, 5379–5395, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Kinter III, J., Cash, B., Achuthavarier, D., Adams, J., Altshuler, E., Dirmeyer, P., Doty, B., Huang, B., Jin, E., Marx, L., and Manganello, J., Stan, C., Wakefield, T., Palmer, T., Hamrud, M., Jung, T., Miller, M., Towers, P., Wedi, N., Satoh, M., Tomita, H., Kodama, C., Nasuno, T., Oouchi, K., Yamada, Y., Taniguchi, H., Andrews, P., Baer, T., Ezell, M., Halloy, C., John, D., Loftis, B., Mohr, R., and Wong, K.: Revolutionizing climate modeling with Project Athena: A multi-institutional, international collaboration, B. Am. Meteorol. Soc., 94, 231–245, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Klingaman, N. P., Woolnough, S. J., Jiang, X., Waliser, D., Xavier, P. K., Petch, J., Caian, M., Hannay, C., Kim, D., Ma, H.-Y., Merryfield, W. J., Miyakawa, T., Pritchard, M., Ridout, J. A., Roehrig, R., Shindo, E., Vitart, F., Wang, H., Cavanaugh, N. R., Mapes, B. E., Shelly, A., and Zhang, G. J.: Vertical structure and physical processes of the Madden–Julian oscillation: Linking hindcast fidelity to simulated diabatic heating and moistening, J. Geophys. Res.-Atmos., 120, 4690–4717, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Leutbecher, M., Lock, S.-J., Ollinaho, P., Lang, S. T. K., Balsamo, G., Bechtold, P., Bonavita, M., Christensen, H. M., Diamantakis, M., Dutra, E., English, S., Fisher, M., Forbes, R. M., Goddard, J., Haiden, T., Hogan, R. J., Juricke, S., Lawrence, H., MacLeod, D., Magnusson, L., Malardel, S., Massart, S., Sandu, I., Smolarkiewicz, P. K., Subramanian, A., Vitart, F., Wedi, N., and Weisheimer, A.: Stochastic representations of model uncertainties at ECMWF: State of the art and future vision, Q. J. Roy. Meteor. Soc., in preparation, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Lin, J.-L., Kiladis, G. N., Mapes, B. E., Weickmann, K. M., Sperber, K. R., Lin, W., Wheeler, M. C., Schubert, S. D., Del Genio, A., Donner, L. J., Emori, S., Gueremy, J., Hourdin, F., Rasch, P., Roeckner, E., and Scinocca, J.: Tropical intraseasonal variability in 14 IPCC AR4 climate models, Part I: Convective signals, J. Climate, 19, 2665–2690, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <unstructured_citation>Lin, J. W.-B. and Neelin, J. D.: Influence of a stochastic moist convective parameterization on tropical climate variability, Geophy. Res. Lett., 27, 3691–3694, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Lin, J. W.-B. and Neelin, J. D.: Toward stochastic deep convective parameterization in general circulation models, Geophy. Res. Lett., 30, 1162, https://doi.org/10.1029/2002GL016203, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Lu, J., Chen, G., Leung, L. R., Burrows, D. A., Yang, Q., Sakaguchi, K., and Hagos, S.: Toward the dynamical convergence on the jet stream in aquaplanet AGCMs, J. Climate, 28, 6763–6782, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Madden, R. A. and Julian, P. R.: Observations of the 40–50-day tropical oscillation-A review, Mon. Weather Rev., 122, 814–837, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <unstructured_citation>Madec, G.: NEMO ocean engine, Tech. rep., Institut Pierre-Simon Laplace (IPSL), 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Masato, G., Hoskins, B. J., and Woollings, T.: Winter and Summer Northern Hemisphere blocking in CMIP5 models, J. Climate, 26, 7044–7059, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Mauritsen, T., Stevens, B., Roeckner, E., Crueger, T., Esch, M., Giorgetta, M., Haak, H., Jungclaus, J., Klocke, D., Matei, D., Mikolajewicz, U., Notz, D., Pincus, R., Schmidt, H., and Tomassini, L.,: Tuning the climate of a global model, J. Adv. Model. Earth Sys., 4, M00A01, https://doi.org/10.1029/2012MS000154, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Mizielinski, M. S., Roberts, M. J., Vidale, P. L., Schiemann, R., Demory, M.-E., Strachan, J., Edwards, T., Stephens, A., Lawrence, B. N., Pritchard, M., Chiu, P., Iwi, A., Churchill, J., del Cano Novales, C., Kettleborough, J., Roseblade, W., Selwood, P., Foster, M., Glover, M., and Malcolm, A.: High-resolution global climate modelling: the UPSCALE project, a large-simulation campaign, Geosci. Model Dev., 7, 1629–1640, https://doi.org/10.5194/gmd-7-1629-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <unstructured_citation>Mizuta, R., Adachi, Y., Yukimoto, S., and Kusunoki, S.: Estimation of future distribution of sea surface temperature and sea ice using CMIP3 multi-model ensemble mean, Technical Report of the Meteorological Research Institute, 28 pp., 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <unstructured_citation>Moss, R., Edmonds, J., Hibbard, K., Manning, M., Rose, S., van Vuuren, D., Carter, T., Emori, S., Kainuma, M., Kram, T., Meehl, G. A., Mitchell, J. F. B., Nakicenovic, N., Riahi, K., Smith, S. J., Stouffer, R. J., Thomson, A. M., Weyant, J. P., and Wilbanks, T. J.: The next generation of scenarios for climate change research and assessment, Nature, 463, 747–756, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <unstructured_citation>Ollinaho, P., Lock, S.-J., Leutbecher, M., Bechtold, P., Beljaars, A., Bozzo, A., Forbes, R. M., Haiden, T., Hogan, R. J., and Sandu, I.: Towards process-level representation of model uncertainties: Stochastically perturbed parametrisations in the ECMWF ensemble, Q. J. Roy. Meteor. Soc., 143, 408–422, https://doi.org/10.1002/qj.2931, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Palmer, T.: Towards the probabilistic Earth-system simulator: a vision for the future of climate and weather prediction, Q. J. Roy. Meteor. Soc., 138, 841–861, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Palmer, T., Buizza, R., Doblas-Reyes, F., Jung, T., Leutbecher, M., Shutts, G., Steinheimer, M., and Weisheimer, A.: Stochastic parametrization and model uncertainty, European Centre for Medium-Range Weather Forecasts, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Peatman, S. C., Matthews, A. J., and Stevens, D. P.: Propagation of the Madden–Julian Oscillation and scale interaction with the diurnal cycle in a high-resolution GCM, Clim. Dynam., 45, 2901–2918, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Pelly, J. and Hoskins, B.: A New Perspective on Blocking, J. Atmos. Sci., 60, 743–755, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Plant, R. and Craig, G. C.: A stochastic parameterization for deep convection based on equilibrium statistics, J. Atmos. Sci., 65, 87–105, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Raymond, D., Fuchs, Ž., Gjorgjievska, S., and Sessions, S.: Balanced dynamics and convection in the tropical troposphere, J. Adv. Model. Earth Sys., 7, 1093–1116, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Renwick, J. and Wallace, J.: Relationships between North Pacific wintertime blocking, El Niño, and the PNA pattern, Mon. Weather Rev., 124, 2071–2076, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <unstructured_citation>Rex, D.: Blocking action in the middle troposphere and its effect upon regional climate: I. An aerological study of blocking action, Tellus, 2, 196–211, 1950.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Saeed, F., Haensler, A., Weber, T., Hagemann, S., and Jacob, D.: Representation of extreme precipitation events leading to opposite climate change signals over the Congo basin, Atmosphere, 4, 254–271, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>Sakradzija, M., Seifert, A., and Dipankar, A.: A stochastic scale-aware parameterization of shallow cumulus convection across the convective gray zone, J. Adv. Model. Earth Sys., 8, 786–812, https://doi.org/10.1002/2016MS000634, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <unstructured_citation>Sanchez, C., Williams, K. D., and Collins, M.: Improved stochastic physics schemes for global weather and climate models, Q. J. Roy. Meteor. Soc., 142, 147–159, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Schiemann, R., Demory, M.-E., Shaffrey, L. C., Strachan, J., Vidale, P. L., Mizielinski, M. S., Roberts, M. J., Matsueda, M., Wehner, M. F., and Jung, T.: The resolution sensitivity of Northern Hemisphere blocking in four 25-km atmospheric global circulation models, J. Climate, 30, 337–358, https://doi.org/10.1175/JCLI-D-16-0100.1, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Shutts, G.: The propagation of eddies in diffluent jetstreams: eddy vorticity forcing of blocking flow fields, Q. J. Roy. Meteor. Soc., 109, 737–761, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Shutts, G.: A kinetic energy backscatter algorithm for use in ensemble prediction systems, Q. J. Roy. Meteor. Soc., 131, 3079–3102, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <unstructured_citation>Shutts, G. and Pallarès, A. C.: Assessing parametrization uncertainty associated with horizontal resolution in numerical weather prediction models, Philos. T. R. Soc. A, 372, 20130284, https://doi.org/10.1098/rsta.2013.0284, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <unstructured_citation>Shutts, G. and Palmer, T.: Convective forcing fluctuations in a cloud-resolving model: Relevance to the stochastic parameterization problem, J. Climate, 20, 187–202, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <unstructured_citation>Sillmann, J., Croci-Maspoli, M., Kallache, M., and Katz, R. W.: Extreme Cold Winter Temperatures in Europe under the Influence of North Atlantic Atmospheric Blocking, J. Climate, 24, 5899–5913, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Slingo, J., Sperber, K., Boyle, J., Ceron, J.-P., Dix, M., Dugas, B., Ebisuzaki, W., Fyfe, J., Gregory, D., Gueremy, J.-F., Hack, J., Harzallah, A., Inness, P., Kitoh, A., Lau, W. K.-M., McAvaney, B., Madden, R., Matthews, A., Palmer, T. N., Parkas, C.-K., Randall, D., and Renno, N.: Intraseasonal oscillations in 15 atmospheric general circulation models: results from an AMIP diagnostic subproject, Clim. Dynam., 12, 325–357, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <unstructured_citation>Sperber, K., Slingo, J., and Inness, P.: Modeling intraseasonal variability, in: Intraseasonal Variability of the Atmosphere-Ocean Climate System, p. 613, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Straub, K. H.: MJO initiation in the real-time multivariate MJO index, J. Climate, 26, 1130–1151, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Subramanian, A., Weisheimer, A., Palmer, T., Vitart, F., and Bechtold, P.: Impact of stochastic physics on tropical precipitation in the coupled ECMWF model, Q. J. Roy. Meteor. Soc., 143, 852–865, 2017.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <unstructured_citation>Taylor, K., Stouffer, R., and Meehl, G.: An overview of CMIP5 and the experiment design, B. Am. Meteorol. Soc., 93, 485–498, https://doi.org/10.1175/BAMS-D-11-00094.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Tibaldi, S. and Molteni, F.: On the operational predictability of blocking, Tellus A, 42, 343–365, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <unstructured_citation>Titchner, H. A. and Rayner, N. A.: The Met Office Hadley Centre sea ice and sea surface temperature data set, version 2: 1. Sea ice concentrations, J. Geophys. Res.-Atmos., 119, 2864–2889, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Tyrlis, E. and Hoskins, B.: The Morphology of Northern Hemisphere Blocking, J. Atmos. Sci., 65, 1653–1665, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Valcke, S.: The OASIS3 coupler: a European climate modelling community software, Geosci. Model Dev., 6, 373–388, https://doi.org/10.5194/gmd-6-373-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Vancoppenolle, M., Bouillon, S., Fichefet, T., Goosse, H., Lecomte, O., Morales Maqueda, M., and Madec, G.: LIM, The Louvain-la-Neuve sea Ice Model, Notes du Pôle de modélisation, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>van Oldenborgh, G. J., Doblas-Reyes, F. J., Wouters, B., and Hazeleger, W.: Decadal prediction skill in a multi-model ensemble, Clim. Dynam., 38, 1263–1280, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <unstructured_citation>Wang, Y., Zhang, G. J., and Craig, G. C.: Stochastic convective parameterization improves the simulation of tropical precipitation variability in the NCAR CAM5, Geophys. Res. Lett., 43, 6612–6619, https://doi.org/10.1002/2016GL069818, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <unstructured_citation>Weisheimer, A., Corti, S., Palmer, T., and Vitart, F.: Addressing model error through atmospheric stochastic physical parametrizations: impact on the coupled ECMWF seasonal forecasting system, Philos. T. R. Soc. A, 372, 20130290, https://doi.org/10.1098/rsta.2013.0290, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <unstructured_citation>Wheeler, M. C. and Hendon, H. H.: An all-season real-time multivariate MJO index: Development of an index for monitoring and prediction, Mon. Weather Rev., 132, 1917–1932, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <unstructured_citation>Wild, M., Folini, D., Schär, C., Loeb, N., Dutton, E. G., and König-Langlo, G.: The global energy balance from a surface perspective, Clim. Dynam., 40, 3107–3134, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>Yonehara, H. and Ujiie, M.: Stochastic physics scheme for model uncertainties in the JMA one-week ensemble prediction system, WMO CAS/JSC WGNE, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <unstructured_citation>Zappa, G., Shaffrey, L. C., and Hodges, K. I.: The ability of CMIP5 models to simulate north atlantic extratropical cyclones, J. Climate, 26, 5379–5396, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <unstructured_citation>Zhang, C., Gottschalck, J., Maloney, E. D., Moncrieff, M. W., Vitart, F., Waliser, D. E., Wang, B., and Wheeler, M. C.: Cracking the MJO nut, Geophys. Res. Lett., 40, 1223–1230, 2013.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

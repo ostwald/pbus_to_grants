@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1002" timestamp="2017-06-23 14:47:45">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>International Journal for Numerical Methods in Fluids</full_title>
+          <abbrev_title>Int. J. Numer. Meth. Fluids</abbrev_title>
+          <issn>02712091</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>05</month>
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>81</volume>
+          </journal_volume>
+          <issue>1</issue>
+          <doi_data>
+            <doi>10.1002/fld.v81.1</doi>
+            <resource>http://doi.wiley.com/10.1002/fld.v81.1</resource>
+          </doi_data>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>An efficient WENO limiter for discontinuous Galerkin transport scheme on the cubed sphere</title>
+            <subtitle>An efficient WENO limiter for discontinuous Galerkin transport scheme on the cubed sphere</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Wei</given_name>
+              <surname>Guo</surname>
+              <affiliation>Department of Mathematics; Michigan State University; East Lansing MI 48824 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Ramachandran D.</given_name>
+              <surname>Nair</surname>
+              <affiliation>National Center for Atmospheric Research; Boulder CO 80305 USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Xinghui</given_name>
+              <surname>Zhong</surname>
+              <affiliation>Department of Mathematics; Michigan State University; East Lansing MI 48824 USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>05</month>
+            <year>2016</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>23</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>3</first_page>
+            <last_page>21</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Research and Supercomputing Visitor Program (RSVP)</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Michigan Center for Industrial and Applied Mathematics</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Department of Mathematics of Michigan State University</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm" start_date="2015-09-01">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/fld.4171</doi>
+            <resource>http://doi.wiley.com/10.1002/fld.4171</resource>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Ffld.4171</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/fld.4171-BIB0001|fld4171-cit-0001">
+              <unstructured_citation>Reed W Hill T Triangular mesh methods for the neutron transport equation Los Alamos 1973</unstructured_citation>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0002|fld4171-cit-0002">
+              <author>Cockburn</author>
+              <article_title>The Runge-Kutta local projection discontinuous Galerkin finite element method for conservation laws IV: the multidimensional case</article_title>
+              <journal_title>Mathematics of Computation</journal_title>
+              <cYear>1990</cYear>
+              <volume>54</volume>
+              <first_page>545</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0003|fld4171-cit-0003">
+              <author>Cockburn</author>
+              <article_title>Runge-Kutta discontinuous Galerkin methods for convection-dominated problems</article_title>
+              <journal_title>Journal of Scientific Computing</journal_title>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1023/A:1012873910884</doi>
+              <volume>16</volume>
+              <issue>3</issue>
+              <first_page>173</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0004|fld4171-cit-0004">
+              <author>Bao</author>
+              <article_title>A mass and momentum flux-form high-order discontinuous Galerkin shallow water model on the cubed-sphere</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2013.11.033</doi>
+              <volume>271</volume>
+              <first_page>224</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0005|fld4171-cit-0005">
+              <author>Guo</author>
+              <article_title>A conservative semi-Lagrangian discontinuous Galerkin scheme on the cubed-sphere</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/MWR-D-13-00048.1</doi>
+              <volume>142</volume>
+              <issue>1</issue>
+              <first_page>457</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0006|fld4171-cit-0006">
+              <author>Nair</author>
+              <article_title>A discontinuous Galerkin transport scheme on the cubed sphere</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1175/MWR2890.1</doi>
+              <volume>133</volume>
+              <issue>4</issue>
+              <first_page>814</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0007|fld4171-cit-0007">
+              <author>Nair</author>
+              <article_title>Computational aspects of a scalable high-order discontinuous Galerkin atmospheric dynamical core</article_title>
+              <journal_title>Computers &amp; Fluids</journal_title>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1016/j.compfluid.2008.04.006</doi>
+              <volume>38</volume>
+              <first_page>309</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0008|fld4171-cit-0008">
+              <author>Giraldo</author>
+              <article_title>Nodal high-order discontinuous Galerkin methods for spherical shallow water equations</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1006/jcph.2002.7139</doi>
+              <volume>181</volume>
+              <first_page>499</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0009|fld4171-cit-0009">
+              <author>Hall</author>
+              <article_title>Discontinuous Galerkin transport on the spherical Yin-Yang overset mesh</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1175/MWR-D-12-00108.1</doi>
+              <volume>142</volume>
+              <first_page>264</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0010|fld4171-cit-0010">
+              <author>Nair</author>
+              <cYear>2011</cYear>
+              <volume_title>Numerical Techniques for Global Atmospheric Models</volume_title>
+              <first_page>189</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0011|fld4171-cit-0011">
+              <author>Luo</author>
+              <article_title>A Hermite WENO-based limiter for discontinuous Galerkin method on unstructured grids</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2006.12.017</doi>
+              <volume>225</volume>
+              <issue>1</issue>
+              <first_page>686</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0012|fld4171-cit-0012">
+              <author>Qiu</author>
+              <article_title>Hermite WENO schemes and their application as limiters for Runge-Kutta discontinuous Galerkin method II: two dimensional case</article_title>
+              <journal_title>Computers &amp; Fluids</journal_title>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.compfluid.2004.05.005</doi>
+              <volume>34</volume>
+              <issue>6</issue>
+              <first_page>642</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0013|fld4171-cit-0013">
+              <author>Qiu</author>
+              <article_title>Runge-Kutta discontinuous Galerkin method using WENO limiters</article_title>
+              <journal_title>SIAM Journal of Scientific Computing</journal_title>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1137/S1064827503425298</doi>
+              <volume>26</volume>
+              <issue>3</issue>
+              <first_page>907</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0014|fld4171-cit-0014">
+              <author>Levy</author>
+              <article_title>High-order Galerkin method for scalable global atmospheric models</article_title>
+              <journal_title>Computers and Geoscience</journal_title>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1016/j.cageo.2006.12.004</doi>
+              <volume>33</volume>
+              <first_page>1022</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0015|fld4171-cit-0015">
+              <author>Zhong</author>
+              <article_title>A simple weighted essentially nonoscillatory limiter for Runge-Kutta discontinuous Galerkin methods</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2012.08.028</doi>
+              <volume>232</volume>
+              <issue>1</issue>
+              <first_page>397</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0016|fld4171-cit-0016">
+              <author>Zhu</author>
+              <article_title>Runge-Kutta discontinuous Galerkin method using a new type of WENO limiters on unstructured meshes</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2013.04.012</doi>
+              <volume>248</volume>
+              <first_page>200</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0017|fld4171-cit-0017">
+              <author>Dennis</author>
+              <article_title>CAM-SE: a scalable spectral-element dynamical core for the Community Atmosphere Model</article_title>
+              <journal_title>International Journal of High Performance Computing Applications</journal_title>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1177/1094342011428142</doi>
+              <volume>26</volume>
+              <first_page>74</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0018|fld4171-cit-0018">
+              <author>Zhang</author>
+              <article_title>On maximum-principle-satisfying high order schemes for scalar conservation laws</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2009.12.030</doi>
+              <volume>229</volume>
+              <issue>9</issue>
+              <first_page>3091</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0019|fld4171-cit-0019">
+              <author>Shu</author>
+              <article_title>Efficient implementation of essentially non-oscillatory shock-capturing schemes</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1016/0021-9991(88)90177-5</doi>
+              <volume>77</volume>
+              <first_page>439</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0020|fld4171-cit-0020">
+              <author>Gottlieb</author>
+              <article_title>High order strong stability preserving time discretizations</article_title>
+              <journal_title>Journal of Scientific Computing</journal_title>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1007/s10915-008-9239-z</doi>
+              <volume>38</volume>
+              <issue>3</issue>
+              <first_page>251</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0021|fld4171-cit-0021">
+              <author>Qiu</author>
+              <article_title>Hermite WENO schemes and their application as limiters for Runge-Kutta discontinuous Galerkin method: one-dimensional case</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2003.07.026</doi>
+              <volume>193</volume>
+              <issue>1</issue>
+              <first_page>115</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0022|fld4171-cit-0022">
+              <author>Zhang</author>
+              <article_title>A nonoscillatory discontinuous Galerkin transport scheme on the cubed-sphere</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1175/MWR-D-11-00287.1</doi>
+              <volume>140</volume>
+              <first_page>3106</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0023|fld4171-cit-0023">
+              <author>Qiu</author>
+              <article_title>A comparison of troubled-cell indicators for Runge-Kutta discontinuous Galerkin methods using weighted essentially nonoscillatory limiters</article_title>
+              <journal_title>SIAM Journal on Scientific Computing</journal_title>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1137/04061372X</doi>
+              <volume>27</volume>
+              <issue>3</issue>
+              <first_page>995</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0024|fld4171-cit-0024">
+              <author>Dumbser</author>
+              <article_title>Arbitrary high order non-oscillatory finite volume schemes on unstructured meshes for linear hyperbolic systems</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2006.06.043</doi>
+              <volume>221</volume>
+              <first_page>693</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0025|fld4171-cit-0025">
+              <author>Balsara</author>
+              <article_title>Monotonicity preserving weighted essentially non-oscillatory schemes with increasingly high order of accuracy</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1006/jcph.2000.6443</doi>
+              <volume>160</volume>
+              <first_page>405</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0026|fld4171-cit-0026">
+              <author>Jiang</author>
+              <article_title>Efficient implementation of weighted ENO schemes</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1006/jcph.1996.0130</doi>
+              <volume>126</volume>
+              <first_page>202</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0027|fld4171-cit-0027">
+              <author>Shu</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1007/BFb0096355</doi>
+              <volume_title>Advanced Numerical Approximation of Nonlinear Hyperbolic Equations, Cockburn B, Johnson C, Shu CW and Tadmor E</volume_title>
+              <series_title>Lecture Notes in Mathematics</series_title>
+              <first_page>325</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0028|fld4171-cit-0028">
+              <author>Hu</author>
+              <article_title>Weighted essentially non-oscillatory schemes on triangular meshes</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1006/jcph.1998.6165</doi>
+              <volume>150</volume>
+              <first_page>97</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0029|fld4171-cit-0029">
+              <author>Käser</author>
+              <article_title>ADER schemes on adaptive triangular meshes for scalar conservation laws</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2004.11.015</doi>
+              <volume>205</volume>
+              <first_page>486</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0030|fld4171-cit-0030">
+              <author>Sadourny</author>
+              <article_title>Conservative finite-difference approximations of the primitive equations on quasi-uniform spherical grids</article_title>
+              <journal_title>Monthly Weather Review</journal_title>
+              <cYear>1972</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1972)100&lt;0136:CFAOTP&gt;2.3.CO;2</doi>
+              <volume>100</volume>
+              <issue>2</issue>
+              <first_page>136</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0031|fld4171-cit-0031">
+              <author>Ronchi</author>
+              <article_title>The cubed sphere: a new method for the solution of partial differential equations in spherical geometry</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>1996</cYear>
+              <doi provider="crossref">10.1006/jcph.1996.0047</doi>
+              <volume>124</volume>
+              <issue>1</issue>
+              <first_page>93</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0032|fld4171-cit-0032">
+              <author>Williamson</author>
+              <article_title>A standard test set for numerical approximations to the shallow water equations in spherical geometry</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1016/S0021-9991(05)80016-6</doi>
+              <volume>102</volume>
+              <issue>1</issue>
+              <first_page>211</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0033|fld4171-cit-0033">
+              <author>Nair</author>
+              <article_title>A class of deformational flow test cases for linear transport problems on the sphere</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2010.08.014</doi>
+              <volume>229</volume>
+              <issue>23</issue>
+              <first_page>8868</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0034|fld4171-cit-0034">
+              <author>Blossey</author>
+              <article_title>Selective monotonicity preservation in scalar advection</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2008.01.043</doi>
+              <volume>227</volume>
+              <issue>10</issue>
+              <first_page>5160</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0035|fld4171-cit-0035">
+              <author>Guba</author>
+              <article_title>Optimization-based limiters for the spectral element method</article_title>
+              <journal_title>Journal of Computational Physics</journal_title>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1016/j.jcp.2014.02.029</doi>
+              <volume>267</volume>
+              <first_page>176</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0036|fld4171-cit-0036">
+              <author>Lauritzen</author>
+              <article_title>Evaluating advection/transport schemes using interrelated tracers, scatter plots and numerical mixing diagnostics</article_title>
+              <journal_title>Quarterly Journal of the Royal Meteorological Society</journal_title>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1002/qj.986</doi>
+              <volume>138</volume>
+              <issue>665</issue>
+              <first_page>906</first_page>
+            </citation>
+            <citation key="10.1002/fld.4171-BIB0037|fld4171-cit-0037">
+              <author>Lauritzen</author>
+              <article_title>A standard test case suite for two-dimensional linear transport on the sphere</article_title>
+              <journal_title>Geoscientific Model Development</journal_title>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.5194/gmd-5-887-2012</doi>
+              <volume>5</volume>
+              <issue>3</issue>
+              <first_page>887</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

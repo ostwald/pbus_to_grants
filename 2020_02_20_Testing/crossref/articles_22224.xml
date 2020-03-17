@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-12-12 12:14:03">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Space Weather</full_title>
+          <abbrev_title>Space Weather</abbrev_title>
+          <issn>15427390</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>11</month>
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>16</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>New Capabilities for Prediction of High-Latitude Ionospheric Scintillation: A Novel Approach With Machine Learning</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>Ryan M.</given_name>
+              <surname>McGranaghan</surname>
+              <affiliation>University Corporation for Atmospheric Research; Boulder CO USA</affiliation>
+              <affiliation>NASA Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+              <ORCID>http://orcid.org/0000-0002-9605-0007</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Anthony J.</given_name>
+              <surname>Mannucci</surname>
+              <affiliation>NASA Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+              <ORCID>http://orcid.org/0000-0003-2391-8490</ORCID>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Brian</given_name>
+              <surname>Wilson</surname>
+              <affiliation>NASA Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Chris A</given_name>
+              <surname>Mattmann</surname>
+              <affiliation>NASA Jet Propulsion Laboratory; California Institute of Technology; Pasadena CA USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>Richard</given_name>
+              <surname>Chadwick</surname>
+              <affiliation>Department of Physics; University of New Brunswick; Fredericton New Brunswick Canada</affiliation>
+              <ORCID>http://orcid.org/0000-0002-5206-8803</ORCID>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>11</month>
+            <year>2018</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>11</month>
+            <day>18</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>1817</first_page>
+            <last_page>1846</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">Gouvernement du Canada | Canadian Space Agency (CSA)</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1.1</license_ref>
+            <license_ref applies_to="vor" start_date="2018-11-18">http://onlinelibrary.wiley.com/termsAndConditions#vor</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1029/2018SW002018</doi>
+            <resource>http://doi.wiley.com/10.1029/2018SW002018</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1029/2018SW002018/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2018SW002018</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1029/2018SW002018-BIB0001|swe20775-cit-0001">
+              <unstructured_citation>Aarons , J. Basu , S. 1994 Ionospheric amplitude and phase fluctuations at the GPS frequencies Proceedings of the 7th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GPS 1994) 1569 1578</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0002|swe20775-cit-0002">
+              <author>Albanese</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1017/S174392131800025X</doi>
+              <article_title>The ionosphere prediction service</article_title>
+              <journal_title>Proceedings of the International Astronomical Union</journal_title>
+              <volume>13</volume>
+              <issue>S335</issue>
+              <first_page>352</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0003|swe20775-cit-0003">
+              <author>Alfonsi</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2010RS004571</doi>
+              <article_title>Bipolar climatology of GPS ionospheric scintillation at solar minimum</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>46</volume>
+              <first_page>RS0D05</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0004|swe20775-cit-0004">
+              <author>Anderson</author>
+              <cYear>1973</cYear>
+              <doi provider="crossref">10.1016/0032-0633(73)90041-X</doi>
+              <article_title>A theoretical study of the ionospheric F region equatorial anomaly II. Results in the American and Asian sectors</article_title>
+              <journal_title>Planetary and Space Science</journal_title>
+              <volume>21</volume>
+              <issue>3</issue>
+              <first_page>421</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0005|swe20775-cit-0005">
+              <author>Anderson</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2014GL059941</doi>
+              <article_title>Development of large-scale Birkeland currents determined from the Active Magnetosphere and Planetary Electrodynamics Response Experiment</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>41</volume>
+              <first_page>3017</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0006|swe20775-cit-0006">
+              <author>Aquino</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1007/s00190-009-0313-6</doi>
+              <article_title>Improving the GNSS positioning stochastic model in the presence of ionospheric scintillation</article_title>
+              <journal_title>Journal of Geodesy</journal_title>
+              <volume>83</volume>
+              <issue>10</issue>
+              <first_page>953</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0007|swe20775-cit-0007">
+              <author>Barnes</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.3847/0004-637X/829/2/89</doi>
+              <article_title>A comparison of flare forecasting methods. I. Results from the 'All-Clear' workshop</article_title>
+              <journal_title>The Astrophysical Journal</journal_title>
+              <volume>829</volume>
+              <issue>2</issue>
+              <first_page>89</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0008|swe20775-cit-0008">
+              <author>Basu</author>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1029/RS023i003p00363</doi>
+              <article_title>Ionospheric constraints on VHF/UHF communications links during solar maximum and minimum periods</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>23</volume>
+              <issue>3</issue>
+              <first_page>363</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0009|swe20775-cit-0009">
+              <author>Beutler</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1016/S0273-1177(99)00160-X</doi>
+              <article_title>The International GPS Service (IGS): An interdisciplinary service in support of Earth sciences</article_title>
+              <journal_title>Advances in Space Research</journal_title>
+              <volume>23</volume>
+              <issue>4</issue>
+              <first_page>631</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0010|swe20775-cit-0010">
+              <author>Bloomfield</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1088/2041-8205/747/2/L41</doi>
+              <article_title>Toward reliable benchmarking of solar flare forecasting methods</article_title>
+              <journal_title>The Astrophysical Journal Letters</journal_title>
+              <volume>747</volume>
+              <issue>2</issue>
+              <first_page>L41</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0011|swe20775-cit-0011">
+              <author>Bobra</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1088/0004-637X/798/2/135</doi>
+              <article_title>Solar flare prediction using SDO/HMI vector magnetic field data with a machine-learning algorithm</article_title>
+              <journal_title>The Astrophysical Journal</journal_title>
+              <volume>798</volume>
+              <issue>2</issue>
+              <first_page>135</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0012|swe20775-cit-0012">
+              <author>Borovsky</author>
+              <cYear>2013</cYear>
+              <article_title>Physical improvements to the solar wind reconnection control function for the Earth's magnetosphere</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>2113</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0013|swe20775-cit-0013">
+              <author>Burges</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1023/A:1009715923555</doi>
+              <article_title>A tutorial on support vector machines for pattern recognition</article_title>
+              <journal_title>Data Mining and Knowledge Discovery</journal_title>
+              <volume>2</volume>
+              <issue>2</issue>
+              <first_page>593463</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0014|swe20775-cit-0014">
+              <author>Carrano</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/2015RS005903</doi>
+              <article_title>A theory of scintillation for two-component power law irregularity spectra: Overview and numerical results</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>51</volume>
+              <first_page>789</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0015|swe20775-cit-0015">
+              <author>Chapelle</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1162/neco.2007.19.5.1155</doi>
+              <article_title>Training a support vector machine in the primal</article_title>
+              <journal_title>Neural Computation</journal_title>
+              <volume>19</volume>
+              <issue>5</issue>
+              <first_page>1155</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0016|swe20775-cit-0016">
+              <author>Chartier</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/2015RS005889</doi>
+              <article_title>Three-dimensional modeling of high-latitude scintillation observations</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>51</volume>
+              <first_page>1022</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0017|swe20775-cit-0017">
+              <author>Chawla</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1613/jair.953</doi>
+              <article_title>SMOTE: Synthetic Minority Over-sampling Technique</article_title>
+              <journal_title>Journal of Artificial Intelligence Research</journal_title>
+              <volume>16</volume>
+              <issue>1</issue>
+              <first_page>321</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0018|swe20775-cit-0018">
+              <author>Cherniak</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2014RS005433</doi>
+              <article_title>Observation of the ionospheric irregularities over the Northern Hemisphere: Methodology and service</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>49</volume>
+              <first_page>653</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0019|swe20775-cit-0019">
+              <author>Codrescu</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2011SW000736</doi>
+              <article_title>A real-time run of the Coupled Thermosphere Ionosphere Plasmasphere Electrodynamics (CTIPe) model</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>10</volume>
+              <first_page>S02001</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0020|swe20775-cit-0020">
+              <author>Conker</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1029/2000RS002604</doi>
+              <article_title>Modeling the effects of ionospheric scintillation on GPS/Satellite-Based Augmentation System availability</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>38</volume>
+              <issue>1</issue>
+              <first_page>1001</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0021|swe20775-cit-0021">
+              <author>Cortes</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1007/BF00994018</doi>
+              <article_title>Support-vector networks</article_title>
+              <journal_title>Machine Learning</journal_title>
+              <volume>20</volume>
+              <issue>3</issue>
+              <first_page>273</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0022|swe20775-cit-0022">
+              <author>Coster</author>
+              <cYear>2008</cYear>
+              <doi provider="crossref">10.1029/2008SW000400</doi>
+              <article_title>Space weather and the global positioning system</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>6</volume>
+              <first_page>S06D04</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0023|swe20775-cit-0023">
+              <author>Cousins</author>
+              <cYear>2013</cYear>
+              <article_title>SuperDARN assimilative mapping</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>7954</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0024|swe20775-cit-0024">
+              <author>Cover</author>
+              <cYear>1965</cYear>
+              <doi provider="crossref">10.1109/PGEC.1965.264137</doi>
+              <article_title>Geometrical and statistical properties of systems of linear inequalities with applications in pattern recognition</article_title>
+              <journal_title>IEEE Transactions on Electronic Computers</journal_title>
+              <volume>EC-14</volume>
+              <issue>3</issue>
+              <first_page>326</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0025|swe20775-cit-0025">
+              <author>Cowley</author>
+              <cYear>2013</cYear>
+              <volume_title>Magnetosphere-ionosphere interactions: A tutorial review</volume_title>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0026|swe20775-cit-0026">
+              <author>Deshpande</author>
+              <cYear>2016</cYear>
+              <article_title>Satellite-beacon Ionospheric-scintillation Global Model of the upper Atmosphere (SIGMA) II: Inverse modeling with high-latitude observations to deduce irregularity physics</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>9188</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0027|swe20775-cit-0027">
+              <unstructured_citation>Dierendonck , A. J. V. Arbesser-Rastburg , B. 2001 Measuring Ionospheric scintillation in the equatorial region over Africa, including measurements from SBAS geostationary satellite signals Proceedings of the 17th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS 2004) 316 324</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0028|swe20775-cit-0028">
+              <unstructured_citation>Dierendonck , A. V. Klobuchar , J. Hua , Q. 1997 Ionospheric scintillation monitoring using commercial single frequency C/A code receivers Proceedings of the 6th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GPS 1993) 1333 1342</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0029|swe20775-cit-0029">
+              <author>Duderstadt</author>
+              <cYear>2001</cYear>
+              <volume_title>Issues for science and engineering researchers in the digital age</volume_title>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0030|swe20775-cit-0030">
+              <author>Forte</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2011RS004790</doi>
+              <article_title>Analysis of the PLL phase error in presence of simulated ionospheric scintillation events</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>47</volume>
+              <first_page>RS3006</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0031|swe20775-cit-0031">
+              <author>Forte</author>
+              <cYear>2016</cYear>
+              <article_title>Identification of scintillation signatures on GPS signals originating from plasma structures detected with EISCAT incoherent scatter radar along the same line of sight</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>122</volume>
+              <first_page>916</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0032|swe20775-cit-0032">
+              <author>Gjerloev</author>
+              <cYear>2012</cYear>
+              <article_title>The large-scale current system during auroral substorms</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>119</volume>
+              <first_page>4591</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0033|swe20775-cit-0033">
+              <author>Gjerloev</author>
+              <cYear>2018</cYear>
+              <article_title>Deriving global convection maps from SuperDARN measurements</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>123</volume>
+              <first_page>2902</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0034|swe20775-cit-0034">
+              <unstructured_citation>Gu , Q. Li , Z. Han , J. 2011 Generalized Fisher score for feature selection Proceedings of the Twenty-Seventh Conference on Uncertainty in Artificial Intelligence AUAI Press, Arlington, Virginia, United States 266 273</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0035|swe20775-cit-0035">
+              <author>Habarulema</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1029/2010JA016269</doi>
+              <article_title>Regional GPS TEC modeling: Attempted spatial and temporal extrapolation of TEC using neural networks</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>116</volume>
+              <first_page>A04314</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0036|swe20775-cit-0036">
+              <author>Hanson</author>
+              <cYear>1966</cYear>
+              <doi provider="crossref">10.1029/JZ071i023p05559</doi>
+              <article_title>lonization transport effects in the equatorial F region</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>71</volume>
+              <issue>23</issue>
+              <first_page>5559</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0037|swe20775-cit-0037">
+              <author>Hastie</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1007/978-0-387-21606-5</doi>
+              <volume_title>The elements of statistical learning</volume_title>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0038|swe20775-cit-0038">
+              <author>Jayachandran</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1029/2008RS004046</doi>
+              <article_title>Canadian High Arctic Ionospheric Network (CHAIN)</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>44</volume>
+              <first_page>RS0A03</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0039|swe20775-cit-0039">
+              <author>Jiao</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1109/TAES.2017.2650758</doi>
+              <article_title>Automatic equatorial GPS amplitude scintillation detection using a machine learning algorithm</article_title>
+              <journal_title>IEEE Transactions on Aerospace and Electronic Systems</journal_title>
+              <volume>53</volume>
+              <issue>1</issue>
+              <first_page>405</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0040|swe20775-cit-0040">
+              <author>Jiao</author>
+              <cYear>2013</cYear>
+              <doi provider="crossref">10.1002/2013RS005259</doi>
+              <article_title>Characterization of high-latitude ionospheric scintillation of GPS signals</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>48</volume>
+              <first_page>698</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0041|swe20775-cit-0041">
+              <author>Jin</author>
+              <cYear>2016</cYear>
+              <article_title>On the collocation of the cusp aurora and the GPS phase scintillation: A statistical study</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>9176</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0042|swe20775-cit-0042">
+              <unstructured_citation>Jonas , E. Bobra , M. G. Shankar , V. Hoeksema , J. T. Recht , B. 2017 Flare prediction using photospheric and coronal image data</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0043|swe20775-cit-0043">
+              <author>Kamide</author>
+              <cYear>1981</cYear>
+              <doi provider="crossref">10.1029/JA086iA02p00801</doi>
+              <article_title>Estimation of ionospheric electric fields, ionospheric currents, and field-aligned currents from ground magnetic records</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>86</volume>
+              <issue>A2</issue>
+              <first_page>801</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0044|swe20775-cit-0044">
+              <author>Karpatne</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1109/TKDE.2017.2720168</doi>
+              <article_title>Theory-guided data science: A new paradigm for scientific discovery from data</article_title>
+              <journal_title>IEEE Transactions on Knowledge and Data Engineering</journal_title>
+              <volume>29</volume>
+              <issue>10</issue>
+              <first_page>2318</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0045|swe20775-cit-0045">
+              <doi provider="crossref">10.1109/SAI.2014.6918213</doi>
+              <unstructured_citation>Khalid , S. Khalil , T. Nasreen , S. 2014 A survey of feature selection and feature extraction techniques in machine learning 2014 Science and Information Conference 372 378 https://doi.org/10.1109/SAI.2014.6918213</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0046|swe20775-cit-0046">
+              <author>Kintner</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1029/1999RS002310</doi>
+              <article_title>Fading timescales associated with GPS signals and potential consequences</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>36</volume>
+              <issue>4</issue>
+              <first_page>731</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0047|swe20775-cit-0047">
+              <author>Kintner</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1029/2006SW000260</doi>
+              <article_title>GPS and ionospheric scintillations</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>5</volume>
+              <first_page>S09003</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0048|swe20775-cit-0048">
+              <unstructured_citation>Komjathy , A. 1997 Global ionospheric total electron content mapping using the global positioning system</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0049|swe20775-cit-0049">
+              <author>Leka</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1086/377512</doi>
+              <article_title>Photospheric magnetic field properties of flaring versus flare-quiet active regions II. Discriminant analysis</article_title>
+              <journal_title>The Astrophysical Journal</journal_title>
+              <volume>595</volume>
+              <first_page>1296</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0050|swe20775-cit-0050">
+              <author>Lima</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.1002/2015SW001182</doi>
+              <article_title>Prediction of the level of ionospheric scintillation at equatorial latitudes in Brazil using a neural network</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>13</volume>
+              <first_page>446</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0051|swe20775-cit-0051">
+              <unstructured_citation>Longadge , R. Dongre , S. 2013 Class imbalance problem in data mining review</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0052|swe20775-cit-0052">
+              <author>Lu</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1029/2001JA000324</doi>
+              <article_title>Ionospheric response to the interplanetary magnetic field southward turning: Fast onset and slow reconfiguration</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>107</volume>
+              <first_page>1153</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0053|swe20775-cit-0053">
+              <author>Machol</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2011SW000746</doi>
+              <article_title>Evaluation of OVATION Prime as a forecast model for visible aurorae</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>10</volume>
+              <first_page>S03005</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0054|swe20775-cit-0054">
+              <author>Mannucci</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1051/swsc/2016030</doi>
+              <article_title>Scientific challenges in thermosphere-ionosphere forecasting-Conclusions from the October 2014 NASA JPL community workshop</article_title>
+              <journal_title>Journal of Space Weather and Space Climate</journal_title>
+              <volume>6</volume>
+              <first_page>E01</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0055|swe20775-cit-0055">
+              <author>Manzato</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1175/WAF898.1</doi>
+              <article_title>The use of sounding-derived indices for a neural network short-term thunderstorm forecast</article_title>
+              <journal_title>Weather and Forecasting</journal_title>
+              <volume>20</volume>
+              <issue>6</issue>
+              <first_page>896</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0056|swe20775-cit-0056">
+              <author>McGranaghan</author>
+              <cYear>2017</cYear>
+              <article_title>Ushering in a new frontier in geospace through data science</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>122</volume>
+              <first_page>12,586</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0057|swe20775-cit-0057">
+              <author>McGranaghan</author>
+              <cYear>2017</cYear>
+              <article_title>A comprehensive analysis of multiscale field-aligned currents: Characteristics, controlling parameters, and relationships</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>122</volume>
+              <first_page>11,931</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0058|swe20775-cit-0058">
+              <unstructured_citation>McGranaghan , R. Mannucci , A. Mattmann , C. Wilson , B. Chadwick , R. 2018a Jupyter notebook script to demonstrate the use of the machine learning databases and analysis for Journal of Geophysical Research: Space Physics manuscript: “New capabilities for prediction of high-latitude ionospheric scintillation: A novel approach with machine learning.” (Version 1). figshare https://doi.org/10.6084/m9.figshare.6813143.v1</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0059|swe20775-cit-0059">
+              <unstructured_citation>McGranaghan , R. Mannucci , A. Mattmann , C. Wilson , B. Chadwick , R. 2018b Machine learning databases used for Journal of Geophysical Research: Space Physics manuscript: “New capabilities for prediction of high-latitude ionospheric scintillation: A novel approach with machine learning.” (Version 1). figshare https://doi.org/10.6084/m9.figshare.6813131.v1</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0060|swe20775-cit-0060">
+              <author>McGranaghan</author>
+              <cYear>2017</cYear>
+              <article_title>Finding multiscale connectivity in our geospace observational system: Network analysis of total electron content</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>122</volume>
+              <first_page>7683</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0061|swe20775-cit-0061">
+              <author>McPherron</author>
+              <cYear>2004</cYear>
+              <doi provider="crossref">10.1029/2003SW000003</doi>
+              <article_title>Probabilistic forecasting of geomagnetic indices using solar wind air mass analysis</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>2</volume>
+              <first_page>S01001</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0062|swe20775-cit-0062">
+              <author>Mezaoui</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1002/2014GL061331</doi>
+              <article_title>Investigating high-latitude ionospheric turbulence using Global Positioning System data</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>41</volume>
+              <first_page>6570</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0063|swe20775-cit-0063">
+              <author>Mitchell</author>
+              <cYear>2005</cYear>
+              <doi provider="crossref">10.1029/2004GL021644</doi>
+              <article_title>GPS TEC and scintillation measurements from the polar ionosphere during the October 2003 storm</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>32</volume>
+              <first_page>L12S03</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0064|swe20775-cit-0064">
+              <doi provider="crossref">10.23919/EUSIPCO.2017.8081324</doi>
+              <unstructured_citation>Mourad , S. Tewfik , A. Vikalo , H. 2017 Data subset selection for efficient SVM training 2017 25th European Signal Processing Conference (EUSIPCO) 833 837 https://doi.org/10.23919/EUSIPCO.2017.8081324</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0065|swe20775-cit-0065">
+              <author>Mrak</author>
+              <cYear>2017</cYear>
+              <article_title>Field-aligned GPS scintillation: Multisensor data fusion</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>123</volume>
+              <first_page>974</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0066|swe20775-cit-0066">
+              <author>Muella</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2009JA014788</doi>
+              <article_title>Scintillation-producing Fresnel-scale irregularities associated with the regions of steepest TEC gradients adjacent to the equatorial ionization anomaly</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>115</volume>
+              <first_page>A03301</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0067|swe20775-cit-0067">
+              <author>Murphy</author>
+              <cYear>2013</cYear>
+              <article_title>The detailed spatial structure of field-aligned currents comprising the substorm current wedge</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>118</volume>
+              <first_page>7714</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0068|swe20775-cit-0068">
+              <author>Newell</author>
+              <cYear>1988</cYear>
+              <doi provider="crossref">10.1029/JA093iA12p14549</doi>
+              <article_title>The cusp and the cleft/boundary layer: Low-altitude identification and statistical local time variation</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>93</volume>
+              <issue>A12</issue>
+              <first_page>14,549</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0069|swe20775-cit-0069">
+              <author>Newell</author>
+              <cYear>2007</cYear>
+              <doi provider="crossref">10.1029/2006JA012015</doi>
+              <article_title>A nearly universal solar wind-magnetosphere coupling function inferred from 10 magnetospheric state variables</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>112</volume>
+              <first_page>A01206</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0070|swe20775-cit-0070">
+              <author>Newell</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1029/2009JA014326</doi>
+              <article_title>Diffuse, monoenergetic, and broadband aurora: The global precipitation budget</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>114</volume>
+              <first_page>A09207</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0071|swe20775-cit-0071">
+              <author>Newell</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2009JA014805</doi>
+              <article_title>Seasonal variations in diffuse, monoenergetic, and broadband aurora</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>115</volume>
+              <first_page>A03216</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0072|swe20775-cit-0072">
+              <unstructured_citation>Ng , A. 2018 Lecture notes in Stanford Coursera machine learning course: Machine learning https://www.coursera.org/learn/machine-learning</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0073|swe20775-cit-0073">
+              <author>Norman</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1007/978-4-431-55342-7_15</doi>
+              <volume_title>Applications + practical conceptualization + mathematics = fruitful innovation</volume_title>
+              <first_page>159</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0074|swe20775-cit-0074">
+              <author>Oksavik</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1029/1999JA000237</doi>
+              <article_title>Optical and particle signatures of magnetospheric boundary layers near magnetic noon: Satellite and ground-based observations</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>105</volume>
+              <issue>A12</issue>
+              <first_page>27,555</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0075|swe20775-cit-0075">
+              <author>Pedregosa</author>
+              <cYear>2011</cYear>
+              <article_title>Scikit-learn: Machine learning in Python</article_title>
+              <journal_title>Journal of Machine Learning Research</journal_title>
+              <volume>12</volume>
+              <first_page>2078195</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0076|swe20775-cit-0076">
+              <doi provider="crossref">10.23919/URSIGASS.2017.8105125</doi>
+              <unstructured_citation>Prikryl , P. Ghoddousi-Fard , R. Viljanen , A. Weygand , J. M. Kunduri , B. S. R. Thomas , E. G. Ruohoniemi , J. M. Connors , M. Danskin , D. W. Jayachandran , P. T. Jacobsen , K. S. Andalsvik , Y. L. Durgonics , T. Oksavik , K. Zhang , Y. Spanswick , E. Sreeja , V. Aquino , M. Cilliers , P. J. Li , G. Ning , B. Mitchell , C. N. Spogli , L. Terkildsen , M. Weatherwax , A. T. 2017 GPS phase scintillation and auroral electrojet currents during geomagnetic storms of March 17, 2013 and 2015 2017 XXXIInd General Assembly and Scientific Symposium of the International Union of Radio Science (URSI GASS) 1 4 https://doi.org/10.23919/URSIGASS.2017.8105125</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0077|swe20775-cit-0077">
+              <author>Prikryl</author>
+              <cYear>2015</cYear>
+              <doi provider="crossref">10.5194/angeo-33-531-2015</doi>
+              <article_title>Climatology of GPS phase scintillation at northern high latitudes for the period from 2008 to 2013</article_title>
+              <journal_title>Annales Geophysicae</journal_title>
+              <volume>33</volume>
+              <issue>5</issue>
+              <first_page>531</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0078|swe20775-cit-0078">
+              <author>Prikryl</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2012SW000800</doi>
+              <article_title>Toward the probabilistic forecasting of high-latitude GPS phase scintillation</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>10</volume>
+              <first_page>S08005</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0079|swe20775-cit-0079">
+              <author>Prikryl</author>
+              <cYear>2013</cYear>
+              <article_title>Probabilistic forecasting of ionospheric scintillation and GNSS receiver signal tracking performance at high latitudes</article_title>
+              <journal_title>Annals of Geophysics</journal_title>
+              <volume>56</volume>
+              <issue>2</issue>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0080|swe20775-cit-0080">
+              <author>Redmon</author>
+              <cYear>2010</cYear>
+              <doi provider="crossref">10.1029/2010SW000582</doi>
+              <article_title>A forecasting ionospheric real-time scintillation tool (FIRST)</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>8</volume>
+              <first_page>S12003</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0082|swe20775-cit-0082">
+              <author>Ren</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1038/srep33499</doi>
+              <article_title>Global ionospheric modelling using multi-GNSS: BeiDou, Galileo, GLONASS and GPS</article_title>
+              <journal_title>Scientific Reports</journal_title>
+              <volume>6</volume>
+              <issue>1</issue>
+              <first_page>33499</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0083|swe20775-cit-0083">
+              <author>Rezende</author>
+              <cYear>2009</cYear>
+              <article_title>Survey and prediction of the ionospheric scintillation using data mining techniques</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>8</volume>
+              <first_page>S06D09</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0084|swe20775-cit-0084">
+              <author>Ridley</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1029/97JA03328</doi>
+              <article_title>A statistical study of the ionospheric convection response to changing interplanetary magnetic field conditions using the assimilative mapping of ionospheric electrodynamics technique</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>103</volume>
+              <issue>A3</issue>
+              <first_page>4023</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0085|swe20775-cit-0085">
+              <unstructured_citation>Rizos , C. Montenbruck , O. Weber , G. R. Weber , R. Neilan , U. H. 2013 The IGS MGEX experiment as a milestone for a comprehensive multi-GNSS service Proceedings of the ION 2013 Pacific PNT Meeting 289 295</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0086|swe20775-cit-0086">
+              <author>Ruohoniemi</author>
+              <cYear>1998</cYear>
+              <doi provider="crossref">10.1029/98JA01288</doi>
+              <article_title>Large-scale imaging of high-latitude convection with Super Dual Auroral Radar Network HF radar observations</article_title>
+              <journal_title>Journal of Geophysical Research</journal_title>
+              <volume>103</volume>
+              <issue>A9</issue>
+              <first_page>20,797</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0087|swe20775-cit-0087">
+              <author>Sadlier</author>
+              <cYear>2017</cYear>
+              <volume_title>The economic impact on the UK of a sisruption to GNSS</volume_title>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0088|swe20775-cit-0088">
+              <author>Schölkopf</author>
+              <cYear>2004</cYear>
+              <volume_title>Kernel methods in computational biology</volume_title>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0089|swe20775-cit-0089">
+              <author>Secan</author>
+              <cYear>1995</cYear>
+              <doi provider="crossref">10.1029/94RS03172</doi>
+              <article_title>An improved model of equatorial scintillation</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>30</volume>
+              <issue>3</issue>
+              <first_page>607</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0090|swe20775-cit-0090">
+              <author>Secan</author>
+              <cYear>1997</cYear>
+              <doi provider="crossref">10.1029/97RS00453</doi>
+              <article_title>High-latitude upgrade to the wideband ionospheric scintillation model</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>32</volume>
+              <issue>4</issue>
+              <first_page>1567</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0091|swe20775-cit-0091">
+              <author>Semeter</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1002/2015RS005794</doi>
+              <article_title>GNSS-ISR data fusion: General framework with application to the high-latitude ionosphere</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>51</volume>
+              <first_page>118</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0092|swe20775-cit-0092">
+              <author>Semeter</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2017GL073570</doi>
+              <article_title>GPS signal corruption by the discrete aurora: Precise measurements from the Mahali experiment</article_title>
+              <journal_title>Geophysical Research Letters</journal_title>
+              <volume>44</volume>
+              <first_page>9539</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0093|swe20775-cit-0093">
+              <author>Septentrio</author>
+              <cYear>2015</cYear>
+              <volume_title>PolaRxS application manual</volume_title>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0094|swe20775-cit-0094">
+              <author>Shepherd</author>
+              <cYear>2014</cYear>
+              <article_title>Altitude-adjusted corrected geomagnetic coordinates: Definition and functional approximations</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>119</volume>
+              <first_page>7501</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0095|swe20775-cit-0095">
+              <author>Siscoe</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1029/2005SW000205</doi>
+              <article_title>Aspects of data assimilation peculiar to space weather forecasting</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>4</volume>
+              <first_page>S04002</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0096|swe20775-cit-0096">
+              <author>Spogli</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.5194/angeo-27-3429-2009</doi>
+              <article_title>Climatology of GPS ionospheric scintillations over high and mid-latitude European regions</article_title>
+              <journal_title>Annales Geophysicae</journal_title>
+              <volume>27</volume>
+              <issue>9</issue>
+              <first_page>3429</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0097|swe20775-cit-0097">
+              <author>Sreeja</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1186/s40562-016-0057-0</doi>
+              <article_title>Impact and mitigation of space weather effects on GNSS receiver performance</article_title>
+              <journal_title>Geoscience Letters</journal_title>
+              <volume>3</volume>
+              <issue>1</issue>
+              <first_page>24</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0098|swe20775-cit-0098">
+              <author>Sreeja</author>
+              <cYear>2012</cYear>
+              <doi provider="crossref">10.1029/2012SW000769</doi>
+              <article_title>Correlation analysis between ionospheric scintillation levels and receiver tracking performance</article_title>
+              <journal_title>Space Weather</journal_title>
+              <volume>10</volume>
+              <first_page>S06005</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0099|swe20775-cit-0099">
+              <author>Sreeja</author>
+              <cYear>2011</cYear>
+              <doi provider="crossref">10.1051/swsc/2011005</doi>
+              <article_title>Tackling ionospheric scintillation threat to GNSS in Latin America</article_title>
+              <journal_title>Journal of Space Weather and Space Climate</journal_title>
+              <volume>1</volume>
+              <issue>1</issue>
+              <first_page>A05</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0100|swe20775-cit-0100">
+              <author>Steenburgh</author>
+              <cYear>2014</cYear>
+              <doi provider="crossref">10.1007/s11207-013-0308-6</doi>
+              <article_title>From predicting solar activity to forecasting space weather: Practical examples of research-to-operations and operations-to-research</article_title>
+              <journal_title>Solar Physics</journal_title>
+              <volume>289</volume>
+              <issue>2</issue>
+              <first_page>675</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0101|swe20775-cit-0101">
+              <author>Strangeways</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1029/2008RS004076</doi>
+              <article_title>Determining scintillation effects on GPS receivers</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>44</volume>
+              <first_page>RS0A36</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0102|swe20775-cit-0102">
+              <author>Su</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2017RS006331</doi>
+              <article_title>Distributed sensing of ionospheric irregularities with a GNSS receiver array</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>52</volume>
+              <first_page>988</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0103|swe20775-cit-0103">
+              <doi provider="crossref">10.2514/6.2016-5706</doi>
+              <unstructured_citation>Tzelepis , C. Carreno , A. 2016 Concepts for NASA's Communication and Navigation Architecture in Near Earth and Deep Space Domains; Strategies for affordable and scalable implementation of next generation relay systems with improved mission experience and reduced burden 34th AIAA International Communications Satellite Systems Conference https://doi.org/10.2514/6.2016-5706</unstructured_citation>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0104|swe20775-cit-0104">
+              <author>Uwamahoro</author>
+              <cYear>2015</cYear>
+              <article_title>Modelling total electron content during geomagnetic storm conditions using empirical orthogonal functions and neural networks</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>11,000</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0105|swe20775-cit-0105">
+              <author>Wang</author>
+              <cYear>2017</cYear>
+              <doi provider="crossref">10.1002/2017RS006470</doi>
+              <article_title>New results on ionospheric irregularity drift velocity estimation using multi-GNSS space-receiver array during high-latitude phase scintillation</article_title>
+              <journal_title>Radio Science</journal_title>
+              <volume>53</volume>
+              <first_page>228</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0106|swe20775-cit-0106">
+              <author>Wang</author>
+              <cYear>2018</cYear>
+              <article_title>Experimental evidence on the dependence of the standard GPS phase scintillation index on the ionospheric plasma drift around noon sector of the polar ionosphere</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>123</volume>
+              <first_page>2370</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0107|swe20775-cit-0107">
+              <author>Watson</author>
+              <cYear>2016a</cYear>
+              <article_title>Characteristics of GPS TEC variations in the polar cap ionosphere</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>4748</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0108|swe20775-cit-0108">
+              <author>Watson</author>
+              <cYear>2016b</cYear>
+              <article_title>GPS TEC variations in the polar cap ionosphere: Solar wind and IMF dependence</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>121</volume>
+              <first_page>9030</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0109|swe20775-cit-0109">
+              <author>Wernik</author>
+              <cYear>1997</cYear>
+              <article_title>Wavelet transform of nonstationary ionospheric scintillation</article_title>
+              <journal_title>Acta Gephysica Polonica</journal_title>
+              <volume>45</volume>
+              <first_page>237</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0110|swe20775-cit-0110">
+              <author>Wernik</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1016/S0273-1177(02)00795-0</doi>
+              <article_title>Ionospheric irregularities and scintillation</article_title>
+              <journal_title>Advances in Space Research</journal_title>
+              <volume>31</volume>
+              <issue>4</issue>
+              <first_page>971</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0111|swe20775-cit-0111">
+              <author>Witten</author>
+              <cYear>2005</cYear>
+              <volume_title>Data mining: Practical machine learning tools and techniques, second edition (Morgan Kaufmann series in data management systems)</volume_title>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0112|swe20775-cit-0112">
+              <author>Yeh</author>
+              <cYear>1982</cYear>
+              <doi provider="crossref">10.1109/PROC.1982.12313</doi>
+              <article_title>Radio wave scintillations in the ionosphere</article_title>
+              <journal_title>Proceedings of the IEEE</journal_title>
+              <volume>70</volume>
+              <issue>4</issue>
+              <first_page>324</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0113|swe20775-cit-0113">
+              <author>Zhang</author>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1111/rssb.12100</doi>
+              <article_title>Variable selection for support vector machines in moderately high dimensions</article_title>
+              <journal_title>Journal of the Royal Statistical Society: Series B (Statistical Methodology)</journal_title>
+              <volume>78</volume>
+              <issue>1</issue>
+              <first_page>53</first_page>
+            </citation>
+            <citation key="10.1029/2018SW002018-BIB0114|swe20775-cit-0114">
+              <author>Zou</author>
+              <cYear>2015</cYear>
+              <article_title>Polar cap precursor of nightside auroral oval intensifications using polar cap arcs</article_title>
+              <journal_title>Journal of Geophysical Research: Space Physics</journal_title>
+              <volume>120</volume>
+              <first_page>10,698</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

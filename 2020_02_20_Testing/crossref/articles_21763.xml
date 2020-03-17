@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-01-04 03:29:00">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Earth System Dynamics</full_title>
+          <abbrev_title>Earth Syst. Dynam.</abbrev_title>
+          <issn media_type="electronic">2190-4987</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>9</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Modelling feedbacks between human and  natural processes in the land system</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Derek T.</given_name>
+              <surname>Robinson</surname>
+              <ORCID>https://orcid.org/0000-0002-4293-1095</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alan</given_name>
+              <surname>Di Vittorio</surname>
+              <ORCID>https://orcid.org/0000-0002-8139-4640</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Peter</given_name>
+              <surname>Alexander</surname>
+              <ORCID>https://orcid.org/0000-0001-6010-1186</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Almut</given_name>
+              <surname>Arneth</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>C. Michael</given_name>
+              <surname>Barton</surname>
+              <ORCID>https://orcid.org/0000-0003-2561-1927</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daniel G.</given_name>
+              <surname>Brown</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Albert</given_name>
+              <surname>Kettner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Carsten</given_name>
+              <surname>Lemmen</surname>
+              <ORCID>https://orcid.org/0000-0003-3483-6036</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian C.</given_name>
+              <surname>O&amp;amp;apos;Neill</surname>
+              <ORCID>https://orcid.org/0000-0001-7505-8897</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Marco</given_name>
+              <surname>Janssen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas A. M.</given_name>
+              <surname>Pugh</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sam S.</given_name>
+              <surname>Rabin</surname>
+              <ORCID>https://orcid.org/0000-0003-4095-1129</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mark</given_name>
+              <surname>Rounsevell</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James P.</given_name>
+              <surname>Syvitski</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Isaac</given_name>
+              <surname>Ullah</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Peter H.</given_name>
+              <surname>Verburg</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The unprecedented use of Earth's resources by humans, in combination with
+increasing natural variability in natural processes over the past century, is
+affecting the evolution of the Earth system. To better understand natural
+processes and their potential future trajectories requires improved
+integration with and quantification of human processes. Similarly, to
+mitigate risk and facilitate socio-economic development requires a better
+understanding of how the natural system (e.g. climate variability and
+change, extreme weather events, and processes affecting soil fertility)
+affects human processes. Our understanding of these interactions and feedback
+between human and natural systems has been formalized through a variety of
+modelling approaches. However, a common conceptual framework or set of
+guidelines to model human–natural-system feedbacks is lacking. The presented
+research lays out a conceptual framework that includes representing
+model coupling configuration in combination with the frequency of interaction
+and coordination of communication between coupled models. Four different
+approaches used to couple representations of the human and natural system are
+presented in relation to this framework, which vary in the processes
+represented and in the scale of their application. From the<span id="page896"/> development and
+experience associated with the four models of coupled human–natural systems,
+the following eight lessons were identified that if taken into account by
+future coupled human–natural-systems model developments may increase their
+success: (1) leverage the power of sensitivity analysis with models,
+(2) remember modelling is an iterative process, (3) create a common language,
+(4) make code open-access, (5) ensure consistency, (6) reconcile
+spatio-temporal mismatch, (7) construct homogeneous units, and
+(8) incorporating feedback increases non-linearity and variability. Following a discussion of
+feedbacks, a way forward to expedite model coupling and increase the
+longevity and interoperability of models is given, which suggests the use of
+a wrapper container software, a standardized applications programming
+interface (API), the incorporation of standard names, the mitigation of sunk costs by
+creating interfaces to multiple coupling frameworks, and the adoption of
+reproducible workflow environments to wire the pieces together.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>26</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>895</first_page>
+            <last_page>914</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                U.S. Department of Energy
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000015</assertion>
+              </assertion>
+              <assertion name="award_number">DE-AC02-05CH11231</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Commission
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000780</assertion>
+              </assertion>
+              <assertion name="award_number">603542</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">AGS-1243095</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Bundesministerium für Bildung und Forschung
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100002347</assertion>
+              </assertion>
+              <assertion name="award_number">03F0667A</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                FP7 Ideas: European Research Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100011199</assertion>
+              </assertion>
+              <assertion name="award_number">311819</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Natural Sciences and Engineering Research Council of Canada
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000038</assertion>
+              </assertion>
+              <assertion name="award_number">295701</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.1111/gcb.14110</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/esd-9-895-2018</doi>
+            <resource>https://www.earth-syst-dynam.net/9/895/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.earth-syst-dynam.net/9/895/2018/esd-9-895-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Alexander, P. and Henry, R.: PLUMv2, https://bitbucket.org/alexanpe/plumv2/src/RCP paper,
+last access: 18 June 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1111/gcb.14110</doi>
+              <unstructured_citation>Alexander, P., Rabin, S., Anthoni, P., Henry, R., Pugh, T. A. M., Rounsevell,
+M. D. A., and Arnet, A.: Adaptation of global land use and management intensity
+to changes in climate and atmospheric carbon dioxide, Global Change Biol., 7,
+2791–2809, https://doi.org/10.1111/gcb.14110, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1016/j.gloenvcha.2015.09.017</doi>
+              <unstructured_citation>Bai, X., van der Leeuw, S., O'Brien, K., Berkhout, F., Biermann, F.,
+Broadgate, W., Brondizio, E., Cudennec, C., Dearing, J., Duraiappah, A.,
+Glaser, M., Steffen, W., and Syvitski, J. P.: Plausible and Desirable Futures
+in the Anthropocene, Global Environ. Change, 39, 351–362, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1177/089443902237317</doi>
+              <unstructured_citation>Bankes, S. C., Lempert, R., and Popper, S.: Making Computational Social
+Science Effective: Epistemology, Methodology, and Technology, Social Sci.
+Comput. Rev., 20, 377–388, 2002. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.3406/paleo.2010.5311</doi>
+              <unstructured_citation>Banning, E. B.: Houses, households, and changing society in the Late Neolithic
+and Chalcolithic of the Southern Levant, Paleorient, 36, 46–87, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Barton, C. M., Ullah, I. I., Mayer, G. R., Bergin, S. M., Sarjoughian, H. S.,
+and Mitasova, H.: MedLanD Modeling Laboratory v.1, CoMSES Computational Model
+Library, https://www.openabm.org/model/4609/version/1 (last access: 8 May 2015), 2015a. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.3390/land4030578</doi>
+              <unstructured_citation>Barton, C. M., Ullah, I., and Heimsath, A.: How to Make a Barranco: Modeling
+Erosion and Land Use in Mediterranean Landscapes, Land, 4, 578–606, https://doi.org/10.3390/land4030578, 2015b. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1016/j.ancene.2015.12.004</doi>
+              <unstructured_citation>Barton, C. M., Ullah, I. I. T., Bergin, S. M., Sarjoughian, H. S., Mayer, G. R.,
+Bernabeu-Auban, J. E., Heimsath, A. M., Acevedo, M. F., Riel-Salvatore, J. G.,
+and Arrowsmith, J. R.: Experimental socioecology: Integrative science for
+Anthropocene landscape dynamics, Anthropocene, 13, 34–45, https://doi.org/10.1016/j.ancene.2015.12.004, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Barton, C. M., Ullah, I., Mayer, G., Bergin, S., Sarjoughian, H., and Mitasova,
+H.: MedLanD Modeling Laboratory v.1 (Version 1.1.0), CoMSES Computational Model
+Library, https://www.comses.net/codebases/4609/releases/1.1.0/, last access:
+13 June 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/j.envsoft.2015.07.016</doi>
+              <unstructured_citation>Bell, A. R., Robinson, D. T., Malik, A., and Dewal, S.: Modular ABM development
+for improved dissemination and training, Environ. Model. Softw., 73, 189–200,
+https://doi.org/10.1016/j.envsoft.2015.07.016, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <unstructured_citation>Bonan, G. B.: A Land Surface Model (LSM Version 1.0) for Ecological, Hydrological,
+and Atmospheric Studies: Technical Description and User's Guide, NCAR Technical
+Note NCAR/TN-417+STR, National Center for Atmospheric Research, Boulder,
+Colorado, https://doi.org/10.5065/D6DF6P5X, 1996. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/gmd-7-2545-2014</doi>
+              <unstructured_citation>Bond-Lamberty, B., Calvin, K., Jones, A. D., Mao, J., Patel, P., Shi, X. Y.,
+Thomson, A., Thornton, P., and Zhou, Y.: On linking an Earth system model to
+the equilibrium carbon representation of an economically optimizing land use
+model, Geosci. Model Dev., 7, 2545–2555, https://doi.org/10.5194/gmd-7-2545-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1016/S0140-1963(03)00048-X</doi>
+              <unstructured_citation>Bonet, A.: Secondary succession of semi-arid Mediterranean old-fields in
+south-eastern Spain: insights for conservation and restoration of degraded
+lands, J. Arid Environ., 56, 213–233, https://doi.org/10.1016/S0140-1963(03)00048-X, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <unstructured_citation>Bonet, A. and Pausas, J. G.: Old Field Dynamics on the Dry Side of the
+Mediterranean Basin: Patterns and Processes in Semiarid Southeast Spain, in:
+Old Fields: Dynamics and Restoration of Abandoned Farmland, Island Press,
+Washington, D.C., USA, 247–264, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5751/ES-01749-110146</doi>
+              <unstructured_citation>Brown, D. G. and Robinson, D. T.: Effects of heterogeneity in residential
+preferences on an agent-based model of urban sprawl, Ecol. Soc., 11, 46, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/j.envsoft.2003.11.012</doi>
+              <unstructured_citation>Brown, D. G., Page, S. E., Riolo, R., and Rand, W.: Agent-based and analytical
+modeling to evaluate the effectiveness of greenbelts, Environ. Model. Softw.,
+19, 1097–1109, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1016/j.geoforum.2007.02.010</doi>
+              <unstructured_citation>Brown, D. G., Robinson, D. T., An, L., Nassauer, J. I., Zellner, M., Rand, W.,
+Riolo, R., Page, S. E., Low, B., and Wang, Z.: Exurbia from the bottom-up:
+Confronting empirical challenges to characterizing a complex system, Geoforum,
+39, 805–818, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>CSDMS Integration Facility: CSDMS BMI Standards, https://github.com/bmi-forum
+(last access: 18 June 2018), 2018a. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>CSDMS Integration Facility: CSDMS main framework repository, https://github.com/csdms
+(last access: 18 June 2018), 2018b. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>CSDMS community contribution: CSDMS software contributions of the community,
+https://github.com/csdms-contrib (last access: 18 June 2018), 2018c. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/gmd-8-2203-2015</doi>
+              <unstructured_citation>Collins, W. D., Craig, A. P., Truesdale, J. E., Di Vittorio, A. V., Jones, A.
+D., Bond-Lamberty, B., Calvin, K. V., Edmonds, J. A., Kim, S. H., Thomson, A. M.,
+Patel, P., Zhou, Y., Mao, J., Shi, X., Thornton, P. E., Chini, L. P., and Hurtt,
+G. C.: The integrated Earth System Model version 1: formulation and functionality,
+Geosci. Model Dev., 8, 2203–2219, https://doi.org/10.5194/gmd-8-2203-2015, 2015a. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Collins, W. D., Craig, A. P., Truesdale, J. E., Di Vittorio, A. V., Jones, A. D.,
+Bond-Lamberty, B., Calvin, K. V., Edmonds, J. A., Kim, S. H., Thomson, A. M.,
+Patel, P., Zhou, Y., Mao, J., Shi, X., Thornton, P. E., Chini, L. P., and Hurtt,
+G. C.: The integrated Earth System Model version 1, https://gitub.com/ACME-Climate/iESM
+(last access: 13 June 2018), 2015b. </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/S0034-4257(00)00176-0</doi>
+              <unstructured_citation>Coops, N. C. and Waring, R. H.: The use of multiscale remote sensing imagery to
+derive regional estimates of forest growth capacity using 3-PGS, Remote Sens.
+Environ., 75, 324–334, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1890/15-0817</doi>
+              <unstructured_citation>Currie, W. S., Kiger, S., Nassauer, J. I., Hutchins, M., Marshall, L. L., Brown,
+D. G., Riolo, R. L., Robinson, D. T., and Hart, S.: Human-dominated residential
+land in southeastern Michigan stores carbon similar to secondary forests, Ecol.
+Appl., 26, 1421–1436, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>David, C. H., Gil, Y., Duffy, C., Peckham, S. D., and Venayagamoorthy, S. K.:
+An introduction to the Earth and Space Science, in: special issue: “Geoscience
+Papers of the Future”, American Geophysical Union, 1–4, https://doi.org/10.1002/2016EA000201, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1177/154851290400100101</doi>
+              <unstructured_citation>Davis, P. K. and Anderson, R. H.: Improving the Composability of DoD Models and
+Simulations, J. Defense Model. Simul., 1, 5–17, https://doi.org/10.1177/154851290400100101, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1068/b3098</doi>
+              <unstructured_citation>Deadman, P. J., Robinson, D. T., Moran, E., and Brondizio, E.: Colonist household
+decision-making and land-use change in the Amazon Rainforest: an agent-based
+simulation, Environ. Plan. B, 31, 693–709, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1111/j.1654-1103.1997.tb00842.x</doi>
+              <unstructured_citation>Díaz, S. and Cabido, M.: Plant functional types and ecosystem function in
+relation to global change, J. Veg. Sci., 8, 463–474, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/bg-11-6435-2014</doi>
+              <unstructured_citation>Di Vittorio, A. V., Chini, L. P., Bond-Lamberty, B., Mao, J., Shi, X., Truesdale,
+J., Craig, A., Calvin, K., Jones, A., Collins, W. D., Edmonds, J., Hurtt, G. C.,
+Thornton, P., and Thomson, A.: From land use to land cover: restoring the
+afforestation signal in a coupled integrated assessment–earth system model and
+the implications for CMIP5 RCP simulations, Biogeosciences, 11, 6435–6450,
+https://doi.org/10.5194/bg-11-6435-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1016/j.envsoft.2016.08.016</doi>
+              <unstructured_citation>Di Vittorio, A. V., Kyle, P., and Collins, W. D.: What are the effects of
+Agro-Ecological Zones and land use region boundaries on land resource projection
+using the Global Change Assessment Model?, Environ. Model. Softw., 85, 246–265, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/esd-2017-126</doi>
+              <unstructured_citation>Donges, J. F., Heitzig, J., Barfuss, W., Kassel, J. A., Kittel, T., Kolb, J. J.,
+Kolster, T., Müller-Hansen, F., Otto, I. M., Wiedermann, M., Zimmerer, K. B.,
+and Lucht, W.: Earth system modelling with complex dynamic human societies: the
+copan:CORE World-Earth modeling framework, Earth Syst. Dynam. Discuss.,
+https://doi.org/10.5194/esd-2017-126, in review, 2018. </unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1088/1748-9326/aa68a5</doi>
+              <unstructured_citation>Dorninger, C., Abson, D., Fischer, J., and von Wehrden, H.: Assessing sustainable
+biophysical human-nature connectedness at regional scales, Environ. Res. Lett.,
+12, 055001, https://doi.org/10.1088/1748-9326/aa68a5, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1016/j.cageo.2011.10.002</doi>
+              <unstructured_citation>Dunlap, R., Rugaber, S., and Mark, L.: A feature model of coupling technologies
+for Earth System Models, Comput. Geosci., 53, 13–20, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Eaton, B., Gregory, J., Centre, H., Office, U. K. M., Drach, B., Taylor, K.,
+Hankin, S., Caron, J., and Signell, R.: NetCDF Climate and Forecast (CF) Metadata
+Conventions, CF Conventions, http://cfconventions.org/cf-conventions/cf-conventions.html
+(last access: 11 June 2018), 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1890/14-2274.1</doi>
+              <unstructured_citation>Ellis, E. C.: Ecology in an anthropogenic biosphere, Ecol. Monogr., 85, 287–331,
+https://doi.org/10.1890/14-2274.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1016/j.envsoft.2015.10.015</doi>
+              <unstructured_citation>Engström, K., Rounsevell, M. D. A., Murray-Rust, D., Hardacre, C., Alexander,
+P., Cui, X., Palmer, P. I., and Arneth, A.: Applying Occam's Razor to global
+agricultural land use change, Environ. Model. Softw., 75, 212–229, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Evans, T., Robinson, D. T., and Schmitt-Harsh, M.: Limitations, challenges, and
+solutions to integrating carbon dynamics with land-use models, in: Land use and
+the carbon cycle: Advances in Integrated Science, Management, and Policy, edited
+by: Brown, D. G., Robinson, D. T., French, N. H. F., and Reed, B. C., Cambridge
+University Press, Cambridge, 178–208, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1558/jmea.v6i1.29911</doi>
+              <unstructured_citation>Flannery, K. V.: Will the real model please stand up: comments on Saidel's
+“Round house or square”, J. Mediterran. Archaeol., 6, 109–117, 1993. </unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1109/WSC.2014.7020095</doi>
+              <unstructured_citation>Gholami, S., Sarjoughian, H. S., Godding, G. W., Peters, D. R., and Chang, V.:
+Developing composed simulation and optimization models using actual supply-demand
+network datasets, in: Simulation Conference (WSC), 2014 Winter, 7–10 December 2014,
+Savannah, Georgia, USA, 2510–2521, https://doi.org/10.1109/WSC.2014.7020095, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1038/nclimate3039</doi>
+              <unstructured_citation>Harrison, P. A., Dunford, R., Holman, I. P., and Rounsevell, M. D. A.: Climate
+change impact modelling needs to include cross-sectoral interactions, Nat. Clim.
+Change, 6, 885–890, https://doi.org/10.1038/nclimate3039, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/gmd-3-679-2010</doi>
+              <unstructured_citation>Huntingford, C., Booth, B. B. B., Sitch, S., Gedney, N., Lowe, J. A., Liddicoat,
+S. K., Mercado, L. M., Best, M. J., Weedon, G. P., Fisher, R. A., Lomas, M. R.,
+Good, P., Zelazowski, P., Everitt, A. C., Spessa, A. C., and Jones, C. D.:
+IMOGEN: an intermediate complexity model to evaluate terrestrial impacts of a
+changing climate, Geosci. Model Dev., 3, 679–687, https://doi.org/10.5194/gmd-3-679-2010, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>Hurrell, J. W., Holland, M. M., Gent, P. R., Ghan, S., Kay, J. E., Kushner, P.
+J., Lamarque, J.-F., Large, W. G., Lawrence, D., Lindsay, K., Lipscomb, W. H.,
+Long, M. C., Mahowald, N., Marsh, D. R., Neale, R. B., Rasch, P., Vavrus, S.,
+Vertenstein, M., Bader, D., Collins, W. D., Hack, J. J., Kiehl, J., and Marshall,
+S.: The Community Earth System Model: A Framework for Collaborative Research,
+B. Am. Meteorol. Soc., 94, 1339–1360, https://doi.org/10.1175/BAMS-D-12-00121.1, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1007/s10584-011-0153-2</doi>
+              <unstructured_citation>Hurtt, G. C., Chini, L. P., Frolking, S., Betts, R. A., Feddema, J., Fischer,
+G., Fisk, J. P., Hibbard, K., Houghton, R. A., Janetos, A., Jones, C. D.,
+Kindermann, G., Kinoshita, T., Klein Goldewijk, K., Riahi, K., Shevliakova, E.,
+Smith, S., Stehfest, E., Thomson, A., Thornton, P., Vuuren, D. P., and Wang, Y.
+P.: Harmonization of land-use scenarios for the period 1500–2100: 600 years of
+global gridded annual land-use transitions, wood harvest, and resulting secondary
+lands, Climatic Change, 109, 117–161, https://doi.org/10.1007/s10584-011-0153-2, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <unstructured_citation>Hutton, E. W. H., Piper, M. D., Peckham, S. D., Overeem, I., Kettner, A. J.,
+and Syvitski, J.: Building Sustainable Software – The CSDMS Approach, arXiv,
+https://arxiv.org/abs/1407.4106 (last access: June 2018), 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/acp-5-433-2005</doi>
+              <unstructured_citation>Jöckel, P., Sander, R., Kerkweg, A., Tost, H., and Lelieveld, J.: Technical
+Note: The Modular Earth Submodel System (MESSy) – a new approach towards Earth
+System Modeling, Atmos. Chem. Phys. 5, 433–444, https://doi.org/10.5194/acp-5-433-2005, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/gmd-5-87-2012</doi>
+              <unstructured_citation>Kerkweg, A. and Jöckel, P.: The 1-way on-line coupled atmospheric chemistry
+model system MECO(n) – Part 1: Description of the limited-area atmospheric
+chemistry model COSMO/MESSy, Geosci. Model Dev., 5, 87–110, https://doi.org/10.5194/gmd-5-87-2012, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Kohler, T. A. and van der Leeuw, S. E.: Historical Socionatural Systems and
+Models, in: The Model-Based Archaeology of Socionatural Systems, School for
+Advanced Research Press, Santa Fe, NM, 1–12, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1029/1999GB001138</doi>
+              <unstructured_citation>Kucharik, C. L., Foley, J. A., Delire, C., Fisher, V. A., Coe, M. T., Lenters,
+J. D., Young-Molling, C., and Ramankutty, N.: Testing the performance of a
+Dynamic Global Ecosystem Model: Water balance, carbon balance, and vegetation
+structure, Global Biogeochem. Cy., 14, 795–825, https://doi.org/10.1029/1999GB001138, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Thornton, P. E., Swenson, S. C.,
+Lawrence, P. J., Zeng, X., Yang, Z.-L., Levis, S., Sakaguchi, K., Bonan, G. B.,
+and Slater, A. G.: Parameterization improvements and functional and structural
+advances in version 4 of the community land model, J. Adv. Model. Earth Syst.,
+3, M03001, https://doi.org/10.1029/2011ms000045, 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1175/JCLI-D-11-00256.1</doi>
+              <unstructured_citation>Lawrence, P. J., Feddema, J. J., Bonan, G. B., Meehl, G. A., O'Neill, B. C.,
+Oleson, K. W., Levis, S., Lawrence, D. M., Kluzek, E., Lindsay, K., and Thornton,
+P. E.: Simulating the biogeochemical and biogeophysical impacts of transient
+land cover change and wood harvest in the community climate system model (ccsm4)
+from 1850 to 2100, J. Climate, 25, 3071–3095, https://doi.org/10.1175/jcli-d-11-00256.1, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/gmd-11-915-2018</doi>
+              <unstructured_citation>Lemmen, C., Hofmeister, R., Klingbeil, K., Nasermoaddeli, M. H., Kerimoglu, O.,
+Burchard, H., Kösters, F., and Wirtz, K. W.: Modular System for Shelves and
+Coasts (MOSSCO v1.0) – a flexible and multi-component framework for coupled
+coastal ocean ecosystem modelling, Geosci. Model Dev., 11, 915–935,
+https://doi.org/10.5194/gmd-11-915-2018, 2018a. </unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <unstructured_citation>Lemmen, C., Hofmeister, R., Klingbeil, K., Nasermoaddeli, M. H., Wirtz, K.,
+Kreus, M., Weiher, N., Kerimoglu, O., O'Kuinghttons, R., Körner, U., and
+Bieser, J.: Modular System for Shelves and Coasts (MOSSCO version 1.0.6),
+https://doi.org/10.5281/zenodo.597629, 2018b. </unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.5194/esd-4-385-2013</doi>
+              <unstructured_citation>Lindeskog, M., Arneth, A., Bondeau, A., Waha, K., Seaquist, J., Olin, S., and
+Smith, B.: Implications of accounting for land use in simulations of ecosystem
+carbon cycling in Africa, Earth Syst. Dynam., 4, 385–407, https://doi.org/10.5194/esd-4-385-2013, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1126/science.1144004</doi>
+              <unstructured_citation>Liu, J., Dietz, T., Carpenter, S. R., Alberti, M., Folke, C., Moran, E., Pell,
+A. N., Deadman, P., Kratz, T., Lubchenco, J., Ostrom, E., Ouyang, Z., Provencher,
+W., Redman, C. L., Schneider, S. H., and Taylor, W. W.: Complexity of coupled
+human and natural systems, Science, 317, 1513–1516, https://doi.org/10.1126/science.1144004, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1126/science.1258832</doi>
+              <unstructured_citation>Liu, J., Mooney, H., Hull, V., Davis, S. J., Gaskell, J., Hertel, T., Lubchenco,
+J., Seto, K. C., Gleick, P., Kremen, C., and Li, S.: Systems integration for
+global sustainability, Science, 347, 1258832, https://doi.org/10.1126/science.1258832, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1080/1747423X.2011.640357</doi>
+              <unstructured_citation>Luus, N., Robinson, D. T., and Deadman, P. J.: Representing ecological processes
+in agent-based models of land use and cover change, Land Use Sci., 8, 175–198, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1016/j.agee.2005.04.024</doi>
+              <unstructured_citation>Manson, S. M.: Agent Based Modelling and Genetic Programming for Modelling Land
+Change in the Southern Yucatan Peninsular Region of Mexico, Agr. Ecosyst.
+Environ., 111, 47–62, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1016/j.ecolmodel.2005.10.032</doi>
+              <unstructured_citation>Matthews, R.: The People and Landscape Model (PALM): Towards full integration
+of human decision-making and biophysical simulation models, Ecol. Model., 194, 329–343, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1080/1747423X.2012.667452</doi>
+              <unstructured_citation>Meyfroidt, P.: Environmental Cognitions, Land Change, and Social-Ecological
+Feedbacks: An Overview, J. Land Use Sci., 8, 341–367, 2013a. </unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1007/s10745-012-9560-x</doi>
+              <unstructured_citation>Meyfroidt, P.: Environmental Cognitions, Land Change and Social-Ecological
+Feedbacks: Local Case Studies of Forest Transition in Vietnam, Human Ecol.,
+41, 367–392, https://doi.org/10.1007/s10745-012-9560-x, 2013b. </unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1007/s00267-004-0316-2</doi>
+              <unstructured_citation>Milesi, C., Running, S. W., Elvidge, C. D., Dietz, J. B., Tuttle, B. T., and
+Nemani, R. R.: Mapping and modelling the biogeochemical cycling of turfgrasses
+in the United States, Environ. Manage., 36, 426–438, 2005. </unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <unstructured_citation>Miller, J. H. and Page, S. E.: Complex adaptive systems: an introduction to
+computational models of social life, Princeton University Press, Princeton, NJ, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1016/B978-0-12-374739-6.00052-X</doi>
+              <unstructured_citation>Mitasova, H., Barton, C. M., Ullah, I. I. T., Hofierka, J., and Harmon, R. S.:
+GIS-based soil erosion modeling, in: Treatise in Geomorphology: Vol. 3 Remote
+Sensing and GI Science in Geomorphology, edited by: Shroder, J. and Bishop, M.,
+Academic Press, San Diego, CA, 228–258, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Neitsch, S. L., Arnold, J. G., Kiniry, J. R., and Williams, J. R.: Soil and
+Water Assessment Tool Theoretical Documentation Version 2009, Texas Water
+Resources Institute, available at: http://hdl.handle.net/1969.1/128050
+(last access: 9 June 2018), 2011. </unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1016/j.envsoft.2011.11.014</doi>
+              <unstructured_citation>Neteler, M., Bowman, M. H., Landa, M., and Metz, M.: GRASS GIS: A multi-purpose
+open source GIS, Environ. Model. Softw., 31, 124–130, https://doi.org/10.1016/j.envsoft.2011.11.014, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>NRC – National Research Council: Advancing land change modeling: opportunities
+and research equirements, National Academies Press, Washington, D.C., USA, 146&amp;amp;thinsp;pp., 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.5194/esd-6-745-2015</doi>
+              <unstructured_citation>Olin, S., Lindeskog, M., Pugh, T. A. M., Schurgers, G., Wårlind, D.,
+Mishurov, M., Zaehle, S., Stocker, B. D., and Smith, B.: Soil carbon management
+in large-scale Earth system modelling: implications for crop yields and nitrogen,
+Earth Syst. Dynam., 6, 745–768, https://doi.org/10.5194/esd-6-745-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.2136/sssaj1987.03615995005100050015x</doi>
+              <unstructured_citation>Parton, W. J., Schimel, D. S., Cole, C. V., and Ojima, D. S.: Analysis of
+factors controlling soil organic matter levels in Great Plains grasslands,
+Soil Sci. Soc. Am. J., 51, 1173–1179, 1987. </unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1016/j.cageo.2012.04.002</doi>
+              <unstructured_citation>Peckham, S. D., Hutton, E. W. H., and Norris, B.: A component-based approach to
+integrated modeling in the geosciences: The design of CSDMS, Comput. Geosci.,
+53, 3–12, https://doi.org/10.1016/j.cageo.2012.04.002, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1088/1748-9326/10/12/124008</doi>
+              <unstructured_citation>Pugh, T. A. M., Arneth, A., Olin, S., Ahlström, A., Bayer, A. D., Goldewijk,
+K. K., Lindeskog, M., and Schurgers, G., Simulated carbon emissions from land-use
+change are substantially enhanced by accounting for agricultural management,
+Environ. Res. Lett., 10, 124008, https://doi.org/10.1088/1748-9326/10/12/124008, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <unstructured_citation>R Core Team: R: A language and environment for statistical computing, R Foundation
+for Statistical Computing, Vienna, Austria, http://www.R-project.org/
+(last access: 9 June 2018), 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1007/s11252-011-0205-4</doi>
+              <unstructured_citation>Robinson, D. T.: Land-cover fragmentation and configuration of ownership parcels
+in an exurban landscape, Urban Ecosyst., 15, 53–69., https://doi.org/10.1007/s11252-011-0205-4, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1016/j.ecolmodel.2009.02.020</doi>
+              <unstructured_citation>Robinson, D. T., Brown, D. G., and Currie, W. S.: Modelling carbon storage in
+highly fragmented and human dominated landscapes: linking land-cover patterns
+and ecosystem models, Ecol. Model., 220, 1325–1338, 2009. </unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1016/j.envsoft.2012.06.016</doi>
+              <unstructured_citation>Robinson, D. T., Shipeng, S., Hutchins, M., Riolo, R. L., Brown, D. G., Parker,
+D. C., Currie, W. S., Filatova, T., and Kiger, S.: Effects of land markets and
+land management on ecosystem function: A framework for modelling exurban
+land-changes, Environ. Model. Softw., 45, 129–140, https://doi.org/10.1016/j.envsoft.2012.06.016, 2013a. </unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <unstructured_citation>Robinson, D. T., Shipeng, S., Hutchins, M., Riolo, R. L., Brown, D. G., Parker,
+D. C., Currie, W. S., Filatova, T., and Kiger, S.: Dynamic Ecological Exurban
+Development (DEED) model v.1, SLUCE, https://github.com/dtrobins/2013_DEED
+(last access: 13 June 2018), https://doi.org/10.5281/zenodo.1288756, 2013b. </unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1098/rstb.2011.0187</doi>
+              <unstructured_citation>Rounsevell, M. D., Robinson, D. T., and Murray-Rust, D.: From actors to agents in
+socio-ecological systems models, Philos. T. Roy. Soc. B, 367, 259–269, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.5194/esd-5-117-2014</doi>
+              <unstructured_citation>Rounsevell, M. D. A., Arneth, A., Alexander, P., Brown, D. G., de Noblet-Ducoudré,
+N., Ellis, E., Finnigan, J., Galvin, K., Grigg, N., Harman, I., Lennox, J.,
+Magliocca, N., Parker, D., O'Neill, B. C., Verburg, P. H., and Young, O.: Towards
+decision-based global land use models for improved understanding of the Earth
+system, Earth Syst. Dynam., 5, 117–137, https://doi.org/10.5194/esd-5-117-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.1016/B978-0-12-233440-5.50014-2</doi>
+              <unstructured_citation>Running, S. W. and Hunt, R. E.: Generalization of a forest ecosystem process
+model for other biomes, BIOME-BGC, and an application for global-scale models,
+in: Scaling Physiological Processes: Leaf to Globe, edited by: Ehleringer, J.
+R. and Field, C. B., Academic Press Inc., San Diego, CA, USA, 141–158, 1993. </unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <unstructured_citation>Sarjoughian, H., Smith, J., Godding, G., and Muqsith, M.: Model composability
+and execution across simulation, optimization, and forecast models, in:
+Proceedings of the Symposium on Theory of Modeling &amp;amp;amp;  Simulation-DEVS
+Integrative M &amp;amp;amp; S Symposium, International Society for Computer Simulation,
+San Diego, CA, USA, p. 30, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1109/WSC.2006.323047</doi>
+              <unstructured_citation>Sarjoughian, H. S.: Model Composability, in: Winter Simulation Conference,
+Monterey, CA, ACM Digital Library, 149–158, https://doi.org/10.1109/WSC.2006.323047, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <unstructured_citation>Sarjoughian, H. S., Meyer, G. R., Ullah, I. I., and Barton, C. M.: Managing
+Hybrid Model Composition Complexity: Human–Environment Simulation Models, in:
+Concepts and Methodologies for Modeling and Simulation, Simulation Foundations,
+Methods and Applications, edited by: Yilmaz, L., Springer International
+Publishing, Switzerland, 107–134, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1029/RG012i003p00447</doi>
+              <unstructured_citation>Schneider, S. H. and Dickinson, R. E.: Climate modeling, Rev. Geophys., 12,
+447–493, https://doi.org/10.1029/RG012i003p00447, 1974. </unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1046/j.1466-822X.2001.00256.x</doi>
+              <unstructured_citation>Smith, B., Prentice, I. C., and Sykes, M. T.: Representation of vegetation
+dynamics in the modelling of terrestrial ecosystems: comparing two contrasting
+approaches within European climate space, Global Ecol. Biogeogr., 10, 621–637, 2001. </unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.5194/bg-11-2027-2014</doi>
+              <unstructured_citation>Smith, B., Wårlind, D., Arneth, A., Hickler, T., Leadley, P., Siltberg, J.,
+and Zaehle, S.: Implications of incorporating N  ycling and N limitations on
+primary production in an individual-based dynamic vegetation model, Biogeosciences,
+11, 2027–2054, https://doi.org/10.5194/bg-11-2027-2014, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1007/978-1-4615-2816-6_14</doi>
+              <unstructured_citation>Smith, T. M., Shugart, H. H., Woodward, F. I., and Burton, P. J.: Plant
+functional types, in: Vegetation Dynamics &amp;amp;amp; Global Change, Springer US, New
+York, NY, USA, 272–292, 1993. </unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <unstructured_citation>Smith, T. M., Shugart, H. H., and Woodward, F. I.: Plant functional types: their
+relevance to ecosystem properties and global change, in: Vol. 1, Cambridge
+University Press, Cambridge, 1997. </unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.1080/00045608.2014.892338</doi>
+              <unstructured_citation>Sun, S., Parker, D. C., Huang, Q., Filatova, T., Robinson, D. T., Riolo, R. L.,
+Hutchins, M. D., and Brown, D. G.: Market Impacts on Land Use Change: An
+Agent-Based Modeling Experiment, Ann. Assoc. Am. Geogr., 104, 460–484, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Syvitski, J. P. M., Peckham, S. P., David, O., Goodall, J. L., Delucca, C.,
+and Theurich, G.: Cyberinfrastructure and Community Environmental Modeling,
+in: Handbook in Environmental Fluid Dynamics, chap. 28, edited by: Fernando,
+H. J. S., CRC Press/Taylor &amp;amp;amp; Francis Group, LLC, Boca Raton, Florida, USA, 399–410, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <unstructured_citation>Syvitski, J. P. M., Hutton, E. W. H., Piper, M. D., Overeem, I., Kettner, A. J.,
+and Peckham, S. D.: Plug and Play Component Modeling – The CSDMS2.0 Approach,
+in: International Environmental Modelling and Software Society (iEMSs) 7th Intl.
+Congress on Env. Modelling and Software, San Diego, CA, USA, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An overview of cmip5 and the
+experiment design, B. Am. Meteorol. Soc., 93, 485–498, https://doi.org/10.1175/bams-d-11-00094.1, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1175/BAMS-D-14-00164.1</doi>
+              <unstructured_citation>Theurich, G., DeLuca, C., Campbell, T., Liu, F., Saint, K., Vertenstein, M.,
+Chen, J., Oehmke, R., Doyle, J., Whitcomb, T., Wallcraft, A., Iredell, M.,
+Black, T., Da Silva, A. M., Clune, T., Ferraro, R., Li, P., Kelley, M., Aleinov,
+I., Balaji, V., Zadeh, N., Jacob, R., Kirtman, B., Giraldo, F., McCarren, D.,
+Sandgathe, S., Peckham, S., and Dunlap, R.: The Earth System Prediction Suite:
+Toward a Coordinated U.S. Modeling Capability, B. Am. Meteorol. Soc., 97,
+1229–1247, https://doi.org/10.1175/BAMS-D-14-00164.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1073/pnas.0704119104</doi>
+              <unstructured_citation>Turner II, B. L., Lambin, E. F., and Reenberg, A.: The emergence of land change
+science for global environmental change and sustainability, P. Natl. Acad. Sci.
+USA, 104, 20666–20671, 2007. </unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <unstructured_citation>Ullah, I. I. T.: The Consequences of Human land-use Strategies During the
+PPNB-LN Transition: A Simulation Modeling Approach, Arizona State University
+Anthropological Research Papers, Arizona Board of Regents, Tempe, Arizona, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <doi provider="crossref">10.1080/01969720490426803</doi>
+              <unstructured_citation>van der Leeuw, S. E.: Why model?, Cybernet. Syst. Int. J., 35, 117–128,
+https://doi.org/10.1080/01969720490426803, 2004. </unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1007/s10584-013-0974-2</doi>
+              <unstructured_citation>van Vuuren, D. P. and Carter, T. R.: Climate and socio-economic scenarios for
+climate change research and assessment: Reconciling the new with the old,
+Climatic Change, 122, 415–429, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.1007/s10980-006-0029-4</doi>
+              <unstructured_citation>Verburg, P. H.: Simulating feedback in land use and land cover change models,
+Landscape Ecol., 21, 1171–1183, 2006. </unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.1016/j.gloenvcha.2015.08.007</doi>
+              <unstructured_citation>Verburg, P. H., Dearing, J. A., Dyke, J. G., van der Leeuw, S. E., Seitzinger,
+S., Steffen, W., and Syvitski, J. P.: Methods and Approaches to Modelling the
+Anthropocene, Global Environ. Change, 39, 328–340, https://doi.org/10.1016/j.gloenvcha.2015.08.007, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.1029/2010EO130001</doi>
+              <unstructured_citation>Voinov, A. A., Hood, R. R., Peckham, S. D., Sherwood, C. R., and Syvitski, J.
+P. M.: A community Approach to Earth Systems Modeling, Eos, 91, 117–124, 2010. </unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1126/science.aad2622</doi>
+              <unstructured_citation>Waters, C. N., Zalasiewicz, J., Summerhayes, C., Barnosky, A. D., Poirier, C.,
+Gałuszka, A., Hajdas, I., Cearreta, A., Edgeworth, M., Ellis, E., Ellis, M.
+A., Jeandel, C., Leinfelder, R., McNeill, J. R., Richter, D. B., Steffen, W.,
+Syvitski, J., Vidas, D., Wagreich, M., Williams, M., Zhisheng, A., Grinevald,
+J., Odada, E., and Oreskes, N.: The Anthropocene is functionally and
+stratigraphically distinct from the Holocene, Science, 351, 6269, https://doi.org/10.1126/science.aad2622, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.1175/1087-3562(2000)004&lt;0003:PASAOT&gt;2.0.CO;2</doi>
+              <unstructured_citation>White, A. M., Thornton, P. E., Runnin, S. W., and Nemani, R. R.: Parameterization
+and sensitivity analysis of the BIOME-BGC terrestrial ecosystem model: net
+primary production controls, Earth Interact., 4, 1–85, 2000. </unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.1142/S2010007814500031</doi>
+              <unstructured_citation>Wise, M., Calvin, K., Kyle, P., Luckow, P., and Edmonds, J.: Economic and
+physical modeling of land–use in GCAM 3.0 and an application to agricultural
+productivity, land, and terrestrial carbon, Clim. Change Econ., 5, 1450003,
+https://doi.org/10.1142/S2010007814500031, 2014. </unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1080/17474230802048078</doi>
+              <unstructured_citation>Yadav, V., Del Grosso, S. J., Parton, W. J., and Malanson, G. P.: Adding
+ecosystem function to agent-based land use models, Land Use Sci., 3, 27–40, 2008. </unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.1177/2053019615587056</doi>
+              <unstructured_citation>Zalasiewicz, J., Waters, C. N., Barnosky, A. D., Cearreta, A., Edgeworth, M.,
+Ellis, E. C., Gałuszka, A., Gibbard, P. L., Grinevald, J., Hajdas, I., Ivar do
+Sul, J., Jeandel, C., Leinfelder, R., McNeill, J. R., Poirier, C., Revkin, A.,
+Richter, B., Steffen, W., Summerhayes, C., Syvitski, J. P. M., Vidas, D., Wagreich,
+M., Williams, M., and Wolfe, A. P.: Colonization of the Americas, `Little Ice
+Age' climate, and bomb produced carbon: Their role in defining the Anthropocene,
+Anthropocene Rev., 2, 117–127, 2015. </unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

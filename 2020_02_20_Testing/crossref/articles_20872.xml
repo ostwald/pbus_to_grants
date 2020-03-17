@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>10</volume>
+          </journal_volume>
+          <issue>6</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Synthesizing long-term sea level rise projections – the MAGICC sea level model v2.0</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Alexander</given_name>
+              <surname>Nauels</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Malte</given_name>
+              <surname>Meinshausen</surname>
+              <ORCID>https://orcid.org/0000-0003-4048-3521</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthias</given_name>
+              <surname>Mengel</surname>
+              <ORCID>https://orcid.org/0000-0001-6724-9685</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Katja</given_name>
+              <surname>Lorbacher</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tom M. L.</given_name>
+              <surname>Wigley</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Sea level rise (SLR) is one of the major impacts of global warming; it will threaten coastal populations, infrastructure, and ecosystems around the globe in coming centuries. Well-constrained sea level projections are needed to estimate future losses from SLR and benefits of climate protection and adaptation. Process-based models that are designed to resolve the underlying physics of individual sea level drivers form the basis for state-of-the-art sea level projections. However, associated computational costs allow for only a small number of simulations based on selected scenarios that often vary for different sea level components. This approach does not sufficiently support sea level impact science and climate policy analysis, which require a sea level projection methodology that is flexible with regard to the climate scenario yet comprehensive and bound by the physical constraints provided by process-based models. To fill this gap, we present a sea level model that emulates global-mean long-term process-based model projections for all major sea level components. Thermal expansion estimates are calculated with the hemispheric upwelling-diffusion ocean component of the simple carbon-cycle climate model MAGICC, which has been updated and calibrated against CMIP5 ocean temperature profiles and thermal expansion data. Global glacier contributions are estimated based on a parameterization constrained by transient and equilibrium process-based projections. Sea level contribution estimates for Greenland and Antarctic ice sheets are derived from surface mass balance and solid ice discharge parameterizations reproducing current output from ice-sheet models. The land water storage component replicates recent hydrological modeling results. For 2100, we project 0.35 to 0.56<span class="thinspace"></span>m (66<span class="thinspace"></span>% range) total SLR based on the RCP2.6 scenario, 0.45 to 0.67<span class="thinspace"></span>m for RCP4.5, 0.46 to 0.71<span class="thinspace"></span>m for RCP6.0, and 0.65 to 0.97<span class="thinspace"></span>m for RCP8.5. These projections lie within the range of the latest IPCC SLR estimates. SLR projections for 2300 yield median responses of 1.02<span class="thinspace"></span>m for RCP2.6, 1.76<span class="thinspace"></span>m for RCP4.5, 2.38<span class="thinspace"></span>m for RCP6.0, and 4.73<span class="thinspace"></span>m for RCP8.5. The MAGICC sea level model provides a flexible and efficient platform for the analysis of major scenario, model, and climate uncertainties underlying long-term SLR projections. It can be used as a tool to directly investigate the SLR implications of different mitigation pathways and may also serve as input for regional SLR assessments via component-wise sea level pattern scaling.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>30</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>2495</first_page>
+            <last_page>2524</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5281/zenodo.572398</inter_work_relation>
+            </related_item>
+            <related_item>
+              <description>Model code and software</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5281/zenodo.572395</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-10-2495-2017</doi>
+            <resource>https://www.geosci-model-dev.net/10/2495/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/10/2495/2017/gmd-10-2495-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1126/science.1169335</doi>
+              <unstructured_citation>Bamber, J. L., Riva, R. E. M., Vermeersen, B. L. A., and LeBrocq, A. M.: Reassessment of the Potential Sea-Level Rise from a Collapse of the West Antarctic Ice Sheet, Science, 324, 901–903, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/tc-7-499-2013</doi>
+              <unstructured_citation>Bamber, J. L., Griggs, J. A., Hurkmans, R. T. W. L., Dowdeswell, J. A., Gogineni, S. P., Howat, I., Mouginot, J., Paden, J., Palmer, S., Rignot, E., and Steinhage, D.: A new bed elevation dataset for Greenland, The Cryosphere, 7, 499–510, https://doi.org/10.5194/tc-7-499-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1007/s10712-011-9120-8</doi>
+              <unstructured_citation>Bengtsson, L., Koumoutsaris, S., and Hodges, K.: Large-Scale Surface Mass Balance of Ice Sheets from a Comprehensive Atmospheric Model, Surv. Geophys., 32, 459–474, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.3189/2013JoG12J125</doi>
+              <unstructured_citation>Bindschadler, R. A., Nowicki, S., Abe-Ouchi, A., Aschwanden, A., Choi, H., Fastook, J., Granzow, G., Greve, R., Gutowski, G., Herzfeld, U., Jackson, C., Johnson, J., Khroulev, C., Levermann, A., Lipscomb, W. H., Martin, M. A., Morlighem, M., Parizek, B. R., Pollard, D., Price, S. F., Ren, D., Saito, F., Sato, T., Seddik, H., Seroussi, H., Takahashi, K., Walker, R., and Wang, W. L.: Ice-sheet model sensitivities to environmental forcing and their use in projecting future sea level (the SeaRISE project), J. Glaciol., 59, 195–224, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1007/s10712-011-9119-1</doi>
+              <unstructured_citation>Church, J. A. and White, N. J.: Sea-Level Rise from the Late 19th to the Early 21st Century, Surv. Geophys., 32, 585–602, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5670/oceanog.2011.33</doi>
+              <unstructured_citation>Church, J. A., Gregory, J. M., White, N. J., Platten, S. M., and Mitrovica, J. X.: Understanding and Projecting Sea Level Change, Oceanography, 24, 130–143, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Church, J. A., Clark, P., Cazenave, A., Gregory, J., Jevrejeva, S., Levermann, A., Merrifield, M., Milne, G., Nerem, R., Nunn, P., Payne, A., Pfeffer, W., Stammer, D., and Unnikrishnan, A.: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, chap. 13. Sea Level Change, Cambridge University Press, Cambridge, UK and New York, NY, USA, 2013a.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1088/1748-9326/8/1/014051</doi>
+              <unstructured_citation>Church, J. A., Monselesan, D., Gregory, J. M., and Marzeion, B.: Evaluating the ability of process based models to project sea-level change, Environ. Res. Lett., 8, 014051, https://doi.org/10.1088/1748-9326/8/1/014051, 2013b.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1038/nclimate2923</doi>
+              <unstructured_citation>Clark, P. U., Shakun, J. D., Marcott, S. A., Mix, A. C., Eby, M., Kulp, S., Levermann, A., Milne, G. A., Pfister, P. L., Santer, B. D., Schrag, D. P., Solomon, S., Stocker, T. F., Strauss, B. H., Weaver, A. J., Winkelmann, R., Archer, D., Bard, E., Goldner, A., Lambeck, K., Pierrehumbert, R. T., and Plattner, G.-K.: Consequences of twenty-first-century policy for multi-millennial climate and sea-level change, Nature Clim. Change, 6, 360–369, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1038/nature17145</doi>
+              <unstructured_citation>DeConto, R. M. and Pollard, D.: Contribution of Antarctica to past and future sea-level rise, Nature, 531, 591–597, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1016/j.advwatres.2013.12.002</doi>
+              <unstructured_citation>de Graaf, I., van Beek, L., Wada, Y., and Bierkens, M.: Dynamic attribution of global water demand to surface water and groundwater resources: Effects of abstractions and return flows on river discharges, Adv. Water Resour., 64, 21–33, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1038/nclimate2094</doi>
+              <unstructured_citation>Favier, L., Durand, G., Cornford, S. L., Gudmundsson, G. H., Gagliardini, O., Gillet-Chaulet, F., Zwinger, T., Payne, A. J., and Le Brocq, A. M.: Retreat of Pine Island Glacier controlled by marine ice-sheet instability, Nature Clim. Change, 4, 117–121, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/tc-5-359-2011</doi>
+              <unstructured_citation>Fettweis, X., Tedesco, M., van den Broeke, M., and Ettema, J.: Melting trends over the Greenland ice sheet (1958–2009) from spaceborne microwave data and regional climate models, The Cryosphere, 5, 359–375, https://doi.org/10.5194/tc-5-359-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/tc-7-469-2013</doi>
+              <unstructured_citation>Fettweis, X., Franco, B., Tedesco, M., van Angelen, J. H., Lenaerts, J. T. M., van den Broeke, M. R., and Gallée, H.: Estimating the Greenland ice sheet surface mass balance contribution to future sea level rise using the regional atmospheric climate model MAR, The Cryosphere, 7, 469–489, https://doi.org/10.5194/tc-7-469-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Flato, G., Marotzke, J., Abiodun, B., Braconnot, P., Chou, S., Collins, W., Cox, P., Driouech, F., Emori, S., Eyring, V., Forest, C., Gleckler, P., Guilyardi, E., Jakobs, C., Kattsov, V., Reason, C., and Rummukainen, M.: Evaluation of Climate Models, in: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, chap. 9, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge, UK and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1038/ngeo2248</doi>
+              <unstructured_citation>Friedlingstein, P., Andrew, R. M., Rogelj, J., Peters, G. P., Canadell, J. G., Knutti, R., Luderer, G., Raupach, M. R., Schaeffer, M., van Vuuren, D. P., and Le Quere, C.: Persistent growth of CO2 emissions and implications for reaching climate targets, Nat. Geosci., 7, 709–715, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1175/JCLI-D-11-00199.1</doi>
+              <unstructured_citation>Frieler, K., Meinshausen, M., Mengel, M., Braun, N., and Hare, W.: A Scaling Approach to Probabilistic Assessment of Regional Climate Change, J. Climate, 25, 3117–3144, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/esd-7-203-2016</doi>
+              <unstructured_citation>Frieler, K., Mengel, M., and Levermann, A.: Delaying future sea-level rise by storing water in Antarctica, Earth Syst. Dynam., 7, 203–210, https://doi.org/10.5194/esd-7-203-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/tc-9-1039-2015</doi>
+              <unstructured_citation>Fürst, J. J., Goelzer, H., and Huybrechts, P.: Ice-dynamic projections of the Greenland ice sheet in response to atmospheric and oceanic warming, The Cryosphere, 9, 1039–1062, https://doi.org/10.5194/tc-9-1039-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1038/ngeo2590</doi>
+              <unstructured_citation>Gleeson, T., Befus, K. M., Jasechko, S., Luijendijk, E., and Cardenas, M. B.: The global volume and distribution of modern groundwater, Nat. Geosci., 9, 161–167, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1088/1748-9326/7/4/045401</doi>
+              <unstructured_citation>Goelzer, H., Huybrechts, P., Raper, S. C. B., Loutre, M.-F., Goosse, H., and Fichefet, T.: Millennial total sea-level commitments projected with the Earth system model of intermediate complexity LOVECLIM, Environ. Res. Lett., 7, 045401, https://doi.org/10.1088/1748-9326/7/4/045401, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.3189/2013JoG12J182</doi>
+              <unstructured_citation>Goelzer, H., Huybrechts, P., Furst, J. J., Nick, F. M., Andersen, M. L., Edwards, T. L., Fettweis, X., Payne, A. J., and Shannon, S.: Sensitivity of Greenland ice sheet projections to model formulations, J. Glaciol., 59, 733–749, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1126/science.215.4540.1611</doi>
+              <unstructured_citation>Gornitz, V., Lebedeff, S., and Hansen, J.: Global Sea Level Trend in the Past Century, Science, 215, 1611–1614, 1982.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1098/rsta.2006.1796</doi>
+              <unstructured_citation>Gregory, J. and Huybrechts, P.: Ice-sheet contributions to future sea-level change, Philos. T. R. Soc. A, 364, 1709–1732, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1002/grl.50339</doi>
+              <unstructured_citation>Gregory, J. M., Bi, D., Collier, M. A., Dix, M. R., Hirst, A. C., Hu, A., Huber, M., Knutti, R., Marsland, S. J., Meinshausen, M., Rashid, H. A., Rotstayn, L. D., Schurer, A., and Church, J. A.: Climate models without preindustrial volcanic forcing underestimate historical ocean thermal expansion, Geophys. Res. Lett., 40, 1600–1604, 2013a.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/JCLI-D-12-00319.1</doi>
+              <unstructured_citation>Gregory, J. M., White, N. J., Church, J. A., Bierkens, M. F. P., Box, J. E., van den Broeke, M. R., Cogley, J. G., Fettweis, X., Hanna, E., Huybrechts, P., Konikow, L. F., Leclercq, P. W., Marzeion, B., Oerlemans, J., Tamisiea, M. E., Wada, Y., Wake, L. M., and van de Wal, R. S. W.: Twentieth-Century Global-Mean Sea Level Rise: Is the Whole Greater than the Sum of the Parts?, J. Climate, 26, 4476–4499, 2013b.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1016/j.ocemod.2012.04.003</doi>
+              <unstructured_citation>Griffies, S. M. and Greatbatch, R. J.: Physical processes that impact the evolution of global mean sea level in ocean climate models, Ocean Model., 51, 37–72, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1016/j.ocemod.2014.03.004</doi>
+              <unstructured_citation>Griffies, S. M., Yin, J., Durack, P. J., Goddard, P., Bates, S. C., Behrens, E., Bentsen, M., Bi, D., Biastoch, A., Böning, C. W., Bozec, A., Chassignet, E., Danabasoglu, G., Danilov, S., Domingues, C. M., Drange, H., Farneti, R., Fernandez, E., Greatbatch, R. J., Holland, D. M., Ilicak, M., Large, W. G., Lorbacher, K., Lu, J., Marsland, S. J., Mishra, A., George Nurser, A. J., Salas y Mélia, D., Palter, J. B., Samuels, B. L., Schröter, J., Schwarzkopf, F. U., Sidorenko, D., Treguier, A. M., Tseng, Y.-h., Tsujino, H., Uotila, P., Valcke, S., Voldoire, A., Wang, Q., Winton, M., and Zhang, X.: An assessment of global and regional sea level for years 1993–2007 in a suite of interannual CORE-II simulations, Ocean Model., 78, 35–89, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.5194/tc-7-141-2013</doi>
+              <unstructured_citation>Grinsted, A.: An estimate of global glacier volume, The Cryosphere, 7, 141–151, https://doi.org/10.5194/tc-7-141-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/JCLI-D-12-00521.1</doi>
+              <unstructured_citation>Gupta, A. S., Jourdain, N. C., Brown, J. N., and Monselesan, D.: Climate Drift in the CMIP5 Models, J. Climate, 26, 8597–8615, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1007/s00382-002-0241-0</doi>
+              <unstructured_citation>Hargreaves, J. and Annan, J.: Assimilation of paleo-data in a simple Earth system model, Clim. Dynam., 19, 371–381, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1038/nature14093</doi>
+              <unstructured_citation>Hay, C. C., Morrow, E., Kopp, R. E., and Mitrovica, J. X.: Probabilistic reanalysis of twentieth-century sea-level rise, Nature, 517, 481–484, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/2007JCLI1909.1</doi>
+              <unstructured_citation>Holland, P. R., Jenkins, A., and Holland, D. M.: The response of ice shelf basal melting to variations in ocean temperature, J. Climate, 21, 2558–2572, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.quascirev.2013.11.002</doi>
+              <unstructured_citation>Horton, B. P., Rahmstorf, S., Engelhart, S. E., and Kemp, A. C.: Expert assessment of sea-level rise by AD 2100 and AD 2300, Quaternary Sci. Rev., 84, 1–6, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1007/s10712-011-9131-5</doi>
+              <unstructured_citation>Huybrechts, P., Goelzer, H., Janssens, I., Driesschaert, E., Fichefet, T., Goosse, H., and Loutre, M. F.: Response of the Greenland and Antarctic Ice Sheets to Multi-Millennial Greenhouse Warming in the Earth System Model of Intermediate Complexity LOVECLIM, Surv. Geophys., 32, 397–416, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1017/S0022143000002252</doi>
+              <unstructured_citation>Jacobs, S. S., Helmer, H. H., Doake, C. S. M., Jenkins, A., and Frolich, R. M.: Melting of Ice Shelves and the Mass Balance of Antarctica, J. Glaciol., 38, 375–387, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1029/91JC01842</doi>
+              <unstructured_citation>Jenkins, A.: A one-dimensional model of ice shelf-ocean interaction, J. Geophys. Res.-Oceans, 96, 20671–20677, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2010GL042947</doi>
+              <unstructured_citation>Jevrejeva, S., Moore, J. C., and Grinsted, A.: How will sea level respond to changes in natural and anthropogenic forcings by 2100?, Geophys. Res. Lett., 37, L07703, https://doi.org/10.1029/2010GL042947, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1007/s00382-002-0296-y</doi>
+              <unstructured_citation>Johns, T. C., Gregory, J. M., Ingram, W. J., Johnson, C. E., Jones, A., Lowe, J. A., Mitchell, J. F. B., Roberts, D. L., Sexton, D. M. H., Stevenson, D. S., Tett, S. F. B., and Woodage, M. J.: Anthropogenic climate change for 1860 to 2100 simulated with the HadCM3 model under updated emissions scenarios, Clim. Dynam., 20, 583–612, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1126/science.1226481</doi>
+              <unstructured_citation>Joughin, I., Alley, R. B., and Holland, D. M.: Ice-Sheet Response to Oceanic Forcing, Science, 338, 1172–1176, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1126/science.1249055</doi>
+              <unstructured_citation>Joughin, I., Smith, B. E., and Medley, B.: Marine Ice Sheet Collapse Potentially Under Way for the Thwaites Glacier Basin, West Antarctica, Science, 344, 735–738, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1088/0034-4885/78/4/046801</doi>
+              <unstructured_citation>Khan, S. A., Aschwanden, A., Bjørk, A. A., Wahr, J., Kjeldsen, K. K., and Kjær, K. H.: Greenland ice sheet mass balance: a review, Rep. Prog. Phys., 78, 046801, https://doi.org/10.1088/0034-4885/78/4/046801, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2011GL048604</doi>
+              <unstructured_citation>Konikow, L. F.: Contribution of global groundwater depletion since 1900 to sea-level rise, Geophys. Res. Lett., 38, L17401, https://doi.org/10.1029/2011GL048604, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1002/2014EF000239</doi>
+              <unstructured_citation>Kopp, R. E., Horton, R. M., Little, C. M., Mitrovica, J. X., Oppenheimer, M., Rasmussen, D. J., Strauss, B. H., and Tebaldi, C.: Probabilistic 21st and 22nd century sea-level projections at a global network of tide-gauge sites, Earth's Future, 2, 383–406, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1073/pnas.1517056113</doi>
+              <unstructured_citation>Kopp, R. E., Kemp, A. C., Bittermann, K., Horton, B. P., Donnelly, J. P., Gehrels, W. R., Hay, C. C., Mitrovica, J. X., Morrow, E. D., and Rahmstorf, S.: Temperature-driven global sea-level variability in the Common Era, P. Natl. Acad. Sci. USA, 113, 1434–1441, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1007/s00382-006-0177-x</doi>
+              <unstructured_citation>Krinner, G., Magand, O., Simmonds, I., Genthon, C., and Dufresne, J. L.: Simulated Antarctic precipitation and surface mass balance at the end of the twentieth and twenty-first centuries, Clim. Dynam., 28, 215–230, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1029/2012GL052952</doi>
+              <unstructured_citation>Kuhlbrodt, T. and Gregory, J. M.: Ocean heat uptake and its consequences for the magnitude of sea level rise and climate change, Geophys. Res. Lett., 39, L18608, https://doi.org/10.1029/2012GL052952, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.1137/S1052623496303470</doi>
+              <unstructured_citation>Lagarias, J., Reeds, J., Wright, M., and Wright, P.: Convergence Properties of the Nelder–Mead Simplex Method in Low Dimensions, SIAM J. Optim., 9, 112–147, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1007/s10712-011-9121-7</doi>
+              <unstructured_citation>Leclercq, P. W., Oerlemans, J., and Cogley, J. G.: Estimating the Glacier Contribution to Sea-Level Rise for the Period 1800–2005, Surv. Geophys., 32, 519–535, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1029/2011GL050713</doi>
+              <unstructured_citation>Lenaerts, J. T. M., van den Broeke, M. R., van de Berg, W. J., van Meijgaard, E., and Kuipers Munneke, P.: A new, high-resolution surface mass balance map of Antarctica (1979–2010) based on regional atmospheric climate modeling, Geophys. Res. Lett., 39, L04501, https://doi.org/10.1029/2011GL050713, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1073/pnas.1219414110</doi>
+              <unstructured_citation>Levermann, A., Clark, P. U., Marzeion, B., Milne, G. A., Pollard, D., Radic, V., and Robinson, A.: The multimillennial sea-level commitment of global warming, P. Natl. Acad. Sci. USA, 110, 13745–13750, https://doi.org/10.1073/pnas.1219414110, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.5194/esd-5-271-2014</doi>
+              <unstructured_citation>Levermann, A., Winkelmann, R., Nowicki, S., Fastook, J. L., Frieler, K., Greve, R., Hellmer, H. H., Martin, M. A., Meinshausen, M., Mengel, M., Payne, A. J., Pollard, D., Sato, T., Timmermann, R., Wang, W. L., and Bindschadler, R. A.: Projecting Antarctic ice discharge using response functions from SeaRISE ice-sheet models, Earth Syst. Dynam., 5, 271–293, https://doi.org/10.5194/esd-5-271-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1007/s00382-013-1749-1</doi>
+              <unstructured_citation>Ligtenberg, S. R. M., van de Berg, W. J., van den Broeke, M. R., Rae, J. G. L., and van Meijgaard, E.: Future surface mass balance of the Antarctic ice sheet and its influence on sea level change, simulated by a regional atmospheric climate model, Clim. Dynam., 41, 867–884, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.5194/gmd-8-2723-2015</doi>
+              <unstructured_citation>Lorbacher, K., Nauels, A., and Meinshausen, M.: Complementing thermosteric sea level rise estimates, Geosci. Model Dev., 8, 2723–2734, https://doi.org/10.5194/gmd-8-2723-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/tc-5-727-2011</doi>
+              <unstructured_citation>Martin, M. A., Winkelmann, R., Haseloff, M., Albrecht, T., Bueler, E., Khroulev, C., and Levermann, A.: The Potsdam Parallel Ice Sheet Model (PISM-PIK) – Part 2: Dynamic equilibrium simulation of the Antarctic ice sheet, The Cryosphere, 5, 727–740, https://doi.org/10.5194/tc-5-727-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/tc-6-1295-2012</doi>
+              <unstructured_citation>Marzeion, B., Jarosch, A. H., and Hofer, M.: Past and future sea-level change from the surface mass balance of glaciers, The Cryosphere, 6, 1295–1322, https://doi.org/10.5194/tc-6-1295-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1126/science.1254702</doi>
+              <unstructured_citation>Marzeion, B., Cogley, J. G., Richter, K., and Parkes, D.: Attribution of global glacier mass loss to anthropogenic and natural causes, Science, 345, 919–921, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1038/nature08017</doi>
+              <unstructured_citation>Meinshausen, M., Meinshausen, N., Hare, W., Raper, S. C. B., Frieler, K., Knutti, R., Frame, D. J., and Allen, M. R.: Greenhouse-gas emission targets for limiting global warming to 2 degrees C, Nature, 458, 1158–1162, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/acp-11-1417-2011</doi>
+              <unstructured_citation>Meinshausen, M., Raper, S. C. B., and Wigley, T. M. L.: Emulating coupled atmosphere-ocean and carbon cycle models with a simpler model, MAGICC6 – Part 1: Model description and calibration, Atmos. Chem. Phys., 11, 1417–1456, https://doi.org/10.5194/acp-11-1417-2011, 2011a.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/acp-11-1457-2011</doi>
+              <unstructured_citation>Meinshausen, M., Wigley, T. M. L., and Raper, S. C. B.: Emulating atmosphere-ocean and carbon cycle models with a simpler model, MAGICC6 – Part 2: Applications, Atmos. Chem. Phys., 11, 1457–1471, https://doi.org/10.5194/acp-11-1457-2011, 2011b.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1007/s10584-011-0156-z</doi>
+              <unstructured_citation>Meinshausen, M., Smith, S. J., Calvin, K., Daniel, J. S., Kainuma, M. L. T., Lamarque, J. F., Matsumoto, K., Montzka, S. A., Raper, S. C. B., Riahi, K., Thomson, A., Velders, G. J. M., and van Vuuren, D. P. P.: The RCP greenhouse gas concentrations and their extensions from 1765 to 2300, Climatic Change, 109, 213–241, 2011c.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1073/pnas.1500515113</doi>
+              <unstructured_citation>Mengel, M., Levermann, A., Frieler, K., Robinson, A., Marzeion, B., and Winkelmann, R.: Future sea level rise constrained by observations and long-term commitment, P. Natl. Acad. Sci. USA, 113, 2597–2602, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1038/nature08823</doi>
+              <unstructured_citation>Moss, R. H., Edmonds, J. A., Hibbard, K. A., Manning, M. R., Rose, S. K., van Vuuren, D. P., Carter, T. R., Emori, S., Kainuma, M., Kram, T., Meehl, G. A., Mitchell, J. F. B., Nakicenovic, N., Riahi, K., Smith, S. J., Stouffer, R. J., Thomson, A. M., Weyant, J. P., and Wilbanks, T. J.: The next generation of scenarios for climate change research and assessment, Nature, 463, 747–756, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Nauels, A., Meinshausen, M., Mengel, M., Lorbacher, K., and Wigley, T. M. L.: Source code for “Synthesizing long-term sea level rise projections – the MAGICC sea level model v2.0”, https://doi.org/10.5281/zenodo.572395, 2017a.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Nauels, A., Meinshausen, M., Mengel, M., Lorbacher, K., and Wigley, T. M. L.: Supporting data for “Synthesizing long-term sea level rise projections – the MAGICC sea level model v2.0”, https://doi.org/10.5281/zenodo.572398, 2017b.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1093/comjnl/7.4.308</doi>
+              <unstructured_citation>Nelder, J. A. and Mead, R.: A simplex method for function minimization, Comput. J., 7, 308–313, 1965.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1126/science.1185782</doi>
+              <unstructured_citation>Nicholls, R. J. and Cazenave, A.: Sea-Level Rise and Its Impact on Coastal Zones, Science, 328, 1517–1520, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1038/ngeo394</doi>
+              <unstructured_citation>Nick, F. M., Vieli, A., Howat, I. M., and Joughin, I.: Large-scale changes in Greenland outlet glacier dynamics triggered at the terminus, Nat. Geosci., 2, 110–114, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1038/nature12068</doi>
+              <unstructured_citation>Nick, F. M., Vieli, A., Andersen, M. L., Joughin, I., Payne, A., Edwards, T. L., Pattyn, F., and van de Wal, R. S. W.: Future sea-level rise from Greenlands main outlet glaciers in a warming climate, Nature, 497, 235–238, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1038/nclimate1877</doi>
+              <unstructured_citation>Orlic, M. and Pasaric, Z.: Semi-empirical versus process-based sea-level projections for the twenty-first century, Nature Clim. Change, 3, 735–738, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/tc-6-573-2012</doi>
+              <unstructured_citation>Pattyn, F., Schoof, C., Perichon, L., Hindmarsh, R. C. A., Bueler, E., de Fleurian, B., Durand, G., Gagliardini, O., Gladstone, R., Goldberg, D., Gudmundsson, G. H., Huybrechts, P., Lee, V., Nick, F. M., Payne, A. J., Pollard, D., Rybak, O., Saito, F., and Vieli, A.: Results of the Marine Ice Sheet Model Intercomparison Project, MISMIP, The Cryosphere, 6, 573–588, https://doi.org/10.5194/tc-6-573-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1029/2006JC003733</doi>
+              <unstructured_citation>Payne, A. J., Holland, P. R., Shepherd, A. P., Rutt, I. C., Jenkins, A., and Joughin, I.: Numerical modeling of ocean-ice interactions under Pine Island Bay's ice shelf, J. Geophys. Res.-Oceans, 112, C10019, https://doi.org/10.1029/2006JC003733, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.5194/esd-4-11-2013</doi>
+              <unstructured_citation>Perrette, M., Landerer, F., Riva, R., Frieler, K., and Meinshausen, M.: A scaling approach to project regional sea level rise and its uncertainties, Earth Syst. Dynam., 4, 11–29, https://doi.org/10.5194/esd-4-11-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.3189/2014JoG13J176</doi>
+              <unstructured_citation>Pfeffer, W. T., Arendt, A. A., Bliss, A., Bolch, T., Cogley, J. G., Gardner, A. S., Hagen, J.-O., Hock, R., Kaser, G., Kienholz, C., Miles, E. S., Moholdt, G., Mölg, N., Paul, F., Radi, Valentina, Rastner, P., Raup, B. H., Rich, J., and Sharp, M. J.: The Randolph Glacier Inventory: a globally complete inventory of glaciers, J. Glaciol., 60, 537–552, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1038/ngeo1476</doi>
+              <unstructured_citation>Pokhrel, Y. N., Hanasaki, N., Yeh, P. J. F., Yamada, T. J., Kanae, S., and Oki, T.: Model estimates of sea-level change due to anthropogenic impacts on terrestrial water storage, Nat. Geosci., 5, 389–392, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.5194/gmd-5-1273-2012</doi>
+              <unstructured_citation>Pollard, D. and DeConto, R. M.: Description of a hybrid ice sheet-shelf model, and application to Antarctica, Geosci. Model Dev., 5, 1273–1295, https://doi.org/10.5194/gmd-5-1273-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.1073/pnas.1017313108</doi>
+              <unstructured_citation>Price, S. F., Payne, A. J., Howat, I. M., and Smith, B. E.: Committed sea-level rise for the next century from Greenland ice sheet dynamics during the past decade, P. Natl. Acad. Sci. USA, 108, 8978–8983, https://doi.org/10.1073/pnas.1017313108, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.5194/tc-6-1275-2012</doi>
+              <unstructured_citation>Rae, J. G. L., Aðalgeirsdóttir, G., Edwards, T. L., Fettweis, X., Gregory, J. M., Hewitt, H. T., Lowe, J. A., Lucas-Picher, P., Mottram, R. H., Payne, A. J., Ridley, J. K., Shannon, S. R., van de Berg, W. J., van de Wal, R. S. W., and van den Broeke, M. R.: Greenland ice sheet surface mass balance: evaluating simulations and making projections with regional climate models, The Cryosphere, 6, 1275–1294, https://doi.org/10.5194/tc-6-1275-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.1126/science.1135456</doi>
+              <unstructured_citation>Rahmstorf, S.: A semi-empirical approach to projecting future sea-level rise, Science, 315, 368–370, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.1007/PL00007931</doi>
+              <unstructured_citation>Raper, S. C. B., Gregory, J. M., and Osborn, T. J.: Use of an upwelling-diffusion energy balance climate model to simulate and diagnose AOGCM results, Clim. Dynam., 17, 601–613, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.1038/ngeo765</doi>
+              <unstructured_citation>Rignot, E., Koppes, M., and Velicogna, I.: Rapid submarine melting of the calving faces of West Greenland glaciers, Nat. Geosci., 3, 187–191, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <doi provider="crossref">10.1002/2014GL060140</doi>
+              <unstructured_citation>Rignot, E., Mouginot, J., Morlighem, M., Seroussi, H., and Scheuchl, B.: Widespread, rapid grounding line retreat of Pine Island, Thwaites, Smith, and Kohler glaciers, West Antarctica, from 1992 to 2011, Geophys. Res. Lett., 41, 3502–3509, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.1038/nclimate1449</doi>
+              <unstructured_citation>Robinson, A., Calov, R., and Ganopolski, A.: Multistability and critical thresholds of the Greenland ice sheet, Nature Clim. Change, 2, 429–432, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <unstructured_citation>Roeckner, E., Baeuml, G., Bonaventura, L., Brokopf, R., Esch, M., Giorgetta, M., Hagemann, S., Kirchner, I., Kornblueh, L., Manzini, E., Rhodin, A., Schlese, U., Schulzweida, U., and Tompkins, A.: The atmospheric general circulation model ECHAM 5. PART I: Model description, Report No. 349, Tech. rep., Max-Planck-Institut fuer Meteorologie, Hamburg, Germany, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1038/nclimate1385</doi>
+              <unstructured_citation>Rogelj, J., Meinshausen, M., and Knutti, R.: Global warming under old and new scenarios using IPCC climate sensitivity range estimates, Nature Clim. Change, 2, 248–253, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.1088/1748-9326/9/3/031003</doi>
+              <unstructured_citation>Rogelj, J., Meinshausen, M., Sedláček, J., and Knutti, R.: Implications of potentially lower climate sensitivity on climate projections and policy, Environ. Res. Lett., 9, 031003, https://doi.org/10.1088/1748-9326/9/3/031003, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <doi provider="crossref">10.3189/2012AoG60A042</doi>
+              <unstructured_citation>Sato, T. and Greve, R.: Sensitivity experiments for the Antarctic ice sheet with varied sub-ice-shelf melting rates, Ann. Glaciol., 53, 221–228, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <doi provider="crossref">10.1038/nclimate1584</doi>
+              <unstructured_citation>Schaeffer, M., Hare, W., Rahmstorf, S., and Vermeer, M.: Long-term sea-level rise implied by 1.5 degrees C and 2 degrees C warming levels, Nature Clim. Change, 2, 867–870, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.5194/esd-7-327-2016</doi>
+              <unstructured_citation>Schleussner, C.-F., Lissner, T. K., Fischer, E. M., Wohland, J., Perrette, M., Golly, A., Rogelj, J., Childers, K., Schewe, J., Frieler, K., Mengel, M., Hare, W., and Schaeffer, M.: Differential climate impacts for policy-relevant limits to global warming: the case of 1.5 °C and 2 °C, Earth Syst. Dynam., 7, 327–351, https://doi.org/10.5194/esd-7-327-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1007/s10236-008-0142-9</doi>
+              <unstructured_citation>Storch, H., Zorita, E., and Gonzalez-Rouco, J. F.: Relationship between global mean sea-level and global mean temperature in a climate simulation of the past millennium, Ocean Dynam., 58, 227–236, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1175/BAMS-D-11-00094.1</doi>
+              <unstructured_citation>Taylor, K. E., Stouffer, R. J., and Meehl, G. A.: An Overview of CMIP5 and the Experiment Design, B. Am. Meteorol. Soc., 93, 485–498, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.1029/2010WR009791</doi>
+              <unstructured_citation>van Beek, L. P. H., Wada, Y., and Bierkens, M. F. P.: Global monthly water stress: 1. Water balance and water availability, Water Resour. Res., 47, W07517, https://doi.org/10.1029/2010WR009791, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.1126/science.1178176</doi>
+              <unstructured_citation>van den Broeke, M., Bamber, J., Ettema, J., Rignot, E., Schrama, E., van de Berg, W. J., van Meijgaard, E., Velicogna, I., and Wouters, B.: Partitioning Recent Greenland Mass Loss, Science, 326, 984–986, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref94">
+              <unstructured_citation>Vaughan, D. G., Comiso, J., Allison, I., Carrasco, J., Kaser, G., Kwok, R., Mote, P., Murray, T., Paul, F., Ren, D., Rignot, E., Solomina, O., Steffen, K., Zhang, N.: Observations: Cryosphere, in: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, chap. 4, edited by: Stocker, T. F., Qin, D., Plattner, G.-K., Tignor, M., Allen, S. K., Boschung, J., Nauels, A., Xia, Y., Bex, V., and Midgley, P. M., Cambridge University Press, Cambridge, UK and New York, NY, USA, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref95">
+              <doi provider="crossref">10.1073/pnas.0907765106</doi>
+              <unstructured_citation>Vermeer, M. and Rahmstorf, S.: Global sea level linked to global temperature, P. Natl. Acad. Sci. USA, 106, 21527–21532, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref96">
+              <doi provider="crossref">10.1007/s00382-009-0591-y</doi>
+              <unstructured_citation>Vizcaíno, M., Mikolajewicz, U., Jungclaus, J., and Schurgers, G.: Climate modification by future ice sheet changes and consequences for ice sheet mass balance, Clim. Dynam., 34, 301–324, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref97">
+              <doi provider="crossref">10.1002/2014GL061142</doi>
+              <unstructured_citation>Vizcaino, M., Mikolajewicz, U., Ziemen, F., Rodehacke, C. B., Greve, R., and van den Broeke, M. R.: Coupled simulations of Greenland Ice Sheet and climate change up to A.D. 2300, Geophys. Res. Lett., 42, 3927–3935, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref98">
+              <doi provider="crossref">10.1007/s10712-015-9347-x</doi>
+              <unstructured_citation>Wada, Y.: Modeling Groundwater Depletion at Regional and Global Scales: Present State and Future Prospects, Surv. Geophys., 37, 419–451, https://doi.org/10.1007/s10712-015-9347-x, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref99">
+              <doi provider="crossref">10.1029/2012GL051230</doi>
+              <unstructured_citation>Wada, Y., van Beek, L. P. H., Sperna Weiland, F. C., Chao, B. F., Wu, Y.-H., and Bierkens, M. F. P.: Past and future contribution of global groundwater depletion to sea-level rise, Geophys. Res. Lett., 39, L09402, https://doi.org/10.1029/2012GL051230, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref100">
+              <doi provider="crossref">10.1038/nclimate3001</doi>
+              <unstructured_citation>Wada, Y., Lo, M.-H., Yeh, P. J. F., Reager, J. T., Famiglietti, J. S., Wu, R.-J., and Tseng, Y.-H.: Fate of water pumped from underground and contributions to sea-level rise, Nature Clim. Change, 6, 777–780, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref101">
+              <doi provider="crossref">10.1029/94GL01011</doi>
+              <unstructured_citation>Wigley, T. M. L.: Global-mean temperature and sea level consequences of greenhouse gas concentration stabilization, Geophys. Res. Lett., 22, 45–48, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref102">
+              <doi provider="crossref">10.1038/330127a0</doi>
+              <unstructured_citation>Wigley, T. M. L. and Raper, S. C. B.: Thermal expansion of sea water associated with global warming, Nature, 330, 127–131, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref103">
+              <doi provider="crossref">10.1038/357293a0</doi>
+              <unstructured_citation>Wigley, T. M. L. and Raper, S. C. B.: Implications for climate and sea level of revised IPCC emissions scenarios, Nature, 357, 293–300, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref104">
+              <doi provider="crossref">10.1126/science.1061604</doi>
+              <unstructured_citation>Wigley, T. M. L. and Raper, S. C. B.: Interpretation of High Projections for Global-Mean Warming, Science, 293, 451–454, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref105">
+              <doi provider="crossref">10.1029/2004GL021238</doi>
+              <unstructured_citation>Wigley, T. M. L. and Raper, S. C. B.: Extended scenarios for glacier melt due to anthropogenic forcing, Geophys. Res. Lett., 32, L05704, https://doi.org/10.1029/2004GL021238, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref106">
+              <doi provider="crossref">10.1007/s10584-009-9585-3</doi>
+              <unstructured_citation>Wigley, T. M. L., Clarke, L. E., Edmonds, J. A., Jacoby, H. D., Paltsev, S., Pitcher, H., Reilly, J. M., Richels, R., Sarofim, M. C., and Smith, S. J.: Uncertainties in climate stabilization, Climatic Change, 97, 85–121, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref107">
+              <doi provider="crossref">10.1007/s00382-012-1471-4</doi>
+              <unstructured_citation>Winkelmann, R. and Levermann, A.: Linear response functions to project contributions to future sea level, Clim. Dynam., 40, 2579–2588, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref108">
+              <doi provider="crossref">10.5194/tc-5-715-2011</doi>
+              <unstructured_citation>Winkelmann, R., Martin, M. A., Haseloff, M., Albrecht, T., Bueler, E., Khroulev, C., and Levermann, A.: The Potsdam Parallel Ice Sheet Model (PISM-PIK) – Part 1: Model description, The Cryosphere, 5, 715–726, https://doi.org/10.5194/tc-5-715-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref109">
+              <doi provider="crossref">10.5194/gmd-2016-303</doi>
+              <unstructured_citation>Wong, T. E., Bakker, A., Ruckert, K., Applegate, P., Slangen, A., and Keller, K.: BRICK v0.1, a simple, accessible, and transparent model framework for climate and regional sea-level projections, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2016-303, in review, 2017.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

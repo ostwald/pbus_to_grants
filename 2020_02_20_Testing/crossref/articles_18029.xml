@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-08 18:45:51">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2016</year>
+          </publication_date>
+          <journal_volume>
+            <volume>16</volume>
+          </journal_volume>
+          <issue>6</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Development of the Ensemble Navy Aerosol Analysis Prediction System (ENAAPS)  and its application of the Data Assimilation Research Testbed (DART) in  support of aerosol forecasting</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Juli I.</given_name>
+              <surname>Rubin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey S.</given_name>
+              <surname>Reid</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James A.</given_name>
+              <surname>Hansen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeffrey L.</given_name>
+              <surname>Anderson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nancy</given_name>
+              <surname>Collins</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Timothy J.</given_name>
+              <surname>Hoar</surname>
+              <ORCID>https://orcid.org/0000-0001-7515-7510</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Timothy</given_name>
+              <surname>Hogan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Peng</given_name>
+              <surname>Lynch</surname>
+              <ORCID>https://orcid.org/0000-0002-9661-8045</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justin</given_name>
+              <surname>McLay</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Carolyn A.</given_name>
+              <surname>Reynolds</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Walter R.</given_name>
+              <surname>Sessions</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Douglas L.</given_name>
+              <surname>Westphal</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jianglong</given_name>
+              <surname>Zhang</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> An ensemble-based forecast and data assimilation system has been developed for use in Navy aerosol forecasting. The system makes use of an ensemble of the Navy Aerosol Analysis Prediction System (ENAAPS) at 1 × 1°, combined with an ensemble adjustment Kalman filter from NCAR's Data Assimilation Research Testbed (DART). The base ENAAPS-DART system discussed in this work utilizes the Navy Operational Global Analysis Prediction System (NOGAPS) meteorological ensemble to drive offline NAAPS simulations coupled with the DART ensemble Kalman filter architecture to assimilate bias-corrected MODIS aerosol optical thickness (AOT) retrievals. This work outlines the optimization of the 20-member ensemble system, including consideration of meteorology and source-perturbed ensemble members as well as covariance inflation. Additional tests with 80 meteorological and source members were also performed. An important finding of this work is that an adaptive covariance inflation method, which has not been previously tested for aerosol applications, was found to perform better than a temporally and spatially constant covariance inflation. Problems were identified with the constant inflation in regions with limited observational coverage. The second major finding of this work is that combined meteorology and aerosol source ensembles are superior to either in isolation and that both are necessary to produce a robust system with sufficient spread in the ensemble members as well as realistic correlation fields for spreading observational information. The inclusion of aerosol source ensembles improves correlation fields for large aerosol source regions, such as smoke and dust in Africa, by statistically separating freshly emitted from transported aerosol species. However, the source ensembles have limited efficacy during long-range transport. Conversely, the meteorological ensemble generates sufficient spread at the synoptic scale to enable observational impact through the ensemble data assimilation. The optimized ensemble system was compared to the Navy's current operational aerosol forecasting system, which makes use of NAVDAS-AOD (NRL Atmospheric Variational Data Assimilation System for aerosol optical depth), a 2-D variational data assimilation system. Overall, the two systems had statistically insignificant differences in root-mean-squared error (RMSE), bias, and correlation relative to AERONET-observed AOT. However, the ensemble system is able to better capture sharp gradients in aerosol features compared to the 2DVar system, which has a tendency to smooth out aerosol events. Such skill is not easily observable in bulk metrics. Further, the ENAAPS-DART system will allow for new avenues of model development, such as more efficient lidar and surface station assimilation as well as adaptive source functions. At this early stage of development, the parity with the current variational system is encouraging.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>03</month>
+            <day>23</day>
+            <year>2016</year>
+          </publication_date>
+          <pages>
+            <first_page>3927</first_page>
+            <last_page>3951</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Office of Naval Research
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000006</assertion>
+              </assertion>
+              <assertion name="award_number">PE 0602435N</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-16-3927-2016</doi>
+            <resource>https://www.atmos-chem-phys.net/16/3927/2016/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/16/3927/2016/acp-16-3927-2016.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1016/j.atmosenv.2008.08.031</doi>
+              <unstructured_citation>Adhikary, B., Kulkarni, S., Dallura, A., Tang, Y., Chai, T., Leung, L.R.,
+Qian, Y., Chung, C. E., Ramanathan, V., and Carmichael, G. R.: A regional
+scale chemical transport modeling of Asian aerosols with data assimilation
+of AOD observations using optimal interpolation technique, Atmos. Environ., 42,
+8600–8615, https://doi.org/10.1016/j.atmosenv.2008.08.031, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Anderson, J. L.: A method for producing and evaluating probabilistic
+forecasts from ensemble model integrations, J. Climate, 9, 1518–1530, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Anderson, J. L.: An ensemble adjustment Kalman filter for data assimilation,
+Mon. Weather Rev., 129, 2894–2903, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <unstructured_citation>Anderson, J. L.: An adaptive covariance inflation error correction algorithm
+for ensemble filters, Tellus, 59A, 210–224, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Anderson, J. L.: Spatially and temporally varying adaptive covariance
+inflation for ensemble filters, Tellus, 61A, 72–83, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Anderson, J. L. and Anderson, S. L.: A Monte Carlo implementation of the
+nonlinear filtering problem to produce ensemble assimilations and forecasts,
+Mon. Weather Rev., 127, 2741–2758, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/MWR-D-12-00330.1</doi>
+              <unstructured_citation>Anderson, J. L. and Lei, L.: Empirical localization of observation impact in
+Ensemble Kalman Filters, Mon. Weather Rev., 141, 4140–4153,
+https://doi.org/10.1175/MWR-D-12-00330.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Anderson, J. L, Hoar, T., Raeder, K., Liu, H., and Collins, N.: The Data
+Assimilation Research Testbed: A Community Facility, B. Am. Meteor. Soc., 90, 1283–1296, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/acp-7-5695-2007</doi>
+              <unstructured_citation>Arellano Jr., A. F., Raeder, K., Anderson, J. L., Hess, P. G., Emmons, L. K.,
+Edwards, D. P., Pfister, G. G., Campos, T. L., and Sachse, G. W.: Evaluating
+model performance of an ensemble-based chemical data assimilation system
+during INTEX-B field mission, Atmos. Chem. Phys., 7, 5695–5710,
+https://doi.org/10.5194/acp-7-5695-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/2008JD011115</doi>
+              <unstructured_citation>Benedetti, A., Morcrette, J.-J., Boucher, O., Dethof, A., Engelen, R. J.,
+Fisher, M., Flentje, H., Huneeus, N., Jones, L., Kaiser, J. W., Kinne, S.,
+Mangold, A., Razinger, M., Simmons, A. J., and Suttie, M.: Aerosol analysis
+and forecast in the European Centre for Medium-Range Weather Forecasts
+Integrated Forecast System: 2. Data assimilation, J. Geophys. Res., 114,
+D13205, https://doi.org/10.1029/2008JD011115, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1016/j.rse.2014.12.002</doi>
+              <unstructured_citation>Bogdanoff, A. S., Westphal, D, L., Campbell, J. R., Cummings, J. A., Hyer, E.
+J., Reid, J. S., and Clayson, C. A.: Sensitivity of infrared sea surface
+temperature retrievals to the vertical distribution of airborne dust aerosol,
+Remote Sens of Environ., 159, 1–13, https://doi.org/10.1016/j.rse.2014.12.002, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <unstructured_citation>Bowler, N. E., Arribas, A., Mylne, K. R., Robertson, K. B., and Beare, S. E.:
+The MOGREPS short-range ensemble prediction system, Q. J. Roy. Meteor.
+Soc., 134, 703–722, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Buizza, R., Houtekamer, P. L., Pellerin, G., Toth, Z., Zhu, Y., and Wei, M.:
+A Comparison of the ECMWF, MSC, and NCEP Global Ensemble Prediction Systems,
+Mon. Weather Rev., 133, 1076–1097, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1016/S1352-2310(97)00264-1</doi>
+              <unstructured_citation>Christensen, J. H.: The Danish eulerian hemispheric model – A
+three-dimensional air pollution model used for the arctic, Atmos. Environ.,
+31, 4169–4191, https://doi.org/10.1016/S1352-2310(97)00264-1, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1029/2009JD012820</doi>
+              <unstructured_citation>Colarco, P., da Silva, A., Chin, M., and Diehl, T.: Online simulations of
+global aerosol distributions in the NASA GEOS-4 model and comparisons to
+satellite and ground-based aerosol optical depth, J. Geophys. Res., 115, D14207,
+https://doi.org/10.1029/2009JD012820, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/2000JD900507</doi>
+              <unstructured_citation>Collins, W. D, Rasch, P. J., Eaton, B. E., Khattatov, B. V., Lamarque, J.-F.,
+and Zender, C. S.: Simulating aerosols using a chemical transport model with
+assimilation of satellite aerosol retrievals: Methodology for INDOEX, J.
+Geophys. Res., 106, 7313–7336, https://doi.org/10.1029/2000JD900507, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Evensen, G.: Sequential data assimilation with a nonlinear quasi-geostrophic
+model using Monte Carlo methods to do forecast error statistics, J. Geophys.
+Res., 99, 10143–10162, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Gaspari, G. and Cohn, S. E.: Construction of correlation functions in two and
+three dimensions, Q. J. Roy. Meteor. Soc., 125, 723–757, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1029/2005JD006954</doi>
+              <unstructured_citation>Generoso, S., Bréon, F.-M., Chevallier, F., Balkanski, Y., Schulz, M., and
+Bey, I.: Assimilation of POLDER aerosol optical thickiness into the LMDz-INCA
+model: Implications for the Arctic aerosol burden, J. Geophys. Res., 112,
+D02311, https://doi.org/10.1029/2005JD006954, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Ginoux, P., Chin, M., Tegen, I., Prospero, J. M., Holben, B. N., Dubovik, O.,
+and Lin, S.-J.: Sources and distributions of dust aerosols simulated with the
+GOCART model, J. Geophys. Res., 106, 20255–20273, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1175/MWR-D-12-00280.1</doi>
+              <unstructured_citation>Hacker, J. and Angevine, W. M.: Ensemble data assimilation to characterize
+surface-layer errors in numerical weather prediction models, Mon. Weather
+Rev., 141, 1804–1821, https://doi.org/10.1175/MWR-D-12-00280.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Hamill, T. M.: Interpretation Of Rank Histograms For Verifying Ensemble
+Forecasts, Mon. Weather Rev., 129, 550–560, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <unstructured_citation>Hamill, T. M. and Whitaker, J. S.: Accounting for error due to unresolved
+scales in ensemble data assimilation: a comparison of different approaches,
+Mon. Weather Rev., 133, 3132–3147, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Hamill, T. M., Whitaker, J. S., and Snyder, C.: Distance-dependent filtering
+of background-error covariance estimates in an ensemble Kalman filter, Mon.
+Weather Rev., 129, 2776–2790, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Hogan, T. F. and Rosmond, T. E.: The description of the Navy Operational
+Global Atmospheric Prediction Systems spectral forecast model, Mon. Weather
+Rev., 119, 1786–1815, https://doi.org/10.1175/1520-0493(1991)119&amp;amp;lt;1786:TDOTNO&amp;amp;gt;2.0.CO;2, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Hogan, T. F., Liu, M., Ridout, J. S., Peng, M. S., Whitcomb, T. R., Ruston,
+B. C., Reynolds, C. A., Eckermann, S. D., Moskaitis, J. R., Baker, N. L.,
+McCormack, J. P., Viner, K. C., McLay, J. G., Flatau, M. K., Xu, L., Chen,
+C., and Chang, S. W.: The Navy Global Environmental Model, Oceanography
+(Special Issue on Navy Operational Models), 27, 116–125, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1016/S0034-4257(98)00031-5</doi>
+              <unstructured_citation>Holben, B. N., Eck, T. F., Slutsker, I., Tanre, D., Setzer, A., Vermote, E.,
+Reagan, J. A., Kaufman, Y. J., Nakajima, T., Lavenu, F.,
+Jankowiak, I., and Smirnov, A.: AERONET – A
+federated instrument network and data archive for aerosol characterization,
+Remote Sens. Environ., 66, 1–16, https://doi.org/10.1016/S0034-4257(98)00031-5, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Houtekamer, P. L. and Mitchell, H. L.: Data assimilation using an ensemble
+Kalman filter technique, Mon. Weather Rev, 126, 796–811, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <unstructured_citation>Houtekamer, P. L. and Mitchell, H. L.: A sequential ensemble Kalman filter
+for atmospheric data assimilation, Mon. Weather Rev., 126, 796–811, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Houtekamer, P. L., Mitchell, H. L., Pellerin, G., Buehner, M., Charron, M.,
+Spacek, L., and Hansen, B.: Atmospheric data assimilation with an ensemble
+Kalman filter: Results with real observations, Mon. Weather Rev., 133,
+604–620, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/acp-12-8037-2012</doi>
+              <unstructured_citation>Hsu, N. C., Gautam, R., Sayer, A. M., Bettenhausen, C., Li, C., Jeong, M. J.,
+Tsay, S.-C., and Holben, B. N.: Global and regional trends of aerosol optical
+depth over land and ocean using SeaWiFS measurements from 1997 to 2010,
+Atmos. Chem. Phys., 12, 8037–8053, https://doi.org/10.5194/acp-12-8037-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.5194/amt-4-379-2011</doi>
+              <unstructured_citation>Hyer, E. J., Reid, J. S., and Zhang, J.: An over-land aerosol optical depth
+data set for data assimilation by filtering, correction, and aggregation of
+MODIS Collection 5 optical depth retrievals, Atmos. Meas. Tech., 4, 379–408,
+https://doi.org/10.5194/amt-4-379-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1016/j.atmosres.2012.06.011</doi>
+              <unstructured_citation>Hyer, E. J., Reid, J. S., Prins, E., Hoffman, J. P., Schmidt, C. C.,
+Miettinen, J. I., and Giglio, L.: Patterns of Fire Activity over Indonesia
+and Malaysia from Polar and Geostationary Satellite Observations, Atmos.
+Res., 122, 504–519, https://doi.org/10.1016/j.atmosres.2012.06.011, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Kalnay, E.: Atmospheric Modeling, Data Assimilation and Predictability,
+Cambridge University Press, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-13-3481-2013</doi>
+              <unstructured_citation>Khade, V. M., Hansen, J. A., Reid, J. S., and Westphal, D. L.: Ensemble
+filter based estimation of spatially distributed parameters in a mesoscale
+dust model: experiments with simulated and real data, Atmos. Chem. Phys., 13,
+3481–3500, https://doi.org/10.5194/acp-13-3481-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/acp-10-7017-2010</doi>
+              <unstructured_citation>Lamarque, J.-F., Bond, T. C., Eyring, V., Granier, C., Heil, A., Klimont, Z.,
+Lee, D., Liousse, C., Mieville, A., Owen, B., Schultz, M. G., Shindell, D.,
+Smith, S. J., Stehfest, E., Van Aardenne, J., Cooper, O. R., Kainuma, M.,
+Mahowald, N., McConnell, J. R., Naik, V., Riahi, K., and van Vuuren, D. P.:
+Historical (1850–2000) gridded anthropogenic and biomass burning emissions
+of reactive gases and aerosols: methodology and application, Atmos. Chem.
+Phys., 10, 7017–7039, https://doi.org/10.5194/acp-10-7017-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Li, H., Kalnay, E., and T. Miyoshi, T.: Simultaneous estimation of covariance
+inflation and observation errors within an ensemble Kalman filter, Q. J.
+Roy. Meteor. Soc., 135, 523–533, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.5194/gmdd-8-10455-2015</doi>
+              <unstructured_citation>Lynch, P., Reid, J. S., Westphal, D. L., Zhang, J., Hogan, T. F., Hyer, E.
+J., Curtis, C. A., Hegg, D. A., Shi, Y., Campbell, J. R., Rubin, J. I.,
+Sessions, W. R., Turk, F. J., and Walker, A. L.: Development studies towards
+an 11-year global gridded aerosol optical thickness reanalysis for climate
+and applied applications, Geosci. Model Dev. Discuss., 8, 10455–10538,
+https://doi.org/10.5194/gmdd-8-10455-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <unstructured_citation>McLay, J. G., Bishop, C. H., and Reynolds, C. A.: A local formulation of the
+ensemble transform (ET) analysis perturbation scheme. The ensemble-transform
+scheme adapted for the generation of stochastic forecast perturbations,
+Weather Forecast., 25, 985–993, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1016/j.rse.2006.03.007</doi>
+              <unstructured_citation>Merchant, C. J., Embury, O., Le Borgne, P., and Bellc, B.: Saharan dust in
+nighttime thermal imagery: Detection and reduction of related biases in
+retrieved sea surface temperature, Remote Sens. Environ., 104, 15–30,
+https://doi.org/10.1016/j.rse.2006.03.007, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1175/2010MWR3570.1</doi>
+              <unstructured_citation>Miyoshi, T.: The Gaussian Approach to Adaptive Covariance Inflation and Its
+Implementation with the Local Ensemble Transform Kalman Filter, Mon. Weather
+Rev., 139, 1519–1535, https://doi.org/10.1175/2010MWR3570.1, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Miyoshi, T., Sato, Y., and Kadowaki, T.: Ensemble Kalman filter and 4D-Var
+intercomparison with the Japanese operational global analysis and prediction
+system, Mon. Weather Rev., 138, 2846–2866, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1029/2002JD002975</doi>
+              <unstructured_citation>O'Neill, N. T., Eck, T. F., Smirnov, A., Holben, B. N., and Thulasiraman, S.:
+Spectral discrimination of coarse and fine mode optical depth, J. Geophys.
+Res., 108, 4559–4573, https://doi.org/10.1029/2002JD002975, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/acp-11-13001-2011</doi>
+              <unstructured_citation>Pérez, C., Haustein, K., Janjic, Z., Jorba, O., Huneeus, N., Baldasano, J.
+M., Black, T., Basart, S., Nickovic, S., Miller, R. L., Perlwitz, J. P.,
+Schulz, M., and Thomson, M.: Atmospheric dust modeling from meso to global
+scales with the online NMMB/BSC-Dust model – Part 1: Model description,
+annual simulations and evaluation, Atmos. Chem. Phys., 11, 13001–13027,
+https://doi.org/10.5194/acp-11-13001-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1175/BAMS-D-14-00060.1</doi>
+              <unstructured_citation>Peterson, D. A., Hyer, E. J. Campbell, J. R., Fromm, M. D., Hair, J. W.,
+Butler, C. F., and Fenn, M. A.: The 2013 Rim Fire: Implications for
+Predicting Extreme Fire Spread, Pyroconvection, and Smoke Emissions, B. Am.
+Meteor. Soc., 96, 229–247, https://doi.org/10.1175/BAMS-D-14-00060.1, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2012JD018333</doi>
+              <unstructured_citation>Pagowski, M. and Grell, G. A.: Experiments with the assimilation of fine
+aerosols using an ensemble Kalman filter, J. Geophys. Res., 117, D21302,
+https://doi.org/10.1029/2012JD018333, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <unstructured_citation>Prospero, J. M.: Long-term measurements of the transport of African mineral
+dust to the southeastern United States: Implications for regional air
+quality, J. Geophys. Res., 104, 15917–15928, 1999.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Prospero, J. and Lamb, P. J.: African droughts and dust transport to the
+Caribbean: Climate change implications, Science, 302, 1024–1027, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.1175/BAMS-D-12-00142.1</doi>
+              <unstructured_citation>Prospero, J. M. and Mayol-Bracero, O. L.: Understanding the transport and
+impact of Africa dust on the Caribbean basin, B. Am. Meteor. Soc., 94,
+1329–1337, https://doi.org/10.1175/BAMS-D-12-00142.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.1175/JCLI-D-11-00395.1</doi>
+              <unstructured_citation>Raeder, K., Anderson, J. L., Collins, N., Hoar, T. J., Kay, J. E., Lauritzen,
+P. H., and Pincus, R.: DART/CAM: An Ensemble Data Assimilation for CESM
+Atmospheric Models, J. Climate, 25 6304–6317
+https://doi.org/10.1175/JCLI-D-11-00395.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1029/2002JD002493</doi>
+              <unstructured_citation>Reid, J. S., Kinney, J. E., Westphal, D. L., Holben, B. N., Welton, E. J.,
+Tsay, S.-C., Eleuterio, D. P., Campbell, J. R., Christopher, S. A., Colarco,
+P. R., Jonsson, H. H., Livingston, J. M., Maring, H. B., Meier, M. L.,
+Pilewskie, P., Prospero, J. M., Reid, E. A., Remer, L. A., Russell, P. B.,
+Savoie, D. L., Smirnov, A., and Tanre, D.: Analysis of measurements of
+Saharan dust by airborne and ground-based remote sensing methods during the
+Puerto Rico Dust Experiment (PRIDE), J. Geophys. Res., 108, 8586,
+https://doi.org/10.1029/2002JD002493, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1029/2003GL018845</doi>
+              <unstructured_citation>Reid, J. S., Prins, E. M., Westphal, D. L., Schmidt, C. C., Richardson, K.
+A., Christopher, S. A., Eck, T. F., Reid E. A., Curtis, C. A., and Hoffman,
+J. P.: Real-time monitoring of South American smoke particle emissions and
+transport using a coupled remote sensing/box-model approach, Geophys. Res.
+Lett., 31, L06107, https://doi.org/10.1029/2003GL018845, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1109/JSTARS.2009.2027443</doi>
+              <unstructured_citation>Reid, J. S., Hyer, E. J., Prins, E. M., Westphal, D. L. Zhang, J., Wang, J.,
+Christopher, S. A., Curtis, C. A., Schmidt, C. C., Eleuterio, D. P.,
+Richardson, K. A., and Hoffman, J. P.: Global monitoring and forecasting of
+biomass burning smoke: Description of and lessons from the Fire Locating and
+Modeling of Burning Emissions (FLAMBE) program, IEEE J. Sel. Top. Appl.
+Earth Obs. Remote Sens., 2, 144–162, https://doi.org/10.1109/JSTARS.2009.2027443, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <unstructured_citation>Reid, J. S., Hyer, E. J., Johnson, R. S., Holben, B. N., Yokelson, R., Zhang,
+J., Campbell, J. R., Christopher, S., Di Girolamo, L., Giglio, L., Holz, R.
+E., Kearney, C., Miettinen, J., Reid, E. A., Turk, J., Wang, J., Xian, P.,
+Zhao, G., Balasubramanian, R., Chew, B. N., Janjai, S., Lagrosas, N.,
+Lestari, P., Lin, N., Mahmud, M., Nguyen, A. X., Norris, B., Oanh, N. T. K.,
+Oo, M., Salinas, S. V., Welton, J., and Liew, S. C. Observing and
+understanding the Southeast Asian aerosol system by remote sensing: An
+initial review and analysis for the Seven Southeast Asian Studies (7SEAS)
+program, Atmos. Res., 122, 403–468, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1002/2014JD021627</doi>
+              <unstructured_citation>Rubin, J. I. and Collins, W. D.: Global simulations of aerosol amount and
+size using MODIS observations assimilated with an Ensemble Kalman Filter, J.
+Geophys. Res.-Atmos., 119, 12780–12806, https://doi.org/10.1002/2014JD021627, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <unstructured_citation>Saetra, O., Hersbach, H., Bidlot, J. R., and Richardson, D. S.: Effects of
+observation errors on the statistics for ensemble spread and reliability,
+Mon. Weather Rev., 132, 1487–1501, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/acp-10-2561-2010</doi>
+              <unstructured_citation>Schutgens, N. A. J., Miyoshi, T., Takemura, T., and Nakajima, T.: Applying an
+ensemble Kalman filter to the assimilation of AERONET observations in a
+global aerosol transport model, Atmos. Chem. Phys., 10, 2561–2576,
+https://doi.org/10.5194/acp-10-2561-2010, 2010a.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/acp-10-6583-2010</doi>
+              <unstructured_citation>Schutgens, N. A. J., Miyoshi, T., Takemura, T., and Nakajima, T.: Sensitivity
+tests for an ensemble Kalman filter for aerosol assimilation, Atmos. Chem.
+Phys., 10, 6583–6600, https://doi.org/10.5194/acp-10-6583-2010, 2010b.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1002/2013JD020937</doi>
+              <unstructured_citation>Schwartz, C. S., Liu, Z., Lin, H.-C., and Cetola, J. D.: Assimilating aerosol
+observations with a “hybrid” variational-ensemble data assimilation system,
+J. Geophys. Res.-Atmos., 119, 4043–4069, https://doi.org/10.1002/2013JD020937, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/acp-10-39-2010</doi>
+              <unstructured_citation>Sekiyama, T. T., Tanaka, T. Y., Shimizu, A., and Miyoshi, T.: Data
+assimilation of CALIPSO aerosol observations, Atmos. Chem. Phys., 10, 39–49,
+https://doi.org/10.5194/acp-10-39-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.5194/acp-15-335-2015</doi>
+              <unstructured_citation>Sessions, W. R., Reid, J. S., Benedetti, A., Colarco, P. R., da Silva, A.,
+Lu, S., Sekiyama, T., Tanaka, T. Y., Baldasano, J. M., Basart, S., Brooks, M.
+E., Eck, T. F., Iredell, M., Hansen, J. A., Jorba, O. C., Juang, H.-M. H.,
+Lynch, P., Morcrette, J.-J., Moorthi, S., Mulcahy, J., Pradhan, Y., Razinger,
+M., Sampson, C. B., Wang, J., and Westphal, D. L.: Development towards a
+global operational aerosol consensus: basic climatological characteristics of
+the International Cooperative for Aerosol Prediction Multi-Model Ensemble
+(ICAP-MME), Atmos. Chem. Phys., 15, 335–362, https://doi.org/10.5194/acp-15-335-2015,
+2015.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.5194/acpd-15-1523-2015</doi>
+              <unstructured_citation>Shalaby, A., Rappenglueck, B., and Eltahir, E. A. B.: The climatology of dust
+aerosol over the arabian peninsula, Atmos. Chem. Phys. Discuss., 15,
+1523–1571, https://doi.org/10.5194/acpd-15-1523-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.5194/acp-11-557-2011</doi>
+              <unstructured_citation>Shi, Y., Zhang, J., Reid, J. S., Holben, B., Hyer, E. J., and Curtis, C.: An
+analysis of the collection 5 MODIS over-ocean aerosol optical depth product
+for its implication in aerosol assimilation, Atmos. Chem. Phys., 11,
+557–565, https://doi.org/10.5194/acp-11-557-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Szunyogh, I., Kostelich, E. J., Gyarmati, G., Kalnay, E., Hunt, B. R., Ott,
+E., Satterfield, E., and Yorke, J. A.: A local ensemble transform Kalman
+filter data assimilation system for the NCEP global model, Tellus, 60A,
+113–130, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Tanaka, T. Y., Orito, K., Sekiyama, T. T., Shibata, K., Chiba, M., and
+Tanaka, H.: MASINGAR, a global tropospheric aerosol chemical transport model
+coupled with MRI/JMA98 GCM: Model description, Pap. Meteorol. Geophys., 53,
+119–138, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Wang, H. and Niu, T.: Sensitivity studies of aerosol data assimilation and
+direct radiative feedbacks in modeling dust aerosols, Atmos. Environ., 64,
+208–218, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1029/2005JD006720</doi>
+              <unstructured_citation>Wang, J. and Christopher, S. A.: Mesoscale modeling of Central American smoke
+transport to the United States, part II: smoke radiative impact on regional
+surface energy budget and boundary layer process, J. Geophys. Res., 111,
+D14S92, https://doi.org/10.1029/2005JD006720, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <unstructured_citation>Whitaker, J. S., Hamill, T. M., Wei, X., Song, Y., and Toth, Z.: Ensemble
+data assimilation with the NCEP global forecasting system, Mon. Weather
+Rev., 136, 463–482, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1029/2006JD007779</doi>
+              <unstructured_citation>Witek, M., Flatau, P. J., Quinn, P. K., and Westphal, D. L.: Global sea-salt
+modeling: Results and validation against multi-campaign shipboard
+measurements, J. Geophys. Res., 112, D08215, https://doi.org/10.1029/2006JD007779,
+2007.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2002JD002717</doi>
+              <unstructured_citation>Yu, H., Dickinson, R. E., Chin, M., Kaufman, Y. J., Geogdzhayev, B., and
+Mishchenko, M. I.: Annual cycle of global distributions of aerosol optical
+depth from integration of MODIS retrievals and GOCART model simulations, J.
+Geophys. Res., 108, 4128, https://doi.org/10.1029/2002JD002717, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.1029/2005JD006898</doi>
+              <unstructured_citation>Zhang, J. and Reid, J. S.: MODIS Aerosol Product Analysis for Data
+Assimilation: Assessment of Level 2 Aerosol Optical Thickness Retrievals, J.
+Geophys. Res., 111, D22207, https://doi.org/10.1029/2005JD006898, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1029/2009GL038723</doi>
+              <unstructured_citation>Zhang, J. and Reid, J. S.: An analysis of clear sky and contextual biases
+using an operational over ocean MODIS aerosol product, Geophys. Res. Lett.,
+36, L15824, https://doi.org/10.1029/2009GL038723, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1029/2005GL023254</doi>
+              <unstructured_citation>Zhang, J., Reid, J. S., and Holben, B. N.: An analysis of potential cloud
+artifacts in MODIS over ocean aerosol optical thickness products, Geophys.
+Res. Lett., 32, L15803, https://doi.org/10.1029/2005GL023254, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>Zhang, J., Reid, J. S., Westphal, D. L., Baker, N. L., and Hyer, E. J.: A
+system for operational aerosol optical depth data assimilation over global
+oceans, J. Geophys. Res., 113, D10208, https://doi.org/10.1029/2007JD009065, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.1029/2011GL047737</doi>
+              <unstructured_citation>Zhang, J., Campbell, J. R., Reid, J. S., Westphal, D. L., Baker, N. L.,
+Campbell, W. F., and Hyer, E. J.: Evaluating the impact of assimilating
+CALIOP-derived aerosol extinction profiles on a global mass transport model,
+Geophys. Res. Lett., 38, L14801, https://doi.org/10.1029/2011GL047737, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1002/2013JD020975</doi>
+              <unstructured_citation>Zhang, J., Campbell, J. R., Hyer, E. J., Reid, J. S., Westphal, D. L., and
+Johnson R. S.: Evaluating the impact of multisensor data assimilation on a
+global aerosol particle transport model, J. Geophys.
+Res.-Atmos., 119, 4674–4689, https://doi.org/10.1002/2013JD020975, 2014.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-08-15 11:36:06">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>8</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The terminator &amp;quot;toy&amp;quot; chemistry test: a simple tool to assess errors in transport schemes</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>P. H.</given_name>
+              <surname>Lauritzen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>A. J.</given_name>
+              <surname>Conley</surname>
+              <ORCID>https://orcid.org/0000-0003-0061-9906</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>J.-F.</given_name>
+              <surname>Lamarque</surname>
+              <ORCID>https://orcid.org/0000-0002-4225-5074</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>F.</given_name>
+              <surname>Vitt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M. A.</given_name>
+              <surname>Taylor</surname>
+              <ORCID>https://orcid.org/0000-0002-9267-2554</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> This test extends the evaluation of transport schemes from prescribed advection of inert scalars to reactive species. The test consists of transporting two interacting chemical species in the Nair and Lauritzen 2-D idealized flow field. The sources and sinks for these two species are given by a simple, but non-linear, "toy" chemistry that represents combination (X + X &amp;rarr; X<sub>2</sub>) and dissociation (X<sub>2</sub> &amp;rarr; X + X). This chemistry mimics photolysis-driven conditions near the solar terminator, where strong gradients in the spatial distribution of the species develop near its edge. Despite the large spatial variations in each species, the weighted sum X<sub>T</sub> = X + 2X<sub>2</sub> should always be preserved at spatial scales at which molecular diffusion is excluded. The terminator test demonstrates how well the advection–transport scheme preserves linear correlations. Chemistry–transport (physics–dynamics) coupling can also be studied with this test. Examples of the consequences of this test are shown for illustration.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>04</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>1299</first_page>
+            <last_page>1313</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-8-1299-2015</doi>
+            <resource>https://www.geosci-model-dev.net/8/1299/2015/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/8/1299/2015/gmd-8-1299-2015.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1126/science.251.4989.39</doi>
+              <unstructured_citation>Anderson, J., Toohey, D., and Brune, W.: Free radicals within the Antarctic vortex: the role of CFCs in Antarctic ozone loss, Science, 251, 39–46, https://doi.org/10.1126/science.251.4989.39, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Andrews, D. G., Holton, J. R., and Leovy, C. B.: Middle atmosphere dynamics, Academic Press, San Diego, 1987.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.2514/6.1989-366</doi>
+              <unstructured_citation>Barth, T. and Jespersen, D.: The design and application of upwind schemes on unstructured meshes, in: Proc. AIAA 27th Aerospace Sciences Meeting, Reno, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1016/j.jcp.2008.01.043</doi>
+              <unstructured_citation>Blossey, P. N. and Durran, D. R.: Selective monotonicity preservation in scalar advection, J. Comput. Phys., 227, 5160–5183, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <unstructured_citation>Brasseur, G. and Solomon, S.: Aeronomy of the Middle Atmosphere, Springer, 3rd Edn., 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1016/0021-9991(84)90143-8</doi>
+              <unstructured_citation>Colella, P. and Woodward, P. R.: The Piecewise Parabolic Method (PPM) for gas-dynamical simulations, J. Comput. Phys., 54, 174–201, 1984.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1177/1094342011428142</doi>
+              <unstructured_citation>Dennis, J. M., Edwards, J., Evans, K. J., Guba, O., Lauritzen, P. H., Mirin, A. A., St-Cyr, A., Taylor, M. A., and Worley, P. H.: CAM-SE: A scalable spectral element dynamical core for the Community Atmosphere Model, Int. J. High Perform. C., 26, 74–89, https://doi.org/10.1177/1094342011428142, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2004JD004632</doi>
+              <unstructured_citation>Douglass, A. R., Stolarski, R. S., Strahan, S. E., and Connell, P. S.: Radicals and reservoirs in the GMI chemistry and transport model: Comparison to measurements, J. Geophys. Res., 109, D16302, https://doi.org/10.1029/2004JD004632, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Durran, D.: Numerical Methods for Fluid Dynamics: With Applications to Geophysics, vol. 32 of Texts in Applied Mathematics, Springer, 2nd Edn., 516 pp., 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1029/96JD00856</doi>
+              <unstructured_citation>Edouard, S., Legras, B., and Zeitlin, V.: The effect of dynamical mixing in a simple model of the ozone hole, J. Geophys. Res., 101, 2156–2202, https://doi.org/10.1029/96JD00856, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1175/1520-0493(1994)122&lt;0243:AMCSLS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Gravel, S. and Staniforth, A.: A mass-conserving semi-Lagrangian scheme for the shallow-water equations, Mon. Wea. Rev., 122, 243–248, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1016/j.jcp.2014.02.029</doi>
+              <unstructured_citation>Guba, O., Taylor, M., and St-Cyr, A.: Optimization-based limiters for the spectral element method, J. Comput. Phys., 267, 176–195, https://doi.org/10.1016/j.jcp.2014.02.029, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1016/j.jcp.2010.11.001</doi>
+              <unstructured_citation>Harris, L. M., Lauritzen, P. H., and Mittal, R.: A flux-form version of the Conservative Semi-Lagrangian Multi-tracer transport scheme (CSLAM) on the cubed sphere grid, J. Comput. Phys., 230, 1215–1237, https://doi.org/10.1016/j.jcp.2010.11.001, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1016/0378-4754(84)90039-9</doi>
+              <unstructured_citation>Kinnmark, I. P. and Gray, W. G.: One step integration methods with maximum stability regions, Math. Comput. Simulat., 26, 87–92, https://doi.org/10.1016/0378-4754(84)90039-9, 1984a.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1016/0378-4754(84)90056-9</doi>
+              <unstructured_citation>Kinnmark, I. P. and Gray, W. G.: One step integration methods of third-fourth order accuracy with large hyperbolic stability limits, Math. Comput. Simulat., 26, 181–188, https://doi.org/10.1016/0378-4754(84)90056-9, 1984b.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1007/s10546-009-9443-x</doi>
+              <unstructured_citation>Kristensen, L., Lenschow, D. H., Gurarie, D., and Jensen, N. O.: A simple model for the vertical transport of reactive species in the convective atmospheric boundary layer, Bound.-Lay. Meteorol., 134, 195–221, https://doi.org/10.1007/s10546-009-9443-x, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/gmd-5-369-2012</doi>
+              <unstructured_citation>Lamarque, J.-F., Emmons, L. K., Hess, P. G., Kinnison, D. E., Tilmes, S., Vitt, F., Heald, C. L., Holland, E. A., Lauritzen, P. H., Neu, J., Orlando, J. J., Rasch, P. J., and Tyndall, G. K.: CAM-chem: description and evaluation of interactive atmospheric chemistry in the Community Earth System Model, Geosci. Model Dev., 5, 369–411, https://doi.org/10.5194/gmd-5-369-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/1520-0493(1997)125&lt;0292:BSAPIA&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lander, J. and Hoskins, B. J.: Believable scales and parameterizations in a spectral transform model, Mon. Wea. Rev., 125, 292–303, https://doi.org/10.1175/1520-0493(1997)1252.0.CO;2, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1175/MWR3425.1</doi>
+              <unstructured_citation>Lauritzen, P. H.: A stability analysis of finite-volume advection schemes permitting long time steps, Mon. Weather Rev., 135, 2658–2673, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1002/qj.986</doi>
+              <unstructured_citation>Lauritzen, P. and Thuburn, J.: Evaluating advection/transport schemes using interrelated tracers, scatter plots and numerical mixing diagnostics, Q. J. Roy. Meteor. Soc., 138, 906–918, https://doi.org/10.1002/qj.986, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1016/j.jcp.2009.10.036</doi>
+              <unstructured_citation>Lauritzen, P. H., Nair, R. D., and Ullrich, P. A.: A conservative semi-Lagrangian multi-tracer transport scheme (CSLAM) on the cubed-sphere grid, J. Comput. Phys., 229, 1401–1424, https://doi.org/10.1016/j.jcp.2009.10.036, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1007/978-3-642-11640-7_8</doi>
+              <unstructured_citation>Lauritzen, P. H., Ullrich, P. A., and Nair, R. D.: Atmospheric transport schemes: desirable properties and a semi-Lagrangian view on finite-volume discretizations, in: Numerical Techniques for Global Atmospheric Models, Lecture Notes in Computational Science and Engineering, edited by: Lauritzen, P. H., Nair, R. D., Jablonowski, C., and Taylor, M., Springer, 80 pp., 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.5194/gmd-5-887-2012</doi>
+              <unstructured_citation>Lauritzen, P. H., Skamarock, W. C., Prather, M. J., and Taylor, M. A.: A standard test case suite for two-dimensional linear transport on the sphere, Geosci. Model Dev., 5, 887–901, https://doi.org/10.5194/gmd-5-887-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/gmd-7-105-2014</doi>
+              <unstructured_citation>Lauritzen, P. H., Ullrich, P. A., Jablonowski, C., Bosler, P. A., Calhoun, D., Conley, A. J., Enomoto, T., Dong, L., Dubey, S., Guba, O., Hansen, A. B., Kaas, E., Kent, J., Lamarque, J.-F., Prather, M. J., Reinert, D., Shashkin, V. V., Skamarock, W. C., Sørensen, B., Taylor, M. A., and Tolstykh, M. A.: A standard test case suite for two-dimensional linear transport on the sphere: results from a collection of state-of-the-art schemes, Geosci. Model Dev., 7, 105–145, https://doi.org/10.5194/gmd-7-105-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/1520-0493(2004)132&lt;2293:AVLFDC&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lin, S.-J.: A &amp;quot;vertically Lagrangian&amp;quot; finite-volume dynamical core for global models, Mon. Weather Rev., 132, 2293–2307, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/1520-0493(1996)124&lt;2046:MFFSLT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lin, S.-J. and Rood, R. B.: Multidimensional flux-form semi-Lagrangian transport schemes, Mon. Weather Rev., 124, 2046–2070, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1175/1520-0493(1994)122&lt;1575:ACOTVL&gt;2.0.CO;2</doi>
+              <unstructured_citation>Lin, S.-J., Chao, W. C., Sud, Y. C., and Walker, G. K.: A class of the van Leer-type transport schemes and its application to the moisture transport in a general circulation model, Mon. Weather Rev., 122, 1575–1593, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1175/2007MWR2105.1</doi>
+              <unstructured_citation>Nair, R. D. and Jablonowski, C.: Moving vortices on the sphere: a test case for horizontal advection problems, Mon. Weather Rev., 136, 699–711, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1016/j.jcp.2010.08.014</doi>
+              <unstructured_citation>Nair, R. D. and Lauritzen, P. H.: A class of deformational flow test cases for linear transport problems on the sphere, J. Comput. Phys., 229, 8868–8887, https://doi.org/10.1016/j.jcp.2010.08.014, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1175/1520-0493(2002)130&lt;0649:TMCCIS&gt;2.0.CO;2</doi>
+              <unstructured_citation>Nair, R. D. and Machenhauer, B.: The mass-conservative cell-integrated semi-Lagrangian advection scheme on the sphere, Mon. Weather Rev., 130, 649–667, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Neale, R. B., Chen, C.-C., Gettelman, A., Lauritzen, P. H., Park, S., Williamson, D. L., Conley, A. J., Garcia, R., Kinnison, D., Lamarque, J.-F., Marsh, D., Mills, M., Smith, A. K., Tilmes, S., Vitt, F., Cameron-Smith, P., Collins, W. D., Iacono, M. J., Easter, R. C., Ghan, S. J., Liu, X., Rasch, P. J., and Taylor, M. A.: Description of the NCAR Community Atmosphere Model (CAM 5.0), NCAR Technical Note, National Center of Atmospheric Research, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/JD095iD04p03473</doi>
+              <unstructured_citation>Prather, M. and Jaffe, A. H.: Global impact of the Antarctic ozone hole: Chemical propagation, J. Geophys. Res., 95, 3473, https://doi.org/10.1029/JD095iD04p03473, 1990.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1175/1520-0493(1993)121&lt;0621:AQCVOT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Priestley, A.: A quasi-conservative version of the semi-Lagrangian advection scheme, Mon. Wea. Rev., 121, 621–632, https://doi.org/10.1175/1520-0493(1993)1212.0.CO;2, 1993.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Prigogine, I.: From Being to Becoming: Time and Complexity in the Physical Sciences, W. H. Freeman &amp;amp; Co, San Francisco, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1063/1.1668896</doi>
+              <unstructured_citation>Prigogine, I. and Lefever, R.: Symmetry-breaking instabilities in dissipative systems, J. Chem. Phys., 48, 1695–1700, https://doi.org/10.1063/1.1668896, 1968.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1016/j.jcp.2005.08.021</doi>
+              <unstructured_citation>Pudykiewicz, J. A.: Numerical solution of the reaction-advection-diffusion equation on the sphere, J. Comput. Phys., 213, 358–390, https://doi.org/10.1016/j.jcp.2005.08.021, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1016/j.jcp.2010.11.045</doi>
+              <unstructured_citation>Pudykiewicz, J. A.: On numerical solution of the shallow water equations with chemical reactions on icosahedral geodesic grid, J. Comput. Phys., 230, 1956–1991, https://doi.org/10.1016/j.jcp.2010.11.045, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>Salawitch, R. J., Canty, T., Müller, R., Santee, M. L., Schofield, R., Stimpfle, R. M., Stroh, F., Toohey, D. W., and Urban, J.: Sect. 3. Workshop Report: The Role of Halogen Chemistry in Polar Stratospheric Ozone Depletion, in: Workshop for an Initiative under the Stratospheric Processes and Their Role in climate (SPARC) Project of the World climate Research Programme, June 2008, Cambridge, UK, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/2008MWR2583.1</doi>
+              <unstructured_citation>Skamarock, W. C. and Weisman, M. L.: The impact of positive-definite moisture transport on NWP precipitation forecasts, Mon. Weather Rev., 137, 488–494, https://doi.org/10.1175/2008MWR2583.1, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.1137/S0036142901389025</doi>
+              <unstructured_citation>Spiteri, R. and Ruuth, S.: A new class of optimal high-order strong-stability-preserving time discretization methods, SIAM J. Numer. Anal., 40, 469–491, https://doi.org/10.1137/S0036142901389025, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1029/2010JD015360</doi>
+              <unstructured_citation>Strahan, S. E., Douglass, A. R., Stolarski, R. S., Akiyoshi, H., Bekki, S., Braesicke, P., Butchart, N., Chipperfield, M. P., Cugnet, D., Dhomse, S., Frith, S. M., Gettelman, A., Hardiman, S. C., Kinnison, D. E., Lamarque, J.-F., Mancini, E., Marchand, M., Michou, M., Morgenstern, O., Nakamura, T., Olivi , D., Pawson, S., Pitari, G., Plummer, D. A., Pyle, J. A., Scinocca, J. F., Shepherd, T. G., Shibata, K., Smale, D., Teyssèdre, H., Tian, W., and Yamashita, Y.: Using transport diagnostics to understand chemistry climate model ozone simulations, J. Geophys. Res., 116, 2156–2202, https://doi.org/10.1029/2010JD015360, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1029/96JD03514</doi>
+              <unstructured_citation>Thuburn, J. and McIntyre, M.: Numerical advection schemes, cross-isentropic random walks, and correlations between chemical species, J. Geophys. Res., 102, 6775–6797, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <unstructured_citation>Turing, A.: The chemical basis of morphogenesis, Philos. T. R. Soc. Lon. B, 37–72, 1952.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1016/j.jcp.2011.05.008</doi>
+              <unstructured_citation>White, J. B. and Dongarra, J. J.: High-Performance High-Resolution Semi-Lagrangian Tracer Transport on a Sphere, J. Comput. Phys. 230, 6778–6799, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1016/S0021-9991(05)80016-6</doi>
+              <unstructured_citation>Williamson, D. L., Drake, J. B., Hack, J. J., Jakob, R., and Swarztrauber, P. N.: A standard test set for numerical approximations to the shallow water equations in spherical geometry, J. Comput. Phys., 102, 211–224, 1992.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1029/2001JD001532</doi>
+              <unstructured_citation>Xiao, F., Yabe, T., Peng, X., and Kobayashi, H.: Conservative and oscillation-less atmospheric transport schemes based on rational functions, J. Geophys. Res., 107, 4609, https://doi.org/10.1029/2001JD001532, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1016/0021-9991(79)90051-2</doi>
+              <unstructured_citation>Zalesak, S. T.: Fully multidimensional flux-corrected transport algorithms for fluids, J. Comput. Phys., 31, 335–362, 1979.</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/zip"/>
+              <doi_data>
+                <doi>10.5194/gmd-8-1299-2015-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/8/1299/2015/gmd-8-1299-2015-supplement.zip</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

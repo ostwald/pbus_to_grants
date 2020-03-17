@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-10-24 13:55:58">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" reference_distribution_opts="any">
+          <full_title>Atmospheric Measurement Techniques</full_title>
+          <abbrev_title>Atmos. Meas. Tech.</abbrev_title>
+          <issn media_type="electronic">1867-8548</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>12</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>
+              Evaluation of MOPITT Version 7 joint TIR–NIR X
+              <sub>CO</sub>
+              retrievals with TCCON
+            </title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Jacob K.</given_name>
+              <surname>Hedelius</surname>
+              <ORCID>https://orcid.org/0000-0003-2025-7519</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tai-Long</given_name>
+              <surname>He</surname>
+              <ORCID>https://orcid.org/0000-0002-7734-0076</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dylan B. A.</given_name>
+              <surname>Jones</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bianca C.</given_name>
+              <surname>Baier</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rebecca R.</given_name>
+              <surname>Buchholz</surname>
+              <ORCID>https://orcid.org/0000-0001-8124-2455</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Martine</given_name>
+              <surname>De Mazière</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicholas M.</given_name>
+              <surname>Deutscher</surname>
+              <ORCID>https://orcid.org/0000-0002-2906-2577</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Manvendra K.</given_name>
+              <surname>Dubey</surname>
+              <ORCID>https://orcid.org/0000-0002-3492-790X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dietrich G.</given_name>
+              <surname>Feist</surname>
+              <ORCID>https://orcid.org/0000-0002-5890-6687</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David W. T.</given_name>
+              <surname>Griffith</surname>
+              <ORCID>https://orcid.org/0000-0002-7986-1924</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Frank</given_name>
+              <surname>Hase</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Laura T.</given_name>
+              <surname>Iraci</surname>
+              <ORCID>https://orcid.org/0000-0002-2859-5259</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Pascal</given_name>
+              <surname>Jeseck</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthäus</given_name>
+              <surname>Kiel</surname>
+              <ORCID>https://orcid.org/0000-0002-9784-962X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rigel</given_name>
+              <surname>Kivi</surname>
+              <ORCID>https://orcid.org/0000-0001-8828-2759</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Cheng</given_name>
+              <surname>Liu</surname>
+              <ORCID>https://orcid.org/0000-0002-3759-9219</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Isamu</given_name>
+              <surname>Morino</surname>
+              <ORCID>https://orcid.org/0000-0003-2720-1569</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Justus</given_name>
+              <surname>Notholt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Young-Suk</given_name>
+              <surname>Oh</surname>
+              <ORCID>https://orcid.org/0000-0001-8010-1597</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Hirofumi</given_name>
+              <surname>Ohyama</surname>
+              <ORCID>https://orcid.org/0000-0003-2109-9874</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>David F.</given_name>
+              <surname>Pollard</surname>
+              <ORCID>https://orcid.org/0000-0001-9923-2984</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Markus</given_name>
+              <surname>Rettinger</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sébastien</given_name>
+              <surname>Roche</surname>
+              <ORCID>https://orcid.org/0000-0003-2474-4744</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Coleen M.</given_name>
+              <surname>Roehl</surname>
+              <ORCID>https://orcid.org/0000-0001-5383-8462</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Matthias</given_name>
+              <surname>Schneider</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kei</given_name>
+              <surname>Shiomi</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kimberly</given_name>
+              <surname>Strong</surname>
+              <ORCID>https://orcid.org/0000-0001-9947-1053</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ralf</given_name>
+              <surname>Sussmann</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Colm</given_name>
+              <surname>Sweeney</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yao</given_name>
+              <surname>Té</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Osamu</given_name>
+              <surname>Uchino</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Voltaire A.</given_name>
+              <surname>Velazco</surname>
+              <ORCID>https://orcid.org/0000-0002-1376-438X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Wei</given_name>
+              <surname>Wang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thorsten</given_name>
+              <surname>Warneke</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Paul O.</given_name>
+              <surname>Wennberg</surname>
+              <ORCID>https://orcid.org/0000-0002-6126-3854</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Helen M.</given_name>
+              <surname>Worden</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Debra</given_name>
+              <surname>Wunch</surname>
+              <ORCID>https://orcid.org/0000-0002-4924-0377</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[Abstract. Observations of carbon monoxide (CO) from the Measurements Of Pollution In The Troposphere (MOPITT) instrument aboard the Terra spacecraft were expected to have an accuracy of 10 % prior to the launch in 1999. Here we evaluate MOPITT Version 7 joint (V7J) thermal-infrared and near-infrared (TIR–NIR) retrieval accuracy and precision and suggest ways to further improve the accuracy of the observations. We take five steps involving filtering or bias corrections to reduce scatter and bias in the data relative to other MOPITT soundings and ground-based measurements. (1) We apply a preliminary filtering scheme in which measurements over snow and ice are removed. (2) We find a systematic pairwise bias among the four MOPITT along-track detectors (pixels) on the order of 3–4 ppb with a small temporal trend, which we remove on a global scale using a temporally trended bias correction. (3) Using a small-region approximation (SRA), a new filtering scheme is developed and applied based on additional quality indicators such as the signal-to-noise ratio (SNR). After applying these new filters, the root-mean-squared error computed using the local median from the SRA over 16 years of global observations decreases from 3.84 to 2.55 ppb. (4) We also use the SRA to find variability in MOPITT retrieval anomalies that relates to retrieval parameters. We apply a bias correction to one parameter from this analysis. (5) After applying the previous bias corrections and filtering, we compare the MOPITT results with the GGG2014 ground-based Total Carbon Column Observing Network (TCCON) observations to obtain an overall global bias correction. These comparisons show that MOPITT V7J is biased high by about 6 %–8 %, which is similar to past studies using independent validation datasets on V6J. When using TCCON spectrometric column retrievals without the standard airmass correction or scaling to aircraft (WMO scale), the ground- and satellite-based observations overall agree to better than 0.5 %. GEOS-Chem data assimilations are used to estimate the influence of filtering and scaling to TCCON on global CO and tend to pull concentrations away from the prior fluxes and closer to the truth. We conclude with suggestions for further improving the MOPITT data products.]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>21</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>5547</first_page>
+            <last_page>5572</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Canadian Space Agency
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000016</assertion>
+              </assertion>
+              <assertion name="award_number">16SUASCOBF</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                European Space Agency
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000844</assertion>
+              </assertion>
+              <assertion name="award_number">3-14737</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Bundesministerium für Wirtschaft und Energie
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100006360</assertion>
+              </assertion>
+              <assertion name="award_number">50EE1711C</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Los Alamos National Laboratory
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100008902</assertion>
+              </assertion>
+              <assertion name="award_number">LANL-LDRD</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Korea Meteorological Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100003629</assertion>
+              </assertion>
+              <assertion name="award_number">KMA2018-00321</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Japan Aerospace Exploration Agency
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100004020</assertion>
+              </assertion>
+              <assertion name="award_number">GOSAT series</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Australian Respiratory Council
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100001031</assertion>
+              </assertion>
+              <assertion name="award_number">FT180100327</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <intra_work_relation relationship-type="hasPreprint" identifier-type="doi">10.5194/amt-2019-201</intra_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/amt-12-5547-2019</doi>
+            <resource>https://www.atmos-meas-tech.net/12/5547/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-meas-tech.net/12/5547/2019/amt-12-5547-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.14291/tccon.ggg2014.izana01.R0/1149295</doi>
+              <unstructured_citation>Blumenstock, T., Hase, F., Schneider, M., Garcia, O. E., and Sepulveda, E.: TCCON data from Izana (ES), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.izana01.R0/1149295, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/amt-11-5507-2018</doi>
+              <unstructured_citation>Borsdorff, T., aan de Brugh, J., Hu, H., Hasekamp, O., Sussmann, R., Rettinger, M., Hase, F., Gross, J., Schneider, M., Garcia, O., Stremme, W., Grutter, M., Feist, D. G., Arnold, S. G., De Mazière, M., Kumar Sha, M., Pollard, D. F., Kiel, M., Roehl, C., Wennberg, P. O., Toon, G. C., and Landgraf, J.: Mapping carbon monoxide pollution from space down to city scales with daily global coverage, Atmos. Meas. Tech., 11, 5507–5518, https://doi.org/10.5194/amt-11-5507-2018, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/amt-10-1927-2017</doi>
+              <unstructured_citation>Buchholz, R. R., Deeter, M. N., Worden, H. M., Gille, J., Edwards, D. P., Hannigan, J. W., Jones, N. B., Paton-Walsh, C., Griffith, D. W. T., Smale, D., Robinson, J., Strong, K., Conway, S., Sussmann, R., Hase, F., Blumenstock, T., Mahieu, E., and Langerock, B.: Validation of MOPITT carbon monoxide using ground-based Fourier transform infrared spectrometer data from NDACC, Atmos. Meas. Tech., 10, 1927–1956, https://doi.org/10.5194/amt-10-1927-2017, 2017. a, b, c, d, e, f, g, h, i, j, k, l, m, n</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2006JD008336</doi>
+              <unstructured_citation>Connor, B. J., Boesch, H., Toon, G., Sen, B., Miller, C., and Crisp, D.: Orbiting Carbon Observatory: Inverse method and prospective error analysis, J. Geophys. Res., 113, D05305, https://doi.org/10.1029/2006JD008336, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.5194/amt-9-3513-2016</doi>
+              <unstructured_citation>Connor, B. J., Sherlock, V., Toon, G., Wunch, D., and Wennberg, P. O.: GFIT2: an experimental algorithm for vertical profile retrieval from near-IR spectra, Atmos. Meas. Tech., 9, 3513–3525, https://doi.org/10.5194/amt-9-3513-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.14291/tccon.ggg2014.reunion01.R0/1149288</doi>
+              <unstructured_citation>De Mazière, M., Sha, M. K., Desmet, F., Hermans, C., Scolas, F., Kumps, N., Metzger, J.-M., Duflot, V., and Cammas, J.-P.: TCCON data from Reunion Island (RE), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.reunion01.R0/1149288, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Deeter, M. N.: MOPITT (Measurements of Pollution in the Troposphere), Version 7, Product User's Guide, available at: https://www2.acom.ucar.edu/sites/default/files/mopitt/v7_users_guide_201707.pdf (last access: 16 August 2018), 2017. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1029/2009JD013005</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Gille, J. C., Emmons, L. K., Francis, G., Ho, S. P., Mao, D., Masters, D., Worden, H., Drummond, J. R., and Novelli, P. C.: The MOPITT version 4 CO product: Algorithm enhancements, validation, and long-term stability, J. Geophys. Res., 115, D07306, https://doi.org/10.1029/2009jd013005, 2010. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/amt-7-3623-2014</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Edwards, D. P., Emmons, L. K., Gille, J. C., Worden, H. M., Sweeney, C., Pittman, J. V., Daube, B. C., and Wofsy, S. C.: The MOPITT Version 6 product: algorithm enhancements and validation, Atmos. Meas. Tech., 7, 3623–3632, https://doi.org/10.5194/amt-7-3623-2014, 2014. a, b, c, d, e, f</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1002/2015JD024024</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Gille, J. C., and Worden, H. M.: Information content of MOPITT CO profile retrievals: Temporal and geographical variability, J. Geophys. Res.-Atmos., 120, 12723–12738, https://doi.org/10.1002/2015JD024024, 2015. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/amt-9-3999-2016</doi>
+              <unstructured_citation>Deeter, M. N., Martínez-Alonso, S., Gatti, L. V., Gloor, M., Miller, J. B., Domingues, L. G., and Correia, C. S. C.: Validation and analysis of MOPITT CO observations of the Amazon Basin, Atmos. Meas. Tech., 9, 3999–4012, https://doi.org/10.5194/amt-9-3999-2016, 2016. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/amt-10-2533-2017</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Francis, G. L., Gille, J. C., Martínez-Alonso, S., Worden, H. M., and Sweeney, C.: A climate-scale satellite record for carbon monoxide: the MOPITT Version 7 product, Atmos. Meas. Tech., 10, 2533–2555, https://doi.org/10.5194/amt-10-2533-2017, 2017. a, b, c, d, e, f, g, h, i, j</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/amt-12-4561-2019</doi>
+              <unstructured_citation>Deeter, M. N., Edwards, D. P., Francis, G. L., Gille, J. C., Mao, D., Martínez-Alonso, S., Worden, H. M., Ziskin, D., and Andreae, M. O.: Radiance-based retrieval bias mitigation for the MOPITT instrument: the version 8 product, Atmos. Meas. Tech., 12, 4561–4580, https://doi.org/10.5194/amt-12-4561-2019, 2019. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1016/S0893-9659(02)00139-8</doi>
+              <unstructured_citation>Delhez, E.: A spline interpolation technique that preserves mass budgets, Appl. Math. Lett., 16, 17–26, https://doi.org/10.1016/S0893-9659(02)00139-8, 2003. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.14291/tccon.ggg2014.bialystok01.R1/1183984</doi>
+              <unstructured_citation>Deutscher, N. M., Notholt, J., Messerschmidt, J., Weinzierl, C., Warneke, T., Petri, C., Grupe, P., and Katrynski, K.: TCCON data from Bialystok (PL), Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.bialystok01.R1/1183984, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/j.asr.2009.11.019</doi>
+              <unstructured_citation>Drummond, J. R., Zou, J., Nichitiu, F., Kar, J., Deschambaut, R., and Hackett, J.: A review of 9-year performance and operation of the MOPITT instrument, Adv. Space Res., 45, 760–774, https://doi.org/10.1016/j.asr.2009.11.019, 2010. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.14291/tccon.ggg2014.manaus01.R0/1149274</doi>
+              <unstructured_citation>Dubey, M., Henderson, B., Green, D., Butterfield, Z., Keppel-Aleks, G., Allen, N., Blavier, J.-F., Roehl, C., Wunch, D., and Lindenmaier, R.: TCCON data from Manaus (BR), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.manaus01.R0/1149274, 2014a. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Dubey, M., Lindenmaier, R., Henderson, B., Green, D., Allen, N., Roehl, C., Blavier, J.-F., Butterfield, Z., Love, S., Hamelmann, J., and Wunch, D.: TCCON data from Four Corners (US), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.fourcorners01.R0/1149272, 2014b. a</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1080/00031305.1983.10483087</doi>
+              <unstructured_citation>Efron, B. and Gong, G.: A leisurely look at the bootstrap, the jackknife, and cross-validation, Am. Stat., 37, 36–48, https://doi.org/10.1080/00031305.1983.10483087, 1983. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.5194/acp-17-6825-2017</doi>
+              <unstructured_citation>Engel, A., Bönisch, H., Ullrich, M., Sitals, R., Membrive, O., Danis, F., and Crevoisier, C.: Mean age of stratospheric air derived from AirCore observations, Atmos. Chem. Phys., 17, 6825–6838, https://doi.org/10.5194/acp-17-6825-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.14291/tccon.ggg2014.ascension01.R0/1149285</doi>
+              <unstructured_citation>Feist, D. G., Arnold, S. G., John, N., and Geibel, M. C.: TCCON data from Ascension Island (SH), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.ascension01.R0/1149285, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Forster, P., Ramaswamy, V., Artaxo, P., Berntsen, T., Betts, R., Fahey, D., Haywood, J., Lean, J., Lowe, D., Myhre, G., Nganga, J., Prinn, R., Raga, G., Schulz, M., and Van Dorland, R.: Changes in Atmospheric Constituents and in Radiative Forcing, in: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, edited by: Solomon, S., Qin, D., Manning, M., Chen, Z., Marquis, M., K.B., A., Tignor, M., and Miller, H., Cambridge University Press, Cambridge, United Kingdom and New York, USA, chap. 2, 129–234, available at: https://www.ipcc.ch/publications_and_data/ar4/wg1/en/contents.html (last access: 17 January 2019), 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1016/1352-2310(94)00210-C</doi>
+              <unstructured_citation>Gatz, D. F. and Smith, L.: The standard error of a weighted mean concentration – I. Bootstrapping vs other methods, Atmos. Environ., 29, 1185–1193, https://doi.org/10.1016/1352-2310(94)00210-C, 1995. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Goo, T.-Y., Oh, Y.-S., and Velazco, V. A.: TCCON data from Anmeyondo (KR), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.anmeyondo01.R0/1149284, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.14291/tccon.ggg2014.darwin01.R0/1149290</doi>
+              <unstructured_citation>Griffith, D. W., Deutscher, N. M., Velazco, V. A., Wennberg, P. O., Yavin, Y., Aleks, G. K., Washenfelder, R. a., Toon, G. C., Blavier, J.-F., Murphy, C., Jones, N., Kettlewell, G., Connor, B. J., Macatangay, R., Roehl, C., Ryczek, M., Glowacki, J., Culgan, T., and Bryant, G.: TCCON data from Darwin (AU), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.darwin01.R0/1149290, 2014a. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.14291/tccon.ggg2014.wollongong01.R0/1149291</doi>
+              <unstructured_citation>Griffith, D. W., Velazco, V. A., Deutscher, N. M., Murphy, C., Jones, N., Wilson, S., Macatangay, R., Kettlewell, G., Buchholz, R. R., and Riggenbach, M.: TCCON data from Wollongong (AU), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.wollongong01.R0/1149291, 2014b. a</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.14291/tccon.ggg2014.karlsruhe01.R1/1182416</doi>
+              <unstructured_citation>Hase, F., Blumenstock, T., Dohe, S., Gross, J., and Kiel, M.: TCCON data from Karlsruhe (DE), Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.karlsruhe01.R1/1182416, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <unstructured_citation>Hedelius, J. K. and Wunch, D.: Mass conserving quartic-spline and linear interpolation techniques over variable width partitions, Scholars Portal Dataverse, V1, https://doi.org/10.5683/SP2/57ROYV, 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1002/2017JD026455</doi>
+              <unstructured_citation>Hedelius, J. K., Feng, S., Roehl, C. M., Wunch, D., Hillyard, P. W., Podolske, J. R., Iraci, L. T., Patarasuk, R., Rao, P., O'Keeffe, D., Gurney, K. R., Lauvaux, T., and Wennberg, P. O.: Emissions and topographic effects on column CO2 (XCO2) variations, with a focus on the Southern California Megacity, J. Geophys. Res.-Atmos., 122, 7200–7215, https://doi.org/10.1002/2017JD026455, 2017. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.3390/rs10020223</doi>
+              <unstructured_citation>Hochstaffl, P., Schreier, F., Lichtenberg, G., and García, S. G.: Validation of carbon monoxide total column retrievals from SCIAMACHY observations with NDACC/TCCON ground-based measurements, Remote Sensing, 10, 223, https://doi.org/10.3390/rs10020223, 2018. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.5194/amt-9-3491-2016</doi>
+              <unstructured_citation>Inoue, M., Morino, I., Uchino, O., Nakatsuru, T., Yoshida, Y., Yokota, T., Wunch, D., Wennberg, P. O., Roehl, C. M., Griffith, D. W. T., Velazco, V. A., Deutscher, N. M., Warneke, T., Notholt, J., Robinson, J., Sherlock, V., Hase, F., Blumenstock, T., Rettinger, M., Sussmann, R., Kyrö, E., Kivi, R., Shiomi, K., Kawakami, S., De Mazière, M., Arnold, S. G., Feist, D. G., Barrow, E. A., Barney, J., Dubey, M., Schneider, M., Iraci, L. T., Podolske, J. R., Hillyard, P. W., Machida, T., Sawa, Y., Tsuboi, K., Matsueda, H., Sweeney, C., Tans, P. P., Andrews, A. E., Biraud, S. C., Fukuyama, Y., Pittman, J. V., Kort, E. A., and Tanaka, T.: Bias corrections of GOSAT SWIR XCO2 and XCH4 with TCCON data and their evaluation using aircraft measurement data, Atmos. Meas. Tech., 9, 3491–3512, https://doi.org/10.5194/amt-9-3491-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.14291/tccon.ggg2014.edwards01.R1/1255068</doi>
+              <unstructured_citation>Iraci, L. T., Podolske, J., Hillyard, P. W., Roehl, C., Wennberg, P. O.,
+Blavier, J.-F., Allen, N., Wunch, D., Osterman, G. B., and Albertson, R.:
+TCCON data from Edwards (US), Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.edwards01.R1/1255068, 2016a. a</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Iraci, L. T., Podolske, J., Hillyard, P. W., Roehl, C., Wennberg, P. O., Blavier, J.-F., Landeros, J., Allen, N., Wunch, D., Zavaleta, J., Quigley, E., Osterman, G. B., Barrow, E., and Barney, J.: TCCON data from Indianapolis (US), Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.indianapolis01.R1/1330094, 2016b. a</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1002/jgrd.50216</doi>
+              <unstructured_citation>Jiang, Z., Jones, D. B. A., Worden, H. M., Deeter, M. N., Henze, D. K., Worden, J., Bowman, K. W., Brenninkmeijer, C. A. M., and Schuck, T. J.: Impact of model errors in convective transport on CO source estimates inferred from MOPITT CO retrievals, J. Geophys. Res.-Atmos., 118, 2073–2083, https://doi.org/10.1002/jgrd.50216, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-15-1521-2015</doi>
+              <unstructured_citation>Jiang, Z., Jones, D. B. A., Worden, H. M., and Henze, D. K.: Sensitivity of top-down CO source estimates to the modeled vertical structure in atmospheric CO, Atmos. Chem. Phys., 15, 1521-1537, https://doi.org/10.5194/acp-15-1521-2015, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.5194/acp-17-4565-2017</doi>
+              <unstructured_citation>Jiang, Z., Worden, J. R., Worden, H., Deeter, M., Jones, D. B. A., Arellano, A. F., and Henze, D. K.: A 15-year record of CO emissions constrained by MOPITT CO observations, Atmos. Chem. Phys., 17, 4565–4583, https://doi.org/10.5194/acp-17-4565-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1175/2010JTECHA1448.1</doi>
+              <unstructured_citation>Karion, A., Sweeney, C., Tans, P., and Newberger, T.: AirCore: An innovative atmospheric sampling system, J. Atmos. Ocean. Tech., 27, 1839–1853, https://doi.org/10.1175/2010JTECHA1448.1, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.14291/tccon.ggg2014.saga01.R0/1149283</doi>
+              <unstructured_citation>Kawakami, S., Ohyama, H., Arai, K., Okumura, H., Taura, C., Fukamachi, T., and Sakashita, M.: TCCON data from Saga (JP), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.saga01.R0/1149283, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/amt-9-669-2016</doi>
+              <unstructured_citation>Kiel, M., Wunch, D., Wennberg, P. O., Toon, G. C., Hase, F., and Blumenstock, T.: Improved retrieval of gas abundances from near-infrared solar FTIR spectra measured at the Karlsruhe TCCON station, Atmos. Meas. Tech., 9, 669–682, https://doi.org/10.5194/amt-9-669-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/amt-12-2241-2019</doi>
+              <unstructured_citation>Kiel, M., O'Dell, C. W., Fisher, B., Eldering, A., Nassar, R., MacDonald, C. G., and Wennberg, P. O.: How bias correction goes wrong: measurement of XCO2 affected by erroneous surface pressure estimates, Atmos. Meas. Tech., 12, 2241–2259, https://doi.org/10.5194/amt-12-2241-2019, 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.5194/gi-5-271-2016</doi>
+              <unstructured_citation>Kivi, R. and Heikkinen, P.: Fourier transform spectrometer measurements of column CO2 at Sodankylä, Finland, Geosci. Instrum. Method. Data Syst., 5, 271–279, https://doi.org/10.5194/gi-5-271-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.14291/tccon.ggg2014.sodankyla01.R0/1149280</doi>
+              <unstructured_citation>Kivi, R., Heikkinen, P., and Kyrö, E.: TCCON data from Sodankyla (FI), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.sodankyla01.R0/1149280, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.5194/acp-10-855-2010</doi>
+              <unstructured_citation>Kopacz, M., Jacob, D. J., Fisher, J. A., Logan, J. A., Zhang, L., Megretskaia, I. A., Yantosca, R. M., Singh, K., Henze, D. K., Burrows, J. P., Buchwitz, M., Khlystova, I., McMillan, W. W., Gille, J. C., Edwards, D. P., Eldering, A., Thouret, V., and Nedelec, P.: Global estimates of CO sources with high resolution by adjoint inversion of multiple satellite datasets (MOPITT, AIRS, SCIAMACHY, TES), Atmos. Chem. Phys., 10, 855–876, https://doi.org/10.5194/acp-10-855-2010, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.5194/amt-9-683-2016</doi>
+              <unstructured_citation>Kulawik, S., Wunch, D., O'Dell, C., Frankenberg, C., Reuter, M., Oda, T., Chevallier, F., Sherlock, V., Buchwitz, M., Osterman, G., Miller, C. E., Wennberg, P. O., Griffith, D., Morino, I., Dubey, M. K., Deutscher, N. M., Notholt, J., Hase, F., Warneke, T., Sussmann, R., Robinson, J., Strong, K., Schneider, M., De Mazière, M., Shiomi, K., Feist, D. G., Iraci, L. T., and Wolf, J.: Consistent evaluation of ACOS-GOSAT, BESD-SCIAMACHY, CarbonTracker, and MACC through comparisons to TCCON, Atmos. Meas. Tech., 9, 683–709, https://doi.org/10.5194/amt-9-683-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/gmd-5-369-2012</doi>
+              <unstructured_citation>Lamarque, J.-F., Emmons, L. K., Hess, P. G., Kinnison, D. E., Tilmes, S., Vitt, F., Heald, C. L., Holland, E. A., Lauritzen, P. H., Neu, J., Orlando, J. J., Rasch, P. J., and Tyndall, G. K.: CAM-chem: description and evaluation of interactive atmospheric chemistry in the Community Earth System Model, Geosci. Model Dev., 5, 369–411, https://doi.org/10.5194/gmd-5-369-2012, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-16-12477-2016</doi>
+              <unstructured_citation>Lelieveld, J., Gromov, S., Pozzer, A., and Taraborrelli, D.: Global tropospheric hydroxyl distribution, budget and reactivity, Atmos. Chem. Phys., 16, 12477–12493, https://doi.org/10.5194/acp-16-12477-2016, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1073/pnas.1321883111</doi>
+              <unstructured_citation>Lindenmaier, R., Dubey, M. K., Henderson, B. G., Butterfield, Z. T., Herman, J. R., Rahn, T., and Lee, S.-H.: Multiscale observations of CO2, 13CO2, and pollutants at Four Corners for emission verification and attribution, P. Natl. Acad. of Sci. USA, 111, 8386–8391, https://doi.org/10.1073/pnas.1321883111, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Liu, C., Wang, W., and Sun, Y.: TCCON data from Hefei, China, Release GGG2014.R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.hefei01.R0, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/amt-6-2851-2013</doi>
+              <unstructured_citation>Mandrake, L., Frankenberg, C., O'Dell, C. W., Osterman, G., Wennberg, P., and Wunch, D.: Semi-autonomous sounding selection for OCO-2, Atmos. Meas. Tech., 6, 2851–2864, https://doi.org/10.5194/amt-6-2851-2013, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/amt-10-2163-2017</doi>
+              <unstructured_citation>Membrive, O., Crevoisier, C., Sweeney, C., Danis, F., Hertzog, A., Engel, A., Bönisch, H., and Picon, L.: AirCore-HR: a high-resolution column sampling to enhance the vertical description of CH4 and CO2, Atmos. Meas. Tech., 10, 2163–2181, https://doi.org/10.5194/amt-10-2163-2017, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.14291/tccon.ggg2014.tsukuba02.R1/1241486</doi>
+              <unstructured_citation>Morino, I., Matsuzaki, T., and Shishime, A.: TCCON data from Tsukuba (JP), 125HR, Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.tsukuba02.R1/1241486, 2014a. a</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.14291/tccon.ggg2014.rikubetsu01.R1/1242265</doi>
+              <unstructured_citation>Morino, I., Yokozeki, N., Matzuzaki, T., and Horikawa, M.: TCCON data from Rikubetsu (JP), Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.rikubetsu01.R1/1242265, 2014b. a</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <unstructured_citation>Morino, I., Velazco, V. A., Hori, A., Uchino, O., and Griffith, D. W. T.: TCCON data from Burgos, Ilocos Norte (PH), Release GGG2014.R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.burgos01.R0, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1029/2011JD016245</doi>
+              <unstructured_citation>Mu, M., Randerson, J. T., van der Werf, G. R., Giglio, L., Kasibhatla, P., Morton, D., Collatz, G. J., DeFries, R. S., Hyer, E. J., Prins, E. M., Griffith, D. W. T., Wunch, D., Toon, G. C., Sherlock, V., and Wennberg, P. O.: Daily and 3-hourly variability in global fire emissions and consequences for atmospheric model predictions of carbon monoxide, J. Geophys. Res., 116, D24303, https://doi.org/10.1029/2011JD016245, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/amt-7-2631-2014</doi>
+              <unstructured_citation>Nguyen, H., Osterman, G., Wunch, D., O'Dell, C., Mandrake, L., Wennberg, P., Fisher, B., and Castano, R.: A method for colocating satellite XCO2 data to ground-based data and its application to ACOS-GOSAT and TCCON, Atmos. Meas. Tech., 7, 2631–2644, https://doi.org/10.5194/amt-7-2631-2014, 2014. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.14291/tccon.ggg2014.bremen01.R0/1149275</doi>
+              <unstructured_citation>Notholt, J., Petri, C., Warneke, T., Deutscher, N. M., Buschmann, M., Weinzierl, C., Macatangay, R., and Grupe, P.: TCCON data from Bremen (DE), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.bremen01.R0/1149275, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <unstructured_citation>Notholt, J., Warneke, T., Petri, C., Deutscher, N. M., Weinzierl, C., Palm, M., and Buschmann, M.: TCCON data from Ny Ålesund, Spitsbergen (NO), Release GGG2014.R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.nyalesund01.R0/1149278, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.5194/amt-11-6539-2018</doi>
+              <unstructured_citation>O'Dell, C. W., Eldering, A., Wennberg, P. O., Crisp, D., Gunson, M. R., Fisher, B., Frankenberg, C., Kiel, M., Lindqvist, H., Mandrake, L., Merrelli, A., Natraj, V., Nelson, R. R., Osterman, G. B., Payne, V. H., Taylor, T. E., Wunch, D., Drouin, B. J., Oyafuso, F., Chang, A., McDuffie, J., Smyth, M., Baker, D. F., Basu, S., Chevallier, F., Crowell, S. M. R., Feng, L., Palmer, P. I., Dubey, M., García, O. E., Griffith, D. W. T., Hase, F., Iraci, L. T., Kivi, R., Morino, I., Notholt, J., Ohyama, H., Petri, C., Roehl, C. M., Sha, M. K., Strong, K., Sussmann, R., Te, Y., Uchino, O., and Velazco, V. A.: Improved retrievals of carbon dioxide from Orbiting Carbon Observatory-2 with the version 8 ACOS algorithm, Atmos. Meas. Tech., 11, 6539–6576, https://doi.org/10.5194/amt-11-6539-2018, 2018. a, b, c, d, e, f</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.5194/acp-11-12813-2011</doi>
+              <unstructured_citation>Patra, P. K., Houweling, S., Krol, M., Bousquet, P., Belikov, D., Bergmann, D., Bian, H., Cameron-Smith, P., Chipperfield, M. P., Corbin, K., Fortems-Cheiney, A., Fraser, A., Gloor, E., Hess, P., Ito, A., Kawa, S. R., Law, R. M., Loh, Z., Maksyutov, S., Meng, L., Palmer, P. I., Prinn, R. G., Rigby, M., Saito, R., and Wilson, C.: TransCom model simulations of CH4 and related species: linking transport, surface flux and chemical loss with CH4 variability in the troposphere and lower stratosphere, Atmos. Chem. Phys., 11, 12813–12837, https://doi.org/10.5194/acp-11-12813-2011, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.5194/essd-9-977-2017</doi>
+              <unstructured_citation>Pollard, D. F., Sherlock, V., Robinson, J., Deutscher, N. M., Connor, B., and Shiona, H.: The Total Carbon Column Observing Network site description for Lauder, New Zealand, Earth Syst. Sci. Data, 9, 977–992, https://doi.org/10.5194/essd-9-977-2017, 2017. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1134/S1024856015060135</doi>
+              <unstructured_citation>Rakitin, V. S., Shtabkin, Y. A., Elansky, N. F., Pankratova, N. V., Skorokhod, A. I., Grechko, E. I., and Safronov, A. N.: Comparison results of satellite and ground-based spectroscopic measurements of CO, CH4, and CO2 total contents, Atmospheric and Oceanic Optics, 28, 533–542, https://doi.org/10.1134/S1024856015060135, 2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1029/JD095iD05p05587</doi>
+              <unstructured_citation>Rodgers, C. D.: Characterization and error analysis of profiles retrieved from remote sounding measurements, J. Geophys. Res., 95, 5587–5595, https://doi.org/10.1029/JD095iD05p05587, 1990. a</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.1142/9789812813718</doi>
+              <unstructured_citation>Rodgers, C. D.: Inverse Methods for Atmospheric Sounding – Theory and Practice, vol. 2 of Series on Atmospheric Oceanic and Planetary Physics, World Scientific Publishing Co. Pte. Ltd., https://doi.org/10.1142/9789812813718, 2000. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1029/2002JD002299</doi>
+              <unstructured_citation>Rodgers, C. D. and Connor, B. J.: Intercomparison of remote sounding instruments, Journal of Geophysical Research, 108, 4116, https://doi.org/10.1029/2002JD002299, 2003. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.5194/amt-7-1509-2014</doi>
+              <unstructured_citation>Santoni, G. W., Daube, B. C., Kort, E. A., Jiménez, R., Park, S., Pittman, J. V., Gottlieb, E., Xiang, B., Zahniser, M. S., Nelson, D. D., McManus, J. B., Peischl, J., Ryerson, T. B., Holloway, J. S., Andrews, A. E., Sweeney, C., Hall, B., Hintsa, E. J., Moore, F. L., Elkins, J. W., Hurst, D. F., Stephens, B. B., Bent, J., and Wofsy, S. C.: Evaluation of the airborne quantum cascade laser spectrometer (QCLS) measurements of the carbon and greenhouse gas suite – CO2, CH4, N2O, and CO – during the CalNex and HIPPO campaigns, Atmos. Meas. Tech., 7, 1509–1526, https://doi.org/10.5194/amt-7-1509-2014, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Seinfeld, J. H. and Pandis, S. N.: Atmospheric Chemistry and Physics: From Air Pollution to Climate Change, John Wiley &amp;amp;amp; Sons, Hoboken, New Jersey, USA, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>Sha, M. K., Langerock, B., De Mazière, M., Dils, B., Feist, D. G., Sussmann, R., Hase, F., Schneider, M., Blumenstock, T., Notholt, J., Warneke, T., Petri, C., Kivi, R., Te, Y., Wennberg, P. O., Wunch, D., Iraci, L. T., Strong, K., Griffith, D. W. T., Deutscher, N. M., Velazco, V. A., Morino, I., Ohyama, H., Uchino, O., Shiomi, K., Goo, T. Y., Pollard, D. F., Borsdorff, T., Hu, H., Hasekamp, O. P., Landgraf, J., Roehl, C. M., Kiel, M., Toon, G., and TCCON team: First results of the Sentinel-5 Precursor CO and CH4 validation using TCCON data (ESA AO project TCCON4S5P) and NDACC CO data, in: Annual Joint NDACC-IRWG &amp;amp;amp; TCCON Meeting, Mexico City, Mexico, 11–15 June 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.14291/tccon.ggg2014.lauder01.R0/1149293</doi>
+              <unstructured_citation>Sherlock, V., Connor, B. J., Robinson, J., Shiona, H., Smale, D., and Pollard, D.: TCCON data from Lauder (NZ), 120HR, Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.lauder01.R0/1149293, 2014a. a</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.14291/tccon.ggg2014.lauder02.R0/1149298</doi>
+              <unstructured_citation>Sherlock, V., Connor, B. J., Robinson, J., Shiona, H., Smale, D., and Pollard, D.: TCCON data from Lauder (NZ), 125HR, Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.lauder02.R0/1149298, 2014b. a</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <unstructured_citation>Strong, K., Roche, S., Franklin, J. E., Mendonca, J., Lutsch, E., Weaver, D., Fogal, P. F., Drummond, J. R., Batchelor, R., and Lindenmaier, R.: TCCON data from Eureka (CA), Release GGG2014.R2, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.eureka01.r2, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/acp-5-1497-2005</doi>
+              <unstructured_citation>Sussmann, R. and Buchwitz, M.: Initial validation of ENVISAT/SCIAMACHY columnar CO by FTIR profile retrievals at the Ground-Truthing Station Zugspitze, Atmos. Chem. Phys., 5, 1497–1503, https://doi.org/10.5194/acp-5-1497-2005, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.14291/tccon.ggg2014.garmisch01.R0/1149299</doi>
+              <unstructured_citation>Sussmann, R. and Rettinger, M.: TCCON data from Garmisch (DE), Release GGG2014R0, TCCON data archive, CaltechDATA,
+https://doi.org/10.14291/tccon.ggg2014.garmisch01.R0/1149299, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <unstructured_citation>Sussmann, R. and Rettinger, M.: TCCON data from Zugspitze (DE), Release
+GGG2014R1, TCCON data archive, CaltechDATA,
+https://doi.org/10.14291/tccon.ggg2014.zugspitze01.R1, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <unstructured_citation>TCCON (Total Carbon Column Observing Network) Data Archive: https://tccondata.org/,
+last access: 12 December 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.14291/tccon.ggg2014.paris01.R0/1149279</doi>
+              <unstructured_citation>Té, Y., Jeseck, P., and Janssen, C.: TCCON data from Paris (FR), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.paris01.R0/1149279, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.5194/acp-16-10911-2016</doi>
+              <unstructured_citation>Té, Y., Jeseck, P., Franco, B., Mahieu, E., Jones, N., Paton-Walsh, C., Griffith, D. W. T., Buchholz, R. R., Hadji-Lazaro, J., Hurtmans, D., and Janssen, C.: Seasonal variability of surface and column carbon monoxide over the megacity Paris, high-altitude Jungfraujoch and Southern Hemispheric Wollongong stations, Atmos. Chem. Phys., 16, 10911–10925, https://doi.org/10.5194/acp-16-10911-2016, 2016. a, b, c, d, e, f</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.3390/rs9121228</doi>
+              <unstructured_citation>Velazco, V., Morino, I., Uchino, O., Hori, A., Kiel, M., Bukosa, B., Deutscher, N., Sakai, T., Nagai, T., Bagtasa, G., Izumi, T., Yoshida, Y., and Griffith, D.: TCCON Philippines: First Measurement Results, Satellite Data and Model Comparisons in Southeast Asia, Remote Sensing, 9, 1228, https://doi.org/10.3390/rs9121228, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref78">
+              <doi provider="crossref">10.14291/tccon.ggg2014.orleans01.R0/1149276</doi>
+              <unstructured_citation>Warneke, T., Messerschmidt, J., Notholt, J., Weinzierl, C., Deutscher, N. M., Petri, C., Grupe, P., Vuillemin, C., Truong, F., Schmidt, M., Ramonet, M., and Parmentier, E.: TCCON data from Orléans (FR), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.orleans01.R0/1149276, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref79">
+              <doi provider="crossref">10.14291/tccon.ggg2014.parkfalls01.R0/1149161</doi>
+              <unstructured_citation>Wennberg, P. O., Roehl, C., Wunch, D., Toon, G. C., Blavier, J.-F., Washenfelder, R., Keppel-Aleks, G., Allen, N., and Ayers, J.: TCCON data from Park Falls (US), Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.parkfalls01.R0/1149161, 2014a. a</unstructured_citation>
+            </citation>
+            <citation key="ref80">
+              <doi provider="crossref">10.14291/tccon.ggg2014.pasadena01.R1/1182415</doi>
+              <unstructured_citation>Wennberg, P. O., Wunch, D., Roehl, C., Blavier, J.-F., Toon, G. C., and Allen, N.: TCCON data from Caltech (US), Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.pasadena01.R1/1182415, 2014b. a</unstructured_citation>
+            </citation>
+            <citation key="ref81">
+              <doi provider="crossref">10.14291/tccon.ggg2014.jpl01.R0/1149163</doi>
+              <unstructured_citation>Wennberg, P. O., Wunch, D., Yavin, Y., Toon, G. C., Blavier, J.-F., Allen, N., and Keppel-Aleks, G.: TCCON data from Jet Propulsion Laboratory (US), 2007, Release GGG2014R0, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.jpl01.R0/1149163, 2014c. a</unstructured_citation>
+            </citation>
+            <citation key="ref82">
+              <unstructured_citation>Wennberg, P. O., Roehl, C., Blavier, J.-F., Wunch, D., Landeros, J., and Allen, N.: TCCON data from Jet Propulsion Laboratory (US), 2011, Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.jpl02.R1/1330096, 2016a. a</unstructured_citation>
+            </citation>
+            <citation key="ref83">
+              <doi provider="crossref">10.14291/tccon.ggg2014.lamont01.R1/1255070</doi>
+              <unstructured_citation>Wennberg, P. O., Wunch, D., Roehl, C., Blavier, J.-F., Toon, G. C., Allen, N., Dowell, P., Teske, K., Martin, C., and Martin, J.: TCCON data from Lamont (US), Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.lamont01.R1/1255070, 2016b. a</unstructured_citation>
+            </citation>
+            <citation key="ref84">
+              <doi provider="crossref">10.5194/amt-3-1351-2010</doi>
+              <unstructured_citation>Wunch, D., Toon, G. C., Wennberg, P. O., Wofsy, S. C., Stephens, B. B., Fischer, M. L., Uchino, O., Abshire, J. B., Bernath, P., Biraud, S. C., Blavier, J.-F. L., Boone, C., Bowman, K. P., Browell, E. V., Campos, T., Connor, B. J., Daube, B. C., Deutscher, N. M., Diao, M., Elkins, J. W., Gerbig, C., Gottlieb, E., Griffith, D. W. T., Hurst, D. F., Jiménez, R., Keppel-Aleks, G., Kort, E. A., Macatangay, R., Machida, T., Matsueda, H., Moore, F., Morino, I., Park, S., Robinson, J., Roehl, C. M., Sawa, Y., Sherlock, V., Sweeney, C., Tanaka, T., and Zondlo, M. A.: Calibration of the Total Carbon Column Observing Network using aircraft profile data, Atmos. Meas. Tech., 3, 1351–1362, https://doi.org/10.5194/amt-3-1351-2010, 2010. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref85">
+              <doi provider="crossref">10.1098/rsta.2010.0240</doi>
+              <unstructured_citation>Wunch, D., Toon, G. C., Blavier, J.-F. L., Washenfelder, R. A., Notholt, J., Connor, B. J., Griffith, D. W. T., Sherlock, V., and Wennberg, P. O.: The Total Carbon Column Observing Network, Philos. T. Roy. Soc. A, 369, 2087–2112, https://doi.org/10.1098/rsta.2010.0240, 2011a. a</unstructured_citation>
+            </citation>
+            <citation key="ref86">
+              <doi provider="crossref">10.5194/acp-11-12317-2011</doi>
+              <unstructured_citation>Wunch, D., Wennberg, P. O., Toon, G. C., Connor, B. J., Fisher, B., Osterman, G. B., Frankenberg, C., Mandrake, L., O'Dell, C., Ahonen, P., Biraud, S. C., Castano, R., Cressie, N., Crisp, D., Deutscher, N. M., Eldering, A., Fisher, M. L., Griffith, D. W. T., Gunson, M., Heikkinen, P., Keppel-Aleks, G., Kyrö, E., Lindenmaier, R., Macatangay, R., Mendonca, J., Messerschmidt, J., Miller, C. E., Morino, I., Notholt, J., Oyafuso, F. A., Rettinger, M., Robinson, J., Roehl, C. M., Salawitch, R. J., Sherlock, V., Strong, K., Sussmann, R., Tanaka, T., Thompson, D. R., Uchino, O., Warneke, T., and Wofsy, S. C.: A method for evaluating bias in global measurements of CO2 total columns from space, Atmos. Chem. Phys., 11, 12317–12337, https://doi.org/10.5194/acp-11-12317-2011, 2011b. a, b, c, d, e, f, g, h</unstructured_citation>
+            </citation>
+            <citation key="ref87">
+              <unstructured_citation>Wunch, D., Toon, G. C., Sherlock, V., Deutscher, N. M., Liu, C., Feist, D. G., and Wennberg, P. O.: The Total Carbon Column Observing Network's GGG2014 Data Version, Tech. rep., California Institute of Technology, Pasadena, CA, https://doi.org/10.14291/tccon.ggg2014.documentation.R0/1221662, 2015. a, b, c, d, e, f, g</unstructured_citation>
+            </citation>
+            <citation key="ref88">
+              <unstructured_citation>Wunch, D., Mendonca, J., Colebatch, O., Allen, N., Blavier, J.-F. L., Roche, S., Hedelius, J. K., Neufeld, G., Springett, S., Worthy, D. E. J., Kessler, R., and Strong, K.: TCCON data from East Trout Lake (CA), Release GGG2014R1, TCCON data archive, CaltechDATA, https://doi.org/10.14291/tccon.ggg2014.easttroutlake01.R1, 2017a. a</unstructured_citation>
+            </citation>
+            <citation key="ref89">
+              <doi provider="crossref">10.5194/amt-10-2209-2017</doi>
+              <unstructured_citation>Wunch, D., Wennberg, P. O., Osterman, G., Fisher, B., Naylor, B., Roehl, C. M., O'Dell, C., Mandrake, L., Viatte, C., Kiel, M., Griffith, D. W. T., Deutscher, N. M., Velazco, V. A., Notholt, J., Warneke, T., Petri, C., De Maziere, M., Sha, M. K., Sussmann, R., Rettinger, M., Pollard, D., Robinson, J., Morino, I., Uchino, O., Hase, F., Blumenstock, T., Feist, D. G., Arnold, S. G., Strong, K., Mendonca, J., Kivi, R., Heikkinen, P., Iraci, L., Podolske, J., Hillyard, P. W., Kawakami, S., Dubey, M. K., Parker, H. A., Sepulveda, E., García, O. E., Te, Y., Jeseck, P., Gunson, M. R., Crisp, D., and Eldering, A.: Comparisons of the Orbiting Carbon Observatory-2 (OCO-2) XCO2 measurements with TCCON, Atmos. Meas. Tech., 10, 2209–2238, https://doi.org/10.5194/amt-10-2209-2017, 2017b.
+ a</unstructured_citation>
+            </citation>
+            <citation key="ref90">
+              <doi provider="crossref">10.1029/2002GB001952</doi>
+              <unstructured_citation>Yevich, R. and Logan, J. A.: An assessment of biofuel use and burning of agricultural waste in the developing world, Global Biogeochem. Cy., 17, 1095, https://doi.org/10.1029/2002gb001952, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref91">
+              <doi provider="crossref">10.1119/1.1632486</doi>
+              <unstructured_citation>York, D., Evensen, N. M., Martinez, M. L., and De Basabe Delgado, J.: Unified equations for the slope, intercept, and standard errors of the best straight line, Am. J. Phys., 72, 367–375, https://doi.org/10.1119/1.1632486, 2004. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref92">
+              <doi provider="crossref">10.5194/acp-9-5131-2009</doi>
+              <unstructured_citation>Zhang, Q., Streets, D. G., Carmichael, G. R., He, K. B., Huo, H., Kannari, A., Klimont, Z., Park, I. S., Reddy, S., Fu, J. S., Chen, D., Duan, L., Lei, Y., Wang, L. T., and Yao, Z. L.: Asian emissions in 2006 for the NASA INTEX-B mission, Atmos. Chem. Phys., 9, 5131–5153, https://doi.org/10.5194/acp-9-5131-2009, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref93">
+              <doi provider="crossref">10.1002/2015JD023499</doi>
+              <unstructured_citation>Zhang, Q., Natraj, V., Li, K.-F., Shia, R.-L., Fu, D., Pongetti, T. J., Sander, S. P., Roehl, C. M., and Yung, Y. L.: Accounting for aerosol scattering in the CLARS retrieval of column averaged CO2 mixing ratios, J. Geophys. Res.-Atmos., 120, 7205–7218, https://doi.org/10.1002/2015JD023499, 2015. a</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/amt-12-5547-2019-supplement</doi>
+                <resource>https://www.atmos-meas-tech.net/12/5547/2019/amt-12-5547-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-06-25 09:09:08">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>23</volume>
+          </journal_volume>
+          <issue>6</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Assessing the added value of the Intermediate Complexity Atmospheric Research (ICAR) model for precipitation in complex topography</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Johannes</given_name>
+              <surname>Horak</surname>
+              <ORCID>https://orcid.org/0000-0001-9992-3013</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Marlis</given_name>
+              <surname>Hofer</surname>
+              <ORCID>https://orcid.org/0000-0002-4678-0642</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Fabien</given_name>
+              <surname>Maussion</surname>
+              <ORCID>https://orcid.org/0000-0002-3211-506X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ethan</given_name>
+              <surname>Gutmann</surname>
+              <ORCID>https://orcid.org/0000-0003-4077-3430</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alexander</given_name>
+              <surname>Gohm</surname>
+              <ORCID>https://orcid.org/0000-0003-4505-585X</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mathias W.</given_name>
+              <surname>Rotach</surname>
+              <ORCID>https://orcid.org/0000-0003-2283-309X</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The coarse grid spacing of global circulation models necessitates the application of downscaling techniques to investigate the local impact of a changing global climate. Difficulties arise for data-sparse regions in complex topography, as they are computationally demanding for dynamic downscaling and often not suitable for statistical downscaling due to the lack of high-quality observational data. The Intermediate Complexity Atmospheric Research (ICAR) model is a physics-based model that can be applied without relying on measurements for training and is computationally more efficient than dynamic downscaling models. This study presents the first in-depth evaluation of multiyear precipitation time series generated with ICAR on a <span class="inline-formula">4×4 km<sup>2</sup></span> grid for the South Island of New Zealand for an 11-year period, ranging from <span class="inline-formula">2007</span> to <span class="inline-formula">2017</span>. It focuses on complex topography and evaluates ICAR at <span class="inline-formula">16</span> weather stations, 11 of which are situated in the Southern Alps between <span class="inline-formula">700</span> and <span class="inline-formula"><math xmlns="http://www.w3.org/1998/Math/MathML" id="M6" display="inline" overflow="scroll" dspmath="mathml"><mrow><mn mathvariant="normal">2150</mn><mspace linebreak="nobreak" width="0.125em"/><mrow class="unit"><mi mathvariant="normal">m</mi><mspace width="0.125em" linebreak="nobreak"/><mi mathvariant="normal">m</mi><mo>.</mo><mi mathvariant="normal">s</mi><mo>.</mo><mi mathvariant="normal">l</mi></mrow></mrow></math><span><svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="61pt" height="10pt" class="svg-formula" dspmath="mathimg" md5hash="bccda4f3ebd8779f3fffbd3c5ab68286"><svg:image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="hess-23-2715-2019-ie00001.svg" width="61pt" height="10pt" src="hess-23-2715-2019-ie00001.png"/></svg:svg></span></span> (m&amp;thinsp;m.s.l refers to meters above mean sea level). ICAR is assessed with standard skill scores, and the effect of model top elevation, topography, season, atmospheric background state and synoptic weather patterns on these scores are investigated. The results show a strong dependence of ICAR skill on the choice of the model top elevation, with the highest scores obtained for <span class="inline-formula">4 km</span> above topography. Furthermore, ICAR is found to provide added value over its ERA-Interim reanalysis forcing data set for alpine weather stations, improving the median of mean squared errors (MSEs) by <span class="inline-formula">30 %</span> and up to <span class="inline-formula">53 %</span>. It performs similarly during all seasons with a MSE minimum during winter, while flow linearity and atmospheric stability are found to increase skill scores. ICAR scores are highest during weather patterns associated with flow perpendicular to the Southern Alps and lowest for flow parallel to the alpine range. While measured precipitation is underestimated by ICAR, these results show the skill of ICAR in a real-world application, and may be improved upon by further observational calibration or bias correction techniques. Based on these findings ICAR shows the potential to generate downscaled fields for long-term impact studies in data-sparse regions with complex topography.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>25</day>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>2715</first_page>
+            <last_page>2734</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Austrian Science Fund
+                <assertion name="funder_identifier" provider="crossref">501100002428</assertion>
+              </assertion>
+              <assertion name="award_number">28006-N32</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Data sets</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5281/zenodo.1135131</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-23-2715-2019</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/23/2715/2019/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/23/2715/2019/hess-23-2715-2019.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Amante, C. and Eakins, B. W.: ETOPO1 1 Arc-Minute Global Relief
+Model: Procedures, Data Sources and Analysis, US Department of
+Commerce, National Oceanic and Atmospheric Administration, National
+Environmental Satellite, Data, and Information Service, National Geophysical
+Data Center, Marine Geology and Geophysics Division Colorado, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Barrell, D., Andersen, B., and Denton, G.: Glacial Geomorphology
+of the Central South Island, New Zealand, GNS Science Monograph, GNS
+Science, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1111/j.1600-0870.2006.00152.x</doi>
+              <unstructured_citation>Barstad, I. and Grønås, S.: Dynamical structures for southwesterly
+airflow over southern Norway: the role of dissipation, Tellus A, 58, 2–18,
+https://doi.org/10.1111/j.1600-0870.2006.00152.x, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/JAS-D-10-05016.1</doi>
+              <unstructured_citation>Barstad, I. and Schüller, F.: An Extension of Smith's Linear Theory of
+Orographic Precipitation: Introduction of Vertical Layers*, J.
+Atmos. Sci., 68, 2695–2709, https://doi.org/10.1175/JAS-D-10-05016.1, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1142/6908</doi>
+              <unstructured_citation>Benestad, R. E., Hanssen-Bauer, I., and Chen, D.: Empirical-Statistical
+Downscaling, World Scientific, p. 22, https://doi.org/10.1142/6908, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1007/s00506-018-0510-8</doi>
+              <unstructured_citation>Bernhardt, M., Härer, S., Feigl, M., and Schulz, K.: Der Wert Alpiner
+Forschungseinzugsgebiete im Bereich der Fernerkundung, der
+Schneedeckenmodellierung und der lokalen Klimamodellierung,
+Österreichische Wasser- und Abfallwirtschaft,
+https://doi.org/10.1007/s00506-018-0510-8, 2018. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <unstructured_citation>Chater, A. M. and Sturman, A. P.: Atmospheric Conditions Influencing the
+Spillover of Rainfall to Lee of the Southern Alps, New Zealand,
+International J. Climatol., 18, 77–92,
+https://doi.org/10.1002/(SICI)1097-0088(199801)18:1&amp;amp;lt;77::AID-JOC218&amp;amp;gt;3.0.CO;2-M, 1998. a</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Chinn, T.: Distribution of the Glacial Water Resources of New
+Zealand, J. Hydrol. (New Zealand), 40, 139–187, 2001. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Christensen, J. H., Hewitson, B., Busuioc, A., Chen, A., Gao, X., Held, I.,
+Jones, R., Kolli, R. K., Kwon, W.-T., Laprise, R., Rueda, M., Mearns, V.,
+Menéndez, L., G, C., Räisänen, J., Rinke, A., Sarr, A., and Whetton, P.:
+Regional Climate Projections, in: Climate Change 2007: The
+Physical Science Basis, Contribution of Working Group I to the
+Fourth Assessment Report of the Intergovernmental Panel on
+Climate Change, edited by: Solomon, S., Qin, D., Manning, M., Chen, Z.,
+Marquis, M., Averyt, K. B., Tignor, M., and Miller, H. L., Cambridge
+University Press, Cambridge, United Kingdom and New York, NY, USA, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.3189/2015JoG15J004</doi>
+              <unstructured_citation>Cullen, N. J. and Conway, J. P.: A 22 Month Record of Surface
+Meteorology and Energy Balance from the Ablation Zone of Brewster
+Glacier, New Zealand, J. Glaciol., 61, 931–946,
+https://doi.org/10.3189/2015JoG15J004, 2015. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/qj.828</doi>
+              <unstructured_citation>Dee, D. P., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P., Kobayashi, S., Andrae, U., Balmaseda, M. A., Balsamo, G., Bauer, P., Bechtold, P., Beljaars, A. C., van de Berg, L., Bidlot, J., Bormann, N., Delsol, C., Dragani, R., Fuentes, M., Geer, A. J., Haimberger, L., Healy, S. B., Hersbach, H., Hølm, E. V., Isaksen, L., Kållberg, P., Köhler, M., Matricardi, M., McNally, A. P., Monge-Sanz, B. M., Morcrette, J., Park, B., Peubey, C., de Rosnay, P., Tavolato, C., Thépaut, J., and Vitart, F.: The ERA-Interim
+reanalysis: Configuration and performance of the data assimilation system,
+Q. J. Roy. Meteorol. Soc., 137, 553–597,
+https://doi.org/10.1002/qj.828, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1007/s40641-015-0003-9</doi>
+              <unstructured_citation>Di Luca, A., de Elía, R., and Laprise, R.: Challenges in the quest for
+added value of regional climate dynamical downscaling, Current Climate Change Reports, 1, 10–21, https://doi.org/10.1007/s40641-015-0003-9, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1002/met.25</doi>
+              <unstructured_citation>Ebert, E. E.: Fuzzy verification of high-resolution gridded forecasts: a review
+and proposed framework, Meteorol. Appl., 15, 51–64, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/2009WAF2222251.1</doi>
+              <unstructured_citation>Ebert, E. E.: Neighborhood Verification: A Strategy for Rewarding Close
+Forecasts, Weather Forecast., 24, 1498–1510,
+https://doi.org/10.1175/2009WAF2222251.1, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Emanuel, K. A.: Atmospheric Convection, Oxford University Press, New York, 1994. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1017/aog.2017.13</doi>
+              <unstructured_citation>Engelhardt, M., Leclercq, P., Eidhammer, T., Kumar, P., Landgren, O., and
+Rasmussen, R.: Meltwater runoff in a changing climate (1951–2099) at Chhota
+Shigri Glacier, Western Himalaya, Northern India, Ann. Glaciol., 58,
+1–12, https://doi.org/10.1017/aog.2017.13, 2017. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1029/2005EO120002</doi>
+              <unstructured_citation>Georgakakos, K., Graham, N., Carpenter, T., and Yao, H.: Integrating
+climate-hydrology forecasts and multi-objective reservoir management for
+northern California, EOS T. Am. Geophys. Un., 86,
+122–127, https://doi.org/10.1029/2005EO120002, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Goodison, B., Sevruk, B., and Klemm, S.: WMO solid precipitation measurement
+intercomparison: Objectives, methodology, analysis, Atmos. Depos, 179,
+57–64, 1989. a</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Griffiths, G. A. and McSaveney, M.: Distribution of mean annual precipitation
+across some steepland regions of New Zealand, New Zeal. J.
+Sci., 26, 197–209, 1983. a</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1007/BF01095163</doi>
+              <unstructured_citation>Groisman, P. Y. and Legates, D. R.: Documenting and detecting long-term
+precipitation trends: Where we are and what should be done, Climatic Change,
+31, 601–622, https://doi.org/10.1007/BF01095163, 1995. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Guo, Y. and Chen, S.: Terrain and land use for the fifth-generation Penn
+State/NCAR Mesoscale Modeling System (MM5): Program TERRAIN, Tech. rep.,
+NCAR, https://doi.org/10.5065/D68C9T67, 1994. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1175/JHM-D-15-0155.1</doi>
+              <unstructured_citation>Gutmann, E., Barstad, I., Clark, M., Arnold, J., and Rasmussen, R.: The
+Intermediate Complexity Atmospheric Research Model (ICAR), J.
+Hydrometeorol., 17, 957–973, https://doi.org/10.1175/JHM-D-15-0155.1, 2016. a, b, c, d, e, f, g, h, i, j, k, l</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1175/2011JCLI4109.1</doi>
+              <unstructured_citation>Gutmann, E. D., Rasmussen, R. M., Liu, C., Ikeda, K., Gochis, D. J., Clark,
+M. P., Dudhia, J., and Thompson, G.: A Comparison of Statistical and
+Dynamical Downscaling of Winter Precipitation over Complex Terrain, J.
+Climate, 25, 262–281, https://doi.org/10.1175/2011JCLI4109.1, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <unstructured_citation>Henderson, R. and Thompson, S.: Extreme rainfalls in the Southern Alps of New
+Zealand, J. Hydrol. (New Zealand), 38, 309–330, 1999. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Hill, G.: Grid telescoping in numerical weather prediction, J. Appl.
+Meteorol., 7, 29–38,
+https://doi.org/10.1175/1520-0450(1968)007&amp;amp;lt;0029:GTINWP&amp;amp;gt;2.0.CO;2, 1968. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Horak, J., Hofer, M., Maussion, F., Gutmann, E., Gohm, A., and Rotach, M. W.:
+Dataset – Assessing the Added Value of the Intermediate Complexity
+Atmospheric Research Model (ICAR) for Precipitation in Complex Topography,
+https://doi.org/10.5281/zenodo.1135131, 2019. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5334/jors.148</doi>
+              <unstructured_citation>Hoyer, S. and Hamman, J.: xarray: ND labeled Arrays and Datasets in Python,
+Journal of Open Research Software, 5, p. 10, https://doi.org/10.5334/jors.148, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1109/MCSE.2007.55</doi>
+              <unstructured_citation>Hunter, J. D.: Matplotlib: A 2D Graphics Environment, Comput. Sci.
+Eng., 9, 90–95, https://doi.org/10.1109/MCSE.2007.55, 2007. a</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1007/s00382-010-0949-1</doi>
+              <unstructured_citation>Jarosch, A. H., Anslow, F. S., and Clarke, G. K.: High-resolution precipitation
+and temperature downscaling for glacier models, Clim. Dynam., 38,
+391–409, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., Reynolds, R., Jenne, R., and Joseph, D.: The NCEP/NCAR 40-year
+reanalysis project, B. Am. Meteorol. Soc., 77,
+437–471, https://doi.org/10.1175/1520-0477(1996)077&amp;amp;lt;0437:TNYRP&amp;amp;gt;2.0.CO;2, 1996. a</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <unstructured_citation>Kerr, T., Owens, I., and Henderson, R.: The precipitation distribution in the
+Lake Pukaki Catchment, J. Hydrol. (New Zealand), 50, 361–382,
+2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1002/joc.3370140702</doi>
+              <unstructured_citation>Kidson, J. W.: An automated procedure for the identification of synoptic types
+applied to the New Zealand region, Int. J. Climatol., 14,
+711–721, https://doi.org/10.1002/joc.3370140702, 1994a. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/joc.3370140703</doi>
+              <unstructured_citation>Kidson, J. W.: Relationship of New Zealand daily and monthly weather patterns
+to synoptic weather types, Int. J. Climatol., 14,
+723–737, https://doi.org/10.1002/joc.3370140703, 1994b. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <unstructured_citation>Kidson, J. W.: An analysis of New Zealand synoptic types and their use in
+defining weather regimes, Int. J. Climatol., 20, 299–316,
+https://doi.org/10.1002/(SICI)1097-0088(20000315)20:3&amp;amp;lt;299::AID-JOC474&amp;amp;gt;3.0.CO;2-B, 2000. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <unstructured_citation>Klein, W. H., Lewis, B. M., and Enger, I.: Objective Prediction of Five-Day
+Mean Temperatures During Winter, J. Meteorol., 16, 672–682,
+https://doi.org/10.1175/1520-0469(1959)016&amp;amp;lt;0672:OPOFDM&amp;amp;gt;2.0.CO;2, 1959. a</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1175/JCLI-D-12-00821.1</doi>
+              <unstructured_citation>Maraun, D.: Bias correction, quantile mapping, and downscaling: Revisiting the
+inflation issue, J. Climate, 26, 2137–2143,
+https://doi.org/10.1175/JCLI-D-12-00821.1, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <unstructured_citation>Maussion, F., Siller, M., Rothenberg, D., Roth, T., Dusch, M., and Landmann,
+J.: fmaussion/salem: v0. 2.4, Zenodo,
+https://doi.org/10.5281/zenodo.2605265, 2019. a</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <unstructured_citation>McKinney, W.: Data structures for statistical computing in python, in:
+Proceedings of the 9th Python in Science Conference, vol. 445, 51–56,
+Austin, TX, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.1175/BAMS-87-3-343</doi>
+              <unstructured_citation>Mesinger, F., DiMego, G., Kalnay, E., Mitchell, K., Shafran, P. C., Ebisuzaki, W., Jović, D., Woollen, J., Rogers, E., Berbery, E. H., Ek,
+M. B., Fan, Y., Grumbine, R., Higgins, W., Li, H., Lin, Y., Manikin, G., Parrish, D., and Shi, W.: North
+American regional reanalysis, B. Am. Meteorol.
+Soc., 87, 343–360, https://doi.org/10.1175/BAMS-87-3-343, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <unstructured_citation>Met Office: Cartopy: a cartographic python library with a Matplotlib
+interface, Exeter, Devon, available at: http://scitools.org.uk/cartopy (last access: 18 June 2019),
+2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <doi provider="crossref">10.1016/B978-0-12-385223-6.00002-1</doi>
+              <unstructured_citation>Nappo, C. J.: The Linear Theory, in: An Introduction to Atmospheric Gravity
+Waves, edited by: Nappo, C. J., vol. 102 of International Geophysics,
+29–56, Academic Press, https://doi.org/10.1016/B978-0-12-385223-6.00002-1, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <doi provider="crossref">10.1002/qj.3080</doi>
+              <unstructured_citation>Paeth, H., Pollinger, F., Mächel, H., Figura, C., Wahl, S., Ohlwein, C.,
+and Hense, A.: An efficient model approach for very high resolution
+orographic precipitation, Q. J.e Royal Meteor.
+Soc., 143, 2221–2234, https://doi.org/10.1002/qj.3080, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.1038/nclimate2563</doi>
+              <unstructured_citation>Pepin, N., Bradley, R. S., Diaz, H. F., Baraer, M., Caceres, E. B., Forsythe, N., Fowler, H., Greenwood, G., Hashmi, M. Z., Liu, X. D., Miller, J. R., Ning, L., Ohmura, A., Palazzi, E., Rangwala, I., Schöner, W., Severskiy, I., Shahgedanova, M., Wang, M. B., Williamson, S. N., and Yang, D. Q.: Elevation-dependent
+warming in mountain regions of the world, Nat. Clim. Change, 5, 424–430,
+https://doi.org/10.1038/nclimate2563, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1017/S1350482703001087</doi>
+              <unstructured_citation>Purdy, J. and Austin, G.: The role of synoptic cloud in orographic rainfall in
+the Southern Alps of New Zealand, Meteorol. Appl., 10, 355–365,
+https://doi.org/10.1017/S1350482703001087, 2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.5194/tc-3-183-2009</doi>
+              <unstructured_citation>Raper, S. C. B. and Braithwaite, R. J.: Glacier volume response time and its links to climate and topography based on a conceptual model of glacier hypsometry, The Cryosphere, 3, 183–194, https://doi.org/10.5194/tc-3-183-2009, 2009. a</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.1175/JHM-D-13-0118.1</doi>
+              <unstructured_citation>Rasmussen, R., Ikeda, K., Liu, C., Gochis, D., Clark, M., Dai, A., Gutmann, E., Dudhia, J., Chen, F., Barlage, M., Yates, D., and Zhang, G.: Climate change impacts on the
+water balance of the Colorado headwaters: high-resolution regional climate
+model simulations, J. Hydrometeorol., 15, 1091–1116,
+https://doi.org/10.1175/JHM-D-13-0118.1, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1175/2007JAS2100.1</doi>
+              <unstructured_citation>Reinecke, P. A. and Durran, D. R.: Estimating topographic blocking using a
+Froude number when the static stability is nonuniform, J.
+Atmos. Sci., 65, 1035–1048, https://doi.org/10.1175/2007JAS2100.1, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <unstructured_citation>Rhea, J. O.: Orographic Precipitation Model for Hydrometeorological Use,
+PhD thesis, Colorado State University, Fort Collins, Colorado, USA, 1977. a</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.3389/feart.2018.00020</doi>
+              <unstructured_citation>Roth, A., Hock, R., Schuler, T. V., Bieniek, P. A., Pelto, M., and Aschwanden,
+A.: Modeling winter precipitation over the Juneau Icefield, Alaska, using a
+linear model of orographic precipitation, Front. Earth Sci., 6, 20,
+https://doi.org/10.3389/feart.2018.00020, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <unstructured_citation>Sarker, R.: A dynamical model of orographic rainfall, Mon. Weather
+Rev., 94, 555–572, https://doi.org/10.1175/1520-0493(1966)094&amp;amp;lt;0555:ADMOOR&amp;amp;gt;2.3.CO;2,
+1966. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.1002/qj.49708837805</doi>
+              <unstructured_citation>Sawyer, J.: Gravity waves in the atmosphere as a three-dimensional problem,
+Q. J. Roy. Meteor. Soc., 88, 412–425,
+https://doi.org/10.1002/qj.49708837805, 1962. a</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.1175/JAS-D-14-0200.1</doi>
+              <unstructured_citation>Siler, N. and Durran, D.: Assessing the Impact of the Tropopause on Mountain
+Waves and Orographic Precipitation Using Linear Theory and Numerical
+Simulations, J. Atmos. Sci., 72, 803–820,
+https://doi.org/10.1175/JAS-D-14-0200.1, 2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1016/S0065-2687(08)60262-9</doi>
+              <unstructured_citation>Smith, R. B.: The influence of mountains on the atmosphere, Adv.
+Geophys., 21, 87–230, https://doi.org/10.1016/S0065-2687(08)60262-9, 1979. a</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.3402/tellusa.v32i4.10590</doi>
+              <unstructured_citation>Smith, R. B.: Linear theory of stratified hydrostatic flow past an isolated
+mountain, Tellus, 32, 348–364, https://doi.org/10.3402/tellusa.v32i4.10590, 1980. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.1175/1520-0469(2004)061&lt;1377:ALTOOP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Smith, R. B. and Barstad, I.: A Linear Theory of Orographic Precipitation,
+J. Atmos. Sci., 61, 1377–1391, 2004. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.1659/0276-4741(2001)021[0359:ACROTW]2.0.CO;2</doi>
+              <unstructured_citation>Sturman, A. and Wanner, H.: A comparative review of the weather and climate of
+the Southern Alps of New Zealand and the European Alps, Mt. Res.
+Dev., 21, 359–369, 2001. a</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.1175/JAM2279.1</doi>
+              <unstructured_citation>Tait, A. and Turner, R.: Generating multiyear gridded daily rainfall over New
+Zealand, J. Appl. Meteorol., 44, 1315–1323,
+https://doi.org/10.1175/JAM2279.1, 2005. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <unstructured_citation>Tait, A., Sturman, J., and Clark, M.: An assessment of the accuracy of
+interpolated daily rainfall for New Zealand, J. Hydrol. (New
+Zealand), 51, 25–44, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1017/S1350482705001763</doi>
+              <unstructured_citation>Theis, S. E., Hense, A., and Damrath, U.: Probabilistic precipitation forecasts
+from a deterministic model: a pragmatic approach, Meteorol.
+Appl., 12, 257–268, https://doi.org/10.1017/S1350482705001763, 2005. a</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1175/2008MWR2387.1</doi>
+              <unstructured_citation>Thompson, G., Field, P. R., Rasmussen, R. M., and Hall, W. D.: Explicit
+forecasts of winter precipitation using an improved bulk microphysics scheme.
+Part II: Implementation of a new snow parameterization, Mon. Weather
+Rev., 136, 5095–5115, https://doi.org/10.1175/2008MWR2387.1, 2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1002/2014JD022781</doi>
+              <unstructured_citation>Torma, C., Giogi, F., and Coppola, E.: Added value of regional climate
+modeling over areas characterized by complex terrain—Precipitation over the
+Alps, J. Geophys. Res.-Atmos., 120, 3957–3972,
+https://doi.org/10.1002/2014JD022781, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1109/MCSE.2011.37</doi>
+              <unstructured_citation>van der Walt, S., Colbert, S. C., and Varoquaux, G.: The NumPy Array: A
+Structure for Efficient Numerical Computation, Comput. Sci.
+Eng., 13, 22–30, https://doi.org/10.1109/MCSE.2011.37, 2011.
+ a</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <doi provider="crossref">10.3189/2013JoG13J046</doi>
+              <unstructured_citation>Weidemann, S., Sauter, T., Schneider, L., and Schneider, C.: Impact of two
+conceptual precipitation downscaling schemes on mass-balance modeling of Gran
+Campo Nevado ice cap, Patagonia, J. Glaciol., 59, 1106–1116,
+https://doi.org/10.3189/2013JoG13J046, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <doi provider="crossref">10.1016/B978-0-12-385022-5.00005-1</doi>
+              <unstructured_citation>Wilks, D.: Chap. 5 – Frequentist Statistical Inference, in: Statistical
+Methods in the Atmospheric Sciences, edited by: Wilks, D. S., vol. 100 of International Geophysics, 133–186, Academic Press,
+https://doi.org/10.1016/B978-0-12-385022-5.00005-1, 2011a. a</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <unstructured_citation>Wilks, D. S.: Statistical Methods in the Atmospheric Sciences, vol. 100
+of International Geophysics, Academic Press, 2011b. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <unstructured_citation>Yang, D. and Ohata, T.: A bias-corrected Siberian regional precipitation
+climatology, J. Hydrometeorol., 2, 122–139,
+https://doi.org/10.1175/1525-7541(2001)002&amp;amp;lt;0122:ABCSRP&amp;amp;gt;2.0.CO;2, 2001. a</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <doi provider="crossref">10.1029/1998JD200110</doi>
+              <unstructured_citation>Yang, D., Ishida, S., Goodison, B. E., and Gunther, T.: Bias correction of
+daily precipitation measurements for Greenland, J. Geophys.
+Res.-Atmos., 104, 6171–6181, https://doi.org/10.1029/1998JD200110, 1999. a</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/hess-23-2715-2019-supplement</doi>
+                <resource>https://www.hydrol-earth-syst-sci.net/23/2715/2019/hess-23-2715-2019-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

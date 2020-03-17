@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-14 20:13:58">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>On the sensitivity of 3-D thermal convection codes to numerical discretization: a model intercomparison</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>P.-A</given_name>
+              <surname>Arrial</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>N.</given_name>
+              <surname>Flyer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>G. B.</given_name>
+              <surname>Wright</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>L. H.</given_name>
+              <surname>Kellogg</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Fully 3-D numerical simulations of thermal convection in a spherical shell have become a standard for studying the dynamics of pattern formation and its stability under perturbations to various parameter values. The question arises as to how the discretization of the governing equations affects the outcome and thus any physical interpretation. This work demonstrates the impact of numerical discretization on the observed patterns, the value at which symmetry is broken, and how stability and stationary behavior is dependent upon it. Motivated by numerical simulations of convection in the Earth's mantle, we consider isoviscous Rayleigh–Bénard convection at infinite Prandtl number, where the aspect ratio between the inner and outer shell is 0.55. We show that the subtleties involved in developing mantle convection models are considerably more delicate than has been previously appreciated, due to the rich dynamical behavior of the system. Two codes with different numerical discretization schemes – an established, community-developed, and benchmarked finite-element code (CitcomS) and a novel spectral method that combines Chebyshev polynomials with radial basis functions (RBFs) – are compared. A full numerical study is investigated for the following three cases. The first case is based on the cubic (or octahedral) initial condition (spherical harmonics of degree &amp;ell; = 4). How this pattern varies to perturbations in the initial condition and Rayleigh number is studied. The second case investigates the stability of the dodecahedral (or icosahedral) initial condition (spherical harmonics of degree &amp;ell; = 6). Although both methods first converge to the same pattern, this structure is ultimately unstable and systematically degenerates to cubic or tetrahedral symmetries, depending on the code used. Lastly, a new steady-state pattern is presented as a combination of third- and fourth-order spherical harmonics leading to a five-cell or hexahedral pattern and stable up to 70 times the critical Rayleigh number. This pattern can provide the basis for a new accuracy benchmark for 3-D spherical mantle convection codes.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>09</month>
+            <day>15</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>2065</first_page>
+            <last_page>2076</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+              </assertion>
+              <assertion name="award_number">DMS-0934317</assertion>
+              <assertion name="award_number">DMS-094581</assertion>
+              <assertion name="award_number">DMS-0934330</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-7-2065-2014</doi>
+            <resource>https://www.geosci-model-dev.net/7/2065/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/7/2065/2014/gmd-7-2065-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1017/S0022112089002235</doi>
+              <unstructured_citation>Bercovici, D., Schubert, G., Glatzmaier, G. A., and Zebib, A.: Three-dimensional thermal convection in a spherical shell, J. Fluid Mech., 206, 75–104, https://doi.org/10.1017/S0022112089002235, 1989.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1080/03091929108229041</doi>
+              <unstructured_citation>Bercovici, D., Schubert, G., and Glatzmaier, G. A.: Modal growth and coupling in 3-Dimensional spherical convection, Geophys. Astrophys. Fluid Dyn., 61, 149–159, https://doi.org/10.1080/03091929108229041, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <unstructured_citation>Brooks, A. N.: A Petrov-Galerkin Finite Element Formulation for Convection Dominated Flows, Ph.D. thesis, Cali. Inst. of Technol., Pasadena, 1981.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1017/S0022112075002947</doi>
+              <unstructured_citation>Busse, F. H.: Patterns of Convection in Spherical Shells, J. Fluid Mech., 72, 67–85, https://doi.org/10.1017/S0022112075002947, 1975.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1017/S0022112082003061</doi>
+              <unstructured_citation>Busse, F. H. and Riahi, N.: Patterns of Convection in Spherical Shells 2., J. Fluid Mech., 123, 283–301, https://doi.org/10.1017/S0022112082003061, 1982.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1088/0951-7715/1/2/004</doi>
+              <unstructured_citation>Busse, F. H. and Riahi, N.: Mixed-mode patterns of bifurcations from spherically symmetric basic states, Nonlinearity, 1, 379, https://doi.org/10.1088/0951-7715/1/2/004, 1988.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1111/j.1365-246X.2007.03419.x</doi>
+              <unstructured_citation>Choblet, G., \\v Cadek, O., Couturier, F., and Dumoulin, C.: ÖDIPUS: a new tool to study the dynamics of planetary interiors, Geophys. J. Int., 170, 9–30, https://doi.org/10.1111/j.1365-246X.2007.03419.x, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Chossat, P. and Beltrame, P.: Onset of intermittent octahedral patterns in spherical Bénard convection, arXiv:0912.3709, 40 pp., 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1137/110827600</doi>
+              <unstructured_citation>Elman, H., Meerbergen, K., Spence, A., and Wu, M.: Lyapunov Inverse Iteration for Identifying Hopf Bifurcations in Models of Incompressible Flow, SIAM J. Sci. Comput., 34, A1584–A1606, https://doi.org/10.1137/110827600, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1103/PhysRevE.83.046304</doi>
+              <unstructured_citation>Feudel, F., Bergemann, K., Tuckerman, L., Egbers, C., Futterer, B., Gellert, M., and Hollerbach, R.: Convection patterns in a spherical fluid shell, Phys. Rew. E, 83, 046304, https://doi.org/10.1103/PhysRevE.83.046304, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1016/j.compfluid.2010.08.005</doi>
+              <unstructured_citation>Flyer, N. and Fornberg, B.: Radial basis functions: Developments and applications to planetary scale flows, Comput. Fluids, 46, 23–32, https://doi.org/10.1016/j.compfluid.2010.08.005, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1016/j.jcp.2007.05.009</doi>
+              <unstructured_citation>Flyer, N. and Wright, G. B.: Transport schemes on a sphere using radial basis functions, J. Comput. Phys., 226, 1059–1084, https://doi.org/10.1016/j.jcp.2007.05.009, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.1098/rspa.2009.0033</doi>
+              <unstructured_citation>Flyer, N. and Wright, G. B.: A radial basis function method for the shallow water equations on a sphere, Proc. Roy. Soc. A, 465, 1949–1976, https://doi.org/10.1098/rspa.2009.0033, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1016/j.jcp.2012.01.028</doi>
+              <unstructured_citation>Flyer, N., Lehto, E., Blaise, S., Wright, G. B., and St-Cyr, A.: A guide to RBF-generated finite differences for nonlinear transport: Shallow water simulations on a sphere, J. Comput. Phys, 231, 4078–4095, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1137/060671991</doi>
+              <unstructured_citation>Fornberg, B. and Piret, C.: A stable algorithm for flat radial basis functions on a sphere, SIAM J. Sci. Comput., 30, 60–80, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1016/j.jcp.2007.11.016</doi>
+              <unstructured_citation>Fornberg, B. and Piret, C.: On choosing a radial basis function and a shape parameter when solving a convective PDE on a sphere, J. Comput. Phys., 227, 2758–2780, https://doi.org/10.1016/j.jcp.2007.11.016, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.1016/j.pepi.2008.06.025</doi>
+              <unstructured_citation>Kameyama, M. C., Kageyama, A., and Sato, T.: Multigrid-based simulation code for mantle convection in spherical shell using Yin-Yang grid, Phys. Earth Planet. Interiors, 171, 19–32, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1080/03091928608210091</doi>
+              <unstructured_citation>Machetel, P., Rabinowicz, M., and Bernardet, P.: Three-dimensional convection in spherical shells, Geophys. Astrophys. Fluid Dyn., 37, 57–84, https://doi.org/10.1080/03091928608210091, 1986.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1137/080742890</doi>
+              <unstructured_citation>Meerbergen, K. and Spence, A.: Inverse Iteration for Purely Imaginary Eigenvalues with Application to the Detection of Hopf Bifurcations in Large-Scale Problems, SIAM J. Matrix Analy. Appl., 31, 1982–1999, https://doi.org/10.1137/080742890, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1063/1.868465</doi>
+              <unstructured_citation>Moresi, L.-N. and Solomatov, V. S.: Numerical investigation of 2D convection with extremely large viscosity variations, Phys. Fluids, 7, 2154–2162, https://doi.org/10.1063/1.868465, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1016/0031-9201(96)03163-9</doi>
+              <unstructured_citation>Moresi, L. N., Zhong, S., and Gurnis, M.: The accuracy of finite element solutions of Stoke's flow with strongly varying viscosity, Phys. Earth Plan. Int., 97, 83–94, https://doi.org/10.1016/0031-9201(96)03163-9, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1002/fld.1650190106</doi>
+              <unstructured_citation>Ramage, A. and Wathen, A. J.: Iterative solution techniques for the stokes and Navier-Stokes equations, Int. J. Numer. Methods Fluids, 19, 67–83, https://doi.org/10.1002/fld.1650190106, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/96JB02097</doi>
+              <unstructured_citation>Ratcliff, J. and Schubert, G.: Steady tetrahedral and cubic patterns of spherical shell convection with temperature-dependent viscosity, J. Geophys. Res., 101, 25473–25484, https://doi.org/10.1029/96JB02097, 1996.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1016/j.pepi.2006.04.007</doi>
+              <unstructured_citation>Stemmer, K., Harder, H., and Hansen, U.: A new method to simulate convection with strongly temperature- and pressure-dependent viscosity in a spherical shell: Applications to the Earth's mantle, Phys. Earth Plan. Int., 157, 223–249, https://doi.org/10.1016/j.pepi.2006.04.007, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1029/2005GC001155</doi>
+              <unstructured_citation>Tan, E., Choi, E., Thoutireddy, P., Gurnis, M., and Aivazis, M.: GeoFramework: Coupling multiple models of mantle convection within a computational framework, Geochem. Geophys. Geosyst., 7, Q06001, https://doi.org/10.1029/2005GC001155, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Womersley, R. S. and Sloan, I. H.: Interpolation and Cubature on the Sphere, Website, http://web.maths.unsw.edu.au/ rsw/Sphere/ (last access: 24 March 2014), 2003/2007.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/2009GC002985</doi>
+              <unstructured_citation>Wright, G. N., Flyer, N., and Yuen, D.: A hybrid radial basis function–pseudospectral method for thermal convection in a 3-D spherical shell, Geochem. Geophys. Geosyst., 11, Q07003, https://doi.org/10.1029/2009gc002985, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2004GL019970</doi>
+              <unstructured_citation>Yoshida, M. and Kageyama, A.: Application of the Yin-Yang grid to a thermal convection of a Boussinesq fluid with infinite Prandtl number in a three-dimensional spherical shell, Geophys. Res. Lett., 31, L12609, https://doi.org/10.1029/2004GL019970, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1017/S0022112074002151</doi>
+              <unstructured_citation>Young, R.: Finite-amplitude thermal convection in a spherical shell, J. Fluid Mech., 63, 695–721, 1974.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1017/S0022112080002558</doi>
+              <unstructured_citation>Zebib, A., Schubert, G., and Straus, J. M.: Infinite Prandtl number thermal convection in a spherical shell, J. Fluid Mech., 23, 257–277, https://doi.org/10.1017/S0022112080002558, 1980.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1080/03091928308209038</doi>
+              <unstructured_citation>Zebib, A., Schubert, G., Dein, J. L., and Paliwal, R. C.: Character and stability of axisymmetric thermal convection in spheres and spherical shells, Geophys. Astrophys. Fluid Dyn., 23, 1–42, https://doi.org/10.1080/03091928308209038, 1983.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1029/2000JB900003</doi>
+              <unstructured_citation>Zhong, S., Zuber, M. T., Moresi, L., and Gurnis, M.: Role of temperature-dependent viscosity and surface plates in spherical shell models of mantle convection, J. Geophys. Res., 105, 11063–11082, https://doi.org/10.1029/2000JB900003, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1029/2008GC002048</doi>
+              <unstructured_citation>Zhong, S., McNamara, A., Tan, E., Moresi, L., and Gurnis, M.: A benchmark study on mantle convection in a 3-D spherical shell using C}itcom{S, Geochem. Geophys. Geosyst., 9, Q10017, https://doi.org/10.1029/2008GC002048, 2008.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

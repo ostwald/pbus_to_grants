@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-01-29 08:06:57">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>10</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The TropD software package (v1): standardized methods for calculating tropical-width diagnostics</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Ori</given_name>
+              <surname>Adam</surname>
+              <ORCID>https://orcid.org/0000-0003-0334-0636</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kevin M.</given_name>
+              <surname>Grise</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Paul</given_name>
+              <surname>Staten</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Isla R.</given_name>
+              <surname>Simpson</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Sean M.</given_name>
+              <surname>Davis</surname>
+              <ORCID>https://orcid.org/0000-0001-9276-6158</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Nicholas A.</given_name>
+              <surname>Davis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Darryn W.</given_name>
+              <surname>Waugh</surname>
+              <ORCID>https://orcid.org/0000-0001-7692-2798</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Thomas</given_name>
+              <surname>Birner</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Alison</given_name>
+              <surname>Ming</surname>
+              <ORCID>https://orcid.org/0000-0001-5786-6188</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Observational and modeling studies suggest that Earth's tropical belt has
+widened over the late 20th century and will continue to widen throughout the
+21st century. Yet, estimates of tropical-width variations differ significantly
+across studies. This uncertainty, to an unknown degree, is partly due to the
+large variety of methods used in studies of the tropical width. Here, methods
+for eight commonly used metrics of the tropical width are implemented in the
+Tropical-width Diagnostics (TropD) code package in the MATLAB programming
+language. To consolidate the various methods, the operations used in each of
+the implemented methods are reduced to two basic calculations: finding the
+latitude of a zero crossing and finding the latitude of a maximum. A
+detailed description of the methods implemented in the code and of the code
+syntax is provided, followed by a method sensitivity analysis for each of the
+metrics. The analysis provides information on how to reduce the
+methodological component of the uncertainty associated with fundamental
+aspects of the calculations, such as monthly vs. seasonal averaging biases,
+grid dependence, sensitivity to noise, and sensitivity to threshold criteria.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>10</month>
+            <day>26</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>4339</first_page>
+            <last_page>4357</last_page>
+          </pages>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                Israel Science Foundation
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/501100003977</assertion>
+              </assertion>
+              <assertion name="award_number">1185/17</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/4.0/</license_ref>
+          </program>
+          <program name="relations">
+            <related_item>
+              <description>Model code and software</description>
+              <inter_work_relation identifier-type="doi" relationship-type="isPartOf">10.5281/zenodo.1413330</inter_work_relation>
+            </related_item>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-11-4339-2018</doi>
+            <resource>https://www.geosci-model-dev.net/11/4339/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/11/4339/2018/gmd-11-4339-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <unstructured_citation>Adam, O.: TropD: Tropical width diagnostics software package (Version 1.3),
+Zenodo, https://doi.org/10.5281/zenodo.1413330, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <unstructured_citation>Adam, O., Schneider, T., and Harnik, N.: Role of changes in mean temperatures
+versus temperature gradients in the recent widening of the Hadley
+circulation, J. Climate, 27, 7450–7461, 2014. a</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1175/JCLI-D-15-0512.1</doi>
+              <unstructured_citation>Adam, O., Bischoff, T., and Schneider, T.: Seasonal and interannual variations
+of the energy flux equator and ITCZ, Part I: Zonally averaged ITCZ
+position, J. Climate, 29, 3219–3230, https://doi.org/10.1175/JCLI-D-15-0512.1, 2016. a</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2008GL033614</doi>
+              <unstructured_citation>Archer, C. L. and Caldeira, K.: Historical trends in the jet streams, Geophys.
+Res. Lett., 35, L08803, https://doi.org/10.1029/2008GL033614, 2008. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1029/2010JD014664</doi>
+              <unstructured_citation>Birner, T.: Recent widening of the tropical belt from global tropopause
+statistics: Sensitivities, J. Geophys. Res., 115, D23109,
+https://doi.org/10.1029/2010JD014664, 2010. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1002/2014GL059426</doi>
+              <unstructured_citation>Choi, J., Son, S.-W., Lu, J., and Min, S.-K.: Further observational evidence of
+Hadley cell widening in the Southern Hemisphere, Geophys. Res. Lett., 41,
+2590–2597, https://doi.org/10.1002/2014GL059426, 2014. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1002/2017GL074533</doi>
+              <unstructured_citation>D'Agostino, R., Lionello, P., Adam, O., and Schneider, T.: Factors controlling
+Hadley circulation changes from the Last Glacial Maximum to the end of the
+21st century, Geophys. Res. Lett., 44, 8585–8591,
+https://doi.org/10.1002/2017GL074533, 2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1002/jgrd.50610</doi>
+              <unstructured_citation>Davis, N. and Birner, T.: Seasonal to multidecadal variability of the width of
+the tropical belt., J. Geophys. Res.-Atmos., 118, 7773–7787,
+https://doi.org/10.1002/jgrd.50610, 2013. a</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1175/JCLI-D-15-0336.1</doi>
+              <unstructured_citation>Davis, N. and Birner, T.: Climate Model Biases in the Width of the Tropical
+Belt, J. Climate, 29, 1935–1954, https://doi.org/10.1175/JCLI-D-15-0336.1,
+2016. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1175/JCLI-D-16-0371.1</doi>
+              <unstructured_citation>Davis, N. and Birner, T.: On the Discrepancies in Tropical Belt Expansion
+between Reanalyses and Climate Models and among Tropical Belt Width Metrics,
+J. Climate, 30, 1211–1231, https://doi.org/10.1175/JCLI-D-16-0371.1, 2017. a, b, c, d, e, f, g, h, i</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1186/s40645-018-0214-5</doi>
+              <unstructured_citation>Davis, S., Hassler, B., and Rosenlof, K.: Revisiting ozone measurements as an
+indicator of tropical width, Progress in Earth and Planetary Science,
+5, 56, https://doi.org/10.1186/s40645-018-0214-5, 2018. a</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/JCLI-D-11-00127.1</doi>
+              <unstructured_citation>Davis, S. M. and Rosenlof, K. H.: A Multidiagnostic Intercomparison of
+Tropical-Width Time Series Using Reanalyses and Satellite Observations, J.
+Climate, 25, 1061–1078, https://doi.org/10.1175/JCLI-D-11-00127.1, 2012. a, b, c, d, e, f, g, h, i, j</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Dee, D., Uppala, S. M., Simmons, A. J., Berrisford, P., Poli, P., Kobayashi,
+S., Andrae, U., Balmaseda, M., Balsamo, G., Bauer, P., Beljaars, A. C. M.,
+van de Berg, L., Bidlot, J., Bormann, N., Delsol, C., Dragani, R.,
+Fuentes, M., Geer, A., Haimberger, L., Healy, S., Hersbach, H., Holm, E.,
+Isaksen, L., Kallberg, P., Kohler, M., Matricardi, M., McNally, A.,
+Monge-Sanz, B., Morcrette, J.-J., Park, B.-K., Peubey, C., de Rosnay, P.,
+Tavolato, C., Thepaut, J.-N., and Vitart, F.: The ERA-Interim reanalysis:
+configuration and performance of the data assimilation system, Q. J. Roy.
+Meteor. Soc., 137, 553–597, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1002/2015GL066942</doi>
+              <unstructured_citation>Garfinkel, C., Waugh, D., and Polvani, L.: Recent Hadley cell expansion: the
+role of internal atmospheric variability in reconciling modeled and observed
+trend, Geophys. Res. Lett., 42, 10824–10831, https://doi.org/10.1002/2015GL066942,
+2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Held, I. M.: The General Circulation of the Atmosphere, in: Proc. Program in
+Geophysical Fluid Dynamics, Woods Hole Oceanographic Institution, Woods Hole,
+MA, 2000. a</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.5194/acp-7-5229-2007</doi>
+              <unstructured_citation>Hu, Y. and Fu, Q.: Observed poleward expansion of the Hadley circulation
+since 1979, Atmos. Chem. Phys., 7, 5229–5236,
+https://doi.org/10.5194/acp-7-5229-2007, 2007. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Hu, Y., Zhou, C., and Liu, J.: Observational evidence for the poleward
+expansion of the Hadley circulation, Adv. Atmos. Sci., 28, 33–44, 2011. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.5194/acp-6-5183-2006</doi>
+              <unstructured_citation>Hudson, R. D., Andrade, M. F., Follette, M. B., and Frolov, A. D.: The total
+ozone field separated into meteorological regimes – Part II: Northern
+Hemisphere mid-latitude total ozone trends, Atmos. Chem. Phys., 6,
+5183–5191, https://doi.org/10.5194/acp-6-5183-2006, 2006. a</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <unstructured_citation>Johanson, C. M. and Fu, Q.: Hadley Cell Widening: Model Simulations versus
+Observations, J. Climate, 22, 2713–2725, 2009. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <unstructured_citation>Kang, S. M. and Polvani, L. M.: The interannual relationship between the
+eddy-driven jet and the edge of the Hadley cell, J. Climate, 24, 563–568,
+2011. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.1029/2010GL042873</doi>
+              <unstructured_citation>Kidston, J. and Gerber, E. P.: Intermodel variability of the poleward shift of
+the austral jet stream in the CMIP3 integrations linked to biases in 20th
+century climatology, Geophys. Res. Lett., 37, L09708,
+https://doi.org/10.1029/2010GL042873, 2010. a</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <unstructured_citation>Kim, H. K. and Lee, S. Y.: Hadley Cell Dynamics in a Primitive Equation Model.
+Part II: Nonaxisymmetric Flow, J. Atmos. Sci., 58, 2859–2871, 2001. a</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1029/2008GL035847</doi>
+              <unstructured_citation>Korty, R. L. and Schneider, T.: Extent of Hadley circulations in dry
+atmospheres, Geophys. Res. Lett., 35, L23803, https://doi.org/10.1029/2008GL035847,
+2008. a</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1175/JAS-D-14-0152.1</doi>
+              <unstructured_citation>Levine, X. and Schneider, T.: Baroclinic Eddies and the Extent of the Hadley
+Circulation: An Idealized GCM Study, J. Atmos. Sci., 72, 2744–2761,
+https://doi.org/10.1175/JAS-D-14-0152.1, 2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <unstructured_citation>Levine, X. J. and Schneider, T.: Response of the Hadley Circulation to
+Climate Change in an Aquaplanet GCM Coupled to a Simple Representation of
+Ocean Heat Transport, J. Atmos. Sci., 68, 769–783, 2011. a</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Liebmann, B. and Smith, C.: Description of a Complete (Interpolated) Outgoing
+Longwave Radiation Dataset, B. Am. Meteorol. Soc.,
+77, 1275–1277, 1996. a</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/2006GL028443</doi>
+              <unstructured_citation>Lu, J., Vecchi, G. A., and Reichler, T.: Expansion of the Hadley cell under
+global warming, Geophys. Res. Lett., 34, L06805, https://doi.org/10.1029/2006GL028443,
+2007. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1002/2016GL072097</doi>
+              <unstructured_citation>Mantsis, D., Sherwood, S., Allen, R., and Shi, L.: Natural variations of
+tropical width and recent trends, Geophys. Res. Lett., 44, 3825–3832,
+https://doi.org/10.1002/2016GL072097, 2017.
+ a</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2003GL018240</doi>
+              <unstructured_citation>Reichler, T., Dameris, M., and Sausen, R.: Determining the tropopause height
+from gridded data, Geophys. Res. Lett., 30, 2042, https://doi.org/10.1029/2003GL018240,
+2003. a</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <unstructured_citation>Schneider, T.: The General Circulation of the Atmosphere, Ann. Rev. Earth
+Pl. Sc., 34, 655–688, 2006. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1029/2007JD008861</doi>
+              <unstructured_citation>Seidel, D. J. and Randel, W. J.: Recent widening of the tropical belt: Evidence
+from tropopause observations, J. Geophys. Res., 112, D20113,
+https://doi.org/10.1029/2007JD008861,
+2007. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1002/2014GL062669</doi>
+              <unstructured_citation>Smith, D. M., Allan, R. P., Coward, A. C., Eade, R., Hyder, P., Liu, C., Loeb,
+N. G., Palmer, M. D., Roberts, C. D., and Scaife, A. A.: Earth's energy
+imbalance since 1960 in observations and CMIP5 models, Geophys. Res.
+Lett., 42, 1205–1213, https://doi.org/10.1002/2014GL062669, 2015. a</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <doi provider="crossref">10.1002/2016GL070917</doi>
+              <unstructured_citation>Solomon, A., Polvani, L. M., Waugh, D. W., and Davis, S. M.: Contrasting upper
+and lower atmospheric metrics of tropical expansion in the Southern
+Hemisphere, Geophys. Res. Lett., 43, 10496–10503,
+https://doi.org/10.1002/2016GL070917, 2016. a, b, c, d</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1038/ngeo1580</doi>
+              <unstructured_citation>Stephens, G. L., Li, J., Wild, M., Clayson, C. A., Loeb, N., Kato, S.,
+L'Ecuyer Jr., T., P. W. S., Lebsock, M., and Andrews, T.: An update on
+Earth's energy balance in light of the latest global observations, Nat.
+Geosci., 5, 691–696, https://doi.org/10.1038/ngeo1580, 2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.1175/JCLI-D-18-0108.1</doi>
+              <unstructured_citation>Waugh, D., Grise, K. M., Seviour, W., Davis, S., Davis, N., Adam, O., Son,
+S.-W., and Simpson, I. R.: Revisiting the Relationship among Metrics of
+Tropical Expansion, J. Climate, 31, 7565–7581, https://doi.org/10.1175/JCLI-D-18-0108.1, 2018. a, b, c, d, e</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <unstructured_citation>WMO: Meteorology – A three-dimensional science, WMO Bull., 6, 134–138,
+1957. a</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1002/qj.625</doi>
+              <unstructured_citation>Woollings, T., Hannachi, A., and Hoskins, B.: Variability of the North Atlantic
+eddy-driven jet stream, Q. J. Roy. Meteorol.
+Soc., 136, 856–868, https://doi.org/10.1002/qj.625, 2010. a</unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/gmd-11-4339-2018-supplement</doi>
+                <resource>https://www.geosci-model-dev.net/11/4339/2018/gmd-11-4339-2018-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

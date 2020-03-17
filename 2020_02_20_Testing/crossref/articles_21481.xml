@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-04-11 09:00:31">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>11</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Nine time steps: ultra-fast statistical consistency testing of the Community Earth System Model (pyCECT v3.0)</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Daniel J.</given_name>
+              <surname>Milroy</surname>
+              <ORCID>https://orcid.org/0000-0001-6500-3227</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Allison H.</given_name>
+              <surname>Baker</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dorit M.</given_name>
+              <surname>Hammerling</surname>
+              <ORCID>https://orcid.org/0000-0003-3583-3611</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Elizabeth R.</given_name>
+              <surname>Jessup</surname>
+              <ORCID>https://orcid.org/0000-0002-7740-9985</ORCID>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Community Earth System Model Ensemble Consistency Test (CESM-ECT) suite
+was developed as an alternative to requiring bitwise identical output for
+quality assurance. This objective test provides a statistical measurement of
+consistency between an accepted ensemble created by small initial temperature
+perturbations and a test set of CESM simulations. In this work, we extend the
+CESM-ECT suite with an inexpensive and robust test for ensemble consistency
+that is applied to Community Atmospheric Model (CAM) output after only nine
+model time steps. We demonstrate that adequate ensemble variability is
+achieved with instantaneous variable values at the ninth step, despite rapid
+perturbation growth and heterogeneous variable spread. We refer to this new
+test as the Ultra-Fast CAM Ensemble Consistency Test (UF-CAM-ECT) and
+demonstrate its effectiveness in practice, including its ability to detect
+small-scale events and its applicability to the Community Land Model (CLM).
+The new ultra-fast test facilitates CESM development, porting, and
+optimization efforts, particularly when used to complement information from
+the original CESM-ECT suite of tools.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>02</month>
+            <day>26</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>697</first_page>
+            <last_page>711</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-11-697-2018</doi>
+            <resource>https://www.geosci-model-dev.net/11/697/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/11/697/2018/gmd-11-697-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1145/3093338.3093379</doi>
+              <unstructured_citation>Anderson, J., Burns, P. J., Milroy, D., Ruprecht, P., Hauser, T., and Siegel,
+H. J.: Deploying RMACC Summit: An HPC Resource for the Rocky Mountain Region,
+in: Proceedings of the Practice and Experience in Advanced Research Computing
+2017 on Sustainability, Success and Impact, PEARC17, 8:1–8:7, ACM, New
+York, NY, USA, https://doi.org/10.1145/3093338.3093379,
+2017. a</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/gmd-8-2829-2015</doi>
+              <unstructured_citation>Baker, A. H., Hammerling, D. M., Levy, M. N., Xu, H., Dennis, J. M., Eaton,
+B. E., Edwards, J., Hannay, C., Mickelson, S. A., Neale, R. B., Nychka, D.,
+Shollenberger, J., Tribbia, J., Vertenstein, M., and Williamson, D.: A new
+ensemble-based consistency test for the Community Earth System Model (pyCECT
+v1.0), Geosci. Model Dev., 8, 2829–2840,
+https://doi.org/10.5194/gmd-8-2829-2015, 2015. a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/gmd-9-2391-2016</doi>
+              <unstructured_citation>Baker, A. H., Hu, Y., Hammerling, D. M., Tseng, Y.-H., Xu, H., Huang, X.,
+Bryan, F. O., and Yang, G.: Evaluating statistical consistency in the ocean
+model component of the Community Earth System Model (pyCECT v2.0), Geosci.
+Model Dev., 9, 2391–2406, https://doi.org/10.5194/gmd-9-2391-2016, 2016.
+ a</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/2010JCLI3678.1</doi>
+              <unstructured_citation>Branstator, G. and Teng, H.: Two Limits of Initial-Value Decadal Predictability
+in a CGCM, J. Climate, 23, 6292–6311, https://doi.org/10.1175/2010JCLI3678.1,
+2010. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1007/s00382-010-0977-x</doi>
+              <unstructured_citation>Deser, C., Phillips, A., Bourdette, V., and Teng, H.: Uncertainty in climate
+change projections: the role of internal variability, Clim. Dynam., 38,
+527–546, https://doi.org/10.1007/s00382-010-0977-x,
+2012. a</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>Hurrell, J., Holland, M., Gent, P., Ghan, S., Kay, J., Kushner, P., Lamarque,
+J.-F., Large, W., Lawrence, D., Lindsay, K., Lipscomb, W., Long, M.,
+Mahowald, N., Marsh, D., Neale, R., Rasch, P., Vavrus, S., Vertenstein, M.,
+Bader, D., Collins, W., Hack, J., Kiehl, J., and Marshall, S.: The
+Community Earth System Model: A Framework for Collaborative Research,
+B. Am. Meteorol. Soc., 94, 1339–1360,
+https://doi.org/10.1175/BAMS-D-12-00121.1, 2013. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/BAMS-D-13-00255.1</doi>
+              <unstructured_citation>Kay, J. E., Deser, C., Phillips, A., Mai, A., Hannay, C., Strand, G.,
+Arblaster, J. M., Bates, S. C., Danabasoglu, G., Edwards, J., Holland, M.,
+Kushner, P., Lamarque, J.-F., Lawrence, D., Lindsay, K., Middleton, A.,
+Munoz, E., Neale, R., Oleson, K., Polvani, L., and Vertenstein, M.: The
+Community Earth System Model (CESM) Large Ensemble Project: A Community
+Resource for Studying Climate Change in the Presence of Internal Climate
+Variability, B. Am. Meteorol. Soc., 96, 1333–1349,
+https://doi.org/10.1175/BAMS-D-13-00255.1,
+2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Milroy, D. J.: Refining the composition of CESM-ECT ensembles, ProQuest
+Dissertations and Theses, p. 60, available at:
+http://search.proquest.com/docview/1760171657?accountid=28174 (last
+access: 10 January 2017),
+2015. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <unstructured_citation>Milroy, D. J., Baker, A. H., Hammerling, D. M., Dennis, J. M., Mickelson,
+S. A., and Jessup, E. R.: Towards Characterizing the Variability of
+Statistically Consistent Community Earth System Model Simulations, Procedia
+Computer Science, 80, 1589–1600,
+https://doi.org/10.1016/j.procs.2016.05.489,
+International Conference on Computational Science 2016, ICCS 2016,
+6–8 June 2016, San Diego, California, USA, 2016. a, b, c, d, e, f, g, h, i, j, k, l, m, n</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <unstructured_citation>Oleson, K. W., Lawrence, D. M., B, G., Flanner, M. G., Kluzek, E., J, P.,
+Levis, S., Swenson, S. C., Thornton, E., Feddema, J., Heald, C. L., Lamarque,
+J., Niu, G., Qian, T., Running, S., Sakaguchi, K., Yang, L., Zeng, X., and
+Zeng, X.: Technical description of version 4.0 of the Community Land Model, NCAR Tech. Note NCAR/TN-478+STR, 257. a, b, c</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1137/S1064827594275534</doi>
+              <unstructured_citation>Rosinski, J. M. and Williamson, D. L.: The Accumulation of Rounding Errors and
+Port Validation for Global Atmospheric Models, SIAM J. Sci. Comput., 18,
+552–564, https://doi.org/10.1137/S1064827594275534,
+1997. a, b</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.5194/gmd-10-537-2017</doi>
+              <unstructured_citation>Wan, H., Zhang, K., Rasch, P. J., Singh, B., Chen, X., and Edwards, J.: A new
+and inexpensive non-bit-for-bit solution reproducibility test based on time
+step convergence (TSC1.0), Geosci. Model Dev., 10, 537–552,
+https://doi.org/10.5194/gmd-10-537-2017, 2017. a</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

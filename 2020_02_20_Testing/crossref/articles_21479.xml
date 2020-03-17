@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-04-16 03:33:52">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Hydrology and Earth System Sciences</full_title>
+          <abbrev_title>Hydrol. Earth Syst. Sci.</abbrev_title>
+          <issn media_type="electronic">1607-7938</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2018</year>
+          </publication_date>
+          <journal_volume>
+            <volume>22</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Testing and development of transfer functions for weighing precipitation gauges in WMO-SPICE</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>John</given_name>
+              <surname>Kochendorfer</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Rodica</given_name>
+              <surname>Nitu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Mareile</given_name>
+              <surname>Wolff</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Eva</given_name>
+              <surname>Mekis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Roy</given_name>
+              <surname>Rasmussen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Bruce</given_name>
+              <surname>Baker</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Michael E.</given_name>
+              <surname>Earle</surname>
+              <ORCID>https://orcid.org/0000-0002-4862-9276</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Audrey</given_name>
+              <surname>Reverdin</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Kai</given_name>
+              <surname>Wong</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Craig D.</given_name>
+              <surname>Smith</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Daqing</given_name>
+              <surname>Yang</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Yves-Alain</given_name>
+              <surname>Roulet</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Tilden</given_name>
+              <surname>Meyers</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Samuel</given_name>
+              <surname>Buisan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ketil</given_name>
+              <surname>Isaksen</surname>
+              <ORCID>https://orcid.org/0000-0003-2356-5330</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ragnar</given_name>
+              <surname>Brækkan</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Scott</given_name>
+              <surname>Landolt</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Al</given_name>
+              <surname>Jachcik</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> Weighing precipitation gauges are used widely for the measurement of all
+forms of precipitation, and are typically more accurate than tipping-bucket
+precipitation gauges. This is especially true for the measurement of solid
+precipitation; however, weighing precipitation gauge measurements must still
+be adjusted for undercatch in snowy, windy conditions. In WMO-SPICE (World
+Meteorological Organization Solid Precipitation InterComparison Experiment),
+different types of weighing precipitation gauges and shields were compared,
+and adjustments were determined for the undercatch of solid precipitation
+caused by wind. For the various combinations of gauges and shields,
+adjustments using both new and previously existing transfer functions were
+evaluated. For most of the gauge and shield combinations, previously derived
+transfer functions were found to perform as well as those more recently
+derived. This indicates that wind shield type (or lack thereof) is more
+important in determining the magnitude of wind-induced undercatch than the
+type of weighing precipitation gauge. It also demonstrates the potential for
+widespread use of the previously developed transfer functions. Another
+overarching result was that, in general, the more effective shields, which
+were associated with smaller unadjusted errors, also produced more accurate
+measurements after adjustment. This indicates that although transfer
+functions can effectively reduce measurement biases, effective wind shielding
+is still required for the most accurate measurement of solid precipitation.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>02</month>
+            <day>27</day>
+            <year>2018</year>
+          </publication_date>
+          <pages>
+            <first_page>1437</first_page>
+            <last_page>1452</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/hess-22-1437-2018</doi>
+            <resource>https://www.hydrol-earth-syst-sci.net/22/1437/2018/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.hydrol-earth-syst-sci.net/22/1437/2018/hess-22-1437-2018.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1016/j.atmosres.2017.01.016</doi>
+              <unstructured_citation>Baghapour, B., Wei, C., and Sullivan, P. E.: Numerical simulation of
+wind-induced turbulence over precipitation gauges, Atmos. Res.,
+189, 82–98, https://doi.org/10.1016/j.atmosres.2017.01.016,
+2017. </unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.5194/amt-10-1079-2017</doi>
+              <unstructured_citation>Buisán, S. T., Earle, M. E., Collado, J. L., Kochendorfer, J., Alastrué, J.,
+Wolff, M., Smith, C. D., and López-Moreno, J. I.: Assessment of snowfall
+accumulation underestimation by tipping bucket gauges in the Spanish
+operational network, Atmos. Meas. Tech., 10, 1079–1091,
+https://doi.org/10.5194/amt-10-1079-2017, 2017. </unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.5194/tc-9-1995-2015</doi>
+              <unstructured_citation>Chen, R., Liu, J., Kang, E., Yang, Y., Han, C., Liu, Z., Song, Y., Qing, W.,
+and Zhu, P.: Precipitation measurement intercomparison in the Qilian
+Mountains, north-eastern Tibetan Plateau, The Cryosphere, 9, 1995–2008,
+https://doi.org/10.5194/tc-9-1995-2015, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/JAMC-D-15-0035.1</doi>
+              <unstructured_citation>Colli, M., Rasmussen, R., Thériault, J. M., Lanza, L. G., Baker, C. B.,
+and Kochendorfer, J.: An improved trajectory model to evaluate the
+collection performance of snow gauges, J. Appl. Meteorol. Clim., 54, 1826–1836, https://doi.org/10.1175/JAMC-D-15-0035.1, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/JHM-D-15-0011.1</doi>
+              <unstructured_citation>Colli, M., Lanza, L. G., Rasmussen, R., and Theriault, J. M.: The Collection
+Efficiency of Shielded and Unshielded Precipitation Gauges. Part II:
+Modeling Particle Trajectories, J. Hydrometeorol., 17, 245–255,
+https://doi.org/10.1175/jhm-d-15-0011.1, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <unstructured_citation>Goodison, B., Louie, P., and Yang, D.: The WMO solid precipitation
+measurement intercomparison, World Meteorological
+Organization-Publications-WMO TD, 65–70, 1998. </unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1175/1520-0450(1978)017&lt;1542:AOCSGM&gt;2.0.CO;2</doi>
+              <unstructured_citation>Goodison, B. E.: Accuracy of Canadian snow gauge measurements, J. Appl. Meteorol., 17, 1542–1548, https://doi.org/10.1175/1520-0450(1978)017&amp;amp;lt;1542:aocsgm&amp;amp;gt;2.0.co;2, 1978. </unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <unstructured_citation>Groisman, P. Y., Koknaeva, V. V., Belokrylova, T. A., and Karl, T. R.:
+Overcoming biases of precipitation measurement – a history of the USSR
+experience, B. Am. Meteorol. Soc., 72, 1725–1733,
+https://doi.org/10.1175/1520-0477(1991)072&amp;amp;lt;1725:obopma&amp;amp;gt;2.0.co;2, 1991. </unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.5194/hess-21-3525-2017</doi>
+              <unstructured_citation>Kochendorfer, J., Nitu, R., Wolff, M., Mekis, E., Rasmussen, R., Baker, B.,
+Earle, M. E., Reverdin, A., Wong, K., Smith, C. D., Yang, D., Roulet, Y.-A.,
+Buisan, S., Laine, T., Lee, G., Aceituno, J. L. C., Alastrué, J., Isaksen,
+K., Meyers, T., Brækkan, R., Landolt, S., Jachcik, A., and Poikonen, A.:
+Analysis of single-Alter-shielded and unshielded measurements of mixed and
+solid precipitation from WMO-SPICE, Hydrol. Earth Syst. Sci., 21, 3525–3542,
+https://doi.org/10.5194/hess-21-3525-2017, 2017a. </unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.5194/hess-21-1973-2017</doi>
+              <unstructured_citation>Kochendorfer, J., Rasmussen, R., Wolff, M., Baker, B., Hall, M. E., Meyers,
+T., Landolt, S., Jachcik, A., Isaksen, K., Brækkan, R., and Leeper, R.: The
+quantification and correction of wind-induced precipitation measurement
+errors, Hydrol. Earth Syst. Sci., 21, 1973–1989,
+https://doi.org/10.5194/hess-21-1973-2017, 2017b. </unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1002/joc.4045</doi>
+              <unstructured_citation>Ma, Y., Zhang, Y., Yang, D., and Bin Farhan, S.: Precipitation bias
+variability versus various gauges under different climatic conditions over
+the Third Pole Environment (TPE) region, Int. J. Climatol, 35, 1201–1211, https://doi.org/10.1002/joc.4045, 2015. </unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/1520-0426(1999)016&lt;0450:EOWIEO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Nespor, V. and Sevruk, B.: Estimation of wind-induced error of rainfall
+gauge measurements using a numerical simulation, J. Atmos. Ocean. Tech., 16, 450–464, https://doi.org/10.1175/1520-0426(1999)016&amp;amp;lt;0450:eowieo&amp;amp;gt;2.0.co;2, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <unstructured_citation>Nitu, R.: Proposed configuration of intercomparison sites and of the field
+references, Second session of the international organization committee for
+the WMO solid precipitation intercomparison experiment, World Meteorological
+Organization, Boulder, CO, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1175/BAMS-D-11-00052.1</doi>
+              <unstructured_citation>Rasmussen, R., Baker, B., Kochendorfer, J., Meyers, T., Landolt, S.,
+Fischer, A. P., Black, J., Theriault, J. M., Kucera, P., Gochis, D., Smith,
+C., Nitu, R., Hall, M., Ikeda, K., and Gutmann, E.: How Well Are We
+Measuring Snow: The NOAA/FAA/NCAR Winter Precipitation Test Bed, B. Am. Meteorol. Soc., 93, 811–829, https://doi.org/10.1175/bams-d-11-00052.1,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <unstructured_citation>Reverdin, A.: Description of the Quality Control and Event Selection
+Procedures used within the WMO-SPICE Project, Proceedings of the WMO
+Technical Conference on Meteorological and Environmental Instruments and
+Methods of Observation, Madrid, Spain, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <unstructured_citation>Roulet, Y.-A., Reverdin, A., Buisan, S., and Nitu, R.: Non-catchment type
+instruments for snowfall measurement and reporting of precipitation type:
+General considerations and issues encountered during the WMO CIMO SPICE
+experiment, and derived recommendations, Proceedings of the WMO Technical
+Conference on Meteorological and Environmental Instruments and Methods of
+Observation, Madrid, Spain, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <unstructured_citation>Ryu, S., Lee, G., Nitu, R., Smith, C., Lim, E., and Kin, H.-L.: Automatic
+Double Fence Reference (DFAR) for measuring solid precipitation: Gauge Based
+Characterization, Second session of the international organization committee
+for the WMO solid precipitation intercomparison experiment, World
+Meteorological Organization, Boulder, CO, 2012. </unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <unstructured_citation>Ryu, S., Lee, G., Nitu, R., Smith, C., Lim, E., and Kim, H. L.: Quantitative
+comparison of two types of working field reference systems for the
+measurement of precipitation amount (R2), Proceedings of the WMO Technical
+Conference on Meteorological and Environmental Instruments and Methods of
+Observation Madrid, Spain, 2016. </unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/0960-1686(91)90228-Y</doi>
+              <unstructured_citation>Sevruk, B., Hertig, J.-A., and Spiess, R.: The effect of a precipitation
+gauge orifice rim on the wind field deformation as investigated in a wind
+tunnel, Atmos. Environ., Part A. General Topics, 25, 1173–1179,
+1991. </unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1175/JAMC-D-11-0116.1</doi>
+              <unstructured_citation>Theriault, J. M., Rasmussen, R., Ikeda, K., and Landolt, S.: Dependence of
+Snow Gauge Collection Efficiency on Snowflake Characteristics, J. Appl. Meteorol. Clim., 51, 745–762, https://doi.org/10.1175/jamc-d-11-0116.1,
+2012. </unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.2166/nh.2012.166</doi>
+              <unstructured_citation>Wolff, M., Isaksen, K., Brækkan, R., Alfnes, E., Petersen-Overleir, A., and
+Ruud, E.: Measurements of wind-induced loss of solid precipitation:
+description of a Norwegian field study, Hydrol. Res., 44, 35–43,
+https://doi.org/10.2166/nh.2012.166, 2013. </unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.5194/hess-19-951-2015</doi>
+              <unstructured_citation>Wolff, M. A., Isaksen, K., Petersen-Øverleir, A., Ødemark, K., Reitan, T.,
+and Brækkan, R.: Derivation of a new continuous adjustment function for
+correcting wind-induced loss of solid precipitation: results of a Norwegian
+field study, Hydrol. Earth Syst. Sci., 19, 951–967,
+https://doi.org/10.5194/hess-19-951-2015, 2015.
+ </unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1002/hyp.3360090805</doi>
+              <unstructured_citation>Yang, D. Q., Goodison, B. E., Metcalfe, J. R., Golubev, V. S., Elomaa, E.,
+Gunther, T., Bates, R., Pangburn, T., Hanson, C. L., Emerson, D., Copaciu,
+V., and Miklovic, J.: Accuracy of Tretyakov precipitation gauge: Result of
+WMO intercomparison, Hydrol. Process., 9, 877–895,
+https://doi.org/10.1002/hyp.3360090805, 1995. </unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.1029/97WR02681</doi>
+              <unstructured_citation>Yang, D. Q., Goodison, B. E., Ishida, S., and Benson, C. S.: Adjustment of
+daily precipitation data at 10 climate stations in Alaska: Application of
+World Meteorological Organization intercomparison results, Water Resour. Res., 34, 241–256, https://doi.org/10.1029/97wr02681, 1998a. </unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/1520-0426(1998)015&lt;0054:AONSNP&gt;2.0.CO;2</doi>
+              <unstructured_citation>Yang, D. Q., Goodison, B. E., Metcalfe, J. R., Golubev, V. S., Bates, R.,
+Pangburn, T., and Hanson, C. L.: Accuracy of NWS 8” standard nonrecording
+precipitation gauge: Results and application of WMO intercomparison, J.
+Atmos. Ocean. Tech., 15, 54–68,
+https://doi.org/10.1175/1520-0426(1998)015&amp;amp;lt;0054:aonsnp&amp;amp;gt;2.0.co;2,
+1998b. </unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1029/1998WR900042</doi>
+              <unstructured_citation>Yang, D. Q., Goodison, B. E., Metcalfe, J. R., Louie, P., Leavesley, G.,
+Emerson, D., Hanson, C. L., Golubev, V. S., Elomaa, E., Gunther, T.,
+Pangburn, T., Kang, E., and Milkovic, J.: Quantification of precipitation
+measurement discontinuity induced by wind shields on national gauges, Water
+Resour. Res., 35, 491–508, https://doi.org/10.1029/1998wr900042, 1999. </unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/2005GL024057</doi>
+              <unstructured_citation>Yang, D. Q., Kane, D., Zhang, Z. P., Legates, D., and Goodison, B.: Bias
+corrections of long-term (1973–2004) daily precipitation data over the
+northern regions, Geophys. Res. Lett., 32, L19501,
+https://doi.org/10.1029/2005gl024057, 2005. </unstructured_citation>
+            </citation>
+          </citation_list>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <description>Article supplement file</description>
+              <format mime_type="application/pdf"/>
+              <doi_data>
+                <doi>10.5194/hess-22-1437-2018-supplement</doi>
+                <resource>https://www.hydrol-earth-syst-sci.net/22/1437/2018/hess-22-1437-2018-supplement.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

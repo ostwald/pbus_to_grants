@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1029" timestamp="2018-04-02 16:50:13">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Geophysical Research Letters</full_title>
+          <abbrev_title>Geophys. Res. Lett.</abbrev_title>
+          <issn>00948276</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>06</month>
+            <day>16</day>
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>42</volume>
+          </journal_volume>
+          <issue>11</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>CLUBB as a unified cloud parameterization: Opportunities and challenges</title>
+            <subtitle>UNIFIED CLOUD PARAMETERIZATION: AM3-CLUBB+</subtitle>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>H.</given_name>
+              <surname>Guo</surname>
+              <affiliation>UCAR Visiting Scientist Programs; NOAA Geophysical Fluid Dynamics Laboratory; Princeton New Jersey USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>J.-C.</given_name>
+              <surname>Golaz</surname>
+              <affiliation>NOAA Geophysical Fluid Dynamics Laboratory; Princeton New Jersey USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>L. J.</given_name>
+              <surname>Donner</surname>
+              <affiliation>NOAA Geophysical Fluid Dynamics Laboratory; Princeton New Jersey USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>B.</given_name>
+              <surname>Wyman</surname>
+              <affiliation>NOAA Geophysical Fluid Dynamics Laboratory; Princeton New Jersey USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>M.</given_name>
+              <surname>Zhao</surname>
+              <affiliation>UCAR Visiting Scientist Programs; NOAA Geophysical Fluid Dynamics Laboratory; Princeton New Jersey USA</affiliation>
+            </person_name>
+            <person_name contributor_role="author" sequence="additional">
+              <given_name>P.</given_name>
+              <surname>Ginoux</surname>
+              <affiliation>NOAA Geophysical Fluid Dynamics Laboratory; Princeton New Jersey USA</affiliation>
+            </person_name>
+          </contributors>
+          <publication_date media_type="print">
+            <month>06</month>
+            <day>16</day>
+            <year>2015</year>
+          </publication_date>
+          <publication_date media_type="online">
+            <month>06</month>
+            <day>01</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>4540</first_page>
+            <last_page>4547</last_page>
+          </pages>
+          <archive_locations>
+            <archive name="Portico"/>
+          </archive_locations>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                NOAA Climate Program Office
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100007298</assertion>
+              </assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref applies_to="tdm">http://doi.wiley.com/10.1002/tdm_license_1</license_ref>
+            <license_ref applies_to="vor" start_date="2015-06-01">http://onlinelibrary.wiley.com/termsAndConditions</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1002/2015GL063672</doi>
+            <resource>http://doi.wiley.com/10.1002/2015GL063672</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://onlinelibrary.wiley.com/wol1/doi/10.1002/2015GL063672/fullpdf</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015GL063672</resource>
+              </item>
+              <item>
+                <resource content_version="vor">https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015GL063672</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="10.1002/2015GL063672-BIB0001|grl52956-cit-0001">
+              <author>Adler</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/1525-7541(2003)004&lt;1147:TVGPCP&gt;2.0.CO;2</doi>
+              <article_title>The version-2 Global Precipitation Climatology Project (GPCP) monthly precipitation analysis (1979-present)</article_title>
+              <journal_title>J. Hydrometeor.</journal_title>
+              <volume>4</volume>
+              <first_page>1147</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0002|grl52956-cit-0002">
+              <author>Bogenschutz</author>
+              <cYear>2013</cYear>
+              <article_title>A simplified PDF parameterization of subgrid-scale clouds and turbulence for cloud-resolving models</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>5</volume>
+              <first_page>195</first_page>
+              <doi>10.1002/jame.20018</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0003|grl52956-cit-0003">
+              <author>Bogenschutz</author>
+              <cYear>2010</cYear>
+              <article_title>Assumed probability density functions for shallow and deep convection</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>2</volume>
+              <first_page>10</first_page>
+              <doi>10.3894/JAMES.2010.2.10</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0004|grl52956-cit-0004">
+              <author>Bogenschutz</author>
+              <cYear>2013</cYear>
+              <article_title>Higher-order turbulence closure and its impact on climate simulations in the Community Atmosphere Model</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>26</volume>
+              <first_page>9655</first_page>
+              <doi>10.1175/JCLI-D-13-00075.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0005|grl52956-cit-0005">
+              <author>Bougeault</author>
+              <cYear>1981</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1981)038&lt;2429:MTTWCB&gt;2.0.CO;2</doi>
+              <article_title>Modeling the trade-wind cumulus boundary layer. Part II: A higher-order one-dimensional model</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>38</volume>
+              <first_page>2429</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0006|grl52956-cit-0006">
+              <author>Brohan</author>
+              <cYear>2006</cYear>
+              <article_title>Uncertainty estimates in regional and global observed temperature changes: A new dataset from 1850</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>111</volume>
+              <first_page>D12106</first_page>
+              <doi>10.1029/2005JD006548</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0007|grl52956-cit-0007">
+              <author>Cheng</author>
+              <cYear>2006</cYear>
+              <article_title>Simulation of shallow cumuli and their transition to deep convective clouds by cloud-resolving models with different third-order turbulence closures</article_title>
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <volume>132</volume>
+              <first_page>359</first_page>
+              <doi>10.1256/qj.05.29</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0008|grl52956-cit-0008">
+              <author>Cheng</author>
+              <cYear>2008</cYear>
+              <article_title>Simulation of boundary-layer cumulus and stratocumulus clouds using a cloud-resolving model with low and third-order turbulence closures</article_title>
+              <journal_title>J. Meteorol. Soc. Jpn.</journal_title>
+              <volume>86A</volume>
+              <first_page>67</first_page>
+              <doi>10.2151/jmsj.86A.67</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0009|grl52956-cit-0009">
+              <author>Cheng</author>
+              <cYear>2011</cYear>
+              <article_title>Improved low-cloud simulation from a multiscale modeling framework with a third order turbulence closure in its cloud-resolving model component</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>116</volume>
+              <first_page>D14101</first_page>
+              <doi>10.1029/2010JD015362</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0010|grl52956-cit-0010">
+              <author>Cheng</author>
+              <cYear>2015</cYear>
+              <article_title>Improved low-cloud simulation from the community atmosphere model with an advanced third-order turbulence closure</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <doi>10.1175/JCLI-D-14-00776.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0011|grl52956-cit-0011">
+              <author>Cooper</author>
+              <cYear>1986</cYear>
+              <doi provider="crossref">10.1175/0065-9401-21.43.29</doi>
+              <article_title>Ice initiation in natural clouds</article_title>
+              <journal_title>Meteorol. Monogr.</journal_title>
+              <volume>21</volume>
+              <first_page>29</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0012|grl52956-cit-0012">
+              <author>Donner</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1175/1520-0442(2001)014&lt;3444:ACPIMF&gt;2.0.CO;2</doi>
+              <article_title>A cumulus parameterization including mass fluxes, convective vertical velocities, and mesoscale effects: Thermodynamic and hydrological aspects in a general circulation model</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>14</volume>
+              <first_page>3444</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0013|grl52956-cit-0013">
+              <author>Donner</author>
+              <cYear>2011</cYear>
+              <article_title>The dynamical core, physical parameterizations, and basic simulation characteristics of the atmospheric component of the GFDL Global Coupled Model CM3</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>24</volume>
+              <first_page>3484</first_page>
+              <doi>10.1175/2011JCLI3955.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0015|grl52956-cit-0015">
+              <author>Golaz</author>
+              <cYear>2002a</cYear>
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;3540:APBMFB&gt;2.0.CO;2</doi>
+              <article_title>A PDF-based model for boundary layer clouds. Part I: Method and model description</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>59</volume>
+              <issue>24</issue>
+              <first_page>3540</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0016|grl52956-cit-0016">
+              <author>Golaz</author>
+              <cYear>2002b</cYear>
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;3552:APBMFB&gt;2.0.CO;2</doi>
+              <article_title>A PDF-based model for boundary layer clouds. Part II: Model results</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>59</volume>
+              <issue>24</issue>
+              <first_page>3552</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0017|grl52956-cit-0017">
+              <author>Golaz</author>
+              <cYear>2007</cYear>
+              <article_title>Elucidating model inadequacies in a cloud parameterization by use of an ensemble-based calibration framework</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>135</volume>
+              <issue>12</issue>
+              <first_page>4077</first_page>
+              <doi>10.1175/2007MWR2008.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0018|grl52956-cit-0018">
+              <author>Golaz</author>
+              <cYear>2011</cYear>
+              <article_title>Sensitivity of the aerosol indirect effect to subgrid variability in the cloud parameterization of the GFDL Atmosphere General Circulation Model AM3</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>24</volume>
+              <first_page>3145</first_page>
+              <doi>10.1175/2010JCLI3945.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0019|grl52956-cit-0019">
+              <author>Gordon</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1175/1520-0442(2000)013&lt;2239:TSOACM&gt;2.0.CO;2</doi>
+              <article_title>Tropical sensitivity of a coupled model to specified ISCCP low clouds</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>13</volume>
+              <issue>13</issue>
+              <first_page>2239</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0020|grl52956-cit-0020">
+              <author>Guo</author>
+              <cYear>2011</cYear>
+              <article_title>Aerosol effects on stratocumulus water paths in a PDF-based parameterization</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>38</volume>
+              <first_page>L17808</first_page>
+              <doi>10.1029/2011GL048611</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0021|grl52956-cit-0021">
+              <author>Guo</author>
+              <cYear>2014</cYear>
+              <article_title>Multi-variate probability density functions with dynamics in the GFDL atmospheric general circulation model: Global Tests</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>27</volume>
+              <issue>5</issue>
+              <first_page>2087</first_page>
+              <doi>10.1175/JCLI-D-13-00347.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0022|grl52956-cit-0022">
+              <author>Intergovernmental Panel on Climate Change</author>
+              <cYear>2013</cYear>
+              <journal_title>Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</journal_title>
+              <first_page>1535</first_page>
+              <doi>10.1017/CBO9781107415324</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0024|grl52956-cit-0024">
+              <author>Kato</author>
+              <cYear>2010</cYear>
+              <article_title>Relationships among cloud occurrence frequency, overlap, and effective thickness derived from CALIPSO and CloudSat merged cloud vertical profiles</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>115</volume>
+              <first_page>D00H28</first_page>
+              <doi>10.1029/2009JD012277</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0025|grl52956-cit-0025">
+              <author>Lappen</author>
+              <cYear>2001</cYear>
+              <doi provider="crossref">10.1175/1520-0469(2001)058&lt;2021:TAUPOT&gt;2.0.CO;2</doi>
+              <article_title>Toward a unified parameterization of the boundary layer and moist convection. Part I: A new type of mass-flux model</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>58</volume>
+              <issue>15</issue>
+              <first_page>2021</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0026|grl52956-cit-0026">
+              <author>Lappen</author>
+              <cYear>2010</cYear>
+              <article_title>A higher-order closure model with an explicit PBL top</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>67</volume>
+              <first_page>834</first_page>
+              <doi>10.1175/2009JAS3205.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0027|grl52956-cit-0027">
+              <author>Larson</author>
+              <cYear>2005</cYear>
+              <article_title>Using probability density functions to derive consistent closure relationships among higher-order moments</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>133</volume>
+              <issue>4</issue>
+              <first_page>1023</first_page>
+              <doi>10.1175/MWR2902.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0028|grl52956-cit-0028">
+              <author>Larson</author>
+              <cYear>2002</cYear>
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;3519:SSAMVI&gt;2.0.CO;2</doi>
+              <article_title>Small-scale and mesoscale variability in cloudy boundary layers: Joint probability density functions</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>59</volume>
+              <issue>24</issue>
+              <first_page>3519</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0029|grl52956-cit-0029">
+              <author>Larson</author>
+              <cYear>2012</cYear>
+              <article_title>PDF parameterization of boundary layer clouds in models with horizontal grid spacings from 2 to 16 km</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>140</volume>
+              <first_page>285</first_page>
+              <doi>10.1175/MWR-D-10-05059.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0030|grl52956-cit-0030">
+              <author>Lebsock</author>
+              <cYear>2013</cYear>
+              <article_title>Microphysical implications of cloud-precipitation covariance derived from satellite remote sensing</article_title>
+              <journal_title>J. Geophys. Res. Atmos.</journal_title>
+              <volume>118</volume>
+              <first_page>6521</first_page>
+              <doi>10.1002/jgrd.50347</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0031|grl52956-cit-0031">
+              <author>Lock</author>
+              <cYear>2000</cYear>
+              <doi provider="crossref">10.1175/1520-0493(2000)128&lt;3187:ANBLMS&gt;2.0.CO;2</doi>
+              <article_title>A new boundary layer mixing scheme. Part I: Scheme description and single-column model tests</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>128</volume>
+              <first_page>3187</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0032|grl52956-cit-0032">
+              <author>Loeb</author>
+              <cYear>2009</cYear>
+              <article_title>Toward optimal closure of the Earth's top-of-atmosphere radiation budget</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>22</volume>
+              <first_page>748</first_page>
+              <doi>10.1175/2008JCLI2637.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0033|grl52956-cit-0033">
+              <author>Madden</author>
+              <cYear>1972</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1972)029&lt;1109:DOGSCC&gt;2.0.CO;2</doi>
+              <article_title>Description of global-scale circulation cells in the tropics with a 40-50 day period</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>29</volume>
+              <first_page>1109</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0034|grl52956-cit-0034">
+              <author>Ming</author>
+              <cYear>2006</cYear>
+              <doi provider="crossref">10.1175/JAS3686.1</doi>
+              <article_title>A new parameterization of cloud droplet activation applicable to General Circulation Models</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>63</volume>
+              <first_page>1348</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0035|grl52956-cit-0035">
+              <author>Morrison</author>
+              <cYear>2008</cYear>
+              <article_title>A new two-moment bulk stratiform cloud microphysics scheme in the Community Atmosphere Model, version 3 (CAM3). Part I: Description and numerical tests</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>21</volume>
+              <first_page>3642</first_page>
+              <doi>10.1175/2008JCLI2105.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0036|grl52956-cit-0036">
+              <author>Pritchard</author>
+              <cYear>2009</cYear>
+              <article_title>Assessing the diurnal cycle of precipitation in a multi-scale climate model</article_title>
+              <journal_title>J. Adv. Model. Earth Syst.</journal_title>
+              <volume>1</volume>
+              <first_page>12</first_page>
+              <doi>10.3894/JAMES.2009.1.12</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0040|grl52956-cit-0040">
+              <author>Randall</author>
+              <cYear>2013</cYear>
+              <article_title>Beyond deadlock</article_title>
+              <journal_title>Geophys. Res. Lett.</journal_title>
+              <volume>40</volume>
+              <first_page>5970</first_page>
+              <doi>10.1002/2013GL057998</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0037|grl52956-cit-0037">
+              <author>Randall</author>
+              <cYear>1992</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1992)049&lt;1903:ASOBBL&gt;2.0.CO;2</doi>
+              <article_title>A second-order bulk boundary-layer model</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>49</volume>
+              <issue>20</issue>
+              <first_page>1903</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0038|grl52956-cit-0038">
+              <author>Randall</author>
+              <cYear>2003</cYear>
+              <doi provider="crossref">10.1175/BAMS-84-11-1547</doi>
+              <article_title>Breaking the cloud parameterization deadlock</article_title>
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <volume>84</volume>
+              <issue>11</issue>
+              <first_page>1547</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0041|grl52956-cit-0041">
+              <author>Rayner</author>
+              <cYear>2003</cYear>
+              <article_title>Global analyses of sea surface temperature, sea ice, and night marine air temperature since the late nineteenth century</article_title>
+              <journal_title>J. Geophys. Res.</journal_title>
+              <volume>D14</volume>
+              <first_page>4407</first_page>
+              <doi>10.1029/2002JD002670</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0043|grl52956-cit-0043">
+              <author>Rotstayn</author>
+              <cYear>1997</cYear>
+              <article_title>A physically based scheme for the treatment of stratiform clouds and precipitation in large-scale models. I: Description and evaluation of the microphysical processes</article_title>
+              <journal_title>Q. J. R. Meteorol. Soc.</journal_title>
+              <volume>123</volume>
+              <first_page>1227</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0044|grl52956-cit-0044">
+              <author>Salzmann</author>
+              <cYear>2010</cYear>
+              <article_title>Two-moment bulk stratiform cloud microphysics in the GFDL AM3 GCM: Description, evaluation, and sensitivity tests</article_title>
+              <journal_title>Atmos. Chem. Phys.</journal_title>
+              <volume>10</volume>
+              <first_page>8037</first_page>
+              <doi>10.5194/acp-10-8037-2010</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0045|grl52956-cit-0045">
+              <author>Stephens</author>
+              <cYear>2012</cYear>
+              <article_title>An update on Earth's energy balance in light of the latest global observations</article_title>
+              <journal_title>Nat. Geosci.</journal_title>
+              <volume>5</volume>
+              <first_page>691</first_page>
+              <doi>10.1038/NGEO1580</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0046|grl52956-cit-0046">
+              <author>Storer</author>
+              <cYear>2015</cYear>
+              <article_title>Parameterizing deep convection using the assumed probability density function method</article_title>
+              <journal_title>Geosci. Model Dev.</journal_title>
+              <volume>8</volume>
+              <first_page>1</first_page>
+              <doi>10.5194/gmdd-8-1-2015</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0047|grl52956-cit-0047">
+              <author>Tao</author>
+              <cYear>2009</cYear>
+              <article_title>A multiscale modeling system: Developments, applications, and critical issues</article_title>
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <volume>90</volume>
+              <first_page>515</first_page>
+              <doi>10.1175/2008BAMS2542.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0048|grl52956-cit-0048">
+              <author>Taylor</author>
+              <cYear>2012</cYear>
+              <article_title>An overview of CMIP5 and the experiment design</article_title>
+              <journal_title>Bull. Am. Meteorol. Soc.</journal_title>
+              <volume>93</volume>
+              <first_page>485</first_page>
+              <doi>10.1175/BAMS-D-11-00094.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0049|grl52956-cit-0049">
+              <author>Thayer-Calder</author>
+              <cYear>2009</cYear>
+              <article_title>The role of convective moistening in the Madden-Julian oscillation</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>66</volume>
+              <first_page>3297</first_page>
+              <doi>10.1175/2009JAS3081.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0050|grl52956-cit-0050">
+              <author>Teixeira</author>
+              <cYear>2011</cYear>
+              <article_title>Tropical and subtropical cloud transitions in weather and climate prediction models: The GCSS/WGNE Pacific Cross-Section Intercomparison (GPCI)</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>24</volume>
+              <first_page>5223</first_page>
+              <doi>10.1175/2011JCLI3672.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0051|grl52956-cit-0051">
+              <author>Tiedtke</author>
+              <cYear>1993</cYear>
+              <doi provider="crossref">10.1175/1520-0493(1993)121&lt;3040:ROCILS&gt;2.0.CO;2</doi>
+              <article_title>Representation of clouds in large-scale model</article_title>
+              <journal_title>Mon. Weather Rev.</journal_title>
+              <volume>121</volume>
+              <first_page>3040</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0053|grl52956-cit-0053">
+              <author>Wheeler</author>
+              <cYear>1999</cYear>
+              <doi provider="crossref">10.1175/1520-0469(1999)056&lt;0374:CCEWAO&gt;2.0.CO;2</doi>
+              <article_title>Convectively coupled equatorial waves: Analysis of clouds and temperature in the wavenumber-frequency domain</article_title>
+              <journal_title>J. Atmos. Sci.</journal_title>
+              <volume>56</volume>
+              <first_page>374</first_page>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0054|grl52956-cit-0054">
+              <author>Xu</author>
+              <cYear>2013</cYear>
+              <article_title>Evaluating low-cloud simulation from an upgraded multiscale modeling framework model. Part I: Sensitivity to spatial resolution and climatology</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>26</volume>
+              <first_page>5717</first_page>
+              <doi>10.1175/JCLI-D-12-00200.1</doi>
+            </citation>
+            <citation key="10.1002/2015GL063672-BIB0055|grl52956-cit-0055">
+              <author>Zhao</author>
+              <cYear>2009</cYear>
+              <doi provider="crossref">10.1175/2009JCLI3049.1</doi>
+              <article_title>Simulations of global hurricane climatology, interannual variability, and response to global warming using a 50-km resolution GCM</article_title>
+              <journal_title>J. Clim.</journal_title>
+              <volume>22</volume>
+              <first_page>6653</first_page>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

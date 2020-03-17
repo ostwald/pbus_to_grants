@@ -1,0 +1,60 @@
+body {
+    font-family:arial;
+    margin:20px;
+}
+
+.data-table {
+    border-collapse:collapse;
+}
+
+.data-table tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+.data-table td, th {
+    border:thin black solid;
+    padding:4px;
+    font-size:.85em;
+}
+
+.data-table th {
+    background:#ccc;
+}
+
+ul.award-id-list {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+.pub_date {
+    white-space: nowrap;
+}
+
+ul.award-id-list li {
+}
+
+#page-date {
+    position:absolute;
+    top:5px;
+    right:20px;
+    font-size:.75em;
+}
+
+#navbar {
+    position:absolute;
+    top:35px;
+    right:20px;
+}
+
+.navbar-divider {
+    padding: 0 7px;
+}
+
+#about-link {
+    margin-bottom:20px;
+}
+
+ul#future-work li {
+    margin-bottom:8px;
+}

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1017" timestamp="2019-06-07 13:14:45">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Acta Numerica</full_title>
+          <abbrev_title>Acta Numerica</abbrev_title>
+          <issn media_type="print">0962-4929</issn>
+          <issn media_type="electronic">1474-0508</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>05</month>
+            <day>01</day>
+            <year>2015</year>
+          </publication_date>
+          <journal_volume>
+            <volume>24</volume>
+          </journal_volume>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Solving PDEs with radial basis functions</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Bengt</given_name>
+              <surname>Fornberg</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Natasha</given_name>
+              <surname>Flyer</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>Finite differences provided the first numerical approach that permitted large-scale simulations in many applications areas, such as geophysical fluid dynamics. As accuracy and integration time requirements gradually increased, the focus shifted from finite differences to a variety of different spectral methods. During the last few years, radial basis functions, in particular in their ‘local’ RBF-FD form, have taken the major step from being mostly a curiosity approach for small-scale PDE ‘toy problems’ to becoming a major contender also for very large simulations on advanced distributed memory computer systems. Being entirely mesh-free, RBF-FD discretizations are also particularly easy to implement, even when local refinements are needed. This article gives some background to this development, and highlights some recent results.</p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>27</day>
+            <year>2015</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>05</month>
+            <day>01</day>
+            <year>2015</year>
+          </publication_date>
+          <pages>
+            <first_page>215</first_page>
+            <last_page>258</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="pii">S0962492914000130</identifier>
+          </publisher_item>
+          <program name="AccessIndicators">
+            <license_ref start_date="2015-04-27">https://www.cambridge.org/core/terms</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1017/S0962492914000130</doi>
+            <resource>https://www.cambridge.org/core/product/identifier/S0962492914000130/type/journal_article</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0962492914000130</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="S0962492914000130_r26">
+              <doi>10.1016/j.camwa.2015.01.009</doi>
+            </citation>
+            <citation key="S0962492914000130_r12">
+              <volume_title>The Numerical Treatment of Differential Equations</volume_title>
+              <cYear>1960</cYear>
+              <author>Collatz</author>
+            </citation>
+            <citation key="S0962492914000130_r63">
+              <doi>10.1137/S0036144503429121</doi>
+            </citation>
+            <citation key="S0962492914000130_r51">
+              <doi>10.1016/S0898-1221(03)90151-9</doi>
+            </citation>
+            <citation key="S0962492914000130_r41">
+              <doi>10.1016/0021-9991(91)90188-Q</doi>
+            </citation>
+            <citation key="S0962492914000130_r29">
+              <doi>10.1137/060671991</doi>
+            </citation>
+            <citation key="S0962492914000130_r18">
+              <doi>10.1016/j.compfluid.2010.08.005</doi>
+            </citation>
+            <citation key="S0962492914000130_r88">
+              <doi>10.1016/S0021-9991(05)80016-6</doi>
+            </citation>
+            <citation key="S0962492914000130_r90">
+              <doi>10.1016/j.jcp.2005.05.030</doi>
+            </citation>
+            <citation key="S0962492914000130_r15">
+              <doi>10.1007/BFb0086566</doi>
+            </citation>
+            <citation key="S0962492914000130_r66">
+              <unstructured_citation>M. J. D. Powell (2005), Five lectures on radial basis functions. Technical report, Technical University of Denmark, Lyngby.</unstructured_citation>
+            </citation>
+            <citation key="S0962492914000130_r62">
+              <doi>10.1016/j.jcp.2010.11.022</doi>
+            </citation>
+            <citation key="S0962492914000130_r8">
+              <volume_title>Acta Numerica</volume_title>
+              <volume>9</volume>
+              <first_page>1</first_page>
+              <cYear>2000</cYear>
+              <author>Buhmann</author>
+            </citation>
+            <citation key="S0962492914000130_r65">
+              <volume_title>Advances in Numerical Analysis</volume_title>
+              <first_page>105</first_page>
+              <cYear>1992</cYear>
+              <author>Powell</author>
+            </citation>
+            <citation key="S0962492914000130_r56">
+              <doi>10.1111/j.1365-246X.2007.03620.x</doi>
+            </citation>
+            <citation key="S0962492914000130_r86">
+              <doi>10.1002/nme.489</doi>
+            </citation>
+            <citation key="S0962492914000130_r58">
+              <journal_title>Proc. Amer. Math. Soc</journal_title>
+              <article_title>On Haar’s theorem concerning Chebyshev approximation problems having unique solutions</article_title>
+              <volume>7</volume>
+              <first_page>609</first_page>
+              <cYear>1956</cYear>
+              <author>Mairhuber</author>
+            </citation>
+            <citation key="S0962492914000130_r83">
+              <doi>10.1007/s00466-003-0501-9</doi>
+            </citation>
+            <citation key="S0962492914000130_r46">
+              <doi>10.1016/j.pepi.2008.06.025</doi>
+            </citation>
+            <citation key="S0962492914000130_r42">
+              <doi>10.1111/j.1365-246X.2005.02560.x</doi>
+            </citation>
+            <citation key="S0962492914000130_r37">
+              <doi>10.1016/S0898-1221(04)90004-1</doi>
+            </citation>
+            <citation key="S0962492914000130_r69">
+              <doi>10.1080/15397734.2012.680348</doi>
+            </citation>
+            <citation key="S0962492914000130_r79">
+              <doi>10.1007/s10596-008-9124-8</doi>
+            </citation>
+            <citation key="S0962492914000130_r81">
+              <unstructured_citation>A. E. Tarwater (1985), Parameter study of Hardy’s multiquadric method for scattered data interpolation. Technical report UCRL-54670, Lawrence Livermore National Laboratory.</unstructured_citation>
+            </citation>
+            <citation key="S0962492914000130_r67">
+              <doi>10.1016/S0898-1221(01)00305-4</doi>
+            </citation>
+            <citation key="S0962492914000130_r10">
+              <doi>10.1007/978-3-642-39572-7</doi>
+            </citation>
+            <citation key="S0962492914000130_r76">
+              <doi>10.1016/j.jcp.2007.01.037</doi>
+            </citation>
+            <citation key="S0962492914000130_r70">
+              <doi>10.1007/BF02432002</doi>
+            </citation>
+            <citation key="S0962492914000130_r19">
+              <doi>10.1016/j.jcp.2009.11.016</doi>
+            </citation>
+            <citation key="S0962492914000130_r39">
+              <doi>10.1007/s10915-013-9688-x</doi>
+            </citation>
+            <citation key="S0962492914000130_r43">
+              <doi>10.1029/JB076i008p01905</doi>
+            </citation>
+            <citation key="S0962492914000130_r35">
+              <doi>10.1016/j.camwa.2006.04.004</doi>
+            </citation>
+            <citation key="S0962492914000130_r89">
+              <unstructured_citation>G. B. Wright (2003), Radial basis function interpolation: Numerical and analytical developments. PhD thesis, University of Colorado.</unstructured_citation>
+            </citation>
+            <citation key="S0962492914000130_r80">
+              <doi>10.1175/1520-0493(1988)116&lt;0525:EOUAPM&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="S0962492914000130_r40">
+              <doi>10.1016/j.jcp.2007.12.009</doi>
+            </citation>
+            <citation key="S0962492914000130_r23">
+              <doi>10.1190/1.1442319</doi>
+            </citation>
+            <citation key="S0962492914000130_r87">
+              <cYear>2005</cYear>
+              <author>Wendland</author>
+            </citation>
+            <citation key="S0962492914000130_r82">
+              <journal_title>Proc. 16th IMACS World Congress</journal_title>
+              <article_title>On using RBF-based differencing formulas for unstructured and mixed structured–unstructured grid calculations</article_title>
+              <volume>228</volume>
+              <first_page>4606</first_page>
+              <cYear>2000</cYear>
+              <author>Tolstykh</author>
+            </citation>
+            <citation key="S0962492914000130_r93">
+              <doi>10.1109/TAP.2011.2158969</doi>
+            </citation>
+            <citation key="S0962492914000130_r57">
+              <doi>10.1016/0021-9045(92)90058-V</doi>
+            </citation>
+            <citation key="S0962492914000130_r59">
+              <doi provider="crossref">10.1190/segam2014-0917.1</doi>
+              <unstructured_citation>B. Martin , B. Fornberg  and A. St-Cyr (2015), ‘Seismic modeling with radial basis function-generated finite differences (RBF-FD)’, Geophysics, to appear.</unstructured_citation>
+            </citation>
+            <citation key="S0962492914000130_r47">
+              <doi>10.1016/0898-1221(90)90270-T</doi>
+            </citation>
+            <citation key="S0962492914000130_r21">
+              <doi>10.1098/rspa.2009.0033</doi>
+            </citation>
+            <citation key="S0962492914000130_r11">
+              <journal_title>J. Eng. Maritime Env.</journal_title>
+              <article_title>A compact RBF-FD based meshless method for the incompressible Navier–Stokes equations</article_title>
+              <volume>223</volume>
+              <first_page>275</first_page>
+              <cYear>2009</cYear>
+              <author>Chinchapatnam</author>
+            </citation>
+            <citation key="S0962492914000130_r13">
+              <doi>10.2140/pjm.1959.9.1013</doi>
+            </citation>
+            <citation key="S0962492914000130_r32">
+              <doi>10.1016/j.camwa.2007.01.028</doi>
+            </citation>
+            <citation key="S0962492914000130_r3">
+              <doi>10.1017/S0022112089002235</doi>
+            </citation>
+            <citation key="S0962492914000130_r95">
+              <doi>10.1029/2008GC002048</doi>
+            </citation>
+            <citation key="S0962492914000130_r44">
+              <journal_title>Appl. Math. Comput.</journal_title>
+              <article_title>On unsymmetric collocation by radial basis functions</article_title>
+              <volume>119</volume>
+              <first_page>177</first_page>
+              <cYear>2001</cYear>
+              <author>Hon</author>
+            </citation>
+            <citation key="S0962492914000130_r91">
+              <doi>10.1029/2009GC002985</doi>
+            </citation>
+            <citation key="S0962492914000130_r61">
+              <doi>10.1007/BF01893414</doi>
+            </citation>
+            <citation key="S0962492914000130_r94">
+              <doi>10.1007/s10915-012-9607-6</doi>
+            </citation>
+            <citation key="S0962492914000130_r20">
+              <doi>10.1016/j.jcp.2007.05.009</doi>
+            </citation>
+            <citation key="S0962492914000130_r17">
+              <doi>10.1142/6437</doi>
+            </citation>
+            <citation key="S0962492914000130_r75">
+              <doi>10.1016/S0045-7825(02)00618-7</doi>
+            </citation>
+            <citation key="S0962492914000130_r60">
+              <doi>10.1190/1.2172306</doi>
+            </citation>
+            <citation key="S0962492914000130_r14">
+              <doi>10.1016/S0898-1221(01)00295-4</doi>
+            </citation>
+            <citation key="S0962492914000130_r49">
+              <doi>10.1016/j.enganabound.2007.11.011</doi>
+            </citation>
+            <citation key="S0962492914000130_r71">
+              <doi>10.1007/s00365-004-0585-2</doi>
+            </citation>
+            <citation key="S0962492914000130_r33">
+              <doi>10.1016/S0898-1221(01)00299-1</doi>
+            </citation>
+            <citation key="S0962492914000130_r50">
+              <doi>10.1016/j.jcp.2009.11.014</doi>
+            </citation>
+            <citation key="S0962492914000130_r73">
+              <doi>10.2307/1968466</doi>
+            </citation>
+            <citation key="S0962492914000130_r38">
+              <doi>10.1098/rspa.1947.0060</doi>
+            </citation>
+            <citation key="S0962492914000130_r16">
+              <volume_title>Surface Fitting and Multiresolution Method</volume_title>
+              <first_page>131</first_page>
+              <cYear>1997</cYear>
+              <author>Fasshauer</author>
+            </citation>
+            <citation key="S0962492914000130_r4">
+              <doi>10.1175/MWR-D-11-00038.1</doi>
+            </citation>
+            <citation key="S0962492914000130_r45">
+              <doi>10.1007/978-3-642-18754-4</doi>
+            </citation>
+            <citation key="S0962492914000130_r77">
+              <doi>10.1016/j.pepi.2006.04.007</doi>
+            </citation>
+            <citation key="S0962492914000130_r78">
+              <doi>10.1002/fld.1650170103</doi>
+            </citation>
+            <citation key="S0962492914000130_r52">
+              <doi>10.1137/120899108</doi>
+            </citation>
+            <citation key="S0962492914000130_r53">
+              <doi>10.1016/0021-9991(92)90324-R</doi>
+            </citation>
+            <citation key="S0962492914000130_r54">
+              <doi>10.1002/fld.1650201003</doi>
+            </citation>
+            <citation key="S0962492914000130_r74">
+              <doi>10.1016/j.apnum.2012.09.006</doi>
+            </citation>
+            <citation key="S0962492914000130_r28">
+              <doi>10.1016/j.jcp.2010.12.014</doi>
+            </citation>
+            <citation key="S0962492914000130_r55">
+              <doi>10.1016/j.jcp.2003.09.024</doi>
+            </citation>
+            <citation key="S0962492914000130_r68">
+              <doi>10.1098/rsta.1911.0009</doi>
+            </citation>
+            <citation key="S0962492914000130_r31">
+              <doi>10.1016/j.camwa.2003.08.010</doi>
+            </citation>
+            <citation key="S0962492914000130_r36">
+              <doi>10.1016/j.camwa.2012.11.006</doi>
+            </citation>
+            <citation key="S0962492914000130_r9">
+              <doi>10.1017/CBO9780511543241</doi>
+            </citation>
+            <citation key="S0962492914000130_r1">
+              <unstructured_citation>G. A. Barnett , N. Flyer  and L. J. Wicker (2015), An RBF-FD polynomial method for nonhydrostatic atmospheric modeling on different node layouts. Submitted.</unstructured_citation>
+            </citation>
+            <citation key="S0962492914000130_r92">
+              <journal_title>Approx. Theory Appl.</journal_title>
+              <article_title>Hermite–Birkhoff interpolation of scattered data by radial basis functions</article_title>
+              <volume>8</volume>
+              <first_page>1</first_page>
+              <cYear>1992</cYear>
+              <author>Wu</author>
+            </citation>
+            <citation key="S0962492914000130_r34">
+              <doi>10.1137/09076756X</doi>
+            </citation>
+            <citation key="S0962492914000130_r72">
+              <volume_title>Acta Numerica</volume_title>
+              <volume>15</volume>
+              <first_page>543</first_page>
+              <cYear>2006</cYear>
+              <author>Schaback</author>
+            </citation>
+            <citation key="S0962492914000130_r64">
+              <doi>10.1016/j.jcp.2012.03.007</doi>
+            </citation>
+            <citation key="S0962492914000130_r30">
+              <doi>10.1016/j.jcp.2007.11.016</doi>
+            </citation>
+            <citation key="S0962492914000130_r48">
+              <doi>10.1016/0898-1221(90)90271-K</doi>
+            </citation>
+            <citation key="S0962492914000130_r7">
+              <volume_title>Chebyshev and Fourier Spectral Methods</volume_title>
+              <cYear>2000</cYear>
+              <author>Boyd</author>
+            </citation>
+            <citation key="S0962492914000130_r27">
+              <doi>10.1137/1.9781611974041</doi>
+            </citation>
+            <citation key="S0962492914000130_r2">
+              <doi>10.1080/13647830.2013.801519</doi>
+            </citation>
+            <citation key="S0962492914000130_r24">
+              <doi>10.1017/CBO9780511626357</doi>
+            </citation>
+            <citation key="S0962492914000130_r25">
+              <doi>10.1137/S0036144596322507</doi>
+            </citation>
+            <citation key="S0962492914000130_r6">
+              <doi>10.1016/j.jcp.2012.06.030</doi>
+            </citation>
+            <citation key="S0962492914000130_r22">
+              <doi>10.1016/j.jcp.2012.01.028</doi>
+            </citation>
+            <citation key="S0962492914000130_r84">
+              <doi>10.1137/1.9780898719598</doi>
+            </citation>
+            <citation key="S0962492914000130_r85">
+              <doi>10.1098/rstb.1952.0012</doi>
+            </citation>
+            <citation key="S0962492914000130_r5">
+              <doi>10.1007/BF01452844</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

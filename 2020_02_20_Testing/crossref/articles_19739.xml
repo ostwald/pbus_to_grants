@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2018-07-13 01:28:59">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Atmospheric Chemistry and Physics</full_title>
+          <abbrev_title>Atmos. Chem. Phys.</abbrev_title>
+          <issn media_type="electronic">1680-7324</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2017</year>
+          </publication_date>
+          <journal_volume>
+            <volume>17</volume>
+          </journal_volume>
+          <issue>7</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Improving PM&amp;lt;sub&amp;gt;2. 5&amp;lt;/sub&amp;gt; forecast over China by the joint  adjustment of initial conditions and source emissions  with an ensemble Kalman filter</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Zhen</given_name>
+              <surname>Peng</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Zhiquan</given_name>
+              <surname>Liu</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Dan</given_name>
+              <surname>Chen</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Junmei</given_name>
+              <surname>Ban</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> In an attempt to improve the forecasting of atmospheric aerosols, the ensemble square root filter algorithm was extended to simultaneously optimize the chemical initial conditions (ICs) and emission input. The forecast model, which was expanded by combining the Weather Research and Forecasting with Chemistry (WRF-Chem) model and a forecast model of emission scaling factors, generated both chemical concentration fields and emission scaling factors. The forecast model of emission scaling factors was developed by using the ensemble concentration ratios of the WRF-Chem forecast chemical concentrations and also the time smoothing operator. Hourly surface fine particulate matter (PM<sub>2. 5</sub>) observations were assimilated in this system over China from 5 to 16 October 2014. A series of 48<span class="thinspace"></span>h forecasts was then carried out with the optimized initial conditions and emissions on each day at 00:00<span class="thinspace"></span>UTC and a control experiment was performed without data assimilation. In addition, we also performed an experiment of pure assimilation chemical ICs and the corresponding 48<span class="thinspace"></span>h forecasts experiment for comparison. The results showed that the forecasts with the optimized initial conditions and emissions typically outperformed those from the control experiment. In the Yangtze River delta (YRD) and the Pearl River delta (PRD) regions, large reduction of the root-mean-square errors (RMSEs) was obtained for almost the entire 48<span class="thinspace"></span>h forecast range attributed to assimilation. In particular, the relative reduction in RMSE due to assimilation was about 37.5<span class="thinspace"></span>% at nighttime when WRF-Chem performed comparatively worse. In the Beijing&amp;ndash;Tianjin&amp;ndash;Hebei (JJJ) region, relatively smaller improvements were achieved in the first 24<span class="thinspace"></span>h forecast but then no improvements were achieved afterwards. Comparing to the forecasts with only the optimized ICs, the forecasts with the joint adjustment were always much better during the night in the PRD and YRD regions. However, they were very similar during daytime in both regions. Also, they performed similarly for almost the entire 48<span class="thinspace"></span>h forecast range in the JJJ region.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>13</day>
+            <year>2017</year>
+          </publication_date>
+          <pages>
+            <first_page>4837</first_page>
+            <last_page>4855</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/acp-17-4837-2017</doi>
+            <resource>https://www.atmos-chem-phys.net/17/4837/2017/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.atmos-chem-phys.net/17/4837/2017/acp-17-4837-2017.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1016/j.atmosenv.2008.08.031</doi>
+              <unstructured_citation>Adhikary, B., Kulkarni, S., Dallura, A., Tang, Y., Chai, T., Leung, L. R., Qian, Y., Chung, C. E., Ramanathan, V., and Carmichael, G. R.: A regional scale chemical transport modeling of Asian aerosols with data assimilation of AOD observations using optimal interpolation technique, Atmos. Environ., 42, 8600–8615, https://doi.org/10.1016/j.atmosenv.2008.08.031, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;2884:AEAKFF&gt;2.0.CO;2</doi>
+              <unstructured_citation>Anderson, J. L.: An Ensemble Adjustment Kalman Filter for Data Assimilation, Mon. Weather Rev., 129, 2884–2903, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1016/j.atmosenv.2008.12.005</doi>
+              <unstructured_citation>Barbu, A. L., Segers, A. J., Schaap, M., Heemink, A. W., and Builtjes, P. J. H.: A multi-component data assimilation experiment directed to sulphur dioxide and sulphate over Europe, Atmos. Environ., 43, 1622–1631, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1029/2008JD011115</doi>
+              <unstructured_citation>Benedetti, A., Morcrette, J., Boucher, O., Dethof, A., Engelen, R., Fisher, M., Flentje, H., Huneeus, N., Jones, L., and Kaiser, J.: Aerosol analysis and forecast in the European Centre for Medium-Range Weather Forecasts Integrated Forecast System: 2. Data assimilation, J. Geophys. Res., 114, D13205, https://doi.org/10.1029/2008JD011115, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.1175/1520-0493(2001)129&lt;0420:ASWTET&gt;2.0.CO;2</doi>
+              <unstructured_citation>Bishop, C. H., Etherton, B. J., and Majumdar, S. J.: Adaptive sampling with the ensemble transform Kalman filter. Part I: Theoretical aspects, Mon. Weather Rev., 129, 420–436, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.5194/acp-16-10707-2016</doi>
+              <unstructured_citation>Chen, D., Liu, Z., Fast, J., and Ban, J.: Simulations of sulfate–nitrate–ammonium (SNA) aerosols during the extreme haze events over northern China in October 2014, Atmos. Chem. Phys., 16, 10707–10724, https://doi.org/10.5194/acp-16-10707-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.1029/2000JD900384</doi>
+              <unstructured_citation>Chin, M., Rood, R. B., Lin, S. J., Muller, J. F., and Thompson, A. M.: Atmospheric sulfur cycle simulated in the global model GOCART: Model description and global properties, J. Geophys. Res.-Atmos., 105, 24671–24687, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.1175/1520-0469(2002)059&lt;0461:TAOTFT&gt;2.0.CO;2</doi>
+              <unstructured_citation>Chin, M., Ginoux, P., Kinne, S., Torres, O., Holben, B. N., Duncan, B. N., Martin, R. V., Logan, J. A., Higurashi, A., and Nakajima, J.: Tropospheric aerosol optical thickness from the GOCART model and comparisons with satellite and Sun photometer measurements, J. Atmos. Sci., 59, 461–483, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1029/2000JD900507</doi>
+              <unstructured_citation>Collins, W. D., Rasch, P. J., Eaton, B. E., Khattatov, B. V., and Lamarque, J.-F.: Simulating aerosols using a chemical transport model with assimilation of satellite aerosol retrievals: Methodology for INDOEX, J. Geophys. Res., 106, 7313–7336, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1016/j.envpol.2014.06.021</doi>
+              <unstructured_citation>Dai, T., Schutgens, N. A. J., Goto, D., Shi, G. Y., and Nakajima, T.: Improvement of aerosol optical properties modeling over Eastern Asia with MODIS AOD assim- ilation in a global non-hydrostatic icosahedral aerosol transport model, Environ. Pollut., 195, 319–329, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.5194/acp-6-4287-2006</doi>
+              <unstructured_citation>de Meij, A., Krol, M., Dentener, F., Vignati, E., Cuvelier, C., and Thunis, P.: The sensitivity of aerosol in Europe to two different emission inventories and temporal distribution of emissions, Atmos. Chem. Phys., 6, 4287–4309, https://doi.org/10.5194/acp-6-4287-2006, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1016/j.atmosenv.2008.05.058</doi>
+              <unstructured_citation>Denby, B., Schaap, M., Segers, A. J., Builtjes, P. J. H., and Horalek, J.: Comparison of two data assimilation methods for assessing PM10 exceedances on the European scale, Atmos. Environ., 42, 7122–7134, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/acp-15-9399-2015</doi>
+              <unstructured_citation>Ding, J., van der A, R. J., Mijling, B., Levelt, P. F., and Hao, N.: NOx emission estimates during the 2014 Youth Olympic Games in Nanjing, Atmos. Chem. Phys., 15, 9399–9412, https://doi.org/10.5194/acp-15-9399-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.5194/acp-8-209-2008</doi>
+              <unstructured_citation>Dubovik, O., Lapyonok, T., Kaufman, Y. J., Chin, M., Ginoux, P., Kahn, R. A., and Sinyuk, A.: Retrieving global aerosol sources from satellites using inverse modeling, Atmos. Chem. Phys., 8, 209–250, https://doi.org/10.5194/acp-8-209-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.5194/acp-7-3749-2007</doi>
+              <unstructured_citation>Elbern, H., Strunk, A., Schmidt, H., and Talagrand, O.: Emission rate and chemical state estimation by 4-dimensional variational inversion, Atmos. Chem. Phys., 7, 3749–3769, https://doi.org/10.5194/acp-7-3749-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1029/94JC00572</doi>
+              <unstructured_citation>Evensen, G.: Sequential data assimilation with a nonlinear quasi-geostrophic model using Monte Carlo methods to forecast error statistcs, J. Geophys. Res., 99, 10143–10162, 1994.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/gmd-4-419-2011</doi>
+              <unstructured_citation>Freitas, S. R., Longo, K. M., Alonso, M. F., Pirre, M., Marecal, V., Grell, G., Stockler, R., Mello, R. F., and Sánchez Gácita, M.: PREP-CHEM-SRC – 1.0: a preprocessor of trace gas and aerosol emission fields for regional and global atmospheric chemistry models, Geosci. Model Dev., 4, 419–433, https://doi.org/10.5194/gmd-4-419-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1029/2000JD000053</doi>
+              <unstructured_citation>Ginoux, P., Chin, M., Tegen, I., Prospero, J. M., Holben, B., Dubovik, O., and Lin, S.-J.: Sources and distributions of dust aerosols simulated with the GOCART model, J. Geophys. Res., 106, 20255–20273, https://doi.org/10.1029/2000JD000053, 2001.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.1016/j.atmosenv.2005.04.027</doi>
+              <unstructured_citation>Grell, G., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G., Skamarock, W. C., and Eder, B.: Fully coupled “online” chemistry within the WRF model, Atmos. Environ., 39, 6957–6975, https://doi.org/10.1016/j.atmosenv.2005.04.027, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/94JD02950</doi>
+              <unstructured_citation>Guenther, A., Hewitt, C. N., Erickson, D., Fall, R., Geron, C., Graedel, T., Harley, P., Klinger, L., Lerdau, M., McKay, W., Pierce, T., Scholes, B., Steinbrecher, R., Tallamraju, R., Taylor, J., and Zimmerman, P.: A global model of natural volatile organic compound emissions, J. Geophys. Res., 100, 8873–8892, https://doi.org/10.1029/94JD02950, 1995.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <doi provider="crossref">10.5194/gmd-8-1857-2015</doi>
+              <unstructured_citation>Guerrette, J. J. and Henze, D. K.: Development and application of the WRFPLUS-Chem online chemistry adjoint and WRFDA-Chem assimilation system, Geosci. Model Dev., 8, 1857–1876, https://doi.org/10.5194/gmd-8-1857-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1029/2004JD005671</doi>
+              <unstructured_citation>Hakami, A., Henze, D. K., Seinfeld, J. H., Chai, T., Tang, Y., Carmichael, G. R., and Sandu, A.: Adjoint inverse modeling of black carbon during the Asian Pacific Regional Aerosol Characterization Experiment, J. Geophys. Res.-Atmos., 110, D14301, https://doi.org/10.1029/2004JD005671, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1007/s00477-002-0097-1</doi>
+              <unstructured_citation>Heemink, A. W. and Segers, A. J.: Modeling and prediction of environmental data in space and time using Kalman filtering, Stoch. Environ. Res. Risk A., 16, 225–240, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/acp-7-2413-2007</doi>
+              <unstructured_citation>Henze, D. K., Hakami, A., and Seinfeld, J. H.: Development of the adjoint of GEOS-Chem, Atmos. Chem. Phys., 7, 2413–2433, https://doi.org/10.5194/acp-7-2413-2007, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.5194/acp-9-5877-2009</doi>
+              <unstructured_citation>Henze, D. K., Seinfeld, J. H., and Shindell, D. T.: Inverse modeling and mapping US air quality influences of inorganic PM2.5 precursor emissions using the adjoint of GEOS-Chem, Atmos. Chem. Phys., 9, 5877–5903, https://doi.org/10.5194/acp-9-5877-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <doi provider="crossref">10.1175/MWR-2864.1</doi>
+              <unstructured_citation>Houtekamer, P. L., Mitchell, H. L., Pellerin, G., Buehner, M., Charron, M., Spacek, L., and Hansen, B.: Atmospheric data assimilation with an ensemble Kalman filter: Results with real observations, Mon. Weather Rev., 133, 604–620, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.5194/acp-12-4585-2012</doi>
+              <unstructured_citation>Huneeus, N., Chevallier, F., and Boucher, O.: Estimating aerosol emissions by assimilating observed aerosol optical depth in a global aerosol model, Atmos. Chem. Phys., 12, 4585–4606, https://doi.org/10.5194/acp-12-4585-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.5194/acp-13-6555-2013</doi>
+              <unstructured_citation>Huneeus, N., Boucher, O., and Chevallier, F.: Atmospheric inversion of SO2 and primary aerosol emissions for the year 2010, Atmos. Chem. Phys., 13, 6555–6573, https://doi.org/10.5194/acp-13-6555-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1016/j.physd.2006.11.008</doi>
+              <unstructured_citation>Hunt, B., Kostelich, E., and Szunyogh, I.: Efficient data assimilation for spatiotemporal chaos: a Local Ensemble Transfom Kalman Filter, Physica D, 230, 112–126, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.2151/jmsj1965.75.1B_181</doi>
+              <unstructured_citation>Ide, K., Courtier, P., Ghil, M., and Lorenc, A. C.: Unified notation for data assimilation: operational, sequential and variational, J. Meteorol. Soc. Jpn., 75, 181–189, 1997.</unstructured_citation>
+            </citation>
+            <citation key="ref31">
+              <doi provider="crossref">10.1002/jgrd.50495</doi>
+              <unstructured_citation>Jiang, Z., Liu, Z., Wang, T., Schwartz, C. S., Lin, H.-C., and Jiang, F.: Probing into the impact of 3DVAR assimilation of surface PM10 observations over China using process analysis, J. Geophys. Res.-Atmos., 118, 6738–6749, https://doi.org/10.1002/jgrd.50495, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref32">
+              <doi provider="crossref">10.1111/j.1600-0889.2008.00377.x</doi>
+              <unstructured_citation>Kahnert, M.: Variational data analysis of aerosol species in a regional CTM: Background error covariance constraint and aerosol optical observation operators, Tellus B, 60, 753–770, https://doi.org/10.1111/j.1600-0889.2008.00377.x, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref33">
+              <unstructured_citation>Lee, E.-H., Ha, J.-C., Lee, S.-S., and Chun, Y.: PM10 data assimilation over South Korea to Asian dust forecasting model with the optimal interpolation method, Asia-Pacific, J. Atmos. Sci., 49, 73–85, https://doi.org/10.1007/s13143-013-0009-y, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref34">
+              <doi provider="crossref">10.1016/j.atmosenv.2016.05.002</doi>
+              <unstructured_citation>Li, J., Li, Y., Bo, Y., and Xie, S.: High-resolution historical emission inventories of crop residue burning in fields in China for the period 1990–2013, Atmos. Environ., 138, 152–161, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref35">
+              <doi provider="crossref">10.5194/acp-13-4265-2013</doi>
+              <unstructured_citation>Li, Z., Zang, Z., Li, Q. B., Chao, Y., Chen, D., Ye, Z., Liu, Y., and Liou, K. N.: A three-dimensional variational data assimilation system for multiple aerosol species with WRF/Chem and an application to PM2. 5 prediction, Atmos. Chem. Phys., 13, 4265–4278, https://doi.org/10.5194/acp-13-4265-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref36">
+              <doi provider="crossref">10.1029/2011JD016159</doi>
+              <unstructured_citation>Liu, Z., Liu, Q., Lin, H. C., Schwartz, C. S., Lee, Y. H., and Wang, T.: Three-dimensional variational assimilation of MODIS aerosol optical depth: implementation and application to a dust storm over East Asia, J. Geophys. Res., 116, D23206, https://doi.org/10.1029/2011JD016159, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref37">
+              <doi provider="crossref">10.1038/ngeo2724</doi>
+              <unstructured_citation>McLinden, C. A., Fioletov, V., Shephard, M. W., Krotkov, N., Li, C., Martin, R. V., Moran, M. D., and Joiner, J.: Space-based detection of missing sulfur dioxide sources of global air pollution, Nat. Geosci., 9, 496–500, https://doi.org/10.1038/ngeo2724, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref38">
+              <doi provider="crossref">10.1029/2012JD017817</doi>
+              <unstructured_citation>Mijling, B. and van der A, R. J.: Using daily satellite observations to estimate emissions of short-lived air pollutants on a mesoscopic scale, J. Geophys. Res., 117, D17302, https://doi.org/10.1029/2012JD017817, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref39">
+              <doi provider="crossref">10.5194/acp-12-9545-2012</doi>
+              <unstructured_citation>Miyazaki, K., Eskes, H. J., Sudo, K., Takigawa, M., van Weele, M., and Boersma, K. F.: Simultaneous assimilation of satellite NO2, O3, CO, and HNO3 data for the analysis of tropospheric chemical composition and emissions, Atmos. Chem. Phys., 12, 9545–9579, https://doi.org/10.5194/acp-12-9545-2012, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref40">
+              <doi provider="crossref">10.5194/acp-14-3277-2014</doi>
+              <unstructured_citation>Miyazaki, K., Eskes, H. J., Sudo, K., and Zhang, C.: Global lightning NOx production estimated by an assimilation of multiple satellite data sets, Atmos. Chem. Phys., 14, 3277–3305, https://doi.org/10.5194/acp-14-3277-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref41">
+              <unstructured_citation>Olivier, J., Peters, J., Granier, C., Pétron, G., Müller, J. F., and Wallens, S.: Present and future surface emissions of atmospheric compounds, POET Report #2, EU project EVK2-1999-00011, available at: http://tropo.aeronomie.be/pdf/POET_emissions_report.pdf (last access: 6 April 2017), 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref42">
+              <unstructured_citation>Ott, E., Hunt, B. R., Szunyogh, I., Corazza, M., Kalnay, E., Patil, D. J., Yorke, J. A., Zimin, A. V., and Kostelich, E. J.: Exploiting local low dimensionality of the atmospheric dynamics for efficient Kalman filtering, arXiv:physics/0203058, 24 pp., available at: http://arxiv.org/abs/physics/0203058v3/ (last access: 6 April 2017), 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref43">
+              <doi provider="crossref">10.3402/tellusa.v56i5.14462</doi>
+              <unstructured_citation>Ott, E., Hunt, B. R., Szunyogh, I., Zimin, A. V., Kostelich, E. J, Corazza, M., Kalnay, E., Patil, D. J., and Yorke, J. A.: A local ensemble Kalman filter for atmospheric data assimilation, Tellus A, 56, 415–428, 2004.</unstructured_citation>
+            </citation>
+            <citation key="ref44">
+              <doi provider="crossref">10.1029/2012JD018333</doi>
+              <unstructured_citation>Pagowski, M. and Grell, G. A.: Experiments with the assimilation of fine aerosols using an ensemble Kalman filter, J. Geophys. Res.-Atmos., 117, D21302, https://doi.org/10.1029/2012jd018333, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref45">
+              <doi provider="crossref">10.1002/qj.700</doi>
+              <unstructured_citation>Pagowski, M., Grell, G. A., McKeen, S. A., Peckham, S. E., and Devenyi, D.: Three-dimensional variational data assimilation of ozone and fine particulate matter observations: some results using the Weather Research and Forecasting – Chemistry model and Grid-point Statistical Interpolation, Q. J. Roy. Meteorol. Soc., 136, 2013–2024, https://doi.org/10.1002/qj.700, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref46">
+              <doi provider="crossref">10.5194/acp-15-1087-2015</doi>
+              <unstructured_citation>Peng, Z., Zhang, M., Kou, X., Tian, X., and Ma, X.: A regional carbon data assimilation system and its preliminary evaluation in East Asia, Atmos. Chem. Phys., 15, 1087–1104, https://doi.org/10.5194/acp-15-1087-2015, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref47">
+              <doi provider="crossref">10.1073/pnas.0708986104</doi>
+              <unstructured_citation>Peters, W., Jacobson, A. R., Sweeney, C., Andrews, A. E., Conway, T. J., Masarie, K., Miller, J. B., Bruhwiler, L. M. P., Petron, G., Hirsch, A. I., Worthy, D. E. J., van der Werf, G. R., Randerson, J. T., Wennberg, P. O., Krol, M. C., and Tans, P. P.: An atmospheric perspective on North American carbon dioxide exchange: CarbonTracker, P. Natl. Acad. Sci. USA, 104, 18925–18930, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref48">
+              <doi provider="crossref">10.5194/acp-16-3927-2016</doi>
+              <unstructured_citation>Rubin, J. I., Reid, J. S., Hansen, J. A., Anderson, J. L., Collins, N., Hoar, T. J., Hogan, T., Lynch, P., McLay, J., Reynolds, C. A., Sessions, W. R., Westphal, D. L., and Zhang, J.: Development of the Ensemble Navy Aerosol Analysis Prediction System (ENAAPS) and its application of the Data Assimilation Research Testbed (DART) in support of aerosol forecasting, Atmos. Chem. Phys., 16, 3927–3951, https://doi.org/10.5194/acp-16-3927-2016, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref49">
+              <doi provider="crossref">10.5194/acp-13-10425-2013</doi>
+              <unstructured_citation>Saide, P. E., Carmichael, G. R., Liu, Z., Schwartz, C. S., Lin, H. C., da Silva, A. M., and Hyer, E.: Aerosol optical depth assimilation for a size-resolved sectional model: impacts of observationally constrained, multi-wavelength and fine mode retrievals on regional scale analyses and forecasts, Atmos. Chem. Phys., 13, 10425–10444, https://doi.org/10.5194/acp-13-10425-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref50">
+              <doi provider="crossref">10.5194/acp-10-6583-2010</doi>
+              <unstructured_citation>Schutgens, N. A. J., Miyoshi, T., Takemura, T., and Nakajima, T.: Sensitivity tests for an ensemble Kalman filter for aerosol assimilation, Atmos. Chem. Phys., 10, 6583–6600, https://doi.org/10.5194/acp-10-6583-2010, 2010a.</unstructured_citation>
+            </citation>
+            <citation key="ref51">
+              <doi provider="crossref">10.5194/acp-10-2561-2010</doi>
+              <unstructured_citation>Schutgens, N. A. J., Miyoshi, T., Takemura, T., and Nakajima, T.: Applying an ensemble Kalman filter to the assimilation of AERONET observations in a global aerosol transport model, Atmos. Chem. Phys., 10, 2561–2576, https://doi.org/10.5194/acp-10-2561-2010, 2010b.</unstructured_citation>
+            </citation>
+            <citation key="ref52">
+              <doi provider="crossref">10.3390/rs4113528</doi>
+              <unstructured_citation>Schutgens, N., Nakata, M., and Nakajima, T.: Estimating Aerosol Emissions by Assimilating Remote Sensing Observations into a Global Transport Model, Remote Sens., 4, 3528–3543, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref53">
+              <doi provider="crossref">10.1029/2011JD017383</doi>
+              <unstructured_citation>Schwartz, C. S., Liu, Z., Lin, H. C., and McKeen, S. A.: Simultaneous three-dimensional variational assimilation of surface fine particulate matter and MODIS aerosol optical depth, J. Geophys. Res., 117, D13202, https://doi.org/10.1029/2011JD017383, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref54">
+              <doi provider="crossref">10.1002/2013JD020937</doi>
+              <unstructured_citation>Schwartz, C. S., Liu, Z., Lin, H.-C., and Cetola, J. D.: Assimilating aerosol observations with a hybrid variational-ensemble data assimilation system, J. Geophys. Res.-Atmos., 119, 4043–4069, https://doi.org/10.1002/2013JD020937, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref55">
+              <doi provider="crossref">10.5194/acp-10-39-2010</doi>
+              <unstructured_citation>Sekiyama, T. T., Tanaka, T. Y., Shimizu, A., and Miyoshi, T.: Data assimilation of CALIPSO aerosol observations, Atmos. Chem. Phys., 10, 39–49, https://doi.org/10.5194/acp-10-39-2010, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref56">
+              <doi provider="crossref">10.5194/acp-11-12901-2011</doi>
+              <unstructured_citation>Tang, X., Zhu, J., Wang, Z. F., and Gbaguidi, A.: Improvement of ozone forecast over Beijing based on ensemble Kalman filter with simultaneous adjustment of initial conditions and emissions, Atmos. Chem. Phys., 11, 12901–12916, https://doi.org/10.5194/acp-11-12901-2011, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref57">
+              <doi provider="crossref">10.5194/acp-9-57-2009</doi>
+              <unstructured_citation>Tombette, M., Mallet, V., and Sportisse, B.: PM10 data assimilation over Europe with the optimal interpolation method, Atmos. Chem. Phys., 9, 57–70, https://doi.org/10.5194/acp-9-57-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref58">
+              <doi provider="crossref">10.1175/MWR3187.1</doi>
+              <unstructured_citation>Torn, R. D., Hakim, G. J., and Snyder, C.: Boundary conditions for limited-area ensemble Kalman filters, Mon. Weather Rev., 134, 2490–2502, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref59">
+              <doi provider="crossref">10.1016/S1364-8152(00)00048-7</doi>
+              <unstructured_citation>van Loon, M., Builtjes, P. J. H., and Segers, A. J.: Data assimilation of ozone in the atmospheric transport chemistry model LOTOS, Environ. Model. Softw., 15, 603–609, 2000.</unstructured_citation>
+            </citation>
+            <citation key="ref60">
+              <doi provider="crossref">10.1029/2012GL051136</doi>
+              <unstructured_citation>Wang, J., Xu, X., Henze, D. K., Zeng, J., Ji, Q., Tsay, S.-C., and Huang, J.: Top-down estimate of dust emissions through integration of MODIS and MISR aerosol retrievals with the GEOS-Chem adjoint model, Geophys. Res. Lett., 39, L08802, https://doi.org/10.1029/2012GL051136, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref61">
+              <doi provider="crossref">10.1016/j.atmosenv.2009.11.011</doi>
+              <unstructured_citation>Wang, X. Y., Liang, X. Z., Jiang, W. M., Tao, Z. N., Wang, J. X. L., Liu, H. N., Han, Z. W., Liu, S. Y., Zhang, Y. Y., Grell, G. A., and Peckham, S. E.: WRF-Chem simulation of East Asian air quality: Sensitivity to temporal and vertical emissions distributions, Atmos. Environ., 44, 660–669, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref62">
+              <doi provider="crossref">10.1002/2013JD021426</doi>
+              <unstructured_citation>Wang, Y. X., Zhang, Q. Q., Jiang, J. K., Zhou, W., Wang, B. Y., He, K. B., Duan, F. K., Zhang, Q., Philip, S., and Xie, Y. Y.: Enhanced sulfate formation during China's severe winter haze episode in January 2013 missing from current models, J. Geophys. Res.-Atmos., 119, 10425–10440, https://doi.org/10.1002/2013JD021426, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref63">
+              <unstructured_citation>Weekly Crop Residue Burning Monitoring Report: http://hjj.mep.gov.cn/jgjs/201510/P020151012746205487305.pdf (last access: 6 April 2017), 2015a.</unstructured_citation>
+            </citation>
+            <citation key="ref64">
+              <unstructured_citation>Weekly Crop Residue Burning Monitoring Report: http://hjj.mep.gov.cn/jgjs/201510/P020151019568921489639.pdf (last access: 6 April 2017), 2015b.</unstructured_citation>
+            </citation>
+            <citation key="ref65">
+              <doi provider="crossref">10.1175/1520-0493(2002)130&lt;1913:EDAWPO&gt;2.0.CO;2</doi>
+              <unstructured_citation>Whitaker, J. S. and Hamill, T. M.: Ensemble data assimilation without perturbed observations, Mon. Weather Rev., 130, 1913–1924, 2002.</unstructured_citation>
+            </citation>
+            <citation key="ref66">
+              <doi provider="crossref">10.1023/A:1025493321901</doi>
+              <unstructured_citation>Woo, J. H., Baek, J. M., Kim, J. W., Carmichaael, G. R., Thongboonchoo, N., Kim, S. T., and An, J. H.: Development of a Multi-Resolution Emission Inventory and Its Impact on Sulfur Distribution for Northeast Asia, Water Air Soil Poll., 148, 259–278, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref67">
+              <unstructured_citation>WRAP Mobile Source Emission Inventories Update Final Report: available at: http://www.tetonscience.org/data/contentfiles/file/downloads/pdf/CRC/CRCAirQuality/CRCAirQualityRegional/Pollack et al. 2006. WRAP Mobile Source Emission Inventories Update.pdf (last access: 6 April 2017), 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref68">
+              <doi provider="crossref">10.1016/j.accre.2016.04.001</doi>
+              <unstructured_citation>Yin, X. M., Dai, T., Xin, J. Y., Gong, D. Y., Yang, J., Teruyuki, N., and Shi, G. Y.: Estimation of aerosol properties over the Chinese desert region with MODIS AOD assimilation in a global model, Adv. Clim. Change Res., 7, 90–98, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref69">
+              <doi provider="crossref">10.1029/2002JD002717</doi>
+              <unstructured_citation>Yu, H., Dickinson, R. E., Chin, M., Kaufman, Y. J., Geogdzhayev, B., and Mishchenko, M. I.: Annual cycle of global distributions of aerosol optical depth from integration of MODIS retrievals and GOCART model simulations, J. Geophys. Res., 108, 4128, https://doi.org/10.1029/2002JD002717, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref70">
+              <doi provider="crossref">10.1029/2006GL028551</doi>
+              <unstructured_citation>Yumimoto, K., Uno, I., Sugimoto, N., Shimizu, A., and Satake, S.: Adjoint inverse modeling of dust emission and transport over East Asia, Geophys. Res. Lett., 34, L00806, https://doi.org/10.1029/2006GL028551, 2007.</unstructured_citation>
+            </citation>
+            <citation key="ref71">
+              <doi provider="crossref">10.5194/acp-8-2869-2008</doi>
+              <unstructured_citation>Yumimoto, K., Uno, I., Sugimoto, N., Shimizu, A., Liu, Z., and Winker, D. M.: Adjoint inversion modeling of Asian dust emission using lidar observations, Atmos. Chem. Phys., 8, 2869–2884, https://doi.org/10.5194/acp-8-2869-2008, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref72">
+              <doi provider="crossref">10.1002/2016GL069298</doi>
+              <unstructured_citation>Yumimoto, K., Nagao, T. M., Kikuchi, M., Sekiyama, T. T., Murakami, H., Tanaka, T. Y., Ogi, A., Irie, H., Khatri, P., Okumura, H., Arai, K., Morino, I., Uchino, O., and Maki, T.: Aerosol data assimilation using data from Himawari-8, a next-generation geostationary meteorological satellite, Geophys. Res. Lett., 43, 5886–5894, 2016.</unstructured_citation>
+            </citation>
+            <citation key="ref73">
+              <doi provider="crossref">10.1029/2007JD009065</doi>
+              <unstructured_citation>Zhang, J., Reid, J. S., Westphal, D., Baker, N., and Hyer, E.: A System for Operational Aerosol Optical Depth Data Assimilation over Global Oceans, J. Geophys. Res., 113, D10208, https://doi.org/10.1029/2007JD009065, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref74">
+              <doi provider="crossref">10.1088/1748-9326/10/8/084011</doi>
+              <unstructured_citation>Zhang, L., Liu, L. C., Zhao, Y. H., Gong, S. L., Zhang, X. Y., Henze, D. K., Capps, S. L., Fu, T. M., Zhang, Q., and Wang, Y. X.: Source attribution of particulate matter pollution over North China with the adjoint method, Environ. Res. Lett., 10, 084011, https://doi.org/10.1088/1748-9326/10/8/084011, 2015.</unstructured_citation>
+            </citation>
+            <citation key="ref75">
+              <doi provider="crossref">10.5194/acp-9-5131-2009</doi>
+              <unstructured_citation>Zhang, Q., Streets, D. G., Carmichael, G. R., He, K. B., Huo, H., Kannari, A., Klimont, Z., Park, I. S., Reddy, S., Fu, J. S., Chen, D., Duan, L., Lei, Y., Wang, L. T., and Yao, Z. L.: Asian emissions in 2006 for the NASA INTEX-B mission, Atmos. Chem. Phys., 9, 5131–5153, https://doi.org/10.5194/acp-9-5131-2009, 2009.</unstructured_citation>
+            </citation>
+            <citation key="ref76">
+              <doi provider="crossref">10.1029/2004JD005738</doi>
+              <unstructured_citation>Zhang, S., Penner, J. E., and Torres, O.: Inverse modeling of biomass burning emissions using Total Ozone Mapping Spectrometer aerosol index for 1997, J. Geophys. Res.-Atmos., 110, D21306, https://doi.org/10.1029/2004JD005738, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref77">
+              <doi provider="crossref">10.5194/acp-15-2031-2015</doi>
+              <unstructured_citation>Zheng, B., Zhang, Q., Zhang, Y., He, K. B., Wang, K., Zheng, G. J., Duan, F. K., Ma, Y. L., and Kimoto, T.: Heterogeneous chemistry: a mechanism missing in current models to explain secondary inorganic aerosol formation during the January 2013 haze episode in North China, Atmos. Chem. Phys., 15, 2031–2049, https://doi.org/10.5194/acp-15-2031-2015, 2015.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

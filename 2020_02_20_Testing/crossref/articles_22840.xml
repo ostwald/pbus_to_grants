@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1177" timestamp="2019-09-24 04:42:34">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>The International Journal of High Performance Computing Applications</full_title>
+          <abbrev_title>The International Journal of High Performance Computing Applications</abbrev_title>
+          <issn media_type="print">1094-3420</issn>
+          <issn media_type="electronic">1741-2846</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>01</month>
+            <day>03</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>09</month>
+            <year>2019</year>
+          </publication_date>
+          <journal_volume>
+            <volume>33</volume>
+          </journal_volume>
+          <issue>5</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Optimizing the HOMME dynamical core for multicore platforms</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>John M</given_name>
+              <surname>Dennis</surname>
+              <affiliation>National Center for Atmospheric Research, Computational Information Systems Laboratory, Boulder, CO, USA</affiliation>
+              <ORCID>https://orcid.org/0000-0002-2119-8242</ORCID>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Brian</given_name>
+              <surname>Dobbins</surname>
+              <affiliation>National Center for Atmospheric Research, Computational Information Systems Laboratory, Boulder, CO, USA</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Christopher</given_name>
+              <surname>Kerr</surname>
+              <affiliation>Kerr Computing Associates, Wakefield, RI, USA</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Youngsung</given_name>
+              <surname>Kim</surname>
+              <affiliation>National Center for Atmospheric Research, Computational Information Systems Laboratory, Boulder, CO, USA</affiliation>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>The approach of the next-generation computing platforms offers a tremendous opportunity to advance the state-of-the-art in global atmospheric dynamical models. We detail our incremental approach to utilize this emerging technology by enhancing concurrency within the High-Order Method Modeling Environment (HOMME) atmospheric dynamical model developed at the National Center for Atmospheric Research (NCAR). The study focused on improvements to the performance of HOMME which is a Fortran 90 code with a hybrid (MPIOpenMP) programming model. The article describes the changes made to the use of message passing interface (MPI) and OpenMP as well as single-core optimizations to achieve significant improvements in concurrency and overall code performance. For our optimization studies, we utilize the “Cori” system with an Intel Xeon Phi Knights Landing processor deployed at the National Energy Research Supercomputing Center and the “`Cheyenne” system with an Intel Xeon Broadwell processor installed at the NCAR. The results from the studies, using “workhorse” configurations performed at NCAR, show that these changes have a transformative impact on the computational performance of HOMME. Our improvements have shown that we can effectively increase potential concurrency by efficiently threading the vertical dimension. Further, we have seen a factor of two overall improvement in the computational performance of the code resulting from the single-core optimizations. Most notably from the work is that our incremental approach allows for high-impact changes without disrupting existing scientific productivity in the HOMME community.</p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>05</month>
+            <day>30</day>
+            <year>2019</year>
+          </publication_date>
+          <publication_date media_type="print">
+            <month>09</month>
+            <year>2019</year>
+          </publication_date>
+          <pages>
+            <first_page>1030</first_page>
+            <last_page>1045</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1177/1094342019849618</identifier>
+          </publisher_item>
+          <crossmark>
+            <crossmark_version>2</crossmark_version>
+            <crossmark_policy>10.1177/sage-journals-update-policy</crossmark_policy>
+            <crossmark_domains>
+              <crossmark_domain>
+                <domain>journals.sagepub.com</domain>
+              </crossmark_domain>
+            </crossmark_domains>
+            <crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+            <custom_metadata>
+              <program name="fundref">
+                <assertion name="fundgroup">
+                  <assertion name="funder_name">
+                    National Science Foundation
+                    <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000001</assertion>
+                  </assertion>
+                  <assertion name="award_number">NSF01</assertion>
+                </assertion>
+              </program>
+              <program name="AccessIndicators">
+                <license_ref start_date="2020-05-30" applies_to="vor">http://www.sagepub.com/licence-information-for-chorus</license_ref>
+              </program>
+            </custom_metadata>
+          </crossmark>
+          <doi_data>
+            <doi>10.1177/1094342019849618</doi>
+            <resource>http://journals.sagepub.com/doi/10.1177/1094342019849618</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.sagepub.com/doi/pdf/10.1177/1094342019849618</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">http://journals.sagepub.com/doi/pdf/10.1177/1094342019849618</resource>
+              </item>
+            </collection>
+            <collection property="text-mining">
+              <item>
+                <resource mime_type="application/pdf">http://journals.sagepub.com/doi/pdf/10.1177/1094342019849618</resource>
+              </item>
+              <item>
+                <resource mime_type="application/xml">http://journals.sagepub.com/doi/full-xml/10.1177/1094342019849618</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="bibr1-1094342019849618">
+              <doi>10.2172/1081802</doi>
+            </citation>
+            <citation key="bibr2-1094342019849618">
+              <journal_title>Summary Report of the Advanced Scientific Computing Advisory Committee (ASCAC) Subcommittee</journal_title>
+              <author>Ashby S</author>
+              <first_page>1</first_page>
+              <cYear>2010</cYear>
+            </citation>
+            <citation key="bibr3-1094342019849618">
+              <doi>10.1177/1094342012462751</doi>
+            </citation>
+            <citation key="bibr6-1094342019849618">
+              <doi>10.1109/JSSC.1974.1050511</doi>
+            </citation>
+            <citation key="bibr7-1094342019849618">
+              <doi>10.1109/IPDPS.2003.1213486</doi>
+            </citation>
+            <citation key="bibr8-1094342019849618">
+              <doi>10.1177/1094342011428142</doi>
+            </citation>
+            <citation key="bibr9-1094342019849618">
+              <doi>10.1145/2488551.2488553</doi>
+            </citation>
+            <citation key="bibr10-1094342019849618">
+              <doi>10.1177/1094342010391989</doi>
+            </citation>
+            <citation key="bibr12-1094342019849618">
+              <doi>10.1145/3126908.3126909</doi>
+            </citation>
+            <citation key="bibr13-1094342019849618">
+              <doi>10.1109/SC.2016.82</doi>
+            </citation>
+            <citation key="bibr14-1094342019849618">
+              <journal_title>Supercomputing Frontiers and Innovations: an International Journal</journal_title>
+              <author>Fuhrer O</author>
+              <first_page>45</first_page>
+              <volume>1</volume>
+              <cYear>2014</cYear>
+            </citation>
+            <citation key="bibr15-1094342019849618">
+              <doi>10.1109/WACCPD.2014.9</doi>
+            </citation>
+            <citation key="bibr16-1094342019849618">
+              <doi>10.1175/BAMS-D-15-00278.1</doi>
+            </citation>
+            <citation key="bibr18-1094342019849618">
+              <doi>10.1016/B978-0-12-803819-2.00016-1</doi>
+            </citation>
+            <citation key="bibr19-1094342019849618">
+              <doi>10.1016/j.procs.2016.05.466</doi>
+            </citation>
+            <citation key="bibr20-1094342019849618">
+              <doi>10.1142/S0129626414500030</doi>
+            </citation>
+            <citation key="bibr21-1094342019849618">
+              <doi>10.5194/gmd-11-1799-2018</doi>
+            </citation>
+            <citation key="bibr22-1094342019849618">
+              <doi>10.1175/1520-0493(2004)132&lt;2293:AVLFDC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="bibr23-1094342019849618">
+              <doi>10.1145/582034.582052</doi>
+            </citation>
+            <citation key="bibr24-1094342019849618">
+              <doi>10.1109/IPDPS.2008.4536351</doi>
+            </citation>
+            <citation key="bibr25-1094342019849618">
+              <journal_title>The International Journal of High Performance Computing Applications</journal_title>
+              <author>Müller A</author>
+              <first_page>411</first_page>
+              <volume>33</volume>
+              <cYear>2016</cYear>
+              <doi provider="crossref">10.1177/1094342018763966</doi>
+            </citation>
+            <citation key="bibr28-1094342019849618">
+              <doi>10.1007/978-3-662-48096-0_45</doi>
+            </citation>
+            <citation key="bibr30-1094342019849618">
+              <volume_title>Tools for High Performance Computing</volume_title>
+              <author>Servat H</author>
+              <first_page>105</first_page>
+              <cYear>2011</cYear>
+            </citation>
+            <citation key="bibr31-1094342019849618">
+              <doi>10.1007/978-3-642-19328-6_1</doi>
+            </citation>
+            <citation key="bibr32-1094342019849618">
+              <doi>10.1175/1520-0493(1981)109&lt;0758:AEAAMC&gt;2.0.CO;2</doi>
+            </citation>
+            <citation key="bibr33-1094342019849618">
+              <doi>10.1002/2014MS000363</doi>
+            </citation>
+            <citation key="bibr34-1094342019849618">
+              <doi>10.1006/jcph.1996.5554</doi>
+            </citation>
+            <citation key="bibr36-1094342019849618">
+              <doi>10.1098/rsta.2008.0219</doi>
+            </citation>
+            <citation key="bibr37-1094342019849618">
+              <doi>10.1109/SC.2016.5</doi>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

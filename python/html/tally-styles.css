@@ -1,0 +1,99 @@
+body {
+    font-family:arial;
+    margin:20px;
+}
+
+.ui-widget {
+    font-size:.85em;
+    color:red;
+}
+
+#page-date {
+    position:absolute;
+    top:5px;
+    right:20px;
+    font-size:.75em;
+}
+
+#navbar {
+    position:absolute;
+    top:35px;
+    right:20px;
+}
+
+.navbar-divider {
+    padding: 0 7px;
+}
+
+H1 {
+    padding:0 0 10px 0;
+    margin:0;
+}
+
+.award-id {
+    font-size: .85em;
+}
+
+.kuali-link {
+    padding: 0 0 7px 0;
+}
+
+.kuali-word {
+    font-size:.85em;
+}
+
+button.kuali-word.award-id {
+    font-size:1.2em;
+    margin: 0 .5em;
+}
+
+.occurs {
+    float:right;
+}
+
+.data-table {
+    border-collapse:collapse;
+}
+
+.data-table tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+.data-table td, th {
+    border:thin black solid;
+    padding:4px;
+    font-size:.85em;
+}
+
+.data-table th {
+    background:#ccc;
+    font-size:.7em;
+}
+
+tr.pub-row.current {
+    background: #e6dda9;
+    /*border:thick black solid;*/
+}
+
+
+
+/* Kuail API Tally */
+#kuali-api-tally {
+
+}
+
+
+.award-id {
+    margin: 5px 0 0 20px;
+    font-size:1.2em;
+    width:350px;
+    /**/
+}
+
+.award-id a:link, .award-id a:visited {
+    color:blue;
+}
+
+.kuali-api-hit-count {
+    float:right;
+}

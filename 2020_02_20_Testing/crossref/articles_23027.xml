@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.1175" timestamp="2019-12-23 17:43:49">
+    <crossref>
+      <journal>
+        <journal_metadata language="en">
+          <full_title>Journal of Climate</full_title>
+          <abbrev_title>J. Climate</abbrev_title>
+          <issn media_type="print">0894-8755</issn>
+          <issn media_type="electronic">1520-0442</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="print">
+            <month>01</month>
+            <year>2020</year>
+          </publication_date>
+          <journal_volume>
+            <volume>33</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>Evaluation of Modeled Precipitation in Oceanic Extratropical Cyclones Using IMERG</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>Catherine M.</given_name>
+              <surname>Naud</surname>
+              <affiliation>Applied Physics and Applied Mathematics, Columbia University/NASA GISS, New York, New York</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Jeyavinoth</given_name>
+              <surname>Jeyaratnam</surname>
+              <affiliation>Earth and Atmospheric Sciences, City University of New York, City College and the Graduate Center, New York, New York</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>James F.</given_name>
+              <surname>Booth</surname>
+              <affiliation>Earth and Atmospheric Sciences, City University of New York, City College and the Graduate Center, New York, New York</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Ming</given_name>
+              <surname>Zhao</surname>
+              <affiliation>NOAA/Geophysical Fluid Dynamics Laboratory, Princeton, New Jersey</affiliation>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>Andrew</given_name>
+              <surname>Gettelman</surname>
+              <affiliation>National Center for Atmospheric Research, Boulder, Colorado</affiliation>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>Using a high-spatial- and high-temporal-resolution precipitation dataset, Integrated Multi-satellite Retrievals for GPM (IMERG), extratropical cyclone precipitation is evaluated in two reanalyses and two climate models. Based on cyclone-centered composites, all four models overestimate precipitation in the western subsiding and dry side of the cyclones, and underestimate the precipitation in the eastern ascending and moist side. By decomposing the composites into frequency of occurrence and intensity (mean precipitation rate when precipitating), the analysis reveals a tendency for all four models to overestimate frequency and underestimate intensity, with the former issue dominating in the western half and the latter in the eastern half of the cyclones. Differences in frequency are strongly dependent on cyclone environmental moisture, while the differences in intensity are strongly impacted by the strength of ascent within the cyclone. There are some uncertainties associated with the observations: IMERG might underreport frozen precipitation and possibly exaggerate rates in vigorously ascending regions. Nevertheless, the analysis suggests that all models produce extratropical cyclone precipitation too often and too lightly. These biases have consequences when evaluating the changes in precipitation characteristics with changes in cyclone properties: the models disagree on the magnitude of the change in precipitation intensity with a change in environmental moisture and in precipitation frequency with a change in cyclone strength. This complicates accurate predictions of precipitation changes in a changing climate.</p>
+          </abstract>
+          <publication_date media_type="print">
+            <month>01</month>
+            <year>2020</year>
+          </publication_date>
+          <pages>
+            <first_page>95</first_page>
+            <last_page>113</last_page>
+          </pages>
+          <publisher_item>
+            <identifier id_type="doi">10.1175/JCLI-D-19-0369.1</identifier>
+          </publisher_item>
+          <program name="fundref">
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                NASA
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">NNX16AD82G</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                NOAA
+                <assertion name="funder_identifier" provider="crossref">http://dx.doi.org/10.13039/100000192</assertion>
+              </assertion>
+              <assertion name="award_number">NA15OAR4310094</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">NSF</assertion>
+              <assertion name="award_number">1852977</assertion>
+            </assertion>
+            <assertion name="fundgroup">
+              <assertion name="funder_name">
+                National Aeronautics and Space Administration
+                <assertion name="funder_identifier">http://dx.doi.org/10.13039/100000104</assertion>
+              </assertion>
+              <assertion name="award_number">80NSSC17K0195</assertion>
+            </assertion>
+          </program>
+          <program name="AccessIndicators">
+            <license_ref start_date="2020-12-05" applies_to="vor">http://www.ametsoc.org/PUBSReuseLicenses</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.1175/JCLI-D-19-0369.1</doi>
+            <resource>http://journals.ametsoc.org/doi/10.1175/JCLI-D-19-0369.1</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>http://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-19-0369.1</resource>
+              </item>
+            </collection>
+            <collection property="syndication">
+              <item>
+                <resource content_version="vor" mime_type="application/pdf">http://journals.ametsoc.org/doi/pdf/10.1175/JCLI-D-19-0369.1</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <component_list>
+            <component parent_relation="isPartOf">
+              <doi_data>
+                <doi>10.1175/JCLI-D-19-0369.s1</doi>
+                <resource>https://journals.ametsoc.org/doi/suppl/10.1175/JCLI-D-19-0369.1/suppl_file/10.1175_JCLI-D-19-0369.s1.pdf</resource>
+              </doi_data>
+            </component>
+          </component_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

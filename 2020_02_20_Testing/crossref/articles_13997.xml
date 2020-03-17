@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.5194" timestamp="2019-08-09 11:35:10">
+    <crossref>
+      <journal>
+        <journal_metadata language="en" metadata_distribution_opts="any" reference_distribution_opts="any">
+          <full_title>Geoscientific Model Development</full_title>
+          <abbrev_title>Geosci. Model Dev.</abbrev_title>
+          <issn media_type="electronic">1991-9603</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <year>2014</year>
+          </publication_date>
+          <journal_volume>
+            <volume>7</volume>
+          </journal_volume>
+          <issue>2</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>The Community Land Model underestimates land-use CO&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt; emissions by neglecting soil disturbance from cultivation</title>
+          </titles>
+          <contributors>
+            <person_name sequence="first" contributor_role="author">
+              <given_name>S.</given_name>
+              <surname>Levis</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>M. D.</given_name>
+              <surname>Hartman</surname>
+            </person_name>
+            <person_name sequence="additional" contributor_role="author">
+              <given_name>G. B.</given_name>
+              <surname>Bonan</surname>
+            </person_name>
+          </contributors>
+          <abstract>
+            <p><![CDATA[<p><strong>Abstract.</strong> The Community Land Model (CLM) can simulate planting and harvesting of crops but does not include effects of cultivation on soil carbon decomposition. The biogeochemistry model DayCent does account for cultivation and provides a baseline for evaluating the CLM. With the goal of representing cultivation effects on soil carbon decomposition, we implemented the DayCent cultivation parameterization in the CLM and compared CLM and DayCent simulations at eight Midwestern United States sites with and without the cultivation parameterization. Cultivation decreases soil carbon by about 1350 gC m<sup>−2</sup> in the CLM and 1660 gC m<sup>−2</sup> in DayCent across the eight sites from the first cultivation (early 1900s) to 2010. CLM crop simulations without cultivation have soil carbon gain, not loss, over this period, in contrast to the expected declining trends in agricultural soil carbon. A global cultivation simulation for 1973–2004 reduces ecosystem carbon by 0.4 Pg yr<sup>−1</sup> over temperate corn, soybean, and cereal crop areas, which occupy approximately 1/3 of global crop area. Earth System Models may improve their atmospheric CO<sub>2</sub> and soil carbon simulations by accounting for enhanced decomposition from cultivation.</p>]]></p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>04</month>
+            <day>16</day>
+            <year>2014</year>
+          </publication_date>
+          <pages>
+            <first_page>613</first_page>
+            <last_page>620</last_page>
+          </pages>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/by/3.0/</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.5194/gmd-7-613-2014</doi>
+            <resource>https://www.geosci-model-dev.net/7/613/2014/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://www.geosci-model-dev.net/7/613/2014/gmd-7-613-2014.pdf</resource>
+              </item>
+            </collection>
+          </doi_data>
+          <citation_list>
+            <citation key="ref1">
+              <doi provider="crossref">10.1029/2010GL042430</doi>
+              <unstructured_citation>Bonan, G. B. and Levis, S.: Quantifying carbon-nitrogen feedbacks in the Community Land Model (CLM4), Geophys. Res. Lett., 37, L07401, https://doi.org/10.1029/2010GL042430, 2010.</unstructured_citation>
+            </citation>
+            <citation key="ref2">
+              <doi provider="crossref">10.1029/2010JG001593</doi>
+              <unstructured_citation>Bonan, G. B., Lawrence, P. J., Oleson, K. W., Levis, S., Jung, M., Reichstein, M., Lawrence, D. M., and Swenson, S. C.: Improving canopy processes in the Community Land Model version 4 (CLM4) using global flux fields empirically inferred from FLUXNET data, J. Geophys. Res.-Biogeo., 116, G02014, https://doi.org/10.1029/2010JG001593, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref3">
+              <doi provider="crossref">10.1111/gcb.12031</doi>
+              <unstructured_citation>Bonan, G. B., Hartman, M. D., Parton, W. J., and Wieder, W. R.: Evaluating litter decomposition in earth system models with long-term litterbag experiments: an example using the Community Land Model version 4 (CLM4), Glob. Change Biol., 19, 957–974, https://doi.org/10.1111/gcb.12031, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref4">
+              <doi provider="crossref">10.1175/JCLI-D-12-00623.1</doi>
+              <unstructured_citation>Brovkin, V., Boysen, L., Arora, V. K., Boisier, J. P., Cadule, P., Chini, L., Claussen, M., Friedlingstein, P., Gayler, V., Van Den Hurk, B. J. J. M., Hurtt, G. C., Jones, C. D., Kato, E., De Noblet-Ducoudre, N., Pacifico, F., Pongratz, J., and Weiss, M.: Effect of Anthropogenic Land-Use and Land-Cover Changes on Climate and Land Carbon Storage in CMIP5 Projections for the Twenty-First Century, J. Climate, 26, 6859–6881, https://doi.org/10.1175/JCLI-D-12-00623.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref5">
+              <doi provider="crossref">10.2134/jeq2005.0160</doi>
+              <unstructured_citation>Del Grosso, S. J., Parton, W. J., Mosier, A. R., Walsh, M. K., Ojima, D. S., and Thornton, P. E.: DAYCENT national-scale simulations of nitrous oxide emissions from cropped soils in the United States, J. Environ, Qual., 35, 1451–1460, https://doi.org/10.2134/jeq2005.0160, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref6">
+              <doi provider="crossref">10.2134/jeq2007.0292</doi>
+              <unstructured_citation>Del Grosso, S. J., Halvorson, A. D., and Parton, W. J.: Testing DAYCENT model simulations of corn yields and nitrous oxide emissions in irrigated tillage systems in Colorado, J. Environ, Qual., 37, 1383–1389, https://doi.org/10.2134/jeq2007.0292, 2008.</unstructured_citation>
+            </citation>
+            <citation key="ref7">
+              <doi provider="crossref">10.5194/gmd-6-495-2013</doi>
+              <unstructured_citation>Drewniak, B., Song, J., Prell, J., Kotamarthi, V. R., and Jacob, R.: Modeling agriculture in the Community Land Model, Geosci. Model Dev., 6, 495–515, https://doi.org/10.5194/gmd-6-495-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref8">
+              <doi provider="crossref">10.5194/esd-4-171-2013</doi>
+              <unstructured_citation>Gasser, T., and Ciais, P.: A theoretical framework for the net land-to-atmosphere CO2 flux and its implications in the definition of &amp;quot;emissions from land-use change&amp;quot;, Earth Syst. Dynam., 4, 171–186, https://doi.org/10.5194/esd-4-171-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref9">
+              <doi provider="crossref">10.1890/10-0036.1</doi>
+              <unstructured_citation>Hartman, M. D., Merchant, E. R., Parton, W. J., Gutmann, M. P., Lutz, S. M., and Williams, S. A.: Impact of historical land-use changes on greenhouse gas exchange in the U.S. Great Plains, 1883–2003, Ecol. Appl., 21, 1105–1119, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref10">
+              <doi provider="crossref">10.1034/j.1600-0889.2003.01450.x</doi>
+              <unstructured_citation>Houghton, R. A.: Revised estimates of the annual net flux of carbon to the atmosphere from changes in land use and land management 1850–2000, Tellus, 55, 378–390, https://doi.org/10.1034/j.1600-0889.2003.01450.x, 2003.</unstructured_citation>
+            </citation>
+            <citation key="ref11">
+              <doi provider="crossref">10.1111/gcb.12233</doi>
+              <unstructured_citation>Houghton, R. A.: Keeping management effects separate from environmental effects in terrestrial carbon accounting, Glob. Change Biol., 19, 2609–2612, https://doi.org/10.1111/gcb.12233, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref12">
+              <doi provider="crossref">10.1175/BAMS-D-12-00121.1</doi>
+              <unstructured_citation>Hurrell, J. W., Holland, M. M., Gent, P. R., Ghan, S., Kay, J. E., Kushner, P. J., Lamarque, J.-F., Large, W. G., Lawrence, D., Lindsay, K., Lipscomb, W. H., Long, M. C., Mahowald, N., Marsh, D. R., Neale, R. B., Rasch, P., Vavrus, S., Vertenstein, M., Bader, D., Collins, W. D., Hack, J. J., Kiehl, J., and Marshall S.: The community Earth system model: a framework for collaborative research, B. Am. Meteorol. Soc., 94 1339–1360, https://doi.org/10.1175/BAMS-D-12-00121.1, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref13">
+              <doi provider="crossref">10.5194/bg-10-7109-2013</doi>
+              <unstructured_citation>Koven, C. D., Riley, W. J., Subin, Z. M., Tang, J. Y., Torn, M. S., Collins, W. D., Bonan, G. B., Lawrence, D. M., and Swenson, S. C.: The effect of vertically resolved soil biogeochemistry and alternate soil C and N models on C dynamics of CLM4, Biogeosciences, 10, 7109–7131, https://doi.org/10.5194/bg-10-7109-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref14">
+              <doi provider="crossref">10.1029/2011MS000045</doi>
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Thornton, P. E., Swenson, S. C., Lawrence, P. J., Zeng, X., Yang, Z.-L., Levis, S., Sakaguchi, K., Bonan, G. B., and Slater, A. G.: Parameterization improvements and functional and structural advances in version 4 of the Community Land Model, J. Adv. Model. Earth Syst., 3, M03001, https://doi.org/10.1029/2011MS000045, 2011.</unstructured_citation>
+            </citation>
+            <citation key="ref15">
+              <doi provider="crossref">10.1175/JCLI-D-11-00103.1</doi>
+              <unstructured_citation>Lawrence, D. M., Oleson, K. W., Flanner, M. G., Fletcher, C. G., Lawrence, P. J., Levis, S., Swenson, S. C., Bonan, G. B.: The CCSM4 Land Simulation, 1850–005: Assessment of Surface Climate and New Capabilities, J. Climate, 25, 2240–2260, https://doi.org/10.1175/JCLI-D-11-00103.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref16">
+              <doi provider="crossref">10.1175/JCLI-D-11-00256.1</doi>
+              <unstructured_citation>Lawrence, P. J., Feddema, J. J., Bonan, G. B., Meehl, G. A., O'Neill, B. C., Oleson, K. W., Levis, S., Lawrence, D. M., Kluzek, E., Lindsay, K., and Thornton, P. E.: Simulating the biogeochemical and biogeophysical impacts of transient land cover change and wood harvest in the Community Climate System Model (CCSM4) from 1850 to 2100, J. Climate, 25, 3071–3095, https://doi.org/10.1175/JCLI-D-11-00256.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref17">
+              <doi provider="crossref">10.5194/essd-5-165-2013</doi>
+              <unstructured_citation>Le Quéré, C., Andres, R. J., Boden, T., Conway, T., Houghton, R. A., House, J. I., Marland, G., Peters, G. P., van der Werf, G. R., Ahlström, A., Andrew, R. M., Bopp, L., Canadell, J. G., Ciais, P., Doney, S. C., Enright, C., Friedlingstein, P., Huntingford, C., Jain, A. K., Jourdain, C., Kato, E., Keeling, R. F., Klein Goldewijk, K., Levis, S., Levy, P., Lomas, M., Poulter, B., Raupach, M. R., Schwinger, J., Sitch, S., Stocker, B. D., Viovy, N., Zaehle, S., and Zeng, N.: The global carbon budget 1959–2011, Earth Syst. Sci. Data, 5, 165–185, https://doi.org/10.5194/essd-5-165-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref18">
+              <doi provider="crossref">10.1175/JCLI-D-11-00446.1</doi>
+              <unstructured_citation>Levis, S., Bonan, G. B., Kluzek, E., Thornton, P. E., Jones, A., Sacks, W. J., and Kucharik, C. J.: Interactive crop management in the Community Earth Sytem Model (CESM1): Seasonal influences on Land-Atmosphere Fluxes, J. Climate, 25, 4839–4859, https://doi.org/10.1175/JCLI-D-11-00446.1, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref19">
+              <doi provider="crossref">10.5194/bg-10-2293-2013</doi>
+              <unstructured_citation>Li, F., Levis, S., and Ward, D. S.: Quantifying the role of fire in the Earth system – Part 1: Improved global fire modeling in the Community Earth System Model (CESM1), Biogeosciences, 10, 2293–2314, https://doi.org/10.5194/bg-10-2293-2013, 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref20">
+              <doi provider="crossref">10.1029/2005GL025492</doi>
+              <unstructured_citation>Lobell, D. B., Bala, G., and Duffy, P. B.: Biogeophysical impacts of cropland management changes on climate, Geophys. Res. Lett., 33, L06708, https://doi.org/10.1029/2005GL025492, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref21">
+              <unstructured_citation>Oleson, K., Lawrence, D. M., Bonan, G. B., Drewniak, B., Huang, M., Koven, C. D., Levis, S., Li, F., Riley, W. J., Subin, Z. M., Swenson, S. C., Thornton, P. E., Bozbiyik, A., Fisher, R., Heald, C. L., Kluzek, E., Lamarque, J.-F., Lawrence, P. J., Leung, L. R., Lipscomb, W., Muszala, S., Ricciuto, D. M., Sacks, W., Sun, Y., Tang, J., and Yang, Z.-L.: Technical Description of version 4.5 of the Community Land Model (CLM), NCAR Technical Note NCAR/TN-503+STR, Boulder, Colorado, 420 pp., 2013.</unstructured_citation>
+            </citation>
+            <citation key="ref22">
+              <doi provider="crossref">10.1016/S0921-8181(98)00040-X</doi>
+              <unstructured_citation>Parton, W. J., Hartman, M., Ojima, D., and Schimel, D.: DAYCENT and its land surface submodel: description and testing, Glob. Planet. Change, 19, 35–48, https://doi.org/10.1016/S0921-8181(98)00040-X, 1998.</unstructured_citation>
+            </citation>
+            <citation key="ref23">
+              <doi provider="crossref">10.1890/04-1392</doi>
+              <unstructured_citation>Parton, W. J., Gutmann, M. P., Williams, S. A., Easter, M., and Ojima, D.: Ecological impact of historical land-use patterns in the great plains: A methodological assessment, Ecol. Appl., 15, 1915–1928, https://doi.org/10.1890/04-1392, 2005.</unstructured_citation>
+            </citation>
+            <citation key="ref24">
+              <doi provider="crossref">10.5194/esd-5-177-2014</doi>
+              <unstructured_citation>Pongratz, J., Reick, C. H., Houghton, R. A., and House, J. I.: Terminology as a key uncertainty in net land use and land cover change carbon flux estimates, Earth Syst. Dynam., 5, 177–195, https://doi.org/10.5194/esd-5-177-2014, 2014.</unstructured_citation>
+            </citation>
+            <citation key="ref25">
+              <doi provider="crossref">10.1175/JHM540.1</doi>
+              <unstructured_citation>Qian, T., Dai, A., Trenberth, K. E., and Oleson, K. W.: Simulation of global land surface conditions from 1948 to 2004: Part I: Forcing data and evaluations, J. Hydrometeor., 7, 953–975, https://doi.org/10.1175/JHM540.1, 2006.</unstructured_citation>
+            </citation>
+            <citation key="ref26">
+              <unstructured_citation>Schlesinger, W. H.: Biogeochemistry: An analysis of global change, Academic, San Diego, CA, 1991.</unstructured_citation>
+            </citation>
+            <citation key="ref27">
+              <doi provider="crossref">10.1029/2011MS000072</doi>
+              <unstructured_citation>Subin, Z. M., Riley, W. J., and Mironov, D.: Improved lake model for climate simulations, J. Adv. Model. Earth Syst., 4, M02001, https://doi.org/10.1029/2011MS000072, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref28">
+              <doi provider="crossref">10.1029/2012JD018059</doi>
+              <unstructured_citation>Sun, Y., Gu, L., and Dickinson, R. E.: A numerical issue in calculating the coupled carbon and water fluxes in a climate model, J. Geophys. Res., 117, D22103, https://doi.org/10.1029/2012JD018059, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref29">
+              <doi provider="crossref">10.1029/2012MS000165</doi>
+              <unstructured_citation>Swenson, S. C., Lawrence, D. M., and Lee, H.: Improved Simulation of the Terrestrial Hydrological Cycle in Permafrost Regions by the Community Land Model, J. Adv. Model. Earth Syst., 4, M08002, https://doi.org/10.1029/2012MS000165, 2012.</unstructured_citation>
+            </citation>
+            <citation key="ref30">
+              <doi provider="crossref">10.1029/2012JD018178</doi>
+              <unstructured_citation>Swenson, S. C. and Lawrence, D. M.: A New Fractional Snow Covered Area Parameterization for the Community Land Model and its Effect on the Surface Energy Balance, J. Geophys. Res., 117, D21107, https://doi.org/10.1029/2012JD018178, 2012.</unstructured_citation>
+            </citation>
+          </citation_list>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>
