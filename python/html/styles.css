@@ -3,6 +3,11 @@ body {
     margin:20px;
 }
 
+h2 {
+    padding:0;
+    margin:0;
+}
+
 .data-table {
     border-collapse:collapse;
 }
@@ -19,6 +24,15 @@ body {
 
 .data-table th {
     background:#ccc;
+}
+
+.data-table tr.current {
+    background: #e6dda9;
+    /*border:thick black solid;*/
+}
+
+.data-table .date-cell {
+    white-space:nowrap;
 }
 
 ul.award-id-list {
@@ -57,4 +71,59 @@ ul.award-id-list li {
 
 ul#future-work li {
     margin-bottom:8px;
+}
+
+/* Home page rules */
+
+ul#slice-list {
+    list-style-type: none;
+}
+
+ul#slice-list>li {
+    width: 700px;
+    margin:0;
+    padding:0;
+}
+
+div.slice-summary {
+    /*border:blue solid thin;*/
+    padding:10px;
+    line-height:1.5em;
+}
+
+div.slice-summary .header {
+    margin-left:auto;
+    text-align:center;
+    font-size:1.3em;
+    font-weight:bold;
+    background:lightgray;
+    padding:5px 0 3px;
+    margin-bottom:10px;
+}
+
+div.slice-summary .end {
+    margin-left:20px;
+}
+
+table.slice-table {
+    width:100%;
+}
+td.link-cell {
+    white-space:nobr;
+    text-align:center;
+}
+
+ul.nav-links {
+    text-align:center;
+    padding:0;
+}
+
+ul.nav-links>li {
+    display:inline-block;
+}
+
+#all-records-stats {
+/*
+    float:left;
+*/
 }

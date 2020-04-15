@@ -5,16 +5,18 @@ sys.path.append('/Users/ostwald/devel/python-lib')
 from UserList import UserList
 
 from csv_processor import CsvReader, CsvRecord
+from filtering_cvs_reader import FilteringCsvReader
 from HyperText.HTML40 import *
 from html import HtmlDocument
 import navbar
 
-class AwardIdTally:
+class ResultTallyHtmlWriter:
 
     field = 'kuali_verified_award_ids'
 
-    def __init__(self, path):
-        self.csv = CsvReader(path)
+    def __init__(self, path, filter_args={}, sort_args={}):
+        # self.csv = CsvReader(path)
+        self.csv = FilteringCsvReader(path, filter_args, sort_args)
         self.pid_map = self._get_pid_map()
         self.tally = self._get_tally()
         self.total_ids = self._get_total_ids()
@@ -91,7 +93,7 @@ class AwardIdTally:
             # DATA_TABLE
             table = TABLE(klass='data-table')
             header_row = TR()
-            for field in ['pid', 'doi', 'pub_date']:
+            for field in ['pid', 'doi', 'pub_date', 'created', 'lastmod']:
                 header_row.append (TH (field))
             table.append (header_row)
             for pid in pids:
@@ -110,6 +112,8 @@ class AwardIdTally:
 
                 # PUB_DATE
                 row.append (TD (rec['pub_date']))
+                row.append (TD (rec['created']))
+                row.append (TD (rec['lastmod']))
 
                 table.append(row)
 
@@ -135,15 +139,10 @@ def makeHtmlDoc (tally_html):
 
     doc.addStylesheet ("//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css")
     doc.addStylesheet ("tally-styles.css")
-
     doc.append (DIV ("This page was generated %s" % time.asctime(time.localtime()), id="page-date"))
-
     doc.append (DIV (id="debug"))
-
     doc.append (navbar.get_nav_bar())
-
     doc.append (H1 (title))
-
     doc.append (tally_html)
 
     return doc
@@ -164,8 +163,10 @@ def show_award_id_tally (tally_instance):
 
 if __name__ == '__main__':
 
-    path = '/Users/ostwald/devel/opensky/pubs_to_grants/August_Testing/SMART_PARTIAL_AGAIN.csv'
-    tally = AwardIdTally(path)
+    csv_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Award_Data_devel.csv'
+    filter_args = {'start':'2020-01-01', 'end':'2020-08-01', 'date_field':'created'}
+    sort_args = {'field':'created'}
+    tally = ResultTallyHtmlWriter(csv_path, filter_args, sort_args)
 
     # show_award_id_tally (tally)
     # print tally.asHtml()

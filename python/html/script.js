@@ -3,14 +3,21 @@ function log(s) {
         console.log(s);
 }
 
-
-
 $(function () {
 
     $('#sort-button').click(function (event) {
         log ("sort button clicked");
         // sort_table ('kuali_verified_award_ids', -1);
         sort_table ('pub_date', -1);
+    })
+
+
+//    $('table.data-table td').click (function (event) {
+    $('table.data-table a').click (function (event) {
+        var $tr = $(event.target).closest('tr')
+        var pid = $tr.attr('id')
+        $('table.data-table tr').removeClass('current');
+        $('table.data-table tr#'+ pid).addClass ('current');
     })
 
     function sort_table (field, asc) {
