@@ -133,7 +133,7 @@ function parse_kuali_award_info ($award_id, $kuali_resp, $match_criterion="SMART
 }
 
 /*
- * returns kauli response for proviced $award_id as object or array
+ * returns kauli response for provided $award_id as object or array
  */
 function get_kuali_response($award_id) {
 
@@ -144,13 +144,12 @@ function get_kuali_response($award_id) {
         '56145',
         '00036',
         '55088',
-        '1852977', // NCAR 2-18-2023
     );
+
     // we do not provide kuali info for skipped award ids
     if (in_array (get_minimal_award_id($award_id), $skip_award_ids)) {
         return null;
     }
-
 
     $base_url = 'https://www.fin.ucar.edu/kualiapi/awardsbysponsorawardid';
     $username = 'openskykcapi';

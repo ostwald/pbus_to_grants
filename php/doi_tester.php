@@ -16,7 +16,9 @@ include 'kuali.inc';
 
 //$BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/DOI-based_Testing/';
 //$BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/August_Testing/';
-$BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/2020_02_20_Testing/';
+// $BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/2020_02_20_Testing/';
+// $BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/award_id_data/';
+$BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/';
 
 //$match_criterion = 'STRICT';
 //    $match_criterion = 'NAIVE_PARTIAL';
@@ -148,16 +150,20 @@ function objAsTabDelimited($obj) {
 
 function write_wos_response ($doi, $wos_dom) {
     $pid = doi2pid($doi);
-    $path = $GLOBALS['BASE_DIR'] . 'wos/'. str_replace(':', '_', $pid) . '.xml';
+    $path = $GLOBALS['BASE_DIR'] . 'metadata/wos/'. str_replace(':', '_', $pid) . '.xml';
     print "$path\n";
     file_put_contents($path, $wos_dom->saveXML());
 }
 
 function write_crossref_response ($doi, $crossref_dom) {
     $pid = doi2pid($doi);
-    $path = $GLOBALS['BASE_DIR'] . 'crossref/'. str_replace(':', '_', $pid) . '.xml';
+    $path = $GLOBALS['BASE_DIR'] . 'metadata/crossref/'. str_replace(':', '_', $pid) . '.xml';
     print "$path\n";
-    file_put_contents($path, $crossref_dom->saveXML());
+    try {
+        file_put_contents($path, $crossref_dom->saveXML());
+    } catch (Exception $e) {
+        echo 'Error: ' . $id . ': ' . $e->getMessage();
+    }
 }
 
 function get_header() {
@@ -175,13 +181,14 @@ function get_header() {
 function test_doi($doi, $match_criterion) {
 
     $verbose = 0;
-    $save_xml_responses = 1;
+    $save_xml_responses = 0;
 
     $crossref = get_crossref_dom($doi);
-    //print ($crossref->saveXML());
+//     print ($crossref->saveXML());
 
     $wos_xml = get_wos_dom($doi);
-    //print ($wos_xml->saveXML());
+//     print ($wos_xml->saveXML());
+
 
     if ($save_xml_responses) {
         write_crossref_response($doi, $crossref);
@@ -191,12 +198,6 @@ function test_doi($doi, $match_criterion) {
 
     $wos_award_ids = $wos_data['award_ids'];
 
-//    print ("BEFORE\n");
-//    print_r ($wos_award_ids);
-
-    /// $wos_award_ids = tokenize_award_ids($wos_award_ids);
-
-///    asort($wos_award_ids);
     if ($verbose) {
         print ("\nWOS Award Ids\n");
         print_r($wos_award_ids);
@@ -220,17 +221,10 @@ function test_doi($doi, $match_criterion) {
         }
     }
 
-//    print ("BEFORE\n");
-//    print_r ($crossref_award_ids);
-
-    /// $crossref_award_ids = tokenize_award_ids($crossref_award_ids);
-
-///    asort($crossref_award_ids);
     if ($verbose) {
         print ("\nCrossRef Award Ids\n");
         print_r($crossref_award_ids);
     }
-
 
     $merged_award_ids = merge_award_ids($wos_award_ids, $crossref_award_ids);
 
@@ -243,8 +237,6 @@ function test_doi($doi, $match_criterion) {
     foreach ($merged_award_ids as $award_id) {
         $resp = get_kuali_award_info($award_id, $match_criterion);
         if ($resp) {
-//            print "$award_id\n";
-//            print_r ($resp);
             $validated_award_ids[] = $award_id;
         }
     }
@@ -279,36 +271,53 @@ function test_doi($doi, $match_criterion) {
 function process_multiple_dois($doi_blob, $match_criterion) {
     $dois = array_filter(array_map('trim', explode("\n", $doi_blob)));
 
-//    echo "there are " . count($dois) . " dois\n";
-
-//    $output_file = "/Users/ostwald/tmp/$match_criterion.txt";
+    echo "there are " . count($dois) . " dois\n";
     $output_file = $GLOBALS['BASE_DIR'] . "$match_criterion.txt";
     file_put_contents ($output_file, get_header() . "\n", FILE_APPEND);
-    $max = 2000;
-
+    $max = 6000;
+    $dois_cnt = count($dois);
     $cnt = 0;
     foreach ($dois as $doi) {
 
-        $pid = doi2pid($doi);
-//        echo "pid: $pid,  doi: $doi\n";
-        $path = $GLOBALS['BASE_DIR'] . 'wos/'. str_replace(':', '_', $pid) . '.xml';
+        try {
+            $pid = doi2pid($doi);
+        } catch (Exception $ex) {
+            echo 'WARN: ' . $ex->getMessage() . "\n";
+            continue;
+        }
+        $path = $GLOBALS['BASE_DIR'] . 'metadata/wos/'. str_replace(':', '_', $pid) . '.xml';
 
-        if (file_exists($path)) {
+        if (FALSE && file_exists($path)) {
             echo "- $pid exists\n";
             continue;
         }
+       echo "pid: $pid,  doi: $doi\n";
 
-        $result = test_doi($doi, $match_criterion);
+        try {
+            $result = test_doi($doi, $match_criterion);
+        } catch (Exception $ex) {
+            echo 'WARN: '. $doi . ' could not be processed: ' . $ex->getMessage() . "\n";
+            continue;
+        }
         $line = objAsTabDelimited($result) . "\n";
         file_put_contents ($output_file, $line, FILE_APPEND);
-        sleep(61);
+        sleep (0.2);
+//         sleep(61);  // WOS Throttling!
         $cnt++;
         if ($cnt == $max) {
             break;
         }
+        if ($cnt % 100 == 0) {
+            echo "$cnt/$dois_cnt\n";
+        }
     }
 }
 
+function test_single_pid ($pid, $match_criterion) {
+    $doi = pid2doi($pid);
+    echo "test_single_pid:  $pid\n";
+    return test_single_doi($doi, $match_criterion);
+}
 
 function test_single_doi ($doi, $match_criterion)
 {
@@ -331,6 +340,8 @@ function test_process_multiple_dois ($match_criterion)
 {
     $path = $GLOBALS['BASE_DIR'] . 'OPENSKY_DOIS.txt';
     $doi_blob = file_get_contents($path);
+    echo ("got the blob\n");
+//     echo ($doi_blob);
     process_multiple_dois($doi_blob, $match_criterion);
 }
 
@@ -353,10 +364,18 @@ function array_tester ()
 test_process_multiple_dois($match_criterion);
 
 
-if (false) {
+if (FALSE) {
     if (count($argv) > 1) {
         test_single_doi($argv[1], $match_criterion);
     } else {
         print "A DOI is required\n";
+    }
+}
+
+if (FALSE) {
+    if (count($argv) > 1) {
+        test_single_pid($argv[1], $match_criterion);
+    } else {
+        print "A PID is required\n";
     }
 }
