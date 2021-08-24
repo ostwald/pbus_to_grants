@@ -21,16 +21,15 @@ class AwardDatasetDebugger (AwardIdDatasetReader):
 
     def report_dups (self):
         if len(self.dup_pids) > 0:
-            print '{} dup pids found'.format(len(self.dup_pids))
-            for pid in self.dup_pids.keys():
+            print '\n{} dup pids found'.format(len(self.dup_pids))
+            for pid in sorted(self.dup_pids.keys()):
                 print '\n{}'.format(pid)
                 for doi in self.dup_pids[pid]:
                     print '-', doi
-
         if len(self.dup_dois) > 0:
-            print '{} dup dois found'.format(len(self.dup_dois))
-            for i, doi in enumerate(self.dup_dois.keys()):
-                print '\n{}/{} - {}'.format(i, len(self.dup_dois), doi)
+            print '\n{} dup dois found'.format(len(self.dup_dois))
+            for i, doi in enumerate(sorted(self.dup_dois.keys())):
+                print '\n{}/{} - {}'.format(i+1, len(self.dup_dois), doi)
                 for pid in self.dup_dois[doi]:
                     print self.pid_map[pid]
 
@@ -54,7 +53,9 @@ class AwardDatasetDebugger (AwardIdDatasetReader):
 
 
 if __name__ == '__main__':
-    reader = AwardDatasetDebugger(COMP_PATH)
-    # reader.report_dups()
+    # path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/SMART_PARTIAL.csv'
+    path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI-REFERENCE_TABLE.csv'
+    reader = AwardDatasetDebugger(path)
+    reader.report_dups()
     # print reader.dups_to_tabdelimited()
     # reader.write_dup_tabdelimited()

@@ -17,7 +17,7 @@ from ncarlibadmin.batch import feed as feeds, PIDProcessor
 from notes_mods import NotesMODS
 import lxml.etree as ET
 
-OLD_FUNDER_PAT = re.compile('.*?:[\s]+([\S]*)')  #  abbrev ignored
+# OLD_FUNDER_PAT = re.compile('.*?:[\s]+([\S]*)')  #  abbrev ignored
 
 
 """

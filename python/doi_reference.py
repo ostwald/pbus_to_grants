@@ -29,7 +29,7 @@ class DOIRefReader(CsvReader):
 
     def __init__ (self, path=None):
         if path is None:
-            path = "/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI_Reference_TABLE.csv"
+            path = "/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI-REFERENCE_TABLE.csv"
         self.last_mod_map = {}
         self.pid_map = {}
         CsvReader.__init__ (self, path)
@@ -41,9 +41,12 @@ class DOIRefReader(CsvReader):
 
 
 if __name__ == '__main__':
-    path = "/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI_Reference_TABLE.csv"
-    reader = DOIRefReader(path)
+    reader = DOIRefReader()
     print '{} records'.format(len(reader.data))
 
-    rec = reader.pid_map['articles:23042']
-    print rec['doi']
+    cnt = 0
+    for rec in reader.data:
+        if rec['legacy_award_ids']:
+            print rec['pid'], rec['legacy_award_ids']
+            cnt += 1
+    print cnt, 'recs with legacy award Ids'

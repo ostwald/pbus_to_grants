@@ -1,6 +1,8 @@
 """
 filter records according to a filter spec
 
+Dates are in YYYY-MM-DD format
+
 """
 import sys, time, urllib, codecs, json, copy
 # sys.path.append('/Users/ostwald/devel/python-lib')
@@ -26,9 +28,9 @@ class FilterSpec:
     start and end are in 2005-03-03' format
     """
     default_spec = {
-        'start' : '2014-01-01',
-        'end' : '2020-12-31',
-        'date_field' : 'pub_date',
+        'start' : '2010-01-01',
+        'end' : '2021-06-30',
+        # 'date_field' : 'pub_date',
     }
 
     def __init__ (self, **args):
@@ -37,11 +39,12 @@ class FilterSpec:
         self.spec = spec
 
     def accept (self, rec):
-
+        if not self.spec.has_key('date_field') or self.spec['date_field'] is None:
+            return 1
         date_field = self.spec['date_field']
-        if rec[date_field] < self.spec['start']:
+        if self.spec.has_key('start') and rec[date_field] < self.spec['start']:
             return False
-        if rec[date_field] > self.spec['end']:
+        if self.spec.has_key('end') and rec[date_field] > self.spec['end']:
             return False
         return True
 
@@ -52,7 +55,7 @@ class FilteringCsvReader (CsvReader):
         self.filter_spec = FilterSpec(**filter_args)
         CsvReader.__init__ (self, path)
         print '{} records before filtering'.format(len (self.data))
-        # print 'filter spec: {}'.format(self.filter_spec.spec)
+        print 'filter spec: {}'.format(self.filter_spec.spec)
         if filter_args is not None:
             self.filter_data()
 
@@ -69,10 +72,10 @@ class FilteringCsvReader (CsvReader):
         self.data = filtered
 
 if __name__ == '__main__':
-    filter_args = {'start':'2020-01-01', 'end':'2020-02-01'}
-    sort_args = {'field':'pid'}
+    my_filter_args = {'start':'2020-01-01', 'end':'2020-02-01'}
+    my_sort_args = {'field':'pid'}
     csv_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Award_Data_devel.csv'
-    reader = FilteringCsvReader (csv_path, filter_args, sort_args)
+    reader = FilteringCsvReader (csv_path, my_filter_args, my_sort_args)
     print '{} records after filtering'.format(len(reader.data))
 
     for rec in reader.data:

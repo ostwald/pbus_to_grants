@@ -105,7 +105,11 @@ class AwardIdList (UserList):
 
 
 class NotesMODS (MODS):
+    """
+    Extends MODS by providing support for the Notes element, particularly for FUNDING notes
 
+    e.g., a 'note' element used for associating funding with this record
+    """
     dowrites=0
     debugging=0
     old_funder_pat = re.compile('.*?:[\s]+([\S]*)')  #  abbrev ignored
@@ -136,14 +140,40 @@ class NotesMODS (MODS):
         return funders
 
 
-    def get_funding_notes (self):
-        return self.selectNodesAtPath (self.xpaths['note'])
+    def get_funding_notes (self, filter_spec=None):
+        """
+        :return: a list of all 'note' elements
+        """
+        notes = self.selectNodesAtPath (self.xpaths['note'])
+        if filter_spec == 'verified_only':
+            return filter (lambda x:x.get('displayLabel') is None, notes)
+        if filter_spec == 'legacy_only':
+            return filter (lambda x:x.get('displayLabel') is not None, notes)
+        return notes
     
     def remove_funding_notes(self):
+        """
+        remove each of the notes in the DOM (as obtained by get_funding_notes(())
+        """
         for note_el in self.get_funding_notes():
             note_el.getparent().remove(note_el)
 
+    def remove_funding_note(self, award_id, is_legacy=False):
+        for note_el in self.get_funding_notes():
+            if note_el.text.strip() == award_id:
+                if is_legacy and note_el.attrib['displayLabel'] == 'Legacy funding data':
+
+                    note_el.getparent().remove(note_el)
+                elif not is_legacy:
+                    note_el.getparent().remove(note_el)
+
     def add_funding_note (self, award_id, is_legacy=False):
+        """
+        add a note[@type='funding'] element to the DOM
+        :param award_id: kuali record handle
+        :param is_legacy: true if award_id cannot be verified in Kuali
+        :return:
+        """
         NS = "{%s}" % self.namespaces['mods']
         note = ET.SubElement(self.dom, NS+'note')
         note.attrib['type'] = 'funding'

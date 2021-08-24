@@ -89,8 +89,8 @@ def compare (path1, path2):
 if __name__ == '__main__':
 
 
-    path1 = '/Users/ostwald/devel/opensky/pubs_to_grants/composite_award_id_data/Award_id_data-Composite.csv'
-    path2 = '/Users/ostwald/devel/opensky/pubs_to_grants/composite_award_id_data/SMART_PARTIAL.csv'
+    path1 = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/cvs/Award_id_data.csv'
+    path2 = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/cvs/Sandbox_Test.csv'
 
     # reader = CsvReader(path2)
     # print '{} records read'.format(len(reader.data))

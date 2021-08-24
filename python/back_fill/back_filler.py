@@ -161,7 +161,7 @@ def back_fill_pid_tester (pid):
         ]
     fedoraObj = FedoraObject (pid)
     mods_xml = fedoraObj.get__MODS_stream()
-    NotesMODS.dowrites = 1
+    NotesMODS.dowrites = 0
     rec = NotesMODS (mods_xml, pid)
     rec.do_back_fill(award_ids)
     return rec

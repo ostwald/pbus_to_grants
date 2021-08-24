@@ -41,8 +41,39 @@ function test_awards_ids($award_ids) {
     }
 }
 
+function find_unique_candidates ($award_id) {
+    $response = get_kuali_response($award_id);
+
+    if (!isset ($response[0])) {
+        // this is an object, which means an empty result
+        print "no results found\n";
+        return null;
+    }
+
+    $fields_to_check = array ('sponsorAwardId', 'fainId');
+    $sought_award_id = sanitize_id ($award_id);
+    $unique_kuali_ids = array();
+    print count($response) . " results\n";
+    foreach ($response as $result) {
+        print_r($result);
+        foreach($fields_to_check as $field) {
+            $kuali_award_id = sanitize_id($result[$field]);
+            if (endsWith($kuali_award_id, $sought_award_id) ||
+                endsWith($sought_award_id, $kuali_award_id)) {
+                print "$award_id - partial match with $field field\n";
+                $unique_kuali_ids[] = $kuali_award_id;
+            }
+        }
+    }
+    foreach (array_unique($unique_kuali_ids) as $id) {
+        print "$id\n";
+    }
+}
+
 if (count($argv) > 1) {
-    full_test_award_id($argv[1]);
+//    full_test_award_id($argv[1]);
+    // test_award_id($argv[1]);
+    find_unique_candidates($argv[1]);
 }
 
 if (0) {

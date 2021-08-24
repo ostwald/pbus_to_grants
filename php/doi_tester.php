@@ -14,16 +14,39 @@
 include 'utilities.inc';
 include 'kuali.inc';
 
-//$BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/DOI-based_Testing/';
-//$BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/August_Testing/';
-// $BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/2020_02_20_Testing/';
-// $BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/award_id_data/';
 $BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/';
+$KUALI_RESPONSE_CACHE = get_kuali_response_cache();
 
 //$match_criterion = 'STRICT';
-//    $match_criterion = 'NAIVE_PARTIAL';
+//$match_criterion = 'NAIVE_PARTIAL';
 $match_criterion = 'SMART_PARTIAL';
 
+
+function get_kuali_response_cache () {
+    $kuali_cache_file = $GLOBALS['BASE_DIR'] .'kuali_cache.json';
+    $cache = array();
+
+    if (file_exists ($kuali_cache_file)) {
+        $raw_cache = json_decode(file_get_contents($kuali_cache_file), true);
+        foreach ($raw_cache as $key => $value) {
+            $mykey = is_numeric($key) ? strval($key) : $key;
+            $cache[$mykey] = $value;
+    //        print '--> ' .  $mykey + "\n";
+        }
+    } else {
+        print "cache file does not exist at $kuali_cache_file\n";
+    }
+
+    return $cache;
+}
+
+function write_get_kuali_response_cache() {
+    $kuali_cache_file = fopen($GLOBALS['BASE_DIR'] .'/kuali_cache.json', "w");
+    $cache_content = json_encode($GLOBALS['KUALI_RESPONSE_CACHE']);
+    fwrite ($kuali_cache_file, $cache_content);
+    fclose($kuali_cache_file);
+//    echo "updated KUALI_RESPONSE_CACHE\n";
+}
 
 // ------------------------
 /**
@@ -51,7 +74,7 @@ function get_award_id_tokens ($value)
  * result could be an award_id, return it. Otherwise return null.
  *
  * Possible award_ids must have at least 1 numeric char and must be longer than
- * 5 characters (the minumum that Kuali will match).
+ * 5 characters (the minimum that Kuali will match).
  *
  * @param $value -
  * @return mixed|null
@@ -148,21 +171,21 @@ function objAsTabDelimited($obj) {
     return implode ("\t", $pieces);
 }
 
-function write_wos_response ($doi, $wos_dom) {
+function write_wos_response_OFF ($doi, $wos_dom) {
     $pid = doi2pid($doi);
     $path = $GLOBALS['BASE_DIR'] . 'metadata/wos/'. str_replace(':', '_', $pid) . '.xml';
     print "$path\n";
     file_put_contents($path, $wos_dom->saveXML());
 }
 
-function write_crossref_response ($doi, $crossref_dom) {
+function write_crossref_response_OFF ($doi, $crossref_dom) {
     $pid = doi2pid($doi);
     $path = $GLOBALS['BASE_DIR'] . 'metadata/crossref/'. str_replace(':', '_', $pid) . '.xml';
     print "$path\n";
     try {
         file_put_contents($path, $crossref_dom->saveXML());
     } catch (Exception $e) {
-        echo 'Error: ' . $id . ': ' . $e->getMessage();
+        echo 'Error: ' . $pid . ': ' . $e->getMessage();
     }
 }
 
@@ -181,19 +204,11 @@ function get_header() {
 function test_doi($doi, $match_criterion) {
 
     $verbose = 0;
-    $save_xml_responses = 0;
+    $save_xml_responses = $GLOBALS['CACHE_XML_RESPONSES'];
 
     $crossref = get_crossref_dom($doi);
-//     print ($crossref->saveXML());
 
     $wos_xml = get_wos_dom($doi);
-//     print ($wos_xml->saveXML());
-
-
-    if ($save_xml_responses) {
-        write_crossref_response($doi, $crossref);
-        write_wos_response($doi, $wos_xml);
-    }
     $wos_data = opensky_get_wos_data($wos_xml);
 
     $wos_award_ids = $wos_data['award_ids'];
@@ -234,11 +249,46 @@ function test_doi($doi, $match_criterion) {
     }
 
     $validated_award_ids = array();
+    $num_cached_kuali_responses = count(array_keys($GLOBALS['KUALI_RESPONSE_CACHE']));
     foreach ($merged_award_ids as $award_id) {
-        $resp = get_kuali_award_info($award_id, $match_criterion);
-        if ($resp) {
-            $validated_award_ids[] = $award_id;
+
+        $award_id_key = is_numeric($award_id) ? (int)$award_id : $award_id;
+        // test cache here
+        if (isset ($GLOBALS['KUALI_RESPONSE_CACHE'][$award_id_key])) {
+            $cached_award_id = $GLOBALS['KUALI_RESPONSE_CACHE'][$award_id_key];
+            if ($cached_award_id) {
+                $validated_award_ids[] = $cached_award_id;
+                echo ("using CACHED Kuali repsonse for $award_id: $cached_award_id\n");
+            }
+        } else {
+//            echo ("using realtime Kuali repsonse for $award_id\n");
+            $resp = get_kuali_award_info($award_id, $match_criterion);
+
+
+            // find the kuali version of the award_id to put in metadata
+            if ($resp) {
+                // print json_encode($resp, JSON_PRETTY_PRINT);
+                // now pluck a value from the response. make sure the last
+                // 5 chars match
+                $fields_to_check = array ('sponsorAwardId', 'fainId');
+                foreach ($fields_to_check as $field) {
+                    $kuali_id = $resp[$field];
+                    if (substr($kuali_id, -5) == substr($award_id, -5)) {
+                        $validated_award_ids[] = $kuali_id;
+                        $GLOBALS['KUALI_RESPONSE_CACHE'][strval($award_id_key)] = $kuali_id;
+                        break;
+                    }
+                }
+            }
+            else {
+                $GLOBALS['KUALI_RESPONSE_CACHE'][strval($award_id_key)] = false;
+            }
         }
+    }
+
+
+    if (count(array_keys($GLOBALS['KUALI_RESPONSE_CACHE'])) > $num_cached_kuali_responses) {
+        write_get_kuali_response_cache();
     }
 
 
@@ -272,12 +322,20 @@ function process_multiple_dois($doi_blob, $match_criterion) {
     $dois = array_filter(array_map('trim', explode("\n", $doi_blob)));
 
     echo "there are " . count($dois) . " dois\n";
-    $output_file = $GLOBALS['BASE_DIR'] . "$match_criterion.txt";
+    $output_file = $GLOBALS['BASE_DIR'] . "$match_criterion.tsv";
     file_put_contents ($output_file, get_header() . "\n", FILE_APPEND);
-    $max = 6000;
+    $max = 7000;
     $dois_cnt = count($dois);
     $cnt = 0;
+    $start = 0;
     foreach ($dois as $doi) {
+        if ($cnt < $start) {
+            $cnt++;
+            continue;
+        }
+        if ($cnt > $dois_cnt) {
+            break;
+        }
 
         try {
             $pid = doi2pid($doi);
@@ -287,10 +345,10 @@ function process_multiple_dois($doi_blob, $match_criterion) {
         }
         $path = $GLOBALS['BASE_DIR'] . 'metadata/wos/'. str_replace(':', '_', $pid) . '.xml';
 
-        if (FALSE && file_exists($path)) {
-            echo "- $pid exists\n";
-            continue;
-        }
+//        if (file_exists($path)) {
+//            echo "- $pid exists\n";
+//            continue;
+//        }
        echo "pid: $pid,  doi: $doi\n";
 
         try {
@@ -322,7 +380,6 @@ function test_single_pid ($pid, $match_criterion) {
 function test_single_doi ($doi, $match_criterion)
 {
 
-
     $ret = test_doi($doi, $match_criterion);
     //echo (asTabDelimited($doi, $wos_award_ids, $crossref_award_ids, $validated_award_ids));
 
@@ -342,7 +399,7 @@ function test_process_multiple_dois ($match_criterion)
     $doi_blob = file_get_contents($path);
     echo ("got the blob\n");
 //     echo ($doi_blob);
-    process_multiple_dois($doi_blob, $match_criterion);
+     process_multiple_dois($doi_blob, $match_criterion);
 }
 
 function array_tester ()
@@ -363,8 +420,25 @@ function array_tester ()
 
 test_process_multiple_dois($match_criterion);
 
+if (0) {
+    // DOI passed as command line argument, e.g. 10.1038/s41597-020-0534-3
+    // % php doi_tester.php
+    if (count($argv) > 1) {
+//        test_single_doi($argv[1], $match_criterion);
+        $crossref = get_crossref_dom($argv[1]);
+        print ("CrossRef for $doi\n");
+        print ($crossref->saveXML());
+        $dest = '/Users/ostwald/tmp/CROSSREF-DOC.xml';
+        file_put_contents($dest, $crossref->saveXML());
+        print ("Wrote to $dest\n");
+    } else {
+        print "A DOI is required\n";
+    }
+}
 
 if (FALSE) {
+    // DOI passed as command line argument, e.g. 10.1038/s41597-020-0534-3
+    // % php doi_tester.php
     if (count($argv) > 1) {
         test_single_doi($argv[1], $match_criterion);
     } else {
@@ -372,7 +446,8 @@ if (FALSE) {
     }
 }
 
-if (FALSE) {
+if (0) {  // KUALI RESP CACHE testing
+
     if (count($argv) > 1) {
         test_single_pid($argv[1], $match_criterion);
     } else {

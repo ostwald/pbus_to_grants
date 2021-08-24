@@ -8,8 +8,13 @@ h2 {
     margin:0;
 }
 
+.doc-link {
+    margin-bottom:20px;
+}
+
 .data-table {
     border-collapse:collapse;
+    width:auto;
 }
 
 .data-table tr:nth-child(even) {
@@ -113,6 +118,7 @@ td.link-cell {
     text-align:center;
 }
 
+/* Nav Links */
 ul.nav-links {
     text-align:center;
     padding:0;
@@ -126,4 +132,26 @@ ul.nav-links>li {
 /*
     float:left;
 */
+}
+
+/* Home page slice summary table */
+.slice-summary-table {
+    border-collapse:collapse;
+    margin:20px 50px;
+}
+
+.slice-summary-table TD,
+.slice-summary-table TH {
+    padding:5px;
+    border:thin solid black;
+    font-size:85%;
+    text-align:center;
+}
+
+.slice-summary-table th {
+    background-color: #cccccc
+}
+
+.slice-summary-table tr:nth-child(even) {
+    background-color: #f2f2f2
 }

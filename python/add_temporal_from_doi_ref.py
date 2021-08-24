@@ -43,7 +43,7 @@ class TableMerger:
         return records
 
 
-    def write_merged_data(self, out_path='/Users/ostwald/tmp/MERGED_AWARD_DATA.txt'):
+    def write_merged_data(self, out_path='/Users/ostwald/tmp/MERGED_AWARD_DATA.tsv'):
         records = []
         records.append (self.get_header())
         data_records = self.get_merged_records()
@@ -58,10 +58,10 @@ class TableMerger:
 
 
 if __name__ == '__main__':
-    award_data_path= '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Award_id_data-Composite.csv'
-    doi_ref = DOIRefReader()
+    award_data_path= '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Cached_Award_Data.csv'
     award_data = AwardIdDatasetReader (award_data_path)
-
+    doi_ref_data_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI-REFERENCE_TABLE.csv'
+    doi_ref = DOIRefReader(doi_ref_data_path)
     merger = TableMerger (award_data, doi_ref)
 
     merger.write_merged_data()

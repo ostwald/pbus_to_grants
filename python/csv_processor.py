@@ -17,8 +17,6 @@ class CsvRecord:
         index = self.schema.index (fieldname)
         return self.data[index]
 
-
-
 class CsvReader(UserList):
 
     record_class = CsvRecord
@@ -56,18 +54,21 @@ def get_unique_values (path, field):
     return unique_vals
 
 def show_unique_values (path, field='kuali_verified_award_ids'):
+
     unique_vals = get_unique_values(path, field)
     unique_vals.sort()
-    for id in unique_vals:
-        print id
+    if 0:  # show items
+        for id in unique_vals:
+            print id
 
 
 
 
 if __name__ == '__main__':
 
-    path = '/Users/ostwald/devel/opensky/pubs_to_grants/August_Testing/SMART_PARTIAL_AGAIN.csv'
-    show_unique_values(path)
+    # path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/cvs/Award_id_data.csv'
+    path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/cvs/Sandbox_Test.csv'
+    show_unique_values(path, 'validated_award_ids')
 
     # show_award_id_tally (path)
     if 0:

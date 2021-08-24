@@ -20,6 +20,13 @@ class SliceWriter:
     html_base = config.html_base
 
     def __init__(self, path, filter_args):
+        """
+        dataset is a AwardIdDatasetReader that represents the csv file
+        at path.
+        filter_args define a Slice of data to be
+        :param path:
+        :param filter_args:
+        """
         self.dataset = self.get_dataset(path, filter_args)
         self.start = self.dataset.filter_spec.spec['start']
         self.end = self.dataset.filter_spec.spec['end']
@@ -31,6 +38,12 @@ class SliceWriter:
             os.mkdir (self.dirname)
 
     def get_dataset (self, path, filter_args):
+        """
+        NOTE: data is sorted by 'created' by default
+        :param path:
+        :param filter_args:
+        :return:
+        """
         sort_args = {'field':'created', 'reverse': False}
         return AwardIdDatasetReader(path, filter_args, sort_args)
 
@@ -63,9 +76,34 @@ class SliceWriter:
         summary.append (nav_links)
         return summary
 
+    def get_summary_table_row(self):
+        """
+
+        :return: an TR row containing info about this slice as well as
+        links to more detailed data
+        """
+        num_records_total = len(self.dataset.data)
+        num_records_with_funding_info = len(self.dataset.get_recs_having_award_id())
+        num_unique_award_ids = len(self.dataset.get_unique_award_ids())
+        percent_finding_info = int(100 * float(num_records_with_funding_info) / num_records_total)
+        award_ids_per_record = '{:.2f}'.format(float(self.dataset.get_total_award_ids()) / num_records_total)
+
+        row = TR(
+            TD(self.start),
+            TD(self.end),
+            TD(num_records_total),
+            TD(percent_finding_info),
+            TD(award_ids_per_record),
+            TD(num_unique_award_ids),
+            TD(A ("All Records", href="{}/match-results.html".format(self.name)), klass="link-cell"),
+            TD(A ("Award ID Tally", href="{}/results-tally.html".format(self.name)))
+        )
+
+        return row
+
     def get_html_summary (self):
         """
-        to be shown on TOC page
+        summary of slice to be shown on TOC page
         :return:
         """
         summary = DIV(klass="slice-summary")
@@ -77,7 +115,10 @@ class SliceWriter:
         num_records_total = len(self.dataset.data)
         num_records_with_funding_info = len(self.dataset.get_recs_having_award_id())
         num_unique_award_ids = len(self.dataset.get_unique_award_ids())
-        percent_finding_info = int(100 * float(num_records_with_funding_info) / num_records_total)
+        try:
+            percent_finding_info = int(100 * float(num_records_with_funding_info) / num_records_total)
+        except ZeroDivisionError:
+            percent_finding_info = 0
 
         table = TABLE(klass='slice-table')
         table.append(TR (TD ("{} Records total, {}% have funding info".format(num_records_total, percent_finding_info)),
@@ -142,6 +183,10 @@ class HomeSlice(SliceWriter):
         return doc
 
     def write_slice_data (self):
+        """
+        writes json representing the data for this slice, to file
+        :return:
+        """
         slice = self.dataset
         data = {
             'filter_spec' : slice.filter_spec.spec,

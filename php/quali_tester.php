@@ -12,7 +12,8 @@ function test()
 //    $award_id = '484--80'; // mulitple partial
 //    $award_id = 'DE-FC02-97ER62402'; // false partial
 
-    $award_id = '428692'; //
+//    $award_id = 'AGS0856145'; //
+    $award_id = 'AGS1502208'; //
 
 
     print "------------------\n$award_id\n";
@@ -28,9 +29,10 @@ function test()
         print "\nINFO\n";
         print_r($info);
 
+
         $kuali_id = get_kuali_award_id($award_id, $match_criterion);
         print "\nkuali_id: $kuali_id\n";
     }
 }
 
-// test();
+ test();

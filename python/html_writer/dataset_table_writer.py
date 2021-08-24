@@ -140,7 +140,10 @@ class DatasetSliceWriter (SliceWriter):
 
         num_records_total = len(self.dataset.data)
         num_records_with_funding_info = len(self.dataset.get_recs_having_award_id())
-        percent_finding_info = int(100 * float(num_records_with_funding_info) / num_records_total)
+        if num_records_total == 0:
+            percent_finding_info = 0
+        else:
+            percent_finding_info = int(100 * float(num_records_with_funding_info) / num_records_total)
 
         all_records_stats = "{} Records, {}% have funding info".format(num_records_total, percent_finding_info)
         doc.append (DIV (all_records_stats, id="all-records-stats"))

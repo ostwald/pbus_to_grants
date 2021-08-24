@@ -3,6 +3,7 @@ import json
 import requests
 from requests.auth import HTTPBasicAuth
 
+sys.path.append ('/Users/ostwald/devel/opensky/pubs_to_grants')
 from python.client import config
 
 class KualiClientException (Exception):
@@ -10,15 +11,16 @@ class KualiClientException (Exception):
 
 class KualiClient:
 
-    base_url = config.base_url
     username = config.username
     password = config.password
     raw_skip_award_ids = config.skip_award_ids
 
     sanitize_pat = re.compile('[^A-Za-z0-9 ]')
+    three_letter_start_pat = re.compile('[a-zA-Z]{3}')
 
 
-    def __init__ (self):
+    def __init__ (self, base_url=None):
+        self.base_url = base_url is not None and base_url or config.production_base_url
         self.skip_award_ids = self.make_skip_list()
 
     def make_skip_list (self):
@@ -28,6 +30,11 @@ class KualiClient:
         return skippers
 
     def sanitize_id (self, id):
+        """
+        Remove all chars that are not letters or numbers
+        :param id:
+        :return:
+        """
         return re.sub (self.sanitize_pat, '', id)
 
     def get_kuali_award_id (self, award_id):
@@ -43,27 +50,76 @@ class KualiClient:
         # print 'info is a {}'.format(type(info))
         # print json.dumps(info, indent=3)
 
+        """
         if info is not None:
+            # on a total whiff, the fainId field is none
             if info['fainId'] == 'none':
                 print 'MISS'
                 return None
 
             for field in ['sponsorAwardId', 'fainId']:
+                if info[field] is None:
+                    continue
                 sought_id = self.sanitize_id(info[field])
                 test_id = self.sanitize_id(award_id)
+
+                # kludge for when the ids only differ but a 3-char prefix
+                if three_letter_start_pat.match(test_id[:3]):
+                    test_id = test_id[3:]
+
 
                 # print 'sought: "{}"  test: "{}"'.format(sought_id,test_id)
                 if sought_id.endswith (test_id):
                     return info[field]
 
+                if test_id.endswith (sought_id):
+                    return info[field]
+
         # print 'not found'
         return None
+        """
+        return self.find_kuali_id_in_result(award_id, info)
+
+    def find_kuali_id_in_result(self, award_id, info):
+
+        # on a total whiff, the fainId field is none
+        if info['fainId'] == 'none':
+            print 'MISS'
+            return None
+
+        for field in ['sponsorAwardId', 'fainId']:
+            if info[field] is None:
+                continue
+            sought_id = self.sanitize_id(info[field])
+            test_id = self.sanitize_id(award_id)
+
+            # kludge for when the ids only differ but a 3-char prefix
+            if self.three_letter_start_pat.match(test_id[:3]):
+                test_id = test_id[3:]
+
+
+            # print 'sought: "{}"  test: "{}"'.format(sought_id,test_id)
+            if sought_id.endswith (test_id):
+                return info[field]
+
+            if test_id.endswith (sought_id):
+                return info[field]
 
     def get_minimal_award_id(self, award_id):
+        """
+        Kuali only matches the last 5 characters, so a minimal version of a given award_id
+        takes the last 5 chars  of the given award_id after sanitizing it.
+        :param award_id:
+        :return:
+        """
         return self.sanitize_id(award_id)[-5:].upper()
 
     def accept_award_id(self, award_id):
-
+        """
+        Test given award_id against the skip_award_ids in config
+        :param award_id:
+        :return:
+        """
         return not self.get_minimal_award_id(award_id) in self.skip_award_ids
 
     def get_kuali_response (self, award_id):
@@ -134,8 +190,14 @@ class KualiClient:
 
             # get kuali's version of the award_id, not necessarily what we searched for (sought)
             for result in results:
+                award_id = self.find_kuali_id_in_result(award_id, result)
+                if award_id is not None:
+                    return result
+                """
                 fields_to_check = ['sponsorAwardId', 'fainId']
                 for field in fields_to_check:
+                    if result[field] is None:
+                        continue
                     kuali_award_id = self.sanitize_id (result[field])
                     sought_award_id = self.sanitize_id (award_id)
 
@@ -143,16 +205,53 @@ class KualiClient:
                     if extra > 0:
                         sought_award_id = sought_award_id[extra:]
 
+                    # if sought_award_id.startswith("AGS"):
+                    #     sought_award_id = sought_award_id[3:]
+
                     if kuali_award_id.endswith(sought_award_id):
                         # print '\n{} - partial match with {} field'.format(award_id, field)
                         return result
-
+                """
         else:
             print 'could not process results ({})'.format(type(results))
 
-if __name__ == '__main__':
-    award_id = '23489'
+def tester (award_id):
+
     client = KualiClient()
     resp = client.get_kuali_response(award_id)
     print json.dumps(resp, indent=3)
     print '\n - {} hits for {}'.format(client.get_num_hits(award_id), award_id)
+
+    selected_award_info = client.get_kuali_award_info(award_id)
+    print 'award_info: ', json.dumps(selected_award_info, indent=3)
+
+    if selected_award_info:
+        kuali_award_id = client.get_kuali_award_id(award_id)
+        print 'verified kuali award_id:', kuali_award_id
+
+if __name__ == '__main__':
+
+    if 1:
+        # award_id = '23-489' # yes
+        # award_id = 'AGS0856145' # yes
+        award_id = '01830' # yes
+        # award_id = 'AGS0856145' # yes
+        # award_id = 'N999999' # no
+        # award_id = '1755088' # no
+        # award_id = 'DEAC0576RL01830' # yes
+        tester (award_id)
+
+
+    if 0:
+        client = KualiClient()
+
+        ids = [
+            'AGS1502208',
+            'AGS1522830',
+            'AGS1660587',
+            'AGS0745337',
+            'AGS0856145',
+        ]
+        for award_id in ids:
+            kuali_award_id = client.get_kuali_award_id(award_id)
+            print 'raw id: {} verified kuali id: {}'.format(award_id, kuali_award_id)

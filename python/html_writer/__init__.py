@@ -87,7 +87,8 @@ if __name__ == '__main__':
     filter_args = {'start':'2020-01-01', 'end':'2020-08-01', 'date_field':'created'}
     sort_args = {'field':'created'}
     # csv_path = '/Users/ostwald/devel/opensky/pubs_to_grants/August_Testing/SMART_PARTIAL.csv'
-    csv_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Award_Data_devel.csv'
+    # csv_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Award_Data_devel.csv'
+    csv_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI-REFERENCE_TABLE.csv'
     slice = Slice (csv_path, filter_args)
     print 'slice at: ', slice.dirname
     slice.write_html()

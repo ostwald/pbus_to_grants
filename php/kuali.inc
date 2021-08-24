@@ -27,17 +27,25 @@ function sanitize_id ($raw) {
  */
 function get_kuali_award_id ($award_id, $match_criterion="SMART_PARTIAL") {
 //    print "get_kuali_award_id: $award_id\n";
-    $info = get_kuali_award_info ($award_id, $match_criterion);
-    if (!$info) {
+
+    // award info is the return from the Kuali API containing possibly many
+    // hits
+    $match_info = get_kuali_award_info ($award_id, $match_criterion);
+    if (!$match_info) {
         print "no info\n";
         return null;
     }
 
+    // we look for matches in these fields.
+    // we return the first match we find.
     $fields_to_check = array ('sponsorAwardId', 'fainId');
     forEach ($fields_to_check as $field) {
-        print "- $info[$field]\n";
-        if (endswith(sanitize_id($info[$field]), sanitize_id($award_id))) {
-            return $info[$field];
+        // when comparing info fields with an award_id, if either is entirely consumed
+        // by the other, then we call it a match
+        print "- $match_info[$field]\n";
+        if (endswith(sanitize_id($match_info[$field]), sanitize_id($award_id))  ||
+            endswith(sanitize_id($award_id),sanitize_id($match_info[$field])))  {
+            return $match_info[$field];
         }
     }
     print "never found\n";
@@ -66,7 +74,6 @@ function get_kuali_award_info ($award_id, $match_criterion="SMART_PARTIAL") {
  * choose the best match if there more than 1 candidates.
  */
 function parse_kuali_award_info ($award_id, $kuali_resp, $match_criterion="SMART_PARTIAL") {
-
 
     if (!isset ($kuali_resp[0])) {
         // this is an object, which means an empty result
@@ -111,7 +118,6 @@ function parse_kuali_award_info ($award_id, $kuali_resp, $match_criterion="SMART
             $extra = strlen($sought_award_id) - strlen($kuali_award_id);
             if ($extra > 0) {
                 $sought_award_id = substr($sought_award_id, $extra);
-
             }
 
             if (endsWith($kuali_award_id, $sought_award_id)) {
@@ -133,18 +139,31 @@ function parse_kuali_award_info ($award_id, $kuali_resp, $match_criterion="SMART
 }
 
 /*
+    here we hard code. the skip_award_ids are configured in stage and opensky.
+    The configs on PROD are the "truth", and the IDs here should be synced with PROD
+    if we are doing production work (like Kuali QA)
+*/
+function get_skip_award_ids () {
+    return array(
+    'DEAC0576L01830',
+    'DEAC0576RL01830',
+//        '01830',
+//        '99999',
+//        '27344',
+//        '22725',
+//        '28308',
+        //        '56145', // do NOT skip (but do not resolve/display title in UI)
+        //        '00036', // do NOT skip (but do not resolve/display title in UI)
+        //        '55088', // do NOT skip (but do not resolve/display title in UI)
+    );
+}
+
+/*
  * returns kauli response for provided $award_id as object or array
  */
 function get_kuali_response($award_id) {
 
-
-    $skip_award_ids = array(
-        '01830',
-        '99999',
-        '56145',
-        '00036',
-        '55088',
-    );
+    $skip_award_ids = get_skip_award_ids();
 
     // we do not provide kuali info for skipped award ids
     if (in_array (get_minimal_award_id($award_id), $skip_award_ids)) {
@@ -152,12 +171,15 @@ function get_kuali_response($award_id) {
     }
 
     $base_url = 'https://www.fin.ucar.edu/kualiapi/awardsbysponsorawardid';
+//    $base_url = 'http://fatomcat-test.fin.ucar.edu:8081/kualiapi/awardsbysponsorawardid';
     $username = 'openskykcapi';
     $password = 'W!n+er5now#';
 
     $ch = curl_init();
+//    print "query award_id: " . make_query_id($award_id) . "\n";
+
     $options = array(
-        CURLOPT_URL => $base_url.'?sponsorAwardId='.$award_id,
+        CURLOPT_URL => $base_url.'?sponsorAwardId='.make_query_id($award_id),
         CURLOPT_USERPWD => $username . ":" . $password,
         CURLOPT_RETURNTRANSFER => 1
     );
@@ -168,7 +190,7 @@ function get_kuali_response($award_id) {
 
     $response = json_decode($resp, true);
 
-//    print json_encode($response, JSON_PRETTY_PRINT);
+    print json_encode($response, JSON_PRETTY_PRINT) ."\n";
 
     return $response;
 
@@ -190,4 +212,14 @@ function get_minimal_award_id ($award_id) {
         return $award_id;
     }
     return strtoupper(substr($sanitized, -5));
+}
+
+function make_query_id ($award_id) {
+    // important - leave dashes in
+    $normalized = preg_replace("/[^A-Za-z0-9\-]/", '', $award_id);
+    if (strlen($normalized) < 5) {
+        return $award_id;
+    } else {
+        return strtoupper(substr($normalized, -5));
+    }
 }
