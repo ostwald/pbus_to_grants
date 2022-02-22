@@ -6,17 +6,20 @@ Cached_Award_Data validated_award_ids for that record.
 - If reference award_ids include a skip_award_id, remove it.
 - If a validated_award_id is not present in the reference, then add it.
 
-We are not worried about legacy award ids here, but these must also be dealt with ....
+We are not worried about legacy award ids here, these are dealt with in legacy_sync ....
 """
 
 import os, sys, re, time
+sys.path.append ('/Users/ostwald/devel/projects/library-utils')
+sys.path.append ('/Users/ostwald/devel/projects/library-admin')
+
 import json
 from csv_processor import CsvRecord, CsvReader
 from UserDict import UserDict
 from back_fill import NotesMODS
+from kuali_cache import KualiCache
 
-sys.path.append ('/Users/ostwald/devel/projects/library-utils')
-sys.path.append ('/Users/ostwald/devel/projects/library-admin')
+
 from ncarlibutils.fedora import CONFIG
 from ncarlibadmin.islandora_client import IslandoraObject
 from ncarlibadmin.batch import clean_mods
@@ -25,6 +28,9 @@ from lxml import etree as ET
 XSLT_CLEAN_PATH = '/Users/ostwald/devel/projects/library-admin/ncarlibadmin/batch/job/fall_2016/xslt/cleanup.xsl'
 
 class AwardIdRecord (CsvRecord):
+    """
+    Extends CsvRecord - exposes pid and ids
+    """
     award_id_column = ''
 
     def __init__ (self, data, schema):
@@ -43,6 +49,15 @@ class AwardIdRecord (CsvRecord):
 
 
 class AwardIdTable (CsvReader):
+    """
+    Extends CsvReader to build:
+    - pid_map - maps pids to the award_ids they contain
+    - rec_map - maps pids to their records (AwardIdRecord instances)
+
+    provides:
+    - get_rec (pid)
+    - git_ids (pid)
+    """
     record_class = AwardIdRecord
 
     def __init__ (self, path):
@@ -60,11 +75,11 @@ class AwardIdTable (CsvReader):
     def get_ids(self, pid):
         return self.pid_map[pid]
 
-class RefRecord (AwardIdRecord):
+class CurrentAwardIdsRecord (AwardIdRecord):
     award_id_column = 'award_ids'
 
-class RefTable (AwardIdTable):
-    record_class = RefRecord
+class CurrentAwardIdsTable (AwardIdTable):
+    record_class = CurrentAwardIdsRecord
 
 class CacheRecord (AwardIdRecord):
     award_id_column = 'validated_award_ids'
@@ -73,196 +88,152 @@ class CacheTable (AwardIdTable):
     record_class = CacheRecord
 
 class Synchonizer:
+    """
+    CurrentAwardIdsTable (read from provided ref_csv). Contains current award_id assignments
+    CacheTable (read from provided cache_csv). Contains cached award_id assignments
+    """
+    dowrites = 0
+    verbose = 1
+    kuali_award_selector = '/mods:mods/mods:note[@type="funding" and not(@displayLabel)]'
 
-    dowrites = 1
+    def __init__(self, ref_csv, cache_csv):
+        self.ref_table = CurrentAwardIdsTable (ref_csv)
+        self.cache_table = CacheTable (cache_csv)
+        self.kuali_cache = KualiCache()
 
-    def __init__(self, ref_data, cache_data):
-        self.ref_table = RefTable (ref_data)
-        self.cache_table = CacheTable (cache_data)
+    def do_sync (self):
+        pids = self.ref_table.pid_map.keys()
+        pids.sort()
+        for pid in pids:
+            self.sync_pid(pid)
+            # print pid
 
-    def report(self):
-        for pid in self.ref_table.pid_map.keys():
-            ref_ids = self.ref_table.pid_map[pid]
-            if not self.cache_table.pid_map.has_key(pid):
-                continue
+    def sync_pid (self, pid):
+        ref_ids = self.ref_table.pid_map[pid] # ref_ids are what are currently in the record
+        if not self.cache_table.pid_map.has_key(pid):
+            cache_ids = []
+        else:
             cache_ids = self.cache_table.pid_map[pid]
+        all_ids = ref_ids + cache_ids
 
-            if set(ref_ids) == set(cache_ids):
-                continue
+        # kuali_ids are all kuali-verified but may contain dupes
+        kuali_ids = filter (None, map (lambda x:self.kuali_cache.find_kuali_id(x), all_ids))
 
-            print '-{} - ref: {},  cache: {}'.format(pid, ref_ids, cache_ids)
+        # target_award_ids have no dups - these are the ids we want in the record
+        target_award_ids = list(set(kuali_ids))
 
-            # if '1852977' in cache_ids and not '1852977' in ref_ids:
-            #     print ' -- add 1852977'
+        if sorted(target_award_ids) == sorted(ref_ids):
+            if self.verbose:
+                print '\n{} - no change'.format(pid)
+            return
 
-            for cache_id in cache_ids:
-                if cache_id in ref_ids:
-                    continue
-                elif len(ref_ids) == 0:
-                    print ' -- add', cache_id
-                    continue
-                else:
-                    found = 0
-                    for ref_id in ref_ids:
-                        if cache_id.endswith(ref_id[-5:]) and ref_id != cache_id:
-                            print ' -- replace {} with {}'.format(ref_id, cache_id)
-                            found = 1
-                            break
-                    if not found:
-                        print ' -- add', cache_id
-                        pass
+        if self.verbose:
+            print '\n{}'.format(pid)
+            print ' - ref_ids: {}'.format(ref_ids)
+            print ' - cache_ids: {}'.format(cache_ids)
+            print ' - TARGET_ids: {}'.format(target_award_ids)
 
-    def get_sync_script(self, verbose=0):
-        """
-        json looks like this:
-        [
-            {
-                pid: {
-                    ref_ids: [],
-                    cache_ids: [],
-                    ops: [
-                        { 'op' : 'add', 'award_id' :'asdsafd'},
-                        {'op': 'replace', 'old' : 'adsfasf',  'new' : 'asdfsaddd'}
-                    ]
-                },
-            ...
-        ]
-        :return:
-        """
-        script = []
-        for pid in self.ref_table.pid_map.keys():
-            ref_ids = self.ref_table.pid_map[pid]
-            if not self.cache_table.pid_map.has_key(pid):
-                continue
-            cache_ids = self.cache_table.pid_map[pid]
+        islandora_object = IslandoraObject(pid)
+        mods = islandora_object.get_mods_record()
 
-            if set(ref_ids) == set(cache_ids):
-                continue
-            if verbose:
-                print '-{} - ref: {},  cache: {}'.format(pid, ref_ids, cache_ids)
+        # safe guard against processing a record twice ....
+        # existing_award_ids = mods.getValuesAtPath('/mods:mods/mods:note[@type="funding" and not @displayLabel]')
+        existing_award_ids = mods.getValuesAtPath(self.kuali_award_selector)
+        print 'existing_award_ids:', existing_award_ids
+        if sorted(target_award_ids) == sorted(existing_award_ids):
+            print '\n{} - record already processed'.format(pid)
+            return
 
-            pid_item = {
-                'pid':pid,
-                'ref_ids': ref_ids,
-                'cache_ids': cache_ids,
-                'ops' : []
-            }
+        self.backup_obj(pid, str(mods))
 
-            script.append(pid_item)
-            # if '1852977' in cache_ids and not '1852977' in ref_ids:
-            #     print ' -- add 1852977'
+        for award_id in target_award_ids:
+            if not award_id in ref_ids:
+                # add this award_id
+                self.add_award_id_to_mods(award_id, mods)
+        for award_id in ref_ids:
+            if not award_id in kuali_ids:
+                # remove this award_id
+                self.remove_award_id_from_mods (award_id, mods)
 
-            pid_ops = pid_item['ops']
-            for cache_id in cache_ids:
-                if cache_id in ref_ids:
-                    continue
-                elif len(ref_ids) == 0:
-                    if verbose:
-                        print ' -- add', cache_id
-                    pid_ops.append ({'op' : 'add', 'award_id' : cache_id})
-                    continue
-                else:
-                    found = 0
-                    for ref_id in ref_ids:
-                        if cache_id.endswith(ref_id[-5:]) and ref_id != cache_id:
-                            if verbose:
-                                print ' -- replace {} with {}'.format(ref_id, cache_id)
-                            pid_ops.append ({'op' : 'replace', 'old':ref_id, 'new': cache_id})
-                            found = 1
-                            break
-                    if not found:
-                        if verbose:
-                            print ' -- add', cache_id
-                        pid_ops.append ({'op':'add', 'award_id' : cache_id})
-        return script
+        self.remove_dup_award_ids(mods)
 
-    def do_sync(self):
-        max = 10000
-        sync_script = self.get_sync_script()
-        for i, item in enumerate(sync_script):
-            if i > 0 and i % 100 == 0:
-                print '{}/{}'.format(i, len(sync_script))
-            pid = item['pid']
-            if i >= max:
-                break
-            print '\n', pid
-            ops = item['ops']
-            if len(ops) == 0:
-                print '- skipping because there are no ops ...'
-                continue
-            if os.path.exists(self.get_backup_path(pid)):
-                print '- already synced'
-            else:
-                self.sync_object(pid, ops)
-
-
-    def sync_object (self, pid, ops):
-        obj = IslandoraObject (pid)
-        # print obj.get_mods_datastream()
-        mods = NotesMODS(obj.get_mods_datastream(), pid)
-        backup_mods_xml = str(mods)
-
-        for action in ops:
-            op = action['op']
-            if op == 'add':
-                award_id = action['award_id']
-                verified_ids = map (lambda x:x.text, mods.get_funding_notes(True))
-                if award_id in verified_ids:
-                    print '- add: {} already exists'.format(award_id)
-                    continue
-                mods.add_funding_note (award_id)
-
-            if op == 'replace':
-                new_id = action['new']
-                verified_ids = map (lambda x:x.text, mods.get_funding_notes(True))
-                if new_id in verified_ids:
-                    print '- replace: {} already exists'.format(new_id)
-                else:
-                    mods.add_funding_note(new_id)
-                mods.remove_funding_note(action['old'])
+        cleaned_mods = clean_mods(mods.dom, XSLT_CLEAN_PATH)
+        mods_xml = ET.tostring(cleaned_mods, pretty_print=1, encoding='utf8')
 
         if self.dowrites:
-            mods_tree = clean_mods(mods.dom, XSLT_CLEAN_PATH)
-            obj.put_mods_datastream (ET.tostring(mods_tree, pretty_print=1))
-            self.backup_obj(pid, backup_mods_xml)
-            print 'updated', pid
-            time.sleep(0.95)
+            islandora_object.put_mods_datastream (mods_xml)
+            print '- updated', pid
+            time.sleep(.5)
         else:
-            print pid, 'verified award_ids after update'
-            print map(lambda x:x.text, mods.get_funding_notes('verified_only'))
+            print '- woulda updated', pid
+            # print mods_xml
+
+    def remove_dup_award_ids(self, mods):
+        seen_ids = []
+        award_id_nodes = mods.selectNodesAtPath(self.kuali_award_selector)
+        for node in award_id_nodes:
+            award_id = node.text
+            if award_id in seen_ids:
+                node.getparent().remove(node)
+            else:
+                seen_ids.append(award_id)
+
+    def add_award_id_to_mods(self, award_id, mods):
+        # print '- adding', award_id
+        #  create the funding note for mods
+        new_note_name = '{%s}%s' % (mods.namespaces['mods'], 'note')
+        new_note = ET.Element(new_note_name)
+        new_note.set('type', 'funding')
+        new_note.text = award_id
+
+        # insert it in mods doc
+        funding_notes = mods.selectNodesAtPath('/mods:mods/mods:note[@type="funding"]')
+        if len(funding_notes) > 0:
+            mods.dom.insert(mods.dom.index(funding_notes[-1])+1, new_note)
+            # print ' - inserted ', award_id
+        else:
+            mods.dom.append(new_note)
+            # print ' - appended ', award_id
+
+    def remove_award_id_from_mods(self, award_id, mods):
+        # print 'removing', award_id
+        funding_notes = mods.selectNodesAtPath(self.kuali_award_selector)
+        for node in funding_notes:
+            if node.text == award_id:
+                node.getparent().remove(node)
+                # print ' - removed', award_id
+
 
     def backup_obj (self, pid, mods):
-
-        fp = open(self.get_backup_path(pid), 'w')
-        fp.write (mods)
+        path = self.get_backup_path(pid)
+        if not os.path.exists(path):
+            fp = open(path, 'w')
+            fp.write (mods)
 
     def get_backup_path(self, pid):
-        backupdir = '/Users/ostwald/tmp/pubs_to_grants_backups'
+        backupdir = '/Users/ostwald/tmp/pre_sync_backup'
+        if not os.path.exists(backupdir):
+            os.mkdir (backupdir)
         filename = pid.replace (':', '_') + '.xml'
         return os.path.join (backupdir, filename)
 
 if __name__ == '__main__':
     ref_data = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI-REFERENCE_TABLE.csv'
-    cache_data = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Cached_Award_Data.csv'
+    ref_data = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI-LEGACY-REFERENCE_TABLE.csv'
+    # cache_data = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Cached_Award_Data.csv'
+    cache_data = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/SMART_PARTIAL.csv'
 
     sync = Synchonizer(ref_data, cache_data)
-    print sync.report()
-    # print json.dumps (sync.get_sync_script(), indent=2)
-    # sync.do_sync()
 
+    if 1:
+        sync.do_sync()
 
-
-
-    # print json.dumps(script, indent=2)
-
-    if 1: # script tester
-        pid = 'articles:22652'
-        ops = [
-            {'op': 'add', 'award_id' : '1755088'},
-            # {'op': 'replace', 'old' : 'DESC0016476', 'new': 'DE-SC0016476'},
-            # {'op': 'replace', 'old' : 'DESC0020104', 'new': 'DE-SC0020104'}
-        ]
-
-        sync.sync_object (pid, ops)
+    if 0: # script tester
+        pid = 'articles:19755'
+        # pid = 'articles:18702'
+        # pid = 'articles:22287'
+        # pid = 'articles:22993'
+        # pid = 'articles:24651'
+        sync.sync_pid (pid)
 
 

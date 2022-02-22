@@ -36,10 +36,6 @@ def get_award_id (value):
     # if it doesn't have a number, reject it
     if not num_pat.search(val):
         return None
-
-
-    # has_numeric =
-
     return val
 
 def get_award_id_tokens(val):

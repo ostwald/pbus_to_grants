@@ -37,7 +37,16 @@ function test_award_id ($award_id) {
 
 function test_awards_ids($award_ids) {
     foreach ($award_ids as $award_id) {
-        test_award_id ($award_id);
+        // test_award_id ($award_id);
+//        print "\nTEST AWARD_ID \"$award_id\" --------------------------\n";
+        $kuali_award_id = get_kuali_award_id ($award_id);
+        if ($kuali_award_id) {
+//            print "Kuali award_id: $kuali_award_id\n";
+            print "$award_id\t$kuali_award_id\n";
+        }
+        else {
+//            print "Kuali award_id: not found\n";
+        }
     }
 }
 
@@ -70,6 +79,12 @@ function find_unique_candidates ($award_id) {
     }
 }
 
+function get_ids_from_file ($path) {
+    $id_blob = file_get_contents($path);
+    $ids = array_filter(array_map('trim', explode("\n", $id_blob)));
+    return $ids;
+}
+
 if (count($argv) > 1) {
 //    full_test_award_id($argv[1]);
     // test_award_id($argv[1]);
@@ -78,9 +93,23 @@ if (count($argv) > 1) {
 
 if (0) {
     $ids = array(
-        'NA13OAR43-101/38',
-        '4310138',
-        '13OAR4310138',
+//    'FA95501610050',  // should NOT be found since kuali record has - in right most 5
+//    '-0050',            // yup
+//    'FA9550-16-1-0050',  // yup
+//    'DE-FC02-97ER62402', // nope
+//    '97ER62402',         // yep
+//    '207na27344',        // nope (skipper frag)
+//    'DEAC5207NA27344',   // nope (skipper)
+//    'FA9550-16-1___-005__##@#$#$#@_0',  // yup
+    '20156700323460',  // yup
+    '10-1110-NCAR'
+
     );
+    test_awards_ids ($ids);
+}
+
+if (1) {
+    $path = '/Users/ostwald/tmp/no_cache_ids.txt';
+    $ids = get_ids_from_file($path);
     test_awards_ids ($ids);
 }

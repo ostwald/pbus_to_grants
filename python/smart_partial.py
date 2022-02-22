@@ -17,9 +17,9 @@ See the output from report_tally_map
 """
 
 import os, sys, re
-from csv_processor import CsvRecord, CsvReader
 from UserDict import UserDict
-
+from award_id_dataset_csv_reader import AwardIdDatasetReader, AwardIdDatasetRecord
+from kuali_cache import KualiCache
 def normalize_id(raw):
     # return raw[-5:]
     return raw
@@ -53,7 +53,7 @@ class TallyDict (UserDict):
         return keys
 
 
-class SmartPartialRecord (CsvRecord):
+class SmartPartialRecord (AwardIdDatasetRecord):
 
     def get_award_ids (self, column):
         """
@@ -64,26 +64,23 @@ class SmartPartialRecord (CsvRecord):
         """
         raw = self[column]
         vals = map (lambda x:x.strip(), raw.split(','))
-        # truncated = filter (None, map (lambda x: len(x)>5 and x[-5:] or None, vals))
-        truncated = filter (None, map (lambda x: len(x)>5 and normalize_id(x) or None, vals))
-        # we only want the unique values (e.g. crossref lists dups sometimes)
-        return list (set (truncated))
+        # return list (set (vals))
+        return vals
 
-class SmartPartialReader (CsvReader):
+        if 0:
+            # truncated = filter (None, map (lambda x: len(x)>5 and x[-5:] or None, vals))
+            truncated = filter (None, map (lambda x: len(x)>5 and normalize_id(x) or None, vals))
+
+            # we only want the unique values (e.g. crossref lists dups sometimes)
+            return list (set (truncated))
+
+class SmartPartialReader (AwardIdDatasetReader):
     record_class = SmartPartialRecord
+    award_id_column = 'validated_award_ids'
 
-    def __init__ (self, path):
-        self.path = path
-        CsvReader.__init__(self, path)
+    def __init__ (self, path, filter_args={}, sort_args={}):
+        AwardIdDatasetReader.__init__(self, path)
         self._tally_map = None
-        self._pid_map = None
-
-    def get_record (self, pid):
-        if self._pid_map is None:
-            self._pid_map = {}
-            for rec in self.data:
-                self._pid_map[rec['pid']] = rec
-        return self._pid_map[pid]
 
     def get_award_id_columns (self):
         return self.header[-3:]
@@ -104,11 +101,16 @@ class SmartPartialReader (CsvReader):
         return tally
     
     def get_tally_map (self):
+        """
+        tally_map maps a column (e.g., 'wos_awards_ids') to tally of
+        award_ids in that column (how many times each award_id is assgigned)
+        :return:
+        """
         if self._tally_map is None:
             self._tally_map = {}
             # for field in self.header[-3:]:
-            for field in self.get_award_id_columns():
-                self._tally_map[field] = self.tally_awards_in_column(field)
+            for column in self.get_award_id_columns():
+                self._tally_map[column] = self.tally_awards_in_column(column)
         return self._tally_map
 
     def report_tally_map (self):
@@ -153,7 +155,7 @@ class SmartPartialReader (CsvReader):
         for column in self.get_award_id_columns():
             tally = tally_map[column]
             print '\n{} ({})'.format(column, len (tally[normalized_id]))
-            if 0:  # print all the pids and their award_ids
+            if 1:  # print all the pids and their award_ids
                 for pid in tally[normalized_id]:
                     rec = self.get_record(pid)
                     ids = rec.get_award_ids(column)
@@ -163,15 +165,39 @@ class SmartPartialReader (CsvReader):
 
 
 if __name__ == '__main__':
-    path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/SMART_PARTIAL_OLD.csv'
+    path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/SMART_PARTIAL.csv'
     # path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/Cached_Award_Data.csv'
     reader = SmartPartialReader (path)
-
     print 'read',len(reader.data)
 
+    # reader.cache_coverage_report()
+    reader.dup_award_ids_report()
     # reader.report_tally_map()
-    reader.write_tally_map()
+    # reader.write_tally_map()
+
+    if 0:
+        rec = reader.pid_map['articles:24423']
+        ids = rec.get_award_ids(reader.award_id_column)
+        for id in ids:
+            print id
+        # tally = make_dup_tally(ids)
+        # print json.dumps(tally, indent=2)
 
     if 0: # report on a given award_id
-        award_id = '1852977'
-        reader.report_award_id('1852977')
+        award_id = '4'
+        reader.report_award_id(award_id)
+
+    if 0:
+        all_awards = []
+        for rec in reader.data:
+            awards = rec.get_award_ids(reader.award_id_column)
+            all_awards += awards
+
+        print 'all_awards: ', len(all_awards)
+        unique_awards = list(set (all_awards))
+        unique_awards.sort()
+        print 'unique_awards: ', len(unique_awards)
+        cache = KualiCache()
+        for award_id in unique_awards:
+            if not award_id in cache.values():
+                print award_id

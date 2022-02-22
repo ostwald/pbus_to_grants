@@ -143,6 +143,7 @@ class FetcherRequest(SolrRequest):
 
     def get (self):
         try:
+            # print 'GET baseurl is', self.baseUrl
             r = requests.get (self.baseUrl, params=self.params)
         except Exception, msg:
             raise Exception, "request Error: %s" % msg
@@ -158,7 +159,7 @@ class FetcherRequest(SolrRequest):
 
 class Fetcher(SolrObjectFetcher):
     batch_size = 1000
-    max_to_process = 100
+    max_to_process = 10000
     default_params = {
         'sort': 'PID asc'
     }
@@ -180,12 +181,11 @@ class Fetcher(SolrObjectFetcher):
 
 def get_args():
     query = 'mods_identifier_doi_mt:*'
-    # query = 'mods_note_funding_displayLabel_ms:*'
+    # query += 'mods_note_funding_displayLabel_ms:*'   # legacy funding
     query += ' AND keyDate:[2014-01-01T00:00:00Z TO *]'
-    # query += ' AND mods_note_funding_displayLabel_ms:*'
-    query += ' AND mods_note_funding_ms:*'
-    # query += ' AND fgs_createdDate_dt:[2020-04-02T00:00:00Z TO *]'
-    # query += ' AND fgs_createdDate_dt:[2021-01-08T00:00:00Z TO *]'
+    # query = ' mods_note_funding_displayLabel_ms:*'
+    #query = 'mods_note_funding_ms:*'  # all records with any funding info
+    # query += ' AND fgs_createdDate_dt:[2021-11-22T00:00:00Z TO *]'
     return {
         'params' : {
             # 'q' : 'mods_extension_collectionKey_ms:technotes',
@@ -233,11 +233,13 @@ def update_DOI_Reference ():
     print 'total numResults: {}'.format(fetcher.numResults)
     print 'fetched: {}'.format(len(fetcher.results))
     tab_delimited = fetcher.asTabDelimted()
-    print tab_delimited
+    # print tab_delimited
     # print 'tab_delimited is a {}'.format(type (tab_delimited))
 
     if 1:
-        out_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/tmp/DOI-LEGACY-REFERENCE_TABLE.tsv'
+        out_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/tmp/DOI-REFERENCE_TABLE.tsv'
+        # out_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/tmp/DOI-LEGACY-REFERENCE_TABLE.tsv'
+        # out_path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/tmp/ALL-FUNDING-REFERENCE_TABLE.tsv'
         fp = open(out_path, 'w')
         fp.write (tab_delimited.encode('utf8'))
         fp.close()
@@ -247,4 +249,3 @@ def update_DOI_Reference ():
 if __name__ == '__main__':
     # requestTester()
     update_DOI_Reference()
-    # update_LEGACY_DOI_Reference()

@@ -9,14 +9,13 @@ $READ_FROM_DISK = 'WHEN_POSSIBLE'; // 'ALWAYS' | WHEN_POSSIBLE' | 'NEVER"
 $BASE_DIR = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data';
 $CACHE_XML_RESPONSES = 1;
 
-
 function pid2doi ($pid) {
     if (!isset($GLOBALS['pid2doi_map'])) {
         $contents = file_get_contents ($GLOBALS['BASE_DIR'] . 'pid2doi.json');
         $GLOBALS['pid2doi_map'] = json_decode($contents, true);
     }
     if (!isset($GLOBALS['pid2doi_map'][$pid])) {
-        throw new Exception ("pid not found: $pid");
+        throw new Exception ("pid not found in pid2doi_map: $pid");
     }
     return $GLOBALS['pid2doi_map'][$pid];
 }
@@ -28,7 +27,7 @@ function doi2pid ($doi) {
         $GLOBALS['doi2pid_map'] = json_decode($contents, true);
     }
     if (!isset($GLOBALS['doi2pid_map'][$doi])) {
-        throw new Exception ('doi not found: ' . $doi);
+        throw new Exception ('doi not found in doi2pid_map: ' . $doi);
     }
 
     return $GLOBALS['doi2pid_map'][$doi];
@@ -40,7 +39,7 @@ function doi2date ($doi) {
         $GLOBALS['doi2date_map'] = json_decode($contents, true);
     }
     if (!isset($GLOBALS['doi2date_map'][$doi])) {
-        throw new Exception ("doi not found: $doi");
+        throw new Exception ("doi not found in doi2date_map: $doi");
     }
     return $GLOBALS['doi2date_map'][$doi];
 }
@@ -54,6 +53,7 @@ function get_crossref_from_disk ($doi) {
 }
 
 function get_source_from_disk ($doi, $source) {
+//    print "get_source_from_disk: $doi, $source\n";
     $pid = doi2pid($doi);
     $base = $GLOBALS['BASE_DIR'] . "metadata/$source/";
     $path = $base . str_replace(':', '_', $pid) . '.xml';
@@ -61,7 +61,8 @@ function get_source_from_disk ($doi, $source) {
     if (!file_exists ($path)) {
         throw new Exception ("file does not exist at $path");
     }
-    return file_get_contents($path);
+    $contents = file_get_contents($path);
+    return $contents;
 }
 
 /*
@@ -77,7 +78,7 @@ function get_crossref_dom ($doi) {
             try {
                 $crossref_xml_source = get_crossref_from_disk($doi);
             } catch (Exception $e) {
-//                print "caught error \n";
+//                print " ... caught error \n";
                 $crossref_xml_source = islandora_doi_perform_request_stand_alone($doi);
             }
         } else {
@@ -226,10 +227,10 @@ function opensky_doi_get_wos_response($doi) {
         echo $e->getMessage();
         $abstract = "Error";
     }
-
     if ($GLOBALS['CACHE_XML_RESPONSES']) {
         write_wos_response ($doi, $returnedxml_str);
     }
+    sleep (61); // self throttle - wos max is 5 per 5 minutes
 
     return $returnedxml_str;  // return xml string
 }
@@ -301,8 +302,6 @@ function islandora_doi_perform_request_stand_alone($id_or_url) {
     $url = $openurl . '?' . $query_str;
     $crossref_resp = file_get_contents($url) ."\n";
 
-    sleep(61);  // WOS Throttling!
-
     if ($GLOBALS['CACHE_XML_RESPONSES']) {
         write_crossref_response ($id, $crossref_resp);
     }
@@ -348,4 +347,27 @@ function islandora_doi_get_doi_name_from_url($doi_url) {
   return $doi_name;
 }
 
-
+/* mimic functionality of islandora config
+    here we hard code. the skip_award_ids are configured in stage and opensky.
+    The configs on PROD are the "truth", and the IDs here should be synced with PROD
+    if we are doing production work (like Kuali QA)
+    */
+//function get_skip_award_ids () {
+//
+//    return array(
+//    'DEAC0576L01830',
+//    'DEAC0576RL01830',
+//    'DEAC5207NA27344',
+//    'DEAC0500OR22725',
+//    'DEAC3608GO28308',
+//
+////        '01830',
+////        '99999',
+////        '27344',
+////        '22725',
+////        '28308',
+//        //        '56145', // do NOT skip (but do not resolve/display title in UI)
+//        //        '00036', // do NOT skip (but do not resolve/display title in UI)
+//        //        '55088', // do NOT skip (but do not resolve/display title in UI)
+//    );
+//}

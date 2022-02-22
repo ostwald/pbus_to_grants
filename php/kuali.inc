@@ -9,47 +9,73 @@
  *
  */
 
+$skip_award_ids = null;
+
+function get_skip_award_ids () {
+    return array (
+        '999999',
+        'DEAC0576L01830',
+        'DEAC0576RL01830',
+        'DEAC5207NA27344',
+        'DEAC0500OR22725',
+        'DEAC3608GO28308',
+    );
+}
+
+// -----------------------------------------------------------
+// Kuali common code below this line!!
+
 /**
- * Remove "special chars" (see regex) from given string
+ * Remove non-alpha/numeric characters (see regex) from given raw_award_id. Used to compare IDs
+ * e.g., to compare a given award_id with a kuali_id to determine if they match, even
+ * though they may not be identical.
+ * For example, DEAC5207NA27344 would match with 7na27344.
+ *
  * @param $raw
  * @return mixed
  */
-function sanitize_id ($raw) {
-    return preg_replace("/[^A-Za-z0-9 ]/", '', $raw);
+function sanitize_id ($raw_award_id) {
+    return strtoupper(preg_replace("/[^A-Za-z0-9]/", '', $raw_award_id));
 }
 
 /**
- * get the number stored in Kuali for a match
- *
- * @param $award_id
+  An opportunity to alter a given award id to aid the kuali match. Called
+  before the query award id is submitted to kuali.
+  */
+function preprocess_award_id($raw_award_id) {
+    /*  super Kludge - Kuali will not valiate AGS-0856145,
+        which is the cooperative agreement and is found in many
+        records (and on the web). Kuali does recognize ATM0856145
+        which is the same award.
+        This KLudge allows kuali to recognize AGS-0856145
+    */
+    if (endswith($raw_award_id, '0856145')) {
+        return '0856145';
+    }
+    return $raw_award_id;
+}
+
+/**
+ * get the award_id stored in Kuali for a match with provided award_id.
+ * note - the provided, or query, award_id may not exactly match a kuali_id.
+ * @param $award_id - provided, or query, award_id
  * @param $match_criterion
  * @return the kuali award_id that was matched, or null if there is no match
  */
 function get_kuali_award_id ($award_id, $match_criterion="SMART_PARTIAL") {
 //    print "get_kuali_award_id: $award_id\n";
 
+    $award_id = preprocess_award_id($award_id);
+
     // award info is the return from the Kuali API containing possibly many
     // hits
     $match_info = get_kuali_award_info ($award_id, $match_criterion);
     if (!$match_info) {
-        print "no info\n";
+//        print "no matching kuali record found\n";
         return null;
     }
 
-    // we look for matches in these fields.
-    // we return the first match we find.
-    $fields_to_check = array ('sponsorAwardId', 'fainId');
-    forEach ($fields_to_check as $field) {
-        // when comparing info fields with an award_id, if either is entirely consumed
-        // by the other, then we call it a match
-        print "- $match_info[$field]\n";
-        if (endswith(sanitize_id($match_info[$field]), sanitize_id($award_id))  ||
-            endswith(sanitize_id($award_id),sanitize_id($match_info[$field])))  {
-            return $match_info[$field];
-        }
-    }
-    print "never found\n";
-    return null;
+    return match_id_from_kuali_record ($award_id, $match_info);
 }
 
 /*
@@ -65,6 +91,32 @@ function get_kuali_award_info ($award_id, $match_criterion="SMART_PARTIAL") {
     return parse_kuali_award_info ($award_id, $kuali_resp, $match_criterion);
 }
 
+
+/**
+    return the Kuali_id in the kuali record that matches with the $award_id, or
+    null if a match is not found
+    */
+function match_id_from_kuali_record ($award_id, $kuali_record) {
+    $fields_to_check = array ('sponsorAwardId', 'fainId');
+    $query_award_id = sanitize_id ($award_id);
+
+//    print json_encode($kuali_record, JSON_PRETTY_PRINT) ."\n";
+
+    foreach($fields_to_check as $field) {
+        $kuali_award_id = $kuali_record[$field];
+        $sanitzed_kuali_award_id = sanitize_id($kuali_award_id);
+        if (endsWith($sanitzed_kuali_award_id, $query_award_id) ||
+            endsWith($query_award_id, $sanitzed_kuali_award_id)) {
+
+            if (is_skip_id ($kuali_award_id)) {
+                print "  - rejecting a skipped_id - $kuali_award_id\n";
+            }
+
+            return is_skip_id ($kuali_award_id) ? null : $kuali_award_id;
+        }
+    }
+    return null;
+}
 
 /*
  * Returns single Kuali API result for provided award_id if possible, null otherwise.
@@ -102,30 +154,13 @@ function parse_kuali_award_info ($award_id, $kuali_resp, $match_criterion="SMART
     foreach ($kuali_resp as $result) {
 
         // SMART_PARTIAL: try to match all non-special query chars with sponsorAwardId
-
         // look in sponsorAwardId and fainId for partial patch
 
-        $fields_to_check = array ('sponsorAwardId', 'fainId');
-        foreach($fields_to_check as $field) {
-
-            // normalize IDS (to remove any "special characters"
-            // NOTE: do we want to remove spaces??
-            $kuali_award_id = sanitize_id($result[$field]);
-            $sought_award_id = sanitize_id ($award_id);
-
-            // if $kuali_award_id is shorter than $sought_award_id, shorten $sought_award_id
-            // to match length (but shorten from left)
-            $extra = strlen($sought_award_id) - strlen($kuali_award_id);
-            if ($extra > 0) {
-                $sought_award_id = substr($sought_award_id, $extra);
-            }
-
-            if (endsWith($kuali_award_id, $sought_award_id)) {
-                print "$award_id - partial match with $field field\n";
-                return $result;
-            }
+        $kuali_id = match_id_from_kuali_record($award_id, $result);
+//        print "kuali_id: $kuali_id";
+        if ($kuali_id) {
+            return $result;
         }
-
     }
 
     // there are no strict matches and no SMART_PARTIAL matches
@@ -138,24 +173,12 @@ function parse_kuali_award_info ($award_id, $kuali_resp, $match_criterion="SMART
     return null;
 }
 
-/*
-    here we hard code. the skip_award_ids are configured in stage and opensky.
-    The configs on PROD are the "truth", and the IDs here should be synced with PROD
-    if we are doing production work (like Kuali QA)
-*/
-function get_skip_award_ids () {
-    return array(
-    'DEAC0576L01830',
-    'DEAC0576RL01830',
-//        '01830',
-//        '99999',
-//        '27344',
-//        '22725',
-//        '28308',
-        //        '56145', // do NOT skip (but do not resolve/display title in UI)
-        //        '00036', // do NOT skip (but do not resolve/display title in UI)
-        //        '55088', // do NOT skip (but do not resolve/display title in UI)
-    );
+/* cache the skip array */
+function is_skip_id ($award_id) {
+    if (!isset($GLOBALS['skip_award_ids'])) {
+        $GLOBALS['skip_award_ids'] = get_skip_award_ids();
+    }
+    return in_array ($award_id, $GLOBALS['skip_award_ids']);
 }
 
 /*
@@ -163,20 +186,12 @@ function get_skip_award_ids () {
  */
 function get_kuali_response($award_id) {
 
-    $skip_award_ids = get_skip_award_ids();
-
-    // we do not provide kuali info for skipped award ids
-    if (in_array (get_minimal_award_id($award_id), $skip_award_ids)) {
-        return null;
-    }
-
     $base_url = 'https://www.fin.ucar.edu/kualiapi/awardsbysponsorawardid';
 //    $base_url = 'http://fatomcat-test.fin.ucar.edu:8081/kualiapi/awardsbysponsorawardid';
     $username = 'openskykcapi';
     $password = 'W!n+er5now#';
 
     $ch = curl_init();
-//    print "query award_id: " . make_query_id($award_id) . "\n";
 
     $options = array(
         CURLOPT_URL => $base_url.'?sponsorAwardId='.make_query_id($award_id),
@@ -190,7 +205,7 @@ function get_kuali_response($award_id) {
 
     $response = json_decode($resp, true);
 
-    print json_encode($response, JSON_PRETTY_PRINT) ."\n";
+//    print json_encode($response, JSON_PRETTY_PRINT) ."\n";
 
     return $response;
 
@@ -205,18 +220,15 @@ function endsWith($haystack, $needle) {
     return (substr($haystack, -$length) === $needle);
 }
 
-function get_minimal_award_id ($award_id) {
-    $sanitized = sanitize_id($award_id);
-    $length = strlen($sanitized);
-    if ($length < 5) {
-        return $award_id;
-    }
-    return strtoupper(substr($sanitized, -5));
-}
-
+/**
+ * return the last 5 characters of the provided award_id, after it has
+ * been normalized to exclude non-alphas (but leave dashes in because Kuali
+ * leaves them in!!)
+ */
 function make_query_id ($award_id) {
     // important - leave dashes in
     $normalized = preg_replace("/[^A-Za-z0-9\-]/", '', $award_id);
+
     if (strlen($normalized) < 5) {
         return $award_id;
     } else {

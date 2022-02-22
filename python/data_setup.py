@@ -80,15 +80,15 @@ if __name__ == '__main__':
         out_path = os.path.join (base_path, 'OPENSKY_DOIS.txt')
         write_doi_listing (csv_path, out_path)
 
-    if 0:
+    if 1:
         out_path = os.path.join (base_path, 'doi2pid.json')
         write_doi2pid_json (csv_path, out_path)
 
-    if 0:
+    if 1:
         out_path = os.path.join (base_path, 'pid2doi.json')
         write_pid2doi_json (csv_path, out_path)
 
-    if 0:
+    if 1:
         out_path = os.path.join (base_path, 'doi2date.json')
         write_doi2date_json (csv_path, out_path)
 

@@ -19,7 +19,7 @@ $KUALI_RESPONSE_CACHE = get_kuali_response_cache();
 
 //$match_criterion = 'STRICT';
 //$match_criterion = 'NAIVE_PARTIAL';
-$match_criterion = 'SMART_PARTIAL';
+$match_criterion = 'SMART_PARTIAL';  // found to be best
 
 
 function get_kuali_response_cache () {
@@ -56,7 +56,7 @@ function write_get_kuali_response_cache() {
  *
  * Our approach is to
  * 1 - "tokenize" the award_id value by splitting it on spaces, then
- * 2 - keep only the tokens that might be award_ids (see get_award_id)
+ * 2 - keep only the tokens that might be award_ids (see get_award_id_token)
 
  *
  * @param $value - an award_id field obtained from WOS or CrossRef
@@ -64,7 +64,7 @@ function write_get_kuali_response_cache() {
  */
 function get_award_id_tokens ($value)
 {
-    $values = array_filter(array_map('get_award_id', explode(" ", $value)));
+    $values = array_filter(array_map('get_award_id_token', explode(" ", $value)));
 //    print_r($values);
     return $values;
 }
@@ -79,9 +79,9 @@ function get_award_id_tokens ($value)
  * @param $value -
  * @return mixed|null
  */
-function get_award_id ($value) {
+function get_award_id_token ($value) {
 
-    $val = preg_replace("/[^A-Za-z0-9 ]/", '', $value);
+    $val = preg_replace("/[^A-Za-z0-9- ]/", '', $value);
 
     if (strlen($val) < 5) {
         return null;
@@ -89,7 +89,6 @@ function get_award_id ($value) {
 
     // if it doesn't have a number, reject it
     preg_match("/[0-9]/", $val, $matches);
-
     return (sizeof($matches) < 1) ? null : $val;
 }
 
@@ -110,41 +109,17 @@ function tokenize_award_ids($award_fields) {
 
 }
 
+/**
+ * Returns an array containing the combined award_ids from wos and crossref sources.
+ */
 function merge_award_ids ($wos_award_ids, $crossref_award_ids) {
     $merged_award_ids = array_unique(array_merge($crossref_award_ids, $wos_award_ids));
     // $merged_award_ids[] = 'FA9550-16-1-0050';  // one that we KNOW will validate just to test
 
-    $tokenized_award_ids = tokenize_award_ids($merged_award_ids);
-    $deduped_award_ids = dedup_award_ids($tokenized_award_ids);
-
-    asort($deduped_award_ids);
-    return $deduped_award_ids;
+    $tokenized_award_ids = array_unique(tokenize_award_ids($merged_award_ids));
+    asort($tokenized_award_ids);
+    return $tokenized_award_ids;
 }
-
-// ------------------------
-
-/**
- * Remove items that are right-most substrings of another item in the given array
- *
- * @param $award_ids
- */
-function dedup_award_ids ($award_ids) {
-    $award_ids = array_unique($award_ids);
-    $deduped = array();
-    forEach ($award_ids as $candidate) {
-        $is_right_subset = false;
-        forEach ($award_ids as $id) {
-            if ((strlen($id) > strlen($candidate)) && endswith($id, $candidate)) {
-                $is_right_subset = true;
-            }
-        }
-        if (!$is_right_subset) {
-            $deduped[] = $candidate;
-        }
-    }
-    return $deduped;
-}
-
 
 // ------------------------
 
@@ -171,12 +146,15 @@ function objAsTabDelimited($obj) {
     return implode ("\t", $pieces);
 }
 
+/* now in utilities.inc) */
 function write_wos_response_OFF ($doi, $wos_dom) {
     $pid = doi2pid($doi);
     $path = $GLOBALS['BASE_DIR'] . 'metadata/wos/'. str_replace(':', '_', $pid) . '.xml';
     print "$path\n";
     file_put_contents($path, $wos_dom->saveXML());
 }
+
+/* now in utilities.inc) */
 
 function write_crossref_response_OFF ($doi, $crossref_dom) {
     $pid = doi2pid($doi);
@@ -203,7 +181,7 @@ function get_header() {
 
 function test_doi($doi, $match_criterion) {
 
-    $verbose = 0;
+    $verbose = 1;
     $save_xml_responses = $GLOBALS['CACHE_XML_RESPONSES'];
 
     $crossref = get_crossref_dom($doi);
@@ -220,19 +198,17 @@ function test_doi($doi, $match_criterion) {
 
     // get crossref award ids
     $crossref_award_ids = array();
-    if (true) {
-        // get award_ods from crossref
-        $xpath = new DOMXpath($crossref);
-        $selector = "//program/assertion/assertion[@name='award_number']";
-        $nodes = $xpath->query($selector);
+    // get award_ods from crossref
+    $xpath = new DOMXpath($crossref);
+    $selector = "//program/assertion/assertion[@name='award_number']";
+    $nodes = $xpath->query($selector);
 
-        if (is_null($nodes)) {
-            print 'award_id not found in CROSSREF';
-            return;
-        } else {
-            foreach ($nodes as $node) {
-                $crossref_award_ids[] = $node->nodeValue;
-            }
+    if (is_null($nodes)) {
+        print 'award_id not found in CROSSREF';
+//        return;
+    } else {
+        foreach ($nodes as $node) {
+            $crossref_award_ids[] = $node->nodeValue;
         }
     }
 
@@ -261,24 +237,11 @@ function test_doi($doi, $match_criterion) {
                 echo ("using CACHED Kuali repsonse for $award_id: $cached_award_id\n");
             }
         } else {
-//            echo ("using realtime Kuali repsonse for $award_id\n");
-            $resp = get_kuali_award_info($award_id, $match_criterion);
+            $kuali_award_id = get_kuali_award_id ($award_id, $match_criterion);
 
-
-            // find the kuali version of the award_id to put in metadata
-            if ($resp) {
-                // print json_encode($resp, JSON_PRETTY_PRINT);
-                // now pluck a value from the response. make sure the last
-                // 5 chars match
-                $fields_to_check = array ('sponsorAwardId', 'fainId');
-                foreach ($fields_to_check as $field) {
-                    $kuali_id = $resp[$field];
-                    if (substr($kuali_id, -5) == substr($award_id, -5)) {
-                        $validated_award_ids[] = $kuali_id;
-                        $GLOBALS['KUALI_RESPONSE_CACHE'][strval($award_id_key)] = $kuali_id;
-                        break;
-                    }
-                }
+            if ($kuali_award_id && !in_array($award_id_key, $validated_award_ids)) {
+                $validated_award_ids[] = $kuali_award_id;
+                $GLOBALS['KUALI_RESPONSE_CACHE'][strval($award_id_key)] = $kuali_award_id;
             }
             else {
                 $GLOBALS['KUALI_RESPONSE_CACHE'][strval($award_id_key)] = false;
@@ -286,13 +249,13 @@ function test_doi($doi, $match_criterion) {
         }
     }
 
-
     if (count(array_keys($GLOBALS['KUALI_RESPONSE_CACHE'])) > $num_cached_kuali_responses) {
         write_get_kuali_response_cache();
     }
 
-
+    $validated_award_ids = array_unique($validated_award_ids);
     asort($validated_award_ids);
+
     if ($verbose) {
         print ("\nValidated Award Ids\n");
         print_r($validated_award_ids);
@@ -327,7 +290,7 @@ function process_multiple_dois($doi_blob, $match_criterion) {
     $max = 7000;
     $dois_cnt = count($dois);
     $cnt = 0;
-    $start = 0;
+    $start = 1714;
     foreach ($dois as $doi) {
         if ($cnt < $start) {
             $cnt++;
@@ -349,6 +312,7 @@ function process_multiple_dois($doi_blob, $match_criterion) {
 //            echo "- $pid exists\n";
 //            continue;
 //        }
+
        echo "pid: $pid,  doi: $doi\n";
 
         try {
@@ -359,8 +323,7 @@ function process_multiple_dois($doi_blob, $match_criterion) {
         }
         $line = objAsTabDelimited($result) . "\n";
         file_put_contents ($output_file, $line, FILE_APPEND);
-        sleep (0.2);
-//         sleep(61);  // WOS Throttling!
+
         $cnt++;
         if ($cnt == $max) {
             break;
@@ -386,6 +349,7 @@ function test_single_doi ($doi, $match_criterion)
     $record = objAsTabDelimited($ret);
     echo "\nRETurNED:\n";
     echo($record . "\n");
+    return $record;
 }
 
 
@@ -418,11 +382,11 @@ function array_tester ()
 }
 
 
-test_process_multiple_dois($match_criterion);
+//test_process_multiple_dois($match_criterion);
 
 if (0) {
-    // DOI passed as command line argument, e.g. 10.1038/s41597-020-0534-3
-    // % php doi_tester.php
+    // DOI passed as command line argument, e.g.
+    // % php doi_tester.php 10.1038/s41597-020-0534-3
     if (count($argv) > 1) {
 //        test_single_doi($argv[1], $match_criterion);
         $crossref = get_crossref_dom($argv[1]);
@@ -436,7 +400,7 @@ if (0) {
     }
 }
 
-if (FALSE) {
+if (1) {
     // DOI passed as command line argument, e.g. 10.1038/s41597-020-0534-3
     // % php doi_tester.php
     if (count($argv) > 1) {
@@ -449,7 +413,20 @@ if (FALSE) {
 if (0) {  // KUALI RESP CACHE testing
 
     if (count($argv) > 1) {
-        test_single_pid($argv[1], $match_criterion);
+        $result = test_single_pid($argv[1], $match_criterion);
+        $segments = explode("\t", $result);
+//        print ("there are " . count($segments) . " segments\n");
+        $award_ids_str = explode("\t", $result)[3];
+//        print ("award_ids_str: $award_ids_str\n");
+        $award_ids = explode(',', $award_ids_str);
+        print ("award_ids has " . count($award_ids) . "\n");
+
+        print "\nHere goes\n";
+        foreach ($award_ids as $award_id) {
+            print ("$award_id\n") ;
+        };
+//        $unique_ids = array_unique($award_ids);
+//        print ("$unique_ids\n");
     } else {
         print "A PID is required\n";
     }

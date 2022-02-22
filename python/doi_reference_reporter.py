@@ -1,9 +1,9 @@
 """
-similar to smart_partial_txt, create a award tally by collumn so it can be
+similar to smart_partial_txt, create a award tally by column so it can be
 compared against smart_partial
 """
 import os, sys, re, traceback
-from smart_partial_txt import SmartPartialRecord, SmartPartialReader
+from smart_partial import SmartPartialRecord, SmartPartialReader
 
 class DoiRefRecord (SmartPartialRecord):
     pass

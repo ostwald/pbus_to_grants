@@ -29,7 +29,7 @@ class FilterSpec:
     """
     default_spec = {
         'start' : '2010-01-01',
-        'end' : '2021-06-30',
+        'end' : '2021-12-31',
         # 'date_field' : 'pub_date',
     }
 

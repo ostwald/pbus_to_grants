@@ -125,43 +125,6 @@ class AwardIdDatasetAdmin (AwardIdDatasetReader):
             print ' - {}'.format(pid)
             pass
 
-    def get_pids_with_bogus_wos (self):
-        bog = []
-        for rec in self.data:
-            if rec['wos_award_ids'] == 'AGS-1240604,CHE-1508526,NNX14AP46G,AGS-1331360':
-                bog.append(rec['pid'])
-        return bog
-
-    def rid_pids_with_bogus_wos (self):
-        bog = []
-        lines = []
-        lines.append(self.header)
-        for rec in self.data:
-            if rec['wos_award_ids'] == 'AGS-1240604,CHE-1508526,NNX14AP46G,AGS-1331360':
-                bog.append(rec['pid'])
-            else:
-                lines.append(rec.data)
-
-        print '{} bog recs found'.format(len(bog))
-        print '{} records kept'.format(len(lines) -1)
-        print '{} total records originally'.format(len(self.data))
-
-        if 0:  # already done
-            out_path = os.path.join (os.path.dirname(self.path), 'FILTERED.txt')
-            fp = open(out_path, 'w')
-            fp.write ('\n'.join (map (lambda x:'\t'.join(x), lines)))
-            fp.close ()
-            print 'wrote to ', out_path
-
-        if 1:  # delete bog wos files on disk
-            for pid in bog:
-                filename = pid.replace (':', '_') + '.xml'
-                path = os.path.join (os.path.dirname(self.path), 'metadata', 'wos', filename)
-                if not os.path.exists (path):
-                    print "{} does not exist".format (pid)
-                else:
-                    # os.remove(path)
-                    pass
 
 def compare (path1, path2):
     reader1 = AwardIdDatasetAdmin (path1)

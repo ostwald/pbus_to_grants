@@ -10,10 +10,11 @@ for each pid we want to
     some of the values are verbose (e.g., "National Aeronautics and Space Administration (NASA): NNG06GB27G")
     use functionality from back_fill to get the testable id (e.g., "NNG06GB27G")
     - if it a skip award_id, remove legacy id element
-    - get kuali-verified award_id
-    - if legacy award_id is a kuali-verified value
-        add to metadata if it is not there already
-        remove the legacy element
+    - else
+        - get kuali-verified award_id
+        - if legacy award_id is a kuali-verified value
+            add to metadata if it is not there already
+            remove the legacy element
 
 so for each legacy award_id here are the possible operations:
 - add verified id
@@ -27,22 +28,27 @@ from UserDict import UserDict
 from back_fill import NotesMODS
 from python.client import KualiClient
 from legacy_award_id_cache import LEGACY_AWARD_CACHE
+from kuali_cache import KualiCache
 
-sys.path.append ('/Users/ostwald/devel/projects/library-utils')
-sys.path.append ('/Users/ostwald/devel/projects/library-admin')
 from ncarlibutils.fedora import CONFIG
 from ncarlibadmin.islandora_client import IslandoraObject
 from ncarlibadmin.batch import clean_mods
+import ncarlibadmin.batch.feed as feeds
 from lxml import etree as ET
 
 XSLT_CLEAN_PATH = '/Users/ostwald/devel/projects/library-admin/ncarlibadmin/batch/job/fall_2016/xslt/cleanup.xsl'
 LEGACY_FUNDER_PAT = re.compile('.*?:(.*)')  #  abbrev ignored
 SANITIZE_PAT = re.compile('[^A-Za-z0-9 ]')
 TOKEN_PAT = re.compile('[\d]')
-SKIP_IDS = [
-   '01830', '99999'
-]
 
+SKIP_IDS = [  # see https://stage.ucar.dgicloud.com/admin/config/system/openskydora
+    '999999',
+    'DEAC0576L01830',
+    'DEAC0576RL01830',
+    'DEAC5207NA27344',
+    'DEAC0500OR22725',
+    'DEAC3608GO28308',
+]
 
 class LegacyAwardId:
 
@@ -122,12 +128,15 @@ class LegacyAwardIdTable (CsvReader):
 
     def __init__ (self, path):
         self.kuali_client = KualiClient()
-
+        self.kuali_cache = KualiCache ()
         CsvReader.__init__(self, path)
         self.pid_map = UserDict()
 
         for rec in self.data:
             self.pid_map[rec.pid] = rec
+
+    def get_record (self, pid):
+        return self.pid_map[pid]
 
     def get_unique_legacy_award_ids(self):
         all_ids = []
@@ -135,7 +144,7 @@ class LegacyAwardIdTable (CsvReader):
             legacy_ids = map (LegacyAwardId, rec.legacy_award_ids)
             for id in legacy_ids:
                 all_ids += id.tokens
-        print 'all_ids is a {}'.format(type(all_ids))
+        # print 'all_ids is a {}'.format(type(all_ids))
         all_set = set(all_ids)
         print 'there are {} uniques'.format(len(all_set))
         uniques = list(all_set)
@@ -157,66 +166,10 @@ class LegacyAwardIdTable (CsvReader):
         return uniques
 
     def get_kuali_id (self, award_id):
-        return self.kuali_client.get_kuali_award_id(award_id)
-
-    def get_sync_script(selfs, verbose=0):
-        script = []
-        for i, rec in enumerate(syncer.data):
-            if verbose:
-                print '\n', i+2
-            pid = rec.pid
-            # print pid
-            object_sync_script = syncer.get_object_sync_script(pid, verbose=verbose)
-            if verbose:
-                print object_sync_script
-            if len(object_sync_script['ops']) > 0:
-                script.append(object_sync_script)
-
-        return script
-
-    def get_object_sync_script (self, pid, verbose=0):
-        rec = self.pid_map[pid]
-        validated_kuali_ids = rec['award_ids']
-
-        legacy_id_objects = map (LegacyAwardId, rec['legacy_award_ids'].split(','))
-        # print pid, rec.legacy_award_ids, rec['legacy_award_ids'].split(',')
-
-        # print len(legacy_id_objects), 'legacy_id_objects'
-        # return
-        object_sync_script = {'pid' : pid, 'ops' : []}
-        for i, legacy_id_obj in enumerate(legacy_id_objects):
-            ids_from_tokens = [] # collect verified kuali ids
-            if len(legacy_id_obj.tokens) > 0:
-                if verbose:
-                    print '{} - ({}) - {}'.format(pid, len(legacy_id_obj.tokens), legacy_id_obj.raw)
-
-                for token in legacy_id_obj.tokens:
-                    if not self.kuali_client.accept_award_id(token):
-                        object_sync_script['ops'].append({'op':'remove', 'id':token})
-                        continue
-                    id = LEGACY_AWARD_CACHE[token]
-                    if id is not None:
-                        ids_from_tokens.append(id)
-
-                if len(ids_from_tokens) == 0:
-                    if verbose:
-                        print 'Keep legacy_award_id - ', legacy_id_obj.raw
-
-                if len(ids_from_tokens) > 1:
-                    raise Exception, 'Mulitiple ids from tokens {}: {}'.format(pid, legacy_id_obj.raw)
-                if len(ids_from_tokens) == 1:
-                    kuali_id = ids_from_tokens[0]
-                    # print '\n', pid
-                    # print '{} - ({}) - {}'.format(pid, kuali_id, legacy_id_obj.raw)
-                    if verbose:
-                        print 'remove legacy_award_id - ', legacy_id_obj.raw
-                    object_sync_script['ops'].append({'op' : 'remove', 'id' : legacy_id_obj.raw})
-
-                    if not kuali_id in validated_kuali_ids:
-                        if verbose:
-                            print 'add award_id', kuali_id
-                        object_sync_script['ops'].append({'op' : 'add', 'id' : kuali_id})
-        return  object_sync_script
+        if 0: # we don't want to maintain the kuali_client
+            return self.kuali_client.get_kuali_award_id(award_id)
+        if 1: # use cached
+            return self.kuali_cache.find_kuali_id(award_id)
 
     def backup_obj (self, pid, mods):
         path = self.get_backup_path(pid)
@@ -225,67 +178,104 @@ class LegacyAwardIdTable (CsvReader):
             return
         fp = open(self.get_backup_path(pid), 'w')
         fp.write (mods)
+        fp.close()
 
     def get_backup_path(self, pid):
         backupdir = '/Users/ostwald/tmp/pubs_to_grants_legacy_sinc_backups'
+        if not os.path.exists(backupdir):
+            os.mkdir(backupdir)
         filename = pid.replace (':', '_') + '.xml'
         return os.path.join (backupdir, filename)
 
     def do_sync(self):
-        sync_script = self.get_sync_script()
-        for item in sync_script:
-            pid = item['pid']
-            print '\n-', pid
-            if os.path.exists(self.get_backup_path(pid)):
-                print 'already synced'
-                continue
-            ops = item['ops']
-            self.sync_object(pid, ops)
-
+        for record in self.data:
+            self.sync_record (record)
         print 'sync is complete'
 
-    def sync_object(self, pid, ops):
-        obj = IslandoraObject (pid)
-        # print obj.get_mods_datastream()
-        mods = NotesMODS(obj.get_mods_datastream(), pid)
-        backup_mods_xml = str(mods)
-        object_changed = False
+    def get_unknown_legacy_ids(self):
+        """
+        :return: a list if legacy id tokens unknown to kuali_cache
+        """
+        unique_legacy_ids = self.get_unique_legacy_award_ids()
+        keys = self.kuali_cache.keys()
+        unknown_ids = [];add = unknown_ids.append
+        for id in unique_legacy_ids:
+            try:
+                id = u(id)
+            except:
+                pass
+            if not id in keys:
+                add (id)
+        return unknown_ids
 
-        for action in ops:
-            op = action['op']
-            if op == 'add':
-                award_id = action['id']
-                verified_ids = map (lambda x:x.text, mods.get_funding_notes(filter_spec='verified_only'))
-                if award_id in verified_ids:
-                    print '- add: {} already exists'.format(award_id)
-                    continue
-                mods.add_funding_note (award_id)
-                object_changed = True
+    def write_unknown_legacy_ids(self, outpath='/Users/ostwald/tmp/UNKNOWN_LEGACIES.txt'):
+        unknown_ids = self.get_unknown_legacy_ids()
+        fp = open(outpath, 'w')
+        fp.write ('\n'.join(unknown_ids))
+        fp.close()
+        print 'wrote to', outpath
 
-            if op == 'remove':
-                legacy_id = action['id']
-                print 'removing legacy id:', legacy_id
-                legacy_ids = map (lambda x:x.text, mods.get_funding_notes(filter_spec='legacy_only'))
-                if not legacy_id in legacy_ids:
-                    print '- remove: {} already removed'.format(legacy_id)
-                    continue
-                mods.remove_funding_note(legacy_id, is_legacy=True)
-                object_changed = True
+    def sync_record(self, record):
+        pid = record['pid']
+        legacy_ids = map (LegacyAwardId, record.legacy_award_ids)
+        for id in legacy_ids:
+            # print id.tokens
+            # use the info in the spreadsheet to indidate whether there are kualified legacy ids
+            kualified_legacy_ids = filter (None, map (lambda x:self.kuali_cache.find_kuali_id(x), id.tokens))
+            if len(kualified_legacy_ids) > 0:
+                print '{} - award_ids: {}, kualified_legacy_ids: {}'.format(pid, record.award_ids, kualified_legacy_ids)
 
-        if object_changed:
-            if self.dowrites:
-                self.backup_obj(pid, backup_mods_xml)
-                mods_tree = clean_mods(mods.dom, XSLT_CLEAN_PATH)
-                obj.put_mods_datastream (ET.tostring(mods_tree, pretty_print=1))
-                print 'updated', pid
-                time.sleep(0.95)
-            else:
-                print pid, 'verified award_ids after update'
-                print '- verified award_ids:', map(lambda x:x.text, mods.get_funding_notes('verified_only'))
-                print '- legacy award_ids:\n - ', '\n - '.join(map(lambda x:x.text, mods.get_funding_notes('legacy_only')))
-                # print mods
-        else:
-            print '{} not changed'.format(pid)
+                """
+                now that we know there are kualified ids (and this MODS must be modified),
+                for each legacy id
+                    if we can make any of the tokens into a Kuali_id
+                    - remove the legacy id element
+                    - if the kuali_id isn't in "award_ids" insert it as kuali_id
+                    if any of the tokens are a skip_id
+                    - remove the legacy id element
+                """
+                islandora_object = IslandoraObject (pid)
+                # print islandora_object.get_mods_datastream()
+                legacy_award_selector = '/mods:mods/mods:note[@type="funding" and @displayLabel]'
+                mods = islandora_object.get_mods_record()
+                backup_mods_xml = str(mods)
+                object_changed = False
+                legacy_id_nodes = mods.selectNodesAtPath(legacy_award_selector)
+                print '- {} legacy_id_nodes found'.format(len(legacy_id_nodes))
+                for node in legacy_id_nodes:
+                    legacy_id = LegacyAwardId(node.text)
+                    tokens = legacy_id.tokens
+                    print '-- {}: {}'.format(legacy_id.raw, tokens)
+                    for token in tokens:
+                        kuali_id = self.kuali_cache.find_kuali_id(token)
+                        if kuali_id:
+                            if kuali_id in SKIP_IDS or kuali_id in record.award_ids:
+                                node.getparent().remove(node)
+                                object_changed = True
+                                print ' --- deleted'
+                                break # go on to next node
+                            else:  # change this legacy award node to a kuali_id
+                                del(node.attrib['displayLabel'])
+                                node.text = kuali_id
+                                object_changed = True
+                                print ' --- converted legacy to kuali_id'
+                                break
+                if object_changed:
+                    #  cleanup
+                    cleaned_mods = clean_mods(mods.dom, XSLT_CLEAN_PATH)
+                    mods_xml = ET.tostring(cleaned_mods, pretty_print=1, encoding='utf8')
+                    if self.dowrites:
+                        self.backup_obj (pid, backup_mods_xml)
+
+                        islandora_object.put_mods_datastream (mods_xml)
+                        print '- updated', pid
+                        time.sleep(.5)
+                    else:
+                        print '- woulda updated', pid
+
+
+
+
 
 def make_legacy_award_id_map(syncer):
     uniques = syncer.get_unique_legacy_award_ids()
@@ -294,36 +284,25 @@ def make_legacy_award_id_map(syncer):
         kuali_id = syncer.get_kuali_id(award_id)
         print '"{}" : "{}",'.format(award_id, kuali_id)
 
-def sync_tester(syncer):
-
-    script_map = {}
-
-    if 1:
-        sync_script = syncer.get_sync_script()
-        # print json.dumps(sync_script, indent=3)
-        for item in sync_script:
-            # print '\n', item['pid']
-            # for op in item['ops']:
-            #     print '-', op['op'], ':', op['id']
-            script_map[item['pid']] = item['ops']
-
-    if 1:
-        pid = 'articles:17387'
-        ops = script_map[pid]
-        print json.dumps(ops, indent=2)
-        syncer.sync_object(pid, ops)
 
 if __name__ == '__main__':
-    path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/LEGACY-AWARD_REFERENCE_TABLE.csv'
+    path = '/Users/ostwald/devel/opensky/pubs_to_grants/ARTICLES_award_id_data/DOI-LEGACY-REFERENCE_TABLE.csv'
     syncer = LegacyAwardIdTable (path)
 
-    # script = syncer.get_sync_script()
-    # print json.dumps(script, indent=2)
-
-    # sync_tester(syncer)
     syncer.do_sync()
-    # make_legacy_award_id_map(syncer)
+
+    if 0: # unique legacy ids
+        unique_tokens = syncer.get_unique_legacy_award_ids()
+        skip_shorts = map (lambda x:x[-5:], SKIP_IDS)
+        for id in unique_tokens:
+            if id[-5:] in skip_shorts:
+                print '{}'.format(id)
 
 
-    # pid = 'articles:17006'
-    # syncer.sync_object(pid)
+    if 0:
+        pid = 'articles:14251'
+        pid = 'articles:17548'
+        pid = 'articles:22993'
+        # pid = 'articles:20853'
+        record = syncer.get_record(pid)
+        syncer.sync_record(record)

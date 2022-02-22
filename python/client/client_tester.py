@@ -43,7 +43,7 @@ if __name__ == '__main__':
     # award_id = '1755088'  # 17 hits
     # award_id = '10167'  #
     # award_id = 'WROC10167'  #
-    award_id = '61070'  #
+    award_id = '10-1110-NCAR '  #
 
     # get_kuali_response_tester (award_id)
     # parse_kuali_award_info_tester (award_id)
